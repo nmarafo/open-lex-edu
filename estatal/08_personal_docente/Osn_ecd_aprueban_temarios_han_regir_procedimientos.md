@@ -1,14 +1,10 @@
 ---
 id: norm-es-2004-5771
 codigo_sintetizado: BOE-A-2004-5771
-titulo: Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que
-  han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición
-  de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño
-  y Maestros de Taller de Artes Plásticas y Diseño.
+titulo: Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2004-03-31'
 boletin: BOE
@@ -19,39 +15,38 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- curriculo
-- ensenanzas-artisticas
-- oposiciones
-- oposiciones-y-acceso
-- profesorado
+  - curriculo
+  - ensenanzas-artisticas
+  - oposiciones
+  - oposiciones-y-acceso
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-ce-1978
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-2001-7022
+    - '27'
+    - norma_id: norm-es-2001-7022
 ---
+# Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 
 ## Preámbulo
 
-# Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
+La disposición adicional decimocuarta de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, dispone que el Gobierno, previa consulta a las Comunidades Autónomas, determinará las especialidades de Profesores de Artes Plásticas y Diseño y de Maestros de Taller de Artes Plásticas y Diseño a las que deben adscribirse los funcionarios docentes de dichos cuerpos. Esta previsión se ha cumplido, con la entrada en vigor del Real Decreto 1284/2002, de 5 de diciembre, por el que se establecen las especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, se adscriben a ellas los profesores de dichos cuerpos y se determinan los módulos, asignaturas y materias que deberán impartir.
 
-# Orden ECD/826/2004, de 22 de marzo, por la que se aprueban los temarios que han de regir en los procedimientos selectivos para el ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
+Por todo ello y conforme a lo dispuesto en la disposición adicional undécima de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, y al artículo 19 l.
 
-La disposición adicional decimocuarta de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, dispone que el Gobierno, previa consulta a las Comunidades Autónomas, determinará las especialidades de Profesores de Artes Plásticas y Diseño y de Maestros de Taller de Artes Plásticas y Diseño a las que deben adscribirse los funcionarios docentes de dichos cuerpos. Esta previsión se ha cumplido, con la entrada en vigor del Real Decreto 1284/2002, de 5 de diciembre, por el que se establecen las especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, se adscriben a ellas los profesores de dichos cuerpos y se determinan los módulos, asignaturas y materias que deberán impartir.
+Real Decreto 334/2004, de 27 de febrero, procede ahora la regulación de los temarios a los que habrán de ajustarse las pruebas de la fase de oposición de los procedimientos selectivos que se convoquen para el ingreso, accesos y adquisición de las nuevas especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 
-Por todo ello y conforme a lo dispuesto en la disposición adicional undécima de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, y al artículo 19 del Real Decreto 334/2004, de 27 de febrero, procede ahora la regulación de los temarios a los que habrán de ajustarse las pruebas de la fase de oposición de los procedimientos selectivos que se convoquen para el ingreso, accesos y adquisición de las nuevas especialidades de los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
+En su virtud, previa consulta a las Comunidades Autónomas y en uso de la habilitación concedida en el citado artículo 19 del Real Decreto 334/2004, de 27 de febrero, dispongo:
 
-En su virtud, previa consulta a las Comunidades Autónomas y en uso de la habilitación concedida en el citado artículo 19 del Real Decreto 334/2004, de 27 de febrero, dispongo:
-
-#### Primero. Objeto de la norma.
+#### Primero. Objeto de la norma.
 
 La presente orden establece los temarios que han de regir en los procesos selectivos para el ingreso, accesos y adquisición de nuevas especialidades en los Cuerpos de Profesores de Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño.
 
-#### Segundo. Relación de Especialidades para las que se aprueban los temarios.
+#### Segundo. Relación de Especialidades para las que se aprueban los temarios.
 
 Los temarios que se aprueban por la presente orden son los correspondientes a las siguientes especialidades:
 
@@ -141,29 +136,31 @@ Técnicas del metal.
 
 Técnicas murales. Técnicas textiles.
 
-#### Tercero. Temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico de la especialidad.
+#### Tercero. Temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico de la especialidad.
 
 1. Los temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico, serán los establecidos en el anexo I a la presente orden para las especialidades del Cuerpo de Profesores de Artes Plásticas y Diseño.
 
 2. Los temarios relativos a los conocimientos propios y específicos del ámbito cultural, científico, técnico o artístico serán los establecidos en el anexo II a la presente orden para las especialidades del Cuerpo de Maestros de Taller de Artes Plásticas y Diseño.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden.
 
-#### Disposición final primera. Ámbito de aplicación.
+#### Disposición final primera. Ámbito de aplicación.
 
-Esta orden tiene carácter de norma básica y se dicta al amparo de lo previsto en el artículo 149.1.1.a, 18.a y 30.a de la Constitución Española y de conformidad con la habilitación conferida al Ministro de Educación, Cultura y Deporte en el apartado 1 del artículo 19 del Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación.
+Esta orden tiene carácter de norma básica y se dicta al amparo de lo previsto en el artículo 149.1.1.a, 18.a y 30.a de la Constitución Española y de conformidad con la habilitación conferida al Ministro de Educación, Cultura y Deporte en el apartado 1 del artículo 19 l.
 
-#### Disposición final segunda. Entrada en vigor.
+Real Decreto 334/2004, de 27 de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes que imparten las enseñanzas escolares del sistema educativo y en el Cuerpo de Inspectores de Educación.
 
-Madrid, 22 de marzo de 2004.
+#### Disposición final segunda. Entrada en vigor.
+
+Madrid, 22 de marzo de 2004.
 
 DEL CASTILLO VERA
 
 Excmo. Sr. Secretario de Estado de Educación y Universidades e Ilma. Sra. Secretaria general de Educación y Formación Profesional.
 
-ANEXO I
+## Anexo I
 
 **TEMARIOS CORRESPONDIENTES A LAS ESPECIALIDADES DEL CUERPO DE PROFESORES DE ARTES PLÁSTICAS Y DISEÑO**
 
@@ -1165,7 +1162,7 @@ Especialidad: Dibujo Artístico y Color
 
 19. Arte e industria en el siglo XX. La Bauhaus, de Stijl, la influencia del movimiento moderno. El diseño y la producción industrial.
 
-20. Concepto de arte desde 1945 hasta nuestros días. Nuevos materiales y soportes.
+20. Concepto de arte desde 1945 hasta nuestros días. Nuevos materiales y soportes.
 
 21. El artista y la sociedad, sus relaciones a través de la historia. Gremio, taller y escuela. La aparición del diseñador.
 
@@ -1433,13 +1430,13 @@ Especialidad: Dibujo Técnico
 
 72. El dibujo asistido por ordenador. Software y campos de aplicación. Diferencias con los métodos de dibujo tradicionales. CAD, CAM, CAE. Su influencia en la enseñanza del dibujo técnico. Métodos de enseñanza en el aula.
 
-73. El diseño y la proyectación asistida por ordenador. El CAD como herramienta de diseño, fundamentos. Su repercusión en el proceso proyectual. Software de dibujo técnico de 2D y software de 3D. Aplicaciones.
+73. El diseño y la proyectación asistida por ordenador. El CAD como herramienta de diseño, fundamentos. Su repercusión en el proceso proyectual. Software de dibujo técnico de 2D y software de 3D. Aplicaciones.
 
 74. AutoCAD como programa estándar de dibujo asistido por ordenador. Características principales. Versiones. Campos de aplicación. Otros programas alternativos del mercado. Comparación crítica.
 
 75. AutoCAD como herramienta de dibujo. Funcionamiento general del programa. Menús y herramientas. Comandos de dibujo, edición y consulta. Manejo de capas y bloques. Filosofía de trabajo.
 
-76. AutoCAD como herramienta de dibujo. Comandos de visualización. Edición de textos y acotación. Sistemas de coordenadas. Entornos de trabajo y presentación. Dibujo en 3D. Generación de superficies y modelado de sólidos.
+76. AutoCAD como herramienta de dibujo. Comandos de visualización. Edición de textos y acotación. Sistemas de coordenadas. Entornos de trabajo y presentación. Dibujo en 3D. Generación de superficies y modelado de sólidos.
 
 77. Generación informática de modelos tridimensionales e imágenes fotorrealísticas. El concepto de modelado, renderizado y animación. Luces, cámaras, materiales y texturas. Superficies y sólidos. Software.
 
@@ -1687,7 +1684,7 @@ Especialidad: Diseño de Moda
 
 40. Las técnicas pictóricas: grasas, sintéticas, mixtas. Soportes, materiales y procedimientos. Idoneidad con relación a la finalidad de la representación. Su aplicación en la representación de diseños y productos del sector moda.
 
-41. Las nuevas tecnologías en la ilustración y representación de productos del sector moda. Software específico, software de 2D y 3D para la creación de tejidos, modelos, colores y texturas.
+41. Las nuevas tecnologías en la ilustración y representación de productos del sector moda. Software específico, software de 2D y 3D para la creación de tejidos, modelos, colores y texturas.
 
 42. El diseño: teorías y fundamentos. Forma, función y estructura. El proceso de diseño y sus metodologías. Arte, artesanía y diseño: interrelación y diferenciación con relación al producto del sector moda.
 
@@ -1779,13 +1776,13 @@ Especialidad: Diseño de Producto
 
 10. La evolución industrial y tecnológica después de la segunda guerra mundial, producción masiva y repercusión social. La sociedad de consumo. Consolidación del diseño y el márqueting como profesiones plenas asociadas a la industria. Consumo y comunicación masiva.
 
-11. El diseño industrial en los Estados Unidos después de la 2.a gran guerra, Principales diseñadores americanos y su obra. Aportación de los maestros de la Bauhaus a la arquitectura y al diseño americanos.
+11. El diseño industrial en los Estados Unidos después de la 2.a gran guerra, Principales diseñadores americanos y su obra. Aportación de los maestros de la Bauhaus a la arquitectura y al diseño americanos.
 
-12. Antecedentes e inicios del diseño industrial en España. Nacimiento y desarrollo en la España de los 60 y 70. Tendencias, creadores y productos.
+12. Antecedentes e inicios del diseño industrial en España. Nacimiento y desarrollo en la España de los 60 y 70. Tendencias, creadores y productos.
 
-13. El diseño industrial en la España de los 80. Tendencias, creadores y productos.
+13. El diseño industrial en la España de los 80. Tendencias, creadores y productos.
 
-14. El diseño industrial en España a partir de los 90. Diseñadores, productos y empresas relevantes, situación profesional, institucional y educativa.
+14. El diseño industrial en España a partir de los 90. Diseñadores, productos y empresas relevantes, situación profesional, institucional y educativa.
 
 15. Momento actual del diseño en Europa. Corrientes estéticas, diseñadores y productos. Empresas e instituciones.
 
@@ -1899,11 +1896,11 @@ Especialidad: Diseño de Producto
 
 70. La informática y su incidencia en el diseño y la producción en serie. Evolución y situación actual.
 
-71. Diseño asistido por ordenador. Sistemas digitales de representación y prefiguración. CAD industrial. Software de 2D y 3D.
+71. Diseño asistido por ordenador. Sistemas digitales de representación y prefiguración. CAD industrial. Software de 2D y 3D.
 
 72. Fabricación industrial asistida por ordenador. Sistemas CAD-CAM. Máquinas computarizadas. Herramientas de CNC.
 
-73. Realización rápida de prototipos. Modelización mediante medios informáticos. Plotter 3D.
+73. Realización rápida de prototipos. Modelización mediante medios informáticos. Plotter 3D.
 
 74. Nuevas tecnologías de la comunicación y transferencia de datos. Incidencia en el diseño y su gestión.
 
@@ -1951,11 +1948,11 @@ Especialidad: Diseño Gráfico
 
 17. El diseño gráfico en los Estados Unidos tras la segunda guerra mundial: la influencia de los emigrantes europeos. Los diseñadores e ilustradores norteamericanos de la primera mitad del siglo XX. La consolidación del estilo americano: el papel de las agencias, los estudios, el diseño editorial y la fotografía e ilustración en el desarrollo del diseño.
 
-18. El diseño gráfico en los Estados Unidos desde los años 60 hasta la actualidad. Evolución. Acontecimientos profesionales y figuras más destacables.
+18. El diseño gráfico en los Estados Unidos desde los años 60 hasta la actualidad. Evolución. Acontecimientos profesionales y figuras más destacables.
 
-19. El diseño gráfico en Europa hasta los años 60: periodos históricos. Los estilos nacionales. Tradición y renovación en la tipografía europea.
+19. El diseño gráfico en Europa hasta los años 60: periodos históricos. Los estilos nacionales. Tradición y renovación en la tipografía europea.
 
-20. El diseño gráfico en Europa desde los años 60 a la actualidad: evolución. Acontecimientos profesionales y figuras más destacables.
+20. El diseño gráfico en Europa desde los años 60 a la actualidad: evolución. Acontecimientos profesionales y figuras más destacables.
 
 21. El diseño gráfico en el resto del mundo. Características estilísticas nacionales. Evolución. Acontecimientos profesionales y figuras más destacables.
 
@@ -1973,7 +1970,7 @@ Especialidad: Diseño Gráfico
 
 28. La fotografía en el diseño gráfico y la publicidad. La importancia de la imagen. La relación entre la imagen y el texto. La selección de fotografías: aspectos comunicativos y técnicos. La fotografía aplicada a los productos editoriales.
 
-29. La animación de imágenes: orígenes y principios teóricos. Técnicas de animación. Animación 2D y 3D. Figuras más destacables.
+29. La animación de imágenes: orígenes y principios teóricos. Técnicas de animación. Animación 2D y 3D. Figuras más destacables.
 
 30. La narrativa audiovisual y el cine publicitario. Principios teóricos del lenguaje audiovisual. Su aplicación a la publicidad.
 
@@ -2017,7 +2014,7 @@ Especialidad: Diseño Gráfico
 
 50. Software de dibujo bitmap. Resolución y tratamiento de la imagen. Formatos de archivo. Dispositivos de entrada y salida.
 
-51. Software de diseño y animación en 3D. Su presencia en el diseño gráfico.
+51. Software de diseño y animación en 3D. Su presencia en el diseño gráfico.
 
 52. La comunicación mediante sistemas multimedia. Conceptos teóricos sobre el diseño para la interactividad. Arquitectura de la información y usabilidad. Desarrollo de aplicaciones multimedia.
 
@@ -2165,7 +2162,7 @@ Especialidad: Diseño Textil
 
 44. Las técnicas pictóricas: grasas, sintéticas, mixtas. Soportes, materiales y procedimientos. Idoneidad con relación a la finalidad de la representación. Su aplicación en la representación de diseños y productos textiles.
 
-45. Las nuevas tecnologías en la exploración de opciones creativas para la ilustración y representación del producto textil. Software textil específico, software de 2D y 3D para la creación de tejidos, modelos, colores y texturas.
+45. Las nuevas tecnologías en la exploración de opciones creativas para la ilustración y representación del producto textil. Software textil específico, software de 2D y 3D para la creación de tejidos, modelos, colores y texturas.
 
 46. El diseño de la comunicación del producto textil. Las estrategias de márketing y de presentación del producto textil. La marca y la imagen del producto. La publicidad y las publicaciones especializadas. Los nuevos medios: internet.
 
@@ -2241,7 +2238,7 @@ Especialidad: Edición de Arte
 
 6. Orígenes y evolución de la edición de arte. Las vanguardias históricas, el período de entreguerras y su aportación al arte gráfico y la edición. Editores y editoriales. Artistas, autores y obras más importantes.
 
-7. La edición de arte y las vanguardias europeas y americanas a partir de 1945. Principales movimientos artísticos y literarios, aportaciones al arte gráfico y la edición. Editores, editoriales, artistas y autores más destacados en Europa y Estados Unidos.
+7. La edición de arte y las vanguardias europeas y americanas a partir de 1945. Principales movimientos artísticos y literarios, aportaciones al arte gráfico y la edición. Editores, editoriales, artistas y autores más destacados en Europa y Estados Unidos.
 
 8. Situación actual de la edición de arte. Tendencias estéticas. Editores y editoriales más representativas. Acontecimientos profesionales: Ferias nacionales e internacionales, congresos, asociaciones, publicaciones especializadas. Perspectivas futuras de la edición de arte.
 
@@ -2383,21 +2380,21 @@ Especialidad: Edición de Arte
 
 Especialidad: Fotografía
 
-1. Historia de la fotografía hasta 1839. Antecedentes e invención.
+1. Historia de la fotografía hasta 1839. Antecedentes e invención.
 
-2. Historia de la fotografía de 1839 a 1850. Los primeros pasos. Daguerrotipo y calotipo.
+2. Historia de la fotografía de 1839 a 1850. Los primeros pasos. Daguerrotipo y calotipo.
 
-3. Historia de la fotografía de 1851 a 1918. La expansión de la fotografía. La fotografía al alcance del gran público, el fotógrafo aficionado. Pictorialismo versus fotografía directa: Panorama histórico. La exploración fotográfica del mundo.
+3. Historia de la fotografía de 1851 a 1918. La expansión de la fotografía. La fotografía al alcance del gran público, el fotógrafo aficionado. Pictorialismo versus fotografía directa: Panorama histórico. La exploración fotográfica del mundo.
 
 4. El fotoperiodismo y la aparición de la prensa ilustrada.
 
-5. Historia de la fotografía de 1918 a 1955. El documento social.
+5. Historia de la fotografía de 1918 a 1955. El documento social.
 
 6. La fotografía y las vanguardias artísticas de principios del siglo XX.
 
-7. Historia de la fotografía de 1955 a 1980. La fotografía moderna.
+7. Historia de la fotografía de 1955 a 1980. La fotografía moderna.
 
-8. Historia de la fotografía desde 1980 hasta hoy. Su relación con otras artes: Influencias mutuas.
+8. Historia de la fotografía desde 1980 hasta hoy. Su relación con otras artes: Influencias mutuas.
 
 9. Los pioneros de la fotografía en España.
 
@@ -2405,9 +2402,9 @@ Especialidad: Fotografía
 
 11. Las vanguardias fotográficas en España: 1925-1945.
 
-12. La fotografía en España desde la postguerra hasta 1970. Fotoperiodismo y neorrealismo.
+12. La fotografía en España desde la postguerra hasta 1970. Fotoperiodismo y neorrealismo.
 
-13. La fotografía española desde 1970 hasta la época actual.
+13. La fotografía española desde 1970 hasta la época actual.
 
 14. Evolución histórica de la cámara fotográfica. Elementos fundamentales y accesorios.
 
@@ -2481,9 +2478,9 @@ Especialidad: Fotografía
 
 49. Elementos esenciales de la cámara fotográfica. Descripción y evolución tecnológica hasta la actualidad.
 
-50. Los sistemas profesionales actuales de cámaras para películas de formato 135. Situación tecnológica y aplicaciones. Las cámaras réflex digitales.
+50. Los sistemas profesionales actuales de cámaras para películas de formato 135. Situación tecnológica y aplicaciones. Las cámaras réflex digitales.
 
-51. Los sistemas profesionales de cámaras para películas de formato 120/220 y chasis digitales. Situación tecnológica y aplicaciones.
+51. Los sistemas profesionales de cámaras para películas de formato 120/220 y chasis digitales. Situación tecnológica y aplicaciones.
 
 52. El gran formato. Tipos de cámaras y aplicaciones. Captura de imagen analógica y digital. La cámara de banco óptico y la técnica de los movimientos.
 
@@ -2719,7 +2716,7 @@ Especialidad: Joyería y Orfebrería
 
 11. El movimiento Arts and Crafts y la reivindicación de lo artesanal. La renovación técnica y estética del Art Nouveau. Su incidencia en la orfebrería y en la joyería. Tendencias y principales creadores. El modernismo en la joyería y orfebrería españolas.
 
-12. La orfebrería y la joyería durante la primera mitad del siglo XX: la influencia de los movimientos de vanguardia. Los talleres de metal de la Bauhaus. Las tendencias Art Decó: influencias e innovaciones estéticas, técnicas y materiales. Principales representantes. Del Art Decó a los años 1950.
+12. La orfebrería y la joyería durante la primera mitad del siglo XX: la influencia de los movimientos de vanguardia. Los talleres de metal de la Bauhaus. Las tendencias Art Decó: influencias e innovaciones estéticas, técnicas y materiales. Principales representantes. Del Art Decó a los años 1950.
 
 13. La orfebrería arqueológica de culturas no europeas.
 
@@ -2851,7 +2848,7 @@ Especialidad: Joyería y Orfebrería
 
 77. Técnicas de fundición. Materiales, moldes, herramientas y maquinaria: características y manejo. Procedimientos. Implicaciones al proyectar los objetos. Papel que desempeñan en el proceso de fabricación. Aplicaciones.
 
-78. Tecnologías informáticas aplicadas al diseño, procesos de desarrollo y de comunicación de los proyectos de joyería, orfebrería y esmaltes al fuego: programas de 2D, 3D, tratamiento de imagen. Características.
+78. Tecnologías informáticas aplicadas al diseño, procesos de desarrollo y de comunicación de los proyectos de joyería, orfebrería y esmaltes al fuego: programas de 2D, 3D, tratamiento de imagen. Características.
 
 79. Tecnologías informáticas para la elaboración de prototipos de objetos o elementos de joyería, orfebrería y esmaltes al fuego. Características. Papel que desempeñan en el proceso de fabricación. Aplicaciones.
 
@@ -3489,9 +3486,9 @@ Especialidad: Medios Audiovisuales
 
 69. La animación tradicional «asistida» por ordenador. Creadores y obras.
 
-70. Animación 2D con métodos digitales. Características. Dibujo, diseño, animación e interactividad. Hardware y software más utilizados.
+70. Animación 2D con métodos digitales. Características. Dibujo, diseño, animación e interactividad. Hardware y software más utilizados.
 
-71. Animación en 3D con métodos digitales. Características. Modelado, materiales, texturas, iluminación, movimiento, «rendering». Hardware y software más utilizados.
+71. Animación en 3D con métodos digitales. Características. Modelado, materiales, texturas, iluminación, movimiento, «rendering». Hardware y software más utilizados.
 
 72. Panorama de la animación en España y en el mercado internacional. Aplicaciones de la animación.
 
@@ -3607,9 +3604,9 @@ Especialidad: Medios Informáticos
 
 50. Programas de retoque fotográfico. Requisitos. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones.
 
-51. Programas de animación 2D. Requisitos. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones. La animación tradicional y la animación informática. Similitudes y diferencias. Animación vectorial y bitmap. Morph. Formatos de animación.
+51. Programas de animación 2D. Requisitos. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones. La animación tradicional y la animación informática. Similitudes y diferencias. Animación vectorial y bitmap. Morph. Formatos de animación.
 
-52. Programas de modelado 3D. Requisitos. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones. Editor de superficies 2D. Objetos mallados 3D. La escena, iluminación. Materiales. Tipos de render. Digitalizadores 3D. Formatos.
+52. Programas de modelado 3D. Requisitos. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones. Editor de superficies 2D. Objetos mallados 3D. La escena, iluminación. Materiales. Tipos de render. Digitalizadores 3D. Formatos.
 
 53. Programas de diseño por vectores. Conceptos fundamentales y características. Análisis comparativo entre los principales programas. Aplicaciones. Vectorización de imágenes bitmap.
 
@@ -3663,7 +3660,7 @@ Especialidad: Organización Industrial y Legislación
 
 2. El Ordenamiento Jurídico. Cultura jurídica y modos de producción normativa. El sistema de fuentes del derecho español. Unidad y estructura del ordenamiento jurídico.
 
-3. La Constitución Española de 1978: Estructura y Características. Los Derechos Fundamentales: evolución histórica y conceptual. Los Derechos Fundamentales y las libertades públicas. Caracteres del Título I y su protección.
+3. La Constitución Española de 1978: Estructura y Características. Los Derechos Fundamentales: evolución histórica y conceptual. Los Derechos Fundamentales y las libertades públicas. Caracteres del Título I y su protección.
 
 4. La Corona. Las Cortes Generales. Composición, funciones y características. El Defensor del pueblo. El Tribunal de Cuentas. El Gobierno. La Administración Pública: principios constitucionales informadores. El poder judicial: el Consejo General del Poder Judicial. Órganos consultivos previstos en la Constitución.
 
@@ -3671,7 +3668,7 @@ Especialidad: Organización Industrial y Legislación
 
 6. Democracia, pluralismo y participación. Concepto y tipología del pluralismo en la Constitución. El derecho de asociación, garantías y límites. Los partidos políticos. Origen, evolución y tipología. Grupos de presión y grupos de interés. Participación y democracia representativa. La participación institucional y los mecanismos de participación.
 
-7. La constitución cultural en la constitución de 1978. Concepto de cultura y preceptos que integran la constitución cultural. La cultura como servicio público y como derecho de todos a su disfrute. El derecho a la creación literaria, artística, científica y técnica. El pluralismo cultural y lingüístico.
+7. La constitución cultural en la constitución de 1978. Concepto de cultura y preceptos que integran la constitución cultural. La cultura como servicio público y como derecho de todos a su disfrute. El derecho a la creación literaria, artística, científica y técnica. El pluralismo cultural y lingüístico.
 
 8. La libertad de comunicación pública en la constitución española. Libertad de expresión y de información. Otras formas reconocidas en la Constitución de la libertad de comunicación. Las garantías y los límites. El derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 
@@ -3893,9 +3890,9 @@ Especialidad: Volumen
 
 34. El dibujo y los sistemas de representación en la concepción, análisis y desarrollo de piezas tridimensionales. Normalización de planos técnicos según su finalidad. Escalas de ampliación y reducción.
 
-35. Software de dibujo técnico de 2D y software de 3D. Su aplicación en las diferentes fases de la proyectación de piezas tridimensionales. Prototipos virtuales.
+35. Software de dibujo técnico de 2D y software de 3D. Su aplicación en las diferentes fases de la proyectación de piezas tridimensionales. Prototipos virtuales.
 
-36. Realización rápida de prototipos. Modelización mediante medios informáticos. Plotter 3D.
+36. Realización rápida de prototipos. Modelización mediante medios informáticos. Plotter 3D.
 
 37. La naturaleza como modelo, análisis de las formas y sistemas naturales como referencias para el diseño. Principios mecánicos y funcionales de las formas vivas y su aplicación a la generación de diseños. La biónica.
 
@@ -3979,7 +3976,7 @@ Especialidad: Volumen
 
 77. El trabajo en el taller de volumen. Herramientas, maquinaria y materiales: organización, distribución, mantenimiento y dispositivos de seguridad. Los factores de riesgo en el trabajo y su prevención. Normas de seguridad e higiene. Toxicidad de los materiales.
 
-ANEXO II
+## Anexo II
 
 **TEMARIOS CORRESPONDIENTES A LAS ESPECIALIDADES DEL CUERPO DE MAESTROS DE TALLER DE ARTES PLÁSTICAS Y DISEÑO**
 
@@ -4813,9 +4810,9 @@ Especialidad: Fotografía y Procesos de Reproducción
 
 31. La cámara fotográfica. Estructura, partes y tipos. Formatos.
 
-32. Los sistemas profesionales actuales de cámaras para películas de formato 135. Situación tecnológica y aplicaciones. Las cámaras réflex digitales.
+32. Los sistemas profesionales actuales de cámaras para películas de formato 135. Situación tecnológica y aplicaciones. Las cámaras réflex digitales.
 
-33. Los sistemas profesionales de cámaras para películas de formato 120/220 y chasis digitales. Situación tecnológica y aplicaciones.
+33. Los sistemas profesionales de cámaras para películas de formato 120/220 y chasis digitales. Situación tecnológica y aplicaciones.
 
 34. El gran formato. Tipos de cámaras y aplicaciones. Captura de imagen analógica y digital. La cámara de banco óptico y la técnica de los movimientos.
 
@@ -4965,7 +4962,7 @@ Especialidad: Modelismo y Maquetismo
 
 56. Imitación de elementos y materiales naturales y artificiales. Materiales base mas idóneos. Tratamientos y acabados. Ejemplos.
 
-57. Tecnologías de control numérico para la realización de modelos y maquetas. Impresora de sólidos. Plotter de corte. Plotter 3D.
+57. Tecnologías de control numérico para la realización de modelos y maquetas. Impresora de sólidos. Plotter de corte. Plotter 3D.
 
 58. Los riesgos generales en el trabajo y su prevención. Los factores de riesgo y las condiciones de trabajo. Los principios de la acción preventiva. La organización de la prevención. Métodos de protección y prevención. Útiles personales de protección y dispositivos de seguridad en maquinaria.
 
@@ -5541,9 +5538,9 @@ Especialidad: Técnicas de Joyería y Bisutería
 
 8. Los intentos de ruptura, en la joyería, a finales del siglo XIX. El movimiento Arts and Crafts. El Art Nouveau y la renovación de las técnicas, de los materiales, de los temas y de la estética.
 
-9. La incidencia de los lenguajes plásticos de la primera mitad del XX en la joyería. Influencias e innovaciones técnicas y materiales en la joyería Art Decó. Del Art Decó a los años 1950.
+9. La incidencia de los lenguajes plásticos de la primera mitad del XX en la joyería. Influencias e innovaciones técnicas y materiales en la joyería Art Decó. Del Art Decó a los años 1950.
 
-10. Evolución de la joyería desde 1950: producción artesanal y producción industrial. La joyería tradicional. La joyería de los artistas. La nueva joyería: nuevos conceptos, nuevos materiales y nuevas técnicas. La joyería y la moda. El diseño en la joyería.
+10. Evolución de la joyería desde 1950: producción artesanal y producción industrial. La joyería tradicional. La joyería de los artistas. La nueva joyería: nuevos conceptos, nuevos materiales y nuevas técnicas. La joyería y la moda. El diseño en la joyería.
 
 11. Significado y función de la joya en la sociedad actual. Valores propios de la joya contemporánea. Últimas tendencias. Panorama de la joyería en España: la joyería convencional y la joya de autor.
 
@@ -5587,7 +5584,7 @@ Especialidad: Técnicas de Joyería y Bisutería
 
 31. El diamante. Composición y estructura. Propiedades físicas y ópticas. Variedades y color. Escalas de color. Inclusiones y pureza. Escalas de pureza. Determinación del peso. Técnicas y tipos de talla. Identificación de las imitaciones del diamante.
 
-32. Propiedades ópticas de las gemas en relación con su colocación y lucimiento en las joyas: color, brillo, transparencia, efectos ópticos especiales, refracción y reflexión. Empleo de la lupa de 10 aumentos para la observación de las características de las gemas.
+32. Propiedades ópticas de las gemas en relación con su colocación y lucimiento en las joyas: color, brillo, transparencia, efectos ópticos especiales, refracción y reflexión. Empleo de la lupa de 10 aumentos para la observación de las características de las gemas.
 
 33. La talla de las gemas. Clasificación de los diferentes tipos de tallas: características de cada una, materiales a los que se aplican, proporciones. El proceso de lapidación de las gemas.
 
@@ -6187,14 +6184,14 @@ Especialidad: Técnicas Textiles
 
 50. La actividad profesional del tejido, teñido y estampado textil. Acontecimientos profesionales vinculados: ferias nacionales e internacionales, asociaciones, publicaciones especializadas. El mercado del producto textil, sectores y relevancia económica. El sector del tejido artesanal.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

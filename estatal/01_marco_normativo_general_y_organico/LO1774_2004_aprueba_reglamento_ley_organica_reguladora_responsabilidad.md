@@ -1,13 +1,10 @@
 ---
 id: norm-es-2004-15601
 codigo_sintetizado: BOE-A-2004-15601
-titulo: Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento
-  de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal
-  de los menores.
+titulo: Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2004-08-30'
 boletin: BOE
@@ -18,36 +15,33 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- curriculo
-- permisos-licencias
-- protecci-n-jur-dica-de-menores
-- proteccion-menores
+  - curriculo
+  - permisos-licencias
+  - protecci-n-jur-dica-de-menores
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1995-25444
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-5-2000
+    - norma_id: norm-es-1995-25444
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-5-2000
   desarrollado_por: []
   fundamento_de:
-  - norma_id: norm-can-res-juriscan-71394-16
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-can-res-juriscan-71394-16
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
-- norma_id: norm-es-1995-25444
-- norma_id: norm-es-lo-1-1996
-- norma_id: norm-es-lo-5-2000
-- norma_id: norm-es-1999-23750
+    - '1'
+    - '2.1'
+    - norma_id: norm-es-1995-25444
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-5-2000
+    - norma_id: norm-es-1999-23750
 ---
-
-## Preámbulo
-
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
-# Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la [Ley Orgánica 5/2000](LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
+## Preámbulo
 
 La [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
 
@@ -57,7 +51,9 @@ A la vista de esta previsiones, se ha elaborado un reglamento que, conforme a su
 
 la actuación de la Policía Judicial y del equipo técnico, la ejecución de las medidas cautelares y definitivas y el régimen disciplinario de los centros.
 
-El capítulo II, rubricado "De la actuación de la Policía Judicial y del equipo técnico", regula en términos generales la intervención de ambos colectivos. Los artículos 2 y 3 se dedican a la actuación de la Policía Judicial, dependiente funcionalmente del Ministerio Fiscal y del juez de menores, prestando especial atención al modo de llevar a cabo la detención del menor. El artículo 4 se refiere a la actuación del equipo técnico, integrado por psicólogos, educadores y trabajadores sociales, y responsables de prestar asistencia al menor desde el momento de su detención, de asistir técnicamente a los jueces de menores y al Ministerio Fiscal y de intervenir activamente en la mediación entre el menor y la víctima o perjudicado, función ampliamente desarrollada por el artículo 5 del reglamento.
+El capítulo II, rubricado "De la actuación de la Policía Judicial y del equipo técnico", regula en términos generales la intervención de ambos colectivos. Los artículos 2 y 3 se dedican a la actuación de la Policía Judicial, dependiente funcionalmente del Ministerio Fiscal y del juez de menores, prestando especial atención al modo de llevar a cabo la detención del menor. El artículo 4 se.
+
+refiere a la actuación del equipo técnico, integrado por psicólogos, educadores y trabajadores sociales, y responsables de prestar asistencia al menor desde el momento de su detención, de asistir técnicamente a los jueces de menores y al Ministerio Fiscal y de intervenir activamente en la mediación entre el menor y la víctima o perjudicado, función ampliamente desarrollada por el artículo 5 del reglamento.
 
 El capítulo III ("De las reglas para la ejecución de las medidas") se divide en tres secciones. La primera destinada a regular las reglas comunes; la segunda, a algunas medidas no privativas de libertad, y la tercera, a las medidas privativas de libertad.
 
@@ -71,7 +67,9 @@ La sección 3.ª es la más extensa y heterogénea del reglamento y bajo la rúb
 
 Atendiendo a su contenido, los 36 artículos que integran esta sección pueden estructurarse en los siguientes apartados: disposiciones relativas a los regímenes de internamiento (artículos 23 a 29, 34 y 53), disposiciones relativas al funcionamiento de los centros (artículos 30, 33, 35 y 53 a 58), disposiciones relativas al ingreso y a la libertad del menor (artículos 31, 32, 34 y 36), disposiciones relativas a la asistencia del menor (artículos 37, 38 y 39), disposiciones relativas a las comunicaciones (artículos 40 a 44) y disposiciones relativas a las salidas y permisos (artículos 45 a 52).
 
-El capítulo IV ("Del régimen disciplinario de los centros") da cumplimiento al tercer objetivo que apunta el artículo 1 del reglamento, inspirándose en el título X del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero. Aunque no se divide en secciones, su contenido permite apreciar un bloque de temática homogénea: los artículos 59 y 60 regulan, respectivamente, el fundamento y ámbito de aplicación y los principios de la potestad disciplinaria ; los artículos 61 a 64 regulan las faltas disciplinarias clasificándolas en muy graves, graves y leves, "atendiendo a la violencia desarrollada por el sujeto, su intencionalidad, la importancia del resultado y el número de personas ofendidas"; los artículos 65 a 69 regulan las sanciones con carácter general y taxativo; los artículos 70 a 80 regulan los procedimientos para la imposición de sanciones; finalmente, los artículos 81 a 85 contienen reglas especiales sobre las sanciones (ejecución y cumplimiento, reducción, suspensión y anulación, extinción y prescripción) y sobre incentivos o recompensas de un modo similar al artículo 263 del Reglamento Penitenciario.
+El capítulo IV ("Del régimen disciplinario de los centros") da cumplimiento al tercer objetivo que apunta el artículo 1 l.
+
+reglamento, inspirándose en el título X del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero. Aunque no se divide en secciones, su contenido permite apreciar un bloque de temática homogénea: los artículos 59 y 60 regulan, respectivamente, el fundamento y ámbito de aplicación y los principios de la potestad disciplinaria ; los artículos 61 a 64 regulan las faltas disciplinarias clasificándolas en muy graves, graves y leves, "atendiendo a la violencia desarrollada por el sujeto, su intencionalidad, la importancia del resultado y el número de personas ofendidas"; los artículos 65 a 69 regulan las sanciones con carácter general y taxativo; los artículos 70 a 80 regulan los procedimientos para la imposición de sanciones; finalmente, los artículos 81 a 85 contienen reglas especiales sobre las sanciones (ejecución y cumplimiento, reducción, suspensión y anulación, extinción y prescripción) y sobre incentivos o recompensas de un modo similar al artículo 263 del Reglamento Penitenciario.
 
 Este reglamento ha sido sometido al preceptivo informe de la Agencia Española de Protección de Datos, la Fiscalía General del Estado y el Consejo General del Poder Judicial.
 
@@ -101,9 +99,9 @@ JUAN FERNANDO LÓPEZ AGUILAR
 
 [encabezado]REGLAMENTO DE LA [LEY ORGÁNICA 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), DE 12 DE ENERO, REGULADORA DE LA RESPONSABILIDAD PENAL DE LOS MENORES
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -111,9 +109,7 @@ Disposiciones generales
 
 2. Al efecto de designar a las personas a quienes se aplica este reglamento, en su articulado se utiliza el término menores para referirse a las personas que no han cumplido 18 años, sin perjuicio de lo previsto en los artículos 4 y 15 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, cuando sea aplicable.
 
-CAPÍTULO II
-
-De la actuación de la Policía Judicial y del equipo técnico
+## Capítulo II. De la actuación de la Policía Judicial y del equipo técnico.
 
 #### Artículo 2. Actuación de la Policía Judicial.
 
@@ -223,15 +219,9 @@ g) El equipo técnico pondrá en conocimiento del Ministerio Fiscal el resultado
 
 3. Lo dispuesto en este artículo podrá ser aplicable al procedimiento de mediación previsto en el artículo 51.2 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, sin perjuicio de la competencia de la entidad pública y de lo dispuesto en el artículo 15 de este reglamento. Las referencias al equipo técnico hechas en este artículo se entenderán efectuadas a la entidad pública cuando, de conformidad con lo establecido en el artículo 8.7 de este reglamento, dicha entidad realice las funciones de mediación.
 
-CAPÍTULO III
+## Capítulo III. De las reglas para la ejecución de las medidas.
 
-De las reglas para la ejecución de las medidas
-
-SECCIÓN 1.ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS
-
-#### Artículo 6. Principios inspiradores de la ejecución de las medidas.
-
-Los profesionales, organismos e instituciones que intervengan en la ejecución de las medidas ajustarán su actuación con los menores a los principios siguientes:
+#### Sección 1. ª REGLAS COMUNES PARA LA EJECUCIÓN DE LAS MEDIDAS artículo 6 Principios inspiradores de la ejecución de las medidas. Los profesionales, organismos e instituciones que intervengan en la ejecución de las medidas ajustarán su actuación con los menores a los principios siguientes:
 
 a) El superior interés del menor de edad sobre cualquier otro interés concurrente.
 
@@ -271,7 +261,9 @@ Dichas entidades públicas llevarán a cabo, de acuerdo con sus respectivas norm
 
 2. Corresponde al Estado, en los establecimientos y con el control del personal especializado que ponga a disposición de la Audiencia Nacional, la ejecución de la detención preventiva, de las medidas cautelares de internamiento y de las medidas adoptadas en sentencia firme que, de conformidad con la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, acuerden el Juzgado Central de Menores o la sala correspondiente de la Audiencia Nacional, sin perjuicio de los convenios que, en su caso, pueda establecer para dicha finalidad con las comunidades autónomas y las Ciudades de Ceuta y Melilla.
 
-3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la [Ley Orgánica 10/1995](LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y, en su caso, con el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
+3. Corresponde a las instituciones públicas que en el respectivo territorio tengan encomendada la ejecución de las medidas penales a las que alude el artículo 105.1 de la [Ley Orgánica 10/1995](LO10_1995_codigo_penal.md), de 23 de noviembre, del Código Penal, la ejecución de la medida de libertad vigilada impuesta de conformidad con la regla 5.ª del artículo 9 y,.
+
+en su caso, con el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 4. Las medidas de privación del permiso de conducir ciclomotores o vehículos a motor, o del derecho a obtenerlo, o de las licencias administrativas para caza o para cualquier tipo de armas y la inhabilitación absoluta, previstas en los párrafos m) y n) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, si no fueran ejecutadas directamente por el juez de menores, se ejecutarán por los órganos administrativos competentes por razón de la materia.
 
@@ -359,7 +351,9 @@ c) La amonestación, la privación del permiso de conducir ciclomotores o vehíc
 
 2. El segundo período de las medidas de internamiento descritas en los párrafos a) a d) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, acordado en la sentencia en régimen de libertad vigilada, se cumplirá inmediatamente después de finalizado el primer período de internamiento en centro. No obstante, cuando existan otras medidas o penas privativas de libertad, su cumplimiento se regirá por lo previsto en los apartados 2 y 3 del artículo 47 de la citada ley orgánica.
 
-3. De igual forma, la medida de libertad vigilada prevista en la regla 5.ª del artículo 9 y en el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, habrá de ejecutarse una vez finalizada la medida de internamiento en régimen cerrado, salvo que concurra con otras medidas o penas privativas de libertad ; en tal caso, será de aplicación lo dispuesto en el inciso último del apartado anterior.
+3. De igual forma, la medida de libertad vigilada prevista en la regla 5.ª del artículo 9 y en.
+
+el apartado 2.c) de la disposición adicional cuarta de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, habrá de ejecutarse una vez finalizada la medida de internamiento en régimen cerrado, salvo que concurra con otras medidas o penas privativas de libertad ; en tal caso, será de aplicación lo dispuesto en el inciso último del apartado anterior.
 
 4. Cuando concurran varias medidas de internamiento, definitivas o cautelares, de diferente régimen, se cumplirá antes la de régimen más restringido y, en su caso, se interrumpirá la de régimen menos restringido que se estuviera ejecutando, salvo que el juez de menores haya dispuesto otro orden en aplicación del apartado 3 del artículo 47 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
@@ -415,7 +409,7 @@ La entidad pública comunicará al juez de menores y al Ministerio Fiscal a los 
 
 a) En las medidas de internamiento y de permanencia de fin de semana en un centro: la fuga del centro, el no retorno en la fecha o la hora indicadas después de una salida autorizada y la no presentación en el centro el día o la hora señalados para el cumplimiento de las permanencias establecidas.
 
-b) En la medida de permanencia de fin de semana en el domicilio: la no presentación en su domicilio y la ausencia no autorizada del domicilio, durante los días y horas establecidos de permanencia, así como el no retorno a este para continuar el cumplimiento de la medida después de una salida autorizada.
+b) **En la medida de permanencia de fin de semana en el domicilio.** La no presentación en su domicilio y la ausencia no autorizada del domicilio, durante los días y horas establecidos de permanencia, así como el no retorno a este para continuar el cumplimiento de la medida después de una salida autorizada.
 
 c) En las medidas no privativas de libertad, la falta de presentación a las entrevistas a las que el menor haya sido citado para elaborar el programa de ejecución y el incumplimiento de cualquiera de las obligaciones que, según lo dispuesto en el artículo 7 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, conforman el contenido de cada medida.
 
@@ -427,7 +421,7 @@ Además, la entidad pública comunicará a las Fuerzas y Cuerpos de Seguridad el
 
 2. Las funciones de mediación llevadas a cabo con menores internados no podrán suponer una alteración del régimen de cumplimiento de la medida impuesta, sin perjuicio de las salidas que para dicha finalidad pueda autorizar el juzgado de menores competente.
 
-SECCIÓN 2.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS MEDIDAS NO PRIVATIVAS DE LIBERTAD
+#### Sección 2. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE DETERMINADAS MEDIDAS NO PRIVATIVAS DE LIBERTAD
 
 #### Artículo 16. Tratamiento ambulatorio.
 
@@ -513,11 +507,7 @@ d) No estarán supeditadas a la consecución de intereses económicos.
 
 Cuando al menor se le impongan las medidas cautelares de libertad vigilada o convivencia con otra persona, familia o grupo educativo, previstas en el artículo 28 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, serán de aplicación las reglas descritas en los artículos 18 y 19, respectivamente, de este reglamento, para su ejecución, respetando, no obstante, el principio de presunción de inocencia.
 
-SECCIÓN 3.ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD
-
-#### Artículo 23. Regímenes de internamiento.
-
-Los menores cumplirán la medida de internamiento en el régimen acordado en resolución motivada por el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
+#### Sección 3. ª REGLAS ESPECÍFICAS PARA LA EJECUCIÓN DE LAS MEDIDAS PRIVATIVAS DE LIBERTAD artículo 23 Regímenes de internamiento. Los menores cumplirán la medida de internamiento en el régimen acordado en resolución motivada por el juez de menores, de acuerdo con lo establecido en los párrafos a), b) y c) del artículo 7.1 de la [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 #### Artículo 24. Internamiento en régimen cerrado.
 
@@ -1011,9 +1001,7 @@ Salvo prohibición judicial expresa, esta información será facilitada cuando l
 
 3. Los hechos descubiertos en el ejercicio de sus funciones por el órgano de inspección, que supongan una vulneración de los derechos de los menores, se pondrán en conocimiento de la entidad pública, del juez de menores competente y del Ministerio Fiscal.
 
-CAPÍTULO IV
-
-Del régimen disciplinario de los centros
+## Capítulo IV. Del régimen disciplinario de los centros.
 
 #### Artículo 59. Fundamento y ámbito de aplicación.
 
@@ -1155,7 +1143,7 @@ b) La amonestación.
 
 5. No obstante lo anterior, la sanción de separación de grupo no se aplicará a las menores embarazadas, a las menores hasta que hayan transcurrido seis meses desde la finalización del embarazo, a las madres lactantes y a las que tengan hijos en su compañía. Tampoco se aplicará a los menores enfermos y se dejará sin efecto en el momento en que se aprecie que esta sanción afecta a su salud física o mental.
 
-#### Artículo 67. Graduación de las sanciones
+#### Artículo 67. Graduación de las sanciones.
 
 1. La determinación de las sanciones y su duración se llevará a efecto de acuerdo al principio de la proporcionalidad, atendiendo a las circunstancias del menor, la naturaleza de los hechos, la violencia o agresividad mostrada en la comisión de los hechos, la intencionalidad, la perturbación producida en la convivencia del centro, la gravedad de los daños y perjuicios ocasionados, el grado de ejecución y de participación y la reincidencia en otras faltas disciplinarias.
 
@@ -1271,7 +1259,7 @@ En la resolución se adoptarán, en su caso, las disposiciones cautelares precis
 
 3. La iniciación del procedimiento y las sanciones impuestas se anotarán en el expediente personal del menor sancionado. También se anotará la reducción o revocación de la sanción, así como la suspensión de su efectividad.
 
-#### Artículo 76. Notificación de la resolución
+#### Artículo 76. Notificación de la resolución.
 
 1. La notificación al menor del acuerdo sancionador deberá hacerse el mismo día o en el plazo máximo de 24 horas de ser adoptado, dando lectura íntegra de aquel y entregándole una copia.
 
@@ -1299,7 +1287,9 @@ d) En todo caso, este procedimiento se documentará debidamente.
 
 #### Artículo 80. Medidas cautelares durante el procedimiento.
 
-1. El órgano competente para iniciar el procedimiento, por sí o a propuesta del instructor del expediente disciplinario, podrá acordar en cualquier momento del procedimiento, mediante acuerdo motivado, las medidas cautelares que resulten necesarias para asegurar la eficacia de la resolución que pudiera recaer y el buen fin del procedimiento, así como para evitar la persistencia de los efectos de la infracción y asegurar la integridad del expedientado y de otros posibles afectados. Las únicas medidas cautelares que se podrán adoptar serán las previstas como sanción en el artículo 65 para la presunta falta cometida.
+1. El órgano competente para iniciar el procedimiento, por sí o a propuesta del instructor del expediente disciplinario, podrá acordar en cualquier momento del procedimiento, mediante acuerdo motivado, las medidas cautelares que resulten necesarias para asegurar la eficacia de la resolución que pudiera recaer y el buen fin del procedimiento, así como para evitar la persistencia de los efectos de la infracción y asegurar la integridad del expedientado y de otros posibles afectados. Las únicas medidas cautelares que se podrán adoptar serán las previstas como sanción en el artículo 65 para.
+
+la presunta falta cometida.
 
 2. Estas medidas quedarán reflejadas en el expediente del menor y deberán ajustarse a la intensidad, proporcionalidad y necesidades de los objetivos que se pretendan garantizar en cada supuesto concreto, y su adopción será notificada al menor y puesta inmediatamente en conocimiento del juez de menores y del Ministerio Fiscal. Si durante la tramitación del procedimiento hubiera alteración de las causas que motivaron la aplicación de estas medidas cautelares, podrán modificarse las medidas adoptadas. En el supuesto de que desaparezcan las causas que motivaron la aplicación de las medidas, se procederá a alzar la medida.
 
@@ -1347,11 +1337,10 @@ En caso de ausencia o insuficiencia de las anteriores, o cuando sean varias las 
 
 En situaciones de urgencia, cuando no sea posible actuar conforme a lo previsto en el párrafo anterior, el director del centro podrá solicitar directamente la intervención de las Fuerzas y Cuerpos de Seguridad competentes, dando cuenta de ello inmediatamente a las autoridades antes mencionadas, con expresión de las causas de la urgencia.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
@@ -1360,6 +1349,7 @@ En situaciones de urgencia, cuando no sea posible actuar conforme a lo previsto 
 - **Fundamento de**: [**Resolucion BOC 16**](../../autonómica/canarias/02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

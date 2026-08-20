@@ -18,57 +18,54 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-- bienestar-infantil
-- centros-concertados
-- centros-privados-concertados
-- conciertos-educativos
-- derecho-educacion
-- fp-basica
-- ideario-centro
-- lode
-- profesorado
+  - bienestar-infantil
+  - centros-concertados
+  - centros-privados-concertados
+  - conciertos-educativos
+  - derecho-educacion
+  - fp-basica
+  - ideario-centro
+  - lode
+  - profesorado
 relaciones:
   desarrollado_por:
-  - norma_id: norm-es-rd-1533-1986
-  - norma_id: norm-es-rd-2377-1985
+    - norma_id: norm-es-rd-1533-1986
+    - norma_id: norm-es-rd-2377-1985
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-1987-15278
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-1993-16128
-  - norma_id: norm-es-1995-22212
-  - norma_id: norm-es-1998-10720
-  - norma_id: norm-es-2000-5990
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2014-2222
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-132-2010
-  - norma_id: norm-es-rd-157-2022
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-es-rd-943-2003
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-d-114-2011
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1987-15278
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1993-16128
+    - norma_id: norm-es-1995-22212
+    - norma_id: norm-es-1998-10720
+    - norma_id: norm-es-2000-5990
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-lo-10-2022
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-3-2022
+    - norma_id: norm-es-rd-132-2010
+    - norma_id: norm-es-rd-157-2022
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-es-rd-943-2003
+    - norma_id: norm-can-res-boc-2024-117-93
+    - norma_id: norm-can-res-boc-2022-158-21
+    - norma_id: norm-can-res-boc-2026-109-92
+    - norma_id: norm-can-res-boc-2004-189-65
+    - norma_id: norm-can-d-114-2011
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 ---
-
-## Preámbulo
-
 # Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
 
-# Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
+## Preámbulo
 
 **JUAN CARLOS I,**
 
@@ -116,7 +113,7 @@ Sobre la base de la regulación conjunta de los derechos y libertades que en mat
 
 En suma, la Ley Orgánica Reguladora del Derecho a la Educación, se orienta a la modernización y racionalización de los tramos básicos del sistema educativo español, de acuerdo con lo establecido en el mandato constitucional en todos sus extremos. Es por ello, una ley de programación de la enseñanza, orientada a la racionalización de la oferta de puestos escolares gratuitos, que a la vez que busca la asignación racional de los recursos públicos permite la cohonestación de libertad e igualdad. Es también una ley que desarrolla el principio de participación establecido en el artículo 27.7, como salvaguarda de las libertades individuales y de los derechos del titular y de la comunidad escolar. Es, además, una ley de regulación de los centros escolares y de sostenimiento de los concertados. Es, por fin, una norma de convivencia basada en los principios de libertad, tolerancia y pluralismo, y que se ofrece como fiel prolongación de la letra y el espíritu del acuerdo alcanzado en la redacción de la Constitución para el ámbito de la educación.
 
-TÍTULO PRELIMINAR
+## Título Preliminar
 
 #### Artículo primero.
 
@@ -220,13 +217,13 @@ e) Promover federaciones y confederaciones, de acuerdo con el procedimiento esta
 
 Se garantiza en los centros docentes el derecho de reunión de los profesores, personal de administración y de servicios, padres de alumnos y alumnos, cuyo ejercicio se facilitará de acuerdo con la legislación vigente y teniendo en cuenta el normal desarrollo de las actividades docentes.
 
-## TÍTULO PRIMERO
+## Título PRIMERO
 
 **De los centros docentes**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo noveno.
 
@@ -276,9 +273,7 @@ Todos los centros docentes tendrán una denominación específica y se inscribir
 
 En la medida en que no constituya discriminación para ningún miembro de la comunidad educativa, y dentro de los límites fijados por las leyes, los centros tendrán autonomía para establecer materias optativas, adaptar los programas a las características del medio en que estén insertos, adoptar métodos de enseñanza y organizar actividades culturales escolares y extraescolares.
 
-CAPÍTULO II
-
-De los centros públicos
+## Capítulo II. De los centros públicos.
 
 #### Artículo dieciséis.
 
@@ -306,9 +301,7 @@ En concordancia con los fines establecidos en la presente ley, el principio de p
 
 2. La admisión de los alumnos en los centros públicos, cuando no existan plazas suficientes, se regirá por los siguientes criterios prioritarios: rentas anuales de la unidad familiar, proximidad del domicilio y existencia de hermanos matriculados en el centro. En ningún caso habrá discriminación en la admisión de alumnos por razones ideológicas, religiosas, morales, sociales, de raza o nacimiento.
 
-CAPÍTULO III
-
-De los centros privados
+## Capítulo III. De los centros privados.
 
 #### Artículo veintiuno.
 
@@ -352,7 +345,7 @@ Dentro de las disposiciones de la presente ley y normas que la desarrollen, los 
 
 2. La participación de los profesores, padres y, en su caso, alumnos en los centros concertados se regirá por lo dispuesto en el Título cuarto de la presente ley.
 
-## TÍTULO SEGUNDO
+## Título SEGUNDO
 
 **De la participación en la programación general de la enseñanza**
 
@@ -438,7 +431,7 @@ En cada Comunidad Autónoma existirá un Consejo Escolar para su ámbito territo
 
 Los poderes públicos, en el ejercicio de sus respectivas competencias, podrán establecer Consejos Escolares de ámbitos territoriales distintos al que se refiere el artículo anterior, así como dictar las disposiciones necesarias para la organización y funcionamiento de los mismos. En todo caso, deberá garantizarse la adecuada participación de los sectores afectados en los respectivos Consejos.
 
-## TÍTULO TERCERO
+## Título TERCERO
 
 **De los órganos de Gobierno de los Centros públicos**
 
@@ -446,9 +439,9 @@ Los poderes públicos, en el ejercicio de sus respectivas competencias, podrán 
 
 Los Centros públicos tendrán los siguientes órganos de gobierno:
 
-a) Unipersonales: Director, Secretario, Jefe de Estudios y cuantos otros se determinen en los reglamentos orgánicos correspondientes.
+a) **Unipersonales.** Director, Secretario, Jefe de Estudios y cuantos otros se determinen en los reglamentos orgánicos correspondientes.
 
-b) Colegiados: Consejo Escolar del Centro, claustro de Profesores y cuantos otros se determinen en los reglamentos a que se refiere el párrafo anterior.
+b) **Colegiados.** Consejo Escolar del Centro, claustro de Profesores y cuantos otros se determinen en los reglamentos a que se refiere el párrafo anterior.
 
 #### Artículo treinta y siete.
 
@@ -580,7 +573,7 @@ f) Cualquiera otra que le sea encomendada por los respectivos reglamentos orgán
 
 2. Los órganos colegiados de carácter electivo se renovarán cada dos años, sin perjuicio de que se cubran hasta dicho término las vacantes que se produzcan.
 
-## TÍTULO CUARTO
+## Título CUARTO
 
 **De los centros concertados**
 
@@ -850,7 +843,7 @@ Los centros docentes actualmente en funcionamiento, cuyos titulares sean las Cor
 
 En las materias cuya regulación remite la presente Ley a ulteriores disposiciones reglamentarias y en tanto éstas no sean dictadas serán de aplicación en cada caso las normas de este rango hasta ahora vigentes.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 1. Queda derogada la Ley Orgánica 5/1980, de 19 de junio, por la que se regula el Estatuto de Centros Escolares.
 
@@ -886,11 +879,10 @@ El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrollado por**: [**RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)**](../04_organizacion_escolar_y_funcionamiento/RD1533_1986_regulan_asociaciones_padres_alumnos.md)
 - **Desarrollado por**: [**RD2377_1985 Reglamento de Conciertos Educativos**](./RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -920,4 +912,5 @@ FELIPE GONZÁLEZ MÁRQUEZ
 - **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

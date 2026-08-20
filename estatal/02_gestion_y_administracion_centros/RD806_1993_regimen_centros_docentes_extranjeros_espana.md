@@ -1,12 +1,10 @@
 ---
 id: norm-es-1993-16128
 codigo_sintetizado: BOE-A-1993-16128
-titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros
-  en España.
+titulo: Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1993-06-23'
 boletin: BOE
@@ -17,26 +15,23 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- centros-extranjeros
-- consejo-escolar
-- curriculo
-- procedimiento-administrativo
-- profesorado
+  - centros-extranjeros
+  - consejo-escolar
+  - curriculo
+  - procedimiento-administrativo
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-lo-8-1985
-fundamentos_derecho:
-- norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-lo-8-1985
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-8-1985
   articulos:
-  - '1'
-  - '6'
+    - '1'
+    - '6'
 ---
+# Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
 ## Preámbulo
-
-# Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
-
-# Real Decreto 806/1993, de 28 de mayo, sobre régimen de Centros docentes extranjeros en España.
 
 La [Ley Orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, establece en su artículo 12, apartado 2, que los centros extranjeros en España se ajustarán a lo que el Gobierno determine reglamentariamente. En aplicación de este mandato legal procede regular el régimen jurídico de aquellos centros que, independientemente de la nacionalidad de su titular, se caracterizan por impartir en España enseñanzas de niveles no universitarios, correspondientes a sistemas educativos de otros países.
 
@@ -46,9 +41,7 @@ En su virtud, a propuesta del Ministro de Educación y Ciencia, con la aprobaci�
 
 **DISPONGO:**
 
-CAPÍTULO I
-
-Disposiciones comunes a todos los centros docentes extranjeros en España
+## Capítulo I. Disposiciones comunes a todos los centros docentes extranjeros en España.
 
 #### Artículo 1.
 
@@ -122,11 +115,9 @@ El reconocimiento de los estudios cursados en los centros extranjeros se ajustar
 
 2. Las Administraciones educativas españolas podrán asumir, en relación con los centros extranjeros en España, funciones inspectoras más amplias que las previstas en el apartado anterior, si las autoridades de los países respectivos, a través del Ministerio de Asuntos Exteriores y con informe de éste, establecen fórmulas de colaboración para tal finalidad con el Ministerio de Educación y Ciencia, de acuerdo, en todo caso, con las Administraciones españolas correspondientes.
 
-CAPÍTULO II
+## Capítulo II. Centros extranjeros que impartan enseñanzas de niveles equivalentes a los obligatorios del sistema educativo español.
 
-Centros extranjeros que impartan enseñanzas de niveles equivalentes a los obligatorios del sistema educativo español
-
-Sección 1. Centros que impartan enseñanzas de un sistema educativo extranjero y de lengua y cultura españolas
+#### Sección 1. Centros que impartan enseñanzas de un sistema educativo extranjero y de lengua y cultura españolas
 
 #### Artículo 10.
 
@@ -148,7 +139,9 @@ El Ministerio de Educación y Ciencia y las demás Administraciones educativas f
 
 #### Artículo 13.
 
-1. Para funcionar válidamente en España, los centros a los que se refiere esta Sección deberán obtener una autorización de apertura y funcionamiento, que en tal caso dará lugar a la inscripción en el Registro a la que se refiere el artículo 7 del presente Real Decreto.
+1. Para funcionar válidamente en España, los centros a los que se refiere esta Sección deberán obtener una autorización de apertura y funcionamiento, que en tal caso dará lugar a la inscripción en el Registro a la que se refiere el artículo 7 l.
+
+presente Real Decreto.
 
 2. El expediente para la autorización de enseñanzas e inscripción en el Registro se iniciará mediante solicitud dirigida a la Administración educativa competente.
 
@@ -198,7 +191,7 @@ c) Relación de profesores de lengua y cultura españolas, y, en su caso, de la 
 
 3. En el caso de que la resolución de dicho expediente suponga el cierre del centro, será preceptivo el informe del Ministerio de Asuntos Exteriores, salvo en el caso de centros que impartan enseñanzas correspondientes a sistemas educativos de países de la Comunidad Económica Europea. El referido informe versará sobre la conveniencia del cierre basándose en la existencia de tratados o convenios internacionales y, en su defecto, en el principio de reciprocidad.
 
-Sección 2. Centros que impartan exclusivamente enseñanzas de un sistema educativo extranjero
+#### Sección 2. Centros que impartan exclusivamente enseñanzas de un sistema educativo extranjero
 
 #### Artículo 18.
 
@@ -220,17 +213,13 @@ Sección 2. Centros que impartan exclusivamente enseñanzas de un sistema educat
 
 3. En el caso de que la resolución de dicho expediente suponga el cierre del centro, será preceptivo el informe del Ministerio de Asuntos Exteriores, salvo en el caso de centros que impartan enseñanzas correspondientes a sistemas educativos de países de la Comunidad Económica Europea. El referido informe versará sobre la conveniencia de cierre basándose en la existencia de tratados o convenios internacionales y, en su defecto, en el principio de reciprocidad.
 
-CAPÍTULO III
-
-Centros extranjeros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español
-
-#### Artículo 21.
-
-Los centros extranjeros que impartan en España enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español podrán acoger tanto a alumnos extranjeros como a alumnos españoles.
+## Capítulo III. Centros extranjeros que impartan enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español artículo 21 Los centros extranjeros que impartan en España enseñanzas regladas equivalentes a niveles no obligatorios del sistema educativo español podrán acoger tanto a alumnos extranjeros como a alumnos españoles.
 
 #### Artículo 22.
 
-1. Los centros extranjeros a los que se refiere el presente capítulo deberán obtener autorización de apertura y funcionamiento, que dará lugar a la inscripción en el registro a que se refiere el artículo 7 del presente Real Decreto. Dicha autorización se tramitará con sujeción a lo establecido en el artículo 14, con la salvedad de lo exigido en materia de profesorado de lengua y cultura españolas y lenguas propias de las Comunidades Autonómas.
+1. Los centros extranjeros a los que se refiere el presente capítulo deberán obtener autorización de apertura y funcionamiento, que dará lugar a la inscripción en el registro a que se refiere el artículo 7 l.
+
+presente Real Decreto. Dicha autorización se tramitará con sujeción a lo establecido en el artículo 14, con la salvedad de lo exigido en materia de profesorado de lengua y cultura españolas y lenguas propias de las Comunidades Autonómas.
 
 2. En el supuesto de que las enseñanzas que pretenda impartir el centro no estén recogidas en los sistemas de equivalencias aprobados por el Ministerio de Educación y Ciencia, la Administración educativa competente para conceder o denegar la autorización de apertura y funcionamiento deberá además solicitar a la Secretaría General Técnica del citado Departamento un informe de carácter preceptivo y vinculante, sobre la equivalencia de tales enseñanzas a efectos de su reconocimiento.
 
@@ -274,7 +263,7 @@ Hasta que se fijen el currículo y el horario correspondientes a las enseñanzas
 
 2. Quedan, asimismo, derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
 
-#### Disposición final Primera.
+#### Disposición final primera.
 
 El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.30.ª de la Constitución y en virtud de lo dispuesto por el artículo 12.2 de la [Ley Orgánica 8/1985](./LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, a excepción de lo previsto en los artículos 7.5, 13.2, 15, 16.2, 17.2, 19.2 y 23, que serán de aplicación en defecto de regulación específica dictada por las Comunidades Autónomas.
 
@@ -286,9 +275,7 @@ Corresponde al Ministro de Educación y Ciencia y a los órganos competentes de 
 
 Las normas sobre autorización de centros docentes privados que imparten enseñanzas no universitarias serán de aplicación subsidiaria para los centros privados extranjeros comprendidos en el ámbito de este Real Decreto.
 
-#### Disposición final cuarta.
-
-Dado en Madrid a 28 de mayo de 1993.
+#### Disposición final cuarta. Dado en Madrid a 28 de mayo de 1993.
 
 JUAN CARLOS R.
 
@@ -296,12 +283,12 @@ El Ministro de Educación y Ciencia,
 
 ALFREDO PÉREZ RUBALCABA
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 
 ### Fundamentos de Derecho
+
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)

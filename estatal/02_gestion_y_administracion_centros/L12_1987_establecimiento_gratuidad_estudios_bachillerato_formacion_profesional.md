@@ -1,14 +1,10 @@
 ---
 id: norm-es-1987-15278
 codigo_sintetizado: BOE-A-1987-15278
-titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios
-  de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en
-  los Centros públicos y la autonomía de gestión económica de los Centros docentes
-  públicos no universitarios.
+titulo: Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1987-07-03'
 boletin: BOE
@@ -19,37 +15,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-- admision-alumnado
-- autonomia-centro
-- bachillerato
-- conciertos-educativos
-- consejo-escolar
-- formacion-profesional
-- fp-basica
-- gesti-n-econ-mica-de-centros
-- gestion-economica
-- profesorado
+  - admision-alumnado
+  - autonomia-centro
+  - bachillerato
+  - conciertos-educativos
+  - consejo-escolar
+  - formacion-profesional
+  - fp-basica
+  - gesti-n-econ-mica-de-centros
+  - gestion-economica
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-8-1985
+    - '27'
+    - norma_id: norm-es-lo-8-1985
   articulos:
-  - '1'
-  - '6'
+    - '1'
+    - '6'
 ---
+# Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 ## Preámbulo
-
-# Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
-
-# Ley 12/1987, de 2 de julio, sobre establecimiento de la gratuidad de los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos en los Centros públicos y la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 **JUAN CARLOS I**
 
@@ -67,7 +60,7 @@ De otro lado, el artículo 27.7 de la Constitución reconoce el derecho de los P
 
 La presente Ley aspira a extraer las máximas consecuencias de los referidos preceptos, de forma que, junto a una reordenación y homogeneización de las tasas académicas, se alcance la necesaria autonomía de gestión económica de los Centros docentes públicos, tanto en lo que se refiere a la elaboración y aprobación de su presupuesto como al contenido y modificaciones del mismo, sin perjuicio, naturalmente, del indispensable control que la utilización de recursos públicos lleva consigo.
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
 De la supresión de las tasas académicas en los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Oficios Artísticos
 
@@ -77,9 +70,7 @@ Uno. Los estudios de Bachillerato, Formación Profesional y Artes Aplicadas y Of
 
 Dos. Tampoco estarán sujetos al pago de dichas tasas los alumnos de los Centros privados que cursen los mencionados estudios.
 
-CAPÍTULO II
-
-De las tasas académicas
+## Capítulo II. De las tasas académicas.
 
 #### Artículo segundo.
 
@@ -263,9 +254,7 @@ Uno. El procedimiento de gestión y liquidación de las tasas académicas se det
 
 Dos. La falta de pago, total o parcial, de las tasas académicas dará origen a la denegación o anulación de la matricula.
 
-CAPÍTULO III
-
-De la autonomía de gestión económica de los Centros docentes públicos no universitarios
+## Capítulo III. De la autonomía de gestión económica de los Centros docentes públicos no universitarios.
 
 #### Artículo noveno.
 
@@ -307,7 +296,7 @@ En tanto no entren en vigor las disposiciones reglamentarias para la ejecución 
 
 Serán de aplicación a los servicios solicitados con anterioridad a la entrada en vigor de esta Ley los Decretos 1636/1959, de 23 de septiembre, sobre tasas administrativas, y 4290/1964, de 17 de diciembre, de regulación de las tasas académicas.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 A salvo de lo establecido en la disposición adicional primera, quedan derogados los Decretos 1636/1959, de 23 de septiembre, y 4290/1964 de 17 de diciembre, y cuantas otras disposiciones de igual o inferior rango se opongan a la presente Ley.
 
@@ -331,15 +320,15 @@ El Presidente del Gobierno
 
 FELIPE GONZÁLEZ MÁRQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 - **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)

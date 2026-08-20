@@ -1,10 +1,7 @@
 ---
 id: norm-can-o-2013-10-09
 codigo_sintetizado: O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)
-titulo: Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010,
-  de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes
-  públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente
-  a su organización y funcionamiento.
+titulo: Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -22,2171 +19,1008 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-- becas-y-ayudas
-- departamentos
-- desarrollo-roc
-- instrucciones-de-organizacion-y-funcionamiento
-- organizacion-centro
-- profesorado
-- roc
+  - becas-y-ayudas
+  - departamentos
+  - desarrollo-roc
+  - instrucciones-de-organizacion-y-funcionamiento
+  - organizacion-centro
+  - profesorado
+  - roc
 relaciones:
   desarrolla:
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1834-2008
-  - norma_id: norm-es-rd-39-1997
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-d-106-2009
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-can-l-6-2014
   fundamento_de:
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-juriscan-72788-60
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-res-027
+    - norma_id: norm-can-res-055
+    - norma_id: norm-can-res-boc-2017-036-75
+    - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-boc-2023-133-57
+    - norma_id: norm-can-res-boc-2024-117-93
+    - norma_id: norm-can-res-boc-2025-044-89
+    - norma_id: norm-can-res-boc-2026-046-139
+    - norma_id: norm-can-res-boc-2026-109-92
+    - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-can-res-juriscan-72788-60
   modificado_por:
-  - norma_id: norm-can-o-2023-09-28
-fundamentos_derecho:
-- norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-o-2023-09-28
+  fundamentos_derecho:
+    - norma_id: norm-can-d-81-2010
   articulos:
-  - Disposición Final Primera
-- norma_id: norm-can-l-14-1990
-- norma_id: norm-can-d-106-2009
-- norma_id: norm-can-d-114-2011
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-rd-1834-2008
-- norma_id: norm-es-rd-39-1997
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2010-4518
+    - Disposición Final Primera
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-d-106-2009
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
+# Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
 
 ## Preámbulo
 
-# Orden de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.
+8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento. Los centros educativos, en cualquiera de sus tipos -escuelas, colegios o institutos-, son organizaciones complejas, construidas por distintos sectores educativos y comprometidas en el desarrollo de una alta misión: lograr que la cultura y el conocimiento se transformen en capacidades humanas. No son espacios, ni entidades abstractas: son, ante todo, comunidades entregadas al aprendizaje de todas las personas que los conforman -familias, profesorado y alumnado-. Esta complejidad se deriva tanto de su apertura permanente a un entorno cambiante, que les plantea nuevos retos de manera continua, como del imperativo de preservar unas condiciones de aprendizaje que permitan a cada persona recibir el tipo de ayuda que precisa para satisfacer sus necesidades educativas y favorecer el desarrollo de sus capacidades. Comprender estos condicionantes resulta esencial para ordenar adecuadamente los recursos, la estructura organizativa, la cultura institucional y las funciones que tiene que desarrollar un centro educativo. Solo así se evitará que la mencionada complejidad amenace el equilibrio funcional entre los componentes estructurales, los culturales y los recursos disponibles, que permite contribuir, a su vez, al progreso de la educación de una forma activa. Asimismo, los centros tampoco son entidades aisladas, ni responden a los requerimientos de su entorno por sí mismos, sino que están condicionados por su inserción en un sistema educativo que, además de fijar sus objetivos, establece sus posibilidades. Los centros forman parte, además, de redes de colaboración que orientan sus acciones hacia el cumplimiento de un determinado proyecto. Esta doble participación en sistemas y redes aumenta su complejidad pero puede contribuir al éxito de la misión que tienen encomendada. Se dispone de evidencias científicas suficientes como para afirmar que, en igualdad de condiciones sociales, económicas y culturales, así como en idéntica situación dentro de un determinado sistema educativo, hay centros que obtienen mejores resultados de aprendizaje que otros. Las evaluaciones de diagnóstico, nacionales e internacionales, nos permiten apreciar las diferencias de resultados entre centros del mismo entorno y también las similitudes en el funcionamiento de centros que, pese a ejercer su actividad en contextos diferentes, obtienen buenos resultados. Estas diferencias de resultados entre centros educativos e incluso dentro del mismo centro se hacen apreciables no solo en las citadas pruebas de diagnóstico sino también y, especialmente, en las tasas de idoneidad, absentismo, titulación y abandono escolar temprano. El conjunto de estas tasas proporciona a los centros un cuadro de indicadores de enorme utilidad para valorar el uso eficaz de las competencias que tienen atribuidas y les permite
 
-Consejería de Educación, Universidades y Sostenibilidad
-5076	 ORDEN de 9 de octubre de 2013, por la que se desarrolla el Decreto 81/2010, de 
-8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes 
-públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente 
-a su organización y funcionamiento.
-Los centros educativos, en cualquiera de sus tipos -escuelas, colegios o institutos-, son 
-organizaciones complejas, construidas por distintos sectores educativos y comprometidas en 
-el desarrollo de una alta misión: lograr que la cultura y el conocimiento se transformen en 
-capacidades humanas. No son espacios, ni entidades abstractas: son, ante todo, comunidades 
-entregadas al aprendizaje de todas las personas que los conforman -familias, profesorado y 
-alumnado-.
-Esta complejidad se deriva tanto de su apertura permanente a un entorno cambiante, que 
-les plantea nuevos retos de manera continua, como del imperativo de preservar unas condiciones de aprendizaje que permitan a cada persona recibir el tipo de ayuda que precisa para 
-satisfacer sus necesidades educativas y favorecer el desarrollo de sus capacidades. 
-Comprender estos condicionantes resulta esencial para ordenar adecuadamente los recursos, la estructura organizativa, la cultura institucional y las funciones que tiene que desarrollar un centro educativo. Solo así se evitará que la mencionada complejidad amenace 
-el equilibrio funcional entre los componentes estructurales, los culturales y los recursos disponibles, que permite contribuir, a su vez, al progreso de la educación de una forma activa. 
-Asimismo, los centros tampoco son entidades aisladas, ni responden a los requerimientos 
-de su entorno por sí mismos, sino que están condicionados por su inserción en un sistema 
-educativo que, además de fijar sus objetivos, establece sus posibilidades. Los centros forman 
-parte, además, de redes de colaboración que orientan sus acciones hacia el cumplimiento de 
-un determinado proyecto. Esta doble participación en sistemas y redes aumenta su complejidad pero puede contribuir al éxito de la misión que tienen encomendada.
-Se dispone de evidencias científicas suficientes como para afirmar que, en igualdad de 
-condiciones sociales, económicas y culturales, así como en idéntica situación dentro de un 
-determinado sistema educativo, hay centros que obtienen mejores resultados de aprendizaje 
-que otros. Las evaluaciones de diagnóstico, nacionales e internacionales, nos permiten apreciar las diferencias de resultados entre centros del mismo entorno y también las similitudes 
-en el funcionamiento de centros que, pese a ejercer su actividad en contextos diferentes, 
-obtienen buenos resultados.
-Estas diferencias de resultados entre centros educativos e incluso dentro del mismo centro se hacen apreciables no solo en las citadas pruebas de diagnóstico sino también y, especialmente, en las tasas de idoneidad, absentismo, titulación y abandono escolar temprano. 
-El conjunto de estas tasas proporciona a los centros un cuadro de indicadores de enorme 
-utilidad para valorar el uso eficaz de las competencias que tienen atribuidas y les permite 
+adecuar perfectamente su proyecto educativo a los compromisos, tanto nacionales como internacionales, asumidos por el sistema educativo en el que están insertos. Esta adecuación resulta esencial para superar la difícil situación actual. En este momento, la Consejería de Educación, Universidades y Sostenibilidad se enfrenta a un reto histórico: reducir la tasa de abandono escolar temprano de forma continuada hasta alcanzar una tasa del 10% en el año 2020. Alcanzar este logro supondría que la enseñanza obligatoria y las enseñanzas pre y postobligatorias se habrían universalizado o, lo que es lo mismo, se habría garantizado un puesto escolar desde 3 hasta 18 años. Este es el objetivo que centros, servicios educativos y administraciones públicas tienen por delante:
+universalizar la educación mejorando los resultados. La respuesta a retos como este por parte de los centros que utilizan de manera más eficaz las competencias que tienen atribuidas es mantenerse en un proceso continuo de mejora que, aprovechando los logros alcanzados en cada uno de sus ámbitos de actuación, les permita avanzar en otros nuevos. Para ello, la estructura de estos centros combina el adecuado funcionamiento de los órganos formales con la existencia de otros órganos creados al efecto
+(adhocracia) para la resolución de problemas o tareas que puedan dificultar, en un momento determinado, el normal funcionamiento de los órganos formales, y que requieran un tipo de composición diferente. Además, la cultura institucional en estos centros se caracteriza por un alto compromiso entre estos y las familias, por unas altas expectativas respecto a los logros educativos y por un profundo sentido de la corresponsabilidad en la consecución de sus objetivos; lo que, unido a una amplia cultura democrática permite la búsqueda permanente de nuevas oportunidades de aprendizaje y un compromiso con el trabajo bien hecho. A estos factores se une la realización de proyectos y el aprovechamiento de las experiencias generadas en cada uno de estos centros como medio para generar una organización inteligente. Conscientes, por tanto, de la complejidad de los centros educativos y de la dificultad que esto supone para obtener los mejores resultados de aprendizaje en cada uno de ellos, así como de la necesidad de mejorar su eficacia para alcanzar el logro colectivo de aumentar el éxito escolar y reducir la tasa de abandono escolar temprano, se dictan las presentes instrucciones de organización y funcionamiento de los centros docentes públicos que imparten las enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria y Formación Profesional de Grado Superior en el ámbito de la Comunidad Autónoma de Canarias. Así pues, la finalidad de estas instrucciones es contribuir a la utilización eficaz de las competencias que los centros tienen atribuidas, fortaleciendo la equidad y la calidad del sistema educativo; promover la cultura democrática en estos y facilitar la adopción de decisiones justas que eviten cualquier tipo de discriminación. La presente Orden desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de julio), que regula, para nuestro ámbito de gestión, una parte tan destacada de la Ley Orgánica 2/2006, de Educación, como la referida al funcionamiento de los centros, materia a la que la propia Ley dedica su Título V.
 
-adecuar perfectamente su proyecto educativo a los compromisos, tanto nacionales como 
-internacionales, asumidos por el sistema educativo en el que están insertos. Esta adecuación 
-resulta esencial para superar la difícil situación actual.
-En este momento, la Consejería de Educación, Universidades y Sostenibilidad se enfrenta a un reto histórico: reducir la tasa de abandono escolar temprano de forma continuada 
-hasta alcanzar una tasa del 10% en el año 2020. Alcanzar este logro supondría que la enseñanza obligatoria y las enseñanzas pre y postobligatorias se habrían universalizado o, lo 
-que es lo mismo, se habría garantizado un puesto escolar desde 3 hasta 18 años. Este es el 
-objetivo que centros, servicios educativos y administraciones públicas tienen por delante: 
-universalizar la educación mejorando los resultados.
-La respuesta a retos como este por parte de los centros que utilizan de manera más eficaz 
-las competencias que tienen atribuidas es mantenerse en un proceso continuo de mejora que, 
-aprovechando los logros alcanzados en cada uno de sus ámbitos de actuación, les permita 
-avanzar en otros nuevos. Para ello, la estructura de estos centros combina el adecuado funcionamiento de los órganos formales con la existencia de otros órganos creados al efecto 
-(adhocracia) para la resolución de problemas o tareas que puedan dificultar, en un momento 
-determinado, el normal funcionamiento de los órganos formales, y que requieran un tipo de 
-composición diferente. 
-Además, la cultura institucional en estos centros se caracteriza por un alto compromiso 
-entre estos y las familias, por unas altas expectativas respecto a los logros educativos y por 
-un profundo sentido de la corresponsabilidad en la consecución de sus objetivos; lo que, 
-unido a una amplia cultura democrática permite la búsqueda permanente de nuevas oportunidades de aprendizaje y un compromiso con el trabajo bien hecho. A estos factores se une 
-la realización de proyectos y el aprovechamiento de las experiencias generadas en cada uno 
-de estos centros como medio para generar una organización inteligente. 
-Conscientes, por tanto, de la complejidad de los centros educativos y de la dificultad que esto supone para obtener los mejores resultados de aprendizaje en cada uno de 
-ellos, así como de la necesidad de mejorar su eficacia para alcanzar el logro colectivo 
-de aumentar el éxito escolar y reducir la tasa de abandono escolar temprano, se dictan 
-las presentes instrucciones de organización y funcionamiento de los centros docentes públicos que imparten las enseñanzas de Educación Infantil, Educación Primaria, 
-Educación Secundaria y Formación Profesional de Grado Superior en el ámbito de 
-la Comunidad Autónoma de Canarias. Así pues, la finalidad de estas instrucciones es 
-contribuir a la utilización eficaz de las competencias que los centros tienen atribuidas, 
-fortaleciendo la equidad y la calidad del sistema educativo; promover la cultura democrática en estos y facilitar la adopción de decisiones justas que eviten cualquier tipo de 
-discriminación.
-La presente Orden desarrolla el Decreto 81/2010, de 8 de julio, por el que se aprueba el 
-Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad 
-Autónoma de Canarias (BOC nº 143, de 22 de julio), que regula, para nuestro ámbito de 
-gestión, una parte tan destacada de la Ley Orgánica 2/2006, de Educación, como la referida 
-al funcionamiento de los centros, materia a la que la propia Ley dedica su Título V.
+A partir de las directrices esenciales, marcadas por dicho Decreto, la presente Orden sigue, ante todo, la pauta de que una única norma desarrolle la organización y el funcionamiento de todos los centros escolares, de modo que, donde hasta ahora había una orden referida a las escuelas de Educación Infantil o colegios de Educación Primaria y otra a los institutos de Educación Secundaria, ahora haya una regulación que afecta, con carácter general, a todos los centros que oferten Educación Infantil, Educación Primaria, Educación Secundaria y Ciclos Formativos de Grado Superior. Sin embargo, aun cuando este aspecto es importante en el desarrollo de esta Orden, probablemente lo más destacado de la misma es la revisión profunda que se hace a la estructura de las órdenes vigentes hasta ahora. El tiempo transcurrido desde su entrada en vigor ha permitido comprobar la necesidad de una mejora en la sistematización de su estructura y de una clarificación de su contenido, circunstancias ambas que facilitan la adecuada comprensión de una norma que, con seguridad, será de las más consultadas y aplicadas en la vida diaria de los centros escolares. Por lo demás, se mantiene el modelo de habilitación establecido en las órdenes anteriores, que posibilita que los centros directivos puedan dictar instrucciones específicas, conjuntas o individuales que permitan aplicar la Orden. Las debidas garantías de seguridad jurídica, en el caso de estas instrucciones, quedan salvaguardadas por aplicación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común (BOE nº 285, de 27 de noviembre), por cuanto permite, en su artículo 21, que los órganos administrativos puedan dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio que no necesariamente deben publicarse en Boletín Oficial. De otra parte, la presente Orden detalla también algunos aspectos del Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma de Canarias (BOC nº 155, de 11 de agosto), en particular, en lo referido a determinadas preferencias reconocidas a las personas que desempeñan cargos directivos. Por último, es importante, además, resaltar la aprobación del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio), que desarrolla la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que establece, en su artículo 1, entre los principios inspiradores del sistema educativo español, la educación para la prevención de conflictos y para la resolución pacífica de estos, así como la no violencia en todos los ámbitos de la vida personal, familiar y social. El compromiso de la comunidad educativa tiene que hacerse efectivo con el mantenimiento o la mejora del clima escolar en las aulas y en los centros docentes mediante la incorporación, entre otras, de medidas dirigidas a potenciar la educación para la convivencia, lo que aconseja adaptar el contenido de la presente Orden. Las instrucciones concretas que son objeto de esta Orden se desarrollan de acuerdo con el siguiente índice:
 
-A partir de las directrices esenciales, marcadas por dicho Decreto, la presente Orden 
-sigue, ante todo, la pauta de que una única norma desarrolle la organización y el funcionamiento de todos los centros escolares, de modo que, donde hasta ahora había una orden 
-referida a las escuelas de Educación Infantil o colegios de Educación Primaria y otra a los 
-institutos de Educación Secundaria, ahora haya una regulación que afecta, con carácter general, a todos los centros que oferten Educación Infantil, Educación Primaria, Educación 
-Secundaria y Ciclos Formativos de Grado Superior.
- Sin embargo, aun cuando este aspecto es importante en el desarrollo de esta Orden, probablemente lo más destacado de la misma es la revisión profunda que se hace a la estructura 
-de las órdenes vigentes hasta ahora. El tiempo transcurrido desde su entrada en vigor ha permitido comprobar la necesidad de una mejora en la sistematización de su estructura y de una 
-clarificación de su contenido, circunstancias ambas que facilitan la adecuada comprensión 
-de una norma que, con seguridad, será de las más consultadas y aplicadas en la vida diaria 
-de los centros escolares.
-Por lo demás, se mantiene el modelo de habilitación establecido en las órdenes anteriores, que posibilita que los centros directivos puedan dictar instrucciones específicas, conjuntas o individuales que permitan aplicar la Orden. Las debidas garantías de seguridad 
-jurídica, en el caso de estas instrucciones, quedan salvaguardadas por aplicación de la Ley 
-30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del 
-Procedimiento Administrativo Común (BOE nº 285, de 27 de noviembre), por cuanto permite, en su artículo 21, que los órganos administrativos puedan dirigir las actividades de sus 
-órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio que no 
-necesariamente deben publicarse en Boletín Oficial.
-De otra parte, la presente Orden detalla también algunos aspectos del Decreto 106/2009, 
-de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no 
-universitarios dependientes de la Comunidad Autónoma de Canarias (BOC nº 155, de 11 de 
-agosto), en particular, en lo referido a determinadas preferencias reconocidas a las personas 
-que desempeñan cargos directivos.
-Por último, es importante, además, resaltar la aprobación del Decreto 114/2011, de 11 de 
-mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio), que desarrolla la Ley Orgánica 2/2006, de 3 
-de mayo, de Educación, que establece, en su artículo 1, entre los principios inspiradores del 
-sistema educativo español, la educación para la prevención de conflictos y para la resolución 
-pacífica de estos, así como la no violencia en todos los ámbitos de la vida personal, familiar 
-y social. El compromiso de la comunidad educativa tiene que hacerse efectivo con el mantenimiento o la mejora del clima escolar en las aulas y en los centros docentes mediante la 
-incorporación, entre otras, de medidas dirigidas a potenciar la educación para la convivencia, lo que aconseja adaptar el contenido de la presente Orden.
-Las instrucciones concretas que son objeto de esta Orden se desarrollan de acuerdo con 
-el siguiente índice:
+### Capítulo PRELIMINAR
 
-CAPÍTULO PRELIMINAR
 Artº. 1.- Objeto y ámbito de aplicación.
 
-### CAPÍTULO I
+## Capítulo I. AUTONOMÍA DE LOS CENTROS Y PARTICIPACIÓN DEMOCRÁTICA Artº. 2.- Autonomía de los centros. Artº. 3.- Participación democrática de la comunidad educativa. Artº. 4.- Medidas para fomentar la igualdad entre mujeres y hombres.
 
-AUTONOMÍA DE LOS CENTROS Y PARTICIPACIÓN DEMOCRÁTICA
-Artº. 2.- Autonomía de los centros.
-Artº. 3.- Participación democrática de la comunidad educativa.
-Artº. 4.- Medidas para fomentar la igualdad entre mujeres y hombres. 
+## Capítulo II. RÉGIMEN DE FUNCIONAMIENTO DE LOS CENTROS EDUCATIVOS Artº. 5.- Horario general del centro. Artº. 6.- Actividades escolares lectivas. Artº. 7.- Atención al alumnado en ausencia de profesorado. Artº. 8.- Coordinación entre las distintas etapas educativas. Artº. 9.- Funcionamiento de los órganos colegiados.
 
-### CAPÍTULO II
+## Capítulo III. Centros QUE imparten educación infantil y educación primaria.
 
-RÉGIMEN DE FUNCIONAMIENTO DE LOS CENTROS EDUCATIVOS
-Artº. 5.- Horario general del centro.
-Artº. 6.- Actividades escolares lectivas.
-Artº. 7.- Atención al alumnado en ausencia de profesorado.
-Artº. 8.- Coordinación entre las distintas etapas educativas.
-Artº. 9.- Funcionamiento de los órganos colegiados.
+#### Sección 1ª. ÓRGANOS DE COORDINACIÓN Y ORIENTACIÓN DOCENTE
 
-### CAPÍTULO III
+Artº. 10.- Órganos de coordinación y orientación docente. Artº. 11.- Comisión de coordinación pedagógica. Artº. 12.- Comisión de actividades complementarias y extraescolares. Artº. 13.- Equipos docentes. Artº. 14.- Tutorías.
 
-CENTROS QUE IMPARTEN EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA
+#### Sección 2ª. DEL ALUMNADO
 
-#### SECCIÓN 1ª ÓRGANOS DE COORDINACIÓN Y ORIENTACIÓN DOCENTE
+Artº. 15.- Horario del alumnado. Artº. 16.- Agrupamiento del alumnado.
 
-Artº. 10.- Órganos de coordinación y orientación docente.
-Artº. 11.- Comisión de coordinación pedagógica.
-Artº. 12.- Comisión de actividades complementarias y extraescolares. 
-Artº. 13.- Equipos docentes.
-Artº. 14.- Tutorías.
+#### Sección 3ª. DEL PROFESORADO
 
-#### SECCIÓN 2ª DEL ALUMNADO
+Artº. 17.- Organización del recreo. Cuidado y atención al alumnado. Artº. 18.- Jornada de trabajo: aspectos generales. Artº. 19.- Horas complementarias de permanencia en el centro.
 
-Artº. 15.- Horario del alumnado.
-Artº. 16.- Agrupamiento del alumnado.
+#### Sección 4ª. ELABORACIÓN Y APROBACIÓN DE HORARIOS
 
-#### SECCIÓN 3ª DEL PROFESORADO
+Artº. 20.- Condiciones y criterios previos para la elaboración de horarios. Artº. 21.- Asignación de niveles, tutorías, áreas, grupos y otras actividades docentes. Artº. 22.- Organización de la disponibilidad horaria de los centros. Artº. 23.- Aprobación de horarios.
 
-Artº. 17.- Organización del recreo. Cuidado y atención al alumnado.
-Artº. 18.- Jornada de trabajo: aspectos generales.
-Artº. 19.- Horas complementarias de permanencia en el centro.
+## Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior.
 
-#### SECCIÓN 4ª ELABORACIÓN Y APROBACIÓN DE HORARIOS
+#### Sección 1ª. ÓRGANOS DE COORDINACIÓN Y ORIENTACIÓN DOCENTE
 
-Artº. 20.- Condiciones y criterios previos para la elaboración de horarios.
-Artº. 21.- Asignación de niveles, tutorías, áreas, grupos y otras actividades docentes.
-Artº. 22.- Organización de la disponibilidad horaria de los centros.
-Artº. 23.- Aprobación de horarios.
+Artº. 24.- Órganos de coordinación y orientación docente. Artº. 25.- Comisión de coordinación pedagógica. Artº. 26.- Comisión de actividades complementarias y extraescolares. Artº. 27.- Departamento de orientación. Artº. 28.- Departamentos de coordinación didáctica: carácter y constitución. Artº. 29.- Estructura de los departamentos de coordinación didáctica. Artº. 30.- Equipos docentes de grupo. Artº. 31.- Equipos docentes de nivel. Artº. 32.- Tutorías. Artº. 33.- Funciones del profesorado de guardia.
 
-### CAPÍTULO IV
+#### Sección 2ª. DEL ALUMNADO
 
-CENTROS QUE IMPARTEN ENSEÑANZAS DE EDUCACIÓN SECUNDARIA Y FORMACIÓN 
-PROFESIONAL DE GRADO SUPERIOR
+Artº. 34.- Horario del alumnado. Artº. 35.- Agrupamiento del alumnado.
 
-#### SECCIÓN 1ª ÓRGANOS DE COORDINACIÓN Y ORIENTACIÓN DOCENTE
+#### Sección 3ª. DEL PROFESORADO
 
-Artº. 24.- Órganos de coordinación y orientación docente.
-Artº. 25.- Comisión de coordinación pedagógica.
-Artº. 26.- Comisión de actividades complementarias y extraescolares. 
-Artº. 27.- Departamento de orientación.
-Artº. 28.- Departamentos de coordinación didáctica: carácter y constitución.
-Artº. 29.- Estructura de los departamentos de coordinación didáctica.
-Artº. 30.- Equipos docentes de grupo.
-Artº. 31.- Equipos docentes de nivel.
-Artº. 32.- Tutorías.
-Artº. 33.- Funciones del profesorado de guardia.
+Artº. 36.- Jornada de trabajo: aspectos generales. Artº. 37.- Horario del profesorado de Formación Profesional.
 
-#### SECCIÓN 2ª DEL ALUMNADO
+#### Sección 4ª. ELABORACIÓN Y APROBACIÓN DE HORARIOS
 
-Artº. 34.- Horario del alumnado.
-Artº. 35.- Agrupamiento del alumnado.
+Artº. 38.- Criterios generales para la elaboración de horarios: condiciones previas. Artº. 39.- Atribución docente del profesorado para la asignación de horarios. Artº. 40.- Asignación de turno, curso, materia, ámbito o módulo: normas generales. Artº. 41.- Criterios específicos para la elección de horario. Artº. 42.- Desempeño de horario compartido. Artº. 43.- Confección de horarios individuales por la jefatura de estudios. Artº. 44.- Aprobación de horarios. Artº. 45.- Circunstancias excepcionales de los horarios.
 
-#### SECCIÓN 3ª DEL PROFESORADO
+## Capítulo V. Aspectos organizativos comunes.
 
-Artº. 36.- Jornada de trabajo: aspectos generales.
-Artº. 37.- Horario del profesorado de Formación Profesional.
+#### Sección 1ª. DEL ALUMNADO
 
-#### SECCIÓN 4ª ELABORACIÓN Y APROBACIÓN DE HORARIOS
+Artº. 46.- Absentismo escolar. Artº. 47.- Procedimiento de control de asistencia. Artº. 48.- Cambios de centro del alumnado durante el curso escolar. Artº. 49.- Bajas de matrícula y nuevas incorporaciones durante el curso escolar. Artº. 50.- Escolarización del alumnado procedente de sistemas educativos extranjeros. Artº. 51.- Información en casos de padres y madres separados o divorciados.
 
-Artº. 38.- Criterios generales para la elaboración de horarios: condiciones previas.
-Artº. 39.- Atribución docente del profesorado para la asignación de horarios.
-Artº. 40.- Asignación de turno, curso, materia, ámbito o módulo: normas generales.
-Artº. 41.- Criterios específicos para la elección de horario.
-Artº. 42.- Desempeño de horario compartido.
-Artº. 43.- Confección de horarios individuales por la jefatura de estudios.
-Artº. 44.- Aprobación de horarios.
-Artº. 45.- Circunstancias excepcionales de los horarios.
+#### Sección 2ª. DEL PROFESORADO Y PERSONAL DE ADMINISTRACIÓN Y SERVICIOS
 
-### CAPÍTULO V
+Artº. 52.- Procedimiento general de control de asistencia y puntualidad del profesorado. Artº. 53.- Ausencias por enfermedad o accidente laboral del profesorado. Artº. 54.- Incorporaciones y ceses del profesorado. Artº. 55.- Personal de administración y servicios.
 
-ASPECTOS ORGANIZATIVOS COMUNES
+#### Sección 3ª. OTROS ASPECTOS ORGANIZATIVOS COMUNES
 
-#### SECCIÓN 1ª DEL ALUMNADO
+Artº. 56.- Protección de datos de carácter personal. Artº. 57.- Propiedad intelectual. Artº. 58.- Uso de libros de texto y otros materiales curriculares. Artº. 59.- Conservación de los instrumentos de evaluación. Artº. 60.- Utilización de aplicaciones informáticas. Artº. 61.- Prohibición de contenidos. Artº. 62.- Salud y seguridad en los centros y uso de las instalaciones. Artº. 63.- Plan de autoprotección del centro. Artº. 64.- Asistencia sanitaria al alumnado. Artº. 65.- Coordinación de prevención de riesgos laborales.
 
-Artº. 46.- Absentismo escolar.
-Artº. 47.- Procedimiento de control de asistencia.
-Artº. 48.- Cambios de centro del alumnado durante el curso escolar.
-Artº. 49.- Bajas de matrícula y nuevas incorporaciones durante el curso escolar.
-Artº. 50.- Escolarización del alumnado procedente de sistemas educativos extranjeros.
-Artº. 51.- Información en casos de padres y madres separados o divorciados.
+### Disposiciones adicionales
 
-#### SECCIÓN 2ª DEL PROFESORADO Y PERSONAL DE ADMINISTRACIÓN Y SERVICIOS
+#### Disposición transitoria ....
 
-Artº. 52.- Procedimiento general de control de asistencia y puntualidad del profesorado.
-Artº. 53.- Ausencias por enfermedad o accidente laboral del profesorado.
-Artº. 54.- Incorporaciones y ceses del profesorado.
-Artº. 55.- Personal de administración y servicios.
+#### Disposición derogatoria ....
 
-#### SECCIÓN 3ª OTROS ASPECTOS ORGANIZATIVOS COMUNES
+### Disposiciones finales
 
-Artº. 56.- Protección de datos de carácter personal.
-Artº. 57.- Propiedad intelectual.
-Artº. 58.- Uso de libros de texto y otros materiales curriculares.
-Artº. 59.- Conservación de los instrumentos de evaluación.
-Artº. 60.- Utilización de aplicaciones informáticas. 
-Artº. 61.- Prohibición de contenidos.
-Artº. 62.- Salud y seguridad en los centros y uso de las instalaciones.
-Artº. 63.- Plan de autoprotección del centro.
-Artº. 64.- Asistencia sanitaria al alumnado.
-Artº. 65.- Coordinación de prevención de riesgos laborales.
-DISPOSICIONES ADICIONALES
+Por cuanto antecede, de conformidad con las competencias atribuidas en virtud de los artículos 32 y 37 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración de la Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29 de la Ley 14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto); y en virtud de la habilitación expresa prevista en la Disposición Final Primera del Decreto 81/2010, de
 
-#### DISPOSICIÓN TRANSITORIA
-DISPOSICIÓN DEROGATORIA
+8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de julio),
+DISPONGO:
 
-DISPOSICIONES FINALES
-Por cuanto antecede, de conformidad con las competencias atribuidas en virtud de los 
-artículos 32 y 37 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración de la 
-Comunidad Autónoma de Canarias (BOC nº 11, de 30 de abril); en el artículo 29 de la Ley 
-14/1990, de 26 de julio, de Reforma de la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas de Canarias (BOC nº 96, de 1 de agosto); y en virtud 
-de la habilitación expresa prevista en la Disposición Final Primera del Decreto 81/2010, de 
+### Capítulo PRELIMINAR
 
-8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no 
-universitarios de la Comunidad Autónoma de Canarias (BOC nº 143, de 22 de julio), 
-D I S P O N G O:
-CAPÍTULO PRELIMINAR
+#### Artículo 1. Objeto y ámbito de aplicación.
 
-#### Artículo 1.- Objeto y ámbito de aplicación.
+1. La presente Orden tiene por objeto desarrollar el Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en cuanto a su organización y funcionamiento. Se aplicará a los centros docentes públicos que imparten Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, Formación Profesional de Grado Medio y Superior, y Enseñanzas Deportivas de Grado Medio y Superior dependientes de la Consejería de Educación, Universidades y Sostenibilidad.
 
-1. La presente Orden tiene por objeto desarrollar el Decreto 81/2010, de 8 de julio, por el 
-que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios 
-de la Comunidad Autónoma de Canarias, en cuanto a su organización y funcionamiento. 
-Se aplicará a los centros docentes públicos que imparten Educación Infantil, Educación 
-Primaria, Educación Secundaria Obligatoria, Bachillerato, Formación Profesional de Grado 
-Medio y Superior, y Enseñanzas Deportivas de Grado Medio y Superior dependientes de la 
-Consejería de Educación, Universidades y Sostenibilidad.
-2. Los Centros de Educación a Distancia, los Centros de Educación de Personas Adultas, 
-las Escuelas Infantiles, los Centros de Educación Especial, las Escuelas Oficiales de Idiomas, las Escuelas de Artes, los Conservatorios de Música y de Danza, los Centros Integrados 
-de Formación Profesional y cualquier otro centro de características especiales; así como los 
-centros privados y privados concertados se regirán por su normativa específica y, supletoriamente, por la presente Orden.
+2. Los Centros de Educación a Distancia, los Centros de Educación de Personas Adultas, las Escuelas Infantiles, los Centros de Educación Especial, las Escuelas Oficiales de Idiomas, las Escuelas de Artes, los Conservatorios de Música y de Danza, los Centros Integrados de Formación Profesional y cualquier otro centro de características especiales; así como los centros privados y privados concertados se regirán por su normativa específica y, supletoriamente, por la presente Orden.
 
-### CAPÍTULO I
+## Capítulo I. Autonomía de los centros y participación democrática.
 
-AUTONOMÍA DE LOS CENTROS Y PARTICIPACIÓN DEMOCRÁTICA
+#### Artículo 2. Autonomía de los centros.
 
-#### Artículo 2.- Autonomía de los centros.
+1. Los centros escolares a los que afecta la presente Orden tendrán la autonomía pedagógica, de organización y de gestión prevista en la normativa aplicable y, en particular, en el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-1. Los centros escolares a los que afecta la presente Orden tendrán la autonomía pedagógica, de 
-organización y de gestión prevista en la normativa aplicable y, en particular, en el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias. 
-2. El proyecto educativo es el documento institucional de la comunidad educativa que 
-recoge los principios que fundamentan, dan sentido y orientan las decisiones que generan y 
-vertebran los proyectos, los planes y las actividades del centro. Tendrá el contenido previsto 
-en el artículo 39 del citado Reglamento Orgánico.
-3. Los centros educativos tendrán que establecer sus indicadores de mejora, que deberán 
-contar con la aprobación del Consejo Escolar, a propuesta de la comisión de coordinación 
-pedagógica y del Claustro, y que serán explicitados en la programación general anual. 
+2. El proyecto educativo es el documento institucional de la comunidad educativa que recoge los principios que fundamentan, dan sentido y orientan las decisiones que generan y vertebran los proyectos, los planes y las actividades del centro. Tendrá el contenido previsto en el artículo 39 l.
 
-#### Artículo 3.- Participación democrática de la comunidad educativa.
+citado Reglamento Orgánico.
 
-1. Los órganos de gobierno de los centros deberán garantizar el ejercicio de los derechos 
-y el cumplimiento de los deberes de las personas que pertenecen a la comunidad educativa, 
+3. Los centros educativos tendrán que establecer sus indicadores de mejora, que deberán contar con la aprobación del Consejo Escolar, a propuesta de la comisión de coordinación pedagógica y del Claustro, y que serán explicitados en la programación general anual.
 
-así como su implicación efectiva en la vida del centro, en su gestión y en su evaluación, 
-respetando y fomentando la participación y la convivencia democrática.
-2. El plan de convivencia, como parte fundamental del proyecto educativo, contemplará 
-el ejercicio y el respeto de los derechos de los miembros de la comunidad educativa como 
-base esencial de la convivencia entre iguales, entre personas de distinto sexo y en la interculturalidad, así como de las relaciones entre el profesorado, el alumnado y su familia, y el 
-personal no docente. En el deberán recogerse los procedimientos que tiendan a la prevención 
-y resolución pacífica de conflictos, a lograr la conciliación y la reparación de conductas contrarias a la convivencia escolar, o que permitan el ejercicio del derecho a la manifestación 
-de la discrepancia del alumnado, así como las directrices para la asunción de compromisos 
-educativos para la convivencia y para la prevención, intervención y seguimiento del absentismo escolar, teniendo en cuenta lo dispuesto en el Decreto 114/2011, de 11 de mayo, por el 
-que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias 
-(BOC nº 108, de 2 de junio).
+#### Artículo 3. Participación democrática de la comunidad educativa.
 
-#### Artículo 4.- Medidas para fomentar la igualdad entre mujeres y hombres.
+1. Los órganos de gobierno de los centros deberán garantizar el ejercicio de los derechos y el cumplimiento de los deberes de las personas que pertenecen a la comunidad educativa,
 
-1. El centro educativo velará por el cumplimiento y la aplicación de las medidas e iniciativas educativas destinadas a fomentar la igualdad real entre mujeres y hombres en los términos 
-establecidos en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres 
-(BOC nº 45, de 5 de marzo). En este sentido, el Consejo Escolar y el Claustro tendrán entre 
-sus atribuciones proponer medidas e iniciativas que favorezcan la convivencia en el centro, la 
-igualdad entre hombres y mujeres, y la resolución pacífica de conflictos en todos los ámbitos 
-de la vida personal, familiar y social; así como velar por su cumplimiento y aplicación.
-2. A los efectos de lo establecido en el apartado anterior, el Consejo Escolar y el Claustro 
-elegirán de entre sus miembros, respectivamente, a una persona que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres, y que formará parte 
-del equipo de gestión de la convivencia del centro. Esta elección se realizará en la primera 
-sesión del Claustro y del Consejo Escolar y celebrada en el curso, debiendo desarrollar sus 
-funciones durante dos cursos escolares, prorrogables en su caso. Si esta persona dejara de 
-desempeñar sus funciones, será elegida otra en la primera sesión siguiente del Claustro y del 
-Consejo Escolar que se celebre en cualquiera de los dos cursos que dura su elección.
-En el caso de que la persona nombrada por el Claustro para cumplir esta función perteneciera al Consejo Escolar, también podría ser esta la persona elegida. De no ser así, deberán 
-trabajar de manera coordinada y trasladar a sus respectivos órganos sus actuaciones.
-3. El Claustro tendrá en consideración a la hora de designar a la persona para cumplir 
-estas funciones su formación específica en coeducación. En este sentido y con el objetivo de 
-promover la formación adecuada del personal docente responsable de la coeducación en el 
-centro, la Consejería de Educación, Universidades y Sostenibilidad desarrollará las condiciones y requisitos para su acreditación o formación específica.
-4. La persona o personas elegidas como responsables de fomentar la coeducación en el 
-centro tendrán atribuidas, además de las funciones establecidas en el artículo 16, apartado 
+así como su implicación efectiva en la vida del centro, en su gestión y en su evaluación, respetando y fomentando la participación y la convivencia democrática.
 
-2, de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, las 
-siguientes funciones específicas:
-- Proponer criterios al Claustro y al Consejo Escolar para la revisión del proyecto educativo, de las normas de organización y funcionamiento, y de la planificación y desarrollo 
-de los currículos, incorporando una visión transversal de género destinada a promover la 
-igualdad real entre mujeres y hombres.
-- Promover iniciativas de centro y de aula de carácter coeducativo destinadas, específicamente, a la prevención de la violencia de género. 
-- Realizar propuestas de acciones de formación para profesorado, padres, madres o representantes legales del alumnado en materia de igualdad entre hombres y mujeres, y de 
-prevención de la violencia de género.
-- Facilitar a las familias orientaciones y recursos para educar en igualdad, insistiendo en 
-el principio de corresponsabilidad.
-- Instar a las asociaciones de madres y padres para que realicen actividades coeducativas 
-dirigidas a las familias.
-- Incluir en la memoria final del curso las actuaciones coeducativas que se han realizado, 
-la evaluación procesual y las propuestas de mejora que se derivan de esta.
-5. Además, la persona designada por el Claustro como responsable de la coeducación en 
-el centro participará en la comisión de coordinación pedagógica y, en su caso, en los órganos 
-de coordinación docente que determine la dirección del centro, aun sin formar parte de estos, 
-cuando la naturaleza de los temas que se vayan a tratar en ellos así lo requiera. En este último 
-caso, participará con voz, pero sin voto.
+2. El plan de convivencia, como parte fundamental del proyecto educativo, contemplará el ejercicio y el respeto de los derechos de los miembros de la comunidad educativa como base esencial de la convivencia entre iguales, entre personas de distinto sexo y en la interculturalidad, así como de las relaciones entre el profesorado, el alumnado y su familia, y el personal no docente. En el deberán recogerse los procedimientos que tiendan a la prevención y resolución pacífica de conflictos, a lograr la conciliación y la reparación de conductas contrarias a la convivencia escolar, o que permitan el ejercicio del derecho a la manifestación de la discrepancia del alumnado, así como las directrices para la asunción de compromisos educativos para la convivencia y para la prevención, intervención y seguimiento del absentismo escolar, teniendo en cuenta lo dispuesto en el Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias (BOC nº 108, de 2 de junio).
+
+#### Artículo 4. Medidas para fomentar la igualdad entre mujeres y hombres.
+
+1. El centro educativo velará por el cumplimiento y la aplicación de las medidas e iniciativas educativas destinadas a fomentar la igualdad real entre mujeres y hombres en los términos establecidos en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres (BOC nº 45, de 5 de marzo). En este sentido, el Consejo Escolar y el Claustro tendrán entre sus atribuciones proponer medidas e iniciativas que favorezcan la convivencia en el centro, la igualdad entre hombres y mujeres, y la resolución pacífica de conflictos en todos los ámbitos de la vida personal, familiar y social; así como velar por su cumplimiento y aplicación.
+
+2. A los efectos de lo establecido en el apartado anterior, el Consejo Escolar y el Claustro elegirán de entre sus miembros, respectivamente, a una persona que impulse medidas educativas que fomenten la igualdad real y efectiva entre hombres y mujeres, y que formará parte del equipo de gestión de la convivencia del centro. Esta elección se realizará en la primera sesión del Claustro y del Consejo Escolar y celebrada en el curso, debiendo desarrollar sus funciones durante dos cursos escolares, prorrogables en su caso. Si esta persona dejara de desempeñar sus funciones, será elegida otra en la primera sesión siguiente del Claustro y del Consejo Escolar que se celebre en cualquiera de los dos cursos que dura su elección. En el caso de que la persona nombrada por el Claustro para cumplir esta función perteneciera al Consejo Escolar, también podría ser esta la persona elegida. De no ser así, deberán trabajar de manera coordinada y trasladar a sus respectivos órganos sus actuaciones.
+
+3. El Claustro tendrá en consideración a la hora de designar a la persona para cumplir estas funciones su formación específica en coeducación. En este sentido y con el objetivo de promover la formación adecuada del personal docente responsable de la coeducación en el centro, la Consejería de Educación, Universidades y Sostenibilidad desarrollará las condiciones y requisitos para su acreditación o formación específica.
+
+4. La persona o personas elegidas como responsables de fomentar la coeducación en el centro tendrán atribuidas, además de las funciones establecidas en el artículo 16, apartado
+
+2, de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, las siguientes funciones específicas:
+- Proponer criterios al Claustro y al Consejo Escolar para la revisión del proyecto educativo, de las normas de organización y funcionamiento, y de la planificación y desarrollo de los currículos, incorporando una visión transversal de género destinada a promover la igualdad real entre mujeres y hombres.
+- Promover iniciativas de centro y de aula de carácter coeducativo destinadas, específicamente, a la prevención de la violencia de género.
+- Realizar propuestas de acciones de formación para profesorado, padres, madres o representantes legales del alumnado en materia de igualdad entre hombres y mujeres, y de prevención de la violencia de género.
+- Facilitar a las familias orientaciones y recursos para educar en igualdad, insistiendo en el principio de corresponsabilidad.
+- Instar a las asociaciones de madres y padres para que realicen actividades coeducativas dirigidas a las familias.
+- Incluir en la memoria final del curso las actuaciones coeducativas que se han realizado, la evaluación procesual y las propuestas de mejora que se derivan de esta.
+
+5. Además, la persona designada por el Claustro como responsable de la coeducación en el centro participará en la comisión de coordinación pedagógica y, en su caso, en los órganos de coordinación docente que determine la dirección del centro, aun sin formar parte de estos, cuando la naturaleza de los temas que se vayan a tratar en ellos así lo requiera. En este último caso, participará con voz, pero sin voto.
+
 6. Los materiales educativos utilizados en el centro deben partir de supuestos no discriminatorios para las mujeres, reconociendo el igual valor de hombres y mujeres, y fomentando el respeto en la igualdad de derechos y obligaciones.
 
-### CAPÍTULO II
+## Capítulo II. Régimen de funcionamiento de los centros educativos.
 
-RÉGIMEN DE FUNCIONAMIENTO DE LOS CENTROS EDUCATIVOS
+#### Artículo 5. Horario general del centro.
 
-#### Artículo 5.- Horario general del centro.
+1. El horario general del centro, que formará parte de la programación general anual, reflejará todas las actividades de este y se acomodará al mejor aprovechamiento de las actividades docentes y a las particularidades del centro. Este horario general transcurrirá entre la apertura y el cierre de las instalaciones durante el curso escolar, y deberá especificar:
 
-1. El horario general del centro, que formará parte de la programación general anual, 
-reflejará todas las actividades de este y se acomodará al mejor aprovechamiento de las 
-actividades docentes y a las particularidades del centro. Este horario general transcurrirá entre la apertura y el cierre de las instalaciones durante el curso escolar, y deberá 
-especificar:
-
-a) El horario de funcionamiento en el que estará disponible para la comunidad educativa 
-cada uno de los servicios y de las instalaciones del centro, dentro y fuera de la jornada escolar, y las condiciones para su utilización.
-b) La jornada de las actividades escolares lectivas y de las actividades complementarias 
-de las etapas, así como los programas que conforman la oferta educativa del centro, que se 
-desarrollará de lunes a viernes. 
+a) El horario de funcionamiento en el que estará disponible para la comunidad educativa cada uno de los servicios y de las instalaciones del centro, dentro y fuera de la jornada escolar, y las condiciones para su utilización.
+b) La jornada de las actividades escolares lectivas y de las actividades complementarias de las etapas, así como los programas que conforman la oferta educativa del centro, que se desarrollará de lunes a viernes.
 c) El horario disponible para las actividades extraescolares.
-2. El equipo directivo, oído el Claustro, elaborará el horario general del centro y lo pondrá a disposición de la comunidad educativa en la aplicación informática establecida al efecto antes del 30 de septiembre. En todo caso, el horario general será aprobado por el Consejo 
-Escolar dentro del marco de la programación general anual.
 
-#### Artículo 6.- Actividades escolares lectivas.
+2. El equipo directivo, oído el Claustro, elaborará el horario general del centro y lo pondrá a disposición de la comunidad educativa en la aplicación informática establecida al efecto antes del 30 de septiembre. En todo caso, el horario general será aprobado por el Consejo Escolar dentro del marco de la programación general anual.
 
-1. En los centros que imparten Educación Infantil y Educación Primaria, las actividades 
-escolares lectivas se realizarán de lunes a viernes, durante cinco horas diarias, que se distribuirán en el número de sesiones que establezca el centro, de acuerdo con la normativa 
-vigente. Estas cinco horas diarias incluirán los periodos de recreo para los que la jefatura de 
-estudios establecerá las condiciones de atención al alumnado de acuerdo con lo especificado 
-en el artículo 17 de la presente Orden.
-Los centros podrán realizar las cinco horas en jornada continua -todas las sesiones seguidas- o en jornada partida, en cuyo caso deberá existir un intervalo mínimo de dos horas entre 
-la última sesión de la mañana y la primera de la tarde.
-2. En los centros que imparten Educación Secundaria Obligatoria, Bachillerato y Formación Profesional de Grado Medio y Superior y Enseñanzas Deportivas de Grado Medio y 
-Superior, las actividades lectivas se realizarán de lunes a viernes en el número de sesiones y 
-con la duración que determine la normativa de ordenación de las distintas etapas educativas. 
-El recreo se situará después de las dos o las tres primeras horas de clase. 
-3. La solicitud de aplicación de horarios especiales que conlleven una duración distinta 
-requerirá siempre la autorización expresa de la Dirección Territorial de Educación que corresponda y se presentará para su aplicación antes del comienzo de las actividades lectivas 
-del curso, acompañada de un informe que recoja la justificación del cambio, que tendrá 
-efectos en el curso siguiente. En todo caso, los centros aplicarán, para otro tipo de modificaciones excepcionales, las instrucciones que se aprueben anualmente para establecer el 
-calendario de actividades de inicio, desarrollo y finalización del curso escolar.
+#### Artículo 6. Actividades escolares lectivas.
 
-#### Artículo 7.- Atención al alumnado en ausencia de profesorado.
+1. En los centros que imparten Educación Infantil y Educación Primaria, las actividades escolares lectivas se realizarán de lunes a viernes, durante cinco horas diarias, que se distribuirán en el número de sesiones que establezca el centro, de acuerdo con la normativa vigente. Estas cinco horas diarias incluirán los periodos de recreo para los que la jefatura de estudios establecerá las condiciones de atención al alumnado de acuerdo con lo especificado en el artículo 17 de la presente Orden. Los centros podrán realizar las cinco horas en jornada continua -todas las sesiones seguidas- o en jornada partida, en cuyo caso deberá existir un intervalo mínimo de dos horas entre la última sesión de la mañana y la primera de la tarde.
 
-1. Los centros, en el ejercicio de su autonomía organizativa, elaborarán un plan de atención al alumnado en caso de ausencia de profesorado, del que formará parte el personal docente disponible en cada sesión sin horas de docencia directa y que no esté realizando otras 
+2. En los centros que imparten Educación Secundaria Obligatoria, Bachillerato y Formación Profesional de Grado Medio y Superior y Enseñanzas Deportivas de Grado Medio y Superior, las actividades lectivas se realizarán de lunes a viernes en el número de sesiones y con la duración que determine la normativa de ordenación de las distintas etapas educativas. El recreo se situará después de las dos o las tres primeras horas de clase.
 
-funciones docentes asignadas por la dirección del centro. Se excluyen al orientador o a la 
-orientadora y al profesorado de Pedagogía Terapéutica (PT) cuando tengan horario lectivo. 
-Se dará prioridad al alumnado que esté cursando Educación Infantil, Educación Primaria y 
-Educación Secundaria Obligatoria. Se evitará, en lo posible, el reparto del alumnado.
-2. A estos efectos, corresponde a los equipos de ciclo y a los departamentos de coordinación didáctica, haciendo uso de su autonomía pedagógica, proponer actividades que 
-realizará el alumnado en los casos de ausencia de profesorado. Dadas las etapas educativas 
-a las que se dirige, estas actividades deberán favorecer la adquisición de las competencias 
-básicas.
-3. Este plan de atención se incluirá en la programación general anual y en el constarán los 
-criterios establecidos para la elaboración de las actividades y las tareas que habrán de estar 
-disponibles en caso de ausencia del profesorado.
+3. La solicitud de aplicación de horarios especiales que conlleven una duración distinta requerirá siempre la autorización expresa de la Dirección Territorial de Educación que corresponda y se presentará para su aplicación antes del comienzo de las actividades lectivas del curso, acompañada de un informe que recoja la justificación del cambio, que tendrá efectos en el curso siguiente. En todo caso, los centros aplicarán, para otro tipo de modificaciones excepcionales, las instrucciones que se aprueben anualmente para establecer el calendario de actividades de inicio, desarrollo y finalización del curso escolar.
 
-#### Artículo 8.- Coordinación entre las distintas etapas educativas.
+#### Artículo 7. Atención al alumnado en ausencia de profesorado.
 
-1. Con el objetivo de dar coherencia a los procesos de enseñanza y aprendizaje entre las 
-etapas educativas, es necesario establecer la coordinación de la planificación pedagógica 
-entre el profesorado que imparte distintas etapas educativas en un mismo centro, incluido el 
-profesorado con atribuciones de atención al alumnado con necesidades específicas de apoyo 
-educativo, y entre los centros que configuran un mismo distrito educativo. Esta coordinación 
-unificará los criterios para favorecer que el alumnado adquiera las competencias básicas. 
-2. A los efectos de lo establecido en el apartado anterior, las Escuelas Infantiles dependientes de la Consejería de Educación, Universidades y Sostenibilidad se coordinarán con el 
-colegio al que estén adscritas. Asimismo, en los términos que se establezcan, se favorecerá 
-la coordinación de otras Escuelas Infantiles de titularidad pública que impartan el primer 
-ciclo de Educación Infantil con las Escuelas Infantiles dependientes de la Consejería de 
-Educación, Universidades y Sostenibilidad o los colegios de Educación Infantil y Primaria 
-a los que puedan estar adscritos.
-Por otro lado, los colegios pertenecientes a un mismo distrito educativo coordinarán su 
-planificación pedagógica con el centro de Educación Secundaria al que estén adscritos, en 
-especial, la relativa a sexto curso de Educación Primaria, por ser este, curso terminal de 
-etapa educativa. Los centros con Educación Secundaria Obligatoria que no imparten Bachillerato deberán coordinarse, por su parte, con el centro correspondiente que recibe, con 
-carácter general, al alumnado que quiera cursar estas enseñanzas.
-3. Los centros cabecera de distrito, en virtud de su autonomía pedagógica, podrán planificar las sesiones de coordinación para tratar temas de interés tales como la mejora del rendimiento escolar, la atención a la diversidad, el trabajo por competencias, las evaluaciones 
-externas, la prevención del absentismo escolar, las relaciones con las familias, los proyectos 
-educativos del distrito, los proyectos de innovación o las relaciones con otras instituciones. 
-No obstante, los directores y las directoras de los centros del distrito, convocados por la 
-Inspección Educativa, celebrarán reuniones de coordinación, adecuándolas a la disposición 
-horaria de las partes convocadas, al menos, durante el primer trimestre del curso y en los 
+1. Los centros, en el ejercicio de su autonomía organizativa, elaborarán un plan de atención al alumnado en caso de ausencia de profesorado, del que formará parte el personal docente disponible en cada sesión sin horas de docencia directa y que no esté realizando otras
 
-momentos que fije la resolución anual por la que se convoca el procedimiento de admisión 
-del alumnado para el siguiente curso. 
+funciones docentes asignadas por la dirección del centro. Se excluyen al orientador o a la orientadora y al profesorado de Pedagogía Terapéutica (PT) cuando tengan horario lectivo. Se dará prioridad al alumnado que esté cursando Educación Infantil, Educación Primaria y Educación Secundaria Obligatoria. Se evitará, en lo posible, el reparto del alumnado.
 
-#### Artículo 9.- Funcionamiento de los órganos colegiados.
+2. A estos efectos, corresponde a los equipos de ciclo y a los departamentos de coordinación didáctica, haciendo uso de su autonomía pedagógica, proponer actividades que realizará el alumnado en los casos de ausencia de profesorado. Dadas las etapas educativas a las que se dirige, estas actividades deberán favorecer la adquisición de las competencias básicas.
 
-1. Sin perjuicio de lo previsto en el Reglamento Orgánico de los centros para el Consejo 
-Escolar y el Claustro, el resto de los órganos colegiados de los centros aplicará el régimen 
-de mayorías para su válida constitución y para la adopción de los acuerdos que se fijen en las 
-normas de organización y funcionamiento del centro, respetando, en todo caso, la normativa 
-de evaluación que afecta a cada etapa educativa. De las reuniones celebradas, de los temas 
-tratados y de los acuerdos tomados en las mismas, se dejará constancia de los aspectos más 
-relevantes.
-2. Los centros podrán documentar y formalizar la transcripción de las actas de sus diversos órganos colegiados a través del sistema de hojas móviles, debidamente firmadas y 
-numeradas. 
-3. Las reuniones del Claustro y del Consejo Escolar se realizarán fuera de la actividad 
-lectiva del alumnado. En el caso de los centros de Educación Infantil y Educación Primaria, 
-estas reuniones tendrán lugar, además, fuera de las horas complementarias de permanencia 
-en el centro (exclusiva).
-4. Los miembros de los órganos de coordinación y orientación docente no podrán abstenerse en las votaciones por ser personal de la Administración, aunque podrán formular su 
-voto particular, expresado por escrito, con el sentido del voto y los motivos que lo justifican
+3. Este plan de atención se incluirá en la programación general anual y en el constarán los criterios establecidos para la elaboración de las actividades y las tareas que habrán de estar disponibles en caso de ausencia del profesorado.
 
-### CAPÍTULO III
+#### Artículo 8. Coordinación entre las distintas etapas educativas.
 
-CENTROS QUE IMPARTEN EDUCACIÓN INFANTIL Y EDUCACIÓN PRIMARIA
+1. Con el objetivo de dar coherencia a los procesos de enseñanza y aprendizaje entre las etapas educativas, es necesario establecer la coordinación de la planificación pedagógica entre el profesorado que imparte distintas etapas educativas en un mismo centro, incluido el profesorado con atribuciones de atención al alumnado con necesidades específicas de apoyo educativo, y entre los centros que configuran un mismo distrito educativo. Esta coordinación unificará los criterios para favorecer que el alumnado adquiera las competencias básicas.
 
-#### Sección 1ª 
+2. A los efectos de lo establecido en el apartado anterior, las Escuelas Infantiles dependientes de la Consejería de Educación, Universidades y Sostenibilidad se coordinarán con el colegio al que estén adscritas. Asimismo, en los términos que se establezcan, se favorecerá la coordinación de otras Escuelas Infantiles de titularidad pública que impartan el primer ciclo de Educación Infantil con las Escuelas Infantiles dependientes de la Consejería de Educación, Universidades y Sostenibilidad o los colegios de Educación Infantil y Primaria a los que puedan estar adscritos. Por otro lado, los colegios pertenecientes a un mismo distrito educativo coordinarán su planificación pedagógica con el centro de Educación Secundaria al que estén adscritos, en especial, la relativa a sexto curso de Educación Primaria, por ser este, curso terminal de etapa educativa. Los centros con Educación Secundaria Obligatoria que no imparten Bachillerato deberán coordinarse, por su parte, con el centro correspondiente que recibe, con carácter general, al alumnado que quiera cursar estas enseñanzas.
 
-Órganos de coordinación y orientación docente
+3. Los centros cabecera de distrito, en virtud de su autonomía pedagógica, podrán planificar las sesiones de coordinación para tratar temas de interés tales como la mejora del rendimiento escolar, la atención a la diversidad, el trabajo por competencias, las evaluaciones externas, la prevención del absentismo escolar, las relaciones con las familias, los proyectos educativos del distrito, los proyectos de innovación o las relaciones con otras instituciones. No obstante, los directores y las directoras de los centros del distrito, convocados por la Inspección Educativa, celebrarán reuniones de coordinación, adecuándolas a la disposición horaria de las partes convocadas, al menos, durante el primer trimestre del curso y en los
 
-#### Artículo 10.- Órganos de coordinación y orientación docente.
+momentos que fije la resolución anual por la que se convoca el procedimiento de admisión del alumnado para el siguiente curso.
 
-1. Los órganos colegiados de coordinación y orientación docente de los centros que imparten Educación Infantil y Educación Primaria son la comisión de coordinación pedagógica, la comisión de actividades complementarias y extraescolares, y los equipos docentes de 
-ciclo, de grupo y, en su caso, de nivel. Tendrán la composición, la organización y las competencias que determina, de forma genérica, el Reglamento Orgánico de los centros docentes 
-públicos no universitarios de la Comunidad Autónoma de Canarias y, en su caso, las normas 
-de organización y funcionamiento del centro.
-2. Asimismo, podrán constituirse equipos de trabajo que desarrollen programas y proyectos educativos. 
+#### Artículo 9. Funcionamiento de los órganos colegiados.
 
-#### Artículo 11.- Comisión de coordinación pedagógica.
+1. Sin perjuicio de lo previsto en el Reglamento Orgánico de los centros para el Consejo Escolar y el Claustro, el resto de los órganos colegiados de los centros aplicará el régimen de mayorías para su válida constitución y para la adopción de los acuerdos que se fijen en las normas de organización y funcionamiento del centro, respetando, en todo caso, la normativa de evaluación que afecta a cada etapa educativa. De las reuniones celebradas, de los temas tratados y de los acuerdos tomados en las mismas, se dejará constancia de los aspectos más relevantes.
 
-1. La comisión de coordinación pedagógica establecida en el Reglamento Orgánico de 
-los centros se reunirá, como mínimo, con una periodicidad mensual para el cumplimiento 
-de sus funciones. Celebrará, además, una sesión extraordinaria al comienzo de curso y otra 
-al finalizar este, y cuantas otras considere necesarias. Las convocatorias de estas reuniones 
-se planificarán de modo que pueda asistir el orientador o la orientadora que intervenga en 
-el centro. 
-2. Durante el mes de septiembre, la comisión de coordinación pedagógica deberá establecer sus objetivos y su calendario de tareas, que se incluirán en la programación general 
-anual. Se podrán crear subcomisiones para temas específicos.
-3. Al final de cada curso, la comisión de coordinación pedagógica, considerando las aportaciones de los equipos docentes y de los diferentes órganos de coordinación y orientación 
-docente, elaborará un informe, que se recogerá en la memoria final y en el que se incluirán, 
-como mínimo, el análisis de los resultados académicos del curso escolar y las propuestas de 
-mejora.
+2. Los centros podrán documentar y formalizar la transcripción de las actas de sus diversos órganos colegiados a través del sistema de hojas móviles, debidamente firmadas y numeradas.
 
-#### Artículo 12.- Comisión de actividades complementarias y extraescolares.
+3. Las reuniones del Claustro y del Consejo Escolar se realizarán fuera de la actividad lectiva del alumnado. En el caso de los centros de Educación Infantil y Educación Primaria, estas reuniones tendrán lugar, además, fuera de las horas complementarias de permanencia en el centro (exclusiva).
 
-1. La comisión de actividades complementarias y extraescolares tendrá las funciones 
-previstas en el Reglamento Orgánico de los centros. La programación anual de actividades 
-complementarias y extraescolares estará coordinada por la vicedirección y, en los centros 
-en los que no exista esa figura, por un miembro del equipo directivo. Esta programación 
-contendrá todas aquellas actividades de este carácter que organicen y desarrollen los equipos docentes o la propia comisión de actividades complementarias y extraescolares, en colaboración, en su caso, con las asociaciones de padres y madres del alumnado legalmente 
-constituidas. El Claustro y el Consejo Escolar, en la primera reunión del curso, establecerán 
-los criterios para su elaboración y las fórmulas para recoger las propuestas y divulgar las 
-actividades programadas.
-2. Estas actividades podrán realizarse también por el mismo centro, a través de asociaciones colaboradoras, o en cooperación con el Ayuntamiento u otras instituciones o entidades. 
-Todo ello dentro del marco de la autonomía de los centros y de acuerdo con la normativa 
-aplicable.
+4. Los miembros de los órganos de coordinación y orientación docente no podrán abstenerse en las votaciones por ser personal de la Administración, aunque podrán formular su voto particular, expresado por escrito, con el sentido del voto y los motivos que lo justifican
 
-#### Artículo 13.- Equipos docentes.
+## Capítulo III. Centros QUE imparten educación infantil y educación primaria.
 
-1. Equipos docentes de grupo.
-1.1. Las reuniones de estos equipos docentes tienen como función principal la evaluación de 
-los procesos de enseñanza y de aprendizaje del alumnado del grupo. Estarán constituidos por 
-el profesorado que imparte docencia a cada grupo y serán coordinados por el profesorado tutor.
-1.2. Las reuniones de equipos docentes de grupo deben articularse, según el calendario 
-establecido por la jefatura de estudios y, como mínimo, de la siguiente forma:
+### Sección 1.ª. Órganos de coordinación y orientación docente.
 
-a) Reuniones preparatorias en el mes de septiembre para elaborar la programación 
-­didáctica. 
+#### Artículo 10. Órganos de coordinación y orientación docente.
+
+1. Los órganos colegiados de coordinación y orientación docente de los centros que imparten Educación Infantil y Educación Primaria son la comisión de coordinación pedagógica, la comisión de actividades complementarias y extraescolares, y los equipos docentes de ciclo, de grupo y, en su caso, de nivel. Tendrán la composición, la organización y las competencias que determina, de forma genérica, el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias y, en su caso, las normas de organización y funcionamiento del centro.
+
+2. Asimismo, podrán constituirse equipos de trabajo que desarrollen programas y proyectos educativos.
+
+#### Artículo 11. Comisión de coordinación pedagógica.
+
+1. La comisión de coordinación pedagógica establecida en el Reglamento Orgánico de los centros se reunirá, como mínimo, con una periodicidad mensual para el cumplimiento de sus funciones. Celebrará, además, una sesión extraordinaria al comienzo de curso y otra al finalizar este, y cuantas otras considere necesarias. Las convocatorias de estas reuniones se planificarán de modo que pueda asistir el orientador o la orientadora que intervenga en el centro.
+
+2. Durante el mes de septiembre, la comisión de coordinación pedagógica deberá establecer sus objetivos y su calendario de tareas, que se incluirán en la programación general anual. Se podrán crear subcomisiones para temas específicos.
+
+3. Al final de cada curso, la comisión de coordinación pedagógica, considerando las aportaciones de los equipos docentes y de los diferentes órganos de coordinación y orientación docente, elaborará un informe, que se recogerá en la memoria final y en el que se incluirán, como mínimo, el análisis de los resultados académicos del curso escolar y las propuestas de mejora.
+
+#### Artículo 12. Comisión de actividades complementarias y extraescolares.
+
+1. La comisión de actividades complementarias y extraescolares tendrá las funciones previstas en el Reglamento Orgánico de los centros. La programación anual de actividades complementarias y extraescolares estará coordinada por la vicedirección y, en los centros en los que no exista esa figura, por un miembro del equipo directivo. Esta programación contendrá todas aquellas actividades de este carácter que organicen y desarrollen los equipos docentes o la propia comisión de actividades complementarias y extraescolares, en colaboración, en su caso, con las asociaciones de padres y madres del alumnado legalmente constituidas. El Claustro y el Consejo Escolar, en la primera reunión del curso, establecerán los criterios para su elaboración y las fórmulas para recoger las propuestas y divulgar las actividades programadas.
+
+2. Estas actividades podrán realizarse también por el mismo centro, a través de asociaciones colaboradoras, o en cooperación con el Ayuntamiento u otras instituciones o entidades. Todo ello dentro del marco de la autonomía de los centros y de acuerdo con la normativa aplicable.
+
+#### Artículo 13. Equipos docentes.
+
+1. Equipos docentes de grupo. 1.1. Las reuniones de estos equipos docentes tienen como función principal la evaluación de los procesos de enseñanza y de aprendizaje del alumnado del grupo. Estarán constituidos por el profesorado que imparte docencia a cada grupo y serán coordinados por el profesorado tutor. 1.2. Las reuniones de equipos docentes de grupo deben articularse, según el calendario establecido por la jefatura de estudios y, como mínimo, de la siguiente forma:
+
+a) Reuniones preparatorias en el mes de septiembre para elaborar la programación didáctica.
 b) Reuniones ordinarias, de carácter periódico, para el control del desarrollo y cumplimiento de la programación, y para la organización de actividades, con el propósito de valorar la metodología empleada y consensuar pautas de intervención en el grupo.
-c) Sesiones de evaluación, que se desarrollarán conforme a lo establecido en la normativa 
-de evaluación en vigor, correspondiente a las distintas etapas en las que deben ser tratados y 
-valorados el rendimiento escolar del alumnado, el análisis de los resultados y las propuestas 
-de mejora que se propongan, junto con el uso de los medios y de los recursos didácticos. De 
-cada reunión se levantará acta y se elaborará un informe que servirá también para la redacción de la memoria final.
-d) Reuniones al final del período lectivo ordinario para analizar su resultado final. Las 
-conclusiones y las propuestas correctoras aprobadas se adjuntarán a las actas trimestrales 
-para su posterior incorporación en la memoria final de curso.
-1.3. El equipo directivo facilitará a las familias o a los tutores legales la posibilidad de 
-reunirse con el profesorado no tutor del grupo.
-2. Equipos docentes de nivel.
-Los equipos docentes de nivel, de existir en el centro, planificarán sus sesiones de trabajo, conforme a lo establecido en las normas de organización y funcionamiento. Para esta 
-planificación se tendrá en cuenta la existencia de equipos de trabajo que desarrollen programas y proyectos educativos.
-3. Equipos docentes de ciclo.
-3.1. Las reuniones de los equipos de ciclo tendrán por objeto, como mínimo, evaluar el 
-desarrollo de la práctica docente y aplicar las medidas correctoras que esa evaluación aconseje, dentro del marco de las competencias reconocidas a estos equipos en el Reglamento 
-Orgánico de los centros. Se levantará acta de estas reuniones donde se recogerán los temas 
-tratados y los acuerdos adoptados.
-3.2. La jefatura de estudios determinará la periodicidad de las reuniones de los equipos 
-docentes de ciclo, que no podrá ser menor de una mensual. Estas reuniones serán de obligada asistencia para todo el profesorado perteneciente a ellos. 
-3.3. Según lo establecido en las normas de organización y funcionamiento del centro, 
-una vez cada trimestre, al menos, las reuniones de los equipos de ciclo tendrán por objeto 
-evaluar el desarrollo de la práctica docente, las actividades y los proyectos realizados, 
-las dificultades encontradas y los resultados obtenidos; y aplicar las propuestas de mejora que esa evaluación aconseje. Estas propuestas serán recogidas en un informe que 
-elaborará la persona coordinadora del equipo de ciclo y servirán para la redacción de la 
-memoria final. 
+c) Sesiones de evaluación, que se desarrollarán conforme a lo establecido en la normativa de evaluación en vigor, correspondiente a las distintas etapas en las que deben ser tratados y valorados el rendimiento escolar del alumnado, el análisis de los resultados y las propuestas de mejora que se propongan, junto con el uso de los medios y de los recursos didácticos. De cada reunión se levantará acta y se elaborará un informe que servirá también para la redacción de la memoria final.
+d) Reuniones al final del período lectivo ordinario para analizar su resultado final. Las conclusiones y las propuestas correctoras aprobadas se adjuntarán a las actas trimestrales para su posterior incorporación en la memoria final de curso. 1.3. El equipo directivo facilitará a las familias o a los tutores legales la posibilidad de reunirse con el profesorado no tutor del grupo.
 
-3.4. Cuando no existan personas coordinadoras de ciclo de Educación Infantil o Educación Primaria, por tener el ciclo una sola unidad, sus funciones serán asumidas por la 
-dirección.
+2. Equipos docentes de nivel. Los equipos docentes de nivel, de existir en el centro, planificarán sus sesiones de trabajo, conforme a lo establecido en las normas de organización y funcionamiento. Para esta planificación se tendrá en cuenta la existencia de equipos de trabajo que desarrollen programas y proyectos educativos.
 
-#### Artículo 14.- Tutorías.
+3. Equipos docentes de ciclo. 3.1. Las reuniones de los equipos de ciclo tendrán por objeto, como mínimo, evaluar el desarrollo de la práctica docente y aplicar las medidas correctoras que esa evaluación aconseje, dentro del marco de las competencias reconocidas a estos equipos en el Reglamento Orgánico de los centros. Se levantará acta de estas reuniones donde se recogerán los temas tratados y los acuerdos adoptados. 3.2. La jefatura de estudios determinará la periodicidad de las reuniones de los equipos docentes de ciclo, que no podrá ser menor de una mensual. Estas reuniones serán de obligada asistencia para todo el profesorado perteneciente a ellos. 3.3. Según lo establecido en las normas de organización y funcionamiento del centro, una vez cada trimestre, al menos, las reuniones de los equipos de ciclo tendrán por objeto evaluar el desarrollo de la práctica docente, las actividades y los proyectos realizados, las dificultades encontradas y los resultados obtenidos; y aplicar las propuestas de mejora que esa evaluación aconseje. Estas propuestas serán recogidas en un informe que elaborará la persona coordinadora del equipo de ciclo y servirán para la redacción de la memoria final.
 
-1. Cada grupo de alumnado tendrá un tutor o una tutora nombrados por la dirección, a 
-propuesta de la jefatura de estudios. Para ello se atenderá a criterios pedagógicos y se respetará la finalización del ciclo con el profesor o la profesora que lo ha iniciado, favoreciendo, 
-de este modo, la estabilidad del mismo. 
-2. Sin perjuicio de las atribuciones previstas en el artículo 36, apartado 2, del Reglamento 
-Orgánico de los centros, que sean aplicables en Educación Infantil y Educación Primaria, los 
-tutores y las tutoras desarrollarán las siguientes tareas:
-a) En relación con el alumnado de su grupo: 
-- Coordinar las acciones para su aprendizaje, orientar su evolución escolar y apoyar su 
-proceso educativo en colaboración con las familias.
+3.4. Cuando no existan personas coordinadoras de ciclo de Educación Infantil o Educación Primaria, por tener el ciclo una sola unidad, sus funciones serán asumidas por la dirección.
+
+#### Artículo 14. Tutorías.
+
+1. Cada grupo de alumnado tendrá un tutor o una tutora nombrados por la dirección, a propuesta de la jefatura de estudios. Para ello se atenderá a criterios pedagógicos y se respetará la finalización del ciclo con el profesor o la profesora que lo ha iniciado, favoreciendo, de este modo, la estabilidad del mismo.
+
+2. Sin perjuicio de las atribuciones previstas en el artículo 36, apartado 2, del Reglamento Orgánico de los centros, que sean aplicables en Educación Infantil y Educación Primaria, los tutores y las tutoras desarrollarán las siguientes tareas:
+a) En relación con el alumnado de su grupo:
+- Coordinar las acciones para su aprendizaje, orientar su evolución escolar y apoyar su proceso educativo en colaboración con las familias.
 - Asesorar sobre métodos de trabajo, técnicas de estudio y tareas.
-- Informar, al nivel que corresponda, sobre los derechos y los deberes del alumnado, 
-y las normas de convivencia del centro, los criterios de evaluación y de calificación 
-que se les aplican, así como de los aspectos más relevantes de la programación general 
-anual.
-- Informar a su alumnado sobre la organización, el funcionamiento y los órganos de gobierno del centro. 
+- Informar, al nivel que corresponda, sobre los derechos y los deberes del alumnado, y las normas de convivencia del centro, los criterios de evaluación y de calificación que se les aplican, así como de los aspectos más relevantes de la programación general anual.
+- Informar a su alumnado sobre la organización, el funcionamiento y los órganos de gobierno del centro.
 - Fomentar en el alumnado hábitos democráticos, inculcando la participación en asambleas y reuniones.
-- Educar en valores y promover la resolución pacífica de conflictos. 
-- Participar y, en su caso. coordinar las actividades complementarias y las actividades 
-extraescolares organizadas por el centro que se realicen fuera del aula y que afecten al alumnado de su grupo. 
+- Educar en valores y promover la resolución pacífica de conflictos.
+- Participar y, en su caso. coordinar las actividades complementarias y las actividades extraescolares organizadas por el centro que se realicen fuera del aula y que afecten al alumnado de su grupo.
 - Preparar y coordinar las sesiones de evaluación, levantando acta de ellas.
 - Coordinar la elaboración y el seguimiento de las adaptaciones curriculares del alumnado del grupo cuando las tengan prescritas.
-- Cumplimentar los documentos oficiales de evaluación del alumnado y elaborar los 
-informes personales y los resultados de la evaluación final del alumnado de su grupo, adjuntando una copia de estos resultados a la memoria final de curso; además de rellenar los 
+- Cumplimentar los documentos oficiales de evaluación del alumnado y elaborar los informes personales y los resultados de la evaluación final del alumnado de su grupo, adjuntando una copia de estos resultados a la memoria final de curso; además de rellenar los
 
-boletines de calificaciones, cuidando que lleguen a sus destinatarios y sean devueltos, debidamente firmados, en los plazos previstos. 
-b) En relación con los padres, las madres: 
-- Llevar a cabo las reuniones de padres y madres establecidas en el plan de acción 
-tutorial en horario de tarde para favorecer su participación y asistencia. En todo caso, 
-al comienzo del curso, se informará a los padres, las madres o los tutores legales, y al 
-alumnado de la programación del área, nivel o ciclo en los aspectos relativos, en especial, al sistema de evaluación (instrumentos de evaluación, criterios de calificación y 
-evaluación y sus indicadores), así como a las fórmulas arbitradas para la coordinación y 
-colaboración familia-escuela.
-- Informar a las familias del proceso educativo del grupo, a través de los procedimientos 
-establecidos por el centro -entre los que han de incluirse necesariamente los boletines de calificaciones de las evaluaciones y las entrevistas periódicas con los padres y las madres o los 
-tutores legales- al menos una vez al trimestre; así como establecer fórmulas de colaboración 
-y coordinación. 
-c) En relación con el equipo docente: 
-- Coordinarse con los distintos especialistas en los periodos que se contemplen en las 
-normas de organización y funcionamiento del centro.
-3. La dirección del centro garantizará un encuentro trimestral del tutor o la tutora de 
-grupo y de todo el equipo educativo con las familias o tutores legales. A petición de las familias o de los tutores legales, y por razones excepcionales, la dirección del centro facilitará, 
-siempre dentro del horario dedicado a la docencia no directa, un encuentro entre estos y el 
-tutor o la tutora del grupo.
+boletines de calificaciones, cuidando que lleguen a sus destinatarios y sean devueltos, debidamente firmados, en los plazos previstos.
+b) En relación con los padres, las madres:
+- Llevar a cabo las reuniones de padres y madres establecidas en el plan de acción tutorial en horario de tarde para favorecer su participación y asistencia. En todo caso, al comienzo del curso, se informará a los padres, las madres o los tutores legales, y al alumnado de la programación del área, nivel o ciclo en los aspectos relativos, en especial, al sistema de evaluación (instrumentos de evaluación, criterios de calificación y evaluación y sus indicadores), así como a las fórmulas arbitradas para la coordinación y colaboración familia-escuela.
+- Informar a las familias del proceso educativo del grupo, a través de los procedimientos establecidos por el centro -entre los que han de incluirse necesariamente los boletines de calificaciones de las evaluaciones y las entrevistas periódicas con los padres y las madres o los tutores legales- al menos una vez al trimestre; así como establecer fórmulas de colaboración y coordinación.
+c) En relación con el equipo docente:
+- Coordinarse con los distintos especialistas en los periodos que se contemplen en las normas de organización y funcionamiento del centro.
 
-#### Sección 2ª 
+3. La dirección del centro garantizará un encuentro trimestral del tutor o la tutora de grupo y de todo el equipo educativo con las familias o tutores legales. A petición de las familias o de los tutores legales, y por razones excepcionales, la dirección del centro facilitará, siempre dentro del horario dedicado a la docencia no directa, un encuentro entre estos y el tutor o la tutora del grupo.
 
-Del alumnado
+### Sección 2.ª. Del alumnado.
 
-#### Artículo 15.- Horario del alumnado.
+#### Artículo 15. Horario del alumnado.
 
-1. Los criterios pedagógicos para la elaboración del horario semanal del alumnado serán 
-fijados por el Claustro de profesorado, con antelación suficiente, al comienzo de las actividades de cada curso y serán tenidos en cuenta por la jefatura de estudios al elaborar los 
-horarios.
-2. Con carácter general, el horario del alumnado comprenderá veinticinco horas semanales, que se distribuirá de lunes a viernes, en jornadas de mañana o de mañana y tarde. Entre 
-las actividades lectivas de la mañana y de la tarde, si se trata del mismo grupo, deberá existir 
-un descanso mínimo de dos horas.
+1. Los criterios pedagógicos para la elaboración del horario semanal del alumnado serán fijados por el Claustro de profesorado, con antelación suficiente, al comienzo de las actividades de cada curso y serán tenidos en cuenta por la jefatura de estudios al elaborar los horarios.
 
-#### Artículo 16.- Agrupamiento del alumnado.
+2. Con carácter general, el horario del alumnado comprenderá veinticinco horas semanales, que se distribuirá de lunes a viernes, en jornadas de mañana o de mañana y tarde. Entre las actividades lectivas de la mañana y de la tarde, si se trata del mismo grupo, deberá existir un descanso mínimo de dos horas.
 
-1. El Claustro, a propuesta de la dirección, aprobará los criterios pedagógicos para la 
-formación de los grupos en que se organizará al alumnado de cada curso, teniendo en cuenta 
-que el ciclo es la unidad de organización en Educación Infantil y en Educación Primaria. 
-Los criterios para el agrupamiento del alumnado figurarán en la programación general anual.
-2. La organización de los grupos de alumnado respetará el criterio de heterogeneidad y 
-el principio de no discriminación por razón de nacimiento, raza, sexo, religión, opinión o 
-cualquier otra condición o circunstancia personal o social.
-3. Con carácter general y para garantizar una situación de enseñanza y aprendizaje adecuada, todos los grupos de Educación Infantil y Educación Primaria se organizarán con un 
-número semejante de alumnado, e incorporarán, de manera equilibrada, a aquel con necesidad específica de apoyo educativo. En este sentido, los alumnos y las alumnas con necesidades educativas especiales escolarizados deberán estar distribuidos de forma homogénea 
-entre todos los grupos de un mismo nivel, excluyendo en la composición de los mismos 
-cualquier criterio discriminatorio. No obstante, las ratios podrán ser modificadas dentro del 
-marco legal general aplicable, cuando existan necesidades de escolarización y en situaciones 
-extraordinarias, en todo caso.
+#### Artículo 16. Agrupamiento del alumnado.
+
+1. El Claustro, a propuesta de la dirección, aprobará los criterios pedagógicos para la formación de los grupos en que se organizará al alumnado de cada curso, teniendo en cuenta que el ciclo es la unidad de organización en Educación Infantil y en Educación Primaria. Los criterios para el agrupamiento del alumnado figurarán en la programación general anual.
+
+2. La organización de los grupos de alumnado respetará el criterio de heterogeneidad y el principio de no discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
+
+3. Con carácter general y para garantizar una situación de enseñanza y aprendizaje adecuada, todos los grupos de Educación Infantil y Educación Primaria se organizarán con un número semejante de alumnado, e incorporarán, de manera equilibrada, a aquel con necesidad específica de apoyo educativo. En este sentido, los alumnos y las alumnas con necesidades educativas especiales escolarizados deberán estar distribuidos de forma homogénea entre todos los grupos de un mismo nivel, excluyendo en la composición de los mismos cualquier criterio discriminatorio. No obstante, las ratios podrán ser modificadas dentro del marco legal general aplicable, cuando existan necesidades de escolarización y en situaciones extraordinarias, en todo caso.
+
 4. El alumnado que permanezca un año más en un curso será también distribuido homogéneamente en la medida de lo posible.
+
 5. La fusión o la separación con carácter permanente de grupos de alumnado que modifique la plantilla de funcionamiento del centro deberá tener la autorización de la Administración educativa.
 
-#### Sección 3ª 
+### Sección 3.ª. Del profesorado.
 
-Del profesorado
+#### Artículo 17. Organización del recreo.
 
-#### Artículo 17.- Organización del recreo. Cuidado y atención al alumnado. 
+Cuidado y atención al alumnado.
 
-1. Los horarios se ajustarán para que, dentro de las veinticinco horas lectivas semanales, 
-queden incluidos los períodos destinados a recreo. En su organización deberá procurarse que 
-no coincida el recreo del alumnado de los cursos superiores con el de los primeros cursos, 
-especialmente con los niños y las niñas de Educación Infantil. El tiempo destinado a los 
-recreos no será superior a tres horas a la semana en Educación Infantil y a dos horas y media 
-en Educación Primaria. En cualquier caso, para que la actividad escolar se altere lo menos 
-posible, la distribución de los periodos de recreo estará en función de la estructura y de las 
-instalaciones del centro, así como de sus posibilidades organizativas. 
-2. La jefatura de estudios elaborará los criterios para la organización y el cuidado de los 
-recreos, que serán aprobados por el Claustro. Se arbitrará un sistema de turnos con un mínimo de un maestro o una maestra como responsable directo del cuidado por cada 60 alumnos 
-y alumnas o fracción en Educación Primaria y por cada 30 o fracción en Educación Infantil.
+1. Los horarios se ajustarán para que, dentro de las veinticinco horas lectivas semanales, queden incluidos los períodos destinados a recreo. En su organización deberá procurarse que no coincida el recreo del alumnado de los cursos superiores con el de los primeros cursos, especialmente con los niños y las niñas de Educación Infantil. El tiempo destinado a los recreos no será superior a tres horas a la semana en Educación Infantil y a dos horas y media en Educación Primaria. En cualquier caso, para que la actividad escolar se altere lo menos posible, la distribución de los periodos de recreo estará en función de la estructura y de las instalaciones del centro, así como de sus posibilidades organizativas.
 
-3. En los centros en los que el número de maestros y maestras sea superior al de unidades, la dirección, la jefatura de estudios y la secretaría podrán estar exentos, por este orden, 
-del cuidado del recreo, en cuyo caso no podrán descontar estas horas de su horario lectivo. 
-Asimismo, los componentes de los equipos de orientación educativa y psicopedagógicos 
-estarán dispensados del cuidado del recreo, excepto en aquellos supuestos excepcionales en 
-que la jefatura de estudios así lo determine.
+2. La jefatura de estudios elaborará los criterios para la organización y el cuidado de los recreos, que serán aprobados por el Claustro. Se arbitrará un sistema de turnos con un mínimo de un maestro o una maestra como responsable directo del cuidado por cada 60 alumnos y alumnas o fracción en Educación Primaria y por cada 30 o fracción en Educación Infantil.
 
-#### Artículo 18.- Jornada de trabajo: aspectos generales.
+3. En los centros en los que el número de maestros y maestras sea superior al de unidades, la dirección, la jefatura de estudios y la secretaría podrán estar exentos, por este orden, del cuidado del recreo, en cuyo caso no podrán descontar estas horas de su horario lectivo. Asimismo, los componentes de los equipos de orientación educativa y psicopedagógicos estarán dispensados del cuidado del recreo, excepto en aquellos supuestos excepcionales en que la jefatura de estudios así lo determine.
 
-1. La jornada semanal del profesorado de Educación Infantil y Educación Primaria es la 
-siguiente:
+#### Artículo 18. Jornada de trabajo: aspectos generales.
+
+1. La jornada semanal del profesorado de Educación Infantil y Educación Primaria es la siguiente:
+
 2. Esta jornada semanal se distribuirá de acuerdo con las horas lectivas y complementarias establecidas mediante las instrucciones que se dicten al efecto.
-3. La jefatura de estudios, mediante el procedimiento que la dirección del centro estime 
-más adecuado, controlará el cumplimiento de la jornada de trabajo del profesorado, dejando 
-siempre constancia documental de su ausencia, según las instrucciones que se dicten para 
-ello. El registro de las incidencias se hará de tal forma que permita su correcto archivo, sin 
-que sea posible modificar lo consignado.
-4. El régimen previsto para sustituciones del profesorado o para la concesión de permisos 
-y licencias, así como el procedimiento para formalizar la toma de posesión, serán los que se 
-establezcan mediante las instrucciones que se determinen para ello.
-JORNADA SEMANAL DEL PROFESORADO DE EDUCACIÓN INFANTIL Y 
-PRIMARIA 
-horas y 
-media 
-7 horas y 
-media 
-Preparación de actividades docentes, asistencia a actividades de 
-perfeccionamiento, etc. No obligada permanencia en el centro. 
-30 horas 
-de 
-actividades 
-del centro 
-28 horas de 
-permanencia 
-en el centro 
-horas 
-Horas lectivas. 
-horas 
-Horas complementarias de permanencia en el 
-centro (exclusiva). 
-2 horas de 
-media 
-semanal en  
-cómputo 
-anual 
-Actividades de periodicidad no fija, en el centro o fuera 
-del centro, como la realización de claustros, de sesiones 
-de formación complementaria… 
-No figuran en los horarios individuales del profesorado. 
 
-#### Artículo 19.- Horas complementarias de permanencia en el centro.
+3. La jefatura de estudios, mediante el procedimiento que la dirección del centro estime más adecuado, controlará el cumplimiento de la jornada de trabajo del profesorado, dejando siempre constancia documental de su ausencia, según las instrucciones que se dicten para ello. El registro de las incidencias se hará de tal forma que permita su correcto archivo, sin que sea posible modificar lo consignado.
 
-1. Las horas complementarias de periodicidad fija están destinadas a la realización de actividades orientadas a la consecución de los objetivos previstos en la programación general 
-anual del centro y deben figurar en el horario individual de cada docente, cumpliéndose en 
-periodos no inferiores a una hora ni superiores a tres en un mismo día, salvo autorización de la 
-Dirección Territorial de Educación correspondiente. En cualquier caso, dentro de este horario, 
-preferentemente de tarde, debe garantizarse la realización de las siguientes ­actividades: 
-- Entrevistas y reuniones con padres, madres o tutores legales del alumnado. A estos 
-efectos, según las necesidades de cada centro, la jefatura de estudios fijará un período de dos 
-horas de frecuencia quincenal, o bien uno de una hora semanal, por la tarde, cuya ubicación 
-en el calendario deberá comunicarse a las familias y estar expuesto en el tablón de anuncios 
-del centro. 
-- Asistencia a reuniones de equipos docentes de ciclo, nivel o grupo y, en su caso, a reu­
-niones de la comisión de coordinación pedagógica, las comisiones constituidas en el seno 
-del Consejo Escolar o la comisión de actividades complementarias y extraescolares.
-- Programación de la actividad del aula, de las actividades complementarias y de las 
-actividades extraescolares. 
-- Asistencia a reuniones de coordinación y seguimiento con el orientador o la orientadora 
-del centro y con el profesorado de apoyo educativo, así como con el profesorado del distrito. 
+4. El régimen previsto para sustituciones del profesorado o para la concesión de permisos y licencias, así como el procedimiento para formalizar la toma de posesión, serán los que se establezcan mediante las instrucciones que se determinen para ello. JORNADA SEMANAL DEL PROFESORADO DE EDUCACIÓN INFANTIL Y PRIMARIA horas y media 7 horas y media Preparación de actividades docentes, asistencia a actividades de perfeccionamiento, etc. No obligada permanencia en el centro. 30 horas de actividades del centro 28 horas de permanencia en el centro horas Horas lectivas. horas Horas complementarias de permanencia en el centro (exclusiva). 2 horas de media semanal en cómputo anual Actividades de periodicidad no fija, en el centro o fuera del centro, como la realización de claustros, de sesiones de formación complementaria… No figuran en los horarios individuales del profesorado.
+
+#### Artículo 19. Horas complementarias de permanencia en el centro.
+
+1. Las horas complementarias de periodicidad fija están destinadas a la realización de actividades orientadas a la consecución de los objetivos previstos en la programación general anual del centro y deben figurar en el horario individual de cada docente, cumpliéndose en periodos no inferiores a una hora ni superiores a tres en un mismo día, salvo autorización de la Dirección Territorial de Educación correspondiente. En cualquier caso, dentro de este horario, preferentemente de tarde, debe garantizarse la realización de las siguientes actividades:
+- Entrevistas y reuniones con padres, madres o tutores legales del alumnado. A estos efectos, según las necesidades de cada centro, la jefatura de estudios fijará un período de dos horas de frecuencia quincenal, o bien uno de una hora semanal, por la tarde, cuya ubicación en el calendario deberá comunicarse a las familias y estar expuesto en el tablón de anuncios del centro.
+- Asistencia a reuniones de equipos docentes de ciclo, nivel o grupo y, en su caso, a reu niones de la comisión de coordinación pedagógica, las comisiones constituidas en el seno del Consejo Escolar o la comisión de actividades complementarias y extraescolares.
+- Programación de la actividad del aula, de las actividades complementarias y de las actividades extraescolares.
+- Asistencia a reuniones de coordinación y seguimiento con el orientador o la orientadora del centro y con el profesorado de apoyo educativo, así como con el profesorado del distrito.
 - Coordinación de los distintos proyectos, programas y redes educativas en los que participe el centro.
-- Cualquier otra de las establecidas en la programación general anual. 
-2. Una vez cubiertas las necesidades educativas y organizativas del centro, el equipo directivo, oído el Claustro, planificará la manera de atender otras necesidades del centro, tales 
-como el uso de la biblioteca, la incorporación de las nuevas tecnologías de la información y 
-la comunicación a la actividad docente, o el aula de lenguas extranjeras, si existiera.
-3. En todo caso, la Inspección Educativa comprobará que se ha procurado la coincidencia 
-de los horarios destinados a las horas complementarias de periodicidad fija de los centros educativos de cada distrito, con el fin de facilitar la coordinación entre los centros que la integran.
+- Cualquier otra de las establecidas en la programación general anual.
 
-#### Sección 4ª 
+2. Una vez cubiertas las necesidades educativas y organizativas del centro, el equipo directivo, oído el Claustro, planificará la manera de atender otras necesidades del centro, tales como el uso de la biblioteca, la incorporación de las nuevas tecnologías de la información y la comunicación a la actividad docente, o el aula de lenguas extranjeras, si existiera.
 
-Elaboración y aprobación de horarios
+3. En todo caso, la Inspección Educativa comprobará que se ha procurado la coincidencia de los horarios destinados a las horas complementarias de periodicidad fija de los centros educativos de cada distrito, con el fin de facilitar la coordinación entre los centros que la integran.
 
-#### Artículo 20.- Condiciones y criterios previos para la elaboración de horarios.
+### Sección 4.ª. Elaboración y aprobación de horarios.
 
-1. Las horas de trabajo del profesorado serán distribuidas de lunes a viernes. Los horarios 
-de todo el personal docente, con la especificación de las horas lectivas y complementarias, 
+#### Artículo 20. Condiciones y criterios previos para la elaboración de horarios.
 
-se consignarán en la aplicación informática PINCEL o en la que se determine al efecto para 
-este proceso. Se guardará una copia firmada por las personas interesadas en la secretaría del 
-centro.
-Los cargos unipersonales consignarán, con expresión del tramo horario, los tiempos dedicados a la función docente y a la función directiva. Por su parte, la jefatura de estudios 
-tendrá en cuenta, al elaborar los horarios, las posibles reducciones de horario lectivo que se 
-establezcan en las instrucciones dictadas al efecto. 
-2. Los equipos directivos de los centros en los que trabajen maestros o maestras que 
-tengan destino en más de un centro de trabajo deben coordinarse para la confección de los 
-horarios compartidos entre estos centros, procurando no asignar tutoría a este profesorado. 
-En la medida de lo posible se intentará que el profesorado afectado no se desplace de un 
-centro a otro en una misma jornada. 
-3. El Claustro establecerá, previa propuesta de la comisión de coordinación pedagógica, 
-criterios propios para la elaboración de los horarios, atendiendo exclusivamente a razones 
-pedagógicas, siempre que se respeten los que, con carácter general, se establecen en la presente Orden. 
-4. La adjudicación de un determinado puesto de trabajo no exime al profesorado de impartir otras enseñanzas en el marco de su atribución docente o de desarrollar actividades que 
-puedan corresponderle, de acuerdo con la organización pedagógica del centro.
+1. Las horas de trabajo del profesorado serán distribuidas de lunes a viernes. Los horarios de todo el personal docente, con la especificación de las horas lectivas y complementarias,
 
-#### Artículo 21.- Asignación de niveles, tutorías, áreas, grupos y otras actividades docentes. 
+se consignarán en la aplicación informática PINCEL o en la que se determine al efecto para este proceso. Se guardará una copia firmada por las personas interesadas en la secretaría del centro. Los cargos unipersonales consignarán, con expresión del tramo horario, los tiempos dedicados a la función docente y a la función directiva. Por su parte, la jefatura de estudios tendrá en cuenta, al elaborar los horarios, las posibles reducciones de horario lectivo que se establezcan en las instrucciones dictadas al efecto.
 
-1. La dirección del centro, tras establecer la organización que corresponda en el curso 
-escolar que empieza, comunicará los niveles, las áreas, los grupos y otras actividades docentes en la primera sesión del Claustro, al comienzo del curso. Antes de su celebración el 
-profesorado deberá conocer el número de grupos del centro, el de maestros y maestras por 
-niveles y las necesidades de profesorado por áreas. Excepcionalmente, cuando las circunstancias del centro lo exijan, se acumularán reducciones horarias por distintos conceptos a un 
-solo profesor o profesora.
-2. El equipo directivo, oído el Claustro, hará la citada asignación al profesorado, teniendo 
-en cuenta los siguientes criterios organizativos y pedagógicos:
-a) Preferencia del equipo directivo para conformar su horario de trabajo, según las necesidades propias de sus cargos. 
-b) Permanencia con el mismo grupo hasta la finalización del ciclo, con independencia 
-de la situación administrativa de su profesorado. De manera excepcional, cuando a juicio 
-de la dirección del centro existieran razones pedagógicas suficientemente justificadas para 
-no aplicar este criterio, esta dispondrá la asignación del docente afectado a otro ciclo, curso, 
-área o actividad docente, una vez oída la persona interesada.
-c) Acreditación de especialidad en el puesto de trabajo al que se está adscrito. 
+2. Los equipos directivos de los centros en los que trabajen maestros o maestras que tengan destino en más de un centro de trabajo deben coordinarse para la confección de los horarios compartidos entre estos centros, procurando no asignar tutoría a este profesorado. En la medida de lo posible se intentará que el profesorado afectado no se desplace de un centro a otro en una misma jornada.
+
+3. El Claustro establecerá, previa propuesta de la comisión de coordinación pedagógica, criterios propios para la elaboración de los horarios, atendiendo exclusivamente a razones pedagógicas, siempre que se respeten los que, con carácter general, se establecen en la presente Orden.
+
+4. La adjudicación de un determinado puesto de trabajo no exime al profesorado de impartir otras enseñanzas en el marco de su atribución docente o de desarrollar actividades que puedan corresponderle, de acuerdo con la organización pedagógica del centro.
+
+#### Artículo 21. Asignación de niveles, tutorías, áreas, grupos y otras actividades docentes.
+
+1. La dirección del centro, tras establecer la organización que corresponda en el curso escolar que empieza, comunicará los niveles, las áreas, los grupos y otras actividades docentes en la primera sesión del Claustro, al comienzo del curso. Antes de su celebración el profesorado deberá conocer el número de grupos del centro, el de maestros y maestras por niveles y las necesidades de profesorado por áreas. Excepcionalmente, cuando las circunstancias del centro lo exijan, se acumularán reducciones horarias por distintos conceptos a un solo profesor o profesora.
+
+2. El equipo directivo, oído el Claustro, hará la citada asignación al profesorado, teniendo en cuenta los siguientes criterios organizativos y pedagógicos:
+a) Preferencia del equipo directivo para conformar su horario de trabajo, según las necesidades propias de sus cargos.
+b) Permanencia con el mismo grupo hasta la finalización del ciclo, con independencia de la situación administrativa de su profesorado. De manera excepcional, cuando a juicio de la dirección del centro existieran razones pedagógicas suficientemente justificadas para no aplicar este criterio, esta dispondrá la asignación del docente afectado a otro ciclo, curso, área o actividad docente, una vez oída la persona interesada.
+c) Acreditación de especialidad en el puesto de trabajo al que se está adscrito.
 
 d) Orden de mejor derecho para el resto del profesorado.
-3. Además de los criterios establecidos en el apartado anterior, se tendrán en cuenta las 
-siguientes consideraciones:
-a) La tutoría de grupos de Educación Primaria recaerá en el maestro o la maestra que 
-tenga mayor horario semanal con dicho grupo. A estos efectos, en el primer y segundo curso 
-se garantizará un mínimo de dos tercios de las sesiones semanales en el grupo con el profesorado tutor. En el resto de los cursos, la tutoría se asignará al profesorado que garantice 
-una mayor dedicación horaria, procurando, en todo caso, que alcance el 50% de las sesiones 
-semanales.
-b) Para evitar la concurrencia en el mismo grupo de alumnado de un excesivo número de 
-profesorado, los tutores y las tutoras de Educación Primaria que estén habilitados con otras 
-especialidades podrán impartir en su grupo, al menos, una de ellas, salvo que por necesidades organizativas se deba obviar este criterio.
-c) En caso de que el profesorado que no sea de la especialidad de educación primaria, o 
-algún miembro del equipo directivo, deba hacerse cargo de una tutoría de grupo de Educación Primaria, se le asignará un grupo del tercer, del segundo o del primer ciclo de la etapa, 
-por este orden. En el caso del primer y segundo curso, se hará siempre y cuando se garantice 
-la dedicación horaria establecida en el punto a) de este apartado. En los demás cursos, se 
-asignará la tutoría al profesorado especialista que quede con más horas disponibles, una vez 
-cubiertas las que le corresponden según su adscripción. Se procurará que dicho maestro o 
-maestra imparta el máximo de horas de docencia al grupo de su tutoría.
-d) El profesorado que no sea de la especialidad de educación primaria con tutoría que 
-deba completar su horario con su especialidad la impartirá, por orden de prioridad, en su 
-propio grupo, en grupos de su mismo nivel, del mismo ciclo, de ciclos contiguos y del resto 
-de grupos. 
-e) La distribución de las horas del área de Inglés se hará exclusivamente entre el profesorado que esté nombrado para impartir esta especialidad. En el caso de que, con el horario 
-de este profesorado, no se cubran las necesidades del área, otro profesorado del centro podrá 
-impartir las horas restantes de dicha área, siempre que tenga dicha especialidad.
-f) A efectos organizativos, todo el profesorado del centro deberá estar adscrito a un ciclo, 
-sin perjuicio de su actuación en toda la etapa o en otras etapas. Como miembro del equipo 
-docente del ciclo al que se le ha asignado, participará y tomará decisiones en la elaboración 
-de las programaciones y del material didáctico necesario para su desarrollo, así como en el 
-proceso de evaluación. Los especialistas de Educación Física, Música o Lenguas Extranjeras que no tengan tutoría asignada se adscribirán al ciclo donde tengan mayor carga horaria 
-de su especialidad.
-4. De no producirse acuerdo para la asignación de ciclos, cursos, áreas o grupos de alumnos o alumnas, se procederá según lo previsto en la normativa específica sobre ordenación 
-del personal docente, sin perjuicio de lo establecido en el artículo 20 de la presente Orden.
 
-#### Artículo 22.- Organización de la disponibilidad horaria de los centros. 
+3. Además de los criterios establecidos en el apartado anterior, se tendrán en cuenta las siguientes consideraciones:
+a) La tutoría de grupos de Educación Primaria recaerá en el maestro o la maestra que tenga mayor horario semanal con dicho grupo. A estos efectos, en el primer y segundo curso se garantizará un mínimo de dos tercios de las sesiones semanales en el grupo con el profesorado tutor. En el resto de los cursos, la tutoría se asignará al profesorado que garantice una mayor dedicación horaria, procurando, en todo caso, que alcance el 50% de las sesiones semanales.
+b) Para evitar la concurrencia en el mismo grupo de alumnado de un excesivo número de profesorado, los tutores y las tutoras de Educación Primaria que estén habilitados con otras especialidades podrán impartir en su grupo, al menos, una de ellas, salvo que por necesidades organizativas se deba obviar este criterio.
+c) En caso de que el profesorado que no sea de la especialidad de educación primaria, o algún miembro del equipo directivo, deba hacerse cargo de una tutoría de grupo de Educación Primaria, se le asignará un grupo del tercer, del segundo o del primer ciclo de la etapa, por este orden. En el caso del primer y segundo curso, se hará siempre y cuando se garantice la dedicación horaria establecida en el punto a) de este apartado. En los demás cursos, se asignará la tutoría al profesorado especialista que quede con más horas disponibles, una vez cubiertas las que le corresponden según su adscripción. Se procurará que dicho maestro o maestra imparta el máximo de horas de docencia al grupo de su tutoría.
+d) El profesorado que no sea de la especialidad de educación primaria con tutoría que deba completar su horario con su especialidad la impartirá, por orden de prioridad, en su propio grupo, en grupos de su mismo nivel, del mismo ciclo, de ciclos contiguos y del resto de grupos.
+e) La distribución de las horas del área de Inglés se hará exclusivamente entre el profesorado que esté nombrado para impartir esta especialidad. En el caso de que, con el horario de este profesorado, no se cubran las necesidades del área, otro profesorado del centro podrá impartir las horas restantes de dicha área, siempre que tenga dicha especialidad.
+f) A efectos organizativos, todo el profesorado del centro deberá estar adscrito a un ciclo, sin perjuicio de su actuación en toda la etapa o en otras etapas. Como miembro del equipo docente del ciclo al que se le ha asignado, participará y tomará decisiones en la elaboración de las programaciones y del material didáctico necesario para su desarrollo, así como en el proceso de evaluación. Los especialistas de Educación Física, Música o Lenguas Extranjeras que no tengan tutoría asignada se adscribirán al ciclo donde tengan mayor carga horaria de su especialidad.
 
-1. Una vez asignados los descuentos lectivos no condicionados a la disponibilidad horaria del centro, la dirección adjudicará las tutorías, las áreas y los grupos al resto del profesorado, procurando concentrar en el menor número posible las horas de disponibilidad horaria 
-en cada uno de los ciclos.
-Esta disponibilidad horaria se utilizará preferentemente para:
-a) Apoyo al alumnado de Educación Infantil de 3 años en su periodo de adaptación al 
-centro.
-b) Apoyo al grupo-mezcla en primero de Educación Primaria cuando este tenga una ratio 
-igual o superior a 20 alumnos. 
-c) Apoyo al grupo en el aula de referencia, en Educación Infantil, en aquellos centros 
-con cinco o más unidades de esta etapa educativa. En el caso de disponibilidad horaria, este 
-apoyo se podrá hacer extensivo, en las mismas condiciones, a los cursos primero y segundo 
-de Educación Primaria.
-En caso de producirse bajas y ausencias del profesorado del centro, y atendiendo al plan 
-de atención al alumnado, esta disponibilidad horaria se utilizará para cubrirlas.
-2. Cuando el citado plan de atención al alumnado no precise de la dedicación del profesorado de apoyo o del profesorado con disponibilidad horaria, se le asignarán entre otras tareas 
-las relacionadas con los siguientes aspectos:
+4. De no producirse acuerdo para la asignación de ciclos, cursos, áreas o grupos de alumnos o alumnas, se procederá según lo previsto en la normativa específica sobre ordenación del personal docente, sin perjuicio de lo establecido en el artículo 20 de la presente Orden.
+
+#### Artículo 22. Organización de la disponibilidad horaria de los centros.
+
+1. Una vez asignados los descuentos lectivos no condicionados a la disponibilidad horaria del centro, la dirección adjudicará las tutorías, las áreas y los grupos al resto del profesorado, procurando concentrar en el menor número posible las horas de disponibilidad horaria en cada uno de los ciclos. Esta disponibilidad horaria se utilizará preferentemente para:
+a) Apoyo al alumnado de Educación Infantil de 3 años en su periodo de adaptación al centro.
+b) Apoyo al grupo-mezcla en primero de Educación Primaria cuando este tenga una ratio igual o superior a 20 alumnos.
+c) Apoyo al grupo en el aula de referencia, en Educación Infantil, en aquellos centros con cinco o más unidades de esta etapa educativa. En el caso de disponibilidad horaria, este apoyo se podrá hacer extensivo, en las mismas condiciones, a los cursos primero y segundo de Educación Primaria. En caso de producirse bajas y ausencias del profesorado del centro, y atendiendo al plan de atención al alumnado, esta disponibilidad horaria se utilizará para cubrirlas.
+
+2. Cuando el citado plan de atención al alumnado no precise de la dedicación del profesorado de apoyo o del profesorado con disponibilidad horaria, se le asignarán entre otras tareas las relacionadas con los siguientes aspectos:
 a) Apoyo pedagógico al alumnado con problemas de aprendizaje o con riesgo de presentarlos, y al alumnado de rápido aprendizaje.
-b) Colaboración con el tutor o la tutora de un grupo de Educación Infantil o de Educación Primaria con alumnado que presente necesidades específicas de apoyo educativo, para 
-facilitar la coordinación del tutor con el profesorado de apoyo a las necesidades específicas 
-de apoyo educativo y el orientador o la orientadora, o para otras actividades de coordinación.
-c) Apoyo al programa de atención a la diversidad del centro, a la atención individualizada del alumnado y a las actividades que requieran la presencia de más de un maestro o una 
-maestra en el aula, en especial, en el período de adaptación.
-Estas tareas deberán estar planificadas en las programaciones de ciclo o nivel, teniendo 
-en cuenta que su dedicación horaria responderá a los objetivos previstos.
+b) Colaboración con el tutor o la tutora de un grupo de Educación Infantil o de Educación Primaria con alumnado que presente necesidades específicas de apoyo educativo, para facilitar la coordinación del tutor con el profesorado de apoyo a las necesidades específicas de apoyo educativo y el orientador o la orientadora, o para otras actividades de coordinación.
+c) Apoyo al programa de atención a la diversidad del centro, a la atención individualizada del alumnado y a las actividades que requieran la presencia de más de un maestro o una maestra en el aula, en especial, en el período de adaptación. Estas tareas deberán estar planificadas en las programaciones de ciclo o nivel, teniendo en cuenta que su dedicación horaria responderá a los objetivos previstos.
 
-#### Artículo 23.- Aprobación de horarios.
+#### Artículo 23. Aprobación de horarios.
 
-1. La dirección, una vez confeccionados los horarios, los aprobará de forma provisional y 
-los distribuirá entre el profesorado antes del comienzo de las actividades lectivas del nuevo 
-curso. A continuación, se celebrará una sesión del Claustro, en la que la propuesta de horario 
+1. La dirección, una vez confeccionados los horarios, los aprobará de forma provisional y los distribuirá entre el profesorado antes del comienzo de las actividades lectivas del nuevo curso. A continuación, se celebrará una sesión del Claustro, en la que la propuesta de horario
 
-se expondrá públicamente para comprobar que, en su elaboración, se han seguido tanto los 
-criterios pedagógicos fijados por los órganos de gobierno del centro como los establecidos en 
-la presente Orden. Se dejará constancia en el acta de las observaciones o reparos ­formulados. 
-2. El profesorado no conforme podrá reclamar ante la dirección del centro en el plazo 
-de los tres días hábiles siguientes a la comunicación del horario. La dirección del centro 
-resolverá en el plazo de los tres días hábiles siguientes a la presentación de la reclamación. 
-En caso de no estar de acuerdo con la resolución adoptada o de no haber tenido respuesta en 
-dicho plazo, el profesorado podrá presentar recurso de alzada, que pondrá fin a la vía administrativa, en el plazo de un mes ante la Dirección Territorial de Educación correspondiente. 
-Esta resolverá el recurso, previo informe de la Inspección Educativa, en el plazo máximo 
-de un mes desde su presentación, teniendo en cuenta, en la agilización de los recursos, el 
-calendario anual de actividades escolares de comienzo de curso. En todo caso, la persona 
-reclamante habrá de cumplir, de manera inexcusable, el horario asignado hasta que se haya 
-adoptado la resolución definitiva. 
-3. Por otra parte, la dirección del centro, en cualquier momento del curso, podrá adjudicar, excepcionalmente y cuando existieran razones pedagógicas suficientemente razonadas, 
-grupos de alumnado y horarios, teniendo en cuenta circunstancias que afecten de manera 
-significativa y constatable al aprovechamiento escolar del alumnado o a la mejor organización del centro, debiendo en este caso informar al Claustro y a la Inspección Educativa.
+se expondrá públicamente para comprobar que, en su elaboración, se han seguido tanto los criterios pedagógicos fijados por los órganos de gobierno del centro como los establecidos en la presente Orden. Se dejará constancia en el acta de las observaciones o reparos formulados.
 
-### CAPÍTULO IV
+2. El profesorado no conforme podrá reclamar ante la dirección del centro en el plazo de los tres días hábiles siguientes a la comunicación del horario. La dirección del centro resolverá en el plazo de los tres días hábiles siguientes a la presentación de la reclamación. En caso de no estar de acuerdo con la resolución adoptada o de no haber tenido respuesta en dicho plazo, el profesorado podrá presentar recurso de alzada, que pondrá fin a la vía administrativa, en el plazo de un mes ante la Dirección Territorial de Educación correspondiente. Esta resolverá el recurso, previo informe de la Inspección Educativa, en el plazo máximo de un mes desde su presentación, teniendo en cuenta, en la agilización de los recursos, el calendario anual de actividades escolares de comienzo de curso. En todo caso, la persona reclamante habrá de cumplir, de manera inexcusable, el horario asignado hasta que se haya adoptado la resolución definitiva.
 
-CENTROS QUE IMPARTEN ENSEÑANZAS DE EDUCACIÓN SECUNDARIA Y FORMACIÓN 
-PROFESIONAL DE GRADO SUPERIOR
+3. Por otra parte, la dirección del centro, en cualquier momento del curso, podrá adjudicar, excepcionalmente y cuando existieran razones pedagógicas suficientemente razonadas, grupos de alumnado y horarios, teniendo en cuenta circunstancias que afecten de manera significativa y constatable al aprovechamiento escolar del alumnado o a la mejor organización del centro, debiendo en este caso informar al Claustro y a la Inspección Educativa.
 
-#### Sección 1ª 
+## Capítulo IV. Centros QUE imparten enseñanzas de educación secundaria y formación profesional de grado superior.
 
-Órganos de coordinación y orientación docente
+### Sección 1.ª. Órganos de coordinación y orientación docente.
 
-#### Artículo 24.- Órganos de coordinación y orientación docente.
+#### Artículo 24. Órganos de coordinación y orientación docente.
 
-Los órganos de coordinación y orientación docente de los centros en los que se imparten 
-las etapas que conforman la Educación Secundaria y la Formación Profesional de Grado Superior son la comisión de coordinación pedagógica, la comisión de actividades complementarias y extraescolares, el departamento de orientación, los departamentos de coordinación 
-didáctica y los equipos docentes de grupo y, en su caso, los equipos docentes de nivel, que 
-tendrán la composición, la organización y las competencias que determina el Reglamento 
-Orgánico de los centros docentes públicos no universitarios. 
+Los órganos de coordinación y orientación docente de los centros en los que se imparten las etapas que conforman la Educación Secundaria y la Formación Profesional de Grado Superior son la comisión de coordinación pedagógica, la comisión de actividades complementarias y extraescolares, el departamento de orientación, los departamentos de coordinación didáctica y los equipos docentes de grupo y, en su caso, los equipos docentes de nivel, que tendrán la composición, la organización y las competencias que determina el Reglamento Orgánico de los centros docentes públicos no universitarios.
 
-#### Artículo 25.- Comisión de coordinación pedagógica.
+#### Artículo 25. Comisión de coordinación pedagógica.
 
-1. La comisión de coordinación pedagógica, para el cumplimiento de sus funciones, se reu­
-nirá una hora a la semana o dos horas quincenalmente. Asimismo, podrá crear subcomisiones 
-para temas específicos o solicitar la asistencia a sus sesiones de otras personas ajenas a la misma 
-en asuntos de especial interés en los que pueda ser oportuna su orientación o asesoramiento.
+1. La comisión de coordinación pedagógica, para el cumplimiento de sus funciones, se reu nirá una hora a la semana o dos horas quincenalmente. Asimismo, podrá crear subcomisiones para temas específicos o solicitar la asistencia a sus sesiones de otras personas ajenas a la misma en asuntos de especial interés en los que pueda ser oportuna su orientación o asesoramiento.
 
-2. Durante el mes de septiembre la comisión de coordinación pedagógica deberá establecer sus objetivos y su calendario de tareas, que se incluirán en la programación general 
-anual. 
-3. Al final de cada curso, la comisión de coordinación pedagógica, considerando las aportaciones de los equipos educativos y de los diferentes departamentos de coordinación didáctica, elaborará un informe, que se recogerá en la memoria final y en el que se incluirán, como 
-mínimo, el análisis de los resultados académicos del curso y las propuestas de mejora. Este 
-informe será aprobado con posterioridad por el Claustro.
+2. Durante el mes de septiembre la comisión de coordinación pedagógica deberá establecer sus objetivos y su calendario de tareas, que se incluirán en la programación general anual.
 
-#### Artículo 26.- Comisión de actividades complementarias y extraescolares. 
+3. Al final de cada curso, la comisión de coordinación pedagógica, considerando las aportaciones de los equipos educativos y de los diferentes departamentos de coordinación didáctica, elaborará un informe, que se recogerá en la memoria final y en el que se incluirán, como mínimo, el análisis de los resultados académicos del curso y las propuestas de mejora. Este informe será aprobado con posterioridad por el Claustro.
 
-1. La comisión de actividades complementarias y extraescolares se reunirá con la periodicidad que establezcan las normas de organización y funcionamiento del centro. La programación anual de actividades complementarias y extraescolares estará coordinada por la 
-vicedirección o, en los centros en los que no existe esta figura, por la persona que el equipo 
-directivo designe entre sus componentes. Esta programación anual contendrá todas aquellas 
-actividades que organicen los departamentos de coordinación didáctica o la propia comisión de actividades complementarias y extraescolares, en colaboración, en su caso, con las 
-asociaciones de padres y madres del alumnado, y las propias del estudiantado, legalmente 
-constituidas.
-2. Estas actividades podrán realizarse por el mismo centro, a través de asociaciones colaboradoras, o en cooperación con el Ayuntamiento u otras instituciones y entidades. 
-3. El Consejo Escolar, a propuesta de la comisión de coordinación pedagógica establecerá, en la primera reunión del curso, los criterios para su elaboración y las fórmulas para 
-recoger las propuestas y divulgar las actividades programadas.
+#### Artículo 26. Comisión de actividades complementarias y extraescolares.
 
-#### Artículo 27.- Departamento de orientación. 
+1. La comisión de actividades complementarias y extraescolares se reunirá con la periodicidad que establezcan las normas de organización y funcionamiento del centro. La programación anual de actividades complementarias y extraescolares estará coordinada por la vicedirección o, en los centros en los que no existe esta figura, por la persona que el equipo directivo designe entre sus componentes. Esta programación anual contendrá todas aquellas actividades que organicen los departamentos de coordinación didáctica o la propia comisión de actividades complementarias y extraescolares, en colaboración, en su caso, con las asociaciones de padres y madres del alumnado, y las propias del estudiantado, legalmente constituidas.
 
-1. El Departamento de orientación presentará a la comisión de coordinación pedagógica, 
-en septiembre de cada año, un plan de trabajo para desarrollar a lo largo del curso, en el 
-que se concretarán las diferentes atribuciones asignadas en el Reglamento Orgánico de los 
-centros. Por otra parte, a final de curso remitirá a la citada comisión un informe sobre las actividades realizadas, que incluirá las propuestas de mejora en el ámbito de sus competencias. 
-Este informe deberá formar parte de la memoria final de curso.
-2. En los centros en los que no se oferten ciclos de Formación Profesional, pero sí Programas de Cualificación Profesional, el profesorado que imparta los módulos específicos se 
-integrará en el departamento de orientación. 
-3. Los equipos educativos podrán solicitar el asesoramiento del departamento de orientación, si se observara la necesidad de adoptar medidas de grupo o individuales para adaptar 
-el proceso de enseñanza y de aprendizaje.
+2. Estas actividades podrán realizarse por el mismo centro, a través de asociaciones colaboradoras, o en cooperación con el Ayuntamiento u otras instituciones y entidades.
 
-#### Artículo 28.- Departamentos de coordinación didáctica: carácter y constitución.
+3. El Consejo Escolar, a propuesta de la comisión de coordinación pedagógica establecerá, en la primera reunión del curso, los criterios para su elaboración y las fórmulas para recoger las propuestas y divulgar las actividades programadas.
 
-1. Cada departamento de coordinación didáctica estará integrado por el profesorado que 
-imparta las enseñanzas propias de las materias, módulos o ámbitos asignados a este. El profesorado que imparta alguna materia o módulo de otro departamento estará adscrito a este 
-último solo a efectos de coordinación. Aquellos profesores o aquellas profesoras que posean 
-más de una especialidad o que ocupen una plaza asociada a varias especialidades pertenecerán al departamento correspondiente a la plaza que ocupen por concurso de traslados o por 
-cualquier otro procedimiento de provisión de plazas, con independencia de que, en su caso, 
-pudieran estar adscritos a varios departamentos.
-2. Cuando en un departamento se integre profesorado de más de una de las especialidades 
-establecidas, la programación y la impartición de materias, módulos o ámbitos se asignará 
-a los profesores o las profesoras que ostenten la correspondiente especialidad que tiene la 
-atribución de competencia docente.
-3. Cuando en un centro se impartan materias, ámbitos o módulos que, o bien no 
-están asignados a un departamento, o bien pueden ser impartidos por profesorado 
-de distintos departamentos, y la prioridad de su atribución no esté establecida por 
-normativa específica, la dirección del centro, a propuesta de la comisión de coordinación pedagógica, adscribirá dichas enseñanzas a uno de los departamentos. Este se 
-hará responsable de resolver todas las cuestiones pertinentes a la materia, ámbito o 
-módulo asignado. 
-4. La Consejería de Educación, Universidades y Sostenibilidad favorecerá las correspondientes acciones formativas de los jefes y las jefas de los departamentos de coordinación 
-didáctica, al tener estos la responsabilidad de coordinar la actuación pedagógica y didáctica 
-del profesorado perteneciente a su departamento, tal y como se contempla en la normativa 
-vigente. Asimismo, las programaciones de los departamentos de coordinación didáctica deberán contribuir a la consecución de los objetivos propuestos en el proyecto educativo y en 
-la programación general anual.
+#### Artículo 27. Departamento de orientación.
 
-#### Artículo 29.- Estructura de los departamentos de coordinación didáctica.
+1. El Departamento de orientación presentará a la comisión de coordinación pedagógica, en septiembre de cada año, un plan de trabajo para desarrollar a lo largo del curso, en el que se concretarán las diferentes atribuciones asignadas en el Reglamento Orgánico de los centros. Por otra parte, a final de curso remitirá a la citada comisión un informe sobre las actividades realizadas, que incluirá las propuestas de mejora en el ámbito de sus competencias. Este informe deberá formar parte de la memoria final de curso.
 
-1. En los Institutos de Educación Secundaria (IES) se podrán constituir los siguientes 
-departamentos de coordinación didáctica: Alemán, Biología y Geología, Dibujo, Economía, 
-Educación Física, Filosofía, Física y Química, Formación y Orientación Laboral, Francés, 
-Geografía e Historia, Griego, Inglés, Latín, Lengua Castellana y Literatura, Matemáticas, 
-Música, Tecnología y Religión. Asimismo, podrán constituirse departamentos de otras lenguas extranjeras si el centro tiene autorizada la oferta. 
-2. En los centros en los que se imparta Formación Profesional, se constituirán los departamentos por familias profesionales, que agruparán a todo el profesorado que imparta módulos de Formación Profesional en Ciclos Formativos y Programas de Cualificación 
-Profesional Inicial sobre los que tenga atribución docente esa familia profesional y que no 
-pertenezca a otro departamento de coordinación didáctica. 
+2. En los centros en los que no se oferten ciclos de Formación Profesional, pero sí Programas de Cualificación Profesional, el profesorado que imparta los módulos específicos se integrará en el departamento de orientación.
 
-3. En los IES y en los Centros de Educación Obligatoria (CEO) de once o menos unidades de Educación Secundaria Obligatoria, los departamentos de coordinación didáctica 
-se constituirán por ámbitos, en los que se integrará el profesorado que imparta las materias 
-adscritas a los mismos. Estos departamentos se estructuran de la siguiente manera:
-a) Departamento de Ámbito Científico-Tecnológico: incluirá al profesorado que imparta 
-las materias de Biología y Geología, Ciencias de la Naturaleza, Educación Física, Educación 
-Plástica y Visual, Física y Química, Informática, Matemáticas, Tecnología y Tecnologías.
-b) Departamento de Ámbito Socio-Lingüístico: incluirá al profesorado que imparta las 
-materias de Ciencias Sociales, Geografía e Historia, Cultura Clásica, Educación Ético-Cívica, Educación para la Ciudadanía y los Derechos Humanos, Historia y Cultura de las 
-Religiones, Latín, Lengua Castellana y Literatura, Lenguas Extranjeras, Música y Religión.
-4. Los CEO que tengan entre doce o más unidades de Educación Secundaria Obligatoria 
-dispondrán también un departamento de Ámbito Artístico-Educación Física, que integrará 
-al profesorado que imparta las materias de Educación Física, Educación Plástica y Visual, y 
-Música. Asimismo, los CEO que tengan dieciséis o más unidades de Educación Secundaria 
-Obligatoria podrán estructurarse por especialidades, como los IES.
-5. Sin perjuicio de lo previsto en los apartados anteriores del presente artículo, por instrucciones específicas se determinará la carga lectiva mínima para la constitución de un 
-departamento de coordinación didáctica y el reconocimiento de su jefatura.
+3. Los equipos educativos podrán solicitar el asesoramiento del departamento de orientación, si se observara la necesidad de adoptar medidas de grupo o individuales para adaptar el proceso de enseñanza y de aprendizaje.
 
-#### Artículo 30.- Equipos docentes de grupo.
+#### Artículo 28. Departamentos de coordinación didáctica: carácter y constitución.
 
-1. El equipo docente de grupo estará integrado por el profesorado que imparte docencia 
-a un grupo de alumnado y será coordinado por el tutor o la tutora de ese grupo. El equipo 
-docente adoptará los acuerdos que estime necesarios para mejorar el proceso de aprendizaje 
-del alumnado y atenderá especialmente a la detección y prevención de dificultades en este 
-proceso, procurando la búsqueda coordinada de soluciones y la colaboración de las familias. 
-Si fuera necesario, el equipo docente será asesorado por el departamento de orientación. 
-2. Los equipos docentes se reunirán con una frecuencia mínima de dos veces al trimestre. En ningún caso, la sesión de evaluación de la convocatoria extraordinaria se computará 
-dentro de estas reuniones.
-3. Las reuniones previstas en el apartado anterior permitirán el seguimiento del grupo y 
-la evaluación continua del alumnado. Además, al menos una vez por trimestre, y de acuerdo 
-con la planificación que establezca la jefatura de estudios, se procederá a evaluar individualmente al alumnado y a emitir los correspondientes informes.
-4. Los equipos docentes adoptarán los acuerdos que estimen necesarios para mejorar los 
-procesos de enseñanza y aprendizaje del alumnado del grupo. De los acuerdos tomados, tanto en sesiones ordinarias como extraordinarias, quedará constancia en las correspondientes 
-actas.
+1. Cada departamento de coordinación didáctica estará integrado por el profesorado que imparta las enseñanzas propias de las materias, módulos o ámbitos asignados a este. El profesorado que imparta alguna materia o módulo de otro departamento estará adscrito a este último solo a efectos de coordinación. Aquellos profesores o aquellas profesoras que posean más de una especialidad o que ocupen una plaza asociada a varias especialidades pertenecerán al departamento correspondiente a la plaza que ocupen por concurso de traslados o por cualquier otro procedimiento de provisión de plazas, con independencia de que, en su caso, pudieran estar adscritos a varios departamentos.
 
-#### Artículo 31.- Equipos docentes de nivel.
+2. Cuando en un departamento se integre profesorado de más de una de las especialidades establecidas, la programación y la impartición de materias, módulos o ámbitos se asignará a los profesores o las profesoras que ostenten la correspondiente especialidad que tiene la atribución de competencia docente.
 
-Los centros podrán organizar equipos docentes de nivel, en el ejercicio de su autonomía, 
-con el objetivo de coordinar la intervención docente en dichos grupos y de favorecer el desarrollo de situaciones de aprendizaje de carácter interdisciplinar. Esta medida se destinará, 
-preferiblemente, a primero y segundo de Educación Secundaria Obligatoria para facilitar la 
-transición del alumnado que accede desde Educación Primaria.
+3. Cuando en un centro se impartan materias, ámbitos o módulos que, o bien no están asignados a un departamento, o bien pueden ser impartidos por profesorado de distintos departamentos, y la prioridad de su atribución no esté establecida por normativa específica, la dirección del centro, a propuesta de la comisión de coordinación pedagógica, adscribirá dichas enseñanzas a uno de los departamentos. Este se hará responsable de resolver todas las cuestiones pertinentes a la materia, ámbito o módulo asignado.
 
-#### Artículo 32.- Tutorías.
+4. La Consejería de Educación, Universidades y Sostenibilidad favorecerá las correspondientes acciones formativas de los jefes y las jefas de los departamentos de coordinación didáctica, al tener estos la responsabilidad de coordinar la actuación pedagógica y didáctica del profesorado perteneciente a su departamento, tal y como se contempla en la normativa vigente. Asimismo, las programaciones de los departamentos de coordinación didáctica deberán contribuir a la consecución de los objetivos propuestos en el proyecto educativo y en la programación general anual.
 
-1. Cada grupo de alumnado tendrá un tutor o una tutora que será nombrado por la dirección del centro atendiendo a criterios pedagógicos y a propuesta de la jefatura de estudios. 
-Este nombramiento se hará prioritariamente entre el profesorado que imparta docencia a 
-la totalidad del alumnado que compone ese grupo y, si es posible, con el mayor número de 
-horas.
-2. El tutor o la tutora de grupo, en el marco de las funciones previstas en el artículo 
-36, apartado 2, del Reglamento Orgánico de los centros, que sean aplicables en Educación 
-Secundaria, se coordinará con el equipo docente en los procesos de enseñanza y de aprendizaje; se responsabilizará de la cumplimentación de la documentación referente a su grupo 
-de alumnado, de acuerdo con las instrucciones facilitadas por la jefatura de estudios; y garantizará, con el apoyo del departamento de orientación y la propia jefatura de estudios, la 
-orientación educativa y profesional, y la información al alumnado y a sus padres, madres o 
-tutores legales que abarcará, al menos, los siguientes aspectos: 
-a) Información sobre los derechos y deberes del alumnado, con especial referencia a las 
-normas de convivencia y al absentismo escolar.
-b) Información y orientación acerca de aspectos relativos a las opciones vinculadas a la 
-finalización de cada nivel educativo.
+#### Artículo 29. Estructura de los departamentos de coordinación didáctica.
+
+1. En los Institutos de Educación Secundaria (IES) se podrán constituir los siguientes departamentos de coordinación didáctica: Alemán, Biología y Geología, Dibujo, Economía, Educación Física, Filosofía, Física y Química, Formación y Orientación Laboral, Francés, Geografía e Historia, Griego, Inglés, Latín, Lengua Castellana y Literatura, Matemáticas, Música, Tecnología y Religión. Asimismo, podrán constituirse departamentos de otras lenguas extranjeras si el centro tiene autorizada la oferta.
+
+2. En los centros en los que se imparta Formación Profesional, se constituirán los departamentos por familias profesionales, que agruparán a todo el profesorado que imparta módulos de Formación Profesional en Ciclos Formativos y Programas de Cualificación Profesional Inicial sobre los que tenga atribución docente esa familia profesional y que no pertenezca a otro departamento de coordinación didáctica.
+
+3. En los IES y en los Centros de Educación Obligatoria (CEO) de once o menos unidades de Educación Secundaria Obligatoria, los departamentos de coordinación didáctica se constituirán por ámbitos, en los que se integrará el profesorado que imparta las materias adscritas a los mismos. Estos departamentos se estructuran de la siguiente manera:
+a) **Departamento de Ámbito Científico-Tecnológico.** Incluirá al profesorado que imparta las materias de Biología y Geología, Ciencias de la Naturaleza, Educación Física, Educación Plástica y Visual, Física y Química, Informática, Matemáticas, Tecnología y Tecnologías.
+b) **Departamento de Ámbito Socio-Lingüístico.** Incluirá al profesorado que imparta las materias de Ciencias Sociales, Geografía e Historia, Cultura Clásica, Educación Ético-Cívica, Educación para la Ciudadanía y los Derechos Humanos, Historia y Cultura de las Religiones, Latín, Lengua Castellana y Literatura, Lenguas Extranjeras, Música y Religión.
+
+4. Los CEO que tengan entre doce o más unidades de Educación Secundaria Obligatoria dispondrán también un departamento de Ámbito Artístico-Educación Física, que integrará al profesorado que imparta las materias de Educación Física, Educación Plástica y Visual, y Música. Asimismo, los CEO que tengan dieciséis o más unidades de Educación Secundaria Obligatoria podrán estructurarse por especialidades, como los IES.
+
+5. Sin perjuicio de lo previsto en los apartados anteriores del presente artículo, por instrucciones específicas se determinará la carga lectiva mínima para la constitución de un departamento de coordinación didáctica y el reconocimiento de su jefatura.
+
+#### Artículo 30. Equipos docentes de grupo.
+
+1. El equipo docente de grupo estará integrado por el profesorado que imparte docencia a un grupo de alumnado y será coordinado por el tutor o la tutora de ese grupo. El equipo docente adoptará los acuerdos que estime necesarios para mejorar el proceso de aprendizaje del alumnado y atenderá especialmente a la detección y prevención de dificultades en este proceso, procurando la búsqueda coordinada de soluciones y la colaboración de las familias. Si fuera necesario, el equipo docente será asesorado por el departamento de orientación.
+
+2. Los equipos docentes se reunirán con una frecuencia mínima de dos veces al trimestre. En ningún caso, la sesión de evaluación de la convocatoria extraordinaria se computará dentro de estas reuniones.
+
+3. Las reuniones previstas en el apartado anterior permitirán el seguimiento del grupo y la evaluación continua del alumnado. Además, al menos una vez por trimestre, y de acuerdo con la planificación que establezca la jefatura de estudios, se procederá a evaluar individualmente al alumnado y a emitir los correspondientes informes.
+
+4. Los equipos docentes adoptarán los acuerdos que estimen necesarios para mejorar los procesos de enseñanza y aprendizaje del alumnado del grupo. De los acuerdos tomados, tanto en sesiones ordinarias como extraordinarias, quedará constancia en las correspondientes actas.
+
+#### Artículo 31. Equipos docentes de nivel.
+
+Los centros podrán organizar equipos docentes de nivel, en el ejercicio de su autonomía, con el objetivo de coordinar la intervención docente en dichos grupos y de favorecer el desarrollo de situaciones de aprendizaje de carácter interdisciplinar. Esta medida se destinará, preferiblemente, a primero y segundo de Educación Secundaria Obligatoria para facilitar la transición del alumnado que accede desde Educación Primaria.
+
+#### Artículo 32. Tutorías.
+
+1. Cada grupo de alumnado tendrá un tutor o una tutora que será nombrado por la dirección del centro atendiendo a criterios pedagógicos y a propuesta de la jefatura de estudios. Este nombramiento se hará prioritariamente entre el profesorado que imparta docencia a la totalidad del alumnado que compone ese grupo y, si es posible, con el mayor número de horas.
+
+2. El tutor o la tutora de grupo, en el marco de las funciones previstas en el artículo 36, apartado 2, del Reglamento Orgánico de los centros, que sean aplicables en Educación Secundaria, se coordinará con el equipo docente en los procesos de enseñanza y de aprendizaje; se responsabilizará de la cumplimentación de la documentación referente a su grupo de alumnado, de acuerdo con las instrucciones facilitadas por la jefatura de estudios; y garantizará, con el apoyo del departamento de orientación y la propia jefatura de estudios, la orientación educativa y profesional, y la información al alumnado y a sus padres, madres o tutores legales que abarcará, al menos, los siguientes aspectos:
+a) Información sobre los derechos y deberes del alumnado, con especial referencia a las normas de convivencia y al absentismo escolar.
+b) Información y orientación acerca de aspectos relativos a las opciones vinculadas a la finalización de cada nivel educativo.
 c) Procedimientos previstos para la evaluación continua.
-d) Contenidos, objetivos e instrumentos, criterios e indicadores de evaluación de cada 
-una de las materias, ámbitos o módulos profesionales, en coordinación con el profesorado 
-responsable.
+d) Contenidos, objetivos e instrumentos, criterios e indicadores de evaluación de cada una de las materias, ámbitos o módulos profesionales, en coordinación con el profesorado responsable.
 e) Adaptaciones curriculares.
 f) Faltas de asistencia del alumnado.
 g) Información sobre el rendimiento académico global del grupo.
-3. Bajo la coordinación de la jefatura de estudios, los tutores y las tutoras de cada nivel 
-celebrarán semanalmente, con carácter general, reuniones con el departamento de orientación para la coordinación y el desarrollo del plan de acción tutorial con el alumnado. 
 
-4. Para posibilitar la información y el seguimiento del proceso educativo del alumnado, 
-el equipo directivo planificará la atención semanal a los padres, madres o tutores legales, o 
-al propio alumnado si es mayor de edad, de forma individual o colectiva. A estos efectos, 
-como norma general, el horario semanal del profesorado tutor contemplará un mínimo de 
-dos jornadas de tarde al mes durante todo el curso. El centro educativo podrá poner estas 
-reuniones en cualquier otro horario, fuera de la jornada lectiva, para favorecer dicha atención. En razón de las actividades que el centro desarrolle a lo largo del curso, la dirección, 
-oído el Consejo Escolar, decidirá en qué meses puede alterar esta frecuencia quincenal. En 
-todo caso, se mantendrá una dedicación mínima global de doce sesiones, que se celebrarán 
-a partir de las 17 h y de las cuales cuatro, al menos, tendrán carácter colectivo. 
-El equipo directivo facilitará, además, un encuentro trimestral de los padres y las madres 
-o los tutores legales con los restantes miembros del equipo educativo a través del tutor o la 
-tutora, conciliando el horario en que aquellos puedan asistir con las posibilidades organizativas del centro.
-5. Se celebrará una reunión con los padres, las madres o tutores legales, o con el propio 
-alumnado, si es mayor de edad, durante el mes de octubre. En ella se les informará de los 
-aspectos reseñados en el apartado 2 de este artículo y de cuantas circunstancias de planificación docente puedan ser de su interés. Igualmente se les orientará en lo referente a su actuación en el contexto familiar respecto a los aprendizajes de sus hijos e hijas, y a los materiales 
-escolares que utilizarán, así como en relación con las medidas educativas para el alumnado 
-con necesidades específicas de apoyo educativo o complementario, en su caso.
-6. Después de cada sesión de evaluación, se celebrará, al menos, una reunión con los padres, las madres o los tutores legales, o con el propio alumnado en caso de ser mayor de edad, 
-en la que se entregarán los respectivos informes de evaluación y la comunicación específica de 
-cuantos aspectos incidan, de forma colectiva o individual, en cada alumno o alumna y puedan 
-resultar significativos para su proceso de aprendizaje. Solo en caso de inasistencia de los padres, las madres o los tutores legales a esas sesiones, o cuando se trate de alumnado mayor de 
-edad, se arbitrarán medidas para entregar dichos informes directamente al alumnado. 
-7. El tutor o la tutora citará al alumnado o a sus padres, madres o tutores legales para 
-informarles de cualquiera de estos u otros aspectos en los que el proceso de su aprendizaje 
-no se esté desarrollando de forma adecuada. Al término de la escolarización obligatoria y 
-antes de la finalización del período de preinscripción para el curso siguiente, el tutor o la 
-tutora comunicará a la familia el consejo orientador acordado por el equipo docente con el 
-asesoramiento, en su caso, del departamento de orientación.
+3. Bajo la coordinación de la jefatura de estudios, los tutores y las tutoras de cada nivel celebrarán semanalmente, con carácter general, reuniones con el departamento de orientación para la coordinación y el desarrollo del plan de acción tutorial con el alumnado.
 
-#### Artículo 33.- Funciones del profesorado de guardia. 
+4. Para posibilitar la información y el seguimiento del proceso educativo del alumnado, el equipo directivo planificará la atención semanal a los padres, madres o tutores legales, o al propio alumnado si es mayor de edad, de forma individual o colectiva. A estos efectos, como norma general, el horario semanal del profesorado tutor contemplará un mínimo de dos jornadas de tarde al mes durante todo el curso. El centro educativo podrá poner estas reuniones en cualquier otro horario, fuera de la jornada lectiva, para favorecer dicha atención. En razón de las actividades que el centro desarrolle a lo largo del curso, la dirección, oído el Consejo Escolar, decidirá en qué meses puede alterar esta frecuencia quincenal. En todo caso, se mantendrá una dedicación mínima global de doce sesiones, que se celebrarán a partir de las 17 h y de las cuales cuatro, al menos, tendrán carácter colectivo. El equipo directivo facilitará, además, un encuentro trimestral de los padres y las madres o los tutores legales con los restantes miembros del equipo educativo a través del tutor o la tutora, conciliando el horario en que aquellos puedan asistir con las posibilidades organizativas del centro.
 
-Una parte de la jornada de trabajo del profesorado se dedica a actividades complementarias. Dentro de las horas complementarias del profesorado se incluyen las guardias, que son 
-necesarias para garantizar el normal desarrollo de todas las actividades del centro. 
-Sin perjuicio de lo que el centro concrete en sus normas de organización y funcionamiento, el profesorado de guardia -y, cuando resulte necesario, el profesorado sin carga lectiva y 
+5. Se celebrará una reunión con los padres, las madres o tutores legales, o con el propio alumnado, si es mayor de edad, durante el mes de octubre. En ella se les informará de los aspectos reseñados en el apartado 2 de este artículo y de cuantas circunstancias de planificación docente puedan ser de su interés. Igualmente se les orientará en lo referente a su actuación en el contexto familiar respecto a los aprendizajes de sus hijos e hijas, y a los materiales escolares que utilizarán, así como en relación con las medidas educativas para el alumnado con necesidades específicas de apoyo educativo o complementario, en su caso.
 
-sin atención directa con el alumnado- se dedicará, de modo preferencial, al plan de atención 
-al alumnado en el caso de ausencia del profesorado al que se refiere el artículo 7 de la presente Orden, para lo cual tendrá que realizar las siguientes funciones básicas: 
-a) Ejecutar las medidas acordadas por el órgano competente del centro con respecto al 
-alumnado, en los casos de ausencia del profesorado a una actividad programada; velar por 
-el mantenimiento del orden tanto en las aulas en las que no esté presente el profesorado 
-como en los pasillos o en los recreos; y supervisar las entradas y salidas de las clases y, en 
-general, el comportamiento del alumnado fuera del aula y en el resto de las dependencias 
-del centro, sin que esto suponga por parte del resto del profesorado una inhibición de este 
-mismo cometido. 
-b) Cuidar que las clases comiencen y finalicen de forma puntual durante la sesión en que 
-permanece de guardia. En este sentido, registrará las incidencias en la puntualidad y la asistencia del profesorado durante su turno de guardia tanto en lo referente a actividades lectivas 
-como a las no lectivas; asimismo anotará otras incidencias como los cambios de clases, alteraciones de convivencia o salidas extraescolares. Para ello cumplimentará adecuadamente 
-el parte de guardia establecido en el centro por la jefatura de estudios. 
-c) Realizar las gestiones necesarias, en coordinación con el equipo directivo, en los casos 
-en que el alumnado precise de atención médica por indisposición, accidente escolar u otra 
-causa, según las instrucciones específicas que se dicten en esta materia de acuerdo con lo 
-previsto en el artículo 64 de la presente Orden.
-d) Resolver, en colaboración con la jefatura de estudios o, en su caso, con cualquier otro 
-miembro del equipo directivo, cuantas incidencias se produzcan durante el turno de guardia, 
-dejando constancia de ellas en el parte correspondiente. 
+6. Después de cada sesión de evaluación, se celebrará, al menos, una reunión con los padres, las madres o los tutores legales, o con el propio alumnado en caso de ser mayor de edad, en la que se entregarán los respectivos informes de evaluación y la comunicación específica de cuantos aspectos incidan, de forma colectiva o individual, en cada alumno o alumna y puedan resultar significativos para su proceso de aprendizaje. Solo en caso de inasistencia de los padres, las madres o los tutores legales a esas sesiones, o cuando se trate de alumnado mayor de edad, se arbitrarán medidas para entregar dichos informes directamente al alumnado.
+
+7. El tutor o la tutora citará al alumnado o a sus padres, madres o tutores legales para informarles de cualquiera de estos u otros aspectos en los que el proceso de su aprendizaje no se esté desarrollando de forma adecuada. Al término de la escolarización obligatoria y antes de la finalización del período de preinscripción para el curso siguiente, el tutor o la tutora comunicará a la familia el consejo orientador acordado por el equipo docente con el asesoramiento, en su caso, del departamento de orientación.
+
+#### Artículo 33. Funciones del profesorado de guardia.
+
+Una parte de la jornada de trabajo del profesorado se dedica a actividades complementarias. Dentro de las horas complementarias del profesorado se incluyen las guardias, que son necesarias para garantizar el normal desarrollo de todas las actividades del centro. Sin perjuicio de lo que el centro concrete en sus normas de organización y funcionamiento, el profesorado de guardia -y, cuando resulte necesario, el profesorado sin carga lectiva y
+
+sin atención directa con el alumnado- se dedicará, de modo preferencial, al plan de atención al alumnado en el caso de ausencia del profesorado al que se refiere el artículo 7 de la presente Orden, para lo cual tendrá que realizar las siguientes funciones básicas:
+a) Ejecutar las medidas acordadas por el órgano competente del centro con respecto al alumnado, en los casos de ausencia del profesorado a una actividad programada; velar por el mantenimiento del orden tanto en las aulas en las que no esté presente el profesorado como en los pasillos o en los recreos; y supervisar las entradas y salidas de las clases y, en general, el comportamiento del alumnado fuera del aula y en el resto de las dependencias del centro, sin que esto suponga por parte del resto del profesorado una inhibición de este mismo cometido.
+b) Cuidar que las clases comiencen y finalicen de forma puntual durante la sesión en que permanece de guardia. En este sentido, registrará las incidencias en la puntualidad y la asistencia del profesorado durante su turno de guardia tanto en lo referente a actividades lectivas como a las no lectivas; asimismo anotará otras incidencias como los cambios de clases, alteraciones de convivencia o salidas extraescolares. Para ello cumplimentará adecuadamente el parte de guardia establecido en el centro por la jefatura de estudios.
+c) Realizar las gestiones necesarias, en coordinación con el equipo directivo, en los casos en que el alumnado precise de atención médica por indisposición, accidente escolar u otra causa, según las instrucciones específicas que se dicten en esta materia de acuerdo con lo previsto en el artículo 64 de la presente Orden.
+d) Resolver, en colaboración con la jefatura de estudios o, en su caso, con cualquier otro miembro del equipo directivo, cuantas incidencias se produzcan durante el turno de guardia, dejando constancia de ellas en el parte correspondiente.
 e) En general, ejecutar cualquier acción que coadyuve al mejor funcionamiento del centro.
 
-#### Sección 2ª 
+### Sección 2.ª. Del alumnado.
 
-Del alumnado
+#### Artículo 34. Horario del alumnado.
 
-#### Artículo 34.- Horario del alumnado.
+1. Los criterios pedagógicos para la elaboración del horario semanal del alumnado serán fijados por el Claustro con antelación suficiente al comienzo de las actividades de cada curso y serán tenidos en cuenta por la jefatura de estudios al elaborar los horarios.
 
-1. Los criterios pedagógicos para la elaboración del horario semanal del alumnado serán 
-fijados por el Claustro con antelación suficiente al comienzo de las actividades de cada curso 
-y serán tenidos en cuenta por la jefatura de estudios al elaborar los horarios.
-2. Con carácter general, el horario del alumnado comprenderá treinta horas semanales y 
-se distribuirá de lunes a viernes, en jornadas de mañana, tarde o noche. Entre las actividades 
-lectivas de la mañana y de la tarde, si se trata del mismo grupo de alumnos, deberá existir un 
-descanso mínimo de dos horas. Por lo que se refiere al módulo profesional de Formación en 
-Centros de Trabajo, el horario semanal no podrá exceder, con carácter general, de cuarenta 
-horas. Sin embargo, en los ciclos de Formación Profesional que desarrollen actividades 
-formativas en ámbitos laborales que tengan una jornada de trabajo especial -así reconocida 
+2. Con carácter general, el horario del alumnado comprenderá treinta horas semanales y se distribuirá de lunes a viernes, en jornadas de mañana, tarde o noche. Entre las actividades lectivas de la mañana y de la tarde, si se trata del mismo grupo de alumnos, deberá existir un descanso mínimo de dos horas. Por lo que se refiere al módulo profesional de Formación en Centros de Trabajo, el horario semanal no podrá exceder, con carácter general, de cuarenta horas. Sin embargo, en los ciclos de Formación Profesional que desarrollen actividades formativas en ámbitos laborales que tengan una jornada de trabajo especial -así reconocida
 
-en el Estatuto de los Trabajadores-, se podrá llegar a reconocer un número mayor de horas 
-semanales. En este sentido, el límite máximo de horas que se podrá reconocer será el fijado 
-en la normativa laboral que regule la actividad, sin que, en ningún caso, exceda de doce 
-horas diarias.
-3. Con carácter general, en cada jornada lectiva no se destinará más de una hora para cada 
-una de las materias de Educación Secundaria Obligatoria y de Bachillerato, excepto para 
-los ámbitos de los Programas de Diversificación Curricular. No obstante, podrá adoptarse, 
-de forma razonada, la planificación de determinadas materias en periodos de dos o más 
-horas consecutivas en una misma jornada escolar o según las horas que correspondan para 
-los módulos profesionales de los Ciclos Formativos y de los Programas de Cualificación 
-Profesional Inicial.
-4. Los centros educativos podrán autorizar, según se establezca en sus normas de organización y funcionamiento, la salida del alumnado menor de edad que curse enseñanzas 
-postobligatorias por circunstancias puntuales o concretas, tales como consultas médicas u 
-otras similares, y cuando el alumnado tenga jornada singular por cursar solo algunas materias o módulos pendientes. El centro educativo deberá tener constancia de la autorización del 
-padre, la madre o el tutor legal para estas situaciones.
-Por condiciones particulares o excepcionales del centro educativo, tales como obras en 
-sus instalaciones o problemas de espacio en sus dependencias, entre otras, podrá autorizarse 
-la salida del alumnado menor de edad de enseñanzas postobligatorias, siempre que estén 
-previstas en sus normas de organización y funcionamiento y sean autorizadas por la Dirección Territorial de Educación correspondiente. Para estos casos, se necesitará igualmente la 
-autorización del padre, la madre o el tutor legal. 
+en el Estatuto de los Trabajadores-, se podrá llegar a reconocer un número mayor de horas semanales. En este sentido, el límite máximo de horas que se podrá reconocer será el fijado en la normativa laboral que regule la actividad, sin que, en ningún caso, exceda de doce horas diarias.
 
-#### Artículo 35.- Agrupamiento del alumnado.
+3. Con carácter general, en cada jornada lectiva no se destinará más de una hora para cada una de las materias de Educación Secundaria Obligatoria y de Bachillerato, excepto para los ámbitos de los Programas de Diversificación Curricular. No obstante, podrá adoptarse, de forma razonada, la planificación de determinadas materias en periodos de dos o más horas consecutivas en una misma jornada escolar o según las horas que correspondan para los módulos profesionales de los Ciclos Formativos y de los Programas de Cualificación Profesional Inicial.
 
-1. El Claustro, a propuesta del equipo directivo, aprobará los criterios pedagógicos para 
-la formación de los grupos en que se organizará al alumnado de cada curso. Estos criterios 
-serán recogidos en la correspondiente programación general anual. 
-2. La jefatura de estudios organizará al alumnado matriculado en cada uno de los cursos 
-en función de los criterios pedagógicos aprobados y de las ratios establecidas para las distintas enseñanzas.
-3. En los centros que tengan más de un turno, los grupos de primero y segundo de la 
-Educación Secundaria Obligatoria corresponderán siempre al turno de mañana y se dará 
-preferencia en este turno a los grupos de tercero y cuarto de esta etapa.
-4. La organización de los grupos de alumnado respetará el criterio de heterogeneidad y 
-el principio de no discriminación por razón de nacimiento, raza, sexo, religión, opinión o 
-cualquier otra condición o circunstancia personal o social.
-5. Con carácter general y para garantizar una situación de enseñanza y aprendizaje adecuada, todos los grupos tendrán un número semejante de alumnado, e incorporarán, de ma-
+4. Los centros educativos podrán autorizar, según se establezca en sus normas de organización y funcionamiento, la salida del alumnado menor de edad que curse enseñanzas postobligatorias por circunstancias puntuales o concretas, tales como consultas médicas u otras similares, y cuando el alumnado tenga jornada singular por cursar solo algunas materias o módulos pendientes. El centro educativo deberá tener constancia de la autorización del padre, la madre o el tutor legal para estas situaciones. Por condiciones particulares o excepcionales del centro educativo, tales como obras en sus instalaciones o problemas de espacio en sus dependencias, entre otras, podrá autorizarse la salida del alumnado menor de edad de enseñanzas postobligatorias, siempre que estén previstas en sus normas de organización y funcionamiento y sean autorizadas por la Dirección Territorial de Educación correspondiente. Para estos casos, se necesitará igualmente la autorización del padre, la madre o el tutor legal.
 
-nera equilibrada, a aquel con necesidad específica de apoyo educativo. En este sentido, los 
-alumnos y las alumnas con necesidades educativas especiales escolarizados deberán estar 
-distribuidos de forma homogénea entre todos los grupos de un mismo nivel, excluyendo 
-en la composición de los mismos cualquier criterio discriminatorio. No obstante, las ratios 
-podrán ser modificadas dentro del marco legal general aplicable, cuando existan necesidades 
-de escolarización y en situaciones extraordinarias, en todo caso.
+#### Artículo 35. Agrupamiento del alumnado.
+
+1. El Claustro, a propuesta del equipo directivo, aprobará los criterios pedagógicos para la formación de los grupos en que se organizará al alumnado de cada curso. Estos criterios serán recogidos en la correspondiente programación general anual.
+
+2. La jefatura de estudios organizará al alumnado matriculado en cada uno de los cursos en función de los criterios pedagógicos aprobados y de las ratios establecidas para las distintas enseñanzas.
+
+3. En los centros que tengan más de un turno, los grupos de primero y segundo de la Educación Secundaria Obligatoria corresponderán siempre al turno de mañana y se dará preferencia en este turno a los grupos de tercero y cuarto de esta etapa.
+
+4. La organización de los grupos de alumnado respetará el criterio de heterogeneidad y el principio de no discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
+
+5. Con carácter general y para garantizar una situación de enseñanza y aprendizaje adecuada, todos los grupos tendrán un número semejante de alumnado, e incorporarán, de manera equilibrada, a aquel con necesidad específica de apoyo educativo. En este sentido, los alumnos y las alumnas con necesidades educativas especiales escolarizados deberán estar distribuidos de forma homogénea entre todos los grupos de un mismo nivel, excluyendo en la composición de los mismos cualquier criterio discriminatorio. No obstante, las ratios podrán ser modificadas dentro del marco legal general aplicable, cuando existan necesidades de escolarización y en situaciones extraordinarias, en todo caso.
+
 6. El alumnado que permanezca un año más en un curso será también distribuido homogéneamente en la medida de lo posible.
+
 7. La fusión o la separación con carácter permanente de grupos de alumnado que modifiquen la plantilla de funcionamiento del centro deberán tener la autorización de la Administración educativa.
 
-#### Sección 3ª 
+### Sección 3.ª. Del profesorado.
 
-Del profesorado
+#### Artículo 36. Jornada de trabajo: aspectos generales.
 
-#### Artículo 36.- Jornada de trabajo: aspectos generales.
+1. La jornada semanal del profesorado de los Institutos de Educación Secundaria es la siguiente:
+JORNADA SEMANAL DEL PROFESORADO DE EDUCACIÓN SECUNDARIA horas y media 8 horas Preparación de actividades docentes, realización de actividades de perfeccionamiento, etc. No obligada permanencia en el centro. 29 horas y media de actividades del centro
 
-1. La jornada semanal del profesorado de los Institutos de Educación Secundaria es la 
-siguiente: 
-JORNADA SEMANAL DEL PROFESORADO DE EDUCACIÓN SECUNDARIA 
-horas y 
-media 
-8 horas 
-Preparación de actividades docentes, realización de actividades de 
-perfeccionamiento, etc. No obligada permanencia en el centro. 
-29 horas y 
-media de 
-actividades 
-del centro 
-
-26 horas de 
-permanencia 
-en el centro 
-20 horas 
-lectivas 
-Cuando excepcionalmente el horario 
-tenga más de veinte sesiones lectivas, 
-el profesorado afectado compensará 
-cada una de estas sesiones de exceso 
-con una sesión complementaria. 
-6 horas  
-complementarias 
-3 horas y 
-media de 
-media 
-semanal en  
-cómputo 
-anual 
-Actividades de periodicidad no fija, en el centro o fuera 
-del centro, como la realización de los claustros, de 
-sesiones del plan de formación del centro… 
-No figuran en los horarios individuales del profesorado. 
+26 horas de permanencia en el centro 20 horas lectivas Cuando excepcionalmente el horario tenga más de veinte sesiones lectivas, el profesorado afectado compensará cada una de estas sesiones de exceso con una sesión complementaria. 6 horas complementarias 3 horas y media de media semanal en cómputo anual Actividades de periodicidad no fija, en el centro o fuera del centro, como la realización de los claustros, de sesiones del plan de formación del centro… No figuran en los horarios individuales del profesorado.
 
 2. Esta jornada semanal se distribuirá de acuerdo con las horas lectivas y complementarias establecidas mediante las instrucciones que se dicten al efecto.
-3. Las horas dedicadas por el profesorado a la organización de actividades con el alumnado, fuera del horario lectivo, podrán computarse en sus horarios personales como horas 
-complementarias, siempre que estas actividades tengan periodicidad fija y estén autorizadas 
-por la dirección del centro. La jefatura de estudios, mediante el procedimiento que la dirección estime más adecuado, controlará el cumplimiento de la jornada de trabajo del profesorado, dejando siempre constancia documental de las ausencias, según las instrucciones que 
-se dicten al efecto. El registro de las incidencias se hará de tal forma que permita su archivo, 
-sin que sea posible modificar lo consignado. 
-4. El régimen previsto para las sustituciones del profesorado o para la concesión de permisos y licencias, así como el procedimiento para formalizar la toma de posesión serán los 
-que se establezcan mediante las instrucciones que se emitan para tal fin.
 
-#### Artículo 37.- Horario del profesorado de Formación Profesional.
+3. Las horas dedicadas por el profesorado a la organización de actividades con el alumnado, fuera del horario lectivo, podrán computarse en sus horarios personales como horas complementarias, siempre que estas actividades tengan periodicidad fija y estén autorizadas por la dirección del centro. La jefatura de estudios, mediante el procedimiento que la dirección estime más adecuado, controlará el cumplimiento de la jornada de trabajo del profesorado, dejando siempre constancia documental de las ausencias, según las instrucciones que se dicten al efecto. El registro de las incidencias se hará de tal forma que permita su archivo, sin que sea posible modificar lo consignado.
 
-El horario personal del profesorado de los ciclos formativos se adaptará a las necesidades 
-formativas, tanto en los centros educativos como en las empresas. Para ello, tanto las horas 
-lectivas como las complementarias podrán acumularse o variar su distribución semanal en 
-distintos periodos del curso, de manera que las horas de permanencia en el centro no excedan de 26 horas. El cómputo total de horas se realizará, en todo caso, teniendo en cuenta 
-el curso completo, aplicándose las mismas compensaciones de sesiones complementarias 
-previstas para el resto del profesorado, en caso de que se sobrepasen las 20 horas lectivas 
-semanales de promedio anual.
+4. El régimen previsto para las sustituciones del profesorado o para la concesión de permisos y licencias, así como el procedimiento para formalizar la toma de posesión serán los que se establezcan mediante las instrucciones que se emitan para tal fin.
 
-#### Sección 4ª 
+#### Artículo 37. Horario del profesorado de Formación Profesional.
 
-Elaboración y aprobación de horarios
+El horario personal del profesorado de los ciclos formativos se adaptará a las necesidades formativas, tanto en los centros educativos como en las empresas. Para ello, tanto las horas lectivas como las complementarias podrán acumularse o variar su distribución semanal en distintos periodos del curso, de manera que las horas de permanencia en el centro no excedan de 26 horas. El cómputo total de horas se realizará, en todo caso, teniendo en cuenta el curso completo, aplicándose las mismas compensaciones de sesiones complementarias previstas para el resto del profesorado, en caso de que se sobrepasen las 20 horas lectivas semanales de promedio anual.
 
-#### Artículo 38.- Criterios generales para la elaboración de horarios: condiciones previas.
+### Sección 4.ª. Elaboración y aprobación de horarios.
 
-1. El Claustro establecerá, previa propuesta de la comisión de coordinación pedagógica, criterios propios para la elaboración de los horarios, atendiendo exclusivamente a razones didácticas, siempre que se respeten los que, con carácter general, se establecen en la presente Orden. 
-2. En ningún caso las preferencias horarias del profesorado podrán obstaculizar la aplicación de los criterios establecidos en la presente Orden o los que pueda establecer el Claustro 
-en el ámbito de su autonomía.
-3. Los horarios individuales del profesorado se elaborarán distribuyendo las horas lectivas de lunes a viernes, ambos inclusive, y procurando evitar la concentración de horas 
-complementarias y la existencia de periodos de inactividad.
-4. Los horarios de todo el personal docente, con la especificación de las horas lectivas 
-y complementarias, se consignarán en la aplicación informática PINCEL o en la que se 
+#### Artículo 38. Criterios generales para la elaboración de horarios: condiciones previas.
 
-determine al efecto para este proceso, quedando una copia firmada por los interesados en la 
-secretaría del centro.
-5. Se garantizará la existencia del profesorado de guardia necesario para el normal desarrollo de todas las actividades del centro, incluidos los recreos. En este sentido, en todos los 
-periodos lectivos, estará presente en el centro educativo, al menos, un miembro del equipo 
-directivo.
-6. La jefatura de estudios tendrá en cuenta, al elaborar los horarios, las posibles reducciones de horario lectivo que se establezcan en instrucciones dictadas al efecto, siempre que se 
-tenga conocimiento de estas circunstancias con antelación. 
+1. El Claustro establecerá, previa propuesta de la comisión de coordinación pedagógica, criterios propios para la elaboración de los horarios, atendiendo exclusivamente a razones didácticas, siempre que se respeten los que, con carácter general, se establecen en la presente Orden.
 
-#### Artículo 39.- Atribución docente del profesorado para la asignación de horarios.
+2. En ningún caso las preferencias horarias del profesorado podrán obstaculizar la aplicación de los criterios establecidos en la presente Orden o los que pueda establecer el Claustro en el ámbito de su autonomía.
 
-1. La asignación de materias y módulos al profesorado de las distintas especialidades 
-docentes se hará conforme a lo que determina el Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la 
-educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas 
-de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza 
-secundaria (BOE nº 287, de 28 de noviembre). 
-2. A los efectos de lo establecido en el apartado anterior y en aplicación de lo previsto 
-en el artículo 6 del citado Real Decreto sobre «Ampliación de la atribución de docencia», 
-se podrá reducir el número de profesorado que imparte docencia a un mismo grupo en los 
-dos primeros cursos de Educación Secundaria Obligatoria y con profesorado con la debida 
-cualificación. A los efectos de atribución docente en la asignación de horarios, se tendrá en 
-cuenta la siguiente tabla:
-3. Para la elaboración de los horarios del profesorado del cuerpo de maestros adscritos a 
-la Educación Secundaria Obligatoria, en función de la disposición transitoria primera de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo), será prioriMateria/Especialidades del profesorado 
-Materia 
-Matemáticas/Biología 
-y 
-Geología/Física 
-y 
-Química/Tecnología 
-Matemáticas/Ciencias de la Naturaleza/ 
-Tecnologías 
-Lengua Castellana y Literatura/Lengua Extranjera 
-(Alemán/Francés/Inglés/Italiano)/Geografía 
-e 
-Historia 
-Lengua Castellana y Literatura 
-Geografía 
-e 
-Historia/Lengua 
-Castellana 
-y 
-Literatura/Lengua 
-Extranjera 
-(Alemán/Francés/Inglés/Italiano) 
-Ciencias Sociales, Geografía e Historia 
+3. Los horarios individuales del profesorado se elaborarán distribuyendo las horas lectivas de lunes a viernes, ambos inclusive, y procurando evitar la concentración de horas complementarias y la existencia de periodos de inactividad.
 
-taria la asignación de horas de carácter lectivo de aquellas materias de primero y de segundo 
-de Educación Secundaria Obligatoria, así como de las medidas de atención a la diversidad 
-desarrolladas en estos cursos u otras horas que tengan este carácter hasta completar el total 
-de horas lectivas correspondientes. 
-4. A los efectos de lo regulado en el apartado anterior y en aplicación de lo establecido en 
-el artículo 6 del citado Real Decreto sobre «Ampliación de la atribución de docencia», con 
-el objeto de reducir el número de profesorado que imparte docencia a un mismo grupo, para 
-la asignación de horarios se tendrá en cuenta la siguiente tabla:
-5. La asignación de materias o módulos profesionales se ajustará a las normas vigentes 
-en materia de atribución docente. A este respecto, el profesorado podrá completar su horario 
-en cualquiera de los cursos de la Educación Secundaria Obligatoria, en función del ámbito 
-de la especialidad docente de la que sea titular, impartiendo cualquiera de las materias que 
-integran los ámbitos de los Programas de Diversificación Curricular o de los ámbitos propios de la oferta específica para personas adultas; y de los módulos de los Programas de Cualificación Profesional Inicial conducentes al título de Graduado o Graduada en Educación 
-Secundaria Obligatoria, sin perjuicio de la preferencia que para impartir una determinada 
-materia tiene el titular de la especialidad a la que esté asignada.
-Asimismo, el personal funcionario de los cuerpos docentes que imparte Formación Profesional podrá impartir módulos profesionales atribuidos a otras especialidades diferentes 
-Plazas de adscripción 
-Materia 
-Matemáticas/Ciencias Naturales 
-Matemáticas/Ciencias de la Naturaleza 
-Lengua Castellana y Literatura/Lengua Extranjera 
-(Francés/Inglés)/ Ciencias Sociales 
-Lengua Castellana y Literatura 
-Ciencias 
-Sociales 
-/Lengua 
-Castellana 
-y 
-Literatura/Lengua 
-Extranjera 
-(Francés/Inglés)/ 
-Música 
-Ciencias Sociales, Geografía e Historia 
-Educación Física/Matemátic 
-as/ Ciencias Naturales 
-Tecnologías 
-Ciencias 
-Sociales 
-/Lengua 
-Castellana 
-y 
-Literatura/Lengua 
-Extranjera 
-(Francés/Inglés) 
-/Música 
-Educación para la Ciudadanía y los 
-Derechos Humanos 
-Música 
-Educación Plástica y Visual 
+4. Los horarios de todo el personal docente, con la especificación de las horas lectivas y complementarias, se consignarán en la aplicación informática PINCEL o en la que se
 
-a la suya, siempre que reúna las condiciones de titulación establecidas en las normas que 
-aprueben los correspondientes Títulos de Grado Medio y Grado Superior, sin perjuicio de la 
-preferencia a estos efectos de los titulares de las especialidades respectivas.
-6. Cuando se trate de enseñanzas de Formación Profesional, la asignación de las tutorías 
-y de los módulos de integración, de Formación en Centros de Trabajo y de desarrollo de 
-proyectos deberá tener en cuenta las especialidades con atribución docente en los Ciclos 
-Formativos que no pertenezcan a la familia profesional correspondiente.
+determine al efecto para este proceso, quedando una copia firmada por los interesados en la secretaría del centro.
 
-#### Artículo 40.- Asignación de turno, curso, materia, ámbito o módulo: normas generales.
+5. Se garantizará la existencia del profesorado de guardia necesario para el normal desarrollo de todas las actividades del centro, incluidos los recreos. En este sentido, en todos los periodos lectivos, estará presente en el centro educativo, al menos, un miembro del equipo directivo.
 
-1. La dirección del centro comunicará a cada departamento de coordinación didáctica 
-el número de grupos que le correspondan a su atribución docente, especificando el curso, 
-la materia, el ámbito o el módulo y, en su caso, el turno, así como otras atribuciones docentes, si fuera necesario, hasta cubrir la dedicación horaria de todos sus componentes. En 
-este sentido, la dirección podrá establecer determinados criterios que deberán ser respetados 
-para facilitar la organización del centro. Se evitará la configuración de horarios individuales 
-solo con materias o módulos de enseñanzas postobligatorias y, en particular, con las correspondientes a los segundos cursos. Las personas que integran el equipo directivo, según las 
-necesidades propias de sus cargos, tendrán preferencia para conformar su horario personal, 
-de manera que se procure garantizar su disponibilidad y la realización de sus funciones en 
-la jornada escolar. A efectos de elección de turno, se tendrán en cuenta los aspectos de la 
-conciliación familiar, facilitándola en la medida de lo posible siempre que sea acreditada.
-2. El personal docente del cuerpo de maestros adscrito a los dos primeros cursos de Educación Secundaria Obligatoria tendrá preferencia, exclusivamente, para impartir la materia o 
-materias que configuren su plaza, con independencia de su orden de derecho en el momento 
-de elegir horario junto con los demás miembros del departamento. Como acto previo a la 
-elección de horarios, la jefatura de estudios, al facilitar a cada departamento didáctico el 
-total de horas lectivas que le corresponde, distinguirá las pertenecientes a los dos primeros 
-cursos y, dentro de ellos, indicará el número que debe atribuirse al profesorado del Cuerpo 
-de Maestros, para conformar sus horarios, y las que pueden atribuirse al profesorado de 
-Enseñanza Secundaria.
-3. En sesión convocada al efecto, las personas integrantes del departamento acordarán en 
-qué turno desarrollarán su actividad lectiva. En el supuesto de que alguna de ellas no pudiera 
-completar su horario en el turno elegido, deberá completarlo en el siguiente turno. Una vez 
-realizada esta elección, elegirán las materias, los ámbitos, los módulos y los cursos, primando, en ambos casos, la elección por acuerdo unánime de los miembros del departamento. 
-Para esta distribución se tendrán, en cuenta, fundamentalmente, razones pedagógicas y de 
-especialidad. En caso de desacuerdo se procederá según lo previsto en el siguiente artículo.
+6. La jefatura de estudios tendrá en cuenta, al elaborar los horarios, las posibles reducciones de horario lectivo que se establezcan en instrucciones dictadas al efecto, siempre que se tenga conocimiento de estas circunstancias con antelación.
 
-#### Artículo 41. - Criterios específicos para la elección de horario.
+#### Artículo 39. Atribución docente del profesorado para la asignación de horarios.
 
-1. Entre las personas integrantes del departamento de coordinación didáctica, para la 
-elección de turno o la distribución de cada curso, materia, ámbito o módulo, se fijará el orden 
-de mejor derecho, aplicando los criterios de ordenación del personal docente determinados 
+1. La asignación de materias y módulos al profesorado de las distintas especialidades docentes se hará conforme a lo que determina el Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria (BOE nº 287, de 28 de noviembre).
 
-en la normativa vigente. En este supuesto, fijado el orden de elección de los miembros del 
-departamento de coordinación didáctica, se procederá de la siguiente manera: la persona 
-con mejor derecho será la que primero elija turno, a continuación lo hará la persona a quien 
-corresponda elegir en segundo lugar y así sucesivamente. Una vez elegidos los turnos, la 
-persona con mejor derecho será la que primero elija un grupo de la materia, el ámbito o el 
-módulo del curso que desee impartir con preferencia; a continuación, lo hará la persona a 
-quien corresponda elegir en segundo lugar y así sucesivamente hasta completar una primera 
-ronda entre todo el profesorado del departamento con destino en el centro para el curso correspondiente. Finalizada la primera ronda, se procederá a realizar otras sucesivas hasta que 
-todo el profesorado del departamento complete el horario lectivo o se hayan asignado todas 
-las materias y los cursos que le correspondan.
-2. En los Ciclos Formativos, dado que cada especialidad tiene competencia docente para 
-impartir diversos módulos, se elegirán dos módulos en cada ronda, siempre que la suma horaria de ambos módulos, en cómputo anual, no sobrepase la mitad del horario semanal. En 
-caso contrario, solo se podrá elegir un módulo profesional.
-3. El procedimiento descrito puede sustituirse por cualquier otro que no contradiga lo 
-dispuesto en las presentes instrucciones, siempre que sea aprobado por acuerdo de dos tercios del Claustro de profesorado y se incluya en la programación general anual del centro, 
-junto con los horarios y la copia certificada del acta que recoja el acuerdo adoptado. 
-4. En el supuesto de quedar horarios por asignar, corresponderá a la dirección la asignación de horario al profesorado que resulte destinado posteriormente al centro, una vez 
-finalizado el plazo de incorporación establecido por la Dirección General de Personal.
+2. A los efectos de lo establecido en el apartado anterior y en aplicación de lo previsto en el artículo 6 l.
 
-#### Artículo 42.- Desempeño de horario compartido.
+citado Real Decreto sobre «Ampliación de la atribución de docencia», se podrá reducir el número de profesorado que imparte docencia a un mismo grupo en los dos primeros cursos de Educación Secundaria Obligatoria y con profesorado con la debida cualificación. A los efectos de atribución docente en la asignación de horarios, se tendrá en cuenta la siguiente tabla:
 
-1. El horario del profesorado que imparte clase en más de un centro se elaborará, coordinadamente y con carácter previo, por las respectivas jefaturas de estudio, siguiendo las 
-indicaciones de la Inspección Educativa. Las horas complementarias que este profesorado 
-debe realizar en cada centro guardarán la debida proporción con las horas lectivas asignadas. 
-En todo caso, se procurará agrupar sus horas para que no asista a más de un centro en la 
-misma jornada.
-2. Cuando no fuera posible ampliar la atribución docente de una profesora o profesor 
-funcionario conforme a lo previsto en el artículo 39, se verá obligado a compartir centro, 
-debiendo hacerlo la persona con destino provisional en el centro o, en su defecto, con menor antigüedad con destino definitivo en el mismo, en el supuesto de que sean varios los 
-miembros del departamento de coordinación didáctica de esa especialidad. Todo ello en 
-consonancia con el artículo 28 de esta Orden y según lo regulado al efecto en la disposición 
-adicional quinta de la Orden de 2 de agosto de 2010, por la que se determinan los puestos de 
-trabajo docentes de carácter singular, sus condiciones y requisitos y se establecen las normas 
-aplicables a los concursos de traslados que se convoquen para funcionarios y funcionarias de 
-los Cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
-así como a la ordenación del personal docente, en el ámbito de la Comunidad Autónoma de 
-Canarias (BOC nº 157, de 11 de agosto).
+3. Para la elaboración de los horarios del profesorado del cuerpo de maestros adscritos a la Educación Secundaria Obligatoria, en función de la disposición transitoria primera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE nº 106, de 4 de mayo), será prioriMateria/Especialidades del profesorado Materia Matemáticas/Biología y Geología/Física y Química/Tecnología Matemáticas/Ciencias de la Naturaleza/ Tecnologías Lengua Castellana y Literatura/Lengua Extranjera (Alemán/Francés/Inglés/Italiano)/Geografía e Historia Lengua Castellana y Literatura Geografía e Historia/Lengua Castellana y Literatura/Lengua Extranjera (Alemán/Francés/Inglés/Italiano) Ciencias Sociales, Geografía e Historia
 
-#### Artículo 43.- Confección de horarios individuales por la jefatura de estudios.
+taria la asignación de horas de carácter lectivo de aquellas materias de primero y de segundo de Educación Secundaria Obligatoria, así como de las medidas de atención a la diversidad desarrolladas en estos cursos u otras horas que tengan este carácter hasta completar el total de horas lectivas correspondientes.
 
-1. Conocido el resultado del proceso de elección anterior, la jefatura de estudios confeccionará tantos horarios individuales nominales como miembros tenga el departamento de 
-coordinación didáctica, evitando la existencia de diferencias notables en dichos horarios y 
-los periodos sin actividad. En todo caso, corresponde a la dirección del centro, con sujeción 
-a lo establecido en la normativa aplicable y en las presentes instrucciones, dirimir todas las 
-cuestiones que puedan derivarse de la aplicación de las citadas normas en materia de asignación de horarios.
-2. La jefatura de estudios procurará que todo el profesorado imparta docencia en dos o 
-tres cursos. Ningún docente impartirá enseñanzas en más de dos turnos, excepto en determinados casos debidamente justificados. En el supuesto de que se asigne a un profesor o a una 
-profesora más de un turno, estos serán correlativos. Entre la finalización de las clases de un 
-día y el comienzo de las clases del día siguiente deberán transcurrir, al menos, doce horas. 
-Asimismo, la jefatura de estudios velará para que estos últimos horarios se conformen de la 
-manera más racional posible. 
-3. La jefatura de estudios confeccionará los horarios de forma que todos los miembros 
-del departamento coincidan en una misma hora libre a la semana para dedicarla a las reuniones de ese órgano de coordinación. Estas reuniones podrán establecerse quincenalmente 
-con una duración no inferior a dos horas, lo que se pondrá en conocimiento de la Inspección 
-Educativa. En los casos de los departamentos didácticos de las enseñanzas de Formación 
-Profesional, la reunión de coordinación podrá estar fuera del horario lectivo del alumnado, 
-si fuera necesario. 
-4. Las horas lectivas computadas por reducciones exigirán la presencia del profesorado 
-en el centro, excepto en el caso de que se trate de las horas correspondientes a la Formación 
-en Centros de Trabajo, y podrán realizarse en el propio centro o en las empresas. Cuando las 
-circunstancias del centro lo exijan y solo de manera excepcional y justificada, se acumularán 
-reducciones horarias por distintos conceptos a un solo profesor o profesora.
-5. En el horario del profesorado se contemplará un número máximo de cinco horas lectivas diarias y un mínimo de dos, con la excepción del profesorado a tiempo parcial que podrá 
-tener una hora lectiva como mínimo. No obstante, el profesorado de Formación Profesional 
-podrá tener en su horario personal un número máximo de seis horas lectivas diarias, si el 
-departamento de la familia profesional lo propone justificadamente, con la aprobación de la 
-dirección del centro, informando de ello a la Inspección Educativa.
+4. A los efectos de lo regulado en el apartado anterior y en aplicación de lo establecido en el artículo 6 l.
 
-#### Artículo 44.- Aprobación de horarios.
+citado Real Decreto sobre «Ampliación de la atribución de docencia», con el objeto de reducir el número de profesorado que imparte docencia a un mismo grupo, para la asignación de horarios se tendrá en cuenta la siguiente tabla:
 
-1. La dirección, una vez confeccionados los horarios, los aprobará de manera provisional 
-y los distribuirá entre el profesorado antes del comienzo de las actividades lectivas del nuevo 
-curso. A continuación, se celebrará una sesión del Claustro en la que la propuesta de horario 
-se expondrá públicamente, para que el profesorado pueda comprobar que, en la elaboración 
-de los mismos, se han seguido tanto los criterios pedagógicos fijados por los órganos de 
-gobierno del centro como los establecidos en la presente Orden. 
+5. La asignación de materias o módulos profesionales se ajustará a las normas vigentes en materia de atribución docente. A este respecto, el profesorado podrá completar su horario en cualquiera de los cursos de la Educación Secundaria Obligatoria, en función del ámbito de la especialidad docente de la que sea titular, impartiendo cualquiera de las materias que integran los ámbitos de los Programas de Diversificación Curricular o de los ámbitos propios de la oferta específica para personas adultas; y de los módulos de los Programas de Cualificación Profesional Inicial conducentes al título de Graduado o Graduada en Educación Secundaria Obligatoria, sin perjuicio de la preferencia que para impartir una determinada materia tiene el titular de la especialidad a la que esté asignada. Asimismo, el personal funcionario de los cuerpos docentes que imparte Formación Profesional podrá impartir módulos profesionales atribuidos a otras especialidades diferentes Plazas de adscripción Materia Matemáticas/Ciencias Naturales Matemáticas/Ciencias de la Naturaleza Lengua Castellana y Literatura/Lengua Extranjera (Francés/Inglés)/ Ciencias Sociales Lengua Castellana y Literatura Ciencias Sociales /Lengua Castellana y Literatura/Lengua Extranjera (Francés/Inglés)/ Música Ciencias Sociales, Geografía e Historia Educación Física/Matemátic as/ Ciencias Naturales Tecnologías Ciencias Sociales /Lengua Castellana y Literatura/Lengua Extranjera (Francés/Inglés) /Música Educación para la Ciudadanía y los Derechos Humanos Música Educación Plástica y Visual
 
-2. El profesorado no conforme podrá reclamar ante la dirección del centro en el plazo 
-de los tres días hábiles siguientes a la comunicación del horario. La dirección del centro 
-resolverá en el plazo de los tres días hábiles siguientes a la presentación de la reclamación. 
-En caso de no estar de acuerdo con la resolución adoptada o de no haber tenido respuesta en 
-dicho plazo, el profesorado podrá presentar recurso de alzada, que pondrá fin a la vía administrativa, en el plazo de un mes ante la Dirección Territorial de Educación correspondiente. 
-Esta resolverá el recurso, previo informe de la Inspección Educativa, en el plazo máximo 
-de un mes desde su presentación, teniendo en cuenta, en la agilización de los recursos, el 
-calendario anual de actividades escolares de comienzo de curso. En todo caso, la persona 
-reclamante habrá de cumplir, de manera inexcusable, el horario asignado hasta que se haya 
-adoptado la resolución definitiva. 
-3. Por otra parte, el equipo directivo podrá adjudicar, de forma excepcional, en cualquier 
-momento del curso, grupos de alumnado y horarios, teniendo en cuenta circunstancias que 
-puedan perjudicar de manera significativa y constatable, el aprovechamiento escolar del 
-alumnado o la mejor organización del centro, debiendo en este caso informar al Claustro y 
-a la Inspección Educativa.
-4. La dirección del centro, una vez apruebe los horarios, se responsabilizará de que sean 
-grabados los datos, antes del comienzo de las actividades lectivas, en el programa informático establecido por la Administración educativa para tal fin.
+a la suya, siempre que reúna las condiciones de titulación establecidas en las normas que aprueben los correspondientes Títulos de Grado Medio y Grado Superior, sin perjuicio de la preferencia a estos efectos de los titulares de las especialidades respectivas.
 
-#### Artículo 45.- Circunstancias excepcionales de los horarios.
+6. Cuando se trate de enseñanzas de Formación Profesional, la asignación de las tutorías y de los módulos de integración, de Formación en Centros de Trabajo y de desarrollo de proyectos deberá tener en cuenta las especialidades con atribución docente en los Ciclos Formativos que no pertenezcan a la familia profesional correspondiente.
 
-1. La jornada de trabajo establecida en el artículo 36 será también de aplicación al profesorado del cuerpo de maestros que imparta los Programas de Cualificación Profesional 
-Inicial y al profesorado tutor del alumnado escolarizado en Aulas Enclave en centros de 
-Educación Secundaria.
-2. Al profesorado que no cuente con horas de docencia directa en su horario individual, 
-solo se le detraerán cuatro horas y media de su jornada semanal de treinta y siete horas y 
-media para actividades de periodicidad no fija, por lo que se le deberá asignar un horario de 
-permanencia en el centro de treinta y tres horas a la semana.
-3. Los orientadores y orientadoras que tengan destino en IES, CEO o Escuelas de Arte 
-tendrán la jornada semanal del profesorado de Educación Secundaria.
-4. Excepcionalmente, en función de las necesidades horarias del centro y atendiendo a 
-la particularidad de determinadas enseñanzas, el horario del profesorado se podrá organizar 
-con otra distribución en ciertos momentos del curso escolar.
-De esta manera, cuando finalicen las actividades lectivas del alumnado de segundo de 
-Bachillerato por adelanto de las pruebas extraordinarias o por la realización de la Prueba de 
-Acceso a la Universidad, el profesorado que imparta clase en este curso continuará con las 
-actividades de ese alumnado, bien sea para la recuperación de materia pendiente, bien para 
-la preparación de la citada prueba, o con otras tareas que el equipo directivo le encargue de 
-manera específica.
+#### Artículo 40. Asignación de turno, curso, materia, ámbito o módulo: normas generales.
 
-Asimismo, siempre que haya alumnado que, por cualquier motivo (actividades extraescolares, viajes ...), no tenga actividad lectiva dentro del centro, el profesorado que imparta 
-clase en ese grupo y no participe en la citada actividad seguirá asistiendo al centro educativo, dedicando esas sesiones lectivas a otras labores que encomiende la jefatura de estudios, 
-hasta la finalización de su jornada laboral.
-5. Durante los periodos no lectivos del calendario escolar, la jornada laboral del profesorado estará dedicada a las actividades que se determinen, tales como asistir a las reuniones 
-programadas, elaborar las programaciones, las memorias y los proyectos regulados en el 
-Reglamento Orgánico de los centros educativos. Esta distribución horaria se recogerá en la 
-programación general anual y en el proyecto de gestión.
+1. La dirección del centro comunicará a cada departamento de coordinación didáctica el número de grupos que le correspondan a su atribución docente, especificando el curso, la materia, el ámbito o el módulo y, en su caso, el turno, así como otras atribuciones docentes, si fuera necesario, hasta cubrir la dedicación horaria de todos sus componentes. En este sentido, la dirección podrá establecer determinados criterios que deberán ser respetados para facilitar la organización del centro. Se evitará la configuración de horarios individuales solo con materias o módulos de enseñanzas postobligatorias y, en particular, con las correspondientes a los segundos cursos. Las personas que integran el equipo directivo, según las necesidades propias de sus cargos, tendrán preferencia para conformar su horario personal, de manera que se procure garantizar su disponibilidad y la realización de sus funciones en la jornada escolar. A efectos de elección de turno, se tendrán en cuenta los aspectos de la conciliación familiar, facilitándola en la medida de lo posible siempre que sea acreditada.
 
-### CAPÍTULO V
+2. El personal docente del cuerpo de maestros adscrito a los dos primeros cursos de Educación Secundaria Obligatoria tendrá preferencia, exclusivamente, para impartir la materia o materias que configuren su plaza, con independencia de su orden de derecho en el momento de elegir horario junto con los demás miembros del departamento. Como acto previo a la elección de horarios, la jefatura de estudios, al facilitar a cada departamento didáctico el total de horas lectivas que le corresponde, distinguirá las pertenecientes a los dos primeros cursos y, dentro de ellos, indicará el número que debe atribuirse al profesorado del Cuerpo de Maestros, para conformar sus horarios, y las que pueden atribuirse al profesorado de Enseñanza Secundaria.
 
-ASPECTOS ORGANIZATIVOS COMUNES
+3. En sesión convocada al efecto, las personas integrantes del departamento acordarán en qué turno desarrollarán su actividad lectiva. En el supuesto de que alguna de ellas no pudiera completar su horario en el turno elegido, deberá completarlo en el siguiente turno. Una vez realizada esta elección, elegirán las materias, los ámbitos, los módulos y los cursos, primando, en ambos casos, la elección por acuerdo unánime de los miembros del departamento. Para esta distribución se tendrán, en cuenta, fundamentalmente, razones pedagógicas y de especialidad. En caso de desacuerdo se procederá según lo previsto en el siguiente artículo.
 
-#### Sección 1ª 
+#### Artículo 41. Criterios específicos para la elección de horario.
 
-Del alumnado
+1. Entre las personas integrantes del departamento de coordinación didáctica, para la elección de turno o la distribución de cada curso, materia, ámbito o módulo, se fijará el orden de mejor derecho, aplicando los criterios de ordenación del personal docente determinados
 
-#### Artículo 46.- Absentismo escolar.
+en la normativa vigente. En este supuesto, fijado el orden de elección de los miembros del departamento de coordinación didáctica, se procederá de la siguiente manera: la persona con mejor derecho será la que primero elija turno, a continuación lo hará la persona a quien corresponda elegir en segundo lugar y así sucesivamente. Una vez elegidos los turnos, la persona con mejor derecho será la que primero elija un grupo de la materia, el ámbito o el módulo del curso que desee impartir con preferencia; a continuación, lo hará la persona a quien corresponda elegir en segundo lugar y así sucesivamente hasta completar una primera ronda entre todo el profesorado del departamento con destino en el centro para el curso correspondiente. Finalizada la primera ronda, se procederá a realizar otras sucesivas hasta que todo el profesorado del departamento complete el horario lectivo o se hayan asignado todas las materias y los cursos que le correspondan.
 
-1. Las personas responsables de los centros escolares deberán prevenir y controlar el 
-absentismo escolar. En particular, están obligadas a colaborar con los servicios municipales 
-competentes para garantizar la escolaridad obligatoria y para evitar y resolver, en su caso, las 
-situaciones de riesgo de menores escolarizados en Educación Primaria o Educación Secundaria Obligatoria. A este respecto, será de aplicación lo previsto en la disposición adicional 
-sexta del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito 
-educativo de la Comunidad Autónoma de Canarias.
-2. A principio de curso, los tutores y las tutoras darán cuenta de las normas sobre el control de asistencia al alumnado de su grupo, a sus padres, madres o representantes legales, 
-reiterándoles la importancia de la asistencia y la puntualidad a clase. La dirección informará 
-al Consejo Escolar, al menos trimestralmente, de la incidencia del absentismo escolar en el 
-centro. Estos informes se incorporarán a la memoria final de curso. A tal efecto, podrá existir 
-profesorado tutor de faltas, que destinará sus horas complementarias disponibles a la realización de estas funciones. En las actas de cada sesión de evaluación se dejará constancia del 
-absentismo del alumnado.
-3. El absentismo del alumnado de Educación Primaria y de Educación Secundaria Obligatoria debe ser comunicado por parte de los centros educativos tanto a la Inspección Educativa como al servicio municipal responsable del mismo. Para ello se emitirá un único 
-informe, de periodicidad mensual, que recoja todos los casos de absentismo escolar, destacando, de una manera especial, los casos que conlleven un 15% o más de inasistencia 
-injustificada a las sesiones lectivas. Dicho informe se enviará durante la primera quincena 
-del mes siguiente.
+2. En los Ciclos Formativos, dado que cada especialidad tiene competencia docente para impartir diversos módulos, se elegirán dos módulos en cada ronda, siempre que la suma horaria de ambos módulos, en cómputo anual, no sobrepase la mitad del horario semanal. En caso contrario, solo se podrá elegir un módulo profesional.
+
+3. El procedimiento descrito puede sustituirse por cualquier otro que no contradiga lo dispuesto en las presentes instrucciones, siempre que sea aprobado por acuerdo de dos tercios del Claustro de profesorado y se incluya en la programación general anual del centro, junto con los horarios y la copia certificada del acta que recoja el acuerdo adoptado.
+
+4. En el supuesto de quedar horarios por asignar, corresponderá a la dirección la asignación de horario al profesorado que resulte destinado posteriormente al centro, una vez finalizado el plazo de incorporación establecido por la Dirección General de Personal.
+
+#### Artículo 42. Desempeño de horario compartido.
+
+1. El horario del profesorado que imparte clase en más de un centro se elaborará, coordinadamente y con carácter previo, por las respectivas jefaturas de estudio, siguiendo las indicaciones de la Inspección Educativa. Las horas complementarias que este profesorado debe realizar en cada centro guardarán la debida proporción con las horas lectivas asignadas. En todo caso, se procurará agrupar sus horas para que no asista a más de un centro en la misma jornada.
+
+2. Cuando no fuera posible ampliar la atribución docente de una profesora o profesor funcionario conforme a lo previsto en el artículo 39, se verá obligado a compartir centro, debiendo hacerlo la persona con destino provisional en el centro o, en su defecto, con menor antigüedad con destino definitivo en el mismo, en el supuesto de que sean varios los miembros del departamento de coordinación didáctica de esa especialidad. Todo ello en consonancia con el artículo 28 de esta Orden y según lo regulado al efecto en la disposición adicional quinta de la Orden de 2 de agosto de 2010, por la que se determinan los puestos de trabajo docentes de carácter singular, sus condiciones y requisitos y se establecen las normas aplicables a los concursos de traslados que se convoquen para funcionarios y funcionarias de los Cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, así como a la ordenación del personal docente, en el ámbito de la Comunidad Autónoma de Canarias (BOC nº 157, de 11 de agosto).
+
+#### Artículo 43. Confección de horarios individuales por la jefatura de estudios.
+
+1. Conocido el resultado del proceso de elección anterior, la jefatura de estudios confeccionará tantos horarios individuales nominales como miembros tenga el departamento de coordinación didáctica, evitando la existencia de diferencias notables en dichos horarios y los periodos sin actividad. En todo caso, corresponde a la dirección del centro, con sujeción a lo establecido en la normativa aplicable y en las presentes instrucciones, dirimir todas las cuestiones que puedan derivarse de la aplicación de las citadas normas en materia de asignación de horarios.
+
+2. La jefatura de estudios procurará que todo el profesorado imparta docencia en dos o tres cursos. Ningún docente impartirá enseñanzas en más de dos turnos, excepto en determinados casos debidamente justificados. En el supuesto de que se asigne a un profesor o a una profesora más de un turno, estos serán correlativos. Entre la finalización de las clases de un día y el comienzo de las clases del día siguiente deberán transcurrir, al menos, doce horas. Asimismo, la jefatura de estudios velará para que estos últimos horarios se conformen de la manera más racional posible.
+
+3. La jefatura de estudios confeccionará los horarios de forma que todos los miembros del departamento coincidan en una misma hora libre a la semana para dedicarla a las reuniones de ese órgano de coordinación. Estas reuniones podrán establecerse quincenalmente con una duración no inferior a dos horas, lo que se pondrá en conocimiento de la Inspección Educativa. En los casos de los departamentos didácticos de las enseñanzas de Formación Profesional, la reunión de coordinación podrá estar fuera del horario lectivo del alumnado, si fuera necesario.
+
+4. Las horas lectivas computadas por reducciones exigirán la presencia del profesorado en el centro, excepto en el caso de que se trate de las horas correspondientes a la Formación en Centros de Trabajo, y podrán realizarse en el propio centro o en las empresas. Cuando las circunstancias del centro lo exijan y solo de manera excepcional y justificada, se acumularán reducciones horarias por distintos conceptos a un solo profesor o profesora.
+
+5. En el horario del profesorado se contemplará un número máximo de cinco horas lectivas diarias y un mínimo de dos, con la excepción del profesorado a tiempo parcial que podrá tener una hora lectiva como mínimo. No obstante, el profesorado de Formación Profesional podrá tener en su horario personal un número máximo de seis horas lectivas diarias, si el departamento de la familia profesional lo propone justificadamente, con la aprobación de la dirección del centro, informando de ello a la Inspección Educativa.
+
+#### Artículo 44. Aprobación de horarios.
+
+1. La dirección, una vez confeccionados los horarios, los aprobará de manera provisional y los distribuirá entre el profesorado antes del comienzo de las actividades lectivas del nuevo curso. A continuación, se celebrará una sesión del Claustro en la que la propuesta de horario se expondrá públicamente, para que el profesorado pueda comprobar que, en la elaboración de los mismos, se han seguido tanto los criterios pedagógicos fijados por los órganos de gobierno del centro como los establecidos en la presente Orden.
+
+2. El profesorado no conforme podrá reclamar ante la dirección del centro en el plazo de los tres días hábiles siguientes a la comunicación del horario. La dirección del centro resolverá en el plazo de los tres días hábiles siguientes a la presentación de la reclamación. En caso de no estar de acuerdo con la resolución adoptada o de no haber tenido respuesta en dicho plazo, el profesorado podrá presentar recurso de alzada, que pondrá fin a la vía administrativa, en el plazo de un mes ante la Dirección Territorial de Educación correspondiente. Esta resolverá el recurso, previo informe de la Inspección Educativa, en el plazo máximo de un mes desde su presentación, teniendo en cuenta, en la agilización de los recursos, el calendario anual de actividades escolares de comienzo de curso. En todo caso, la persona reclamante habrá de cumplir, de manera inexcusable, el horario asignado hasta que se haya adoptado la resolución definitiva.
+
+3. Por otra parte, el equipo directivo podrá adjudicar, de forma excepcional, en cualquier momento del curso, grupos de alumnado y horarios, teniendo en cuenta circunstancias que puedan perjudicar de manera significativa y constatable, el aprovechamiento escolar del alumnado o la mejor organización del centro, debiendo en este caso informar al Claustro y a la Inspección Educativa.
+
+4. La dirección del centro, una vez apruebe los horarios, se responsabilizará de que sean grabados los datos, antes del comienzo de las actividades lectivas, en el programa informático establecido por la Administración educativa para tal fin.
+
+#### Artículo 45. Circunstancias excepcionales de los horarios.
+
+1. La jornada de trabajo establecida en el artículo 36 será.
+
+también de aplicación al profesorado del cuerpo de maestros que imparta los Programas de Cualificación Profesional Inicial y al profesorado tutor del alumnado escolarizado en Aulas Enclave en centros de Educación Secundaria.
+
+2. Al profesorado que no cuente con horas de docencia directa en su horario individual, solo se le detraerán cuatro horas y media de su jornada semanal de treinta y siete horas y media para actividades de periodicidad no fija, por lo que se le deberá asignar un horario de permanencia en el centro de treinta y tres horas a la semana.
+
+3. Los orientadores y orientadoras que tengan destino en IES, CEO o Escuelas de Arte tendrán la jornada semanal del profesorado de Educación Secundaria.
+
+4. Excepcionalmente, en función de las necesidades horarias del centro y atendiendo a la particularidad de determinadas enseñanzas, el horario del profesorado se podrá organizar con otra distribución en ciertos momentos del curso escolar. De esta manera, cuando finalicen las actividades lectivas del alumnado de segundo de Bachillerato por adelanto de las pruebas extraordinarias o por la realización de la Prueba de Acceso a la Universidad, el profesorado que imparta clase en este curso continuará con las actividades de ese alumnado, bien sea para la recuperación de materia pendiente, bien para la preparación de la citada prueba, o con otras tareas que el equipo directivo le encargue de manera específica.
+
+Asimismo, siempre que haya alumnado que, por cualquier motivo (actividades extraescolares, viajes ...), no tenga actividad lectiva dentro del centro, el profesorado que imparta clase en ese grupo y no participe en la citada actividad seguirá asistiendo al centro educativo, dedicando esas sesiones lectivas a otras labores que encomiende la jefatura de estudios, hasta la finalización de su jornada laboral.
+
+5. Durante los periodos no lectivos del calendario escolar, la jornada laboral del profesorado estará dedicada a las actividades que se determinen, tales como asistir a las reuniones programadas, elaborar las programaciones, las memorias y los proyectos regulados en el Reglamento Orgánico de los centros educativos. Esta distribución horaria se recogerá en la programación general anual y en el proyecto de gestión.
+
+## Capítulo V. Aspectos organizativos comunes.
+
+### Sección 1.ª. Del alumnado.
+
+#### Artículo 46. Absentismo escolar.
+
+1. Las personas responsables de los centros escolares deberán prevenir y controlar el absentismo escolar. En particular, están obligadas a colaborar con los servicios municipales competentes para garantizar la escolaridad obligatoria y para evitar y resolver, en su caso, las situaciones de riesgo de menores escolarizados en Educación Primaria o Educación Secundaria Obligatoria. A este respecto, será de aplicación lo previsto en la disposición adicional
+
+#### Sexta. del Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.
+
+2. A principio de curso, los tutores y las tutoras darán cuenta de las normas sobre el control de asistencia al alumnado de su grupo, a sus padres, madres o representantes legales, reiterándoles la importancia de la asistencia y la puntualidad a clase. La dirección informará al Consejo Escolar, al menos trimestralmente, de la incidencia del absentismo escolar en el centro. Estos informes se incorporarán a la memoria final de curso. A tal efecto, podrá existir profesorado tutor de faltas, que destinará sus horas complementarias disponibles a la realización de estas funciones. En las actas de cada sesión de evaluación se dejará constancia del absentismo del alumnado.
+
+3. El absentismo del alumnado de Educación Primaria y de Educación Secundaria Obligatoria debe ser comunicado por parte de los centros educativos tanto a la Inspección Educativa como al servicio municipal responsable del mismo. Para ello se emitirá un único informe, de periodicidad mensual, que recoja todos los casos de absentismo escolar, destacando, de una manera especial, los casos que conlleven un 15% o más de inasistencia injustificada a las sesiones lectivas. Dicho informe se enviará durante la primera quincena del mes siguiente.
 
 En los centros de Educación Infantil, se establecerán las medidas oportunas para la prevención del absentismo escolar.
-4. El equipo educativo adoptará los instrumentos de evaluación establecidos con carácter 
-extraordinario para el alumnado absentista.
 
-#### Artículo 47.- Procedimiento de control de asistencia.
+4. El equipo educativo adoptará los instrumentos de evaluación establecidos con carácter extraordinario para el alumnado absentista.
 
-1. La jefatura de estudios, oído el Consejo Escolar del centro, concretará los procedimientos que se aplicarán para el control de faltas, la comunicación a las familias y la justificación de las mismas. En cualquier caso, como medida complementaria para evitar el 
-absentismo escolar en las etapas obligatorias, el profesorado de primera hora de clase comunicará al equipo directivo, por el procedimiento que se haya establecido, el alumnado que 
-ha faltado a esa hora. El centro advertirá, a su vez, de esta ausencia a las familias a lo largo 
-de la jornada escolar. 
-2. El profesorado de las diferentes áreas, materias, ámbitos o módulos controlará todos 
-los días las faltas del alumnado. Estas faltas serán registradas en las correspondientes fichas 
-de seguimiento o en cualquier otro sistema de control que tenga establecido el centro, y las 
-comunicará al respectivo tutor o tutora para su posterior traslado a las familias. La dirección 
-del centro garantizará que quede constancia de todas las comunicaciones de las faltas injustificadas a las familias o al alumnado, en caso de ser mayor de edad.
-3. Los centros educativos deberán arbitrar los procesos de justificación de la inasistencia 
-del alumnado. Esta justificación deberá ser realizada en el tiempo y en la forma acordada. 
-Su simple presentación no garantizará la justificación de la falta de asistencia o retraso. Para 
-la presentación de los justificantes de las faltas o los retrasos del alumnado menor de 18 
-años, serán las madres, los padres o los tutores legales quienes deberán realizar y firmar la 
-petición de la justificación. El alumnado mayor de 18 años será el responsable de presentar 
-la justificación de sus faltas de asistencia.
-Los motivos y las condiciones que permitirán su justificación estarán recogidos en sus 
-normas de organización y funcionamiento.
-4. La jefatura de estudios, previo informe de la tutoría correspondiente, cumplimentará 
-mensualmente el estadillo establecido. En este se consignarán, por un lado, las ausencias 
-del alumnado, relacionando nombre y apellidos, domicilio, teléfono, edad, curso y grupo; 
-y, por otro lado, el número de faltas no justificadas de cada uno, el periodo en el cual se han 
-producido, las causas alegadas por las familias y, si fuese necesario, las razones que el centro 
-considere como causantes de la inasistencia.
+#### Artículo 47. Procedimiento de control de asistencia.
 
-#### Artículo 48.- Cambios de centro del alumnado durante el curso escolar. 
+1. La jefatura de estudios, oído el Consejo Escolar del centro, concretará los procedimientos que se aplicarán para el control de faltas, la comunicación a las familias y la justificación de las mismas. En cualquier caso, como medida complementaria para evitar el absentismo escolar en las etapas obligatorias, el profesorado de primera hora de clase comunicará al equipo directivo, por el procedimiento que se haya establecido, el alumnado que ha faltado a esa hora. El centro advertirá, a su vez, de esta ausencia a las familias a lo largo de la jornada escolar.
 
-1. Una vez iniciado el curso escolar, el cambio de centro -que conlleva el correspondiente 
-traslado del historial académico y del informe personal por traslado o, en su caso, de la certificación académica personal- será autorizado en cualquier momento del curso por la dirección del centro para el que se solicita el traslado, previa existencia de vacantes y de acuerdo 
+2. El profesorado de las diferentes áreas, materias, ámbitos o módulos controlará todos los días las faltas del alumnado. Estas faltas serán registradas en las correspondientes fichas de seguimiento o en cualquier otro sistema de control que tenga establecido el centro, y las comunicará al respectivo tutor o tutora para su posterior traslado a las familias. La dirección del centro garantizará que quede constancia de todas las comunicaciones de las faltas injustificadas a las familias o al alumnado, en caso de ser mayor de edad.
 
-con los grupos autorizados. Siempre y en todo caso, la persona interesada debe acreditar 
-documentalmente que se encuentra en alguna de las siguientes circunstancias:
+3. Los centros educativos deberán arbitrar los procesos de justificación de la inasistencia del alumnado. Esta justificación deberá ser realizada en el tiempo y en la forma acordada. Su simple presentación no garantizará la justificación de la falta de asistencia o retraso. Para la presentación de los justificantes de las faltas o los retrasos del alumnado menor de 18 años, serán las madres, los padres o los tutores legales quienes deberán realizar y firmar la petición de la justificación. El alumnado mayor de 18 años será el responsable de presentar la justificación de sus faltas de asistencia. Los motivos y las condiciones que permitirán su justificación estarán recogidos en sus normas de organización y funcionamiento.
+
+4. La jefatura de estudios, previo informe de la tutoría correspondiente, cumplimentará mensualmente el estadillo establecido. En este se consignarán, por un lado, las ausencias del alumnado, relacionando nombre y apellidos, domicilio, teléfono, edad, curso y grupo; y, por otro lado, el número de faltas no justificadas de cada uno, el periodo en el cual se han producido, las causas alegadas por las familias y, si fuese necesario, las razones que el centro considere como causantes de la inasistencia.
+
+#### Artículo 48. Cambios de centro del alumnado durante el curso escolar.
+
+1. Una vez iniciado el curso escolar, el cambio de centro -que conlleva el correspondiente traslado del historial académico y del informe personal por traslado o, en su caso, de la certificación académica personal- será autorizado en cualquier momento del curso por la dirección del centro para el que se solicita el traslado, previa existencia de vacantes y de acuerdo
+
+con los grupos autorizados. Siempre y en todo caso, la persona interesada debe acreditar documentalmente que se encuentra en alguna de las siguientes circunstancias:
 a) Cambio de domicilio que genere problemas de desplazamiento.
-b) Incorporación del padre, la madre, el tutor legal o, en su caso, del alumno o la alumna 
-a un puesto de trabajo en otro lugar distinto al de su residencia que ocasione problemas de 
-desplazamiento.
-En caso de que la documentación de cambio de centro se rellene por uno solo de los 
-progenitores del menor, se presumirá que dicha persona tiene capacidad legal para gestionar 
-todo lo necesario en el procedimiento de cambio de centro y matrícula. No obstante, en 
-supuestos de separación o divorcio de los progenitores, el centro de origen comunicará la 
-petición de cambio de centro al progenitor que no tiene la guarda y custodia, siempre que 
-mantenga la patria potestad compartida sobre el menor y que con anterioridad haya manifestado su deseo de ser informado por el centro de la situación escolar de su hijo o hija, 
-conforme a lo previsto en el artículo 51 de la presente Orden.
-2. Atendiendo a otras circunstancias objetivas, debidamente justificadas, y que revistan 
-carácter excepcional, la Dirección Territorial de Educación correspondiente podrá conceder 
-el cambio de centro escolar.
-3. Presentada la solicitud de cambio en el centro de destino, este procederá, a la mayor 
-brevedad posible y una vez confirmado que dispone de plaza vacante, a solicitar del centro 
-de origen información sobre el curso al que debe acceder el alumnado, la modalidad de 
-enseñanzas en las que ha estado matriculado, el código de identificación de este (CIAL) y 
-las condiciones en las que se encuentre matriculado. El centro de origen informará, inmediatamente, de tales extremos al de destino, salvo que tenga conocimiento de la existencia 
-de alguna causa legal que impida el cambio de centro.
-Realizado lo anterior, ambos centros procederán, conforme proceda, a dar de baja y de 
-alta al alumno o la alumna en el aplicativo informático PINCEL o en el que se determine al 
-efecto para este proceso, sin perjuicio de que el centro de origen traslade al centro de destino 
-el historial académico y el informe personal por traslado o, en su caso, la certificación académica personal, actualizados con la última información disponible. Estas acciones, así como 
-la posible sustitución por su equivalente soporte informático, se llevarán a cabo de acuerdo 
-con las instrucciones que se dicten al efecto. En todo caso, el alumnado permanecerá escolarizado en el centro de origen hasta que haya sido dado de alta por el centro de destino en 
-dicho aplicativo informático.
-La matrícula adquirirá carácter definitivo una vez recibido el historial académico debidamente cumplimentado.
-4. El alumnado que cambie de centro con motivo de un expediente disciplinario, según 
-lo establecido en el Decreto 114/2011, de 11 de mayo, deberá permanecer escolarizado en el 
-centro de origen hasta que la Dirección Territorial de Educación determine el centro de destino, 
-salvo acuerdo expreso entre los dos centros, previa comunicación a la Inspección Educativa.
+b) Incorporación del padre, la madre, el tutor legal o, en su caso, del alumno o la alumna a un puesto de trabajo en otro lugar distinto al de su residencia que ocasione problemas de desplazamiento. En caso de que la documentación de cambio de centro se rellene por uno solo de los progenitores del menor, se presumirá que dicha persona tiene capacidad legal para gestionar todo lo necesario en el procedimiento de cambio de centro y matrícula. No obstante, en supuestos de separación o divorcio de los progenitores, el centro de origen comunicará la petición de cambio de centro al progenitor que no tiene la guarda y custodia, siempre que mantenga la patria potestad compartida sobre el menor y que con anterioridad haya manifestado su deseo de ser informado por el centro de la situación escolar de su hijo o hija, conforme a lo previsto en el artículo 51 de la presente Orden.
 
-En los supuestos de escolarización extraordinaria, debido a acoso escolar o por ser víctima de violencia de género, se actuará según lo dispuesto en la disposición adicional tercera 
-de la Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión 
-del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
- Artículo 49.- Bajas de matrícula y nuevas incorporaciones durante el curso escolar.
-1. Excepcionalmente, el alumnado menor, con 16 o más años de edad, que esté matriculado en la enseñanza básica puede causar baja voluntaria, siempre que esta sea formalizada 
-por su padre, madre o representante legal una vez hayan sido informados por el tutor o la 
-tutora del grupo de la situación académica del alumno o la alumna y de las consecuencias 
-de la baja.
-Todo el alumnado que finalice los estudios correspondientes a la educación básica sin 
-obtener el título de Graduado o Graduada en Educación Secundaria Obligatoria recibirá 
-un certificado oficial de estudios obligatorios por parte del centro educativo en el que haya 
-estado matriculado el último curso escolar, según el modelo establecido. 
-2. En las etapas obligatorias, los centros gestionarán la baja de oficio de matrícula del 
-alumnado absentista, siempre que quede constancia tanto de que se han aplicado sus protocolos de actuación en materia de absentismo escolar, incluyendo la comunicación a los 
-servicios municipales y a la Inspección Educativa, como del intento, sin efecto, de la comunicación previa a las familias.
-3. Si una vez iniciadas las actividades lectivas en las enseñanzas no obligatorias se observase la no incorporación de determinado alumnado, o su inasistencia continuada durante 
-diez días lectivos o de forma discontinua por un periodo de veinticinco días lectivos, el equipo directivo se dirigirá a los interesados a fin de conocer las razones de dicho absentismo y 
-procederá a realizar una baja de oficio y a admitir, a su vez, en matrícula a aquel alumnado 
-que estuviera en lista de reserva, hasta completar el cupo asignado al grupo. Con carácter 
-general, este procedimiento se desarrollará durante el primer trimestre del curso. 
-Transcurrido el citado plazo, durante el resto del curso académico, solo podrá realizarse 
-baja de oficio de la matrícula cuando el alumnado no asista injustificadamente a clase de 
-forma continuada por un período superior a veinticinco días lectivos o de forma discontinua 
-por un período superior a treinta y cinco días lectivos. A tales efectos, deberá quedar constancia fehaciente de la comunicación al alumnado de tal circunstancia administrativa en la 
-secretaría del centro.
-De todo ello, se advertirá en el momento de la matrícula del alumnado para que se dé por 
-enterado del proceso que se seguirá si, de manera injustificada, no se incorpora a las clases 
-o si inasiste a las mismas.
-4. Por otra parte, podrá incorporarse nuevo alumnado que no esté escolarizado o que no 
-haya obtenido plaza en el periodo de preinscripción para ese curso, en cualquiera de los niveles o etapas de las enseñanzas postobligatorias que oferte un centro, siempre que queden 
+2. Atendiendo a otras circunstancias objetivas, debidamente justificadas, y que revistan carácter excepcional, la Dirección Territorial de Educación correspondiente podrá conceder el cambio de centro escolar.
 
-plazas suficientes y con la fecha límite del día anterior al comienzo del periodo de preinscripción para solicitud de plaza del curso siguiente. 
+3. Presentada la solicitud de cambio en el centro de destino, este procederá, a la mayor brevedad posible y una vez confirmado que dispone de plaza vacante, a solicitar del centro de origen información sobre el curso al que debe acceder el alumnado, la modalidad de enseñanzas en las que ha estado matriculado, el código de identificación de este (CIAL) y las condiciones en las que se encuentre matriculado. El centro de origen informará, inmediatamente, de tales extremos al de destino, salvo que tenga conocimiento de la existencia de alguna causa legal que impida el cambio de centro. Realizado lo anterior, ambos centros procederán, conforme proceda, a dar de baja y de alta al alumno o la alumna en el aplicativo informático PINCEL o en el que se determine al efecto para este proceso, sin perjuicio de que el centro de origen traslade al centro de destino el historial académico y el informe personal por traslado o, en su caso, la certificación académica personal, actualizados con la última información disponible. Estas acciones, así como la posible sustitución por su equivalente soporte informático, se llevarán a cabo de acuerdo con las instrucciones que se dicten al efecto. En todo caso, el alumnado permanecerá escolarizado en el centro de origen hasta que haya sido dado de alta por el centro de destino en dicho aplicativo informático. La matrícula adquirirá carácter definitivo una vez recibido el historial académico debidamente cumplimentado.
 
-#### Artículo 50.- Escolarización del alumnado procedente de sistemas educativos 
+4. El alumnado que cambie de centro con motivo de un expediente disciplinario, según lo establecido en el Decreto 114/2011, de 11 de mayo, deberá permanecer escolarizado en el centro de origen hasta que la Dirección Territorial de Educación determine el centro de destino, salvo acuerdo expreso entre los dos centros, previa comunicación a la Inspección Educativa.
 
-­extranjeros.
-1. Las personas extranjeras menores de 16 años tienen el derecho a la educación, que 
-incluye el acceso a la enseñanza básica, gratuita y obligatoria. Todo menor procedente de un 
-sistema educativo extranjero que tenga edad para ser escolarizado en Educación Primaria 
-o Educación Secundaria Obligatoria se incorporará a cualquiera de los cursos que integran 
-estas etapas educativas, atendiendo a sus circunstancias, conocimientos, edad e historial 
-académico, de modo que pueda acceder al curso más adecuado a sus conocimientos previos. 
-Quienes presenten un desfase en su nivel de competencia curricular de dos o más años podrán ser escolarizados en el curso inferior al que les correspondería por edad, siempre que 
-dicha escolarización les permita completar la etapa en los límites de edad establecidos con 
-carácter general. Para este alumnado se adoptarán las medidas de refuerzo necesarias que 
-faciliten su integración escolar y la recuperación de su desfase, y que le permitan continuar 
-con aprovechamiento sus estudios. De cualquier forma, los centros educativos arbitrarán los 
-mecanismos más adecuados para su valoración.
-2. Las personas extranjeras menores de edad tienen derecho a acceder a la enseñanza 
-­postobligatoria y, en consecuencia, a obtener la titulación académica correspondiente. En 
-caso de alcanzar la edad de 18 años en el transcurso del curso escolar, conservarán ese derecho hasta su finalización.
-3. Las personas extranjeras mayores de 18 años que se hallen en España tienen derecho 
-a la educación, de acuerdo con lo establecido en la legislación educativa. En todo caso, los 
-extranjeros residentes mayores de 18 años tienen el derecho a acceder a las demás etapas 
-educativas postobligatorias, a la obtención de las titulaciones correspondientes y al sistema 
-público de becas en las mismas condiciones que los españoles. 
-4. Para la atención al alumnado extranjero que pueda presentar necesidades educativas 
-especiales, se actuará según lo establecido en la normativa vigente.
+En los supuestos de escolarización extraordinaria, debido a acoso escolar o por ser víctima de violencia de género, se actuará según lo dispuesto en la disposición adicional tercera de la Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (BOC nº 70, de 9 de abril).
 
-#### Artículo 51.- Información en caso de padres y madres separados o divorciados.
+#### Artículo 49. Bajas de matrícula y nuevas incorporaciones durante el curso escolar.
 
-1. Con carácter general, los centros escolares tienen la obligación de informar indistintamente a los padres, las madres o los tutores legales del proceso y resultado del aprendizaje, 
-así como de la integración socioeducativa de sus hijos e hijas. En los supuestos de separación judicial, divorcio o nulidad, se seguirán las siguientes instrucciones:
-a) El padre o la madre que no tenga la guarda y custodia legal de sus hijos o hijas y desee 
-recibir dicha información deberá solicitarla al centro educativo mediante escrito, dirigido a 
-la dirección, que acompañará de una copia fehaciente de la resolución judicial (auto o sentencia) de separación, divorcio o nulidad en lo que concierne únicamente a los elementos 
-conclusivos de la misma.
+1. Excepcionalmente, el alumnado menor, con 16 o más años de edad, que esté matriculado en la enseñanza básica puede causar baja voluntaria, siempre que esta sea formalizada por su padre, madre o representante legal una vez hayan sido informados por el tutor o la tutora del grupo de la situación académica del alumno o la alumna y de las consecuencias de la baja. Todo el alumnado que finalice los estudios correspondientes a la educación básica sin obtener el título de Graduado o Graduada en Educación Secundaria Obligatoria recibirá un certificado oficial de estudios obligatorios por parte del centro educativo en el que haya estado matriculado el último curso escolar, según el modelo establecido.
 
-b) Si la resolución judicial contuviera una declaración expresa sobre aspectos que incidan 
-en el proceso escolar, los centros se atendrán estrictamente a lo que en ella se disponga.
-c) Si la resolución judicial no contuviera ninguna limitación, el centro deberá remitir 
-información sobre el rendimiento escolar de su hijo o hija al progenitor que no tiene encomendada su guarda y custodia, siempre que no haya sido privado de la patria potestad, en 
-cuyo caso, no se le entregará información, salvo por orden judicial.
-d) En el supuesto de que el centro reciba la citada solicitud de información, comunicará 
-al padre o a la madre que tenga la guarda y custodia del menor la pretensión del solicitante 
-y le concederá un plazo de cinco días lectivos para que pueda aportar, si la hubiera, la resolución judicial posterior a la citada que limite o impida la comunicación de información 
-escolar o establezca limitaciones la patria potestad. Transcurrido dicho plazo sin que se haya 
-aportado nueva resolución judicial, el centro procederá a hacer llegar simultáneamente al 
-progenitor solicitante copia de cuantas informaciones documentales entregue a la persona 
-que tiene la custodia del alumno o la alumna. Asimismo, el profesorado tutor y los otros 
-docentes podrán facilitarle la información verbal que estimen oportuna. 
-e) La situación así definida se prolongará de forma automática, salvo que alguno de los 
-progenitores aporte nuevos elementos en relación con modificaciones en cuanto a la patria 
-potestad o guarda y custodia del menor o la menor. Si el documento informativo prevé la 
-devolución con un «recibido» del progenitor al que va destinado, este tendrá la obligación de 
-cumplimentarlo y garantizar su devolución al centro. En caso de reiterado incumplimiento 
-de esta formalidad, el centro no estará obligado a continuar la remisión de dichos documentos informativos. 
-2. Cuando la custodia sea compartida la comunicación a ambos progenitores se efectuará 
-sin ningún trámite, salvo indicación expresa posterior de que se ha producido un cambio en 
-esta situación legal.
+2. En las etapas obligatorias, los centros gestionarán la baja de oficio de matrícula del alumnado absentista, siempre que quede constancia tanto de que se han aplicado sus protocolos de actuación en materia de absentismo escolar, incluyendo la comunicación a los servicios municipales y a la Inspección Educativa, como del intento, sin efecto, de la comunicación previa a las familias.
 
-#### Sección 2ª 
+3. Si una vez iniciadas las actividades lectivas en las enseñanzas no obligatorias se observase la no incorporación de determinado alumnado, o su inasistencia continuada durante diez días lectivos o de forma discontinua por un periodo de veinticinco días lectivos, el equipo directivo se dirigirá a los interesados a fin de conocer las razones de dicho absentismo y procederá a realizar una baja de oficio y a admitir, a su vez, en matrícula a aquel alumnado que estuviera en lista de reserva, hasta completar el cupo asignado al grupo. Con carácter general, este procedimiento se desarrollará durante el primer trimestre del curso. Transcurrido el citado plazo, durante el resto del curso académico, solo podrá realizarse baja de oficio de la matrícula cuando el alumnado no asista injustificadamente a clase de forma continuada por un período superior a veinticinco días lectivos o de forma discontinua por un período superior a treinta y cinco días lectivos. A tales efectos, deberá quedar constancia fehaciente de la comunicación al alumnado de tal circunstancia administrativa en la secretaría del centro. De todo ello, se advertirá en el momento de la matrícula del alumnado para que se dé por enterado del proceso que se seguirá si, de manera injustificada, no se incorpora a las clases o si inasiste a las mismas.
 
-Del profesorado y personal de administración y servicios
+4. Por otra parte, podrá incorporarse nuevo alumnado que no esté escolarizado o que no haya obtenido plaza en el periodo de preinscripción para ese curso, en cualquiera de los niveles o etapas de las enseñanzas postobligatorias que oferte un centro, siempre que queden
 
-#### Artículo 52.- Procedimiento general de control de asistencia y puntualidad del ­profesorado.
+plazas suficientes y con la fecha límite del día anterior al comienzo del periodo de preinscripción para solicitud de plaza del curso siguiente.
 
-1. La puntualidad y la asistencia del profesorado a las actividades lectivas y actividades 
-complementarias serán controladas por la jefatura de estudios mediante el procedimiento 
-que la dirección del centro estime más adecuado, dejando siempre constancia documental 
-de la presencia diaria del profesorado. El registro de las incidencias se hará de tal forma que 
-permita su archivo, sin que sea posible modificar lo que en él se consigne.
-2. Las ausencias y las faltas de puntualidad se pondrán con antelación en conocimiento a 
-la dirección del centro. En los casos en los que la necesidad de disfrutar algún permiso o el 
-cumplimiento de un deber inexcusable surjan de forma inesperada y no puedan comunicarse previamente, la persona afectada lo pondrá en conocimiento de la dirección a la mayor 
-brevedad posible. 
+#### Artículo 50. Escolarización del alumnado procedente de sistemas educativos extranjeros.
 
-Cualquier ausencia del profesorado deberá ser justificada siempre por escrito e indicando 
-la causa que la motiva. La dirección reclamará al interesado la entrega de la documentación 
-en los plazos establecidos, estimando suficiente o no la justificación de los motivos alegados. La ausencia injustificada podrá constituir falta disciplinaria, sin perjuicio de la deducción proporcional de retribuciones. 
-3. La totalidad de las incidencias recogidas en los partes diarios de asistencia se resumirá 
-en el parte mensual. Este parte de ausencias será enviado por los centros al órgano competente, en la forma y plazos establecidos en las correspondientes instrucciones.
-4. Otras ausencias motivadas por modificaciones en la situación administrativa del profesorado, tales como liberaciones sindicales, comisiones de servicio o excedencias, se regirán 
-por su normativa específica en lo referente a su solicitud, tramitación y reconocimiento.
+1. Las personas extranjeras menores de 16 años tienen el derecho a la educación, que incluye el acceso a la enseñanza básica, gratuita y obligatoria. Todo menor procedente de un sistema educativo extranjero que tenga edad para ser escolarizado en Educación Primaria o Educación Secundaria Obligatoria se incorporará a cualquiera de los cursos que integran estas etapas educativas, atendiendo a sus circunstancias, conocimientos, edad e historial académico, de modo que pueda acceder al curso más adecuado a sus conocimientos previos. Quienes presenten un desfase en su nivel de competencia curricular de dos o más años podrán ser escolarizados en el curso inferior al que les correspondería por edad, siempre que dicha escolarización les permita completar la etapa en los límites de edad establecidos con carácter general. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase, y que le permitan continuar con aprovechamiento sus estudios. De cualquier forma, los centros educativos arbitrarán los mecanismos más adecuados para su valoración.
 
-#### Artículo 53.- Ausencias por enfermedad o accidente laboral del profesorado.
+2. Las personas extranjeras menores de edad tienen derecho a acceder a la enseñanza postobligatoria y, en consecuencia, a obtener la titulación académica correspondiente. En caso de alcanzar la edad de 18 años en el transcurso del curso escolar, conservarán ese derecho hasta su finalización.
 
-1. Las situaciones de incapacidad temporal se han de justificar en todos los casos con la 
-baja facultativa autorizada. El parte de baja o de confirmación, en su caso, así como el de 
-alta, deberán presentarse y tramitarse en el centro docente de destino según se especifique 
-en las correspondientes instrucciones.
-De presentarse la baja fuera del centro, el profesorado estará obligado a acreditar en su 
-centro de destino este hecho.
-2. Cuando la ausencia se produzca como consecuencia de enfermedad o indisposición y 
-no dé lugar a un parte de incapacidad temporal, la acreditación documental se realizará mediante la presentación de un comprobante de asistencia a la consulta médica para justificar 
-la ausencia o retraso habidos.
+3. Las personas extranjeras mayores de 18 años que se hallen en España tienen derecho a la educación, de acuerdo con lo establecido en la legislación educativa. En todo caso, los extranjeros residentes mayores de 18 años tienen el derecho a acceder a las demás etapas educativas postobligatorias, a la obtención de las titulaciones correspondientes y al sistema público de becas en las mismas condiciones que los españoles.
 
-#### Artículo 54.- Incorporaciones y ceses del profesorado.
+4. Para la atención al alumnado extranjero que pueda presentar necesidades educativas especiales, se actuará según lo establecido en la normativa vigente.
 
-1. Los certificados de incorporación deberán emitirse para todo el personal docente que 
-se incorpore a un centro por obtención de un destino o un nombramiento. De igual modo, se 
-procederá en relación con los certificados de cese, debiendo en ambos casos comunicarse al 
-órgano competente. En las correspondientes instrucciones se establecerá el procedimiento 
-para su tramitación.
+#### Artículo 51. Información en caso de padres y madres separados o divorciados.
 
-#### Artículo 55.- Personal de administración y servicios.
+1. Con carácter general, los centros escolares tienen la obligación de informar indistintamente a los padres, las madres o los tutores legales del proceso y resultado del aprendizaje, así como de la integración socioeducativa de sus hijos e hijas. En los supuestos de separación judicial, divorcio o nulidad, se seguirán las siguientes instrucciones:
+a) El padre o la madre que no tenga la guarda y custodia legal de sus hijos o hijas y desee recibir dicha información deberá solicitarla al centro educativo mediante escrito, dirigido a la dirección, que acompañará de una copia fehaciente de la resolución judicial (auto o sentencia) de separación, divorcio o nulidad en lo que concierne únicamente a los elementos conclusivos de la misma.
 
-El secretario o secretaria del centro, dentro de sus competencias, organizará las tareas y la 
-jornada laboral del personal de administración y servicios en función de las necesidades organizativas del centro; velará por su cumplimiento y pondrá en conocimiento inmediato del 
-director o directora cualquier incidencia que altere el normal funcionamiento del centro. La 
-Secretaría General Técnica dictará las instrucciones de servicio necesarias en esta materia y, 
-en particular, sobre incorporaciones y ceses, régimen de permisos y vacaciones, control de 
-horario y absentismo del personal.
+b) Si la resolución judicial contuviera una declaración expresa sobre aspectos que incidan en el proceso escolar, los centros se atendrán estrictamente a lo que en ella se disponga.
+c) Si la resolución judicial no contuviera ninguna limitación, el centro deberá remitir información sobre el rendimiento escolar de su hijo o hija al progenitor que no tiene encomendada su guarda y custodia, siempre que no haya sido privado de la patria potestad, en cuyo caso, no se le entregará información, salvo por orden judicial.
+d) En el supuesto de que el centro reciba la citada solicitud de información, comunicará al padre o a la madre que tenga la guarda y custodia del menor la pretensión del solicitante y le concederá un plazo de cinco días lectivos para que pueda aportar, si la hubiera, la resolución judicial posterior a la citada que limite o impida la comunicación de información escolar o establezca limitaciones la patria potestad. Transcurrido dicho plazo sin que se haya aportado nueva resolución judicial, el centro procederá a hacer llegar simultáneamente al progenitor solicitante copia de cuantas informaciones documentales entregue a la persona que tiene la custodia del alumno o la alumna. Asimismo, el profesorado tutor y los otros docentes podrán facilitarle la información verbal que estimen oportuna.
+e) La situación así definida se prolongará de forma automática, salvo que alguno de los progenitores aporte nuevos elementos en relación con modificaciones en cuanto a la patria potestad o guarda y custodia del menor o la menor. Si el documento informativo prevé la devolución con un «recibido» del progenitor al que va destinado, este tendrá la obligación de cumplimentarlo y garantizar su devolución al centro. En caso de reiterado incumplimiento de esta formalidad, el centro no estará obligado a continuar la remisión de dichos documentos informativos.
 
-#### Sección 3ª 
+2. Cuando la custodia sea compartida la comunicación a ambos progenitores se efectuará sin ningún trámite, salvo indicación expresa posterior de que se ha producido un cambio en esta situación legal.
 
-Otros aspectos organizativos comunes
+### Sección 2.ª. Del profesorado y personal de administración y servicios.
 
-#### Artículo 56.- Protección de datos de carácter personal.
+#### Artículo 52. Procedimiento general de control de asistencia y puntualidad del profesorado.
 
-1. De manera general, los centros docentes podrán recabar los datos personales de su 
-alumnado que sean necesarios para el ejercicio de su función educativa. En el tratamiento 
-de estos datos, se aplicarán las normas técnicas y organizativas que garanticen su seguridad 
-y confidencialidad. El profesorado y el resto del personal que, en el ejercicio de sus funciones, acceda a datos personales y familiares o que afecten al honor y a la intimidad de los 
-menores o sus familias quedarán sujetos al deber de sigilo. Asimismo, la cesión de los datos 
-necesarios para el sistema educativo, estará sujeta a la legislación en materia de protección 
-de datos de carácter personal. 
-2. Los centros escolares que están creando recientemente y de forma asidua webs, blogs 
-y plataformas de teleformación dirigidas al alumnado o a sus familias, y que emplean estas 
-herramientas de trabajo para comunicar o publicar información de la comunidad educativa, 
-tendrán en cuenta que toda divulgación de información personal deberá cumplir con los 
-principios fundamentales de la protección de datos, en concreto, con el referido a la proporcionalidad y minimización de estos.
-3. Debe prestarse especial atención a la publicación por parte de los centros educativos de 
-imágenes del profesorado, de sus alumnos y alumnas, y de toda la comunidad educativa en Internet. Siempre tiene que hacerse una evaluación del tipo de imagen, de la pertinencia de su publicación y del objetivo perseguido. En todo caso, la publicación de imágenes en los sitios web 
-del centro requerirá el consentimiento previo e inequívoco de la persona interesada. En el caso 
-de los menores de 14 años, será necesario el consentimiento de las familias o los tutores legales. 
-4. Las contraseñas de acceso por parte de la comunidad educativa a los sistemas de información garantizan tanto su privacidad como los derechos vinculados a su perfil de usuario. 
-Este se compromete a conservarlas y a usarlas con la diligencia debida. El uso de la contraseña 
-es personal e intransferible y no está permitida la cesión, ni siquiera temporal, a terceros. En el 
-supuesto de que se conozca o sospeche que esta contraseña es utilizada por terceras personas, 
-deberá ponerse tal circunstancia en conocimiento del administrador o la administradora de la 
-web, blog, red social o comunidad de formación en línea a la mayor brevedad. 
-5. El ejercicio de los derechos de acceso, rectificación, cancelación y oposición se realizarán de acuerdo con la Orden de 24 de febrero de 2006, por la que se aprueban los modelos 
-de solicitud para ejercer los derechos de acceso, oposición, rectificación y cancelación de 
-los datos de carácter personal contenidos en ficheros de la titularidad de la Administración 
-Pública de la Comunidad Autónoma de Canarias (BOC nº 44, de 3 de marzo).
+1. La puntualidad y la asistencia del profesorado a las actividades lectivas y actividades complementarias serán controladas por la jefatura de estudios mediante el procedimiento que la dirección del centro estime más adecuado, dejando siempre constancia documental de la presencia diaria del profesorado. El registro de las incidencias se hará de tal forma que permita su archivo, sin que sea posible modificar lo que en él se consigne.
 
-#### Artículo 57.- Propiedad intelectual.
+2. Las ausencias y las faltas de puntualidad se pondrán con antelación en conocimiento a la dirección del centro. En los casos en los que la necesidad de disfrutar algún permiso o el cumplimiento de un deber inexcusable surjan de forma inesperada y no puedan comunicarse previamente, la persona afectada lo pondrá en conocimiento de la dirección a la mayor brevedad posible.
 
-1. Toda la comunidad educativa debe conocer que la propiedad intelectual de una obra 
-literaria, artística o científica corresponde al autor o a la autora por el solo hecho de su crea-
+Cualquier ausencia del profesorado deberá ser justificada siempre por escrito e indicando la causa que la motiva. La dirección reclamará al interesado la entrega de la documentación en los plazos establecidos, estimando suficiente o no la justificación de los motivos alegados. La ausencia injustificada podrá constituir falta disciplinaria, sin perjuicio de la deducción proporcional de retribuciones.
 
-ción y que esta condición conlleva el reconocimiento de unos derechos que hay que respetar, 
-de acuerdo con lo establecido en la vigente legislación sobre propiedad intelectual. 
-2. Se tendrá en cuenta lo siguiente antes de utilizar información de otras fuentes 
-(textos, imágenes, sonidos, música, vídeos, etc.) para publicarla en Internet o en cualquier otra publicación: 
-- La información que se publique debe ser original o se ha de tener autorización de sus 
-autores o entidades de gestión de los derechos de autor que tengan los derechos legales sobre 
-las mismas para su publicación. 
-- Si no se es autor o autora de la información a publicar, sino que se ha copiado de una 
-o varias fuentes de obras literarias, artísticas, científicas ..., ha de tenerse presente que están 
-sujetas a derechos de autor, aunque no se especifique expresamente. 
-- Si no se tiene autorización de los autores o representantes legales, no se copiará información de obras que lo indiquen, por ejemplo, con expresiones como: «Todos los derechos 
-reservados», «Copyright», «Este contenido puede estar sujeto a derechos de autor», «Esta 
-imagen puede tener copyright», etc.
-A estos efectos, el profesorado no necesita la autorización del autor o la autora para reproducir pequeños fragmentos de obras o de obras aisladas de carácter plástico o fotográfico, 
-siempre que se utilicen para la ilustración de las actividades educativas y se haga referencia 
-a la autoría y a la fuente de donde se ha extraído. Esta exención no se aplicará a los libros 
-de texto.
-Únicamente para uso educativo es aplicable el artículo 32 sobre cita e ilustración de la 
-enseñanza del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto 
-refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las 
-disposiciones legales vigentes sobre la materia.
+3. La totalidad de las incidencias recogidas en los partes diarios de asistencia se resumirá en el parte mensual. Este parte de ausencias será enviado por los centros al órgano competente, en la forma y plazos establecidos en las correspondientes instrucciones.
 
-#### Artículo 58.- Uso de libros de texto y otros materiales curriculares.
+4. Otras ausencias motivadas por modificaciones en la situación administrativa del profesorado, tales como liberaciones sindicales, comisiones de servicio o excedencias, se regirán por su normativa específica en lo referente a su solicitud, tramitación y reconocimiento.
 
-1. Durante el mes de junio todos los centros escolares deberán exponer en el tablón de 
-anuncios la relación de libros de texto y otros materiales curriculares seleccionados, según 
-la normativa vigente y los criterios establecidos en la programación general anual, especificando el título, la autoría, el curso, la empresa editorial y el soporte requerido. Asimismo, 
-las asociaciones de madres y padres deberán recibir esta información en la misma fecha.
-2. Los libros de texto permanecerán vigentes, al menos, durante cinco cursos académicos. No obstante, los equipos docentes de ciclo o los departamentos de coordinación 
-didáctica podrán proponer su sustitución antes de finalizar el periodo de vigencia. A estos 
-efectos, presentarán a la dirección del centro un informe justificativo que, en caso de valorar 
-favorablemente, trasladará al Consejo Escolar para su aprobación. Esta modificación se comunicará a la Inspección Educativa para su conocimiento.
+#### Artículo 53. Ausencias por enfermedad o accidente laboral del profesorado.
 
-#### Artículo 59.- Conservación de los instrumentos de evaluación.
+1. Las situaciones de incapacidad temporal se han de justificar en todos los casos con la baja facultativa autorizada. El parte de baja o de confirmación, en su caso, así como el de alta, deberán presentarse y tramitarse en el centro docente de destino según se especifique en las correspondientes instrucciones. De presentarse la baja fuera del centro, el profesorado estará obligado a acreditar en su centro de destino este hecho.
 
-1. Los instrumentos de evaluación, en tanto que las informaciones que contienen justifican los acuerdos y las decisiones adoptados respecto a un alumno o una alumna, se conservarán, al menos, hasta seis meses después de adoptadas las decisiones y formuladas las 
-correspondientes calificaciones finales del respectivo ciclo o curso. Los centros establecerán 
-los procedimientos oportunos para asegurar esta conservación.
-En el caso de que se haya presentado reclamación ante la Dirección Territorial de Educación, se guardará, en su totalidad, la documentación generada para el caso, hasta que se 
-resuelva la reclamación o se hayan agotado las vías establecidas normativamente. 
-2. A los efectos de lo establecido en el apartado anterior, se entiende por instrumentos 
-de evaluación todos aquellos documentos escritos o registros materiales, incluyéndose los 
-que están en formato digital, utilizados por el profesorado para la observación sistemática y 
-el seguimiento del proceso de aprendizaje del alumno o la alumna, según lo previsto en la 
-programación didáctica correspondiente.
+2. Cuando la ausencia se produzca como consecuencia de enfermedad o indisposición y no dé lugar a un parte de incapacidad temporal, la acreditación documental se realizará mediante la presentación de un comprobante de asistencia a la consulta médica para justificar la ausencia o retraso habidos.
 
-#### Artículo 60.- Utilización de aplicaciones informáticas.
+#### Artículo 54. Incorporaciones y ceses del profesorado.
 
-1. Los centros públicos docentes no universitarios utilizarán el aplicativo informático PINCEL, 
-que deberá estar situado en los servidores gestionados por el Centro de Atención al Usuario de la 
-Consejería de Educación, Universidades y Sostenibilidad del Gobierno de Canarias (CAU-CE) o 
-en el que determine la Administración educativa, y estar operativo de forma permanente y con los 
-datos actualizados. Para aquellas otras gestiones no cubiertas por el aplicativo PINCEL, se utilizarán las restantes aplicaciones informáticas corporativas puestas a disposición para el intercambio 
-de información con los distintos Centros Directivos y servicios de la Consejería.
-2. Los centros estarán obligados a remitir o a poner a disposición de la Administración 
-educativa los datos que demande la Viceconsejería de Educación y Universidades a través 
-de las solicitudes de los distintos centros directivos.
-3. Los centros educativos tendrán permanentemente actualizados sus datos en los ficheros que se almacenan en los servidores de la Consejería de Educación, Universidades y 
-Sostenibilidad.
-4. Con objeto de evitar la introducción o la difusión de virus informáticos u otro software 
-dañino y la realización de cualquier actividad que dañe, inutilice, sobrecargue, deteriore o impida 
-la normal utilización de los materiales e informaciones contenidos en los sitios webs o en aplicaciones alojadas en los servidores de la Consejería de Educación, Universidades y Sostenibilidad, 
-los sistemas informáticos podrán registrar y auditar toda la actividad realizada por las personas 
-usuarias. Estas aceptan dicho registro desde el primer momento en que ingresa en el sistema.
+1. Los certificados de incorporación deberán emitirse para todo el personal docente que se incorpore a un centro por obtención de un destino o un nombramiento. De igual modo, se procederá en relación con los certificados de cese, debiendo en ambos casos comunicarse al órgano competente. En las correspondientes instrucciones se establecerá el procedimiento para su tramitación.
 
-#### Artículo 61.- Prohibición de contenidos.
+#### Artículo 55. Personal de administración y servicios.
 
-A los usuarios o las usuarias con permisos de administradores de las webs, blogs o plataformas de teleformación alojados en los servidores de la Consejería de Educación, Universi-
+El secretario o secretaria del centro, dentro de sus competencias, organizará las tareas y la jornada laboral del personal de administración y servicios en función de las necesidades organizativas del centro; velará por su cumplimiento y pondrá en conocimiento inmediato del director o directora cualquier incidencia que altere el normal funcionamiento del centro. La Secretaría General Técnica dictará las instrucciones de servicio necesarias en esta materia y, en particular, sobre incorporaciones y ceses, régimen de permisos y vacaciones, control de horario y absentismo del personal.
 
-dades y Sostenibilidad les está prohibida la transmisión, la difusión o la puesta a disposición 
-de terceros a través del servicio, de informaciones, mensajes, gráficos, archivos de sonido 
-o imagen, fotografías, grabaciones, software y, en general, de cualquier clase de material, 
-datos o contenidos que: 
-- Puedan infringir o vulnerar los derechos legalmente protegidos, como el derecho de 
-propiedad intelectual o industrial, el derecho al honor, a la intimidad personal y familiar, y 
-el derecho a la propia imagen.
-- Acosen, de cualquier forma, amenacen o abusen de otros usuarios o usuarias, o de cualesquiera terceros ajenos al mismo. 
-- Sean difamatorios, obscenos o censurables, o puedan herir la sensibilidad de cualesquiera terceros que pretendan acceder a los mismos. 
-- Se publiquen con la intención de hacerse pasar por otros usuarios u otras usuarias 
-a través de la utilización de identificación similar o a través de cualquier otro método o 
-­dispositivo. 
-- Se utilicen para fines comerciales, publicitarios o ilícitos; así como para la transmisión 
-de correo basura, cadenas o distribución masiva de mensajes no solicitados.
+### Sección 3.ª. Otros aspectos organizativos comunes.
 
-#### Artículo 62.- Salud y seguridad en los centros, y uso de las instalaciones.
+#### Artículo 56. Protección de datos de carácter personal.
 
-1. Quedan prohibidas cuantas actividades perjudiquen la salud pública y, en particular, 
-la publicidad, la expedición y el consumo de tabaco y bebidas alcohólicas, así como la 
-colocación de máquinas expendedoras de alimentos que no ofrezcan productos saludables. 
-Asimismo, la práctica de actividades físico-deportivas en los centros educativos se realizará 
-de acuerdo con las condiciones de seguridad establecidas en la normativa vigente.
-2. La utilización de las instalaciones de los centros por parte de las personas que integran la comunidad educativa se hará de conformidad con lo que establezcan las normas de 
-organización y funcionamiento del centro. En el caso de que los solicitantes sean personas 
-jurídicas o entidades públicas o privadas, ajenas a la comunidad educativa, o cuando los 
-destinatarios de las actividades no sean exclusivamente parte de esta, se requerirá la autorización de la Dirección Territorial de Educación correspondiente, previo informe del Consejo 
-Escolar, salvo que su uso se haya prefijado en un convenio.
-3. La Dirección General de Centros e Infraestructura Educativa, y las Direcciones Territoriales de Educación, en sus respectivos ámbitos, fijarán las instrucciones necesarias para 
-la aplicación de lo establecido en el presente artículo. 
+1. De manera general, los centros docentes podrán recabar los datos personales de su alumnado que sean necesarios para el ejercicio de su función educativa. En el tratamiento de estos datos, se aplicarán las normas técnicas y organizativas que garanticen su seguridad y confidencialidad. El profesorado y el resto del personal que, en el ejercicio de sus funciones, acceda a datos personales y familiares o que afecten al honor y a la intimidad de los menores o sus familias quedarán sujetos al deber de sigilo. Asimismo, la cesión de los datos necesarios para el sistema educativo, estará sujeta a la legislación en materia de protección de datos de carácter personal.
 
-#### Artículo 63.- Plan de autoprotección del centro.
+2. Los centros escolares que están creando recientemente y de forma asidua webs, blogs y plataformas de teleformación dirigidas al alumnado o a sus familias, y que emplean estas herramientas de trabajo para comunicar o publicar información de la comunidad educativa, tendrán en cuenta que toda divulgación de información personal deberá cumplir con los principios fundamentales de la protección de datos, en concreto, con el referido a la proporcionalidad y minimización de estos.
 
-1. El proyecto de gestión del centro incluirá un plan de autoprotección, cuya implantación es responsabilidad del equipo directivo. En él se detallarán los mecanismos y los me-
+3. Debe prestarse especial atención a la publicación por parte de los centros educativos de imágenes del profesorado, de sus alumnos y alumnas, y de toda la comunidad educativa en Internet. Siempre tiene que hacerse una evaluación del tipo de imagen, de la pertinencia de su publicación y del objetivo perseguido. En todo caso, la publicación de imágenes en los sitios web del centro requerirá el consentimiento previo e inequívoco de la persona interesada. En el caso de los menores de 14 años, será necesario el consentimiento de las familias o los tutores legales.
 
-dios disponibles para hacer frente ante cualquier incidencia que afecte a la seguridad de las 
-instalaciones del recinto escolar o de las personas que lo utilicen.
-2. Para su posible divulgación entre las fuerzas y los cuerpos de protección civil, así 
-como para su registro y control administrativo, el plan de autoprotección del centro se deberá alojar en la aplicación informática «Generación de los planes de emergencia de los 
-centros» o en la que se determine al efecto para este proceso, dentro de su apartado «Planes 
-de autoprotección».
-3. El plan de autoprotección contendrá el plan de emergencia, así como los distintos 
-procedimientos de control de acceso de personas ajenas al centro educativo, de salidas justificadas del alumnado durante el periodo lectivo y de actuación ante un accidente o incidente 
-escolar.
-4. El plan de emergencia deberá recoger los pasos a seguir desde que se produce una 
-situación de emergencia hasta que las personas que se encuentren en un centro escolar estén 
-protegidas. Todas las personas que forman la comunidad educativa deben conocer el contenido de este plan y los mecanismos de su puesta en marcha. Dicho plan debe contemplar 
-la realización de simulacros, al menos uno en cada curso escolar con resultado positivo, 
-para garantizar que existe un procedimiento ordenado con el que hacer frente a este tipo de 
-situaciones. 
-5. Cuando las autoridades competentes en materia de seguridad y emergencias decreten 
-la suspensión de las actividades escolares, complementarias y extraescolares por declaración 
-de emergencia por fenómeno meteorológico adverso o por cualquier otra incidencia ocurrida 
-en el exterior al centro educativo, se deberán aplicar los procedimientos de actuación y la organización de la actividad escolar establecidos ante riesgos de esta naturaleza referidos en el 
-plan de autoprotección, de forma que se permita la salvaguarda de las personas y los bienes, 
-atendiendo a las condiciones concretas de personas, lugar y tiempo, y teniendo en cuenta 
-las instrucciones que se dicten al efecto y, en particular, las contempladas en el Plan de actuación en centros educativos ante fenómenos meteorológicos adversos en la Comunidad 
-Autónoma de Canarias, en el contexto del Plan Específico de Protección Civil y Atención 
-de Emergencias de la Comunidad Autónoma de Canarias por riesgos de fenómenos meteorológicos adversos (PEFMA). En el primer Plan se concretará en qué situaciones se podrá 
-suspender toda o parte de la actividad escolar o extraescolar y los supuestos y condiciones 
-en que será únicamente el alumnado quien no acuda al centro escolar y sí el profesorado y 
-el personal de administración y servicios.
-6. En el caso de que la incidencia que da origen a una situación de emergencia no pueda 
-ser controlada por los medios propios, se procederá a avisar de inmediato al Centro Coordinador de Seguridad y Emergencias (112) y se pondrá en marcha la situación preventiva -evacuación o confinamiento- que corresponda. De manera inmediata, se comunicará también 
-dicha incidencia a la Dirección Territorial de Educación correspondiente.
+4. Las contraseñas de acceso por parte de la comunidad educativa a los sistemas de información garantizan tanto su privacidad como los derechos vinculados a su perfil de usuario. Este se compromete a conservarlas y a usarlas con la diligencia debida. El uso de la contraseña es personal e intransferible y no está permitida la cesión, ni siquiera temporal, a terceros. En el supuesto de que se conozca o sospeche que esta contraseña es utilizada por terceras personas, deberá ponerse tal circunstancia en conocimiento del administrador o la administradora de la web, blog, red social o comunidad de formación en línea a la mayor brevedad.
+
+5. El ejercicio de los derechos de acceso, rectificación, cancelación y oposición se realizarán de acuerdo con la Orden de 24 de febrero de 2006, por la que se aprueban los modelos de solicitud para ejercer los derechos de acceso, oposición, rectificación y cancelación de los datos de carácter personal contenidos en ficheros de la titularidad de la Administración Pública de la Comunidad Autónoma de Canarias (BOC nº 44, de 3 de marzo).
+
+#### Artículo 57. Propiedad intelectual.
+
+1. Toda la comunidad educativa debe conocer que la propiedad intelectual de una obra literaria, artística o científica corresponde al autor o a la autora por el solo hecho de su creación y que esta condición conlleva el reconocimiento de unos derechos que hay que respetar, de acuerdo con lo establecido en la vigente legislación sobre propiedad intelectual.
+
+2. Se tendrá en cuenta lo siguiente antes de utilizar información de otras fuentes (textos, imágenes, sonidos, música, vídeos, etc.) para publicarla en Internet o en cualquier otra publicación:
+- La información que se publique debe ser original o se ha de tener autorización de sus autores o entidades de gestión de los derechos de autor que tengan los derechos legales sobre las mismas para su publicación.
+- Si no se es autor o autora de la información a publicar, sino que se ha copiado de una o varias fuentes de obras literarias, artísticas, científicas ..., ha de tenerse presente que están sujetas a derechos de autor, aunque no se especifique expresamente.
+- Si no se tiene autorización de los autores o representantes legales, no se copiará información de obras que lo indiquen, por ejemplo, con expresiones como: «Todos los derechos reservados», «Copyright», «Este contenido puede estar sujeto a derechos de autor», «Esta imagen puede tener copyright», etc. A estos efectos, el profesorado no necesita la autorización del autor o la autora para reproducir pequeños fragmentos de obras o de obras aisladas de carácter plástico o fotográfico, siempre que se utilicen para la ilustración de las actividades educativas y se haga referencia a la autoría y a la fuente de donde se ha extraído. Esta exención no se aplicará a los libros de texto. Únicamente para uso educativo es aplicable el artículo 32 sobre.
+
+cita e ilustración de la enseñanza del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
+
+#### Artículo 58. Uso de libros de texto y otros materiales curriculares.
+
+1. Durante el mes de junio todos los centros escolares deberán exponer en el tablón de anuncios la relación de libros de texto y otros materiales curriculares seleccionados, según la normativa vigente y los criterios establecidos en la programación general anual, especificando el título, la autoría, el curso, la empresa editorial y el soporte requerido. Asimismo, las asociaciones de madres y padres deberán recibir esta información en la misma fecha.
+
+2. Los libros de texto permanecerán vigentes, al menos, durante cinco cursos académicos. No obstante, los equipos docentes de ciclo o los departamentos de coordinación didáctica podrán proponer su sustitución antes de finalizar el periodo de vigencia. A estos efectos, presentarán a la dirección del centro un informe justificativo que, en caso de valorar favorablemente, trasladará al Consejo Escolar para su aprobación. Esta modificación se comunicará a la Inspección Educativa para su conocimiento.
+
+#### Artículo 59. Conservación de los instrumentos de evaluación.
+
+1. Los instrumentos de evaluación, en tanto que las informaciones que contienen justifican los acuerdos y las decisiones adoptados respecto a un alumno o una alumna, se conservarán, al menos, hasta seis meses después de adoptadas las decisiones y formuladas las correspondientes calificaciones finales del respectivo ciclo o curso. Los centros establecerán los procedimientos oportunos para asegurar esta conservación. En el caso de que se haya presentado reclamación ante la Dirección Territorial de Educación, se guardará, en su totalidad, la documentación generada para el caso, hasta que se resuelva la reclamación o se hayan agotado las vías establecidas normativamente.
+
+2. A los efectos de lo establecido en el apartado anterior, se entiende por instrumentos de evaluación todos aquellos documentos escritos o registros materiales, incluyéndose los que están en formato digital, utilizados por el profesorado para la observación sistemática y el seguimiento del proceso de aprendizaje del alumno o la alumna, según lo previsto en la programación didáctica correspondiente.
+
+#### Artículo 60. Utilización de aplicaciones informáticas.
+
+1. Los centros públicos docentes no universitarios utilizarán el aplicativo informático PINCEL, que deberá estar situado en los servidores gestionados por el Centro de Atención al Usuario de la Consejería de Educación, Universidades y Sostenibilidad del Gobierno de Canarias (CAU-CE) o en el que determine la Administración educativa, y estar operativo de forma permanente y con los datos actualizados. Para aquellas otras gestiones no cubiertas por el aplicativo PINCEL, se utilizarán las restantes aplicaciones informáticas corporativas puestas a disposición para el intercambio de información con los distintos Centros Directivos y servicios de la Consejería.
+
+2. Los centros estarán obligados a remitir o a poner a disposición de la Administración educativa los datos que demande la Viceconsejería de Educación y Universidades a través de las solicitudes de los distintos centros directivos.
+
+3. Los centros educativos tendrán permanentemente actualizados sus datos en los ficheros que se almacenan en los servidores de la Consejería de Educación, Universidades y Sostenibilidad.
+
+4. Con objeto de evitar la introducción o la difusión de virus informáticos u otro software dañino y la realización de cualquier actividad que dañe, inutilice, sobrecargue, deteriore o impida la normal utilización de los materiales e informaciones contenidos en los sitios webs o en aplicaciones alojadas en los servidores de la Consejería de Educación, Universidades y Sostenibilidad, los sistemas informáticos podrán registrar y auditar toda la actividad realizada por las personas usuarias. Estas aceptan dicho registro desde el primer momento en que ingresa en el sistema.
+
+#### Artículo 61. Prohibición de contenidos.
+
+A los usuarios o las usuarias con permisos de administradores de las webs, blogs o plataformas de teleformación alojados en los servidores de la Consejería de Educación, Universidades y Sostenibilidad les está prohibida la transmisión, la difusión o la puesta a disposición de terceros a través del servicio, de informaciones, mensajes, gráficos, archivos de sonido o imagen, fotografías, grabaciones, software y, en general, de cualquier clase de material, datos o contenidos que:
+- Puedan infringir o vulnerar los derechos legalmente protegidos, como el derecho de propiedad intelectual o industrial, el derecho al honor, a la intimidad personal y familiar, y el derecho a la propia imagen.
+- Acosen, de cualquier forma, amenacen o abusen de otros usuarios o usuarias, o de cualesquiera terceros ajenos al mismo.
+- Sean difamatorios, obscenos o censurables, o puedan herir la sensibilidad de cualesquiera terceros que pretendan acceder a los mismos.
+- Se publiquen con la intención de hacerse pasar por otros usuarios u otras usuarias a través de la utilización de identificación similar o a través de cualquier otro método o dispositivo.
+- Se utilicen para fines comerciales, publicitarios o ilícitos; así como para la transmisión de correo basura, cadenas o distribución masiva de mensajes no solicitados.
+
+#### Artículo 62. Salud y seguridad en los centros, y uso de las instalaciones.
+
+1. Quedan prohibidas cuantas actividades perjudiquen la salud pública y, en particular, la publicidad, la expedición y el consumo de tabaco y bebidas alcohólicas, así como la colocación de máquinas expendedoras de alimentos que no ofrezcan productos saludables. Asimismo, la práctica de actividades físico-deportivas en los centros educativos se realizará de acuerdo con las condiciones de seguridad establecidas en la normativa vigente.
+
+2. La utilización de las instalaciones de los centros por parte de las personas que integran la comunidad educativa se hará de conformidad con lo que establezcan las normas de organización y funcionamiento del centro. En el caso de que los solicitantes sean personas jurídicas o entidades públicas o privadas, ajenas a la comunidad educativa, o cuando los destinatarios de las actividades no sean exclusivamente parte de esta, se requerirá la autorización de la Dirección Territorial de Educación correspondiente, previo informe del Consejo Escolar, salvo que su uso se haya prefijado en un convenio.
+
+3. La Dirección General de Centros e Infraestructura Educativa, y las Direcciones Territoriales de Educación, en sus respectivos ámbitos, fijarán las instrucciones necesarias para la aplicación de lo establecido en el presente artículo.
+
+#### Artículo 63. Plan de autoprotección del centro.
+
+1. El proyecto de gestión del centro incluirá un plan de autoprotección, cuya implantación es responsabilidad del equipo directivo. En él se detallarán los mecanismos y los medios disponibles para hacer frente ante cualquier incidencia que afecte a la seguridad de las instalaciones del recinto escolar o de las personas que lo utilicen.
+
+2. Para su posible divulgación entre las fuerzas y los cuerpos de protección civil, así como para su registro y control administrativo, el plan de autoprotección del centro se deberá alojar en la aplicación informática «Generación de los planes de emergencia de los centros» o en la que se determine al efecto para este proceso, dentro de su apartado «Planes de autoprotección».
+
+3. El plan de autoprotección contendrá el plan de emergencia, así como los distintos procedimientos de control de acceso de personas ajenas al centro educativo, de salidas justificadas del alumnado durante el periodo lectivo y de actuación ante un accidente o incidente escolar.
+
+4. El plan de emergencia deberá recoger los pasos a seguir desde que se produce una situación de emergencia hasta que las personas que se encuentren en un centro escolar estén protegidas. Todas las personas que forman la comunidad educativa deben conocer el contenido de este plan y los mecanismos de su puesta en marcha. Dicho plan debe contemplar la realización de simulacros, al menos uno en cada curso escolar con resultado positivo, para garantizar que existe un procedimiento ordenado con el que hacer frente a este tipo de situaciones.
+
+5. Cuando las autoridades competentes en materia de seguridad y emergencias decreten la suspensión de las actividades escolares, complementarias y extraescolares por declaración de emergencia por fenómeno meteorológico adverso o por cualquier otra incidencia ocurrida en el exterior al centro educativo, se deberán aplicar los procedimientos de actuación y la organización de la actividad escolar establecidos ante riesgos de esta naturaleza referidos en el plan de autoprotección, de forma que se permita la salvaguarda de las personas y los bienes, atendiendo a las condiciones concretas de personas, lugar y tiempo, y teniendo en cuenta las instrucciones que se dicten al efecto y, en particular, las contempladas en el Plan de actuación en centros educativos ante fenómenos meteorológicos adversos en la Comunidad Autónoma de Canarias, en el contexto del Plan Específico de Protección Civil y Atención de Emergencias de la Comunidad Autónoma de Canarias por riesgos de fenómenos meteorológicos adversos (PEFMA). En el primer Plan se concretará en qué situaciones se podrá suspender toda o parte de la actividad escolar o extraescolar y los supuestos y condiciones en que será únicamente el alumnado quien no acuda al centro escolar y sí el profesorado y el personal de administración y servicios.
+
+6. En el caso de que la incidencia que da origen a una situación de emergencia no pueda ser controlada por los medios propios, se procederá a avisar de inmediato al Centro Coordinador de Seguridad y Emergencias (112) y se pondrá en marcha la situación preventiva -evacuación o confinamiento- que corresponda. De manera inmediata, se comunicará también dicha incidencia a la Dirección Territorial de Educación correspondiente.
+
 7. En caso de robos, hurtos o destrozos en el interior del recinto escolar, se pondrá la correspondiente denuncia, se dará parte a la entidad aseguradora y se enviarán copias de ambas a la Dirección Territorial de Educación y a la Dirección General de Centros e Infraestructura Educativa.
 
-8. Al finalizar la jornada escolar, el centro adoptará las medidas que estime necesarias 
-para evitar posibles pérdidas o consumos innecesarios de diferentes suministros, como agua, 
-electricidad o gas.
-9. El plan de autoprotección deberá contemplar los procedimientos de actuación necesarios para el alumnado con necesidades específicas de apoyo educativo y, especialmente, para 
-el alumnado con discapacidad o trastornos generalizados del desarrollo.
+8. Al finalizar la jornada escolar, el centro adoptará las medidas que estime necesarias para evitar posibles pérdidas o consumos innecesarios de diferentes suministros, como agua, electricidad o gas.
 
-#### Artículo 64.- Asistencia sanitaria al alumnado.
+9. El plan de autoprotección deberá contemplar los procedimientos de actuación necesarios para el alumnado con necesidades específicas de apoyo educativo y, especialmente, para el alumnado con discapacidad o trastornos generalizados del desarrollo.
 
-1. Para facilitar la asistencia sanitaria en servicios de urgencias del alumnado que sufra 
-algún tipo de accidente o indisposición durante la actividad escolar, se solicitará en el momento de formalizar la matrícula una fotocopia de la cartilla de la Seguridad Social o de 
-la tarjeta sanitaria del Servicio Canario de la Salud o de la entidad aseguradora, pública o 
-privada, que cubra la atención médica y hospitalaria del alumno o la alumna, así como los 
-informes médicos necesarios, además del resto de la documentación prevista en la normativa de admisión. Con la documentación sanitaria se elaborará un fichero actualizado del 
-alumnado que estará a disposición del profesorado en la secretaría del centro. El alumnado 
-de tercero de Educación Secundaria Obligatoria en adelante y hasta 28 años como máximo 
-tendrá que abonar el pago del seguro escolar con la matrícula, a fin de cubrir su atención 
-médica u hospitalaria, conforme a los términos del seguro. 
-Asimismo, el padre, la madre, el tutor legal o el propio alumno, si es mayor de edad, tendrá que comunicar al centro, en el momento de la matrícula, si la persona que se matricula 
-padece una enfermedad que pueda provocar, durante el tiempo de permanencia en el centro, 
-la aparición de episodios o crisis ante los que es imprescindible y vital la administración de 
-algún medicamento.
-2. El accidente o la indisposición del alumnado menor de edad durante su actividad escolar lectiva se pondrá de inmediato en conocimiento de la familia. Si el estudiante accidentado o indispuesto necesitara atención sanitaria y un familiar no pudiera hacerse cargo de él, 
-se avisará al 112 para efectuar su posible traslado al centro sanitario más próximo, si así se 
-considera por este servicio, o para ser llevado por el profesorado o el personal cuidador. La 
-determinación del profesorado que deberá acompañar en estos casos, así como el modo de 
-atención de su alumnado por esta ausencia, constarán en la programación general anual y en 
-las normas de organización y funcionamiento del centro.
-3. Con carácter general y en relación con la administración de cualquier tratamiento farmacológico al alumnado, serán los familiares más directos que vivan o trabajen cerca del centro 
-escolar los que asuman la responsabilidad de la aplicación de cualquier medicamento, facilitándoseles, para ello, su entrada al centro. No obstante lo anterior, en casos de necesidad o ante una 
-enfermedad crónica del alumno o la alumna que conlleve la administración de una medicación 
-durante el periodo escolar, el personal educativo o cuidador podrá suministrar el tratamiento 
-correspondiente, según la patología que padezca el alumna o la alumna, siempre que: 
-- La medicación a administrar haya sido prescrita por su médico de familia o pediatra, 
-para lo que se tendrá que aportar el informe correspondiente. 
+#### Artículo 64. Asistencia sanitaria al alumnado.
 
-- Exista un protocolo específico de actuación para ese alumnado, firmado por sus progenitores o tutores legales y aprobado por el Consejo Escolar, de acuerdo con las instrucciones 
-que dicte la Administración educativa y con las pautas concretas indicadas en los informes 
-médicos que debe entregar la familia. 
-- Haya una predisposición o voluntariedad por parte del personal educativo o cuidador 
-para su suministro, sin perjuicio de que, en casos de urgencia vital, se deba actuar según el 
-protocolo y las indicaciones de los servicios del 112.
-4. Además de lo previsto en las presentes instrucciones, serán de aplicación las orientaciones y las pautas fijadas en los protocolos que, previo asesoramiento especializado, se 
-divulgarán a través de la web de la Consejería, para la actuación a seguir en cuestiones como 
-la atención adecuada ante determinadas enfermedades específicas o la administración de 
-algunos medicamentos.
+1. Para facilitar la asistencia sanitaria en servicios de urgencias del alumnado que sufra algún tipo de accidente o indisposición durante la actividad escolar, se solicitará en el momento de formalizar la matrícula una fotocopia de la cartilla de la Seguridad Social o de la tarjeta sanitaria del Servicio Canario de la Salud o de la entidad aseguradora, pública o privada, que cubra la atención médica y hospitalaria del alumno o la alumna, así como los informes médicos necesarios, además del resto de la documentación prevista en la normativa de admisión. Con la documentación sanitaria se elaborará un fichero actualizado del alumnado que estará a disposición del profesorado en la secretaría del centro. El alumnado de tercero de Educación Secundaria Obligatoria en adelante y hasta 28 años como máximo tendrá que abonar el pago del seguro escolar con la matrícula, a fin de cubrir su atención médica u hospitalaria, conforme a los términos del seguro. Asimismo, el padre, la madre, el tutor legal o el propio alumno, si es mayor de edad, tendrá que comunicar al centro, en el momento de la matrícula, si la persona que se matricula padece una enfermedad que pueda provocar, durante el tiempo de permanencia en el centro, la aparición de episodios o crisis ante los que es imprescindible y vital la administración de algún medicamento.
 
-#### Artículo 65.- Coordinación de prevención de riesgos laborales.
+2. El accidente o la indisposición del alumnado menor de edad durante su actividad escolar lectiva se pondrá de inmediato en conocimiento de la familia. Si el estudiante accidentado o indispuesto necesitara atención sanitaria y un familiar no pudiera hacerse cargo de él, se avisará al 112 para efectuar su posible traslado al centro sanitario más próximo, si así se considera por este servicio, o para ser llevado por el profesorado o el personal cuidador. La determinación del profesorado que deberá acompañar en estos casos, así como el modo de atención de su alumnado por esta ausencia, constarán en la programación general anual y en las normas de organización y funcionamiento del centro.
 
-1. Para llevar a cabo el desempeño de las funciones de la actividad preventiva de nivel 
-básico previstas en el artículo 35 del Real Decreto 39/1997, de 17 de enero, la dirección de 
-los centros educativos podrá nombrar un coordinador o una coordinadora de Prevención de 
-Riesgos Laborales entre el personal docente elegido por el Claustro, preferentemente con 
-destino definitivo. Para el ejercicio de sus funciones, el coordinador o la coordinadora de 
-Prevención deberán acreditar el cumplimiento de alguno de los supuestos establecidos en el 
-apartado 2 del artículo 35 antes citado.
-2. De forma regular, se deberán reunir los comités de Prevención de Riesgos Laborales, 
-al menos, una vez por trimestre.
+3. Con carácter general y en relación con la administración de cualquier tratamiento farmacológico al alumnado, serán los familiares más directos que vivan o trabajen cerca del centro escolar los que asuman la responsabilidad de la aplicación de cualquier medicamento, facilitándoseles, para ello, su entrada al centro. No obstante lo anterior, en casos de necesidad o ante una enfermedad crónica del alumno o la alumna que conlleve la administración de una medicación durante el periodo escolar, el personal educativo o cuidador podrá suministrar el tratamiento correspondiente, según la patología que padezca el alumna o la alumna, siempre que:
+- La medicación a administrar haya sido prescrita por su médico de familia o pediatra, para lo que se tendrá que aportar el informe correspondiente.
+
+- Exista un protocolo específico de actuación para ese alumnado, firmado por sus progenitores o tutores legales y aprobado por el Consejo Escolar, de acuerdo con las instrucciones que dicte la Administración educativa y con las pautas concretas indicadas en los informes médicos que debe entregar la familia.
+- Haya una predisposición o voluntariedad por parte del personal educativo o cuidador para su suministro, sin perjuicio de que, en casos de urgencia vital, se deba actuar según el protocolo y las indicaciones de los servicios del 112.
+
+4. Además de lo previsto en las presentes instrucciones, serán de aplicación las orientaciones y las pautas fijadas en los protocolos que, previo asesoramiento especializado, se divulgarán a través de la web de la Consejería, para la actuación a seguir en cuestiones como la atención adecuada ante determinadas enfermedades específicas o la administración de algunos medicamentos.
+
+#### Artículo 65. Coordinación de prevención de riesgos laborales.
+
+1. Para llevar a cabo el desempeño de las funciones de la actividad preventiva de nivel básico previstas en el artículo 35 l.
+
+Real Decreto 39/1997, de 17 de enero, la dirección de los centros educativos podrá nombrar un coordinador o una coordinadora de Prevención de Riesgos Laborales entre el personal docente elegido por el Claustro, preferentemente con destino definitivo. Para el ejercicio de sus funciones, el coordinador o la coordinadora de Prevención deberán acreditar el cumplimiento de alguno de los supuestos establecidos en el apartado 2 del artículo 35 antes citado.
+
+2. De forma regular, se deberán reunir los comités de Prevención de Riesgos Laborales, al menos, una vez por trimestre.
 
 #### Disposición adicional primera. Medidas de atención a la diversidad.
 
-La aplicación de medidas de atención a la diversidad en los centros se hará de acuerdo 
-con lo establecido en el Decreto 104/2010, de 29 de julio, por el que se regula la atención a 
-la diversidad del alumnado en el ámbito de la enseñanza no universitaria de Canarias (BOC 
-nº 154, de 6 de agosto) y en su normativa específica de desarrollo.
+La aplicación de medidas de atención a la diversidad en los centros se hará de acuerdo con lo establecido en el Decreto 104/2010, de 29 de julio, por el que se regula la atención a la diversidad del alumnado en el ámbito de la enseñanza no universitaria de Canarias (BOC nº 154, de 6 de agosto) y en su normativa específica de desarrollo.
 
-#### Disposición adicional segunda. Actividades curriculares de la educación superior no 
+#### Disposición adicional segunda. Actividades curriculares de la educación superior no.
 
 universitaria.
-1. Las actividades curriculares específicas en los ciclos formativos son aquellas que, siendo 
-obligatorias para el desarrollo del currículo y la adquisición de las competencias profesionales 
-de los módulos de Formación Profesional de cada título, no pueden desarrollarse en las instalaciones del centro por no tener las infraestructuras, los materiales o las condiciones necesarias, 
-de manera que deben realizarse fuera del mismo. Estas actividades serán propuestas por el 
-profesorado de Formación Profesional, debiendo estar incluidas en la programación didáctica 
-de cada módulo, en la que se deberá indicar el tipo de actividad, la competencia profesional 
-a desarrollar, el espacio donde tendrá lugar, las condiciones de organización de la misma y 
-el procedimiento para su evaluación. El departamento de coordinación didáctica realizará un 
 
-seguimiento y evaluación de las actividades curriculares específicas, que se incluirá en el informe trimestral del departamento. La actividad curricular estará bajo la cobertura del mismo 
-seguro que se dispensa a la Formación en Centros de Trabajo.
-2. Las actividades curriculares específicas en el marco de la educación superior que se 
-imparten en los centros educativos públicos no universitarios -Ciclos Formativos de Grado 
-Superior, la Enseñanza Superior de Artes Plásticas y Diseño, las Enseñanzas Deportivas de 
-Grado Superior, y la Enseñanza Superior de Música-, se desarrollarán, atendiendo al nivel 
-educativo establecido en el marco nacional y europeo de la educación superior, y no estarán 
-sujetas a lo establecido en la normativa general por la que se regulan las actividades complementarias y extraescolares en los centros públicos no universitarios de la Comunidad 
-Autónoma de Canarias. Estas actividades podrán ser desarrolladas de forma autónoma por 
-el alumnado, siempre que su diseño implique su realización fuera del centro y en horario 
-distinto al de la jornada escolar ordinaria, su ejecución se haga en condiciones de seguridad 
-y no requiera la supervisión o evaluación del procedimiento por parte del profesorado.
-3. Cada centro establecerá en su proyecto de gestión las condiciones de utilización del 
-material por el alumnado de forma autónoma, fuera del centro y en horario distinto al de la 
-jornada escolar ordinaria, así como la determinación de su responsabilidad.
-4. Las actividades curriculares específicas deben ser aprobadas por el Claustro y 
-Consejo Escolar del centro y estar autorizadas por la Dirección Territorial de Educación 
-­correspondiente.
+1. Las actividades curriculares específicas en los ciclos formativos son aquellas que, siendo obligatorias para el desarrollo del currículo y la adquisición de las competencias profesionales de los módulos de Formación Profesional de cada título, no pueden desarrollarse en las instalaciones del centro por no tener las infraestructuras, los materiales o las condiciones necesarias, de manera que deben realizarse fuera del mismo. Estas actividades serán propuestas por el profesorado de Formación Profesional, debiendo estar incluidas en la programación didáctica de cada módulo, en la que se deberá indicar el tipo de actividad, la competencia profesional a desarrollar, el espacio donde tendrá lugar, las condiciones de organización de la misma y el procedimiento para su evaluación. El departamento de coordinación didáctica realizará un
 
-#### Disposición adicional tercera. Funciones de la coordinación de diferentes ámbitos en 
+seguimiento y evaluación de las actividades curriculares específicas, que se incluirá en el informe trimestral del departamento. La actividad curricular estará bajo la cobertura del mismo seguro que se dispensa a la Formación en Centros de Trabajo.
 
-el centro.
-Las personas que tengan atribuidas tareas de coordinación en programas o actividades tales como calidad, aprendizaje integrado de contenidos y lengua extranjera, familia profesional, mediación de conflictos, coeducación, redes escolares, programas educativos nacionales 
-o europeos, u otros que se autoricen, tendrán y desarrollarán las funciones que se establezcan 
-en instrucciones específicas dictadas al efecto.
+2. Las actividades curriculares específicas en el marco de la educación superior que se imparten en los centros educativos públicos no universitarios -Ciclos Formativos de Grado Superior, la Enseñanza Superior de Artes Plásticas y Diseño, las Enseñanzas Deportivas de Grado Superior, y la Enseñanza Superior de Música-, se desarrollarán, atendiendo al nivel educativo establecido en el marco nacional y europeo de la educación superior, y no estarán sujetas a lo establecido en la normativa general por la que se regulan las actividades complementarias y extraescolares en los centros públicos no universitarios de la Comunidad Autónoma de Canarias. Estas actividades podrán ser desarrolladas de forma autónoma por el alumnado, siempre que su diseño implique su realización fuera del centro y en horario distinto al de la jornada escolar ordinaria, su ejecución se haga en condiciones de seguridad y no requiera la supervisión o evaluación del procedimiento por parte del profesorado.
 
-#### Disposición adicional cuarta. Referencia a la familia y a los padres y madres del 
+3. Cada centro establecerá en su proyecto de gestión las condiciones de utilización del material por el alumnado de forma autónoma, fuera del centro y en horario distinto al de la jornada escolar ordinaria, así como la determinación de su responsabilidad.
 
-­alumnado.
-Toda alusión hecha en la presente Orden a las familias del alumnado se entenderá referida a la madre, el padre o la persona representante legal del alumno o la alumna. Igualmente, 
-toda alusión a los padres y las madres se entenderá hecha a cualquier otro representante legal 
-del menor en los términos previstos en el Código Civil. 
+4. Las actividades curriculares específicas deben ser aprobadas por el Claustro y Consejo Escolar del centro y estar autorizadas por la Dirección Territorial de Educación correspondiente.
 
-#### Disposición adicional quinta. Asociaciones del alumnado y de padres y madres del 
+#### Disposición adicional tercera. Funciones de la coordinación de diferentes ámbitos en.
 
-­alumnado.
-1. Las asociaciones del alumnado y de padres y madres del alumnado participarán y 
-colaborarán en la vida del centro en los términos previstos en el Reglamento Orgánico de 
-los centros docentes públicos no universitarios y de acuerdo con las normas que las regulan.
+el centro. Las personas que tengan atribuidas tareas de coordinación en programas o actividades tales como calidad, aprendizaje integrado de contenidos y lengua extranjera, familia profesional, mediación de conflictos, coeducación, redes escolares, programas educativos nacionales o europeos, u otros que se autoricen, tendrán y desarrollarán las funciones que se establezcan en instrucciones específicas dictadas al efecto.
 
-2. Siempre que no interfieran el normal desarrollo de la programación general anual del 
-centro, las referidas asociaciones podrán utilizar, para la realización de las actividades que 
-les son propias, los locales y las dependencias del centro que, a tales efectos, se les indiquen. 
-Los consejos escolares de los centros deben facilitar su acceso, sin condicionar la presencia 
-de los padres o las madres a la del profesorado ni a la del personal no docente del centro, 
-siguiendo instrucciones de la dirección del centro escolar. 
-3. El programa de actividades diferenciadas que las asociaciones mencionadas deseen 
-realizar en el recinto escolar durante el curso deberá ser entregado al Consejo Escolar con la 
-suficiente antelación en el primer mes del curso, para su aprobación e inclusión, si procediera, en la programación general anual del centro.
+#### Disposición adicional cuarta. Referencia a la familia y a los padres y madres del.
+
+alumnado. Toda alusión hecha en la presente Orden a las familias del alumnado se entenderá referida a la madre, el padre o la persona representante legal del alumno o la alumna. Igualmente, toda alusión a los padres y las madres se entenderá hecha a cualquier otro representante legal del menor en los términos previstos en el Código Civil.
+
+#### Disposición adicional quinta. Asociaciones del alumnado y de padres y madres del.
+
+alumnado.
+
+1. Las asociaciones del alumnado y de padres y madres del alumnado participarán y colaborarán en la vida del centro en los términos previstos en el Reglamento Orgánico de los centros docentes públicos no universitarios y de acuerdo con las normas que las regulan.
+
+2. Siempre que no interfieran el normal desarrollo de la programación general anual del centro, las referidas asociaciones podrán utilizar, para la realización de las actividades que les son propias, los locales y las dependencias del centro que, a tales efectos, se les indiquen. Los consejos escolares de los centros deben facilitar su acceso, sin condicionar la presencia de los padres o las madres a la del profesorado ni a la del personal no docente del centro, siguiendo instrucciones de la dirección del centro escolar.
+
+3. El programa de actividades diferenciadas que las asociaciones mencionadas deseen realizar en el recinto escolar durante el curso deberá ser entregado al Consejo Escolar con la suficiente antelación en el primer mes del curso, para su aprobación e inclusión, si procediera, en la programación general anual del centro.
 
 #### Disposición adicional sexta. Situaciones especiales de escolarización.
 
-1. Los consejos escolares tendrán en cuenta, en el momento de establecer los criterios 
-preferentes para la elección de turno, las circunstancias del alumnado matriculado en las 
-Enseñanzas Profesionales de Artes Plásticas y Diseño, en las Enseñanzas Deportivas de Grado Superior, en las Enseñanzas Profesionales y Superiores de Música y en las Enseñanzas 
-Oficiales de Idiomas para facilitar la simultaneidad de estudios.
-2. Asimismo, con objeto de propiciar la práctica del deporte, los consejos escolares de los 
-centros con doble turno favorecerán, como criterio preferente para la asignación de turno, 
-entre otros, la posesión de una licencia federativa para la práctica del mismo. Los centros 
-podrán requerir la justificación de esta circunstancia en el momento de la matrícula o antes 
-de la constitución de los grupos.
+1. Los consejos escolares tendrán en cuenta, en el momento de establecer los criterios preferentes para la elección de turno, las circunstancias del alumnado matriculado en las Enseñanzas Profesionales de Artes Plásticas y Diseño, en las Enseñanzas Deportivas de Grado Superior, en las Enseñanzas Profesionales y Superiores de Música y en las Enseñanzas Oficiales de Idiomas para facilitar la simultaneidad de estudios.
+
+2. Asimismo, con objeto de propiciar la práctica del deporte, los consejos escolares de los centros con doble turno favorecerán, como criterio preferente para la asignación de turno, entre otros, la posesión de una licencia federativa para la práctica del mismo. Los centros podrán requerir la justificación de esta circunstancia en el momento de la matrícula o antes de la constitución de los grupos.
 
 #### Disposición adicional séptima. Centros con gestión de calidad.
 
-Los centros educativos que adopten un modelo de gestión de calidad deberán cumplir lo 
-previsto en los documentos recogidos en el Manual de Calidad del Centro que será supervisado por la Administración educativa.
+Los centros educativos que adopten un modelo de gestión de calidad deberán cumplir lo previsto en los documentos recogidos en el Manual de Calidad del Centro que será supervisado por la Administración educativa.
 
-#### Disposición adicional octava. Escuelas Unitarias, centros incompletos y colectivos de 
+#### Disposición adicional octava. Escuelas Unitarias, centros incompletos y colectivos de.
 
-Escuelas Rurales.
-Las Escuelas Unitarias y los centros incompletos tendrán un proyecto educativo de zona 
-al que se incorporarán las particularidades de cada contexto escolar. Por su parte, los colectivos de Escuelas Rurales elaborarán una programación general anual común, que supondrá 
-la concreción para el curso escolar de aspectos recogidos en el proyecto educativo de zona, 
-especificándose las actividades comunes, las responsabilidades, la temporalización, etc. A 
-dicha programación se incorporarán aquellos aspectos específicos de los centros que se estimen oportunos. Otros aspectos organizativos de este tipo de centros se regirán por las 
-instrucciones complementarias que se dicten.
+Escuelas Rurales. Las Escuelas Unitarias y los centros incompletos tendrán un proyecto educativo de zona al que se incorporarán las particularidades de cada contexto escolar. Por su parte, los colectivos de Escuelas Rurales elaborarán una programación general anual común, que supondrá la concreción para el curso escolar de aspectos recogidos en el proyecto educativo de zona, especificándose las actividades comunes, las responsabilidades, la temporalización, etc. A dicha programación se incorporarán aquellos aspectos específicos de los centros que se estimen oportunos. Otros aspectos organizativos de este tipo de centros se regirán por las instrucciones complementarias que se dicten.
 
-#### Disposición adicional novena. Transporte escolar y otras actividades y servicios 
+#### Disposición adicional novena. Transporte escolar y otras actividades y servicios.
 
-­complementarios.
+complementarios.
 
-1. El transporte escolar, que se regula por su normativa específica, es un servicio de la 
-Administración educativa que forma parte de los recursos de los centros escolares. A este 
-respecto, las normas de organización y funcionamiento del centro incluirán las condiciones 
-concretas de uso y las medidas a adoptar en caso de incumplimiento de las mismas.
-2. Los centros que disponen del servicio de transporte escolar darán de alta al alumnado 
-que tenga derecho a este servicio durante el periodo de matrícula, utilizando el aplicativo 
-informático «Web Transporte Escolar» o el que se determine al efecto para este proceso por 
-parte de la Dirección General de Ordenación, Innovación y Promoción Educativa. Por este 
-mismo medio, se cumplimentarán, también, las bajas y las autorizaciones excepcionales 
-que no se harán efectivas hasta que no estén autorizadas por la citada Dirección General. 
-Asimismo, las normas de organización y funcionamiento del centro recogerán los criterios 
-de selección de alumnado no preferente para el caso de que existan vacantes en el transporte escolar.
+1. El transporte escolar, que se regula por su normativa específica, es un servicio de la Administración educativa que forma parte de los recursos de los centros escolares. A este respecto, las normas de organización y funcionamiento del centro incluirán las condiciones concretas de uso y las medidas a adoptar en caso de incumplimiento de las mismas.
+
+2. Los centros que disponen del servicio de transporte escolar darán de alta al alumnado que tenga derecho a este servicio durante el periodo de matrícula, utilizando el aplicativo informático «Web Transporte Escolar» o el que se determine al efecto para este proceso por parte de la Dirección General de Ordenación, Innovación y Promoción Educativa. Por este mismo medio, se cumplimentarán, también, las bajas y las autorizaciones excepcionales que no se harán efectivas hasta que no estén autorizadas por la citada Dirección General. Asimismo, las normas de organización y funcionamiento del centro recogerán los criterios de selección de alumnado no preferente para el caso de que existan vacantes en el transporte escolar.
 
 #### Disposición adicional décima. Inspección Educativa.
 
-La Inspección Educativa, en el ejercicio de sus funciones y atribuciones, velará por el 
-cumplimiento de lo establecido en la presente Orden, y asesorará y supervisará las actividades desarrolladas en los centros escolares, en especial, las relativas a la coordinación de los 
-procesos educativos, así como sus rendimientos escolares y propuestas de mejora.
+La Inspección Educativa, en el ejercicio de sus funciones y atribuciones, velará por el cumplimiento de lo establecido en la presente Orden, y asesorará y supervisará las actividades desarrolladas en los centros escolares, en especial, las relativas a la coordinación de los procesos educativos, así como sus rendimientos escolares y propuestas de mejora.
 
 #### Disposición adicional undécima. Planes, programas y proyectos en centros.
 
-Los centros educativos podrán aplicar otros criterios organizativos distintos de los regulados en la presente Orden, cuando participen en planes, programas y proyectos aprobados 
-por la Consejería competente en materia educativa y según las condiciones especificadas en 
-los mismos.
- Disposición transitoria única.
-1. En tanto se impartan las enseñanzas de Educación Secundaria Obligatoria en colegios 
-de Educación Infantil y Primaria, los maestros encargados del primer y segundo curso de esa 
-etapa participarán como miembros de pleno derecho de los departamentos de coordinación 
-didáctica del instituto de su distrito y en las decisiones referentes a la misma.
-2. Igualmente, las personas coordinadoras de Educación Secundaria Obligatoria en centros de Educación Infantil y Primaria participarán como miembros de pleno derecho en 
-la comisión de coordinación pedagógica de los Institutos de Educación Secundaria de su 
-distrito.
+Los centros educativos podrán aplicar otros criterios organizativos distintos de los regulados en la presente Orden, cuando participen en planes, programas y proyectos aprobados por la Consejería competente en materia educativa y según las condiciones especificadas en los mismos.
 
-#### Disposición derogatoria única. Derogación normativa. 
+#### Disposición transitoria única.
+
+1. En tanto se impartan las enseñanzas de Educación Secundaria Obligatoria en colegios de Educación Infantil y Primaria, los maestros encargados del primer y segundo curso de esa etapa participarán como miembros de pleno derecho de los departamentos de coordinación didáctica del instituto de su distrito y en las decisiones referentes a la misma.
+
+2. Igualmente, las personas coordinadoras de Educación Secundaria Obligatoria en centros de Educación Infantil y Primaria participarán como miembros de pleno derecho en la comisión de coordinación pedagógica de los Institutos de Educación Secundaria de su distrito.
+
+#### Disposición derogatoria única. Derogación normativa.
 
 1. Quedan derogadas las siguientes disposiciones:
-a) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones que regulan 
-la organización y funcionamiento de las Escuelas de Educación Infantil y de los colegios 
+a) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones que regulan la organización y funcionamiento de las Escuelas de Educación Infantil y de los colegios
 
-de Educación Primaria dependientes de la Consejería de Educación, Cultura y Deportes del 
-Gobierno de Canarias (BOC nº 161, de 18 de agosto).
-b) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones de organización y funcionamiento de los Institutos de Educación Secundaria dependientes de la 
-Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC nº 161, de 18 
-de agosto).
-c) La Orden de 23 de septiembre de 1992, por la que se regula la implantación, con carácter experimental, de la jornada continua en los centros públicos de Preescolar y Educación 
-General Básica dependientes de la Consejería de Educación, Cultura y Deportes (BOC nº 
-137, de 30 de septiembre).
-2. Asimismo, queda derogada cualquier norma de igual o inferior rango que se oponga o 
-contradiga lo dispuesto en la presente Orden.
+de Educación Primaria dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC nº 161, de 18 de agosto).
+b) La Orden de 28 de julio de 2006, por la que se aprueban las instrucciones de organización y funcionamiento de los Institutos de Educación Secundaria dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC nº 161, de 18 de agosto).
+c) La Orden de 23 de septiembre de 1992, por la que se regula la implantación, con carácter experimental, de la jornada continua en los centros públicos de Preescolar y Educación General Básica dependientes de la Consejería de Educación, Cultura y Deportes (BOC nº 137, de 30 de septiembre).
 
-#### Disposición final primera. Modificación de la Orden de 29 de agosto de 2003, por la 
+2. Asimismo, queda derogada cualquier norma de igual o inferior rango que se oponga o contradiga lo dispuesto en la presente Orden.
 
-que se desarrolla la regulación sobre los órganos de coordinación docente de las Escuelas de 
-Arte de la Comunidad Autónoma de Canarias (BOC nº 188, de 26 de septiembre).
-El artículo 2 de la Orden de 29 de agosto de 2003, por la que se desarrolla la regulación 
-sobre los órganos de coordinación docente de las Escuelas de Arte de la Comunidad Autónoma de Canarias (BOC nº 188, de 26 de septiembre), queda redactado de la siguiente manera:
- «Artículo 2.- Departamentos didácticos.
+#### Disposición final primera. Modificación de la Orden de 29 de agosto de 2003, por la.
+
+que se desarrolla la regulación sobre los órganos de coordinación docente de las Escuelas de Arte de la Comunidad Autónoma de Canarias (BOC nº 188, de 26 de septiembre). El artículo 2 de la Orden de 29 de agosto de 2003, por la que se desarrolla la regulación sobre los órganos de coordinación docente de las Escuelas de Arte de la Comunidad Autónoma de Canarias (BOC nº 188, de 26 de septiembre), queda redactado de la siguiente manera:
+«Artículo 2.- Departamentos didácticos.
+
 1. Los departamentos didácticos de las Escuelas de Arte estarán compuestos por:
-a) Departamento de Comunes, que estará constituido por el profesorado de Enseñanza 
-Secundaria de las especialidades de Física y Química, Biología y Geología, Educación Física, Filosofía, Lengua Castellana y Literatura I y II, Lengua Extranjera (Inglés, Francés o 
-Alemán autorizadas para su impartición; así como los módulos de idiomas de las Enseñanzas de Artes Plásticas y Diseño) y Religión. 
-b) Departamento Teórico-Práctico, integrado por el profesorado de las especialidades de 
-Geografía e Historia, Historia del Arte, y Organización Industrial y Legislación.
-c) Departamento Técnico, integrado por el profesorado de las especialidades de Dibujo 
-Técnico, Materiales y Tecnología, Medios Informáticos y Medios Audiovisuales.
-d) Departamento de Dibujo Artístico, integrado por el profesorado de las especialidades 
-de Dibujo y de Dibujo Artístico y Color.
-e) Departamento de Volumen, integrado por el profesorado de la especialidad de ­Volumen.
-f) Departamento de Proyectos y Talleres, constituido por los profesores de Cerámica, Diseño de Interiores, Diseño de Moda, Diseño de Producto, Diseño Gráfico, Diseño Textil, Fotografía, Joyería y Orfebrería, Ebanistería Artística, Fotografía y Procesos de Reproducción, 
+a) Departamento de Comunes, que estará constituido por el profesorado de Enseñanza Secundaria de las especialidades de Física y Química, Biología y Geología, Educación Física, Filosofía, Lengua Castellana y Literatura I y II, Lengua Extranjera (Inglés, Francés o Alemán autorizadas para su impartición; así como los módulos de idiomas de las Enseñanzas de Artes Plásticas y Diseño) y Religión.
+b) Departamento Teórico-Práctico, integrado por el profesorado de las especialidades de Geografía e Historia, Historia del Arte, y Organización Industrial y Legislación.
+c) Departamento Técnico, integrado por el profesorado de las especialidades de Dibujo Técnico, Materiales y Tecnología, Medios Informáticos y Medios Audiovisuales.
+d) Departamento de Dibujo Artístico, integrado por el profesorado de las especialidades de Dibujo y de Dibujo Artístico y Color.
+e) Departamento de Volumen, integrado por el profesorado de la especialidad de Volumen.
+f) Departamento de Proyectos y Talleres, constituido por los profesores de Cerámica, Diseño de Interiores, Diseño de Moda, Diseño de Producto, Diseño Gráfico, Diseño Textil, Fotografía, Joyería y Orfebrería, Ebanistería Artística, Fotografía y Procesos de Reproducción,
 
-Modelismo y Maquetismo, Moldes y Reproducciones, Talla en Piedra y Madera, Técnicas 
-Cerámicas, Técnicas de Grabado y Estampación, Técnicas de Joyería y Bisutería, Técnicas 
-de Patronaje y Confección, Técnicas del Metal, Técnicas Murales y Técnicas Textiles. 
-2. No obstante, cualquiera de las materias o módulos que conforman estos departamentos podrá constituir por sí solo un departamento independiente cuando existan tres o más 
-profesores de una misma especialidad. Los departamentos didácticos incorporarán como 
-propias aquellas materias optativas que el centro imparta en el marco del plan de oferta de 
-enseñanzas previamente autorizado. 
-3. La competencia de los departamentos de coordinación didáctica se regulará conforme 
-a los términos establecidos en el artículo 32 del Decreto 81/2010, de 8 de julio, por el que 
-se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la 
-Comunidad Autónoma de Canarias.
-4. La jefatura de los departamentos de coordinación didáctica se regulará conforme a 
-los términos establecidos en el artículo 31 del Decreto 81/2010, de 8 de julio, por el que se 
-aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la 
-Comunidad Autónoma de Canarias.»
+Modelismo y Maquetismo, Moldes y Reproducciones, Talla en Piedra y Madera, Técnicas Cerámicas, Técnicas de Grabado y Estampación, Técnicas de Joyería y Bisutería, Técnicas de Patronaje y Confección, Técnicas del Metal, Técnicas Murales y Técnicas Textiles.
 
-#### Disposición final segunda. Modificación de la Orden de 13 de diciembre de 2010, por la 
+2. No obstante, cualquiera de las materias o módulos que conforman estos departamentos podrá constituir por sí solo un departamento independiente cuando existan tres o más profesores de una misma especialidad. Los departamentos didácticos incorporarán como propias aquellas materias optativas que el centro imparta en el marco del plan de oferta de enseñanzas previamente autorizado.
 
-que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la 
-Comunidad Autónoma de Canarias (BOC nº 250, de 22 de diciembre).
-El inciso final del apartado 2 del artículo 24 de la Orden de 13 de diciembre de 2010, por 
-la que se regula la atención al alumnado con necesidades específicas de apoyo educativo 
-en la Comunidad Autónoma de Canarias (BOC nº 250, de 22 de diciembre), se modifica, 
-quedando redactado como sigue: «La Dirección General de Ordenación, Innovación y Promoción Educativa establecerá los aspectos organizativos de los CEE».
+3. La competencia de los departamentos de coordinación didáctica se regulará conforme a los términos establecidos en el artículo 32 l.
+
+Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+
+4. La jefatura de los departamentos de coordinación didáctica se regulará conforme a los términos establecidos en el artículo 31 l.
+
+Decreto 81/2010, de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.»
+
+#### Disposición final segunda. Modificación de la Orden de 13 de diciembre de 2010, por la.
+
+que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias (BOC nº 250, de 22 de diciembre). El inciso final del apartado 2 del artículo 24 de la Orden de 13 de diciembre de 2010, por la que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias (BOC nº 250, de 22 de diciembre), se modifica, quedando redactado como sigue: «La Dirección General de Ordenación, Innovación y Promoción Educativa establecerá los aspectos organizativos de los CEE».
 
 #### Disposición final tercera. Atribuciones de los centros directivos.
 
-Se faculta a los distintos centros directivos de esta Consejería, en el ámbito de sus respectivas atribuciones, para la interpretación y la ejecución de lo dispuesto en la presente Orden 
-y, en particular, para dictar y divulgar en la web de la Consejería las instrucciones u órdenes 
-de servicios a los centros, necesarias para su aplicación.
+Se faculta a los distintos centros directivos de esta Consejería, en el ámbito de sus respectivas atribuciones, para la interpretación y la ejecución de lo dispuesto en la presente Orden y, en particular, para dictar y divulgar en la web de la Consejería las instrucciones u órdenes de servicios a los centros, necesarias para su aplicación.
 
 #### Disposición final cuarta. Entrada en vigor.
 
-La presente Orden entrará en vigor al día siguiente de su publicación en el Boletín Oficial 
-de Canarias, si bien tendrá efectos desde la fecha de inicio del curso escolar 2013/2014.
-Santa Cruz de Tenerife, a 9 de octubre de 2013.
-EL CONSEJERO DE EDUCACIÓN,
-UNIVERSIDADES Y SOSTENIBILIDAD,
-José Miguel Pérez García.
+La presente Orden entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias, si bien tendrá efectos desde la fecha de inicio del curso escolar 2013/2014. Santa Cruz de Tenerife, a 9 de octubre de 2013. EL CONSEJERO DE EDUCACIÓN, UNIVERSIDADES Y SOSTENIBILIDAD, José Miguel Pérez García.

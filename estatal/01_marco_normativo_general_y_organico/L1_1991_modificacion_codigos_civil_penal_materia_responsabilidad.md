@@ -1,12 +1,10 @@
 ---
 id: norm-es-1991-342
 codigo_sintetizado: BOE-A-1991-342
-titulo: Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en
-  materia de responsabilidad civil del profesorado.
+titulo: Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1991-01-08'
 boletin: BOE
@@ -17,25 +15,22 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- empleados-p-blicos
-- igualdad-genero
-- profesorado
-- proteccion-menores
+  - empleados-p-blicos
+  - igualdad-genero
+  - profesorado
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+    - '1'
+    - '2.1'
 ---
+# Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 ## Preámbulo
-
-# Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
-
-# Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 **JUAN CARLOS I**
 
@@ -51,7 +46,9 @@ Ello induce a modificar el régimen de responsabilidad a fin de establecer que q
 
 #### Artículo 1.
 
-Se modifica el artículo 22 del Código Penal, que queda redactado del modo siguiente:
+Se modifica el artículo 22 l.
+
+Código Penal, que queda redactado del modo siguiente:
 
 «La responsabilidad subsidiaria que se establece en el artículo anterior será también extensiva a las personas, entidades, organismos y empresas dedicadas a cualquier género de industria, por los delitos o faltas en que hubiesen incurrido sus empleados o dependientes en el desempeño de sus obligaciones o servicio.
 
@@ -83,12 +80,12 @@ El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

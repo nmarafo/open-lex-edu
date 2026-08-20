@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-29-9-2008
 codigo_sintetizado: O29_9_2008 Convalidaciones Musica Danza ESO Bachillerato Andalucía
-titulo: Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones
-  entre estudios de Música y Danza con ESO y Bachillerato.
+titulo: Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones entre estudios de Música y Danza con ESO y Bachillerato.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 29/09/2008
 fecha_disposicion: '2008-09-29'
@@ -20,36 +18,29 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Convalidaciones
 tags:
-- convalidaciones
-- musica
-- danza
-- eso
-- bachillerato
-- andalucia
+  - convalidaciones
+  - musica
+  - danza
+  - eso
+  - bachillerato
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones entre estudios de Música y Danza con ESO y Bachillerato.
 
 ## Preámbulo
 
-# Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones entre estudios de Música y Danza con ESO y Bachillerato.
-
 Orden de 8 de octubre de 2008, sobre cierre del ejercicio presupuestario de 2008.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -87,17 +78,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2008
 Boletín 206
 
 ##
 
-Histórico del BOJA
-Boletín número
-206
-de
-16/10/2008
+Histórico del BOJA Boletín número 206 de 16/10/2008
 
 ## 1. Disposiciones generales
 
@@ -106,10 +91,7 @@ de
 ###
 Orden de 8 de octubre de 2008, sobre cierre del ejercicio presupuestario de 2008.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
 Tradicionalmente, las operaciones relativas a la finalización de cada ejercicio presupuestario y al cierre del mismo, así como el abono de retribuciones correspondientes al mes de diciembre, han sido objeto de regulación por disposición reglamentaria de la Consejería de Economía y Hacienda, para su aplicación uniforme por parte de todos los órganos implicados y, con ello, obtener la necesaria ordenación de las mencionadas actuaciones.
 
@@ -125,9 +107,9 @@ Asimismo, otra novedad destacable, consiste en la regulación de la obligación 
 
 En su virtud, y en uso de las atribuciones que me han sido conferidas,
 
-DISPONGO
+DISPONGO:
 
-Artículo 1. Tramitación de las nóminas en el mes de diciembre de 2008.
+#### Artículo 1. Tramitación de las nóminas en el mes de diciembre de 2008.
 
 1. En las nóminas tramitadas a través del subsistema de Gestión de Nóminas del Sistema de Información de Recursos Humanos «SIRhUS» la fecha final de captura de incidencias de la nómina de diciembre de 2008 será el día 5 de dicho mes, debiendo finalizar su fiscalización por las Intervenciones Centrales, Delegadas o Provinciales correspondientes el día 10 del mismo mes y año.
 
@@ -137,11 +119,13 @@ Dichas nóminas deberán aprobarse por los órganos gestores y ser presentadas e
 
 3. Las nóminas mencionadas en los apartados anteriores serán satisfechas entre los días 19 y 30, ambos inclusive, de dicho mes.
 
-Artículo 2. Expedición y tramitación de documentos contables de ingresos y de operaciones extrapresupuestarias.
+#### Artículo 2. Expedición y tramitación de documentos contables de ingresos y de operaciones extrapresupuestarias.
 
 1. Hasta el día 5 de enero de 2009 deberá tener entrada en las respectivas Intervenciones la documentación necesaria, que deberán remitir los órganos gestores de ingresos y operaciones extrapresupuestarias, excepto la relativa a las devoluciones de ingresos que será hasta el 30 de diciembre de 2008, para que se proceda a la contabilización y expedición de los documentos contables correspondientes antes del día 9 de enero de 2009.
 
-2. En lo que se refiere a los ingresos que deriven de la propia actividad de las Consejerías y órganos periféricos, se estará a lo dispuesto para las cuentas restringidas de ingresos en el artículo 5 del Reglamento General de Tesorería y Ordenación de Pagos, aprobado por Decreto 46/1986, de 5 de marzo.
+2. En lo que se refiere a los ingresos que deriven de la propia actividad de las Consejerías y órganos periféricos, se estará a lo dispuesto para las cuentas restringidas de ingresos en el artículo 5 l.
+
+Reglamento General de Tesorería y Ordenación de Pagos, aprobado por Decreto 46/1986, de 5 de marzo.
 
 3. Los órganos gestores responsables de la aplicación de los saldos de las cuentas extrapresupuestarias incluidas en las agrupaciones 101 «Pendiente de aplicación origen tributario» y 102 «Pendiente de aplicación origen no tributario», deberán tramitar a las respectivas Intervenciones las propuestas de documentos contables relativas a su formalización, procurando que los ingresos reflejados en las citadas cuentas queden regularizados al cierre del ejercicio 2008.
 
@@ -149,7 +133,7 @@ Artículo 2. Expedición y tramitación de documentos contables de ingresos y de
 
 5. La contabilización y expedición de los documentos contables relativos a las operaciones referidas en el apartado anterior deberán finalizar el día 9 de enero de 2009.
 
-Artículo 3. Expedición y tramitación de documentos contables de gastos y realización material del pago.
+#### Artículo 3. Expedición y tramitación de documentos contables de gastos y realización material del pago.
 
 1. Las propuestas de documentos de gestión contable «A», así como sus complementarios, tendrán entrada en las Intervenciones correspondientes, como fecha límite, hasta el día 14 de noviembre de 2008.
 
@@ -177,7 +161,7 @@ d) En las líneas de subvenciones respecto a las que se haya autorizado por la I
 
 7. Las Intervenciones Centrales, Delegadas y Provinciales que ejerzan funciones de Intervención de Tesorería, tendrán como límite el día 9 de enero de 2009 para contabilizar la fecha de realización material del pago de todos aquellos documentos pagados hasta el día 31 de diciembre de 2008, debiendo remitir los Servicios de Tesorería, con la debida antelación, los documentos necesarios para conseguir dicha finalidad. En todo caso, los documentos con fase de pago cofinanciados con fondos de la Unión Europea correspondientes a los programas operativos del período de programación 2000-2006 cuyo período de subvencionabilidad concluye el día 31 de diciembre de 2008, deberán quedar materializados por las distintas Tesorerías con esa fecha límite como máximo.
 
-Artículo 4. Modificaciones de créditos.
+#### Artículo 4. Modificaciones de créditos.
 
 1. A partir del día 5 de diciembre de 2008 no se tramitarán propuestas de modificaciones presupuestarias, salvo que afecten al Capítulo I, «Gastos de Personal», a expedientes de gastos que deban ser aprobados o autorizados por el Consejo de Gobierno, o resulten precisas para el cumplimiento de resoluciones judiciales.
 
@@ -189,7 +173,7 @@ En cualquier caso, la fecha límite de entrada de propuestas de documentos conta
 
 Si en el mencionado plazo las Consejerías, las agencias administrativas o los organismos autónomos afectados no hubieran instado las modificaciones presupuestarias pertinentes, la Dirección General de Presupuestos, tras recabar la información necesaria de los diferentes órganos con competencia en la materia, procederá, de oficio, a la tramitación de las que procedan, de acuerdo con lo establecido en el artículo 74 bis.3 de la Ley 5/1983, de 19 de julio.
 
-Artículo 5. Relación nominal de acreedores.
+#### Artículo 5. Relación nominal de acreedores.
 
 1. Salvo lo dispuesto en el apartado 2 de este artículo, todas las obligaciones que deban reconocerse con cargo al ejercicio 2008 habrán de tramitarse simultáneamente con la propuesta de pago correspondiente.
 
@@ -207,23 +191,23 @@ e) Aquellos otros que expresamente autorice la Intervención General de la Junta
 
 3. Las referidas propuestas de documentos «O» y «ADO» se acompañarán de la documentación que acredite la realización de la prestación o el derecho del acreedor, de conformidad con los acuerdos que en su día autorizaron o comprometieron el gasto.
 
-Artículo 6. Actos de recepción.
+#### Artículo 6. Actos de recepción.
 
 1. Durante el mes de diciembre de 2008 la Intervención competente sólo efectuará designación de representante o renuncia a dicha designación para los actos de recepción del objeto de los contratos de las solicitudes que se hubiesen recibido en dicha Intervención hasta el día 12 de diciembre de 2008.
 
 2. En todo caso, cuando así se requiera en la normativa de aplicación, las obligaciones que se imputen al ejercicio de 2008 deberán ser objeto de recepción antes del día 30 de diciembre de 2008.
 
-Artículo 7. Minoración y reajuste de créditos no disponibles.
+#### Artículo 7. Minoración y reajuste de créditos no disponibles.
 
 De conformidad con lo dispuesto en el artículo 48.bis de la Ley 5/1983, de 19 de julio, se autoriza a la Intervención General de la Junta de Andalucía, para que, al fin del ejercicio 2008, minore créditos que se encuentren disponibles, en la misma cuantía de las generaciones y ampliaciones de crédito aprobadas con cargo a la declaración de no disponibilidad de otros créditos. Asimismo, se autoriza a dicho Centro Directivo para que, oída la Consejería afectada, cuando resulte necesario y con carácter previo a la anterior minoración, realice el reajuste al ejercicio 2009 de los compromisos adquiridos cuyas obligaciones no hayan llegado a contraerse, fijando asimismo los límites de la anualidad futura correspondiente en la cuantía necesaria para posibilitar el citado reajuste.
 
-Artículo 8. Cierre de la contabilidad del ejercicio 2008.
+#### Artículo 8. Cierre de la contabilidad del ejercicio 2008.
 
 Sin perjuicio de las normas especiales contenidas en la presente Orden o en otras normas aplicables, el día 9 de enero de 2009 se cerrará la contabilidad de ingresos y de operaciones extrapresupuestarias del ejercicio 2008. El día 20 de enero de 2009 quedará cerrada la contabilidad de gastos del ejercicio 2008, comenzando las operaciones de incorporación y traspaso de remanentes y las de liquidación del ejercicio y rendición de cuentas.
 
 Todas las propuestas de documentos contables que el día 20 de enero no estén contabilizadas se anularán automáticamente por la Consejería de Economía y Hacienda.
 
-Artículo 9. Relaciones nominales de deudores.
+#### Artículo 9. Relaciones nominales de deudores.
 
 1. En la rendición de las cuentas de Rentas Públicas que realicen las Delegaciones Provinciales de la Consejería de Economía y Hacienda y la Dirección General de Tesorería y Deuda Pública correspondiente al mes de diciembre de 2008, así como en la liquidación de las agencias administrativas y los organismos autónomos, se incluirá necesariamente la relación nominal de deudores, justificativa del saldo de los derechos pendientes de cobro.
 
@@ -235,11 +219,11 @@ Las Delegaciones Provinciales de la Consejería de Economía y Hacienda podrán,
 
 3. La relación nominal de deudores de las agencias administrativas y de los organismos autónomos no se expedirá hasta que hayan finalizado las operaciones previstas en el artículo 11 de la presente Orden, y así se comunique por la Intervención General de la Junta de Andalucía.
 
-Artículo 10. Rendición de cuentas.
+#### Artículo 10. Rendición de cuentas.
 
 Las Intervenciones Centrales, Delegadas y Provinciales de las Consejerías, las agencias administrativas y de los organismos autónomos formarán las cuentas de Gastos Públicos, Rentas Públicas, Operaciones Extrapresupuestarias y de Tesorería, correspondientes al mes de diciembre de 2008 con la antelación necesaria para posibilitar su rendición y posterior remisión a la Intervención General de la Junta de Andalucía antes del día 13 de febrero de 2009.
 
-Artículo 11. Remanente de tesorería de las agencias administrativas y de los organismos autónomos.
+#### Artículo 11. Remanente de tesorería de las agencias administrativas y de los organismos autónomos.
 
 1. Se autoriza a la Intervención General de la Junta de Andalucía, una vez conocidos los datos provisionales del avance de liquidación de las agencias administrativas y de los organismos autónomos y, en función del remanente de tesorería obtenido, a realizar las operaciones contables necesarias para ajustar las obligaciones a favor de las agencias administrativas y de los organismos autónomos así como los correspondientes derechos a cobrar en la contabilidad de éstos, con el fin de consolidar en la Junta de Andalucía dicho remanente de tesorería.
 
@@ -249,7 +233,7 @@ En el supuesto de que no fuese posible regularizar las obligaciones en el ejerci
 
 3. En consecuencia, la financiación de las agencias administrativas y de los organismos autónomos durante este período deberá realizarse con créditos del ejercicio 2009 y, por tanto, hasta que se apruebe el calendario de pagos específico de cada uno de ellos, se autoriza a las Consejerías a las que estén adscritos, a que expidan mensualmente propuestas de pago a su favor por la doceava parte del 90 por 100 de los créditos iniciales del Capítulo IV y de la doceava parte de los del Capítulo VII, sin que los importes individualizados de cada una de las propuestas supere la tercera parte de la mensualidad autorizada para cada uno de los capítulos presupuestarios indicados.
 
-Artículo 12. Anualidades futuras.
+#### Artículo 12. Anualidades futuras.
 
 Una vez cerrada la contabilidad del ejercicio 2008, se procederá al traspaso al ejercicio 2009 de las anualidades futuras correspondientes, de acuerdo con las siguientes normas:
 
@@ -273,7 +257,7 @@ No obstante, si el día 31 de marzo de 2009 no se hubiera expedido la citada cer
 
 La Intervención Central del Servicio Andaluz de Salud y la Intervención Delegada en el Servicio Andaluz de Empleo serán las competentes para rendir esta información relativa a sus Intervenciones Provinciales.
 
-Artículo 13. Incorporaciones de créditos.
+#### Artículo 13. Incorporaciones de créditos.
 
 1. De acuerdo con lo establecido en el artículo 40 de la Ley 5/1983, de 19 de julio, serán objeto de incorporación al estado de gastos del Presupuesto del ejercicio 2009 los remanentes de créditos en los supuestos previstos en el apartado 2 de dicho artículo.
 
@@ -289,7 +273,7 @@ De no efectuarse dicha propuesta, la Dirección General de Presupuestos determin
 
 5. Los diferentes Centros Contables, una vez contabilizada la incorporación por la Intervención General de la Junta de Andalucía, procederán, en el plazo de los quince días siguientes, a la imputación contable de los compromisos adquiridos a los créditos incorporados.
 
-Artículo 14. Traspasos de remanentes de créditos comprometidos.
+#### Artículo 14. Traspasos de remanentes de créditos comprometidos.
 
 Una vez cerrada la contabilidad del ejercicio 2008, y calculado el importe del reajuste previsto en el artículo 7 de la presente Orden, la Intervención General de la Junta de Andalucía lo comunicará a los diferentes Centros Contables, para que procedan al traspaso al ejercicio 2009 de los remanentes de créditos comprometidos que no sean objeto de incorporación, de acuerdo con las siguientes normas:
 
@@ -317,7 +301,7 @@ No obstante, si el día 31 de marzo de 2009 no se hubiera expedido la citada cer
 
 La Intervención Central del Servicio Andaluz de Salud y la Intervención Delegada en el Servicio Andaluz de Empleo serán las competentes para rendir esta información relativa a sus Interventores Provinciales.
 
-Artículo 15. Operaciones de Anticipo de Caja Fija.
+#### Artículo 15. Operaciones de Anticipo de Caja Fija.
 
 Con el fin de que las obligaciones contraídas a través del procedimiento especial de gestión del Anticipo de Caja Fija queden debidamente contabilizadas, se tendrán en cuenta las siguientes normas:
 
@@ -329,11 +313,11 @@ En dichos documentos deberán figurar como terceros los acreedores de la documen
 
 c) Durante el mes de diciembre de 2008 los pagos adeudados a un mismo acreedor, cuyas facturas conjuntamente asciendan a un importe igual o superior a 3.005,06 euros, podrán hacerse efectivos mediante la expedición del oportuno mandamiento de pago en firme a favor del acreedor, a criterio del órgano gestor de los créditos.
 
-Artículo 16. Registro de Facturas del Servicio Andaluz de Salud.
+#### Artículo 16. Registro de Facturas del Servicio Andaluz de Salud.
 
 Todos los centros del Servicio Andaluz de Salud tendrán como fecha límite el día 13 de febrero de 2009 para registrar y asignar a sus respectivas aplicaciones presupuestarias en el Registro de Facturas y fondos del órgano gestor la totalidad de las facturas o documentos equivalentes, acreditativos de las obligaciones generadas hasta el 31 de diciembre de 2008, que no hayan podido imputarse al Presupuesto del Organismo del ejercicio 2008.
 
-Artículo 17. Tramitación de facturas del Servicio Andaluz de Salud pendientes de pago al cierre del ejercicio.
+#### Artículo 17. Tramitación de facturas del Servicio Andaluz de Salud pendientes de pago al cierre del ejercicio.
 
 1. De acuerdo con lo dispuesto en el apartado undécimo del Acuerdo de 29 de agosto de 2006, del Consejo de Gobierno, por el que se aprueba el programa de control a realizar en el ejercicio 2006 de las empresas de la Junta de Andalucía sometidas a control financiero permanente, y se establecen otras medidas de control financiero, así como el régimen presupuestario de la sanidad, en el ámbito del Servicio Andaluz de Salud, las facturas que no hayan sido propuestas para su pago en el ejercicio 2008 se podrán tramitar por cada uno de los centros competentes en el ejercicio 2009 de acuerdo con los criterios siguientes:
 
@@ -343,11 +327,11 @@ b) El resto de obligaciones de ejercicios anteriores, sólo podrán ser imputada
 
 2. La propuesta de autorización a que se refiere la letra b) del apartado anterior deberá ser sometida a la consideración del Consejo de Gobierno antes del día 1 de abril de 2009, comunicándolo previamente a la persona titular de la Consejería de Economía y Hacienda, por conducto de la Intervención General de la Junta de Andalucía, con una antelación mínima de cinco días a aquel en el que el asunto haya de ser objeto de examen por el citado órgano
 
-Disposición adicional única. Habilitación.
+#### Disposición adicional única. Habilitación.
 
 Se autoriza a la Intervención General de la Junta de Andalucía y a la Dirección General de Presupuestos para dictar, en sus respectivos ámbitos, cuantas instrucciones requiera la aplicación de la presente Orden.
 
-Disposición final única. Entrada en vigor.
+#### Disposición final única. Entrada en vigor.
 
 La presente Orden entrará en vigor el día siguiente al de su publicación en el
 
@@ -360,19 +344,11 @@ Vicepresidente Segundo de la Junta de Andalucía
 y Consejero de Economía y Hacienda
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-206
-de
-16/10/2008
+206 de 16/10/2008
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -382,15 +358,11 @@ de
 
 4. Administración de Justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2008/206/boletin.206.pdf">Descargar boletín nº
-206 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2008/206/boletin.206.pdf">Descargar boletín nº 206 completo
 
 ## Temas
 
@@ -405,3 +377,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

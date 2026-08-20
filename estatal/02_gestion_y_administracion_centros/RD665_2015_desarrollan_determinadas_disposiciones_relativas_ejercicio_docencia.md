@@ -1,15 +1,10 @@
 ---
 id: norm-es-2015-8043
 codigo_sintetizado: BOE-A-2015-8043
-titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas
-  disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria,
-  el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial,
-  a la formación inicial del profesorado y a las especialidades de los cuerpos docentes
-  de Enseñanza Secundaria.
+titulo: Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-18'
 boletin: BOE
@@ -20,52 +15,51 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-- bachillerato
-- centros-privados
-- conciertos-educativos
-- curriculo
-- eso
-- formacion-profesional
-- profesorado
+  - bachillerato
+  - centros-privados
+  - conciertos-educativos
+  - curriculo
+  - eso
+  - formacion-profesional
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2010-11426
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2010-11426
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
   fundamento_de:
-  - norma_id: norm-es-2023-9553
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2023-9553
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-2010-11426
-- norma_id: norm-es-rd-1834-2008
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2010-11426
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
 
 ## Preámbulo
-
-# Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
-
-# Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
 
 El [Real Decreto 1834/2008](RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, estableció las especialidades de los cuerpos docentes de enseñanza secundaria, asignando en sus anexos las materias del currículo que correspondía impartir a cada una de estas.
 
 Por su parte, el [Real Decreto 860/2010](RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato, reguló, con relación al ejercicio de la docencia en los centros privados, las condiciones de formación inicial exigidas al profesorado de dichos centros.
 
-La nueva configuración del currículo de Educación Secundaria Obligatoria y Bachillerato constituye uno de los aspectos fundamentales que conlleva la reforma educativa que se inicia tras la publicación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa. En función de esta, se modifican los artículos 24 y 25 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, referidos a la organización del primer ciclo y el cuarto curso de la Educación Secundaria Obligatoria, se da una nueva redacción al artículo 34 y se añaden dos nuevos artículos en los que se regula la organización del primer y segundo curso de Bachillerato. Como resultado de estas modificaciones desaparecen del currículo o cambian de denominación algunas materias y se introducen otras nuevas. Además, la organización de la Educación Secundaria Obligatoria y el Bachillerato deja de estar basada en la oferta de materias obligatorias, de modalidad y optativas, para pasar a agrupar las asignaturas en tres bloques: troncales, específicas, y de libre configuración autonómica.
+La nueva configuración del currículo de Educación Secundaria Obligatoria y Bachillerato constituye uno de los aspectos fundamentales que conlleva la reforma educativa que se inicia tras la publicación de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa. En función de esta, se modifican los artículos 24 y 25 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de Educación, referidos a la organización del primer ciclo y el cuarto curso de la Educación Secundaria Obligatoria, se da una nueva redacción al artículo 34 y se.
+
+añaden dos nuevos artículos en los que se regula la organización del primer y segundo curso de Bachillerato. Como resultado de estas modificaciones desaparecen del currículo o cambian de denominación algunas materias y se introducen otras nuevas. Además, la organización de la Educación Secundaria Obligatoria y el Bachillerato deja de estar basada en la oferta de materias obligatorias, de modalidad y optativas, para pasar a agrupar las asignaturas en tres bloques: troncales, específicas, y de libre configuración autonómica.
 
 Además, la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, establece una nueva ordenación de la Formación Profesional y, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional, crea los ciclos de Formación Profesional Básica dentro de la Formación Profesional del sistema educativo, y, prevé la desaparición progresiva de los programas de cualificación profesional inicial.
 
@@ -83,13 +77,17 @@ En virtud de lo expuesto, a propuesta del Ministro de Educación, Cultura y Depo
 
 #### Artículo primero. Modificación del [Real Decreto 1834/2008](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
 
-Uno. Los apartados 5 y 6 del artículo 3 quedan redactados en los siguientes términos:
+Uno. Los apartados 5 y 6 del artículo 3 quedan.
+
+redactados en los siguientes términos:
 
 «5. Los ámbitos específicos que pudieran crearse dentro de los programas de mejora del aprendizaje y del rendimiento, establecidos en el artículo 27 de la Ley 2/2006, de 3 de mayo, los resultantes de la agrupación de materias del primer curso en ámbitos de conocimiento prevista en el artículo 24.7 de dicha Ley Orgánica, y los propios de la oferta específica para personas adultas, serán impartidos por funcionarios de los cuerpos de catedráticos y de profesores de enseñanza secundaria de alguna de las especialidades que tengan atribución docente para impartir cualquiera de las materias que se integran en dichos ámbitos.
 
 6. En los términos que determinen las Administraciones educativas, los profesores técnicos de formación profesional, de las especialidades que en cada caso corresponda, podrán impartir la materia de Tecnología y asumir funciones de atención a la diversidad, sin que ninguna de esas posibilidades implique derecho sobre la titularidad de las especialidades respectivas o sobre la pertenencia a un cuerpo distinto de aquél al que pertenecen.»
 
-Dos. El artículo 5 queda redactado en los siguientes términos:
+Dos. El artículo 5 queda.
+
+redactado en los siguientes términos:
 
 «Artículo 5. Asignación de materias de libre configuración autonómica.
 
@@ -113,9 +111,9 @@ Materias de la Educación Secundaria Obligatoria
 
 Alemán.
 
-Primera Lengua Extranjera Alemán.
+#### Primera. Lengua Extranjera Alemán.
 
-Segunda Lengua Extranjera Alemán.
+#### Segunda. Lengua Extranjera Alemán.
 
 Biología y geología.
 
@@ -153,9 +151,9 @@ Iniciación a la Actividad Emprendedora y Empresarial.
 
 Francés.
 
-Primera Lengua Extranjera Francés.
+#### Primera. Lengua Extranjera Francés.
 
-Segunda Lengua Extranjera Francés.
+#### Segunda. Lengua Extranjera Francés.
 
 Geografía e historia.
 
@@ -173,15 +171,15 @@ Tecnologías de la Información y la Comunicación.
 
 Inglés.
 
-Primera Lengua Extranjera Inglés.
+#### Primera. Lengua Extranjera Inglés.
 
-Segunda Lengua Extranjera Inglés.
+#### Segunda. Lengua Extranjera Inglés.
 
 Italiano.
 
-Primera Lengua Extranjera Italiano.
+#### Primera. Lengua Extranjera Italiano.
 
-Segunda Lengua Extranjera Italiano.
+#### Segunda. Lengua Extranjera Italiano.
 
 Lengua castellana y literatura.
 
@@ -217,9 +215,9 @@ Iniciación a la Actividad Emprendedora y Empresarial.
 
 Portugués.
 
-Primera Lengua Extranjera Portugués.
+#### Primera. Lengua Extranjera Portugués.
 
-Segunda Lengua Extranjera Portugués.
+#### Segunda. Lengua Extranjera Portugués.
 
 Tecnología.
 
@@ -243,9 +241,9 @@ Fundamentos de Administración y Gestión.
 
 Alemán.
 
-Primera Lengua Extranjera Alemán.
+#### Primera. Lengua Extranjera Alemán.
 
-Segunda Lengua Extranjera Alemán.
+#### Segunda. Lengua Extranjera Alemán.
 
 Biología y geología.
 
@@ -309,9 +307,9 @@ Cultura Científica.
 
 Francés.
 
-Primera Lengua Extranjera Francés.
+#### Primera. Lengua Extranjera Francés.
 
-Segunda Lengua Extranjera Francés.
+#### Segunda. Lengua Extranjera Francés.
 
 Geografía e historia.
 
@@ -335,15 +333,15 @@ Tecnologías de la Información y la Comunicación I y II.
 
 Inglés.
 
-Primera Lengua Extranjera Inglés.
+#### Primera. Lengua Extranjera Inglés.
 
-Segunda Lengua Extranjera Inglés.
+#### Segunda. Lengua Extranjera Inglés.
 
 Italiano.
 
-Primera Lengua Extranjera Italiano.
+#### Primera. Lengua Extranjera Italiano.
 
-Segunda Lengua Extranjera Italiano.
+#### Segunda. Lengua Extranjera Italiano.
 
 Latín.
 
@@ -377,9 +375,9 @@ Historia de la Música y de la Danza Lenguaje y Práctica Musical.
 
 Portugués.
 
-Primera Lengua Extranjera Portugués.
+#### Primera. Lengua Extranjera Portugués.
 
-Segunda Lengua Extranjera Portugués.
+#### Segunda. Lengua Extranjera Portugués.
 
 Tecnología.
 
@@ -541,7 +539,9 @@ Tecnología.
 
 #### Artículo segundo. Modificación del [Real Decreto 860/2010](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md), de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
-Uno. El artículo 7 queda redactado en los siguientes términos:
+Uno. El artículo 7 queda.
+
+redactado en los siguientes términos:
 
 «Artículo 7. Programas de mejora del aprendizaje y del rendimiento, ciclos formativos de Formación Profesional Básica y materias de libre configuración autonómica.
 
@@ -951,7 +951,7 @@ Tecnologías de la Información y la Comunicación.
 
 Lengua extranjera.
 
-Primera Lengua Extranjera.
+#### Primera. Lengua Extranjera.
 
 Cultura audiovisual (1.º curso).
 
@@ -971,11 +971,11 @@ Tecnologías de la Información y la Comunicación I.
 
 Lengua extranjera I.
 
-Primera Lengua Extranjera I.
+#### Primera. Lengua Extranjera I.
 
 Lengua extranjera II.
 
-Primera Lengua Extranjera II.
+#### Primera. Lengua Extranjera II.
 
 Ciencias para el mundo contemporáneo.
 
@@ -1001,21 +1001,21 @@ d) Real Decreto 221/2015, de 27 de marzo, por el que se establece el título de 
 
 e) Real Decreto 222/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Moldes y Reproducciones Escultóricos perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
-f)	Real Decreto 223/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Dorado, Plateado y Policromía perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
+f) Real Decreto 223/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Dorado, Plateado y Policromía perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
 g) Real Decreto 224/2015, de 27 de marzo, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Ornamentación Islámica perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
 h) Real Decreto 225/2015, de 27 de marzo, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Reproducciones Artísticas en Madera perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
-i)	Real Decreto 226/2015, de 27 de marzo, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Reproducciones Artísticas en Piedra perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
+i) Real Decreto 226/2015, de 27 de marzo, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Reproducciones Artísticas en Piedra perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
-j)	Real Decreto 227/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Madera perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
+j) Real Decreto 227/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Madera perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
 k) Real Decreto 228/2015, de 27 de marzo, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Forja Artística perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
-l)	Real Decreto 229/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Metal perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
+l) Real Decreto 229/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Metal perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
-m)	Real Decreto 230/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Piedra perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
+m) Real Decreto 230/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Piedra perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
 n) Real Decreto 231/2015, de 27 de marzo, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Técnicas Escultóricas en Piel perteneciente a la familia profesional artística de Escultura y se fija el correspondiente currículo básico.
 
@@ -1041,11 +1041,10 @@ El Ministro de Educación, Cultura y Deporte,
 
 ÍÑIGO MÉNDEZ DE VIGO Y MONTOJO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -1057,6 +1056,7 @@ El Ministro de Educación, Cultura y Deporte,
 - **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2018-6348
 codigo_sintetizado: BOE-A-2018-6348
-titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales
-  de Bachillerato.
+titulo: Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2018-05-11'
 boletin: BOE
@@ -17,38 +15,35 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- bachillerato
-- concursos-y-premios-escolares
-- curriculo
-- ensenanzas-deportivas
-- profesorado
+  - bachillerato
+  - concursos-y-premios-escolares
+  - curriculo
+  - ensenanzas-deportivas
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-l-40-2015
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
 ## Preámbulo
-
-# Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
-
-# Orden ECD/482/2018, de 4 de mayo, por la que se regulan los Premios Nacionales de Bachillerato.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su artículo 89 que el Ministerio de Educación, Cultura y Deporte, sin perjuicio de las competencias de las Comunidades Autónomas, podrá establecer, por sí mismo o en colaboración con otras entidades, premios y concursos de carácter estatal destinados a alumnado, profesorado o centros escolares.
 
@@ -68,45 +63,47 @@ Para la tramitación de esta orden se han recabado los informes de la Intervenci
 
 Por todo ello, y con la aprobación previa del Ministro de Hacienda y Función Pública, dispongo:
 
-#### Artículo 1. Objeto y regulación.
+#### Artículo 1. Objeto y regulación.
 
 1. Esta orden tiene por objeto establecer las bases reguladoras para la concesión de los Premios Nacionales de Bachillerato en régimen de concurrencia competitiva, y de acuerdo con los principios de publicidad, transparencia, objetividad, igualdad y no discriminación.
 
 2. Los Premios Nacionales de Bachillerato se regirán por esta orden de bases y por su correspondiente convocatoria. Asimismo, resulta de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en los términos establecidos en su Disposición adicional décima.
 
-#### Artículo 2. Premios Extraordinarios de Bachillerato.
+#### Artículo 2. Premios Extraordinarios de Bachillerato.
 
 Las Administraciones educativas podrán convocar y conceder Premios Extraordinarios de Bachillerato en sus respectivos ámbitos de competencia. A estos efectos las Administraciones educativas regularán en su correspondiente convocatoria todos los aspectos relativos a las pruebas para su concesión.
 
-#### Artículo 3. Convocatoria de los Premios Nacionales de Bachillerato.
+#### Artículo 3. Convocatoria de los Premios Nacionales de Bachillerato.
 
 La Dirección General de Planificación y Gestión Educativa convocará y concederá anualmente quince Premios Nacionales de Bachillerato entre los alumnos que hayan cursado cualquiera de las modalidades del Bachillerato establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y cumplan los requisitos previstos en el artículo siguiente, en régimen de concurrencia competitiva y publicidad, de acuerdo con el artículo 17.3.d) de la Ley 38/2003, de 17 de noviembre.
 
-#### Artículo 4. Cuantía de los Premios Nacionales de Bachillerato.
+#### Artículo 4. Cuantía de los Premios Nacionales de Bachillerato.
 
 La convocatoria de los Premios Nacionales de Bachillerato establecerá la cuantía de la dotación económica para los premios cuyo importe estará condicionado al crédito presupuestario habilitado al efecto en la aplicación 18.08.323M.484.03 de los Presupuestos Generales del Estado o la que le pueda sustituir. Esta cuantía individual no podrá ser inferior a 1.000 euros ni superior a 1.500 euros.
 
-#### Artículo 5. Requisitos de los candidatos a los Premios Nacionales de Bachillerato.
+#### Artículo 5. Requisitos de los candidatos a los Premios Nacionales de Bachillerato.
 
-1. Podrán optar a los Premios Nacionales de Bachillerato, previa solicitud de los alumnos, aquellos que hayan obtenido previamente el Premio Extraordinario de Bachillerato a que se refiere el artículo 2 tanto en el ámbito de gestión directa del Ministerio de Educación, Cultura y Deporte como en la Comunidad Autónoma en que hayan finalizado dichas enseñanzas, y que además cumplan los siguientes requisitos:
+1. Podrán optar a los Premios Nacionales de Bachillerato, previa solicitud de los alumnos, aquellos que hayan obtenido previamente el Premio Extraordinario de Bachillerato a que se refiere el artículo 2 tanto.
 
-a) Haber cursado primero y segundo de Bachillerato en cualquiera de las modalidades establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en centros docentes españoles, bien en régimen presencial, bien en régimen a distancia.
+en el ámbito de gestión directa del Ministerio de Educación, Cultura y Deporte como en la Comunidad Autónoma en que hayan finalizado dichas enseñanzas, y que además cumplan los siguientes requisitos:
 
-b) Haber finalizado estos estudios en el año académico al que se refiere la convocatoria.
+a) Haber cursado primero y segundo de Bachillerato en cualquiera de las modalidades establecidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en centros docentes españoles, bien en régimen presencial, bien en régimen a distancia.
 
-c) Haber obtenido en el conjunto de los dos cursos de Bachillerato una nota media igual o superior a 8,75 puntos.
+b) Haber finalizado estos estudios en el año académico al que se refiere la convocatoria.
+
+c) Haber obtenido en el conjunto de los dos cursos de Bachillerato una nota media igual o superior a 8,75 puntos.
 
 La nota media será la media aritmética de las calificaciones de todas las materias cursadas en los dos cursos de Bachillerato, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. No se tendrán en cuenta en dicho cálculo las calificaciones de «apto», «exento» o «convalidado».
 
 2. El número de candidatos de cada Administración educativa que, reuniendo los requisitos del apartado anterior y previa solicitud de participación, podrán concurrir a los Premios Nacionales será el siguiente:
 
-a) Uno por cada mil alumnos o fracción superior a quinientos, matriculados en segundo curso de Bachillerato el año académico al que se refiere la convocatoria.
+a) Uno por cada mil alumnos o fracción superior a quinientos, matriculados en segundo curso de Bachillerato el año académico al que se refiere la convocatoria.
 
-b) Uno, en el caso en que el número de alumnos matriculados en el curso indicado sea inferior a quinientos.
+b) Uno, en el caso en que el número de alumnos matriculados en el curso indicado sea inferior a quinientos.
 
 A los efectos previstos en este apartado, se tendrá en cuenta el número de alumnos procedentes de centros docentes públicos y privados en los que se impartan las enseñanzas de Bachillerato conforme a la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, tanto en régimen presencial como a distancia.
 
-#### Artículo 6. Procedimiento de presentación de solicitudes y selección de los candidatos.
+#### Artículo 6. Procedimiento de presentación de solicitudes y selección de los candidatos.
 
 1. Las Administraciones educativas remitirán a la Dirección General de Planificación y Gestión Educativa del Ministerio de Educación, Cultura y Deporte, antes del 15 de octubre de cada año, la relación de todos los alumnos que hayan obtenido Premio Extraordinario de Bachillerato ordenada por la puntuación final obtenida y que cumplan los requisitos establecidos en el artículo anterior.
 
@@ -128,11 +125,11 @@ En caso de que se produzca la circunstancia prevista en el segundo párrafo del 
 
 7. La Dirección General de Planificación y Gestión Educativa notificará a los candidatos su condición de admitidos a la realización de las pruebas o, en su caso, su condición de reservas.
 
-#### Artículo 7. Instrucción del procedimiento.
+#### Artículo 7. Instrucción del procedimiento.
 
 Corresponde a la Subdirección General de Becas, Ayudas al Estudio y Promoción Educativa de la Dirección General de Planificación y Gestión Educativa la ordenación e instrucción del procedimiento previsto en esta orden.
 
-#### Artículo 8. Procedimiento de concesión.
+#### Artículo 8. Procedimiento de concesión.
 
 1. Para la adjudicación de los Premios Nacionales de Bachillerato, los candidatos realizarán unas pruebas que versarán sobre algunas de las materias generales comunes a todas las modalidades de Bachillerato pertenecientes al bloque de asignaturas troncales, y, al menos, una materia del bloque de asignaturas troncales propia de la modalidad cursada por el alumno de entre las propuestas en la convocatoria.
 
@@ -152,43 +149,42 @@ No obstante en cada prueba se dará información de la puntuación máxima asign
 
 6. El Director General de Planificación y Gestión Educativa adjudicará los Premios Nacionales de Bachillerato a los quince alumnos que obtengan la mayor puntuación otorgada por el Jurado.
 
-#### Artículo 9. Reducción de precios públicos por servicios académicos.
+#### Artículo 9. Reducción de precios públicos por servicios académicos.
 
 Las Comunidades Autónomas o Haciendas Locales, de acuerdo con su normativa de precios públicos, o supletoriamente con lo establecido en el artículo 25.2 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, podrán reconocer al alumnado que ha obtenido Premio Extraordinario de Bachillerato una reducción en el pago de los precios públicos por los servicios académicos en el primer curso de los estudios superiores realizados en un centro público.
 
-#### Artículo 10. Inscripción del premio en el expediente académico y en el historial.
+#### Artículo 10. Inscripción del premio en el expediente académico y en el historial.
 
 La obtención del Premio Nacional de Bachillerato será anotada, mediante diligencia realizada por el Secretario del Instituto de Educación Secundaria, en el expediente académico y en el historial académico del alumno premiado.
 
-#### Artículo 11. Justificación.
+#### Artículo 11. Justificación.
 
 La percepción del Premio Nacional de Bachillerato no requerirá de ninguna justificación, salvo la acreditación previa del perceptor de que reúne los requisitos exigidos para ser beneficiario del mismo.
 
-#### Artículo 12. Incompatibilidades.
+#### Artículo 12. Incompatibilidades.
 
 La obtención del Premio Nacional de Bachillerato no será incompatible con la percepción de otras subvenciones procedentes de cualquier persona física o jurídica.
 
-#### Artículo 13. Recursos.
+#### Artículo 13. Recursos.
 
 1. Contra la resolución de convocatoria, regulada en el artículo 3 de esta orden, y contra la resolución por la que se adjudiquen los premios, recogida en el apartado 6 del artículo 8 de esta misma orden, se podrán interponer, en el plazo de un mes recurso potestativo de reposición ante el Director General de Planificación y Gestión Educativa, de acuerdo con los artículos 123 y 124 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, o, en el plazo de dos meses, directamente recurso contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Audiencia Nacional.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
 Queda derogada la Orden EDU/2058/2010, de 13 de julio, del Ministerio de Educación, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
-#### Disposición final primera. Título competencial.
+#### Disposición final primera. Título competencial.
 
 Esta orden se dicta al amparo de lo establecido en el artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia para el establecimiento de las normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-#### Disposición final segunda. Entrada en vigor.
+#### Disposición final segunda. Entrada en vigor.
 
 Madrid, 4 de mayo de 2018.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -197,6 +193,7 @@ Madrid, 4 de mayo de 2018.–El Ministro de Educación, Cultura y Deporte, Íñi
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

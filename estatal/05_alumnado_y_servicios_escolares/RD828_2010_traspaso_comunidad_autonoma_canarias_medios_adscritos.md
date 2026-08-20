@@ -1,13 +1,10 @@
 ---
 id: norm-es-2010-10321
 codigo_sintetizado: BOE-A-2010-10321
-titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma
-  de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias
-  del Seguro Escolar.
+titulo: Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-06-29'
 boletin: BOE
@@ -18,35 +15,32 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Seguro escolar
 tags:
-- autonomia-centro
-- bachillerato
-- becas-y-ayudas
-- ensenanzas-universitarias
-- eso
-- fp-basica
-- proteccion-menores
-- seguro-escolar
+  - autonomia-centro
+  - bachillerato
+  - becas-y-ayudas
+  - ensenanzas-universitarias
+  - eso
+  - fp-basica
+  - proteccion-menores
+  - seguro-escolar
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-can-lo-1-2018
+    - '27'
+    - norma_id: norm-can-lo-1-2018
   articulos:
-  - '136'
+    - '136'
 ---
+# Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 
 ## Preámbulo
-
-# Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
-
-# Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 
 La Constitución, en su artículo 43.2, establece la obligación de los poderes públicos para organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. Además, en el artículo 149.1.16.ª y 17.ª reserva al Estado la competencia exclusiva sobre las bases y coordinación general de la sanidad, así como sobre la legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
 
@@ -66,11 +60,7 @@ En su virtud, a propuesta del Ministro de Política Territorial, y previa delibe
 
 #### Artículo 1.
 
-Se aprueba el Acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma Canarias, adoptado por el Pleno en su reunión del día 17 de junio de 2010, por el que se traspasa a la Comunidad Autónoma de Canarias los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar,
-
-#### Artículo 2.
-
-En consecuencia, quedan traspasados a la Comunidad Autónoma de Canarias las funciones y los créditos presupuestarios determinados que figuran en el propio acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias.
+Se aprueba el Acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma Canarias, adoptado por el Pleno en su reunión del día 17 de junio de 2010, por el que se traspasa a la Comunidad Autónoma de Canarias los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar, artículo 2 en consecuencia, quedan traspasados a la Comunidad Autónoma de Canarias las funciones y los créditos presupuestarios determinados que figuran en el propio acuerdo de la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias.
 
 #### Artículo 3.
 
@@ -80,7 +70,7 @@ El traspaso a que se refiere este real decreto tendrá efectividad a partir del 
 
 Los créditos presupuestarios que se determinan, de conformidad con la relación número 1 del anexo, serán dados de baja en los correspondientes conceptos presupuestarios y transferidos por el Ministerio de Economía y Hacienda a los conceptos habilitados en la sección 32 de los Presupuestos Generales del Estado, destinados a financiar el coste de los servicios asumidos por las comunidades autónomas, una vez se remitan al departamento citado, por parte del Ministerio de Educación, los certificados de retención de crédito, para dar cumplimiento a lo dispuesto en la normativa vigente sobre Presupuestos Generales del Estado.
 
-#### Disposición final única. Entrada en vigor
+#### Disposición final única. Entrada en vigor.
 
 Dado en Madrid, el 25 de junio de 2010.
 
@@ -90,7 +80,7 @@ El Vicepresidente Tercero del Gobierno y Ministro de Política Territorial,
 
 MANUEL CHAVES GONZÁLEZ
 
-ANEXO
+## Anexo
 
 Doña Carmen Cuesta Gil y don José Javier Torres Lana, Secretarios de la Comisión Mixta de Transferencias prevista en la disposición transitoria tercera del Estatuto de Autonomía de Canarias,
 
@@ -120,7 +110,7 @@ a) Por accidente escolar.
 
 b) Por enfermedad incluyendo cirugía general, neuropsiquiatría, tocología, tuberculosis pulmonar y ósea.
 
-c) Otras prestaciones de carácter graciable: fisioterapia, quimioterapia, radioterapia, cobaltoterapia, radiumterapia y cirugía maxilofacial.
+c) **Otras prestaciones de carácter graciable.** Fisioterapia, quimioterapia, radioterapia, cobaltoterapia, radiumterapia y cirugía maxilofacial.
 
 C) Funciones y servicios que se reserva la Administración General del Estado.
 
@@ -156,16 +146,16 @@ Aplicación presupuestaria: 18.04.324M.487.02.
 
 Total coste efectivo: 201.236,58 euros.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)

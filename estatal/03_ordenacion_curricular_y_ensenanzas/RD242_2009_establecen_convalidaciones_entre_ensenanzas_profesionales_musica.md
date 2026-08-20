@@ -1,15 +1,10 @@
 ---
 id: norm-es-2009-3424
 codigo_sintetizado: BOE-A-2009-3424
-titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones
-  entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria
-  obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación
-  física deben tener la condición de deportista de alto nivel o alto rendimiento y
-  las enseñanzas profesionales de Danza.
+titulo: Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2009-02-28'
 boletin: BOE
@@ -20,36 +15,33 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-- bachillerato
-- curriculo
-- educaci-n-secundaria-obligatoria-eso
-- ensenanzas-artisticas
-- eso
-- oposiciones
-- titulacion
+  - bachillerato
+  - curriculo
+  - educaci-n-secundaria-obligatoria-eso
+  - ensenanzas-artisticas
+  - eso
+  - oposiciones
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 
 ## Preámbulo
-
-# Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
-
-# Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en el capítulo VI del título I las enseñanzas artísticas, que tienen como finalidad proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales. Entre estas enseñanzas se encuentran las enseñanzas profesionales de Música y de Danza, en cuyo desarrollo las Administraciones educativas establecen unos currículos que suponen una considerable cantidad de horas de presencia en el centro, así como unos altos niveles de exigencia que requieren una intensa dedicación al estudio para ser alcanzados.
 
@@ -151,7 +143,7 @@ La Ministra de Educación, Política Social y Deporte,
 
 MERCEDES CABRERA CALVO-SOTELO
 
-## ANEXO I
+## Anexo I
 
 Convalidación de la materia de Música de la Educación Secundaria Obligatoria con determinadas asignaturas de las enseñanzas profesionales de Música y de Danza
 
@@ -187,7 +179,7 @@ Danza.
 
 2.º curso de Música.
 
-## ANEXO II
+## Anexo II
 
 Convalidación de diversas materias de Bachillerato con determinadas asignaturas de las enseñanzas profesionales de Música
 
@@ -237,7 +229,7 @@ Literatura universal.
 
 1.º y 2.º cursos de una asignatura de contenido análogo.
 
-## ANEXO III
+## Anexo III
 
 Convalidación de diversas materias de Bachillerato con determinadas asignaturas de las enseñanzas profesionales de Danza
 
@@ -277,7 +269,7 @@ Literatura universal.
 
 1º y 2º cursos de una asignatura de contenido análogo.
 
-## ANEXO IV
+## Anexo IV
 
 Convalidación de diversas asignaturas de las enseñanzas profesionales de Música con determinadas materias de Bachillerato
 
@@ -323,7 +315,7 @@ Lenguaje y práctica musical.
 
 Literatura universal.
 
-## ANEXO V
+## Anexo V
 
 Convalidación de diversas asignaturas de las enseñanzas profesionales de Danza con determinadas materias de Bachillerato
 
@@ -365,17 +357,17 @@ Lenguaje y práctica musical.
 
 Literatura universal.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)

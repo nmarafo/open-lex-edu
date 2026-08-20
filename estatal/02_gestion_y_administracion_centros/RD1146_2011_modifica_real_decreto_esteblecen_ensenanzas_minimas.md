@@ -1,14 +1,10 @@
 ---
 id: norm-es-2011-13117
 codigo_sintetizado: BOE-A-2011-13117
-titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto
-  1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes
-  a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de
-  8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
+titulo: Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-07-30'
 boletin: BOE
@@ -19,39 +15,38 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados
 tags:
-- admision-alumnado
-- bachillerato
-- centros-privados
-- conciertos-educativos
-- curriculo
-- educacion-primaria
-- eso
-- formacion-profesional
-- grado-medio
-- oposiciones
-- orientacion-educativa
-- titulacion
+  - admision-alumnado
+  - bachillerato
+  - centros-privados
+  - conciertos-educativos
+  - curriculo
+  - educacion-primaria
+  - eso
+  - formacion-profesional
+  - grado-medio
+  - oposiciones
+  - orientacion-educativa
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-11426
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1834-2008
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-11426
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2010-11426
-- norma_id: norm-es-rd-1834-2008
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2010-11426
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 
 ## Preámbulo
-
-# Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 
 La Ley 2/2011, de 4 de marzo, de Economía Sostenible, en su disposición final vigésima cuarta, apartado 3, introduce modificaciones en algunos artículos de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, destinadas a favorecer la adecuación del sistema educativo a la distintas situaciones y características del alumnado después de una escolarización de 9 años desde el inicio de la educación primaria, así como a favorecer que los estudiantes puedan continuar su formación una vez finalizada la Educación Secundaria Obligatoria. En esta línea se adelanta la edad de acceso a los Programas de Cualificación Profesional Inicial a los 15 años.
 
@@ -69,7 +64,9 @@ En virtud de lo expuesto, a propuesta del Ministro de Educación, de acuerdo con
 
 #### Artículo primero. Modificación Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria.
 
-Uno. Se modifica el artículo 5 del Real Decreto 1631/2006 que queda redactado en los siguientes términos:
+Uno. Se modifica el artículo 5 l.
+
+Real Decreto 1631/2006 que queda redactado en los siguientes términos:
 
 «Artículo 5. Organización del cuarto curso.
 
@@ -133,7 +130,9 @@ Materias comunes a todas las opciones:
 
 8. Sin perjuicio de su tratamiento específico en algunas de las materias de este cuarto curso, la comprensión lectora, la expresión oral y escrita, la comunicación audiovisual, las tecnologías de la información y la comunicación y la educación en valores se trabajarán en todas ellas.»
 
-Dos. Se modifica el artículo 14 del Real Decreto 1631/2006 que queda redactado en los siguientes términos:
+Dos. Se modifica el artículo 14 l.
+
+Real Decreto 1631/2006 que queda redactado en los siguientes términos:
 
 «Artículo 14. Programas de cualificación profesional inicial.
 
@@ -145,13 +144,13 @@ Dos. Se modifica el artículo 14 del Real Decreto 1631/2006 que queda redactado 
 
 4. Estos programas incluirán:
 
-a) Módulos obligatorios. Tienen por objeto cualificar al alumnado de estas enseñanzas para el desempeño de la actividad profesional correspondiente y el acceso a los diferentes ciclos formativos de grado medio. Los módulos obligatorios son de dos tipos:
+a) **Módulos obligatorios.** Tienen por objeto cualificar al alumnado de estas enseñanzas para el desempeño de la actividad profesional correspondiente y el acceso a los diferentes ciclos formativos de grado medio. Los módulos obligatorios son de dos tipos:
 
 – Módulos específicos profesionales, referidos a las unidades de competencia correspondientes a cualificaciones profesionales del nivel uno del Catálogo Nacional de Cualificaciones Profesionales. Estos módulos, entre los que se contemplará un módulo de formación en centros de trabajo, estarán dirigidos fundamentalmente a que el alumnado adquiera y desarrolle las competencias profesionales incluidas en el perfil profesional del programa.
 
 – Módulos formativos de carácter general, orientados al desarrollo de las competencias básicas que posibiliten cursar con éxito un ciclo formativo de grado medio.
 
-b) Módulos voluntarios. Tienen por objeto complementar la formación necesaria para la obtención del título de Graduado en Educación Secundaria Obligatoria. Estos módulos podrán cursarse de manera simultánea a los módulos obligatorios o una vez superados estos.
+b) **Módulos voluntarios.** Tienen por objeto complementar la formación necesaria para la obtención del título de Graduado en Educación Secundaria Obligatoria. Estos módulos podrán cursarse de manera simultánea a los módulos obligatorios o una vez superados estos.
 
 5. Las Administraciones educativas determinarán los requisitos que deben reunir los centros y el profesorado para ser autorizados a impartir los diferentes tipos de módulos que configuran estos Programas, teniendo en cuenta que:
 
@@ -207,11 +206,17 @@ c) Las calificaciones obtenidas en todos los módulos del Programa de Cualificac
 
 15. A los efectos de la Clasificación Internacional Normalizada de la Educación (CINE 1997) de UNESCO, el certificado académico a que se refiere la letra c) del apartado 10 acredita un nivel educativo 3C (CINE 3C de dos años o su equivalente en la versión definitiva de la CINE 2011).»
 
-Tres. Se modifica el apartado 6 del artículo 15 del Real Decreto 1631/2006, quedando redactado de la siguiente manera:
+Tres. Se modifica el apartado 6 del artículo 15 l.
+
+Real Decreto 1631/2006, quedando redactado de la siguiente manera:
 
 «6. Todos los alumnos que finalicen los estudios correspondientes a la educación básica sin obtener el título de Graduado en Educación Secundaria Obligatoria recibirán del centro educativo, al finalizar el último curso escolar en el que hayan estado matriculados un certificado oficial sobre su escolaridad y el nivel de adquisición de las competencias básicas y un informe orientador sobre sus opciones académicas y profesionales.»
 
-Cuatro. Se añade un artículo 15 bis al Real Decreto 1631/2006 con la siguiente redacción:
+Cuatro. Se añade un
+
+#### Artículo 15 bis. al.
+
+Real Decreto 1631/2006 con la siguiente redacción:
 
 «Artículo 15 bis. Certificado oficial de estudios obligatorios.
 
@@ -595,7 +600,11 @@ Licenciado o Ingeniero en Informática. Cualquier título de Ingeniero, Arquitec
 
 #### Disposición adicional primera. Calendario de aplicación.
 
-1. En el curso 2011-2012 se implantará lo establecido en el nuevo artículo 15 bis del Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria
+1. En el curso 2011-2012 se implantará lo establecido en el nuevo
+
+#### Artículo 15 bis. del.
+
+Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria
 
 2. En el curso 2012-2013 se implantarán el resto de las modificaciones incorporadas en el presente Real Decreto. No obstante, las Administraciones educativas podrán anticipar su aplicación al curso 2011-2012.
 
@@ -619,7 +628,7 @@ El Ministro de Educación,
 
 ÁNGEL GABILONDO PUJOL
 
-ANEXO
+## Anexo
 
 **Alimentación, nutrición y salud**
 
@@ -1211,11 +1220,10 @@ Este criterio evalúa si el alumnado es capaz de descubrir una potencial idea de
 
 Este criterio evalúa la capacidad de integrar todos los elementos trabajados en la materia (información sobre oportunidades de formación, oportunidades de empleo, descubrimiento de las profesiones y los perfiles profesionales, autoanálisis, etc.) para plantear unas metas personales y diseñar las acciones a recorrer para su consecución.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -1223,6 +1231,7 @@ Este criterio evalúa la capacidad de integrar todos los elementos trabajados en
 - **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
 - [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)

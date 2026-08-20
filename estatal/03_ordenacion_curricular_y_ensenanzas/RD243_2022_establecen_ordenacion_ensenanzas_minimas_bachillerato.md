@@ -1,12 +1,10 @@
 ---
 id: norm-es-rd-243-2022
 codigo_sintetizado: RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato
-titulo: Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación
-  y las enseñanzas mínimas del Bachillerato.
+titulo: Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 243/2022
 fecha_disposicion: '2022-04-05'
@@ -20,68 +18,65 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- bachillerato
-- curriculo
-- ebau
-- ensenanzas-artisticas
-- ensenanzas-minimas
-- evaluacion
-- inclusiva
-- modalidades-bachillerato
-- neae
-- oposiciones
-- proteccion-menores
-- titulacion
+  - bachillerato
+  - curriculo
+  - ebau
+  - ensenanzas-artisticas
+  - ensenanzas-minimas
+  - evaluacion
+  - inclusiva
+  - modalidades-bachillerato
+  - neae
+  - oposiciones
+  - proteccion-menores
+  - titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   desarrollado_por:
-  - norma_id: norm-es-2023-9553
-  - norma_id: norm-can-d-103-2023
+    - norma_id: norm-es-2023-9553
+    - norma_id: norm-can-d-103-2023
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-18812
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-es-2022-15953
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2026-077-62
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2022-15953
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-can-res-040
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-boc-2026-077-62
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '6.2'
-  - '32'
-  - '34'
-  - '36'
-  - '37'
-- norma_id: norm-es-ce-1978
+    - '6.2'
+    - '32'
+    - '34'
+    - '36'
+    - '37'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-3-2018
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-18812
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 
 ## Preámbulo
 
-# Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
-# Real Decreto 243/2022 - Ordenación y Enseñanzas Mínimas del Bachillerato
-
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
-
-De acuerdo con este enfoque, el título preliminar del nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
+De acuerdo con este enfoque, el título preliminar del nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
 Al mismo tiempo, la ley reformula, en primer lugar, la definición de currículo, enumerando los elementos que lo integran y señalando a continuación que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándolos para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso ello pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación. En consonancia con esta visión, la ley, manteniendo el enfoque competencial que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.
 
@@ -93,65 +88,63 @@ La ley indica que la evaluación en esta etapa será continua y diferenciada seg
 
 Finalmente, con respecto al acceso a los estudios universitarios, se indica que los alumnos y alumnas deberán superar una prueba cuyas características básicas serán establecidas por el Gobierno, previa consulta a las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado.
 
-En desarrollo de lo anteriormente expuesto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, este real decreto viene a derogar lo dispuesto en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, y establece los objetivos, fines y principios generales y pedagógicos del conjunto de la etapa de acuerdo con la nueva ordenación. Esta nueva ordenación comprende la relación de las distintas modalidades por las que se podrán cursar las enseñanzas, así como la concreción de las materias específicas de cada una de ellas. En el caso de la modalidad General, se otorga al alumnado la posibilidad de configurar itinerarios formativos muy diversos y adaptados a sus demandas, ya que permite optar por materias de distintas modalidades.
+En desarrollo de lo anteriormente expuesto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, este real decreto viene a derogar lo dispuesto en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato, y establece los objetivos, fines y principios generales y pedagógicos del conjunto de la etapa de acuerdo con la nueva ordenación. Esta nueva ordenación comprende la relación de las distintas modalidades por las que se podrán cursar las enseñanzas, así como la concreción de las materias específicas de cada una de ellas. En el caso de la modalidad General, se otorga al alumnado la posibilidad de configurar itinerarios formativos muy diversos y adaptados a sus demandas, ya que permite optar por materias de distintas modalidades.
 
 Los fines y principios que la ley establece para la etapa se concretan en los descriptores operativos del grado de adquisición de las competencias clave previsto al finalizar la etapa, que se definen como continuación del Perfil de salida del alumnado al término de la enseñanza básica. Por otro lado, para cada una de las materias se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada curso.
 
 Además, con el fin de facilitar al profesorado su propia práctica, se propone una definición de situación de aprendizaje y se enuncian orientaciones para su diseño.
 
-Finalmente, se establece para las diferentes materias el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, tras su modificación.
+Finalmente, se establece para las diferentes materias el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la Ley Orgánica 2/2006, de 3 de mayo, tras su modificación.
 
-Conforme a lo establecido en el apartado 5 de la disposición final quinta, de la Ley Orgánica 3/2020, de 29 de diciembre, las modificaciones introducidas por este real decreto en el currículo, la organización, objetivos y programas de Bachillerato se implantarán para el primer curso en el curso escolar 2022-2023, y para el segundo curso en el curso escolar 2023-2024.
+Conforme a lo establecido en el apartado 5 de la disposición final quinta, de la Ley Orgánica 3/2020, de 29 de diciembre, las modificaciones introducidas por este real decreto en el currículo, la organización, objetivos y programas de Bachillerato se implantarán para el primer curso en el curso escolar 2022-2023, y para el segundo curso en el curso escolar 2023-2024.
 
-En esta norma se recogen, además, otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, o la orientación, así como lo concerniente a la evaluación y los criterios para la promoción y la titulación, que, de acuerdo con la disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, resultan ya de aplicación para el curso 2021-2022 y han sido recogidos en el [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional. Se determinan también las condiciones en las que se puede realizar una modificación y adaptación del currículo para las personas adultas, así como para el alumnado con necesidad específica de apoyo educativo.
+En esta norma se recogen, además, otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, o la orientación, así como lo concerniente a la evaluación y los criterios para la promoción y la titulación, que, de acuerdo con la disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, resultan ya de aplicación para el curso 2021-2022 y han sido recogidos en el [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional. Se determinan también las condiciones en las que se puede realizar una modificación y adaptación del currículo para las personas adultas, así como para el alumnado con necesidad específica de apoyo educativo.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Bachillerato conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y, durante el procedimiento de elaboración de la norma, se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Bachillerato conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y, durante el procedimiento de elaboración de la norma, se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
-El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. Se recoge al mismo tiempo el mandato del artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas.
+El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. Se recoge al mismo tiempo el mandato del artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas.
 
-De acuerdo con la jurisprudencia del Tribunal Constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por dicho tribunal, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
+De acuerdo con la jurisprudencia del Tribunal Constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por dicho tribunal, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
 
-Este Real Decreto se enmarca en la reforma segunda del componente 21, (C21 R2) del Plan de Recuperación Transformación y Resiliencia (PRTR): «Diseño y aplicación de nuevo modelo curricular por competencias clave, priorizando aprendizajes fundamentales, y regulación de una ordenación académica inclusiva», que incluye la aprobación del real decreto por el que se establecen las enseñanzas mínimas del Bachillerato.
+Este Real Decreto se enmarca en la reforma segunda del componente 21, (C21 R2) del Plan de Recuperación Transformación y Resiliencia (PRTR): «Diseño y aplicación de nuevo modelo curricular por competencias clave, priorizando aprendizajes fundamentales, y regulación de una ordenación académica inclusiva», que incluye la aprobación del real decreto por el que se establecen las enseñanzas mínimas del Bachillerato.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
-En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 5 de abril de 2022,
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 5 de abril de 2022,
 
 **DISPONGO:**
 
-#### Artículo 1. Objeto.
+#### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Bachillerato.
 
-#### Artículo 2. Definiciones.
+#### Artículo 2. Definiciones A efectos de este real decreto, se entenderá por:.
 
-A efectos de este real decreto, se entenderá por:
+a) **Objetivos.** Logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 
-a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
+b) **Competencias clave.** Desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente.
 
-b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente.
+c) **Competencias específicas.** Desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada materia. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave, y por otra, los saberes básicos de las materias y los criterios de evaluación.
 
-c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada materia. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave, y por otra, los saberes básicos de las materias y los criterios de evaluación.
+d) **Criterios de evaluación.** Referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada materia en un momento determinado de su proceso de aprendizaje.
 
-d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada materia en un momento determinado de su proceso de aprendizaje.
+e) **Saberes básicos.** Conocimientos, destrezas y actitudes que constituyen los contenidos propios de una materia y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
 
-e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de una materia y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+f) **Situaciones de aprendizaje.** Situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
 
-f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
-
-#### Artículo 3. La etapa de Bachillerato en el marco del sistema educativo.
+#### Artículo 3. La etapa de Bachillerato en el marco del sistema educativo.
 
 1. La educación secundaria se divide en educación secundaria obligatoria y educación secundaria postobligatoria.
 
 2. El Bachillerato es una de las enseñanzas que conforman la educación secundaria postobligatoria, junto con la Formación Profesional de Grado Medio, las Enseñanzas Artísticas Profesionales, tanto de Música y de Danza como de Artes Plásticas y Diseño de Grado Medio, y las Enseñanzas Deportivas de Grado Medio.
 
-3. Sin perjuicio de lo previsto en el artículo 15, la etapa comprende dos cursos, se desarrolla en modalidades diferentes y se organiza de modo flexible en materias comunes, materias de modalidad y materias optativas, a fin de que pueda ofrecer una preparación especializada a los alumnos y alumnas acorde con sus perspectivas e intereses de formación o permita la incorporación a la vida activa una vez finalizado el mismo.
+3. Sin perjuicio de lo previsto en el artículo 15, la etapa comprende dos cursos, se desarrolla en modalidades diferentes y se organiza de modo flexible en materias comunes, materias de modalidad y materias optativas, a fin de que pueda ofrecer una preparación especializada a los alumnos y alumnas acorde con sus perspectivas e intereses de formación o permita la incorporación a la vida activa una vez finalizado el mismo.
 
-#### Artículo 4. Fines.
+#### Artículo 4. Fines.
 
 El Bachillerato tiene como finalidad proporcionar formación, madurez intelectual y humana, conocimientos, habilidades y actitudes que permitan desarrollar funciones sociales e incorporarse a la vida activa con responsabilidad y aptitud. Asimismo, esta etapa deberá permitir la adquisición y el logro de las competencias indispensables para el futuro formativo y profesional, y capacitar para el acceso a la educación superior.
 
-#### Artículo 5. Principios generales.
+#### Artículo 5. Principios generales.
 
 1. Podrán acceder a los estudios de Bachillerato quienes estén en posesión del título de Graduado en Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o Técnico Deportivo Superior.
 
@@ -159,7 +152,7 @@ El Bachillerato tiene como finalidad proporcionar formación, madurez intelectua
 
 3. Las administraciones públicas promoverán un incremento progresivo de la oferta de plazas públicas en Bachillerato en sus distintas modalidades y vías.
 
-#### Artículo 6. Principios pedagógicos.
+#### Artículo 6. Principios pedagógicos.
 
 1. Las actividades educativas en el Bachillerato favorecerán la capacidad del alumnado para aprender por sí mismo, para trabajar en equipo y para aplicar los métodos de investigación apropiados. Asimismo, se prestará especial atención a la orientación educativa y profesional del alumnado incorporando la perspectiva de género.
 
@@ -169,51 +162,51 @@ El Bachillerato tiene como finalidad proporcionar formación, madurez intelectua
 
 4. Las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de las lenguas extranjeras. En dicho proceso se priorizarán la comprensión, la expresión y la interacción oral.
 
-#### Artículo 7. Objetivos.
+#### Artículo 7. Objetivos.
 
 El Bachillerato contribuirá a desarrollar en los alumnos y alumnas las capacidades que les permitan:
 
-a) Ejercer la ciudadanía democrática, desde una perspectiva global, y adquirir una conciencia cívica responsable, inspirada por los valores de la Constitución Española, así como por los derechos humanos, que fomente la corresponsabilidad en la construcción de una sociedad justa y equitativa.
+a) Ejercer la ciudadanía democrática, desde una perspectiva global, y adquirir una conciencia cívica responsable, inspirada por los valores de la Constitución Española, así como por los derechos humanos, que fomente la corresponsabilidad en la construcción de una sociedad justa y equitativa.
 
-b) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.
+b) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así como las posibles situaciones de violencia.
 
-c) Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.
+c) Fomentar la igualdad efectiva de derechos y oportunidades de mujeres y hombres, analizar y valorar críticamente las desigualdades existentes, así como el reconocimiento y enseñanza del papel de las mujeres en la historia e impulsar la igualdad real y la no discriminación por razón de nacimiento, sexo, origen racial o étnico, discapacidad, edad, enfermedad, religión o creencias, orientación sexual o identidad de género o cualquier otra condición o circunstancia personal o social.
 
-d) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.
+d) Afianzar los hábitos de lectura, estudio y disciplina, como condiciones necesarias para el eficaz aprovechamiento del aprendizaje, y como medio de desarrollo personal.
 
-e) Dominar, tanto en su expresión oral como escrita, la lengua castellana y, en su caso, la lengua cooficial de su comunidad autónoma.
+e) Dominar, tanto en su expresión oral como escrita, la lengua castellana y, en su caso, la lengua cooficial de su comunidad autónoma.
 
-f) Expresarse con fluidez y corrección en una o más lenguas extranjeras.
+f) Expresarse con fluidez y corrección en una o más lenguas extranjeras.
 
-g) Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.
+g) Utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación.
 
-h) Conocer y valorar críticamente las realidades del mundo contemporáneo, sus antecedentes históricos y los principales factores de su evolución. Participar de forma solidaria en el desarrollo y mejora de su entorno social.
+h) Conocer y valorar críticamente las realidades del mundo contemporáneo, sus antecedentes históricos y los principales factores de su evolución. Participar de forma solidaria en el desarrollo y mejora de su entorno social.
 
-i) Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.
+i) Acceder a los conocimientos científicos y tecnológicos fundamentales y dominar las habilidades básicas propias de la modalidad elegida.
 
-j) Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.
+j) Comprender los elementos y procedimientos fundamentales de la investigación y de los métodos científicos. Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida, así como afianzar la sensibilidad y el respeto hacia el medio ambiente.
 
-k) Afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.
+k) Afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.
 
-l) Desarrollar la sensibilidad artística y literaria, así como el criterio estético, como fuentes de formación y enriquecimiento cultural.
+l) Desarrollar la sensibilidad artística y literaria, así como el criterio estético, como fuentes de formación y enriquecimiento cultural.
 
-m) Utilizar la educación física y el deporte para favorecer el desarrollo personal y social. Afianzar los hábitos de actividades físico-deportivas para favorecer el bienestar físico y mental, así como medio de desarrollo personal y social.
+m) Utilizar la educación física y el deporte para favorecer el desarrollo personal y social. Afianzar los hábitos de actividades físico-deportivas para favorecer el bienestar físico y mental, así como medio de desarrollo personal y social.
 
-n) Afianzar actitudes de respeto y prevención en el ámbito de la movilidad segura y saludable.
+n) Afianzar actitudes de respeto y prevención en el ámbito de la movilidad segura y saludable.
 
-o) Fomentar una actitud responsable y comprometida en la lucha contra el cambio climático y en la defensa del desarrollo sostenible.
+o) Fomentar una actitud responsable y comprometida en la lucha contra el cambio climático y en la defensa del desarrollo sostenible.
 
-#### Artículo 8. Organización general.
+#### Artículo 8. Organización general.
 
 1. Las modalidades del Bachillerato que podrán ofrecer las administraciones educativas y, en su caso, los centros docentes serán las siguientes:
 
-a) Artes.
+a) Artes.
 
-b) Ciencias y Tecnología.
+b) Ciencias y Tecnología.
 
-c) General.
+c) General.
 
-d) Humanidades y Ciencias Sociales.
+d) Humanidades y Ciencias Sociales.
 
 2. La modalidad de Artes se organizará en dos vías, referida una de ellas a Artes Plásticas, Imagen y Diseño; y la otra, a Música y Artes Escénicas.
 
@@ -221,205 +214,205 @@ d) Humanidades y Ciencias Sociales.
 
 4. Si la oferta de vías de la modalidad de Artes en un mismo centro quedase limitada por razones organizativas, lo regulado en el apartado anterior deberá entenderse aplicable a las materias que integran la vía ofertada.
 
-#### Artículo 9. Materias comunes.
+#### Artículo 9. Materias comunes.
 
 1. Las materias de primer curso comunes a todas las modalidades de Bachillerato serán las siguientes:
 
-a) Educación Física.
+a) Educación Física.
 
-b) Filosofía.
+b) Filosofía.
 
-c) Lengua Castellana y Literatura I y, si la hubiere, Lengua Cooficial y Literatura I.
+c) Lengua Castellana y Literatura I y, si la hubiere, Lengua Cooficial y Literatura I.
 
-d) Lengua Extranjera I.
+d) Lengua Extranjera I.
 
 2. Las materias comunes de segundo curso serán las siguientes:.
 
-a) Historia de España.
+a) Historia de España.
 
-b) Historia de la Filosofía.
+b) Historia de la Filosofía.
 
-c) Lengua Castellana y Literatura II y, si la hubiere, Lengua Cooficial y Literatura II.
+c) Lengua Castellana y Literatura II y, si la hubiere, Lengua Cooficial y Literatura II.
 
-d) Lengua Extranjera II.
+d) Lengua Extranjera II.
 
-#### Artículo 10. Materias específicas de la modalidad de Artes.
+#### Artículo 10. Materias específicas de la modalidad de Artes.
 
 1. El alumnado que opte por la modalidad de Artes deberá elegir entre la vía de Artes Plásticas, Imagen y Diseño y la vía de Música y Artes Escénicas.
 
 2. En primero, el alumnado de la vía de Artes Plásticas, Imagen y Diseño cursará Dibujo Artístico I y otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Cultura Audiovisual.
+a) Cultura Audiovisual.
 
-b) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I.
+b) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I.
 
-c) Proyectos Artísticos.
+c) Proyectos Artísticos.
 
-d) Volumen.
+d) Volumen.
 
 3. En segundo, el alumnado de la vía de Artes Plásticas, Imagen y Diseño cursará Dibujo Artístico II y otras dos materias de modalidad, que elegirá de entre las siguientes:.
 
-a) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II.
+a) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II.
 
-b) Diseño.
+b) Diseño.
 
-c) Fundamentos Artísticos.
+c) Fundamentos Artísticos.
 
-d) Técnicas de Expresión Gráfico-plástica.
+d) Técnicas de Expresión Gráfico-plástica.
 
 4. Por su parte, el alumnado de la vía de Música y Artes Escénicas cursará, en primero, a su elección, Análisis Musical I o Artes Escénicas I, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Análisis Musical I.
+a) Análisis Musical I.
 
-b) Artes Escénicas I.
+b) Artes Escénicas I.
 
-c) Coro y Técnica Vocal I.
+c) Coro y Técnica Vocal I.
 
-d) Cultura Audiovisual.
+d) Cultura Audiovisual.
 
-e) Lenguaje y Práctica Musical.
+e) Lenguaje y Práctica Musical.
 
 5. En segundo, el alumnado de la vía de Música y Artes Escénicas cursará a su elección Análisis Musical II o Artes Escénicas II, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Análisis Musical II.
+a) Análisis Musical II.
 
-b) Artes Escénicas II.
+b) Artes Escénicas II.
 
-c) Coro y Técnica Vocal II.
+c) Coro y Técnica Vocal II.
 
-d) Historia de la Música y de la Danza.
+d) Historia de la Música y de la Danza.
 
-e) Literatura Dramática.
+e) Literatura Dramática.
 
-#### Artículo 11. Materias específicas de la modalidad de Ciencias y Tecnología.
+#### Artículo 11. Materias específicas de la modalidad de Ciencias y Tecnología.
 
 1. El alumnado que opte por la modalidad de Ciencias y Tecnología cursará, en primero, Matemáticas I, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Biología, Geología y Ciencias Ambientales.
+a) Biología, Geología y Ciencias Ambientales.
 
-b) Dibujo Técnico I.
+b) Dibujo Técnico I.
 
-c) Física y Química.
+c) Física y Química.
 
-d) Tecnología e Ingeniería I.
+d) Tecnología e Ingeniería I.
 
 2. Igualmente, en segundo, el alumnado cursará a su elección Matemáticas II o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Biología.
+a) Biología.
 
-b) Dibujo Técnico II.
+b) Dibujo Técnico II.
 
-c) Física.
+c) Física.
 
-d) Geología y Ciencias Ambientales.
+d) Geología y Ciencias Ambientales.
 
-e) Química.
+e) Química.
 
-f) Tecnología e Ingeniería II.
+f) Tecnología e Ingeniería II.
 
-#### Artículo 12. Materias específicas de la modalidad General.
+#### Artículo 12. Materias específicas de la modalidad General.
 
 1. El alumnado que opte por la modalidad General cursará, en primero, Matemáticas Generales y otras dos materias que elegirá de entre todas las materias de modalidad de primer curso que se oferten en el centro. Dicha oferta incluirá obligatoriamente la materia de Economía, Emprendimiento y Actividad Empresarial específica de esta modalidad.
 
 2. Igualmente, en segundo, el alumnado cursará Ciencias Generales y otras dos materias que elegirá de entre todas las materias de modalidad de segundo curso que se oferten en el centro. Dicha oferta incluirá obligatoriamente la materia de Movimientos Culturales y Artísticos específica de esta modalidad.
 
-#### Artículo 13. Materias específicas de la modalidad de Humanidades y Ciencias Sociales.
+#### Artículo 13. Materias específicas de la modalidad de Humanidades y Ciencias Sociales.
 
 1. El alumnado que opte por la modalidad de Humanidades y Ciencias Sociales cursará, en primero, a su elección, Latín I o Matemáticas Aplicadas a las Ciencias Sociales I, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Economía.
+a) Economía.
 
-b) Griego I.
+b) Griego I.
 
-c) Historia del Mundo Contemporáneo.
+c) Historia del Mundo Contemporáneo.
 
-d) Latín I.
+d) Latín I.
 
-e) Literatura Universal.
+e) Literatura Universal.
 
-f) Matemáticas Aplicadas a las Ciencias Sociales I.
+f) Matemáticas Aplicadas a las Ciencias Sociales I.
 
 2. Igualmente, en segundo, el alumnado cursará a su elección Latín II o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de modalidad que elegirá de entre las siguientes:
 
-a) Empresa y Diseño de Modelos de Negocio.
+a) Empresa y Diseño de Modelos de Negocio.
 
-b) Geografía.
+b) Geografía.
 
-c) Griego II.
+c) Griego II.
 
-d) Historia del Arte.
+d) Historia del Arte.
 
-e) Latín II.
+e) Latín II.
 
-f) Matemáticas Aplicadas a las Ciencias Sociales II.
+f) Matemáticas Aplicadas a las Ciencias Sociales II.
 
-#### Artículo 14. Materias optativas.
+#### Artículo 14. Materias optativas.
 
 1. Corresponde a las administraciones educativas la regulación de la oferta de las materias optativas, que deberá incluir, al menos, una segunda lengua extranjera.
 
 2. Los centros podrán hacer propuestas de otras optativas propias en el marco de lo dispuesto por la administración educativa correspondiente.
 
-#### Artículo 15. Organización del Bachillerato en tres años académicos.
+#### Artículo 15. Organización del Bachillerato en tres años académicos.
 
-1. Conforme a lo previsto en el artículo 32.3 de la Ley Orgánica 2/2006, de 3 de mayo, las administraciones educativas dispondrán las medidas que posibiliten que un alumno o alumna realice el Bachillerato en tres años académicos, en régimen ordinario, siempre que sus circunstancias personales, permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
+1. Conforme a lo previsto en el artículo 32.3 de la Ley Orgánica 2/2006, de 3 de mayo, las administraciones educativas dispondrán las medidas que posibiliten que un alumno o alumna realice el Bachillerato en tres años académicos, en régimen ordinario, siempre que sus circunstancias personales, permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
 
 2. Podrán acogerse a esta medida quienes se encuentren en alguna de las siguientes circunstancias:
 
-a) que cursen la etapa de manera simultánea a las Enseñanzas Profesionales de Música o de Danza.
+a) Que cursen la etapa de manera simultánea a las Enseñanzas Profesionales de Música o de Danza.
 
-b) que acrediten la consideración de deportista de alto nivel o de alto rendimiento.
+b) Que acrediten la consideración de deportista de alto nivel o de alto rendimiento.
 
-c) que requieran una atención educativa diferente a la ordinaria por presentar alguna necesidad específica de apoyo educativo.
+c) Que requieran una atención educativa diferente a la ordinaria por presentar alguna necesidad específica de apoyo educativo.
 
-d) que aleguen otras circunstancias que, a juicio de la correspondiente administración educativa y en los términos que esta haya dispuesto, justifiquen la aplicación de esta medida.
+d) Que aleguen otras circunstancias que, a juicio de la correspondiente administración educativa y en los términos que esta haya dispuesto, justifiquen la aplicación de esta medida.
 
 3. Las administraciones educativas determinarán para su ámbito territorial la distribución que se hará de las materias que componen el Bachillerato, garantizando la adecuada planificación de la oferta de materias entre las que existe prelación, conforme a lo dispuesto en el anexo V.
 
-#### Artículo 16. Competencias clave.
+#### Artículo 16. Competencias clave.
 
 1. A efectos de este real decreto, las competencias clave del currículo son las siguientes:
 
-a) Competencia en comunicación lingüística.
+a) Competencia en comunicación lingüística.
 
-b) Competencia plurilingüe.
+b) Competencia plurilingüe.
 
-c) Competencia matemática y competencia en ciencia, tecnología e ingeniería.
+c) Competencia matemática y competencia en ciencia, tecnología e ingeniería.
 
-d) Competencia digital.
+d) Competencia digital.
 
-e) Competencia personal, social y de aprender a aprender.
+e) Competencia personal, social y de aprender a aprender.
 
-f) Competencia ciudadana.
+f) Competencia ciudadana.
 
-g) Competencia emprendedora.
+g) Competencia emprendedora.
 
-h) Competencia en conciencia y expresión culturales.
+h) Competencia en conciencia y expresión culturales.
 
 2. En el anexo I se definen cada una de las competencias clave, así como los descriptores operativos del grado de adquisición de las mismas previsto al finalizar la etapa.
 
 3. Las enseñanzas mínimas que establece este real decreto tienen por objeto garantizar el desarrollo de las competencias clave previsto en el anexo I. Los currículos establecidos por las administraciones educativas y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán, asimismo, como referente los descriptores operativos que se detallan en el mismo.
 
-#### Artículo 17. Competencias específicas, criterios de evaluación y saberes básicos.
+#### Artículo 17. Competencias específicas, criterios de evaluación y saberes básicos.
 
 1. En el anexo II se fijan, para cada materia, las competencias específicas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada curso.
 
 2. Para la adquisición y el desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que dispongan las administraciones educativas. Con el fin de facilitar al profesorado su propia práctica se enuncian en el anexo III orientaciones para su diseño.
 
-#### Artículo 18. Currículo.
+#### Artículo 18. Currículo.
 
 1. El conjunto de objetivos, competencias, contenidos enunciados en forma de saberes básicos, métodos pedagógicos y criterios de evaluación del Bachillerato constituyen el currículo de esta etapa.
 
-2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas del Bachillerato a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas del Bachillerato a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo del Bachillerato, del que formarán parte en todo caso las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para las comunidades autónomas que no tengan lengua cooficial y el 50 por ciento para aquellas que la tengan.
+3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo del Bachillerato, del que formarán parte en todo caso las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para las comunidades autónomas que no tengan lengua cooficial y el 50 por ciento para aquellas que la tengan.
 
 4. Los centros docentes, en el uso de su autonomía, desarrollarán y completarán, en su caso, el currículo del Bachillerato establecido por las administraciones educativas, concreción que formará parte de su proyecto educativo, que impulsará y desarrollará los principios, objetivos y metodología propios de un aprendizaje competencial orientado al ejercicio de una ciudadanía activa.
 
-#### Artículo 19. Horario.
+#### Artículo 19. Horario.
 
 En el anexo IV se establece, para las materias comunes y de modalidad del Bachillerato, el horario escolar que corresponde a las enseñanzas mínimas.
 
-#### Artículo 20. Evaluación.
+#### Artículo 20. Evaluación.
 
 1. La evaluación del aprendizaje del alumnado será continua y diferenciada según las distintas materias.
 
@@ -433,7 +426,7 @@ En el anexo IV se establece, para las materias comunes y de modalidad del Bachil
 
 6. Se promoverá el uso generalizado de instrumentos de evaluación variados, diversos, flexibles y adaptados a las distintas situaciones de aprendizaje que permitan la valoración objetiva de todo el alumnado, y que garanticen, asimismo, que las condiciones de realización de los procesos asociados a la evaluación se adaptan a las necesidades del alumnado con necesidad específica de apoyo educativo.
 
-#### Artículo 21. Promoción.
+#### Artículo 21. Promoción.
 
 1. Los alumnos y alumnas promocionarán de primero a segundo de Bachillerato cuando hayan superado las materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo caso, deberán matricularse en segundo curso de las materias no superadas de primero, que tendrán la consideración de materias pendientes. Los centros educativos deberán organizar las consiguientes actividades de recuperación y la evaluación de las materias pendientes en el marco organizativo que establezcan las administraciones educativas.
 
@@ -445,7 +438,7 @@ No obstante, dentro de una misma modalidad, el alumnado podrá matricularse de l
 
 4. Las administraciones educativas establecerán las condiciones en las que un alumno o alumna que haya cursado el primer curso de Bachillerato en una determinada modalidad o vía pueda pasar al segundo en una modalidad o vía distinta.
 
-#### Artículo 22. Título de Bachiller.
+#### Artículo 22. Título de Bachiller.
 
 1. El título de Bachiller acredita el logro de los objetivos establecidos para la etapa y la adquisición de las competencias correspondientes.
 
@@ -453,17 +446,17 @@ No obstante, dentro de una misma modalidad, el alumnado podrá matricularse de l
 
 3. Excepcionalmente, el equipo docente podrá decidir la obtención del título de Bachiller por un alumno o alumna que haya superado todas las materias salvo una, siempre que se cumplan además todas las condiciones siguientes:
 
-a) Que el equipo docente considere que el alumno o alumna ha alcanzado los objetivos y competencias vinculados a ese título.
+a) Que el equipo docente considere que el alumno o alumna ha alcanzado los objetivos y competencias vinculados a ese título.
 
-b) Que no se haya producido una inasistencia continuada y no justificada por parte del alumno o alumna en la materia.
+b) Que no se haya producido una inasistencia continuada y no justificada por parte del alumno o alumna en la materia.
 
-c) Que el alumno o alumna se haya presentado a las pruebas y realizado las actividades necesarias para su evaluación, incluidas las de la convocatoria extraordinaria.
+c) Que el alumno o alumna se haya presentado a las pruebas y realizado las actividades necesarias para su evaluación, incluidas las de la convocatoria extraordinaria.
 
-d) que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco. En este caso, a efectos del cálculo de la calificación final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
+d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco. En este caso, a efectos del cálculo de la calificación final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
 
 4. El título de Bachiller será único y se expedirá con expresión de la modalidad cursada y de la nota media obtenida. Esta se hallará calculando la media aritmética de las calificaciones de todas las materias cursadas redondeada a la centésima. A efectos de dicho cálculo se tendrán en cuenta las materias comunes y optativas, así como las materias específicas de la modalidad por la que se expide el título y, en su caso, la materia de Religión.
 
-#### Artículo 23. Obtención del título de Bachiller desde otras enseñanzas.
+#### Artículo 23. Obtención del título de Bachiller desde otras enseñanzas.
 
 1. El alumnado que tenga el título de Técnico o Técnica en Formación Profesional podrá obtener el título de Bachiller en la modalidad General mediante la superación de las materias comunes.
 
@@ -473,11 +466,11 @@ d) que la media aritmética de las calificaciones obtenidas en todas las mater
 
 4. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la siguiente ponderación:
 
-a) el 60 % de la media de las calificaciones obtenidas en las materias comunes del Bachillerato.
+a) El 60 % de la media de las calificaciones obtenidas en las materias comunes del Bachillerato.
 
-b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se accede a la obtención del título, calculada conforme a lo establecido en los respectivos reales decretos de ordenación de las mismas.
+b) El 40 % de la nota media obtenida en las enseñanzas mediante las que se accede a la obtención del título, calculada conforme a lo establecido en los respectivos reales decretos de ordenación de las mismas.
 
-#### Artículo 24. Tutoría y orientación.
+#### Artículo 24. Tutoría y orientación.
 
 1. En el Bachillerato, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado.
 
@@ -485,9 +478,9 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 
 3. Con el fin de fomentar la igualdad efectiva entre hombres y mujeres, se incorporará la perspectiva de género al ámbito de la orientación educativa y profesional.
 
-4. Los centros deberán informar y orientar al alumnado con el fin de que la elección de las modalidades, vías y materias a las que se refieren los artículos 8, 10, 11, 12, 13 y 14 sea la más adecuada para sus intereses y su orientación formativa posterior.
+4. Los centros deberán informar y orientar al alumnado con el fin de que la elección de las modalidades, vías y materias a las que se refieren los artículos 8, 10, 11, 12, 13 y 14 sea la más adecuada para sus intereses y su orientación formativa posterior.
 
-#### Artículo 25. Atención a las diferencias individuales.
+#### Artículo 25. Atención a las diferencias individuales.
 
 1. Corresponde a las administraciones educativas disponer los medios necesarios para que los alumnos y alumnas que requieran una atención diferente a la ordinaria puedan alcanzar los objetivos establecidos para la etapa y adquirir las competencias correspondientes. La atención a este alumnado se regirá por los principios de normalización e inclusión.
 
@@ -501,9 +494,9 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 
 6. Con objeto de reforzar la inclusión, las administraciones educativas podrán incorporar las lenguas de signos españolas en toda la etapa.
 
-#### Artículo 26. Autonomía de los centros.
+#### Artículo 26. Autonomía de los centros.
 
-1. Al establecer el currículo de Bachillerato, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan, favorecerán el trabajo en equipo del profesorado y estimularán su actividad investigadora a partir de la práctica docente.
+1. Al establecer el currículo de Bachillerato, las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan, favorecerán el trabajo en equipo del profesorado y estimularán su actividad investigadora a partir de la práctica docente.
 
 2. Corresponde a las administraciones educativas contribuir al desarrollo y adaptación del currículo por parte de los centros, favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y alumnas, y del profesorado, con el fin de adecuarlo a sus diferentes realidades educativas bajo los principios del Diseño Universal para el Aprendizaje.
 
@@ -511,33 +504,33 @@ b) el 40 % de la nota media obtenida en las enseñanzas mediante las que se
 
 4. En el ejercicio de su autonomía, los centros podrán adoptar experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, formas de organización, normas de convivencia, ampliación del calendario escolar o del horario lectivo de materias, en los términos que establezcan las administraciones educativas y dentro de las posibilidades que permita la normativa aplicable, incluida la laboral, sin que, en ningún caso, suponga discriminación de ningún tipo, ni se impongan aportaciones a las familias o a los tutores y tutoras legales, ni exigencias para las administraciones educativas.
 
-#### Artículo 27. Derecho del alumnado a una evaluación objetiva.
+#### Artículo 27. Derecho del alumnado a una evaluación objetiva.
 
 Las administraciones educativas garantizarán el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos, que, en todo caso, atenderán al carácter continuo y diferenciado según las distintas materias, de la evaluación en esta etapa.
 
-#### Artículo 28. Participación y derecho a la información de padres, madres, tutores o tutoras legales y alumnado mayor de edad.
+#### Artículo 28. Participación y derecho a la información de padres, madres, tutores o tutoras legales y alumnado mayor de edad.
 
 1. Cuando el alumnado sea menor de edad, los padres, madres, tutores o tutoras legales deberán participar y apoyar la evolución de su proceso educativo, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso.
 
-2. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a la parte de los documentos oficiales de evaluación referida al alumno o alumna, y a las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
+2. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a la parte de los documentos oficiales de evaluación referida al alumno o alumna, y a las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
 
 3. Los derechos referidos en el apartado anterior se hacen también extensivos al alumnado mayor de edad, sin perjuicio de que sus padres, madres, tutores o tutoras legales puedan hacerlos igualmente efectivos si justifican el interés legítimo.
 
-#### Artículo 29. Documentos e informes de evaluación.
+#### Artículo 29. Documentos e informes de evaluación.
 
 1. En Bachillerato, los documentos oficiales de evaluación son las actas de evaluación, el expediente académico, el historial académico y, en su caso, el informe personal por traslado.
 
 2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
-3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+3. Los documentos oficiales de evaluación deberán recoger siempre la norma de la administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-#### Artículo 30. Actas de evaluación.
+#### Artículo 30. Actas de evaluación.
 
 1. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán tras la finalización del período lectivo después de la convocatoria ordinaria, y tras la convocatoria extraordinaria. Comprenderán la relación nominal del alumnado que compone el grupo junto con los resultados de la evaluación de las materias y las decisiones sobre promoción y permanencia.
 
 2. Los resultados de la evaluación reflejados en estas actas se expresarán mediante calificaciones numéricas de cero a diez sin decimales, y se considerarán negativas las calificaciones inferiores a cinco. Cuando el alumnado no se presente a las pruebas extraordinarias se consignará No Presentado (NP).
 
-3. En las actas de segundo curso figurará, además, el alumnado con materias no superadas del curso anterior y se recogerá la propuesta de expedición del título de Bachiller, junto con la nota media de la etapa, que se calculará según lo establecido en el artículo 22.4. En este curso se extenderán actas de evaluación de materias pendientes al término del período lectivo ordinario y de la convocatoria de la prueba extraordinaria.
+3. En las actas de segundo curso figurará, además, el alumnado con materias no superadas del curso anterior y se recogerá la propuesta de expedición del título de Bachiller, junto con la nota media de la etapa, que se calculará según lo establecido en el artículo 22.4. En este curso se extenderán actas de evaluación de materias pendientes al término del período lectivo ordinario y de la convocatoria de la prueba extraordinaria.
 
 4. Para la aplicación de lo previsto en el apartado quinto de la disposición adicional primera, se hará constar además una nota media normalizada, calculada sin tomar en cuenta la calificación de la materia de Religión.
 
@@ -545,39 +538,39 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 6. Las actas de evaluación serán firmadas por todo el profesorado del grupo y llevarán el visto bueno de la persona titular de la dirección del centro.
 
-#### Artículo 31. Expediente académico.
+#### Artículo 31. Expediente académico.
 
-1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá al comienzo de la etapa o, en su caso, en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las materias en las diferentes convocatorias, las decisiones de promoción y titulación y, si existieran, las medidas de apoyo educativo o las adaptaciones que se hayan adoptado para el alumno o alumna. Igualmente, se hará constar la nota media obtenida en la etapa, así como la media normalizada a la que se refiere el apartado 4 del artículo anterior.
+1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá al comienzo de la etapa o, en su caso, en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las materias en las diferentes convocatorias, las decisiones de promoción y titulación y, si existieran, las medidas de apoyo educativo o las adaptaciones que se hayan adoptado para el alumno o alumna. Igualmente, se hará constar la nota media obtenida en la etapa, así como la media normalizada a la que se refiere el apartado 4 del artículo anterior.
 
 2. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la Inspección educativa.
 
-#### Artículo 32. Historial académico.
+#### Artículo 32. Historial académico.
 
 1. El historial académico llevará el visto bueno del director o directora del centro y tendrá valor acreditativo de los estudios realizados. Como mínimo recogerá los datos identificativos del alumno o alumna, las materias cursadas en cada uno de los años de escolarización, las medidas de apoyo educativo aplicadas, los resultados de la evaluación en cada convocatoria, las decisiones sobre promoción y permanencia, la nota media del Bachillerato y la nota media normalizada, así como la información relativa a los cambios de centro y las fechas en que se han producido los diferentes hitos.
 
 2. Tras finalizar la etapa, el historial académico de Bachillerato se entregará al alumno o alumna o, en caso de que fuese menor de edad, a sus padres, madres, tutores o tutoras legales.
 
-#### Artículo 33. Informe personal por traslado.
+#### Artículo 33. Informe personal por traslado.
 
 1. En el caso de que el alumno o alumna se traslade a otro centro antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
 
 2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas de apoyo o adaptaciones, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o alumna.
 
-#### Artículo 34. Autenticidad, seguridad y confidencialidad.
+#### Artículo 34. Autenticidad, seguridad y confidencialidad.
 
 1. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
 
-2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
+2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
 
-3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, y por la Ley 39/2015, de 1 de octubre, así como por la normativa que las desarrolla.
+3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, y por la Ley 39/2015, de 1 de octubre, así como por la normativa que las desarrolla.
 
-4. El expediente electrónico del alumnado estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
+4. El expediente electrónico del alumnado estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
-5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumnado enumerados en el presente artículo, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que, junto con otros, garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
+5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumnado enumerados en el presente artículo, de acuerdo con lo previsto en el artículo 111.bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que, junto con otros, garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
 
-#### Disposición adicional primera. Enseñanzas de religión.
+#### Disposición adicional primera. Enseñanzas de religión.
 
-1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
 
 2. Las administraciones educativas garantizarán que, al inicio del curso, los alumnos y alumnas mayores de edad y los padres, madres, tutores o tutoras del alumnado menor de edad puedan manifestar su voluntad de recibir o no enseñanzas de religión.
 
@@ -587,85 +580,87 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 5. Con el fin de garantizar el principio de igualdad y la libre concurrencia, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en la obtención de la nota media a efectos de acceso a otros estudios ni en las convocatorias para la obtención de becas y ayudas al estudio en que deban entrar en concurrencia los expedientes académicos.
 
-#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
+#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán autorizar que una parte de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en este real decreto. En este caso, procurarán que a lo largo de ambos cursos los alumnos y alumnas adquieran la terminología propia de las materias en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
-2. El hecho de que los centros públicos y privados concertados impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El hecho de que los centros públicos y privados concertados impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-#### Disposición adicional tercera. Educación de personas adultas.
+#### Disposición adicional tercera. Educación de personas adultas.
 
 1. Corresponde a las administraciones educativas adoptar las medidas oportunas para que las personas adultas dispongan de una oferta específica de estos estudios organizada de acuerdo con sus características.
 
 2. Igualmente, corresponde a las administraciones educativas organizar la oferta pública de educación a distancia con el fin de dar una respuesta adecuada a la formación permanente de las personas adultas. Esta oferta incluirá el uso de las tecnologías de la información y la comunicación.
 
-3. Con el fin de adaptar la oferta del Bachillerato al principio de flexibilidad que rige la educación de personas adultas, en la oferta que realicen las administraciones educativas para dichas personas adultas no será de aplicación lo dispuesto en los apartados 1 y 2 del artículo 21.
+3. Con el fin de adaptar la oferta del Bachillerato al principio de flexibilidad que rige la educación de personas adultas, en la oferta que realicen las administraciones educativas para dichas personas adultas no será de aplicación lo dispuesto en los apartados 1 y 2 del artículo 21.
 
 4. Los alumnos y alumnas que cursen Bachillerato en el marco de la oferta específica establecida por las administraciones educativas para personas adultas obtendrán el título siempre que hayan obtenido evaluación positiva en todas las materias de los dos cursos de Bachillerato, o en todas las materias salvo en una. En este último caso, se deberán reunir las condiciones siguientes:
 
-a) Que el equipo docente considere que el alumno o alumna ha alcanzado los objetivos y competencias vinculados a ese título.
+a) Que el equipo docente considere que el alumno o alumna ha alcanzado los objetivos y competencias vinculados a ese título.
 
-b) Que no se haya producido un abandono de la materia por parte del alumno o alumna, conforme a los criterios establecidos por parte de los centros en el marco de lo dispuesto por las administraciones educativas.
+b) Que no se haya producido un abandono de la materia por parte del alumno o alumna, conforme a los criterios establecidos por parte de los centros en el marco de lo dispuesto por las administraciones educativas.
 
-c) Que el alumno o alumna se haya presentado a las pruebas y realizado las actividades necesarias para su evaluación, incluidas las de la convocatoria extraordinaria.
+c) Que el alumno o alumna se haya presentado a las pruebas y realizado las actividades necesarias para su evaluación, incluidas las de la convocatoria extraordinaria.
 
-d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco.
+d) Que la media aritmética de las calificaciones obtenidas en todas las materias de la etapa sea igual o superior a cinco.
 
-5. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 23 podrá obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
+5. Asimismo, el alumnado que curse estas enseñanzas y se encuentre en posesión de alguno de los títulos a los que se refiere el artículo 23 podrá.
+
+obtener el título de Bachiller mediante el procedimiento previsto en el citado artículo.
 
 6. Corresponderá a las administraciones educativas la organización de pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos y competencias del Bachillerato. Dichas pruebas, que deberán contar con las medidas de accesibilidad universal y las adaptaciones que precise todo el alumnado con necesidades educativas especiales, se organizarán de manera diferenciada según las modalidades del Bachillerato.
 
-#### Disposición adicional cuarta. Obtención de nuevas modalidades de Bachillerato.
+#### Disposición adicional cuarta. Obtención de nuevas modalidades de Bachillerato.
 
 Quienes hayan obtenido el título de Bachiller podrán obtener cualquiera de las otras modalidades mediante la superación de las materias de modalidad de primer y segundo curso que, conforme a lo previsto en este real decreto, se requieren para la modalidad elegida.
 
-#### Disposición adicional quinta. Simultaneidad de estudios.
+#### Disposición adicional quinta. Simultaneidad de estudios.
 
 En el marco de lo establecido en este real decreto, las administraciones educativas facilitarán la posibilidad de cursar simultáneamente las enseñanzas artísticas profesionales y la educación secundaria. Con este fin, se podrán adoptar las oportunas medidas de organización y de ordenación académica que incluirán, entre otras, las convalidaciones y la creación de centros integrados.
 
-#### Disposición transitoria primera. Aplicabilidad del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
+#### Disposición transitoria primera. Aplicabilidad del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 
-1. Durante el curso académico 2022-2023, seguirá siendo de aplicación para el segundo curso de Bachillerato lo establecido en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos a dicho real decreto tienen carácter meramente orientativo.
+1. Durante el curso académico 2022-2023, seguirá siendo de aplicación para el segundo curso de Bachillerato lo establecido en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos a dicho real decreto tienen carácter meramente orientativo.
 
-2. Asimismo, las pruebas que hasta el inicio del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Bachiller se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
+2. Asimismo, las pruebas que hasta el inicio del curso 2023-2024 realicen las administraciones educativas para la obtención directa del título de Bachiller se organizarán basándose en la configuración curricular desarrollada a partir del citado real decreto.
 
-#### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+#### Disposición transitoria segunda. Aplicabilidad del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso de Bachillerato lo dispuesto en los capítulos I y V del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+En el curso escolar 2022-2023, seguirá siendo de aplicación para segundo curso de Bachillerato lo dispuesto en los capítulos I y V del Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 1105/2014, de 26 de febrero, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
+1. Queda derogado el Real Decreto 1105/2014, de 26 de febrero, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 
-2. Queda derogado el Real Decreto 562/2017, de 2 de junio, por el que se regulan las condiciones para la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller, de acuerdo con lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa.
+2. Queda derogado el Real Decreto 562/2017, de 2 de junio, por el que se regulan las condiciones para la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller, de acuerdo con lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa.
 
-3. Asimismo, queda derogado el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+3. Asimismo, queda derogado el Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-4. Queda derogada también la Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
+4. Queda derogada también la Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 5. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-#### Disposición final primera. Prueba de acceso a la universidad.
+#### Disposición final primera. Prueba de acceso a la universidad.
 
-El Gobierno, previa consulta a las comunidades autónomas, a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado, establecerá las características básicas de la prueba de acceso a la universidad que establece el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo.
+El Gobierno, previa consulta a las comunidades autónomas, a la Conferencia General de Política Universitaria, y con informe previo del Consejo de Universidades y del Consejo Escolar del Estado, establecerá las características básicas de la prueba de acceso a la universidad que establece el artículo 38 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-#### Disposición final segunda. Título competencial.
+#### Disposición final segunda. Título competencial.
 
-El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 El anexo III carece del carácter de normativa básica.
 
-#### Disposición final tercera. Aplicación.
+#### Disposición final tercera. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
 
-#### Disposición final cuarta. Calendario de implantación.
+#### Disposición final cuarta. Calendario de implantación.
 
-Lo dispuesto en este real decreto se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
+Lo dispuesto en este real decreto se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
 
-#### Disposición final quinta. Entrada en vigor.
+#### Disposición final quinta. Entrada en vigor.
 
-Dado en Madrid, el 5 de abril de 2022.
+Dado en Madrid, el 5 de abril de 2022.
 
 FELIPE R.
 
@@ -673,7 +668,7 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA DEL PILAR ALEGRÍA CONTINENTE
 
-ANEXO I
+## Anexo I
 
 Competencias clave en el Bachillerato
 
@@ -697,7 +692,7 @@ Para cumplir estos fines, es preciso que esta etapa contribuya a que el alumnado
 
 − Competencia en conciencia y expresión culturales.
 
-Estas competencias clave son la adaptación al sistema educativo español de las establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. Esta adaptación responde a la necesidad de vincular dichas competencias a los retos y desafíos del siglo XXI, así como al contexto de la educación formal y, más concretamente, a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Estas competencias clave son la adaptación al sistema educativo español de las establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. Esta adaptación responde a la necesidad de vincular dichas competencias a los retos y desafíos del siglo XXI, así como al contexto de la educación formal y, más concretamente, a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 Si bien la Recomendación se refiere al aprendizaje permanente, que debe producirse a lo largo de toda la vida, el Perfil de salida remite al momento preciso del final de la enseñanza básica. Del mismo modo, y dado que las competencias clave se adquieren necesariamente de forma secuencial y progresiva a lo largo de toda la vida, resulta necesario adecuar las mismas a ese otro momento del desarrollo personal, social y formativo del alumnado que supone el final del Bachillerato. Consecuentemente, en el presente anexo, se definen para cada una de las competencias clave un conjunto de descriptores operativos, que dan continuidad, profundizan y amplían los niveles de desempeño previstos al final de la enseñanza básica, con el fin de adaptarlos a las necesidades y fines de esta etapa postobligatoria.
 
@@ -761,7 +756,7 @@ CPSAA3.2 Distribuye en un grupo las tareas, recursos y responsabilidades de ma
 
 Competencia ciudadana (CC)
 
-La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
+La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
 
 Descriptores operativos
 
@@ -785,7 +780,7 @@ CCEC4.1 Selecciona e integra con creatividad diversos medios y soportes, así 
 
 CCEC4.2 Planifica, adapta y organiza sus conocimientos, destrezas y actitudes para responder con creatividad y eficacia a los desempeños derivados de una producción cultural o artística, individual o colectiva, utilizando diversos lenguajes, códigos, técnicas, herramientas y recursos plásticos, visuales, audiovisuales, musicales, corporales o escénicos, valorando tanto el proceso como el producto final y comprendiendo las oportunidades personales, sociales, inclusivas y económicas que ofrecen.
 
-ANEXO II
+## Anexo II
 
 **MATERIAS DE BACHILLERATO**
 
@@ -867,25 +862,25 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.
 
 1.2 Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados.
 
 2.2 Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.
 
 3.2 Publicar reseñas musicales en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.
 
@@ -893,7 +888,7 @@ Competencia específica 4.
 
 4.3 Utilizar, de forma guiada, las tecnologías digitales en la composición musical.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador.
 
@@ -929,19 +924,19 @@ B. La forma musical.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición.
 
 1.2 Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.
 
 2.2 Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.
 
@@ -949,13 +944,13 @@ Competencia específica 3.
 
 3.3 Publicar críticas musicales y comentarios propios en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.
 
 4.2 Utilizar, de forma eficaz, las tecnologías digitales en la composición musical.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.
 
@@ -1055,31 +1050,31 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
 
 1.3 Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
 
 2.2 Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
 
 3.2 Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.
 
 4.2 Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.
 
@@ -1155,25 +1150,25 @@ E. Recepción en las artes escénicas.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
 
 1.2 Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
 
 2.2 Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
 
 3.2 Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.
 
@@ -1181,7 +1176,7 @@ Competencia específica 4.
 
 4.3 Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Valorar la recepción brindada a un espectáculo determinado, relacionando las características de la obra, el contexto de la puesta en escena y las reacciones del público.
 
@@ -1259,7 +1254,7 @@ La biología es una disciplina cuyos avances se han visto acelerados notablement
 
 Pero el progreso de las ciencias biológicas va mucho más allá de la mera comprensión de los seres vivos. Las aplicaciones de la biología han supuesto una mejora considerable de la calidad de vida humana al permitir, por ejemplo, la prevención y tratamiento de enfermedades que antaño diezmaban a las poblaciones, u otras de nueva aparición, como la COVID-19, para la cual se han desarrollado terapias y vacunas a una velocidad sin precedentes. Además, existen otras muchas aplicaciones de las ciencias biológicas dentro del campo de la ingeniería genética y la biotecnología, siendo algunas de ellas el origen de importantes controversias. Los grandes avances y descubrimientos de la Biología no solo han posibilitado la mejora de las condiciones de vida de la ciudadanía, sino que al mismo tiempo han generado fuertes impactos de distinta naturaleza (sociales, éticas, económicas, etc.) que no se pueden obviar y también deber ser objeto de análisis durante el desarrollo de la materia.
 
-En 2.º de Bachillerato la madurez del alumnado permite que en la materia de Biología se profundice notablemente en las competencias específicas relacionadas con las ciencias biológicas, a través de unos saberes básicos a los que se les da un enfoque mucho más microscópico y molecular que en las materias de etapas anteriores. La Biología ofrece, por tanto, una formación relativamente avanzada, proporcionando al alumnado los conocimientos y destrezas esenciales para el trabajo científico y el aprendizaje a lo largo de la vida y sienta las bases necesarias para el inicio de estudios superiores o la incorporación al mundo laboral. En última instancia, esta materia contribuye al fortalecimiento del compromiso del alumnado con la sociedad democrática y para su participación en esta.
+En 2.º de Bachillerato la madurez del alumnado permite que en la materia de Biología se profundice notablemente en las competencias específicas relacionadas con las ciencias biológicas, a través de unos saberes básicos a los que se les da un enfoque mucho más microscópico y molecular que en las materias de etapas anteriores. La Biología ofrece, por tanto, una formación relativamente avanzada, proporcionando al alumnado los conocimientos y destrezas esenciales para el trabajo científico y el aprendizaje a lo largo de la vida y sienta las bases necesarias para el inicio de estudios superiores o la incorporación al mundo laboral. En última instancia, esta materia contribuye al fortalecimiento del compromiso del alumnado con la sociedad democrática y para su participación en esta.
 
 La Biología contribuye al desarrollo de las ocho competencias clave y a satisfacer varios de los objetivos de la etapa.
 
@@ -1315,7 +1310,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 Esta competencia específica hace referencia al uso del razonamiento como base para la resolución de problemas. Sin embargo, cabe destacar que, como novedad con respecto a la etapa anterior, se pretende que el alumnado busque nuevas estrategias de resolución cuando las estrategias que tiene adquiridas no sean suficientes. Para ello, será necesario utilizar diferentes herramientas y recursos tecnológicos y mostrar una actitud positiva hacia los retos y las situaciones de incertidumbre y resiliencia para seguir probando nuevas vías de resolución en caso de falta de éxito inicial, o con la intención de mejorar los resultados.
 
-Además, en 2.º de Bachillerato es importante trabajar la iniciativa en el alumnado para que plantee nuevas cuestiones o problemas que puedan resolverse utilizando el razonamiento y otras estrategias.
+Además, en 2.º de Bachillerato es importante trabajar la iniciativa en el alumnado para que plantee nuevas cuestiones o problemas que puedan resolverse utilizando el razonamiento y otras estrategias.
 
 La resolución de problemas es una competencia esencial en la carrera científica, pues las personas dedicadas a la ciencia se enfrentan con frecuencia a grandes retos y contratiempos que hacen tortuoso el camino hacia sus objetivos. Asimismo, esta competencia específica es necesaria en muchos otros contextos de la vida profesional y personal por lo que contribuye a la madurez intelectual y emocional del alumnado y en última instancia a la formación de ciudadanía plenamente integrada y comprometida con la mejora de la sociedad.
 
@@ -1323,7 +1318,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, S
 
 5. Analizar críticamente determinadas acciones relacionadas con la sostenibilidad y la salud, basándose en los fundamentos de la biología molecular, para argumentar acerca de la importancia de adoptar estilos de vida sostenibles y saludables.
 
-Desde la materia de Biología de 2.º de Bachillerato, se pretende transmitir las actitudes y estilos de vida compatibles con el mantenimiento y mejora de la salud y con un modelo de desarrollo sostenible. La novedad de esta materia con respecto a etapas anteriores es su enfoque molecular. Por este motivo, el estudio de la importancia de los ecosistemas y de determinados organismos se abordará desde el conocimiento de las reacciones bioquímicas que realizan y su relevancia a nivel planetario. De esta forma se conectará el mundo molecular con el macroscópico. Esta competencia específica, además, busca que el alumnado tome iniciativas encaminadas a analizar críticamente sus propios hábitos y los de los miembros de la comunidad educativa, basándose en los fundamentos de la biología molecular, y que proponga medidas para el cambio positivo hacia un modo de vida más saludable y sostenible.
+Desde la materia de Biología de 2.º de Bachillerato, se pretende transmitir las actitudes y estilos de vida compatibles con el mantenimiento y mejora de la salud y con un modelo de desarrollo sostenible. La novedad de esta materia con respecto a etapas anteriores es su enfoque molecular. Por este motivo, el estudio de la importancia de los ecosistemas y de determinados organismos se abordará desde el conocimiento de las reacciones bioquímicas que realizan y su relevancia a nivel planetario. De esta forma se conectará el mundo molecular con el macroscópico. Esta competencia específica, además, busca que el alumnado tome iniciativas encaminadas a analizar críticamente sus propios hábitos y los de los miembros de la comunidad educativa, basándose en los fundamentos de la biología molecular, y que proponga medidas para el cambio positivo hacia un modo de vida más saludable y sostenible.
 
 El valor de esta competencia específica radica en la necesidad urgente de que nuestra sociedad adopte un modelo de desarrollo sostenible, que constituye uno de los mayores y más importantes retos a los que se enfrenta la humanidad actualmente. Para poder hacer realidad este ambicioso objetivo es necesario conseguir que la sociedad alcance una comprensión profunda del funcionamiento de los sistemas biológicos para así poder apreciar su valor. De esta forma, se adoptarán estilos de vida y se tomarán actitudes responsables y encaminadas a la conservación de los ecosistemas y la biodiversidad y al ahorro de recursos, que a su vez mejorarán la salud y el bienestar físico y mental humanos a nivel individual y colectivo.
 
@@ -1333,13 +1328,13 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 En el siglo XIX, la primera síntesis de una molécula orgánica en el laboratorio permitió conectar la biología y la química y marcó un cambio de paradigma científico que se fue afianzado en el siglo XX con la descripción del ADN como molécula portadora de la información genética. Los seres vivos pasaron a concebirse como conjuntos de moléculas constituidas por elementos químicos presentes también en la materia inerte. Estos hitos marcaron el nacimiento de la química orgánica, la biología molecular y la bioquímica. En la actualidad, la comprensión de los seres vivos se fundamenta en el estudio de sus características moleculares y las herramientas genéticas o bioquímicas son ampliamente utilizadas en las ciencias biológicas.
 
-El alumnado de 2.º de Bachillerato tiene un mayor grado de madurez para trabajar esta competencia específica. Además, la elección voluntaria de la materia de Biología en esta etapa está probablemente ligada a inquietudes científicas y a la intención de realizar estudios terciarios en el campo biomédico. Por dichos motivos, esta competencia específica es esencial para el alumnado de Bachillerato permitiéndole conectar el mundo molecular con el macroscópico, adquirir una visión global completa de los organismos vivos y desarrollar las destrezas necesarias para formular hipótesis y resolver problemas relacionados con las disciplinas biosanitarias.
+El alumnado de 2.º de Bachillerato tiene un mayor grado de madurez para trabajar esta competencia específica. Además, la elección voluntaria de la materia de Biología en esta etapa está probablemente ligada a inquietudes científicas y a la intención de realizar estudios terciarios en el campo biomédico. Por dichos motivos, esta competencia específica es esencial para el alumnado de Bachillerato permitiéndole conectar el mundo molecular con el macroscópico, adquirir una visión global completa de los organismos vivos y desarrollar las destrezas necesarias para formular hipótesis y resolver problemas relacionados con las disciplinas biosanitarias.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL2, STEM1, STEM2, CD1, CPSAA4, CC4.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar críticamente conceptos y procesos biológicos, seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas u otros).
 
@@ -1347,29 +1342,29 @@ Competencia específica 1.
 
 1.3 Argumentar sobre aspectos relacionados con los saberes de la materia, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
 
 2.2 Contrastar y justificar la veracidad de información relacionada con la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de acuerdo a la interpretación de los resultados obtenidos.
 
 3.2 Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar fenómenos biológicos, a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y los recursos adecuados.
 
 4.2 Analizar críticamente la solución a un problema utilizando los saberes de la materia de Biología y reformular los procedimientos utilizados o las conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Argumentar sobre la importancia de adoptar estilos de vida saludables y compatibles con el desarrollo sostenible, basándose en los principios de la biología molecular y relacionándolos con los procesos macroscópicos.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Explicar las características y procesos vitales de los seres vivos mediante el análisis de sus biomoléculas, de las interacciones bioquímicas entre ellas y de sus reacciones metabólicas.
 
@@ -1483,7 +1478,7 @@ Los saberes básicos son el medio a través del cual se trabajan las competencia
 
 La estrategia recomendada para abordar la enseñanza de Biología, Geología y Ciencias Ambientales, es el enfoque práctico basado en la resolución de problemas y en la realización de proyectos e investigaciones, fomentando tanto el trabajo individual como en equipo. Además, es conveniente conectar esta materia de forma significativa con la realidad del alumnado y con otras áreas de conocimiento en un enfoque interdisciplinar a través de situaciones de aprendizaje o actividades competenciales.
 
-En conclusión, la Biología, Geología y Ciencias Ambientales de 1.º de Bachillerato contribuye, a través de sus competencias específicas y saberes básicos, a un mayor grado de desarrollo de las competencias clave. Su fin último es mejorar la formación científica y la comprensión del mundo natural por parte del alumnado y así reforzar su compromiso por el bien común y sus destrezas para responder a la inestabilidad y al cambio. Con todo ello se busca mejorar su calidad de vida presente y futura para conseguir, a través del sistema educativo, una sociedad más justa equitativa.
+En conclusión, la Biología, Geología y Ciencias Ambientales de 1.º de Bachillerato contribuye, a través de sus competencias específicas y saberes básicos, a un mayor grado de desarrollo de las competencias clave. Su fin último es mejorar la formación científica y la comprensión del mundo natural por parte del alumnado y así reforzar su compromiso por el bien común y sus destrezas para responder a la inestabilidad y al cambio. Con todo ello se busca mejorar su calidad de vida presente y futura para conseguir, a través del sistema educativo, una sociedad más justa equitativa.
 
 Competencias específicas.
 
@@ -1543,7 +1538,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar críticamente conceptos y procesos relacionados con los saberes de la materia, interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas).
 
@@ -1551,7 +1546,7 @@ Competencia específica 1.
 
 1.3 Argumentar sobre aspectos relacionados con los saberes de la materia, defendiendo una postura de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Plantear y resolver cuestiones relacionadas con los saberes de la materia, localizando y citando fuentes adecuadas y seleccionando, organizando y analizando críticamente la información.
 
@@ -1559,7 +1554,7 @@ Competencia específica 2.
 
 2.3 Argumentar sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución e influida por el contexto político y los recursos económicos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Plantear preguntas, realizar predicciones y formular hipótesis que puedan ser respondidas o contrastadas, utilizando métodos científicos y que intenten explicar fenómenos biológicos, geológicos o ambientales.
 
@@ -1571,19 +1566,19 @@ Competencia específica 3.
 
 3.5 Establecer colaboraciones dentro y fuera del centro educativo en las distintas fases del proyecto científico con el fin de trabajar con mayor eficiencia, utilizando las herramientas tecnológicas adecuadas, valorando la importancia de la cooperación en la investigación, respetando la diversidad y favoreciendo la inclusión.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Resolver problemas o dar explicación a procesos biológicos, geológicos o ambientales, utilizando recursos variados como conocimientos propios, datos e información recabados, razonamiento lógico, pensamiento computacional o herramientas digitales.
 
 4.2 Analizar críticamente la solución a un problema sobre fenómenos biológicos, geológicos o ambientales y modificar los procedimientos utilizados o las conclusiones obtenidas si dicha solución no fuese viable o ante nuevos datos aportados o recabados con posterioridad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Analizar las causas y consecuencias ecológicas, sociales y económicas de los principales problemas medioambientales desde una perspectiva individual, local y global, concibiéndolos como grandes retos de la humanidad y basándose en datos científicos y en los saberes de la materia.
 
 5.2 Proponer y poner en práctica hábitos e iniciativas sostenibles y saludables a nivel local y argumentar sobre sus efectos positivos y la urgencia de adoptarlos basándose en los saberes de la materia.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Relacionar los grandes eventos de la historia terrestre con determinados elementos del registro geológico y con los sucesos que ocurren en la actualidad, utilizando los principios geológicos básicos y el razonamiento lógico.
 
@@ -1773,7 +1768,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Plantear y responder cuestiones acerca de procesos observados en el entorno, siguiendo las pautas de las metodologías científicas.
 
@@ -1781,7 +1776,7 @@ Competencia específica 1.
 
 1.3 Comunicar los resultados de un experimento o trabajo científico, utilizando los recursos adecuados y de acuerdo a los principios éticos básicos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos.
 
@@ -1791,25 +1786,25 @@ Competencia específica 2.
 
 2.4 Explicar, utilizando los fundamentos científicos adecuados, los elementos y procesos básicos de la biosfera y la geosfera.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos.
 
 3.2 Adoptar y promover hábitos saludables (dieta equilibrada, higiene, vacunación, uso adecuado de antibióticos, rechazo al consumo de drogas, legales e ilegales, ejercicio físico, higiene del sueño, posturas adecuadas…) y valorar su importancia, utilizando los fundamentos de la fisiología humana.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Resolver problemas relacionados con fenómenos y procesos físicos, químicos, biológicos y geológicos, utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario.
 
 4.2 Analizar críticamente la solución de un problema relacionado con fenómenos y procesos físicos, químicos, biológicos y geológicos, modificando las conclusiones o las estrategias utilizadas si la solución no es viable, o ante nuevos datos aportados.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Reconocer la ciencia como un área de conocimiento global, analizando la interrelación e interdependencia entre cada una de las disciplinas que la forman.
 
 5.2 Reconocer la relevancia de la ciencia en el progreso de la sociedad, valorando el importante papel que juegan las personas en el desempeño de la investigación científica.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Buscar, contrastar y seleccionar información sobre fenómenos y procesos físicos, químicos, biológicos o geológicos en diferentes formatos, utilizando los recursos necesarios, tecnológicos o de otro tipo.
 
@@ -1951,19 +1946,19 @@ Esta competencia específica se conecta con los siguientes descriptores: CD3, CD
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
 
@@ -2021,21 +2016,21 @@ C. Práctica de conjunto.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
 
 1.2 Explicar la relación del texto con la música en diferentes composiciones vocales, analizando el texto y la curva de tensiones musicales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa, precisión técnica y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
 
@@ -2121,7 +2116,7 @@ Llevar a buen término una producción audiovisual es el resultado de un proceso
 
 Por otra parte, el alumnado debe ser consciente de que las herramientas que se le proporcionan para transmitir ideas, opiniones y sentimientos en la creación audiovisual pueden ser empleadas con un mayor o menor rigor ético y formal. Este aspecto se puede desarrollar a partir de la puesta en común de ejemplos escogidos de diversos formatos, géneros y terrenos (como el del periodismo televisivo), y su comparación con los procedimientos de trabajo del alumnado, que, de este modo, debe entender que el efecto buscado en la audiencia nunca puede ponerse por encima de un tratamiento ético y formal de los materiales. Para ello, ha de comprender la sintaxis del medio audiovisual en toda su complejidad, integrando de manera activa y consciente el respeto a la posición del público receptor.
 
-En último término, el uso de aplicaciones y recursos digitales para la grabación, la edición o la difusión de imágenes y sonidos facilita el desarrollo de conocimientos, destrezas y actitudes relacionados con esta materia, generando al mismo tiempo una oportunidad para la reflexión sobre la necesidad de respetar la propiedad intelectual y los derechos de autor. .
+En último término, el uso de aplicaciones y recursos digitales para la grabación, la edición o la difusión de imágenes y sonidos facilita el desarrollo de conocimientos, destrezas y actitudes relacionados con esta materia, generando al mismo tiempo una oportunidad para la reflexión sobre la necesidad de respetar la propiedad intelectual y los derechos de autor. .
 
 Esta competencia específica se conecta con los siguientes descriptores: CD3, CPSAA1.1, CPSAA1.2, CC3, CE3, CCEC3.1, CCEC3.2.
 
@@ -2147,7 +2142,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Explicar los aspectos esenciales de la evolución del lenguaje fotográfico y audiovisual, valorando los cambios que se han producido a lo largo de la historia del medio.
 
@@ -2155,7 +2150,7 @@ Competencia específica 1.
 
 1.3 Proponer interpretaciones personales del patrimonio fotográfico y audiovisual, argumentando desde un criterio estético propio.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Diseñar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, incorporando las experiencias personales y el acercamiento a otros medios de expresión.
 
@@ -2163,7 +2158,7 @@ Competencia específica 2.
 
 2.3 Realizar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, utilizando la propia presencia en la imagen y la banda de sonido y empleando el lenguaje y los medios de producción con rigor ético y formal.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Confeccionar adecuadamente los equipos de trabajo para producciones audiovisuales colectivas, identificando las diferentes habilidades requeridas y repartiendo las tareas con criterio.
 
@@ -2173,7 +2168,7 @@ Competencia específica 3.
 
 3.4 Realizar producciones audiovisuales de manera creativa, utilizando correctamente las técnicas, herramientas y convenciones del lenguaje necesarias, valorando el trabajo colaborativo e intentando conseguir un resultado final ajustado al proyecto preparado previamente.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Justificar la elección del lenguaje, el formato y los medios técnicos en producciones audiovisuales, considerando previamente el tipo de público al que se quieren dirigir.
 
@@ -2275,7 +2270,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 2. Analizar con actitud crítica y reflexiva producciones plásticas de distintas épocas y estilos, reconociendo el lenguaje, las técnicas y procedimientos, la función significativa y la expresividad presentes en ellas, para desarrollar la conciencia visual y el criterio estético y ampliar las posibilidades de disfrute del arte.
 
-Una recepción artística completa requiere posicionarse ante cualquier propuesta cultural, incluidas las contemporáneas, con actitud abierta y con el mayor conocimiento posible del lenguaje, las técnicas y los recursos que son necesarios en todo proceso creativo. Reconocer las dificultades que se plantean a lo largo de dicho proceso contribuye a su valoración. Además, el análisis crítico y reflexivo de la expresividad gráfica y la función significativa presentes en toda producción plástica ayuda al alumnado a utilizar correctamente la terminología específica. Entre los ejemplos considerados se debe incorporar la perspectiva de género y la perspectiva intercultural, con énfasis en el estudio de producciones realizadas por mujeres y por personas de grupos étnicos y poblacionales que sufren la discriminación racial, así como de su representación en el arte.
+Una recepción artística completa requiere posicionarse ante cualquier propuesta cultural, incluidas las contemporáneas, con actitud abierta y con el mayor conocimiento posible del lenguaje, las técnicas y los recursos que son necesarios en todo proceso creativo. Reconocer las dificultades que se plantean a lo largo de dicho proceso contribuye a su valoración. Además, el análisis crítico y reflexivo de la expresividad gráfica y la función significativa presentes en toda producción plástica ayuda al alumnado a utilizar correctamente la terminología específica. Entre los ejemplos considerados se debe incorporar la perspectiva de género y la perspectiva intercultural, con énfasis en el estudio de producciones realizadas por mujeres y por personas de grupos étnicos y poblacionales que sufren la discriminación racial, así como de su representación en el arte.
 
 Es un objetivo ineludible de esta materia conjugar el análisis con el conocimiento, manteniendo una postura abierta y respetuosa ante las dificultades encontradas, favoreciendo de este modo la adquisición de una conciencia visual y, en paralelo, el desarrollo de un criterio estético informado ante cualquier manifestación cultural o artística, aumentando así las posibilidades de disfrute en la recepción artística.
 
@@ -2337,7 +2332,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM2, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar el dibujo como forma de conocimiento, comunicación y expresión, reflexionando con iniciativa sobre su presencia en distintas manifestaciones culturales y artísticas y comparando de forma autónoma su uso en las mismas.
 
@@ -2345,37 +2340,37 @@ Competencia específica 1.
 
 1.3 Relacionar la pluralidad cultural y artística con la libertad de expresión, argumentando la opinión propia de forma activa, comprometida y respetuosa, y analizando los usos del dibujo en diversas manifestaciones artísticas.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar el lenguaje, las técnicas y procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se han producido en las tendencias a lo largo de la historia y utilizando la terminología específica más adecuada.
 
 2.2 Analizar distintas manifestaciones culturales y artísticas, comprendiendo la función que desempeña el dibujo en las mismas y valorando el enriquecimiento que suponen para la sociedad los retos creativos y estéticos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo (punto, línea, forma) y de su sintaxis, mejorando el proceso de creación gráfica.
 
 3.2 Analizar, interpretar y representar gráficamente la realidad mediante bocetos y esbozos, utilizando las herramientas adecuadas y desarrollando una expresión propia, espontánea y creativa.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Aportar una huella y un gesto propios a la realización de dibujos, combinando el uso tradicional de materiales, técnicas y soportes con la manipulación personal.
 
 4.2 Realizar composiciones bidimensionales, figurativas o abstractas, explorando la percepción y ordenación del espacio e indagando sobre la representación del cuerpo humano y su posible utilización como soporte o como herramienta gráfica.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar los referentes artísticos de una obra determinada, describiendo la influencia que ejercen y las conexiones que se establecen.
 
 5.2 Expresar ideas, opiniones, sentimientos y emociones a través de creaciones gráficas y dibujos propios, incorporando, de forma guiada, procedimientos o técnicas utilizados en referentes artísticos de interés para el alumnado.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio, mostrando interés en sus aplicaciones.
 
 6.2 Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior, experimentando con los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Proponer distintas soluciones gráficas a una misma propuesta visual, utilizando diferentes niveles de iconicidad, identificando las herramientas, medios y soportes necesarios y justificando razonada y respetuosamente la elección realizada.
 
@@ -2383,13 +2378,13 @@ Competencia específica 7.
 
 7.3 Investigar de forma activa y abierta sobre la presencia de tecnologías digitales en referentes artísticos contemporáneos, integrándolas en el proceso creativo y expresivo propio.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Representar gráficamente el modelo elegido, seleccionando y abstrayendo sus características más representativas, a partir del estudio y análisis del mismo.
 
 8.2 Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando tanto los diferentes volúmenes como el espacio que completa el conjunto.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Planificar proyectos gráficos colaborativos sencillos, identificando el ámbito disciplinar en que se desarrollarán, y organizando y distribuyendo las tareas de manera adecuada.
 
@@ -2475,7 +2470,7 @@ F. Proyectos gráficos colaborativos.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar la presencia del dibujo en diferentes manifestaciones culturales y artísticas, estableciendo con criterio propio relaciones entre ellas y valorándolo como herramienta de expresión.
 
@@ -2483,19 +2478,19 @@ Competencia específica 1.
 
 1.3 Defender la importancia de la libertad de expresión para la pluralidad cultural y artística, a través de un discurso razonado y argumentado de forma activa, comprometida y respetuosa.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar el lenguaje, las técnicas y procedimientos, la función y la expresividad del dibujo en diferentes producciones plásticas, incluyendo las contemporáneas, utilizando la terminología específica más adecuada e identificando con actitud abierta las intencionalidades de sus mensajes.
 
 2.2 Explicar de forma razonada la elección del dibujo como herramienta de expresión y transmisión de significados en distintas manifestaciones culturales y artísticas.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Recrear gráficamente la realidad mediante bocetos o esbozos, partiendo tanto de la observación detallada como de la propia imaginación y utilizando una expresión personal y espontánea.
 
 3.2 Analizar, interpretar y representar la realidad a partir de obras gráficas que exploren las posibilidades expresivas de formas y texturas, empleando con corrección y destreza los recursos del dibujo.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Usar el dibujo como medio de expresión, experimentando con diferentes materiales, técnicas y soportes, integrándolos en las producciones plásticas propias e incorporando las posibilidades que ofrece el cuerpo humano como recurso.
 
@@ -2503,19 +2498,19 @@ Competencia específica 4.
 
 4.3 Analizar la importancia del cuerpo humano en las propuestas artísticas contemporáneas, estudiando los diferentes materiales, técnicas y soportes utilizados.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Describir los referentes artísticos presentes en obras contemporáneas, explicando la influencia que ejercen y las relaciones que se establecen y reconociendo la importancia de la herencia cultural.
 
 5.2 Expresar ideas, opiniones, sentimientos y emociones propios en la práctica artística, tomando como punto de partida la exploración del entorno y de obras artísticas de interés personal.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Representar gráficamente las formas, sus posibles combinaciones y los espacios negativos y positivos presentes en entornos urbanos o naturales, a partir un estudio de los mismos intencionado y selectivo.
 
 6.2 Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior con un trazo y un gesto personales, usando los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Plantear soluciones alternativas en la representación de la realidad, con diferentes niveles de iconicidad, mostrando un pensamiento divergente, utilizando adecuadamente las herramientas, medios y soportes seleccionados, analizando su posible impacto ambiental y buscando activamente un resultado final ajustado a las intenciones expresivas propias.
 
@@ -2523,13 +2518,13 @@ Competencia específica 7.
 
 7.3 Emplear creativamente las tecnologías digitales en producciones gráficas, integrándolas en el proceso creativo y expresivo propio.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Interpretar gráficamente la realidad observada, abstrayendo la información recibida y desarrollando la retentiva y la memoria visual.
 
 8.2 Lograr efectos perspectivos de profundidad en representaciones gráficas personales y creativas, atendiendo a las proporciones y los contrastes lumínicos y valorando la perspectiva como un método para recrear la tridimensionalidad.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Planificar producciones gráficas de forma colaborativa, adaptando el diseño y el proceso al ámbito disciplinar elegido, y organizando y distribuyendo las tareas de manera adecuada.
 
@@ -2615,7 +2610,7 @@ Para favorecer esta forma de expresión, la materia Dibujo Técnico desarrolla l
 
 Para contribuir a lo citado anteriormente, esta materia desarrolla un conjunto de competencias específicas diseñadas para apreciar y analizar obras de arquitectura e ingeniería desde el punto de vista de sus estructuras y elementos técnicos; resolver problemas gráfico-matemáticos aplicando razonamientos inductivos, deductivos y lógicos que pongan en práctica los fundamentos de la geometría plana; desarrollar la visión espacial para recrear la realidad tridimensional por medio del sistema de representación más apropiado a la finalidad de la comunicación gráfica; formalizar diseños y presentar proyectos técnicos colaborativos siguiendo la normativa a aplicar e investigar y experimentar con programas específicos de diseño asistido por ordenador.
 
-En este sentido, el desarrollo de un razonamiento espacial adecuado a la hora de interpretar las construcciones en distintos sistemas de representación supone cierta complejidad para el alumnado. Los programas y aplicaciones CAD ofrecen grandes posibilidades, desde una mayor precisión y rapidez, hasta la mejora de la creatividad y la visión espacial mediante modelos 3D. Por otro lado, estas herramientas ayudan a diversificar las técnicas a emplear y agilizar el ritmo de las actividades complementando los trazados en soportes tradicionales y con instrumentos habituales (por ejemplo, tiza, escuadra, cartabón y compás) por los generados con estas aplicaciones. Todo ello, permitirá incorporar interacciones y dinamismo en las construcciones tradicionales que no son posibles con medios convencionales, pudiendo mostrar movimientos, giros, cambios de plano y, en definitiva, una representación más precisa de los cuerpos geométricos y sus propiedades en el espacio.
+En este sentido, el desarrollo de un razonamiento espacial adecuado a la hora de interpretar las construcciones en distintos sistemas de representación supone cierta complejidad para el alumnado. Los programas y aplicaciones CAD ofrecen grandes posibilidades, desde una mayor precisión y rapidez, hasta la mejora de la creatividad y la visión espacial mediante modelos 3D. Por otro lado, estas herramientas ayudan a diversificar las técnicas a emplear y agilizar el ritmo de las actividades complementando los trazados en soportes tradicionales y con instrumentos habituales (por ejemplo, tiza, escuadra, cartabón y compás) por los generados con estas aplicaciones. Todo ello, permitirá incorporar interacciones y dinamismo en las construcciones tradicionales que no son posibles con medios convencionales, pudiendo mostrar movimientos, giros, cambios de plano y, en definitiva, una representación más precisa de los cuerpos geométricos y sus propiedades en el espacio.
 
 Los criterios de evaluación son el elemento curricular que evalúa el nivel de consecución de las competencias específicas y se formulan con una evidente orientación competencial mediante la movilización de saberes básicos y la valoración de destrezas y actitudes como la autonomía y el autoaprendizaje, el rigor en los razonamientos, la claridad y la precisión en los trazados.
 
@@ -2651,13 +2646,13 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, S
 
 Los sistemas de representación derivados de la geometría descriptiva son necesarios en todos los procesos constructivos, ya que cualquier proceso proyectual requiere el conocimiento de los métodos que permitan determinar, a partir de su representación, sus verdaderas magnitudes, formas y relaciones espaciales entre ellas. Esta competencia se vincula, por una parte, con la capacidad para representar figuras planas y cuerpos, y por la otra, con la de expresar y calcular las soluciones a problemas geométricos en el espacio, aplicando para todo ello conocimientos técnicos específicos, reflexionando sobre el proceso realizado y el resultado obtenido.
 
-Esta competencia especÃ­fica se conecta con los siguientes descriptores: STEM1, STEM2, STEM4, CPSAA1.1, CPSAA5, CE2 y CE3.Â
+Esta competencia especÃfica se conecta con los siguientes descriptores: STEM1, STEM2, STEM4, CPSAA1.1, CPSAA5, CE2 y CE3.Â
 
 4. Formalizar y definir diseños técnicos aplicando las normas UNE e ISO de manera apropiada, valorando la importancia que tiene el croquis para documentar gráficamente proyectos arquitectónicos e ingenieriles.
 
 El dibujo normalizado es el principal vehículo de comunicación entre los distintos agentes del proceso constructivo, posibilitando desde una primera expresión de posibles soluciones mediante bocetos y croquis hasta la formalización final por medio de planos de taller y/o de construcción. También se contempla su relación con otros componentes mediante la elaboración de planos de montaje sencillos. Esta competencia específica está asociada a funciones instrumentales de análisis, expresión y comunicación. Por otra parte, y para que esta comunicación sea efectiva, debe vincularse necesariamente al conocimiento de unas normas y simbología establecidas, las normas UNE e ISO, e iniciar al alumnado en el desarrollo de la documentación gráfica de proyectos técnicos.
 
-Esta competencia especÃ­fica se conecta con los siguientes descriptores: CCL2, STEM1, STEM4, CD2, CPSAA1.1, CPSAA3.2, CPSAA5, CE3.Â
+Esta competencia especÃfica se conecta con los siguientes descriptores: CCL2, STEM1, STEM4, CD2, CPSAA1.1, CPSAA3.2, CPSAA5, CE3.Â
 
 5. Investigar, experimentar y representar digitalmente elementos, planos y esquemas técnicos mediante el uso de programas específicos CAD de manera individual o grupal, apreciando su uso en las profesiones actuales, para virtualizar objetos y espacios en dos dimensiones y tres dimensiones.
 
@@ -2669,11 +2664,11 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM2, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar, a lo largo de la historia, la relación entre las matemáticas y el dibujo geométrico valorando su importancia en diferentes campos como la arquitectura o la ingeniería, desde la perspectiva de género y la diversidad cultural, empleando adecuadamente el vocabulario específico técnico y artístico.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Solucionar gráficamente cálculos matemáticos y transformaciones básicas aplicando conceptos y propiedades de la geometría plana.
 
@@ -2681,7 +2676,7 @@ Competencia específica 2.
 
 2.3âResolver grÃ¡ficamente tangencias y trazar curvas aplicando sus propiedades con rigor en su ejecuciÃ³n.Â
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Representar en sistema diédrico elementos básicos en el espacio determinando su relación de pertenencia, posición y distancia.
 
@@ -2693,13 +2688,13 @@ Competencia específica 3.
 
 3.5 Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Documentar gráficamente objetos sencillos mediante sus vistas acotadas aplicando la normativa UNE e ISO en la utilización de sintaxis, escalas y formatos, valorando la importancia de usar un lenguaje técnico común.
 
 4.2 Utilizar el croquis y el boceto como elementos de reflexión en la aproximación e indagación de alternativas y soluciones a los procesos de trabajo.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Crear figuras planas y tridimensionales mediante programas de dibujo vectorial, usando las herramientas que aportan y las técnicas asociadas.
 
@@ -2749,7 +2744,7 @@ C. Normalización y documentación gráfica de proyectos.
 
 D. Sistemas CAD.
 
-− Aplicaciones vectoriales 2D-3D.
+− Aplicaciones vectoriales 2D-3D.
 
 − Fundamentos de diseño de piezas en tres dimensiones.
 
@@ -2761,11 +2756,11 @@ D. Sistemas CAD.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar la evolución de las estructuras geométricas y elementos técnicos en la arquitectura e ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de la arquitectura y la ingeniería.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Construir figuras planas aplicando transformaciones geométricas y valorando su utilidad en los sistemas de representación.
 
@@ -2773,7 +2768,7 @@ Competencia específica 2.
 
 2.3 Trazar curvas cónicas y sus rectas tangentes aplicando propiedades y métodos de construcción, mostrando interés por la precisión.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Resolver problemas geométricos mediante abatimientos, giros y cambios de plano, reflexionando sobre los métodos utilizados y los resultados obtenidos.
 
@@ -2785,11 +2780,11 @@ Competencia específica 3.
 
 3.5 Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Elaborar la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos empleando croquis y planos conforme a la normativa UNE e ISO.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Integrar el soporte digital en la representación de objetos y construcciones mediante aplicaciones CAD valorando las posibilidades que estas herramientas aportan al dibujo y al trabajo colaborativo.
 
@@ -2835,7 +2830,7 @@ El dibujo técnico y el dibujo artístico son dos disciplinas complementarias, e
 
 La materia de Dibujo Técnico aplicado a Artes Plásticas y al Diseño tiene un marcado carácter multidisciplinar y funcional, favorecedor de metodologías activas que promuevan el trabajo en grupo, la experimentación y el desarrollo de la creatividad sobre la base de resolución de propuestas de diseño o la participación en proyectos interdisciplinares, contribuyendo al desarrollo de las competencias clave en su conjunto y a la adquisición de los objetivos de etapa.
 
-En este sentido, la incorporación de manera transversal de diferentes herramientas y programas de diseño y dibujo en 2D y 3D, contribuye a que el alumnado integre este lenguaje, y le dota de competencias digitales indispensables para su futuro profesional. Además, fomenta la participación activa del alumnado en igualdad, adoptando un enfoque inclusivo, no sexista y haciendo especial hincapié en la superación de cualquier estereotipo que suponga una discriminación.
+En este sentido, la incorporación de manera transversal de diferentes herramientas y programas de diseño y dibujo en 2D y 3D, contribuye a que el alumnado integre este lenguaje, y le dota de competencias digitales indispensables para su futuro profesional. Además, fomenta la participación activa del alumnado en igualdad, adoptando un enfoque inclusivo, no sexista y haciendo especial hincapié en la superación de cualquier estereotipo que suponga una discriminación.
 
 Las enseñanzas artísticas tienen entre sus objetivos proporcionar al alumnado las destrezas necesarias para representar y crear objetos y espacios, comunicar ideas y sentimientos y desarrollar proyectos. Entre estas enseñanzas se encuentra la materia de Dibujo Técnico Aplicado a las Artes Plásticas y el Diseño, que adquiere un papel especialmente relevante en todas aquellas disciplinas artísticas que requieren anticipar y comunicar aquello que después va a ser materializado. La comprensión y el uso de diferentes construcciones geométricas y técnicas de representación mediante la realización de bocetos, croquis a mano alzada, planos o modelizaciones digitales, es de gran importancia para desarrollar la creatividad del alumnado y una comunicación más efectiva, favoreciendo además el desarrollo del pensamiento divergente, la observación, la transferencia a otras situaciones, así como la comprensión de su entorno.
 
@@ -2871,15 +2866,15 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, S
 
 Esta competencia hace referencia a la aptitud para escoger y aplicar los procedimientos y sistemas de representación –vistas en diédrico, perspectiva axonométrica, caballera y perspectiva cónica– más adecuados a la finalidad del proyecto artístico que se quiere plasmar. Persigue también el desarrollo de la visión espacial la habilidad en la croquización y el dibujo a mano alzada, mejorando con todo ello las destrezas gráficas del alumnado en cómics, ilustraciones y diseños de objetos y espacios. Se trata, en fin, de dotar al alumnado de herramientas comunicativas gráficas, de mejorar su visión espacial y de iniciarle en algunas de las aplicaciones de los sistemas de representación en los campos del arte y el diseño.
 
-Esta competencia especÃ­fica se conecta con los siguientes descriptores: STEM4, CPSAA1.1, CPSAA5, CE3, CCE3, CCE4, CCE5 y CCE6.Â
+Esta competencia especÃfica se conecta con los siguientes descriptores: STEM4, CPSAA1.1, CPSAA5, CE3, CCE3, CCE4, CCE5 y CCE6.Â
 
 4. Analizar, definir formalmente o visualizar ideas, aplicando las normas fundamentales UNE e ISO para interpretar y representar objetos y espacios, así como documentar proyectos de diseño.
 
 Esta competencia requiere la aplicación de una serie de códigos gráficos y normas generalizadas (UNE e ISO) que permiten comunicar, de forma clara y unívoca, soluciones personales y proyectos de diseño, realizados de forma individual o en grupo, mediante el dibujo de bocetos o croquis, constituyéndose por tanto en el paso intermedio entre la idea y la ejecución material del diseño. Se trata de iniciar al alumnado en un tipo de representación cuyas cualidades fundamentales son la funcionalidad, la operatividad y la universalidad, pues el dibujo normalizado debe ser portador de información útil, eficaz para ser aplicada y altamente codificada mediante normas internacionales para que sea interpretado de forma inequívoca.
 
-Esta competencia específica se conecta con los siguientes descriptores: CCL2, STEM4, CD2, CPSAA5, CE3, CCE4, CCE5 y CCE6. .
+Esta competencia específica se conecta con los siguientes descriptores: CCL2, STEM4, CD2, CPSAA5, CE3, CCE4, CCE5 y CCE6. .
 
-5. Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales, seleccionando y utilizando programas y aplicaciones específicas de dibujo vectorial 2D y de modelado 3D para desarrollar procesos de creación artística personal o de diseño.
+5. Integrar y aprovechar las posibilidades que ofrecen las herramientas digitales, seleccionando y utilizando programas y aplicaciones específicas de dibujo vectorial 2D y de modelado 3D para desarrollar procesos de creación artística personal o de diseño.
 
 Esta competencia comporta la adquisición de un conocimiento práctico e instrumental de las principales herramientas y técnicas de dibujo y modelado en dos y tres dimensiones de manera transversal al resto de saberes de la materia. Implica el uso de dispositivos digitales como herramientas de aplicación en el proceso creativo, su incorporación para la experimentación en diferentes disciplinas y tendencias artísticas, y como instrumento de gestión y presentación de proyectos de diseño gráfico, de objetos y de espacios.
 
@@ -2889,17 +2884,17 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, el entorno, el arte y el diseño, analizando su función y valorando la importancia dentro del contexto histórico.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Dibujar formas poligonales y resolver tangencias básicas y simetrías aplicadas al diseño de formas, valorando la importancia de la limpieza y la precisión en el trazado.
 
 2.2 Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas y apreciando su importancia en el dibujo.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Diferenciar las características de los distintos sistemas de representación, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación.
 
@@ -2909,15 +2904,15 @@ Competencia específica 3.
 
 3.4 Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Realizar bocetos y croquis conforme a las normas UNE e ISO, comunicando la forma y dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía.
 
-Competencia específica 5.
+Competencia específica 5.
 
-5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño.
+5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño.
 
-5.2 Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación.
+5.2 Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación.
 
 Saberes básicos.
 
@@ -2959,35 +2954,35 @@ C. Normalización y diseño de proyectos.
 
 D. Herramientas digitales para el diseño.
 
-− Iniciación a las herramientas y técnicas de dibujo vectorial en 2D. Aplicaciones al diseño gráfico.
+− Iniciación a las herramientas y técnicas de dibujo vectorial en 2D. Aplicaciones al diseño gráfico.
 
-− Iniciación al modelado en 3D. Aplicaciones a proyectos artísticos.
+− Iniciación al modelado en 3D. Aplicaciones a proyectos artísticos.
 
 **Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II**
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar y explicar la presencia de formas y relaciones geométricas en el arte y el diseño, comprendiendo el motivo o intencionalidad con la que se han utilizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Diseñar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos.
 
 2.2 Diseñar formas creativas, empleando tangencias, enlaces y curvas cónicas.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas.
 
 3.2 Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado obtenido.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Realizar y presentar proyectos, aprovechando las posibilidades que las herramientas de dibujo vectorial aportan a los campos del diseño y el arte.
 
@@ -3103,25 +3098,25 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer la relación entre las formas y las funciones en objetos de diseño bidimensionales o tridimensionales, percibiéndolos como productos susceptibles de transformaciones y mejoras.
 
 1.2 Explicar en los objetos de diseño las dimensiones simbólicas y semánticas propias de su lenguaje, identificando sus elementos sintácticos y constitutivos con actitud receptiva y respetuosa.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Identificar las características fundamentales de los principales movimientos, corrientes, escuelas y teóricos relacionados con el diseño, comparando productos de diseño de contextos geográficos, históricos y sociales diversos, y reflexionando de manera crítica sobre las aportaciones de las mujeres y de las culturas no occidentales.
 
 2.2 Analizar de manera crítica las diferentes soluciones de diseño vinculadas a un mismo problema, reflexionando sobre su impacto en el entorno y estableciendo argumentos que promuevan una conciencia comprometida con el medio ambiente y con el diseño sostenible.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable.
 
 3.2 Analizar las relaciones compositivas en distintos productos de diseño, identificando los elementos básicos del lenguaje visual y explicando su impacto en aspectos como la inclusión, la sostenibilidad y el consumo responsable.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad.
 
@@ -3129,13 +3124,13 @@ Competencia específica 4.
 
 4.3 Evaluar las propuestas de planificación propias y ajenas de manera crítica y argumentada, analizando su adecuación al impacto de comunicación buscado.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Proyectar soluciones de diseño innovadoras en respuesta a necesidades personales o de expresión propias, a partir de ideas o productos preexistentes.
 
 5.2 Evaluar críticamente las propuestas de diseño personales, valorando su coherencia y adecuación, y considerando el respeto a la propiedad intelectual, tanto a la ajena como a la propia.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual.
 
@@ -3229,7 +3224,7 @@ Los retos y desafíos que se plantean en el mundo actual hacen necesaria la inte
 
 Nuestra realidad es incierta, disfruta de progreso económico, pero también genera niveles de pobreza no deseables, exceso de contaminación, una acumulación de capital, un incremento de la desigualdad, y un envejecimiento de la población en los países avanzados. La globalización actual no se puede entender sin la digitalización que está cambiando no solo la estructura productiva global y la estructura económica y financiera, sino también la sociedad en su conjunto. Entender la realidad desde un punto de vista económico ayuda al alumnado a comprender mejor el comportamiento individual y colectivo y a promover actitudes críticas y éticas orientadas a tomar decisiones financieras y económicas informadas.
 
-La finalidad educativa de la materia de Economía está en consonancia con la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas.
+La finalidad educativa de la materia de Economía está en consonancia con la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas.
 
 Economía está planteada como materia de modalidad para el Bachillerato de Humanidades y Ciencias Sociales, del primer curso y persigue un objetivo principal: proporcionar al alumnado, de manera introductoria, conocimientos económicos necesarios para entender el contexto en el que vive, despertar su interés y promover iniciativas dirigidas a actuar sobre la propia realidad, tras un análisis crítico de la misma, y tomar sus propias decisiones con repercusión económica y financiera de manera razonada y responsable. Todo ello servirá de base no solo a aquellos alumnos y alumnas que decidan estudiar posteriormente esta disciplina, sino también para quienes orienten su itinerario académico en otra dirección y deseen adquirir una cultura económica general necesaria para ser personas activas, formadas e informadas en este ámbito.
 
@@ -3285,7 +3280,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 La economía actual se enfrenta a retos y desafíos importantes dentro de un contexto globalizado donde las relaciones económicas son cada vez más complejas. En este nuevo contexto es necesario reconocer la repercusión de la nueva economía y la revolución digital sobre el empleo y la distribución de la renta.
 
-El alumnado debe valorar de forma crítica su comportamiento como consumidor, usuario y posible generador de renta, para lo cual, es necesario que conozca y analice la globalización y sus problemas asociados. Este conocimiento puede estimular la generación de iniciativas en su entorno más próximo participando activamente en la economía a través de acciones que propicien la igualdad, el consumo responsable, la mejora continua y el bienestar social.
+El alumnado debe valorar de forma crítica su comportamiento como consumidor, usuario y posible generador de renta, para lo cual, es necesario que conozca y analice la globalización y sus problemas asociados. Este conocimiento puede estimular la generación de iniciativas en su entorno más próximo participando activamente en la economía a través de acciones que propicien la igualdad, el consumo responsable, la mejora continua y el bienestar social.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CCL3, STEM4, CD5, CPSAA1.2, CPSAA4, CPSAA5, CE1.
 
@@ -3301,7 +3296,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Comprender la realidad económica actual, analizando la repercusión de las decisiones adoptadas en el ámbito económico, valorando los procesos de integración económica y estableciendo comparaciones sobre las soluciones alternativas que ofrecen los distintos sistemas.
 
@@ -3309,7 +3304,7 @@ Competencia específica 1.
 
 1.3 Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Valorar la repercusión de los fallos del mercado a nivel microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo el funcionamiento del mismo.
 
@@ -3317,13 +3312,13 @@ Competencia específica 2.
 
 2.3 Analizar con espíritu crítico los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Conocer cómo se produce el desarrollo económico y el bienestar social valorando, con sentido crítico, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta.
 
 3.2 Diferenciar los costes y beneficios que se generan en el flujo circular de la renta para cada uno de los agentes económicos, estableciendo relaciones entre ellos y determinando su repercusión en el desarrollo económico y bienestar social.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Conocer y comprender el funcionamiento del sistema financiero valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, el ahorro, los productos financieros y la búsqueda de fuentes de financiación.
 
@@ -3331,13 +3326,13 @@ Competencia específica 4.
 
 4.3 Adquirir conocimientos financieros a partir del análisis del sistema financiero, su funcionamiento y los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y las decisiones financieras personales que afectan a la vida cotidiana.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad a partir de la identificación de los retos y desafíos que plantea la economía actual, analizando, con sentido crítico, el impacto que provocan la globalización, la nueva economía y la revolución digital en el bienestar económico y social de los ciudadanos y ciudadanas.
 
 5.2 Comprender los retos económicos actuales analizando, de forma crítica y constructiva, el entorno, identificando aquellos elementos que condicionan y transforman la economía y fomentando iniciativas que respondan a las necesidades que plantean estos retos.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía.
 
@@ -3403,7 +3398,7 @@ Cualquier ciudadano y ciudadana necesita comprender el mundo en el que vive y re
 
 La realidad socioeconómica tiene muchas vertientes, de ahí la importancia de conectar el conocimiento que se genera desde diversas disciplinas y desde el ámbito de la economía y del estudio de las empresas, con lo que sucede en la realidad, para encontrar respuestas, tomar decisiones y actuar con formación, información y responsabilidad.
 
-La finalidad educativa de la materia de Economía, Emprendimiento y Actividad Empresarial está en consonancia con la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas.
+La finalidad educativa de la materia de Economía, Emprendimiento y Actividad Empresarial está en consonancia con la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas.
 
 Esta materia de modalidad está planteada para el primer curso de Bachillerato General, trata de aportar los conceptos económicos y empresariales necesarios para que el alumnado tenga un soporte teórico que le permita realizar análisis críticos y fundamentados a partir del estudio de casos sobre la realidad económica actual, valorar los efectos que provoca en los distintos ámbitos de la vida y aprovechar estos aprendizajes para generar una actitud proactiva y comprometida con la sociedad y de búsqueda de un mayor bienestar tanto colectivo como individual.
 
@@ -3445,7 +3440,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM2, 
 
 Analizar el perfil de la persona emprendedora actual requiere reflexionar sobre las competencias personales y sociales que son deseables, como la creatividad, la empatía, la capacidad de iniciativa y de enfrentarse a los retos. También es necesario valorar y tener en cuenta otros aspectos psicológicos que influyen en el desarrollo de ese perfil, como las creencias limitantes que provocan miedos a la hora de emprender, o la importancia de las habilidades sociemocionales, que condicionan los pensamientos y el alcance del logro.
 
-Es conveniente aproximar al alumnado a personas emprendedoras cercanas para que sepan reconocer sus cualidades y competencias de modo que puedan aprender de ellas y evaluar en qué medida pueden adquirir o potenciar esas cualidades y competencias con formación y entrenamiento, para aplicarlas en su vida cotidiana. .
+Es conveniente aproximar al alumnado a personas emprendedoras cercanas para que sepan reconocer sus cualidades y competencias de modo que puedan aprender de ellas y evaluar en qué medida pueden adquirir o potenciar esas cualidades y competencias con formación y entrenamiento, para aplicarlas en su vida cotidiana. .
 
 Esta competencia específica se conecta con los siguientes descriptores: CPSAA1.1, CPSAA1.2, CPSAA3.1, CC1, CC3, CE2.
 
@@ -3467,33 +3462,33 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Entender la realidad partiendo del análisis crítico y reflexivo sobre las aportaciones que ofrece la ciencia económica, valorando su interrelación con otras disciplinas y adquiriendo una visión integral de la misma que favorezca la asunción de responsabilidades y compromisos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Comprender los cambios económicos y sociales desde un análisis interdisciplinar sobre el comportamiento humano en el proceso de toma de decisiones y evaluando el problema de la escasez y sus efectos, y estimulando al alumnado a actuar en consecuencia.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Mostrar actitudes sensibles y comportamientos responsables y proactivos que contribuyan a dar respuesta a los retos actuales a partir del estudio de casos reales estableciendo correspondencias entre la realidad y los aprendizajes adquiridos.
 
 3.2 Tomar conciencia de problemas globales y locales analizándolos a través de herramientas económicas y empresariales y aportando posibles soluciones a los mismos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Reconocer y potenciar las destrezas emprendedoras propias, identificando y valorando previamente las habilidades que poseen personas emprendedoras cercanas y analizando sus competencias a la hora de afrontar los retos que se les presentan.
 
 4.2 Afrontar retos sencillos de la vida cotidiana aplicando las destrezas propias que caracterizan a una persona emprendedora.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Reconocer las tendencias e identificar la filosofía de las empresas comprendiendo las estrategias empresariales llevadas a cabo por estas y analizando su evolución, así como los modelos de negocio desarrollados poniendo en valor, con sentido crítico, su actividad empresarial.
 
 5.2 Distinguir los nuevos modelos de negocio desarrollados por empresas pertenecientes a diversos sectores y ámbitos analizando sus posibilidades y limitaciones.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Comprender las respuestas que ofrecen las empresas a los desafíos actuales, analizando la transformación económica y social que está experimentando la sociedad.
 
@@ -3635,7 +3630,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM5, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Planificar, elaborar y poner en práctica de manera autónoma un programa personal de actividad física dirigido a la mejora o al mantenimiento de la salud, aplicando los diferentes sistemas de desarrollo de las capacidades físicas implicadas, según las necesidades e intereses individuales y respetando la propia realidad e identidad corporal, evaluando los resultados obtenidos.
 
@@ -3647,7 +3642,7 @@ Competencia específica 1.
 
 1.5 Emplear de manera autónoma aplicaciones y dispositivos digitales relacionados con la gestión de la actividad física, respetando la privacidad y las medidas básicas de seguridad vinculadas a la difusión pública de datos personales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, gestionando autónomamente cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso de forma eficiente, creativa y ajustada a los objetivos que se pretendan alcanzar.
 
@@ -3655,7 +3650,7 @@ Competencia específica 2.
 
 2.3 Identificar, analizar y comprender los factores clave que condicionan la intervención de los componentes cualitativos y cuantitativos de la motricidad en la realización de gestos técnicos o situaciones motrices variadas, identificando errores comunes y proponiendo soluciones a los mismos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Organizar y practicar diversas actividades motrices, valorando su potencial como posible salida profesional y analizando sus beneficios desde la perspectiva de la salud, el disfrute, la autosuperación y las posibilidades de interacción social, adoptando actitudes de interés, esfuerzo, liderazgo y empatía al asumir y desempeñar distintos roles relacionados con ellas.
 
@@ -3663,13 +3658,13 @@ Competencia específica 3.
 
 3.3 Establecer mecanismos de relación y entendimiento con el resto de participantes durante el desarrollo de diversas prácticas motrices con autonomía, haciendo uso efectivo de habilidades sociales de diálogo en la resolución de conflictos y respeto ante la diversidad, ya sea de género, afectivo-sexual, de origen nacional, étnico, socio-económica o de competencia motriz, y posicionándose activa, reflexiva y críticamente frente a los estereotipos, las actuaciones discriminatorias y la violencia, así como conocer las estrategias para la prevención, la detección precoz y el abordaje de las mismas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Comprender y contextualizar la influencia cultural y social de las manifestaciones motrices más relevantes en el panorama actual, analizando sus orígenes y su evolución hasta la actualidad y rechazando aquellos componentes que no se ajusten a los valores de una sociedad abierta, inclusiva, diversa e igualitaria.
 
 4.2 Crear y representar composiciones corporales individuales o colectivas, con y sin base musical, aplicando con precisión, idoneidad y coordinación escénica las técnicas expresivas más apropiadas a cada composición para representarlas ante sus compañeros y compañeras u otros miembros de la comunidad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Promover y participar en actividades físico-deportivas en entornos naturales terrestres o acuáticos, interactuando con el entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir, reduciendo al máximo su huella ecológica y desarrollando actuaciones dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen.
 
@@ -3755,7 +3750,7 @@ F. Interacción eficiente y sostenible con el entorno.
 
 El mundo de la empresa está presente a diario en los medios de comunicación, forma parte de la vida de millones de personas y repercute en todos los hogares. El conocimiento sobre la empresa es un paso esencial para entender el funcionamiento del conjunto de la economía por la interrelación que existe entre la empresa y el entorno en el que lleva a cabo su actividad.
 
-La materia de Empresa y Diseño de Modelos de Negocio tiene como finalidad que el alumnado estudie y analice las respuestas a los problemas que se plantean en el seno de las empresas y conozca sus nuevas formas de administración y gestión, con un enfoque actualizado y, sobre todo, adaptado a la realidad, considerando que la innovación es un factor clave de su actividad y que, en muchos casos, determina su supervivencia. Lo anterior está en consonancia con lo recogido en la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas, así como las dificultades a las que se enfrenta una empresa, una organización o la sociedad.
+La materia de Empresa y Diseño de Modelos de Negocio tiene como finalidad que el alumnado estudie y analice las respuestas a los problemas que se plantean en el seno de las empresas y conozca sus nuevas formas de administración y gestión, con un enfoque actualizado y, sobre todo, adaptado a la realidad, considerando que la innovación es un factor clave de su actividad y que, en muchos casos, determina su supervivencia. Lo anterior está en consonancia con lo recogido en la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, donde se recoge que las personas deben comprender la economía y las oportunidades sociales y económicas, así como las dificultades a las que se enfrenta una empresa, una organización o la sociedad.
 
 Esta materia de modalidad está planteada para el segundo curso del Bachillerato de Humanidades y Ciencias Sociales y persigue dos objetivos: aproximar al alumnado al conocimiento de la empresa como catalizador del desarrollo económico, destacando la innovación como un aspecto fundamental de la actividad empresarial e integrando los valores propios de la responsabilidad social corporativa; y fomentar una cultura emprendedora que potencie la creatividad y el espíritu de innovación, la reflexión crítica y la toma de decisiones fundamentadas para diseñar un modelo de negocio y analizar su posible viabilidad.
 
@@ -3825,13 +3820,13 @@ Esta competencia específica se conecta con los siguientes descriptores: CD2, CD
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Comprender la importancia de la actividad empresarial y el emprendimiento dentro de la economía actual, reconociendo el poder de transformación que ejercen en la sociedad y reflexionando sobre el valor la innovación y la digitalización.
 
 1.2 Analizar el papel de la I+D+I en el desarrollo social y empresarial, identificando nuevas tendencias y tecnologías que tienen un alto impacto en la economía.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Valorar la capacidad de adaptación ágil, responsable y sostenible de las empresas a los cambios del entorno y a las exigencias del mercado investigando el entorno económico y social y su influencia en la actividad empresarial.
 
@@ -3839,7 +3834,7 @@ Competencia específica 2.
 
 2.3 Identificar y analizar las características del entorno en el que la empresa desarrolla su actividad, explicando, a partir de ellas, las distintas estrategias y decisiones adoptadas y las posibles implicaciones sociales y medioambientales de su actividad.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Proponer un modelo de negocio o de gestión diferenciado que permita dar respuesta a las necesidades actuales, comparando distintos modelos y utilizando estrategias y herramientas de diseño creativo.
 
@@ -3849,7 +3844,7 @@ Competencia específica 3.
 
 3.4 Analizar las características del mercado y explicar, de acuerdo con ellas, la propuesta de valor, canales, relaciones con clientes y fuentes de ingresos del modelo de negocio.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Gestionar eficazmente la información y facilitar el proceso de toma de decisiones a partir de la información obtenida tanto en el ámbito interno como externo de la empresa y aplicando estrategias y nuevas fórmulas comunicativas.
 
@@ -3857,7 +3852,7 @@ Competencia específica 4.
 
 4.3 Exponer el proyecto de modelo de negocio llevado a cabo utilizando las herramientas necesarias que permitan despertar el interés y cautivar a los demás con la propuesta de valor presentada.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Validar la propuesta de modelo de negocio diseñado dentro de un contexto determinado, definiéndolo a partir de las tendencias clave del momento, la situación macroeconómica, el mercado y la competencia, comprendiendo todo el proceso llevado a cabo y aplicando técnicas de estudio previsional y herramientas de análisis empresarial.
 
@@ -3875,9 +3870,9 @@ A. La empresa y su entorno.
 
 − La empresa. Clasificación. Localización y dimensión de la empresa. Marco jurídico que regula la actividad empresarial.
 
-− El entorno empresarial. Responsabilidad social corporativa. Mujer y emprendimiento. Inclusión y emprendimiento.
+− El entorno empresarial. Responsabilidad social corporativa. Mujer y emprendimiento. Inclusión y emprendimiento.
 
-− Empresa, digitalización e innovación. I+D+I. Teorías de la innovación. Tipos de innovación. Tendencias emergentes. Estrategias de innovación.
+− Empresa, digitalización e innovación. I+D+I. Teorías de la innovación. Tipos de innovación. Tendencias emergentes. Estrategias de innovación.
 
 B. El modelo de negocio y de gestión.
 
@@ -4001,17 +3996,17 @@ Esta competencia específica se conecta con los siguientes descriptores: CPSAA3.
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer la radicalidad y trascendencia de los problemas filosóficos mediante su reconocimiento, análisis y reformulación en textos y otros medios de expresión tanto filosóficos como literarios, históricos, científicos, artísticos o relativos a cualquier otro ámbito cultural.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como por medios más tradicionales.
 
 2.2 Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica mediante el diseño, la elaboración y la comunicación pública de productos originales tales como trabajos de investigación, disertaciones o comentarios de texto.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir y evaluar discursos argumentativos, orales y escritos, acerca de cuestiones y problemas filosóficos, demostrando un uso correcto de normas y pautas lógicas, retóricas y argumentativas.
 
@@ -4019,31 +4014,31 @@ Competencia específica 3.
 
 3.3 Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad y el rechazo de toda actitud discriminatoria o arbitraria, aplicando dichos principios a la práctica argumentativa y al diálogo con los demás.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Promover el contraste e intercambio de ideas y la práctica de una ciudadanía activa y democrática a través de la participación en actividades grupales y el ejercicio del diálogo racional, respetuoso, abierto, constructivo y comprometido con la búsqueda de la verdad, acerca de cuestiones y problemas filosóficamente relevantes.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Generar una concepción compleja y no dogmática de los problemas filosóficos mediante el análisis crítico de tesis filosóficas distintas y opuestas en torno a los mismos.
 
 5.2 Comprender y exponer distintas tesis y teorías filosóficas como momentos de un proceso dinámico y siempre abierto de reflexión y diálogo, a través del análisis comparativo de los argumentos, principios, metodologías y enfoques de dichas tesis y teorías.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Tomar consciencia de la riqueza e influencia del pensamiento filosófico identificando y analizando las principales ideas y teorías filosóficas en textos o documentos pertenecientes a ámbitos culturales diversos, así como poniéndolas en relación con experiencias, acciones o acontecimientos comunes y de actualidad.
 
 6.2 Adquirir y demostrar un conocimiento significativo de las ideas y teorías filosóficas de algunos de los más importantes pensadores y pensadoras de la historia, mediante su aplicación y el análisis crítico en el contexto de la práctica individual o colectiva de la indagación filosófica.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Afrontar cuestiones y problemas complejos de carácter fundamental y de actualidad de modo interdisciplinar, sistemático y creativo, utilizando conceptos, ideas y procedimientos provenientes de distintos campos del saber y orientándolos y articulándolos críticamente desde una perspectiva filosófica.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en disputa y elaborando, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Generar un adecuado equilibrio entre el aspecto racional y el emotivo en la consideración de los problemas filosóficos, especialmente los referidos al ámbito de la estética, a través de la reflexión expresa en torno al arte y a otras actividades o experiencias con valor estético y el análisis del papel de las imágenes y el lenguaje audiovisual en la cultura contemporánea.
 
@@ -4199,13 +4194,13 @@ Esta competencia específica se conecta con los siguientes descriptores: stem2, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer la relevancia de la física en el desarrollo de la ciencia, la tecnología, la economía, la sociedad y la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos relativos a esos ámbitos.
 
 1.2 Resolver problemas de manera experimental y analítica, utilizando principios, leyes y teorías de la física.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar y comprender la evolución de los sistemas naturales, utilizando modelos, leyes y teorías de la física.
 
@@ -4213,7 +4208,7 @@ Competencia específica 2.
 
 2.3 Conocer aplicaciones prácticas y productos útiles para la sociedad en el campo tecnológico, industrial y biosanitario, analizándolos en base a los modelos, las leyes y las teorías de la física.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Aplicar los principios, leyes y teorías científicas en el análisis crítico de procesos físicos del entorno, como los observados y los publicados en distintos medios de comunicación, analizando, comprendiendo y explicando las causas que los producen.
 
@@ -4221,13 +4216,13 @@ Competencia específica 3.
 
 3.3 Expresar de forma adecuada los resultados, argumentando las soluciones obtenidas, en la resolución de los ejercicios y problemas que se plantean, bien sea a través de situaciones reales o ideales.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Consultar, elaborar e intercambiar materiales científicos y divulgativos en distintos formatos con otros miembros del entorno de aprendizaje, utilizando de forma autónoma y eficiente plataformas digitales.
 
 4.2 Usar de forma crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Obtener relaciones entre variables físicas, midiendo y tratando los datos experimentales, determinando los errores y utilizando sistemas de representación gráfica.
 
@@ -4235,7 +4230,7 @@ Competencia específica 5.
 
 5.3 Valorar la física, debatiendo de forma fundamentada sobre sus avances y la implicación en la sociedad, desde el punto de vista de la ética y de la sostenibilidad.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Identificar los principales avances científicos relacionados con la física que han contribuido a la formulación de las leyes y teorías aceptadas actualmente en el conjunto de las disciplinas científicas, como las fases para el entendimiento de las metodologías de la ciencia, su evolución constante y su universalidad.
 
@@ -4297,7 +4292,7 @@ El Bachillerato es una etapa de grandes retos para el alumnado, no solo por la n
 
 La separación de las enseñanzas del Bachillerato en modalidades posibilita una especialización de los aprendizajes que configura definitivamente el perfil personal y profesional de cada alumno y alumna. Esta materia tiene como finalidad profundizar en las competencias que se han desarrollado durante toda la Educación Secundaria Obligatoria y que ya forman parte del bagaje cultural científico del alumnado, aunque su carácter de materia de modalidad le confiere también un matiz de preparación para los estudios superiores de aquellos estudiantes que deseen elegir una formación científica avanzada en el curso siguiente, en el que Física y Química se desdoblará en dos materias diferentes, una para cada disciplina científica.
 
-El enfoque STEM que se pretende otorgar a la materia de Física y Química en toda la enseñanza secundaria y en el Bachillerato prepara a los alumnos y alumnas de forma integrada en las ciencias para afrontar un avance que se orienta a la consecución de los Objetivos de Desarrollo Sostenible. Muchos alumnos y alumnas ejercerán probablemente profesiones que todavía no existen en el mercado laboral actual, por lo que el currículo de esta materia es abierto y competencial, y tiene como finalidad no solo contribuir a profundizar en la adquisición de conocimientos, destrezas y actitudes de la ciencia, sino también encaminar al alumnado a diseñar su perfil personal y profesional de acuerdo a las que serán sus preferencias para el futuro. Para ello, el currículo de Física y Química de 1.º de Bachillerato se diseña partiendo de las competencias específicas de la materia, como eje vertebrador del resto de los elementos curriculares. Esto organiza el proceso de enseñanza y aprendizaje y dota a todo el currículo de un carácter eminentemente competencial.
+El enfoque STEM que se pretende otorgar a la materia de Física y Química en toda la enseñanza secundaria y en el Bachillerato prepara a los alumnos y alumnas de forma integrada en las ciencias para afrontar un avance que se orienta a la consecución de los Objetivos de Desarrollo Sostenible. Muchos alumnos y alumnas ejercerán probablemente profesiones que todavía no existen en el mercado laboral actual, por lo que el currículo de esta materia es abierto y competencial, y tiene como finalidad no solo contribuir a profundizar en la adquisición de conocimientos, destrezas y actitudes de la ciencia, sino también encaminar al alumnado a diseñar su perfil personal y profesional de acuerdo a las que serán sus preferencias para el futuro. Para ello, el currículo de Física y Química de 1.º de Bachillerato se diseña partiendo de las competencias específicas de la materia, como eje vertebrador del resto de los elementos curriculares. Esto organiza el proceso de enseñanza y aprendizaje y dota a todo el currículo de un carácter eminentemente competencial.
 
 A partir de las competencias específicas, este currículo presenta los criterios de evaluación. Se trata de evitar la evaluación exclusiva de conceptos, por lo que los criterios de evaluación están referidos a las competencias específicas. Para la consecución de los criterios de evaluación, el currículo de Física y Química de primero de Bachillerato organiza en bloques los saberes básicos, que son los conocimientos, destrezas y actitudes que han de ser adquiridos a lo largo del curso, buscando una continuidad y ampliación de los de la etapa anterior pero que, a diferencia de esta, no contemplan un bloque específico de saberes comunes de las destrezas científicas básicas, puesto que estos deben ser trabajados de manera transversal en todos los bloques.
 
@@ -4309,11 +4304,11 @@ Los saberes básicos propios de Química terminan con el bloque sobre química o
 
 Los saberes de Física comienzan con el bloque de cinemática. Para alcanzar un nivel de significación mayor en el aprendizaje con respecto a la etapa anterior, este bloque se presenta desde un enfoque vectorial, de modo que la carga matemática de esta unidad se vaya adecuando a los requerimientos del desarrollo madurativo del alumnado. Además, comprende un mayor número de movimientos que les permite ampliar las perspectivas de esta rama de la mecánica.
 
-Igual de importante es conocer cuáles son las causas del movimiento, por eso el siguiente bloque presenta los conocimientos, destrezas y actitudes correspondientes a la estática y a la dinámica. Aprovechando el enfoque vectorial del bloque anterior, el alumnado aplica esta herramienta a describir los efectos de las fuerzas sobre partículas y sobre sólidos rígidos en lo referido al momento que produce una fuerza, deduciendo cuáles son las causas en cada caso. El hecho de centrar este bloque en la descripción analítica de las fuerzas y sus ejemplos, y no en el caso particular de las fuerzas centrales, que se incluyen en Física de 2.º de Bachillerato, permite una mayor comprensión para sentar las bases del conocimiento significativo.
+Igual de importante es conocer cuáles son las causas del movimiento, por eso el siguiente bloque presenta los conocimientos, destrezas y actitudes correspondientes a la estática y a la dinámica. Aprovechando el enfoque vectorial del bloque anterior, el alumnado aplica esta herramienta a describir los efectos de las fuerzas sobre partículas y sobre sólidos rígidos en lo referido al momento que produce una fuerza, deduciendo cuáles son las causas en cada caso. El hecho de centrar este bloque en la descripción analítica de las fuerzas y sus ejemplos, y no en el caso particular de las fuerzas centrales, que se incluyen en Física de 2.º de Bachillerato, permite una mayor comprensión para sentar las bases del conocimiento significativo.
 
 Por último, el bloque de energía presenta los saberes como continuidad a los que se estudiaron en la etapa anterior, profundizando más en el trabajo, la potencia y la energía mecánica y su conservación; así como en los aspectos básicos de termodinámica que les permitan entender el funcionamiento de sistemas termodinámicos simples y sus aplicaciones más inmediatas. Todo ello encaminado a comprender la importancia del concepto de energía en nuestra vida cotidiana y en relación con otras disciplinas científicas y tecnológicas.
 
-Este currículo de Física y Química para 1.º de Bachillerato se presenta como una propuesta integradora que afianza las bases del estudio, poniendo de manifiesto el aprendizaje competencial, y que despierta vocaciones científicas entre el alumnado. Combinado con una metodología integradora STEM se asegura el aprendizaje significativo del alumnado, lo que resulta en un mayor número de estudiantes de disciplinas científicas.
+Este currículo de Física y Química para 1.º de Bachillerato se presenta como una propuesta integradora que afianza las bases del estudio, poniendo de manifiesto el aprendizaje competencial, y que despierta vocaciones científicas entre el alumnado. Combinado con una metodología integradora STEM se asegura el aprendizaje significativo del alumnado, lo que resulta en un mayor número de estudiantes de disciplinas científicas.
 
 Competencias específicas.
 
@@ -4367,7 +4362,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Aplicar las leyes y teorías científicas en el análisis de fenómenos fisicoquímicos cotidianos, comprendiendo las causas que los producen y explicándolas utilizando diversidad de soportes y medios de comunicación.
 
@@ -4375,7 +4370,7 @@ Competencia específica 1.
 
 1.3 Identificar situaciones problemáticas en el entorno cotidiano, emprender iniciativas y buscar soluciones sostenibles desde la física y la química, analizando críticamente el impacto producido en la sociedad y el medioambiente.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Formular y verificar hipótesis como respuestas a diferentes problemas y observaciones, manejando con soltura el trabajo experimental, la indagación, la búsqueda de evidencias y el razonamiento lógico-matemático.
 
@@ -4383,7 +4378,7 @@ Competencia específica 2.
 
 2.3 Integrar las leyes y teorías científicas conocidas en el desarrollo del procedimiento de la validación de las hipótesis formuladas, aplicando relaciones cualitativas y cuantitativas entre las diferentes variables, de manera que el proceso sea más fiable y coherente con el conocimiento científico adquirido.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Utilizar y relacionar de manera rigurosa diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, haciendo posible una comunicación efectiva con toda la comunidad científica.
 
@@ -4393,13 +4388,13 @@ Competencia específica 3.
 
 3.4 Poner en práctica los conocimientos adquiridos en la experimentación científica en laboratorio o campo, incluyendo el conocimiento de sus materiales y su normativa básica de uso, así como de las normas de seguridad propias de estos espacios, y comprendiendo la importancia en el progreso científico y emprendedor de que la experimentación sea segura, sin comprometer la integridad física propia ni colectiva.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interactuar con otros miembros de la comunidad educativa a través de diferentes entornos de aprendizaje, reales y virtuales, utilizando de forma autónoma y eficiente recursos variados, tradicionales y digitales, con rigor y respeto y analizando críticamente las aportaciones de todo el mundo.
 
 4.2 Trabajar de forma autónoma y versátil, individualmente y en equipo, en la consulta de información y la creación de contenidos, utilizando con criterio las fuentes y herramientas más fiables, y desechando las menos adecuadas, mejorando así el aprendizaje propio y colectivo.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Participar de manera activa en la construcción del conocimiento científico, evidenciando la presencia de la interacción, la cooperación y la evaluación entre iguales, mejorando el cuestionamiento, la reflexión y el debate al alcanzar el consenso en la resolución de un problema o situación de aprendizaje.
 
@@ -4407,7 +4402,7 @@ Competencia específica 5.
 
 5.3 Debatir, de manera informada y argumentada, sobre las diferentes cuestiones medioambientales, sociales y éticas relacionadas con el desarrollo de las ciencias, alcanzando un consenso sobre las consecuencias de estos avances y proponiendo soluciones creativas en común a las cuestiones planteadas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Identificar y argumentar científicamente las repercusiones de las acciones que el alumno o alumna emprende en su vida cotidiana, analizando cómo mejorarlas como forma de participar activamente en la construcción de una sociedad mejor.
 
@@ -4541,43 +4536,43 @@ Esta competencia específica se conecta con los siguientes descriptores: CD3, CP
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Explicar de forma respetuosa el enriquecimiento que supone la diversidad en el arte, estudiando obras de épocas y culturas distintas a partir de la vinculación con su contexto y analizando el concepto de arte al que responden.
 
 1.2 Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en periodos y culturas diferentes y analizando sus semejanzas y diferencias.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas.
 
 2.2 Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Identificar los elementos constituyentes de manifestaciones artísticas de diversos periodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente.
 
 3.2 Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Analizar producciones artísticas de diversos estilos y épocas y realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas.
 
 4.2 Compartir las conclusiones de investigaciones sobre producciones artísticas de diversos estilos y épocas y las relaciones con su contexto, usando los medios analógicos y digitales más adecuados.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Explicar las diferentes posibilidades expresivas del arte y su poder de transmisión de ideas, conceptos, sentimientos y emociones a partir de obras de artistas de distintas épocas y estilos, analizando las distintas interpretaciones que se han dado de ellas.
 
 5.2 Analizar producciones artísticas de diversos periodos y estilos, vinculándolas creativamente con experiencias vitales propias y ajenas y valorándolas como herramientas potenciadoras de la creatividad, la imaginación, la autoestima y el crecimiento personal.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Interpretar creaciones artísticas de distintos periodos y estilos, analizando su forma, su significado y su contexto de creación e incorporando las ideas, conocimientos, emociones y sentimientos propios.
 
 6.2 Comparar las interpretaciones que se han dado de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Plantear proyectos artísticos, individuales o colectivos, seleccionando los estilos, técnicas y lenguajes más adecuados de diversas disciplinas, y organizando y distribuyendo las tareas de manera razonada.
 
@@ -4637,7 +4632,7 @@ D. Arte y expresión.
 
 E. Naturaleza, sociedad y comunicación en el arte.
 
-− El Modernismo. Arquitectura y artes aplicadas. La arquitectura orgánica. .
+− El Modernismo. Arquitectura y artes aplicadas. La arquitectura orgánica. .
 
 − La Bauhaus. Arte y función. Diseño y artes aplicadas. El Art Déco. Arte y artesanía.
 
@@ -4663,7 +4658,7 @@ F. Metodologías y estrategias.
 
 **Geología y Ciencias Ambientales**
 
-Geología y Ciencias Ambientales de 2.º de Bachillerato es una materia de la modalidad del Bachillerato de Ciencias y Tecnología que el alumnado podrá elegir para ampliar los conocimientos y destrezas relacionados con las disciplinas científicas del mismo nombre. Contribuye al desarrollo de las ocho competencias clave y de varios de los objetivos de la etapa tal y como se explica a continuación.
+Geología y Ciencias Ambientales de 2.º de Bachillerato es una materia de la modalidad del Bachillerato de Ciencias y Tecnología que el alumnado podrá elegir para ampliar los conocimientos y destrezas relacionados con las disciplinas científicas del mismo nombre. Contribuye al desarrollo de las ocho competencias clave y de varios de los objetivos de la etapa tal y como se explica a continuación.
 
 De forma directa, por su naturaleza científica, contribuye a trabajar la competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
 
@@ -4747,7 +4742,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar críticamente conceptos y procesos, relacionados con los saberes de la materia, seleccionando e interpretando información en diversos formatos como mapas (topográficos, hidrográficos, geológicos, de vegetación, etc.), cortes, modelos, diagramas de flujo u otros.
 
@@ -4755,31 +4750,31 @@ Competencia específica 1.
 
 1.3 Realizar discusiones científicas sobre aspectos relacionados con los saberes de la materia considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con actitud receptiva y respetuosa ante la opinión de los demás.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
 
 2.2 Contrastar y justificar la veracidad de información relacionada con los saberes de la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de Geología y Ciencias Ambientales de acuerdo a la interpretación de los resultados obtenidos.
 
 3.2 Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar fenómenos relacionados con los saberes de la materia de Geología y Ciencias Ambientales a través del planteamiento y resolución de problemas buscando y utilizando las estrategias y recursos adecuados.
 
 4.2 Analizar críticamente la solución a un problema relacionado con los saberes de la materia de Geología y Ciencias Ambientales y reformular los procedimientos utilizados o conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Promover y adoptar hábitos sostenibles a partir del análisis de los diferentes tipos de recursos geológicos y de la biosfera y sus posibles usos.
 
 5.2 Relacionar el impacto de la explotación de determinados recursos con el deterioro medioambiental, argumentando sobre la importancia de su consumo y aprovechamiento responsables.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Deducir y explicar la historia geológica de un área determinada, identificando y analizando sus elementos geológicos a partir de información en diferentes formatos (fotografías, cortes, mapas geológicos, etc.).
 
@@ -4919,7 +4914,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM4, 
 
 3. Analizar la diversidad natural de España y su singularidad geográfica dentro de Europa, a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad, para reflexionar sobre la percepción personal del espacio.
 
-El análisis de la diversidad natural de España adquiere sentido al examinar la gran variedad de ecosistemas terrestres y acuáticos existentes y que tienen su reflejo en la red de espacios naturales protegidos. Su singularidad a escala europea le confiere un lugar destacado dentro de la Red Natura 2000. Tal biodiversidad se explica por la interacción particular en cada área de los factores físicos que afectan a la Península Ibérica, a los archipiélagos de Baleares y de Canarias y al resto de territorios.
+El análisis de la diversidad natural de España adquiere sentido al examinar la gran variedad de ecosistemas terrestres y acuáticos existentes y que tienen su reflejo en la red de espacios naturales protegidos. Su singularidad a escala europea le confiere un lugar destacado dentro de la Red Natura 2000. Tal biodiversidad se explica por la interacción particular en cada área de los factores físicos que afectan a la Península Ibérica, a los archipiélagos de Baleares y de Canarias y al resto de territorios.
 
 Desde el rigor que impone el método comparativo, basado en la búsqueda de analogías y diferencias, todo análisis geográfico debe partir de datos y cálculos fiables que puedan ser contrastados a la hora de describir las características y la distribución de unidades geomorfológicas, climáticas, vegetales e hídricas. Tradicionalmente el medio natural ha servido para construir la percepción que cada persona tiene del territorio y de su existencia, condicionando vínculos y sentimientos de pertenencia a uno o varios lugares. En una sociedad predominantemente urbana de pasado rural reciente, la reflexión sobre los conflictos en los usos del territorio, así como sobre la identidad individual y colectiva, debe construirse desde el respeto a los demás y la aceptación de identidades múltiples.
 
@@ -4959,43 +4954,43 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, S
 
 Criterios de evaluación
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Cuestionar modos de vida insostenibles mediante el análisis geográfico de todo tipo de fuentes de información que trate de los retos ecosociales presentes y futuros, y desde argumentos fundados en la relevancia y necesidad de las acciones para afrontarlos.
 
 1.2 Debatir sobre los retos naturales y sociales de España de forma comprometida y respetuosa con opiniones ajenas, utilizando estrategias orales con apoyo digital de gráficos, imágenes y cartografía, y manejando datos rigurosos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Valorar todo impacto de la acción antrópica desde el principio de sostenibilidad, reconociendo la complejidad sistémica del medio natural y de las propias actividades humanas.
 
 2.2 Extraer información de paisajes naturales y humanizados, analizando fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia e interrelaciones de factores físicos y humanos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Reflexionar sobre la percepción del espacio geográfico, localizando y reconociendo en mapas regiones geomorfológicas y bioclimáticas con características comunes y específicas, destacando su aportación a la sostenibilidad del medio.
 
 3.2 Identificar la diversidad y singularidad de paisajes naturales, comparando su distribución, características y contrastes a escala autonómica, de España y de Europa, así como formas humanas de relación con esos entornos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Emplear la escala apropiada para localizar o representar, con apoyo de las TIG, cualquier fenómeno físico o humano, justificando los métodos y datos elegidos, y la delimitación de regiones o categorías de análisis, así como de áreas de transición.
 
 4.2 Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Valorar la dignidad humana analizando críticamente las consecuencias de nuestras acciones sobre las condiciones laborales y de vida, tanto en España como en otros países, investigando el sistema de relaciones económicas globalizadas y los sectores económicos, y planteando soluciones razonables.
 
 5.2 Expresar la necesidad de preservar el medio ambiente, indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Justificar la necesidad de los mecanismos de compensación de las desigualdades individuales y territoriales, identificando los procesos pasados y recientes, así como sus causas y consecuencias sociolaborales y demográficas.
 
 6.2 Argumentar sobre el origen de los desequilibrios socioeconómicos de España y Europa, analizando los factores de localización de las actividades económicas y de la población en una sociedad terciarizada.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Reelaborar saberes sobre fenómenos naturales y humanos relevantes a diferentes escalas y en nuevos contextos, aplicando el pensamiento geográfico, movilizando y revisando críticamente conocimientos previos y nuevos, diagnosticando problemas y oportunidades, y razonando sobre posibles previsiones y soluciones.
 
@@ -5019,7 +5014,7 @@ B. La sostenibilidad del medio físico de España.
 
 − Biodiversidad, suelos y red hídrica. Características por regiones naturales. Impacto de las actividades humanas y efectos sobre las mismas: pérdida de biodiversidad, de suelos y gestión del agua. Interpretación de imágenes, cartografía y datos. Riesgos generados por las personas.
 
-− Políticas ambientales en España y la Unión Europea: uso de herramientas de diagnóstico. La red de Espacios Naturales Protegidos y la red Natura 2000. El debate sobre los cambios del modelo de desarrollo: el principio de sostenibilidad.
+− Políticas ambientales en España y la Unión Europea: uso de herramientas de diagnóstico. La red de Espacios Naturales Protegidos y la red Natura 2000. El debate sobre los cambios del modelo de desarrollo: el principio de sostenibilidad.
 
 C. La ordenación del territorio en el enfoque ecosocial.
 
@@ -5047,7 +5042,7 @@ Asimismo, la materia de Griego parte de los textos para favorecer la aproximaci�
 
 El estudio del patrimonio cultural, arqueológico y artístico griego, material e inmaterial, merece una atención específica y permite observar y reconocer en nuestra vida cotidiana la herencia directa de la civilización helena. La aproximación a los procesos que favorecen la sostenibilidad de este legado –preservación, conservación y restauración– supone, también, una oportunidad para que el alumnado conozca las posibilidades profesionales en el ámbito de los museos, las bibliotecas o la gestión cultural y la conservación del patrimonio.
 
-Las competencias específicas de Griego han sido diseñadas a partir de los descriptores operativos de las competencias clave en esta etapa, especialmente de la competencia plurilingüe, la competencia en comunicación lingüística y la competencia ciudadana, ya mencionada. La competencia plurilingüe, que tiene como referente la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, sitúa el latín y el griego clásico como herramientas para el aprendizaje y la comprensión de lenguas en general. El enfoque plurilingüe de la materia de Griego en Bachillerato implica una reflexión profunda sobre el funcionamiento no solo de la propia lengua griega, su léxico, sus formantes, sus peculiaridades y su riqueza en matices, sino también de las lenguas de enseñanza y de aquellas que conforman el repertorio lingüístico individual del alumnado, estimulando la reflexión metalingüística e interlingüística y contribuyendo al refuerzo de las competencias comunicativas, al aprecio de la diversidad lingüística y la relación entre las lenguas desde una perspectiva inclusiva, democrática y libre de prejuicios.
+Las competencias específicas de Griego han sido diseñadas a partir de los descriptores operativos de las competencias clave en esta etapa, especialmente de la competencia plurilingüe, la competencia en comunicación lingüística y la competencia ciudadana, ya mencionada. La competencia plurilingüe, que tiene como referente la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, sitúa el latín y el griego clásico como herramientas para el aprendizaje y la comprensión de lenguas en general. El enfoque plurilingüe de la materia de Griego en Bachillerato implica una reflexión profunda sobre el funcionamiento no solo de la propia lengua griega, su léxico, sus formantes, sus peculiaridades y su riqueza en matices, sino también de las lenguas de enseñanza y de aquellas que conforman el repertorio lingüístico individual del alumnado, estimulando la reflexión metalingüística e interlingüística y contribuyendo al refuerzo de las competencias comunicativas, al aprecio de la diversidad lingüística y la relación entre las lenguas desde una perspectiva inclusiva, democrática y libre de prejuicios.
 
 Estas competencias específicas ofrecen, por tanto, la oportunidad de establecer un diálogo profundo entre presente y pasado desde una perspectiva crítica y humanista: por un lado, situando el texto, su comprensión y su traducción como elementos fundamentales en el aprendizaje de las lenguas clásicas y como puerta de acceso a su cultura y civilización, activando simultáneamente los saberes de carácter lingüístico y no lingüístico; y por otro lado, desarrollando herramientas que favorezcan la reflexión crítica, personal y colectiva en torno a los textos y al legado material e inmaterial de la civilización griega y su aportación fundamental a la cultura, la sociedad, la política y la identidad europeas.
 
@@ -5105,7 +5100,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
 
@@ -5117,7 +5112,7 @@ Competencia específica 1.
 
 1.5 Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
@@ -5125,7 +5120,7 @@ Competencia específica 2.
 
 2.3 Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Interpretar y comentar, de forma guiada, textos y fragmentos literarios griegos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
@@ -5135,7 +5130,7 @@ Competencia específica 3.
 
 3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
@@ -5143,7 +5138,7 @@ Competencia específica 4.
 
 4.3 Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
 
@@ -5273,7 +5268,7 @@ V. Legado y patrimonio.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
 
@@ -5285,7 +5280,7 @@ Competencia específica 1.
 
 1.5 Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
@@ -5293,7 +5288,7 @@ Competencia específica 2.
 
 2.3 Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
@@ -5303,7 +5298,7 @@ Competencia específica 3.
 
 3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
@@ -5311,7 +5306,7 @@ Competencia específica 4.
 
 4.3 Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
 
@@ -5519,41 +5514,41 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Valorar y respetar la diversidad de manifestaciones artísticas a partir de la investigación y el debate en torno a las diferentes concepciones del arte y el análisis de obras concretas sobre las que comprobar la pertinencia de dichas concepciones.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Elaborar y expresar con coherencia y fluidez juicios y emociones propios acerca de las obras de arte y mostrar respeto y empatía por los juicios y expresiones de los demás, utilizando la terminología y el vocabulario específico de la materia y demostrando un conocimiento básico de los diversos lenguajes artísticos aprendidos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Distinguir y analizar las funciones y las dimensiones religiosa, ideológica, política, social, económica, expresiva y propiamente estética de las obras de arte, demostrando una comprensión y un juicio crítico y fundamentado de las mismas y de su producción y su percepción.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Conocer y explicar las principales manifestaciones y movimientos artísticos, identificando y analizando su contexto cultural, su vinculación con las funciones atribuibles al arte, sus características estilísticas fundamentales y su desarrollo en el tiempo.
 
 4.2 Reconocer los mecanismos que rigen la evolución de la historia del arte a partir del análisis comparativo de obras de diversas épocas y de la explicación de las relaciones de influencia, préstamos, continuidad y ruptura que se producen entre estilos, autores y movimientos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Elaborar comentarios histórico-artísticos de distintas obras de arte a partir del conocimiento crítico y argumentado de su contexto histórico, sus funciones y su relevancia social, política y cultural, valorando y respetando distintas obras y formas de manifestaciones artísticas.
 
 5.2 Identificar y analizar la complejidad del proceso de creación artística, elaborando reseñas biográficas sobre las figuras más destacadas y atendiendo a aquellos aspectos personales que faciliten la comprensión del significado y del valor de la obra, tomando conciencia del papel del artista en el proceso creador.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Comprender la importancia de la conservación y promoción del patrimonio artístico, investigando acerca de los procesos de adquisición, conservación, exhibición y uso sostenible de obras de arte, así como sobre el impacto positivo y negativo de las acciones humanas sobre ellas.
 
 6.2 Analizar el papel conformador de la identidad individual y colectiva que poseen el arte y el patrimonio artístico, analizando las autorrepresentaciones humanas y el uso de recursos estéticos e iconográficos en la generación y el mantenimiento de los vínculos grupales.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Elaborar argumentos propios acerca de la noción de belleza, comparando cánones y obras de diversos tipos, estilos, épocas y lugares, apreciando la diversidad como fuente de enriquecimiento, superando estereotipos y prejuicios y promoviendo la formación de una imagen ajustada de sí mismo.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Conocer las principales figuras femeninas de la historia del arte, dando visibilidad a la mujer como artista, analizando el contexto político, social y cultural en el que desarrollaron su producción artística y reconociendo su esfuerzo por hacerse valer en él.
 
@@ -5623,19 +5618,19 @@ La aproximación a la metodología histórica, al uso riguroso y crítico de las
 
 Las competencias específicas se han estructurado en torno a los vectores que vienen constituyendo los principales centros de interés en el presente, que definen las estrategias para aprender del pasado y que resultan relevantes para orientar nuestro porvenir. Se pretende con ello destacar el valor funcional y significativo del aprendizaje de la Historia de España y de los saberes que esta materia ofrece, dotándolos de un sentido práctico y relacionándolos con el entorno real del alumnado.
 
-La libertad, el primero de esos ejes vertebradores, ofrece una perspectiva no lineal que atraviesa toda la época contemporánea hasta nuestros días, recogiendo la trayectoria de nuestra memoria democrática hasta la Constitución de 1978 y los retos actuales y futuros a los que puede enfrentarse nuestra democracia. Las identidades nacionales y regionales se proyectan más atrás en el tiempo y, como las creencias y las ideologías, que tanta trascendencia tienen y han tenido a lo largo de la historia, conectan procesos diversos y resultan esenciales para, a partir de su análisis histórico, destacar, antes que lo que nos separa y diferencia, los elementos que nos unen, con objeto de favorecer el diálogo y la convivencia. El progreso y el crecimiento económico, desde la perspectiva de la sostenibilidad, la cohesión territorial y la justicia social, así como la visión de la diversidad social o de la igualdad de género a lo largo del tiempo, se han convertido también en campos fundamentales para el estudio de la historia y el análisis del presente. El marco comparativo con la historia de otros países del mundo occidental, las relaciones internacionales y la conexión del territorio español con los grandes procesos históricos, constituyen igualmente un vector imprescindible para la interpretación de la evolución y desarrollo de nuestro país, así como para el análisis de sus analogías y singularidades, subrayando aquellas etapas históricas en las que sus instituciones, colectivos o ciertos individuos destacados han tenido un especial protagonismo. Finalmente, otra de las competencias específicas, de carácter transversal, subraya la expresión práctica y metodológica del pensamiento histórico y del aprendizaje activo que debe llevar a cabo el alumnado.
+La libertad, el primero de esos ejes vertebradores, ofrece una perspectiva no lineal que atraviesa toda la época contemporánea hasta nuestros días, recogiendo la trayectoria de nuestra memoria democrática hasta la Constitución de 1978 y los retos actuales y futuros a los que puede enfrentarse nuestra democracia. Las identidades nacionales y regionales se proyectan más atrás en el tiempo y, como las creencias y las ideologías, que tanta trascendencia tienen y han tenido a lo largo de la historia, conectan procesos diversos y resultan esenciales para, a partir de su análisis histórico, destacar, antes que lo que nos separa y diferencia, los elementos que nos unen, con objeto de favorecer el diálogo y la convivencia. El progreso y el crecimiento económico, desde la perspectiva de la sostenibilidad, la cohesión territorial y la justicia social, así como la visión de la diversidad social o de la igualdad de género a lo largo del tiempo, se han convertido también en campos fundamentales para el estudio de la historia y el análisis del presente. El marco comparativo con la historia de otros países del mundo occidental, las relaciones internacionales y la conexión del territorio español con los grandes procesos históricos, constituyen igualmente un vector imprescindible para la interpretación de la evolución y desarrollo de nuestro país, así como para el análisis de sus analogías y singularidades, subrayando aquellas etapas históricas en las que sus instituciones, colectivos o ciertos individuos destacados han tenido un especial protagonismo. Finalmente, otra de las competencias específicas, de carácter transversal, subraya la expresión práctica y metodológica del pensamiento histórico y del aprendizaje activo que debe llevar a cabo el alumnado.
 
 Los criterios de evaluación conjugan las competencias específicas con los saberes básicos y van orientados al logro de los objetivos del Bachillerato y de las competencias clave. Suponen por tanto una adaptación de las metodologías y acciones educativas para este tipo de aprendizaje por parte del alumnado, utilizando estrategias en las que este pueda ejercitar tanto los procesos instrumentales como las actitudes propuestas, utilizando las bases metodológicas del pensamiento histórico en la construcción del conocimiento. Todo ello implica disponer de nuevos y variados instrumentos para valorar un conjunto amplio y diverso de acciones, teniendo en cuenta la diversidad e individualidad del alumnado.
 
-Los saberes básicos se agrupan en tres bloques: «Sociedades en el tiempo», «Retos del mundo actual» y «Compromiso cívico». Sigue casi la misma denominación que en la materia de Historia del Mundo Contemporáneo de 1.º de Bachillerato, dando así continuidad y coherencia a los principios que guían y orientan a estas materias. En su organización se ha optado por la presentación cronológica, con la que el profesorado y el alumnado se encuentran más familiarizados, pero en su propia definición y articulación puede observarse una intención temática, incidiendo en aquellos elementos y problemas que resultan más relevantes de cada época histórica. Se relacionan los saberes básicos de la España contemporánea y actual, que cuentan con mayor presencia, con los de etapas históricas anteriores. Se pretende incidir con ello en el carácter funcional de los aprendizajes y en la conexión del pasado más lejano con las épocas más recientes. En cualquier caso, los hechos y acontecimientos deben plantearse contextualizados en su momento histórico, caracterizando debidamente cada etapa de la historia y situándola adecuadamente en la línea del tiempo, evitando así una visión presentista.
+Los saberes básicos se agrupan en tres bloques: «Sociedades en el tiempo», «Retos del mundo actual» y «Compromiso cívico». Sigue casi la misma denominación que en la materia de Historia del Mundo Contemporáneo de 1.º de Bachillerato, dando así continuidad y coherencia a los principios que guían y orientan a estas materias. En su organización se ha optado por la presentación cronológica, con la que el profesorado y el alumnado se encuentran más familiarizados, pero en su propia definición y articulación puede observarse una intención temática, incidiendo en aquellos elementos y problemas que resultan más relevantes de cada época histórica. Se relacionan los saberes básicos de la España contemporánea y actual, que cuentan con mayor presencia, con los de etapas históricas anteriores. Se pretende incidir con ello en el carácter funcional de los aprendizajes y en la conexión del pasado más lejano con las épocas más recientes. En cualquier caso, los hechos y acontecimientos deben plantearse contextualizados en su momento histórico, caracterizando debidamente cada etapa de la historia y situándola adecuadamente en la línea del tiempo, evitando así una visión presentista.
 
 El enfoque competencial del Bachillerato y de la Historia de España abre nuevas oportunidades y posibilidades para crear escenarios de aprendizaje más activos, en los que dotar de mayor protagonismo al alumnado, que permitan el trabajo en equipo, los procesos de indagación e investigación, la creatividad y la transferencia del conocimiento adquirido. Tal enfoque y dichos escenarios son, también, el marco adecuado para plantear propuestas interdisciplinares con las que trabajar de manera coordinada con otras áreas de conocimiento, de manera que se facilite la interconexión de los saberes y se permita su afianzamiento. Todo ello teniendo en cuenta que el centro de atención debe estar en el ejercicio de una ciudadanía informada y consciente, que valore la trayectoria de un país con una democracia consolidada y, a la vez, sea crítica con respecto a la desigualdad y las expectativas incumplidas. La finalidad es el desarrollo en el alumnado de una actitud respetuosa, que dé valor a la convivencia y al diálogo, se comprometa con la mejora de la comunidad y del entorno, y esté dispuesta a afrontar los retos que le depara el siglo XXI.
 
 Competencias específicas.
 
-1. Valorar los movimientos y acciones que han promovido las libertades en la historia de España, utilizando términos y conceptos históricos, a través del análisis comparado de los distintos regímenes políticos, para reconocer el legado democrático de la Constitución de 1978 como fundamento de nuestra convivencia y garantía de nuestros derechos.
+1. Valorar los movimientos y acciones que han promovido las libertades en la historia de España, utilizando términos y conceptos históricos, a través del análisis comparado de los distintos regímenes políticos, para reconocer el legado democrático de la Constitución de 1978 como fundamento de nuestra convivencia y garantía de nuestros derechos.
 
-La Constitución de 1978 inició la etapa de convivencia pacífica y democrática más larga y duradera de la historia de España. El alumnado debe concebir el estado social y de derecho actual no solo como resultado del entendimiento y de la acción de determinados hombres y mujeres comprometidos con la libertad, sino también como el fruto del ejercicio diario de una ciudadanía activa identificada con sus principios e inspirada en sus valores. De este modo, se ha de interpretar la memoria democrática, no solo como efecto directo de la experiencia histórica de la Transición, sino como resultado del complejo camino que el constitucionalismo ha recorrido desde 1812. Todo esto implica considerar la historia como un proceso no lineal, de avances y retrocesos, valorando lo que las distintas culturas políticas han aportado al afianzamiento del parlamentarismo y al establecimiento de la democracia. Para ello resulta necesario desarrollar estrategias comparativas sobre los distintos regímenes políticos que se han ido sucediendo desde el fin del absolutismo y el reinado de Isabel II hasta la Restauración y la Constitución de 1931, así como la correcta utilización de aquellos términos y conceptos históricos, políticos y jurídicos que permitan definir su naturaleza y contextualizar sus dinámicas y logros. Por otro lado, se persigue el reconocimiento y la interpretación de los diferentes significados asignados al concepto de libertad, así como el análisis de los distintos y a veces contrapuestos intereses presentes en ellos, de manera que el alumnado entienda que la libertad, como principio inherente del ser humano, implica una actitud crítica y exigente ante el cumplimiento de sus principios y aspiraciones dentro del propio marco constitucional.
+La Constitución de 1978 inició la etapa de convivencia pacífica y democrática más larga y duradera de la historia de España. El alumnado debe concebir el estado social y de derecho actual no solo como resultado del entendimiento y de la acción de determinados hombres y mujeres comprometidos con la libertad, sino también como el fruto del ejercicio diario de una ciudadanía activa identificada con sus principios e inspirada en sus valores. De este modo, se ha de interpretar la memoria democrática, no solo como efecto directo de la experiencia histórica de la Transición, sino como resultado del complejo camino que el constitucionalismo ha recorrido desde 1812. Todo esto implica considerar la historia como un proceso no lineal, de avances y retrocesos, valorando lo que las distintas culturas políticas han aportado al afianzamiento del parlamentarismo y al establecimiento de la democracia. Para ello resulta necesario desarrollar estrategias comparativas sobre los distintos regímenes políticos que se han ido sucediendo desde el fin del absolutismo y el reinado de Isabel II hasta la Restauración y la Constitución de 1931, así como la correcta utilización de aquellos términos y conceptos históricos, políticos y jurídicos que permitan definir su naturaleza y contextualizar sus dinámicas y logros. Por otro lado, se persigue el reconocimiento y la interpretación de los diferentes significados asignados al concepto de libertad, así como el análisis de los distintos y a veces contrapuestos intereses presentes en ellos, de manera que el alumnado entienda que la libertad, como principio inherente del ser humano, implica una actitud crítica y exigente ante el cumplimiento de sus principios y aspiraciones dentro del propio marco constitucional.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CPSAA1.2, CPSAA3.1, CC1, CC2.
 
@@ -5683,25 +5678,25 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la quiebra de la Monarquía Absoluta y los inicios de la España liberal a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen y la aplicación efectiva de los mismos.
 
-1.2 Identificar y valorar el papel de la Transición en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
+1.2 Identificar y valorar el papel de la Transición en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo la pluralidad identitaria de nuestro país y respetando los distintos sentimientos de pertenencia.
 
 2.2 Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del estado y en la construcción de la nación española, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Analizar la evolución económica de España, sus ritmos y ciclos de crecimiento, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando su particular proceso de modernización en el contexto de los países del entorno y los debates historiográficos sobre su desarrollo industrial, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
 
 3.2 Entender los distintos significados de la idea del progreso en sus contextos históricos, desarrollando el estudio multicausal de los modelos de desarrollo económico aplicados a la España contemporánea y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España desde el paso del Antiguo Régimen a la nueva sociedad burguesa, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
@@ -5709,27 +5704,27 @@ Competencia específica 4.
 
 4.3 Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por el estado hasta el presente, la evolución de los niveles de vida y de bienestar, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Referir el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales.
 
 5.2 Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España contemporánea, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
 
-5.3 Emplear el rigor metodológico de la historia en el estudio de las grandes reformas estructurales que acometió la II República, identificando sus logros y las reacciones antidemocráticas que se produjeron y que derivaron en el golpe de Estado de 1936, aproximándose a la historiografía sobre la Guerra Civil y al marco conceptual del estudio de los sistemas totalitarios y autoritarios a través de la interpretación de la evolución del Franquismo.
+5.3 Emplear el rigor metodológico de la historia en el estudio de las grandes reformas estructurales que acometió la II República, identificando sus logros y las reacciones antidemocráticas que se produjeron y que derivaron en el golpe de Estado de 1936, aproximándose a la historiografía sobre la Guerra Civil y al marco conceptual del estudio de los sistemas totalitarios y autoritarios a través de la interpretación de la evolución del Franquismo.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Señalar los retos globales y los principales compromisos del Estado español en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
 
 6.2 Reconocer el valor geoestratégico de la península Ibérica, identificando el rico legado histórico y cultural generado a raíz de su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución con respecto a otros países europeos y los estereotipos asociados a las mismas, así como la influencia de las relaciones internacionales.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
 
 7.2 Constatar el papel relegado de la mujer en la historia analizando fuentes literarias y artísticas, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras individuales y colectivas como protagonistas silenciadas y omitidas de la historia.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural del entorno local, considerando el patrimonio histórico como un bien común que se debe proteger.
 
@@ -5747,7 +5742,7 @@ A. Sociedades en el tiempo.
 
 − Religión, iglesia y estado. El papel del catolicismo en la configuración cultural y política de España y en los movimientos políticos y sociales. La situación de las minorías religiosas. Las relaciones entre la Iglesia y el Estado liberal. El nacionalcatolicismo. Laicismo, librepensamiento y secularización. El anticlericalismo.
 
-− Estudio comparado de los regímenes liberales y del constitucionalismo en España: de los inicios del régimen liberal y la constitución de 1812, los orígenes de la democracia, hasta la Constitución democrática de 1931. Términos y conceptos de la historia para el estudio de los sistemas políticos.
+− Estudio comparado de los regímenes liberales y del constitucionalismo en España: de los inicios del régimen liberal y la constitución de 1812, los orígenes de la democracia, hasta la Constitución democrática de 1931. Términos y conceptos de la historia para el estudio de los sistemas políticos.
 
 − Ideologías y culturas políticas en la España contemporánea: conflictividad, sistemas políticos y usos del poder. Estudio de textos y contextos de las facciones, partidos y movimientos políticos, desde el carlismo y las distintas fuerzas monárquicas al republicanismo y el obrerismo revolucionario. El papel de los exilios en la España contemporánea y su contribución a la construcción de la Europa de las libertades.
 
@@ -5763,7 +5758,7 @@ A. Sociedades en el tiempo.
 
 − La II República y la transformación democrática de España: las grandes reformas estructurales y el origen histórico de las mismas. Realizaciones sociales, políticas y culturales; reacciones antidemocráticas contra las reformas.
 
-− El golpe de estado de 1936, la Guerra Civil y el Franquismo: aproximación a la historiografía sobre el conflicto y al marco conceptual de los sistemas totalitarios y autoritarios. Fundamentos ideológicos del régimen franquista, relaciones internacionales y etapas políticas y económicas. La represión, la resistencia, el exilio y los movimientos de protesta contra la dictadura por la recuperación de los valores, derechos y libertades democráticas.
+− El golpe de estado de 1936, la Guerra Civil y el Franquismo: aproximación a la historiografía sobre el conflicto y al marco conceptual de los sistemas totalitarios y autoritarios. Fundamentos ideológicos del régimen franquista, relaciones internacionales y etapas políticas y económicas. La represión, la resistencia, el exilio y los movimientos de protesta contra la dictadura por la recuperación de los valores, derechos y libertades democráticas.
 
 − Mecanismos de dominación, roles de género, espacios de actividad y escenarios de sociabilidad de las mujeres en la historia de España. Protagonistas femeninas individuales y colectivas. La lucha por la emancipación de la mujer y los movimientos feministas. Fuentes literarias y artísticas en los estudios de género.
 
@@ -5775,7 +5770,7 @@ B. Retos del mundo actual.
 
 − Crecimiento económico y sostenibilidad: manejo de datos, aplicaciones y gráficos para el análisis de la evolución de la economía española desde el Desarrollismo a la actualidad. Desequilibrios sociales, territoriales y ambientales.
 
-− La Transición y la Constitución de 1978: Identificación de los retos, logros dificultades, y resistencias del fin de la dictadura y el establecimiento de la democracia. La normalización democrática y la amenaza del terrorismo.
+− La Transición y la Constitución de 1978: Identificación de los retos, logros dificultades, y resistencias del fin de la dictadura y el establecimiento de la democracia. La normalización democrática y la amenaza del terrorismo.
 
 − España en Europa: derivaciones económicas, sociales y políticas del proceso de integración en la Unión Europea, situación actual y expectativas de futuro.
 
@@ -5869,39 +5864,39 @@ Esta competencia específica se conecta con los siguientes descriptores: CPSAA4,
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Generar un conocimiento riguroso de fuentes y documentos filosóficamente relevantes, aplicando técnicas de búsqueda, organización, análisis, comparación e interpretación de los mismos, y relacionándolos correctamente con contextos históricos, problemas, tesis, autores y autoras, así como con elementos pertenecientes a otros ámbitos culturales.
 
 1.2 Construir juicios propios acerca de problemas histórico-filosóficos, a través de la elaboración y presentación de documentos y trabajos de investigación sobre los mismos con precisión y aplicando los protocolos al uso, tanto de forma individual como grupal y cooperativa.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Emplear argumentos de modo riguroso, reconociendo y aplicando normas, técnicas y pautas lógicas, retóricas y argumentativas, y evitando modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis.
 
 2.2 Sostener el hábito del diálogo argumentativo, empático, abierto y constructivamente comprometido con la búsqueda del conocimiento, a través de la participación activa, respetuosa y colaborativa en cuantas actividades se propongan.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir y expresar un conocimiento significativo de las más importantes propuestas filosóficas que se han sucedido a lo largo de la historia, a través de la indagación sobre ellas y la identificación de las cuestiones a las que responden.
 
 3.2 Identificar, comprender y debatir sobre los principales problemas, ideas, tesis y controversias filosóficas de la historia del pensamiento, a través del análisis y comentario crítico de textos y documentos filosóficos o relevantes para la filosofía.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Generar una concepción plural, dialéctica, abierta y crítica de la historia del pensamiento, a través de la comprensión, la realización de síntesis comparativas y la exposición de las relaciones de oposición y complementariedad entre tesis, escuelas, filósofos y filósofas de una misma época o tradición o de distintas épocas y tradiciones.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Afrontar los grandes problemas filosóficos en su doble aspecto histórico y universal a través del análisis y exposición crítica de las condiciones culturales que han permitido en cada caso la aparición y evolución de dichos problemas en distintos momentos de la historia.
 
 5.2 Comprender la dimensión temporal y universal de los problemas filosóficos más importantes, comparando mediante esquemas u otros productos o actividades el tratamiento filosófico que se hace de ellos en distintas épocas, escuelas, tradiciones, autores y autoras.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Adquirir una concepción sistémica y relacional de la historia de la cultura occidental y del papel de las ideas filosóficas en ella, mediante el análisis comentario y comparación de textos o documentos literarios, historiográficos, periodísticos, científicos o religiosos, así como de cualquier otra manifestación cultural, en los que se expresen problemas y concepciones filosóficamente relevantes.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Desarrollar la autonomía de juicio, y promover planteamientos, actitudes y acciones ética y cívicamente consecuentes, con respecto a problemas fundamentales de la actualidad, a partir de la comprensión de ideas, teorías y controversias histórico-filosóficas que puedan contribuir a clarificar tales problemas y de la elaboración de propuestas de carácter crítico y personal con respecto a los mismos.
 
@@ -5969,7 +5964,7 @@ Las diferentes competencias específicas que conforman la materia se dirigen al 
 
 Los criterios de evaluación conjugan las competencias específicas con los saberes básicos y están orientados al logro de los objetivos generales del Bachillerato. En ellos se incorporan todos los tipos de saberes, conocimientos, destrezas, actitudes y valores, que deberán estimarse de manera conjunta y equilibrada. Suponen, así, la adaptación de estrategias metodológicas y acciones educativas en las que se ejerciten tanto los procesos instrumentales como las actitudes, aplicándose para ello los principios y pautas metodológicas del pensamiento histórico en la construcción del conocimiento. Dicha adaptación implica, por tanto, la disposición de instrumentos de evaluación adecuados y diferenciados con los que ponderar un conjunto amplio y diverso de acciones, teniendo siempre en cuenta la diversidad e individualidad del alumnado.
 
-El planteamiento y diseño de esta materia responde a una propuesta de aprendizaje general común al desarrollo de la materia de Geografía e Historia en Educación Secundaria Obligatoria y de la materia de Historia de España de 2.º de Bachillerato. De esta manera, tanto los presupuestos didácticos y la definición competencial como la organización de los saberes básicos mantienen una redacción y estructura estrechamente vinculada, lo que permite concebir de un modo coherente el aprendizaje de la historia y de las ciencias sociales, así como apreciar mejor su valor educativo.
+El planteamiento y diseño de esta materia responde a una propuesta de aprendizaje general común al desarrollo de la materia de Geografía e Historia en Educación Secundaria Obligatoria y de la materia de Historia de España de 2.º de Bachillerato. De esta manera, tanto los presupuestos didácticos y la definición competencial como la organización de los saberes básicos mantienen una redacción y estructura estrechamente vinculada, lo que permite concebir de un modo coherente el aprendizaje de la historia y de las ciencias sociales, así como apreciar mejor su valor educativo.
 
 Los saberes básicos están agrupados en tres bloques: «Sociedades en el tiempo», «Retos del mundo actual» y «Compromiso cívico». La organización y redacción de estos saberes se asienta alrededor de los ejes y claves conceptuales que estructuran las competencias específicas y tienen una clara intencionalidad temática, aunque mantengan una cierta disposición cronológica y un bloque específico dedicado al mundo actual. Esta forma de organizar los saberes pretende promover no solo la conexión del pasado con el presente inmediato, para insistir así en el carácter funcional y significativo de los aprendizajes, sino también el establecimiento de marcos comparativos con respecto al despliegue de experiencias y procesos históricos determinados entre distintas etapas de esta misma época. De este modo, se acentúa el tipo de aproximación interpretativa y comprensiva de la historia contemporánea que se pretende, sin que por ello se descontextualicen los hechos y acontecimientos concretos más relevantes, que deben ser identificados y explicados desde los parámetros y variables que definen cada momento histórico y la aplicación del criterio de causalidad, esencial en esta disciplina. Por lo demás, esta propuesta de saberes ha de permitir al profesorado y al equipo docente de los centros desarrollar sus propias intenciones y programaciones educativas, incorporando proyectos interdisciplinares que impliquen el trabajo con otras materias.
 
@@ -6027,7 +6022,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, S
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar y reconocer los logros que suponen los actuales sistemas democráticos como el resultado no lineal en el tiempo de los movimientos y acciones que han contribuido al afianzamiento y articulación del principio de libertad, a través del análisis de los principales procesos históricos que se han desarrollado, la comprensión de los textos políticos y constitucionales fundamentales y el uso adecuado de términos y conceptos históricos.
 
@@ -6035,13 +6030,13 @@ Competencia específica 1.
 
 1.3 Entender el significado histórico de las transiciones políticas y de los procesos de democratización de la Edad Contemporánea como fundamento y garantía para la convivencia y el ejercicio de los derechos fundamentales, valorando las implicaciones que suponen el ejercicio de la ciudadanía activa y el respeto al ordenamiento constitucional, y generando juicios propios tanto con respecto al cumplimiento de aspiraciones y expectativas como a las amenazas y riesgos de la vida en democracia.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por los conflictos ocurridos en el mundo contemporáneo, así como de las causas de las conflagraciones bélicas y de las múltiples transformaciones que se producen en los contendientes, a través del empleo de fuentes históricas fiables y del uso de datos contrastados, valorando el impacto social y emocional que supone el uso de la violencia y el papel de las instituciones internacionales que velan por la paz y la mediación.
 
 2.2 Analizar los principales conflictos civiles que se han producido en la Edad Contemporánea, a través del empleo de textos historiográficos y la elaboración de juicios argumentados, comprendiendo la importancia de la memoria histórica y del reconocimiento de las víctimas, del principio de Justicia Universal y del derecho a la verdad, la reparación y la garantía de no repetición.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Describir la evolución de los conceptos de igualdad y de ciudadanía en la historia contemporánea y sus derivaciones sociales y políticas, a través del análisis multicausal de los principales sistemas políticos y sociales de los siglos XIX y XX, identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
@@ -6049,31 +6044,31 @@ Competencia específica 3.
 
 3.3 Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por los diferentes estados contemporáneos, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Analizar críticamente cómo se han ido construyendo en el tiempo las identidades colectivas, empleando los conceptos y métodos del pensamiento histórico, respetando la pluralidad y los sentimientos identitarios y valorando el legado histórico y cultural de las mismas.
 
 4.2 Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, identificando las múltiples valencias de las mismas, mediante el análisis crítico de textos históricos e historiográficos y de fuentes de información actual, elaborando argumentos propios que contribuyan a un diálogo constructivo al respecto.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Analizar críticamente el fenómeno histórico de la globalización y su repercusión en el ámbito local y planetario, valiéndose del manejo de distintas fuentes de información y de una adecuada selección, validación, contraste y tratamiento de las mismas, previniendo la desinformación y considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico, social y cultural en constante cambio.
 
 5.2 Identificar los principales retos del siglo XXI y el origen histórico de los mismos, a través del análisis de la interconexión entre diversos procesos políticos, económicos, sociales y culturales en un contexto global, argumentando la necesidad de adoptar comportamientos ecosocialmente responsables y orientados a la sostenibilidad del planeta, la defensa de las instituciones democráticas, la mejora del bienestar colectivo y la solidaridad entre las generaciones presentes y futuras.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Valorar el significado histórico de la idea de progreso y sus múltiples consecuencias sociales, territoriales y ambientales, a través del tratamiento de datos numéricos, la interpretación de gráficos y la comprensión multifactorial de los ritmos y ciclos de crecimiento, argumentando la necesidad de adoptar comportamientos ecosociales que garanticen la sostenibilidad del planeta.
 
 6.2 Comparar los distintos sistemas económicos que se han desarrollado en el mundo contemporáneo, a través del análisis multidisciplinar de los mismos y de las doctrinas y teorías de las que derivan, identificando las relaciones de subordinación y de dependencia y los conflictos que generan, tanto en el ámbito nacional como internacional, y justificando la necesidad del acceso universal a los recursos básicos.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado el pensamiento y las ideologías en la transformación de la realidad, desde los orígenes de la Edad Contemporánea hasta la actualidad, comprendiendo y contextualizando dicho fenómeno a través del trabajo sobre textos históricos e historiográficos y de fuentes literarias, del cine y otros documentos audiovisuales.
 
 7.2 Abordar críticamente los principales temas clave de la historia y de la actualidad a través de la aproximación a las principales corrientes historiográficas y a los usos que se hacen de la historia, valorando críticamente los principales proyectos sociales, políticos y culturales que han tenido lugar en la historia contemporánea desde la perspectiva ética contenida en la Declaración Universal de los Derechos Humanos.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Analizar los cambios y permanencias en la historia, atendiendo a procesos de más larga duración, como los comportamientos demográficos, ciclos vitales y modos de vida en la sociedad contemporánea, a través del acercamiento al pensamiento histórico y la realización de proyectos de investigación, identificando los mecanismos de control, dominio y sumisión, los roles de género y edad asignados, así como los escenarios de lucha por la dignidad y contra la discriminación de diversos colectivos.
 
@@ -6215,19 +6210,19 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer los rasgos estilísticos de la música y de la danza en las diferentes épocas históricas, a través de la escucha activa y del visionado de manifestaciones artísticas, así como del análisis de partituras y textos representativos.
 
 1.2 Determinar la función de la música y de la danza en los diferentes contextos, estableciendo vínculos entre las características de estas manifestaciones artísticas y los hechos histórico-estéticos que determinan el periodo.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Explicar la relación entre la música, la danza y otras manifestaciones artísticas, identificando los condicionantes históricos y los fundamentos estéticos que comparten y analizando su carácter interdisciplinar.
 
 2.2 Analizar la importancia del patrimonio musical, escénico y artístico como expresión de una época, valorando la responsabilidad sobre su conservación y difusión.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Experimentar con las características de la música y de la danza de un periodo histórico determinado, interpretando o dramatizando fragmentos o adaptaciones de obras relevantes con instrumentos musicales, la voz o el propio cuerpo.
 
@@ -6235,7 +6230,7 @@ Competencia específica 3.
 
 3.3 Participar activamente en las interpretaciones asumiendo las diferentes funciones que se asignen y mostrando interés por aproximarse al conocimiento y disfrute del repertorio propuesto.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Analizar las diferentes corrientes interpretativas, comparando distintas versiones musicales de una misma obra e identificando su vinculación con la estética del periodo.
 
@@ -6243,7 +6238,7 @@ Competencia específica 4.
 
 4.3 Reconocer la identidad cultural propia, valorando la riqueza del patrimonio musical a través de las investigaciones realizadas.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Explicar los distintos conceptos teórico-estéticos aplicados a la música y la danza, usando de forma fiable y responsable las tecnologías digitales y respetando los derechos de autor y la propiedad intelectual.
 
@@ -6301,7 +6296,7 @@ Asimismo, la materia de Latín parte de los textos para favorecer la aproximaci�
 
 El estudio del patrimonio cultural, arqueológico y artístico romano, material e inmaterial, merece una atención específica y permite observar y reconocer en nuestra vida cotidiana la herencia directa de la civilización latina. La aproximación a los procesos que favorecen la sostenibilidad de este legado –preservación, conservación y restauración– supone, también, una oportunidad para que el alumnado conozca las posibilidades profesionales en el ámbito de los museos, las bibliotecas o la gestión cultural y la conservación del patrimonio.
 
-Las competencias específicas de la materia de Latín han sido diseñadas a partir de los descriptores operativos de las competencias clave en esta etapa, especialmente de la competencia plurilingüe, la competencia en comunicación lingüística y la competencia ciudadana, ya mencionada. La competencia plurilingüe, que tiene como referente la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, sitúa el latín y el griego clásico como herramientas para el aprendizaje y la comprensión de lenguas en general. El enfoque plurilingüe de la materia de Latín en Bachillerato implica una reflexión profunda sobre el funcionamiento no solo de la propia lengua latina, su léxico, sus formantes y las normas de evolución fonética, sino también de las lenguas de enseñanza y de aquellas que conforman el repertorio lingüístico individual del alumnado, estimulando la reflexión metalingüística e interlingüística y contribuyendo al refuerzo de las competencias comunicativas, al aprecio de la diversidad lingüística y la relación entre las lenguas desde una perspectiva inclusiva, democrática y libre de prejuicios.
+Las competencias específicas de la materia de Latín han sido diseñadas a partir de los descriptores operativos de las competencias clave en esta etapa, especialmente de la competencia plurilingüe, la competencia en comunicación lingüística y la competencia ciudadana, ya mencionada. La competencia plurilingüe, que tiene como referente la Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente, sitúa el latín y el griego clásico como herramientas para el aprendizaje y la comprensión de lenguas en general. El enfoque plurilingüe de la materia de Latín en Bachillerato implica una reflexión profunda sobre el funcionamiento no solo de la propia lengua latina, su léxico, sus formantes y las normas de evolución fonética, sino también de las lenguas de enseñanza y de aquellas que conforman el repertorio lingüístico individual del alumnado, estimulando la reflexión metalingüística e interlingüística y contribuyendo al refuerzo de las competencias comunicativas, al aprecio de la diversidad lingüística y la relación entre las lenguas desde una perspectiva inclusiva, democrática y libre de prejuicios.
 
 Estas competencias específicas ofrecen, por tanto, la oportunidad de establecer un diálogo profundo entre presente y pasado desde una perspectiva crítica y humanista: por un lado, situando el texto, su traducción y su comprensión como elementos fundamentales en el aprendizaje de las lenguas clásicas y como puerta de acceso a su cultura y civilización, activando simultáneamente los saberes de carácter lingüístico y no lingüístico; y, por otro lado, desarrollando herramientas que favorezcan la reflexión crítica, personal y colectiva en torno a los textos y al legado material e inmaterial de la civilización latina y su aportación fundamental a la cultura, la sociedad, la política y la identidad europeas.
 
@@ -6359,7 +6354,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
 
@@ -6371,7 +6366,7 @@ Competencia específica 1.
 
 1.5 Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
@@ -6381,7 +6376,7 @@ Competencia específica 2.
 
 2.4 Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Interpretar y comentar, de forma guiada, textos y fragmentos literarios latinos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
@@ -6391,7 +6386,7 @@ Competencia específica 3.
 
 3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
@@ -6399,7 +6394,7 @@ Competencia específica 4.
 
 4.3 Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
 
@@ -6535,7 +6530,7 @@ V. Legado y patrimonio.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
 
@@ -6547,7 +6542,7 @@ Competencia específica 1.
 
 1.5 Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
@@ -6557,7 +6552,7 @@ Competencia específica 2.
 
 2.4 Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
@@ -6567,7 +6562,7 @@ Competencia específica 3.
 
 3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
@@ -6575,7 +6570,7 @@ Competencia específica 4.
 
 4.3 Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
 
@@ -6733,13 +6728,13 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Desarrollar las estrategias de comprensión oral implica entender la comunicación como un constante proceso de interpretación de intenciones en el que entran en juego el conocimiento compartido entre interlocutores y todos aquellos elementos contextuales y cotextuales que permiten ir más allá del significado del texto e interpretar su sentido. La comprensión e interpretación de mensajes orales requiere destrezas específicas que han de ser objeto de enseñanza y aprendizaje, desde las más básicas (anticipar el contenido, retener información relevante en función del propio objetivo, distinguir entre hechos y opiniones o captar el sentido global y la relación entre las partes del discurso), a las más avanzadas (identificar la intención del emisor; analizar procedimientos retóricos; detectar falacias argumentativas o valorar la fiabilidad, la forma y el contenido del texto, entre otras).
 
-La atención al desarrollo de estrategias de comprensión oral se desplaza en esta etapa a textos de carácter académico y de los medios de comunicación con mayor grado de especialización. Ello implica el contacto con nuevos géneros discursivos, el despliegue de estrategias que permitan salvar la distancia entre los conocimientos previos y los requeridos para la comprensión del texto, así como la familiarización con un léxico caracterizado por más abundancia de tecnicismos, préstamos y extranjerismos. La incorporación de discursos orales que aborden temas de relevancia social, científica y cultural es esencial para preparar al alumnado tanto para su participación activa en la vida social como para su posterior desarrollo académico y profesional.
+La atención al desarrollo de estrategias de comprensión oral se desplaza en esta etapa a textos de carácter académico y de los medios de comunicación con mayor grado de especialización. Ello implica el contacto con nuevos géneros discursivos, el despliegue de estrategias que permitan salvar la distancia entre los conocimientos previos y los requeridos para la comprensión del texto, así como la familiarización con un léxico caracterizado por más abundancia de tecnicismos, préstamos y extranjerismos. La incorporación de discursos orales que aborden temas de relevancia social, científica y cultural es esencial para preparar al alumnado tanto para su participación activa en la vida social como para su posterior desarrollo académico y profesional.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CP2, STEM1, CD2, CD3, CPSAA4, CC3.
 
 3. Producir textos orales y multimodales, con atención preferente a textos de carácter académico, con rigor, fluidez, coherencia, cohesión y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales, como para intervenir de manera activa e informada en diferentes contextos sociales.
 
-En esta etapa, se prestará especial atención a situaciones de carácter público, con mayor distancia social entre los interlocutores, que exigen usos lingüísticos más elaborados, registros formales y un control consciente de cuanto tiene que ver con la comunicación no verbal. Las destrezas vinculadas a la producción oral de carácter formal serán esenciales para el desarrollo académico y profesional ulterior. Requieren conocer las claves de los géneros discursivos específicos y proponer al alumnado situaciones de aprendizaje que le permitan afrontar de manera periódica producciones orales sobre temas de relevancia ciudadana, científica o cultural, o vinculados a los contenidos curriculares. Dichas secuencias didácticas atenderán de manera recursiva y colaborativa a las sucesivas fases del proceso (planificación, producción, ensayo y revisión) hasta llegar al producto final.
+En esta etapa, se prestará especial atención a situaciones de carácter público, con mayor distancia social entre los interlocutores, que exigen usos lingüísticos más elaborados, registros formales y un control consciente de cuanto tiene que ver con la comunicación no verbal. Las destrezas vinculadas a la producción oral de carácter formal serán esenciales para el desarrollo académico y profesional ulterior. Requieren conocer las claves de los géneros discursivos específicos y proponer al alumnado situaciones de aprendizaje que le permitan afrontar de manera periódica producciones orales sobre temas de relevancia ciudadana, científica o cultural, o vinculados a los contenidos curriculares. Dichas secuencias didácticas atenderán de manera recursiva y colaborativa a las sucesivas fases del proceso (planificación, producción, ensayo y revisión) hasta llegar al producto final.
 
 Por otra parte, un mayor grado de conciencia lingüística en las interacciones orales es un requisito indispensable para participar de manera activa, comprometida y ética en sociedades democráticas. Adecuar los usos orales al propósito comunicativo y calibrar sus efectos en el interlocutor es esencial para una comunicación eficaz, basada en el respeto y el cuidado recíproco. Las clases de lenguas han de procurar el acceso a contextos participativos propios de los ámbitos social o educativo, donde el alumnado pueda tomar la palabra y desarrollar estrategias de escucha activa, cooperación conversacional y cortesía lingüística. Las tecnologías de la información y la comunicación proporcionan nuevos formatos para la comunicación oral multimodal, síncrona o asíncrona, y permiten registrar las producciones orales del alumnado para su difusión en contextos reales y su posterior análisis y revisión.
 
@@ -6747,9 +6742,9 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 4. Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, con especial atención a textos académicos y de los medios de comunicación, reconociendo el sentido global y las ideas principales y secundarias, integrando la información explícita y realizando las inferencias necesarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.
 
-La atención al desarrollo de estrategias de comprensión lectora se desplaza en esta etapa a textos de carácter académico con un alto grado de especialización, así como a textos de los medios de comunicación que abordan temas de relevancia social, científica y cultural. La lectura e interpretación de textos académicos implica el contacto con nuevos géneros discursivos, el despliegue de estrategias que permitan salvar la distancia entre los conocimientos previos y los aportados por el texto, así como la familiarización con un léxico a menudo técnico y con abundante presencia de préstamos y extranjerismos.
+La atención al desarrollo de estrategias de comprensión lectora se desplaza en esta etapa a textos de carácter académico con un alto grado de especialización, así como a textos de los medios de comunicación que abordan temas de relevancia social, científica y cultural. La lectura e interpretación de textos académicos implica el contacto con nuevos géneros discursivos, el despliegue de estrategias que permitan salvar la distancia entre los conocimientos previos y los aportados por el texto, así como la familiarización con un léxico a menudo técnico y con abundante presencia de préstamos y extranjerismos.
 
-Por otra parte, la lectura, interpretación y valoración de textos periodísticos presupone el conocimiento de las claves contextuales que permiten conferirles sentido y detectar sus sesgos ideológicos. De no ser así, el lector queda limitado a la interpretación literal de lo dicho, incapaz de captar ironías, alusiones o dobles sentidos, o de calibrar la intención comunicativa del autor. De ahí que el desarrollo de la competencia lectora en Bachillerato implique incidir en la motivación, el compromiso y las prácticas de lectura, junto con el conocimiento y uso de las estrategias que deben desplegarse antes, durante y después del acto lector, atendiendo de manera especial al desarrollo de la agilidad en el manejo de fuentes diversas que permita compensar la falta de los conocimientos previos requeridos por un determinado texto, así como garantizar su fiabilidad o aclarar la finalidad con la que ha sido escrito.
+Por otra parte, la lectura, interpretación y valoración de textos periodísticos presupone el conocimiento de las claves contextuales que permiten conferirles sentido y detectar sus sesgos ideológicos. De no ser así, el lector queda limitado a la interpretación literal de lo dicho, incapaz de captar ironías, alusiones o dobles sentidos, o de calibrar la intención comunicativa del autor. De ahí que el desarrollo de la competencia lectora en Bachillerato implique incidir en la motivación, el compromiso y las prácticas de lectura, junto con el conocimiento y uso de las estrategias que deben desplegarse antes, durante y después del acto lector, atendiendo de manera especial al desarrollo de la agilidad en el manejo de fuentes diversas que permita compensar la falta de los conocimientos previos requeridos por un determinado texto, así como garantizar su fiabilidad o aclarar la finalidad con la que ha sido escrito.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CCL3, CCL5, CP2, STEM4, CD1, CPSAA4, CC3.
 
@@ -6765,7 +6760,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 La producción, proliferación y distribución de la información es el principio constitutivo de las sociedades actuales, pero el acceso a la información no garantiza por sí mismo el conocimiento. Por ello es imprescindible que el alumnado adquiera habilidades y destrezas para transformar la información en conocimiento, reconociendo cuándo se necesita, dónde buscarla, cómo gestionarla, evaluarla y comunicarla, adoptando un punto de vista crítico y personal, y evidenciando una actitud ética y responsable con la propiedad intelectual y con la identidad digital. Se trata de una apuesta por la Alfabetización Mediática e Informacional (AMI) que implica la utilización responsable de las tecnologías, con especial atención a la detección de informaciones sesgadas o falsas, la evaluación constante de las fuentes, los tiempos de uso y la autorregulación.
 
-Se debe procurar que el alumnado, individualmente o de forma colaborativa, consulte fuentes de información variadas en contextos sociales o académicos para la realización de trabajos o proyectos de investigación, en especial sobre temas del propio currículo o de las obras literarias leídas. Estos procesos de investigación deben tender al abordaje autónomo de su planificación, gestión y almacenamiento de la información para su recuperación óptima, y del respeto a las convenciones de presentación establecidas (índice, organización en epígrafes, procedimientos de cita, notas a pie de página, bibliografía y webgrafía), a la par que al desarrollo de la creatividad y la adecuación al contexto en la difusión de su nuevo aprendizaje. La biblioteca escolar, como espacio creativo de aprendizaje, será el entorno ideal para la adquisición de esta competencia.
+Se debe procurar que el alumnado, individualmente o de forma colaborativa, consulte fuentes de información variadas en contextos sociales o académicos para la realización de trabajos o proyectos de investigación, en especial sobre temas del propio currículo o de las obras literarias leídas. Estos procesos de investigación deben tender al abordaje autónomo de su planificación, gestión y almacenamiento de la información para su recuperación óptima, y del respeto a las convenciones de presentación establecidas (índice, organización en epígrafes, procedimientos de cita, notas a pie de página, bibliografía y webgrafía), a la par que al desarrollo de la creatividad y la adecuación al contexto en la difusión de su nuevo aprendizaje. La biblioteca escolar, como espacio creativo de aprendizaje, será el entorno ideal para la adquisición de esta competencia.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, CD1, CD2, CD3, CD4, CPSAA4, CC2, CE3.
 
@@ -6773,7 +6768,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 Desarrollar esta competencia implica avanzar en la consolidación de la autonomía y la construcción de la propia identidad lectora, dedicando un tiempo periódico y constante a la lectura individual, y propiciando momentos de reflexión que permitan establecer relaciones entre los textos leídos.
 
-Ello supone ampliar las formas de disfrute, la diversidad y la complejidad de los textos apreciados –incluido el contacto con formas literarias actuales impresas y digitales y con prácticas culturales emergentes– y la capacidad de expresar la experiencia lectora. Se trata de dar un paso hacia un corpus de lecturas autónomas menos vinculadas al mero entretenimiento y a la lectura argumental, y más orientado hacia la apreciación estética de la literatura. En consecuencia, la explicitación de juicios de valor sobre las obras se apoyará en muchos más elementos, incluyendo la identificación de la intertextualidad entre los textos, e incorporará la indagación, lectura y producción de ensayo relacionado con las obras leídas.
+Ello supone ampliar las formas de disfrute, la diversidad y la complejidad de los textos apreciados –incluido el contacto con formas literarias actuales impresas y digitales y con prácticas culturales emergentes– y la capacidad de expresar la experiencia lectora. Se trata de dar un paso hacia un corpus de lecturas autónomas menos vinculadas al mero entretenimiento y a la lectura argumental, y más orientado hacia la apreciación estética de la literatura. En consecuencia, la explicitación de juicios de valor sobre las obras se apoyará en muchos más elementos, incluyendo la identificación de la intertextualidad entre los textos, e incorporará la indagación, lectura y producción de ensayo relacionado con las obras leídas.
 
 Esta competencia contribuye a la apropiación por parte del alumnado de un saber literario y cultural que permite establecer relaciones entre las lecturas guiadas y las autónomas, indagar sobre las obras leídas, movilizar la propia experiencia lectora y cultural en la comprensión e interpretación de los textos, ubicar con precisión los textos en su contexto de producción así como en las formas culturales en las que se inscriben, y entender las funciones y los efectos de las distintas convenciones a partir de las cuales se construyen las obras.
 
@@ -6807,49 +6802,49 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, a partir de la explicación de su desarrollo histórico y sociolingüístico y de la situación actual, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las distintas lenguas, así como rasgos de los dialectos del español, en manifestaciones orales, escritas y multimodales.
 
 1.2 Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales complejos propios de diferentes ámbitos, analizando la interacción entre los diferentes códigos.
 
 2.2 Valorar la forma y el contenido de textos orales y multimodales complejos, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Realizar exposiciones y argumentaciones orales formales con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y con fluidez, rigor, coherencia, cohesión y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
 
 3.2 Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
 
 4.2 Valorar la forma y el contenido de textos complejos evaluando su calidad, la fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Elaborar textos académicos coherentes, cohesionados y con el registro adecuado sobre temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal y de redacción y revisión de borradores de manera individual o entre iguales, o mediante otros instrumentos de consulta.
 
 5.2 Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre temas curriculares de interés cultural que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes; calibrar su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
 
 6.2 Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Elegir y leer de manera autónoma obras relevantes de la literatura contemporánea y dejar constancia del progreso del itinerario lector y cultural personal mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
 
 7.2 Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Explicar y argumentar la interpretación de las obras leídas mediante el análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
@@ -6857,7 +6852,7 @@ Competencia específica 8.
 
 8.3 Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y utilizando un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
 
@@ -6865,7 +6860,7 @@ Competencia específica 9.
 
 9.3 Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
 
-Competencia específica 10.
+Competencia específica 10.
 
 10.1 Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
 
@@ -6987,55 +6982,55 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las lenguas y los dialectos en manifestaciones orales, escritas y multimodales, diferenciando los rasgos de lengua que responden a la diversidad dialectal de los que se corresponden con sociolectos o registros.
 
 1.2 Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, atendiendo a la diversidad de normas cultas y estándares que se dan en una misma lengua, así como analizando y valorando la relevancia actual de los medios de comunicación y las redes sociales en los procesos de normalización lingüística.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales especializados propios de diferentes ámbitos analizando la interacción entre los diferentes códigos.
 
-2.2 Valorar la forma y el contenido de textos orales y multimodales especializados evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
+2.2 Valorar la forma y el contenido de textos orales y multimodales especializados evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Realizar exposiciones y argumentaciones orales formales extensas en las que se recojan diferentes puntos de vista, con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social ajustándose a las convenciones propias de cada género discursivo y hacerlo con fluidez, rigor, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.
 
 3.2 Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
 
 4.2 Valorar críticamente el contenido y la forma de textos especializados evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta.
 
 5.2 Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, con especial atención a la gestión de su almacenamiento y recuperación, así como a la evaluación de su fiabilidad y pertinencia; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
 
 6.2 Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Elegir y leer de manera autónoma obras relevantes que se relacionen con las propuestas de lectura guiada, incluyendo ensayo literario y obras actuales que establezcan conexiones con la tradición, y dejar constancia del progreso del propio itinerario lector y cultural mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
 
 7.2 Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
 8.2 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre las obras de la literatura española o hispánica del último cuarto del siglo XIX y de los siglos XX y XXI objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y con un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
 
@@ -7043,7 +7038,7 @@ Competencia específica 9.
 
 9.3 Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
 
-Competencia específica 10.
+Competencia específica 10.
 
 10.1 Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
 
@@ -7231,7 +7226,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos de cierta longitud, bien organizados y de cierta complejidad, orales, escritos y multimodales, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
 
@@ -7239,7 +7234,7 @@ Competencia específica 1.
 
 1.3 Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender la información global y específica, y distinguir la intención y las opiniones, tanto implícitas como explícitas (siempre que estén claramente señalizadas), de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar oralmente con suficiente fluidez y corrección textos claros, coherentes, bien organizados, adecuados a la situación comunicativa y en diferentes registros sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, utilizando recursos verbales y no verbales, así como estrategias de planificación, control, compensación y cooperación.
 
@@ -7247,19 +7242,19 @@ Competencia específica 2.
 
 2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos de estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas de relevancia personal o de interés público conocidos por el alumnado, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores e interlocutoras, y ofreciendo explicaciones, argumentos y comentarios.
 
 3.2 Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
 4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comparar y argumentar las semejanzas y diferencias entre distintas lenguas reflexionando sobre su funcionamiento y estableciendo relaciones entre ellas.
 
@@ -7267,7 +7262,7 @@ Competencia específica 5.
 
 5.3 Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y solucionando aquellos factores socioculturales que dificulten la comunicación.
 
@@ -7333,7 +7328,7 @@ C. Interculturalidad.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Extraer y analizar las ideas principales, la información detallada y las implicaciones generales de textos de cierta longitud, bien organizados y complejos, orales, escritos y multimodales, tanto en registro formal como informal, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar o en variedades frecuentes, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
 
@@ -7341,7 +7336,7 @@ Competencia específica 1.
 
 1.3 Seleccionar, organizar y aplicar las estrategias y conocimientos más adecuados en cada situación comunicativa para comprender el sentido general, la información esencial y los detalles más relevantes y para distinguir la intención y las opiniones, tanto implícitas como explícitas de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información veraz.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar oralmente con suficiente fluidez, facilidad y naturalidad, diversos tipos de textos claros, coherentes, detallados, bien organizados y adecuados al interlocutor o interlocutora y al propósito comunicativo sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, evitando errores importantes y utilizando registros adecuados, así como recursos verbales y no verbales, y estrategias de planificación, control, compensación y cooperación.
 
@@ -7349,19 +7344,19 @@ Competencia específica 2.
 
 2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos bien estructurados y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas cotidianos, de relevancia personal o de interés público cercanos a su experiencia, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores o interlocutoras, expresando ideas y opiniones con precisión y argumentando de forma convincente.
 
 3.2 Seleccionar, organizar y utilizar, de forma eficaz, espontánea y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra con amabilidad, ajustar la propia contribución a la de los interlocutores e interlocutoras percibiendo sus reacciones, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
 4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y del conocimiento previo y los intereses e ideas de los interlocutores e interlocutoras.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comparar y contrastar las semejanzas y diferencias entre distintas lenguas reflexionando de forma sistemática sobre su funcionamiento y estableciendo relaciones entre ellas.
 
@@ -7369,7 +7364,7 @@ Competencia específica 5.
 
 5.3 Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, rechazando y evaluando cualquier tipo de discriminación, prejuicio y estereotipo y solucionando a aquellos factores socioculturales que dificulten la comunicación.
 
@@ -7499,19 +7494,19 @@ Esta competencia específica se conecta con los siguientes descriptores: CP1, CD
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer y describir los diferentes parámetros y elementos musicales de una obra, aplicando estrategias de escucha activa y utilizando un vocabulario específico adecuado.
 
 1.2 Describir las sensaciones que genera la música y su posible vinculación con las características de la obra, reflexionando sobre aspectos subjetivos inherentes a la escucha musical.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Describir las principales características de los elementos musicales (melodía, ritmo, armonía, timbre, etc.) presentes en partituras con grafía convencional y no convencional de obras de distintos estilos y épocas, identificando y analizando sus elementos.
 
 2.2 Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Leer, con autonomía, partituras sencillas, con o sin apoyo de la audición.
 
@@ -7521,13 +7516,13 @@ Competencia específica 3.
 
 3.4 Generar ideas musicales o coreográficas sencillas, utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Planificar y desarrollar proyectos musicales colaborativos, seleccionando materiales musicales trabajados o creando otros nuevos a partir de la aplicación de los aprendizajes propios de la materia.
 
 4.2 Asumir diferentes funciones en la planificación y desarrollo de proyectos musicales colaborativos, participando activamente en su ejecución, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Desarrollar proyectos musicales, poniendo en práctica los aprendizajes adquiridos y utilizando herramientas de edición de partituras, de procesamiento del sonido y de producción audiovisual.
 
@@ -7639,21 +7634,21 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Explicar y argumentar la interpretación de las obras teatrales leídas o vistas, a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
 1.2 Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas.
 
-Competencia específica 2.
+Competencia específica 2.
 
-2.1 Elaborar una interpretación personal a partir de la lectura, el visionado o la asistencia a obras relevantes de la literatura dramática que atienda a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo y valores éticos y estéticos de las obras y establezca vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+2.1 Elaborar una interpretación personal a partir de la lectura, el visionado o la asistencia a obras relevantes de la literatura dramática que atienda a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo y valores éticos y estéticos de las obras y establezca vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
 2.2 Acceder de diversas formas a la cultura literaria dramática en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y como público teatral.
 
 2.3 Participar en conversaciones literarias de manera que se compartan las propias experiencias de lectura, de visionado o de asistencia teatral con la ayuda de un metalenguaje específico.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Comparar textos o fragmentos teatrales entre sí o con su puesta en escena, adaptación cinematográfica u otras representaciones artísticas relacionadas, argumentando oralmente o por escrito los elementos de semejanza y contraste tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos y con atención a los valores éticos y estéticos de las obras.
 
@@ -7661,11 +7656,11 @@ Competencia específica 3.
 
 3.3 Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos teatrales leídos o vistos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre géneros, estilos y obras relevantes de la literatura dramática universal.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Crear textos teatrales personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos teatrales significativos en los que se empleen las convenciones formales del género, atendiendo especialmente a sus dos secuencias textuales básicas (diálogo y acotaciones) y al reflejo de los elementos de significación (espacio y objetos escénicos, iluminación y sonido, diseño de personajes o códigos interpretativos) en el texto escrito.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Realizar un proyecto de investigación sobre autoras de relevancia, personajes femeninos esenciales, obras teatrales de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
 
@@ -7781,7 +7776,7 @@ Por todo ello, en cada uno de los bloques temáticos hay epígrafes que permiten
 
 Competencias específicas.
 
-1. Leer, interpretar y valorar clásicos de la literatura universal atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producción y su inscripción en la tradición cultural, para ensanchar las posibilidades de disfrute de la literatura y para estimular la creatividad literaria y artística.
+1. Leer, interpretar y valorar clásicos de la literatura universal atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producción y su inscripción en la tradición cultural, para ensanchar las posibilidades de disfrute de la literatura y para estimular la creatividad literaria y artística.
 
 Esta competencia tiene la función de desarrollar habilidades de interpretación que permitan el acceso a obras relevantes del patrimonio literario universal. Dichas habilidades permitirán la verbalización de un juicio de valor fundamentado sobre las lecturas, apoyado en su apreciación estética, y ayudarán a construir un mapa cultural que conjugue los horizontes nacionales con los europeos y universales, y las obras literarias con otras manifestaciones artísticas. Se trata de conseguir una fruición más consciente y elaborada de la lectura. Asimismo, se debe propiciar la creación de textos literarios con conciencia de estilo respetando o reinterpretando las convenciones formales de los diversos géneros.
 
@@ -7807,7 +7802,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 4. Consolidar un marco de referencias compartidas a partir del conocimiento de los rasgos de los principales movimientos estéticos y algunas de las obras literarias más relevantes del patrimonio universal, para conformar un mapa cultural en el que inscribir las experiencias literarias y culturales personales.
 
-La construcción de imaginarios, antaño confiada a la literatura, descansa hoy en día sobre los productos de la ficción audiovisual. Con ello se refuerzan los vínculos generacionales, a menudo efímeros, mientras que se debilitan los vínculos intergeneracionales, en ausencia de relatos compartidos. Por otra parte, la fragmentación y el vértigo propios de las formas de vida actual dificultan la mirada a las ondas largas de la historia, el arte y la cultura, imprescindibles para trazar las relaciones que establecen unas obras y otras tanto en el plano sincrónico como en el diacrónico. A la escuela corresponde por tanto una doble labor: de un lado, la transmisión de un patrimonio cultural que consideramos valioso, ese conjunto de libros sobre los que, en determinado momento, descansa toda la cultura; de otro, la provisión de unos mapas de referencia, simples y rigurosos, ágiles y precisos, en los que quepa inscribir las diferentes experiencias culturales a las que cada persona vaya teniendo acceso, más allá incluso de los años de escolarización.
+La construcción de imaginarios, antaño confiada a la literatura, descansa hoy en día sobre los productos de la ficción audiovisual. Con ello se refuerzan los vínculos generacionales, a menudo efímeros, mientras que se debilitan los vínculos intergeneracionales, en ausencia de relatos compartidos. Por otra parte, la fragmentación y el vértigo propios de las formas de vida actual dificultan la mirada a las ondas largas de la historia, el arte y la cultura, imprescindibles para trazar las relaciones que establecen unas obras y otras tanto en el plano sincrónico como en el diacrónico. A la escuela corresponde por tanto una doble labor: de un lado, la transmisión de un patrimonio cultural que consideramos valioso, ese conjunto de libros sobre los que, en determinado momento, descansa toda la cultura; de otro, la provisión de unos mapas de referencia, simples y rigurosos, ágiles y precisos, en los que quepa inscribir las diferentes experiencias culturales a las que cada persona vaya teniendo acceso, más allá incluso de los años de escolarización.
 
 Por ello, y aunque el eje de selección y organización de los textos no sea el cronológico, la enseñanza de la literatura no puede prescindir de la visión de conjunto de la historia literaria, ni ignorar la especificidad formal del texto literario, vinculada a las convenciones artísticas de su tiempo y la evolución de los géneros literarios. Sin embargo, esta visión de conjunto no debe interpretarse como un punto de partida del que se desprenden, como meros testimonios o ejemplos, los textos literarios, sino como un punto de llegada. Será la lectura de los textos –cuya interpretación requerirá de elementos contextuales variados (históricos, artísticos, culturales)– la que favorecerá la construcción paulatina y compartida de un friso que permita observar, en un gran plano general, los grandes movimientos estéticos y los elementos de continuidad y ruptura entre ellos, así como el lugar que en el mismo ocupan las obras más relevantes del patrimonio literario universal.
 
@@ -7823,29 +7818,29 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
 1.2 Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
 
-Competencia específica 2.
+Competencia específica 2.
 
-2.1 Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo, y valores éticos y estéticos de las obras, y estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+2.1 Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo, y valores éticos y estéticos de las obras, y estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
 2.2 Acceder de diversas formas a la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y compartir las propias experiencias de lectura con la ayuda de un metalenguaje específico.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido, como formales y expresivos, atendiendo también a sus valores éticos y estéticos.
 
 3.2 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal y que muestren una implicación y respuesta personal, en torno a una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural, y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
 
@@ -8025,53 +8020,53 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Manejar algunas estrategias y herramientas, incluidas las digitales, en la modelización y resolución de problemas de la vida cotidiana y de la ciencia y la tecnología, evaluando su eficiencia en cada caso.
 
 1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
 2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir nuevo conocimiento matemático a partir de la formulación de conjeturas y problemas de forma guiada.
 
 3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando y creando algoritmos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
 5.2 Resolver problemas en contextos matemáticos, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
 6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
 7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Mostrar organización al comunicar las ideas matemáticas empleando el soporte, la terminología y el rigor apropiados.
 
 8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Afrontar las situaciones de incertidumbre identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
@@ -8211,53 +8206,53 @@ F. Sentido socioafectivo.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Manejar diferentes estrategias y herramientas, incluidas las digitales, que modelizan y resuelven problemas de la vida cotidiana y de la ciencia y la tecnología, seleccionando las más adecuadas según su eficiencia.
 
 1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
 2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
 
 3.2 Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Demostrar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
 5.2 Resolver problemas en contextos matemáticos estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
 6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
 7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
 8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones, y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
@@ -8495,53 +8490,53 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Emplear algunas estrategias y herramientas, incluidas las digitales, en la resolución de problemas de la vida cotidiana y de las ciencias sociales, valorando su eficiencia en cada caso.
 
 1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
 2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir nuevo conocimiento matemático mediante la formulación de conjeturas y problemas de forma guiada.
 
 3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de las ciencias sociales, utilizando el pensamiento computacional, modificando y creando algoritmos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
 5.2 Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
 6.2 Analizar la aportación de las matemáticas al progreso de la humanidad reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos en las ciencias sociales que se planteen.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
 7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
 8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Afrontar las situaciones de incertidumbre, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
@@ -8669,51 +8664,51 @@ E. Sentido socioafectivo.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Emplear diferentes estrategias y herramientas, incluidas las digitales que resuelvan problemas de la vida cotidiana y de las ciencias sociales, seleccionando la más adecuada según su eficiencia.
 
 1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
 2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
 
 3.2 Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y las ciencias sociales, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
 6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en las ciencias sociales.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Representar y visualizar ideas matemáticas, estructurando diferentes procesos matemáticos y seleccionando las tecnologías más adecuadas.
 
 7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
 8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
@@ -8831,7 +8826,7 @@ E. Sentido socioafectivo.
 
 El desarrollo vertiginoso del mundo actual hace necesario que el alumnado analice e interprete la realidad para poder adaptarse a unas condiciones llenas de incertidumbre, además de disponer de las competencias necesarias para aprender por sí mismo. Las matemáticas desempeñan un papel fundamental para modelizar, analizar y comprender los fenómenos de múltiples campos de conocimiento: sociales, educativos, científicos, económicos, etc. Las competencias matemáticas comprenden, además de las ideas y elementos matemáticos, destrezas de resolución de problemas, de razonamiento matemático y de comunicación extrapolables a contextos no matemáticos.
 
-Matemáticas Generales es una materia obligatoria de la modalidad general del Bachillerato que contribuye a la consecución de los objetivos generales de la etapa, prestando una especial atención al desarrollo y a la adquisición de las competencias clave conceptualizadas en los descriptores operativos de Bachillerato que el alumnado debe conseguir al finalizar la etapa. En esta modalidad, el objetivo del conocimiento matemático debe ser la aplicación de las matemáticas a la interpretación y análisis de situaciones problemáticas en diversos contextos reales, que faciliten al alumnado afrontar los desafíos del s. XXI como ciudadanos informados y comprometidos. Debe resaltarse el carácter instrumental de las matemáticas como herramienta fundamental para áreas de conocimiento científico, social, tecnológico, humanístico y artístico.
+Matemáticas Generales es una materia obligatoria de la modalidad general del Bachillerato que contribuye a la consecución de los objetivos generales de la etapa, prestando una especial atención al desarrollo y a la adquisición de las competencias clave conceptualizadas en los descriptores operativos de Bachillerato que el alumnado debe conseguir al finalizar la etapa. En esta modalidad, el objetivo del conocimiento matemático debe ser la aplicación de las matemáticas a la interpretación y análisis de situaciones problemáticas en diversos contextos reales, que faciliten al alumnado afrontar los desafíos del s. XXI como ciudadanos informados y comprometidos. Debe resaltarse el carácter instrumental de las matemáticas como herramienta fundamental para áreas de conocimiento científico, social, tecnológico, humanístico y artístico.
 
 Los ejes fundamentales que articulan las competencias específicas de la materia son, en continuidad con el currículo de la Educación Secundaria Obligatoria, la resolución de problemas y el análisis e interpretación de la información. Además, se aborda el razonamiento matemático; el establecimiento de conexiones, prestando especial atención en esta materia a diversos contextos no matemáticos, a su relación con otras materias y con la realidad, y a la comunicación matemática. Con el fin de asegurar que todo el alumnado pueda hacer uso de los conceptos y de las relaciones matemáticas fundamentales, y que también llegue a experimentar la belleza y la utilidad de las matemáticas, desterrando ideas preconcebidas y estereotipos fuertemente arraigados en la sociedad, se ha incluido una competencia específica relacionada con el aspecto emocional, social y personal del alumnado con respecto al aprendizaje de esta materia.
 
@@ -8927,53 +8922,53 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Emplear diferentes estrategias y herramientas, incluidas las digitales, que resuelvan problemas de la vida cotidiana y de ámbitos diversos, seleccionando la más adecuada en cada caso.
 
 1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de ámbitos diversos, describiendo el procedimiento realizado.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento, la argumentación y las herramientas digitales.
 
 2.2 Seleccionar la solución más adecuada de un problema en función del contexto (sostenibilidad, consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Adquirir nuevo conocimiento matemático mediante la formulación de preguntas de naturaleza matemática de forma autónoma.
 
 3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de preguntas o problemas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar, modelizar y resolver situaciones problematizadas de ámbitos diversos, utilizando el pensamiento computacional, modificando o creando algoritmos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
 5.2 Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
 6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en la sociedad.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
 7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
 8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
@@ -9099,7 +9094,7 @@ F. Sentido socioafectivo.
 
 **Movimientos Culturales y Artísticos**
 
-La cultura forma un tejido complejo que se articula, ordena y reestructura permanentemente. Como conjunto de rasgos distintivos de una sociedad, requiere de un proceso de aprendizaje colectivo, que incluye creencias, sistemas de valores, tradiciones, costumbres, artes, ciencia y modos de pensamiento. Una sólida comprensión de la propia cultura favorecerá que el alumnado desarrolle el sentido de la identidad cultural y que construya un vínculo social basado en referencias comunes. Por otro lado, el arte es el conjunto de creaciones humanas, enmarcadas e integradas dentro de la cultura, mediante las que se manifiesta una visión personal sobre lo real o imaginado. También es una construcción histórica y social a la que se le atribuyen valores trascendentales de la civilización. La materia Movimientos Culturales y Artísticos, de 2.º de Bachillerato, contribuye al conocimiento de la propia cultura, y, además, a una formación integral del alumnado en valores ciudadanos, en el respeto a la diversidad de las expresiones artísticas y en la promoción del diálogo entre culturas.
+La cultura forma un tejido complejo que se articula, ordena y reestructura permanentemente. Como conjunto de rasgos distintivos de una sociedad, requiere de un proceso de aprendizaje colectivo, que incluye creencias, sistemas de valores, tradiciones, costumbres, artes, ciencia y modos de pensamiento. Una sólida comprensión de la propia cultura favorecerá que el alumnado desarrolle el sentido de la identidad cultural y que construya un vínculo social basado en referencias comunes. Por otro lado, el arte es el conjunto de creaciones humanas, enmarcadas e integradas dentro de la cultura, mediante las que se manifiesta una visión personal sobre lo real o imaginado. También es una construcción histórica y social a la que se le atribuyen valores trascendentales de la civilización. La materia Movimientos Culturales y Artísticos, de 2.º de Bachillerato, contribuye al conocimiento de la propia cultura, y, además, a una formación integral del alumnado en valores ciudadanos, en el respeto a la diversidad de las expresiones artísticas y en la promoción del diálogo entre culturas.
 
 El mundo actual se caracteriza por unas fronteras cada vez más desdibujadas, lo que provoca que en un mismo lugar cohabiten distintas formas de ver, de sentir, de ser y de pensar, generándose lo que se conoce como «identidades deslocalizadas» y pluralizándose las culturas en un mismo espacio y momento. Como resultado de este mundo global y diverso hay una cantidad extraordinaria de información que procesar, interpretar y asimilar, lo que da lugar a una dinámica de transformación continua en la que la interpretación y la representación del mundo evolucionan de forma constante. En nuestro tiempo, el arte y la cultura ofrecen una sorprendente diversidad de manifestaciones y experiencias en las que convergen una pluralidad de miradas, pensamientos e inquietudes que demandan nuevas formas de producción y recepción. La disparidad de estas manifestaciones es una poderosa herramienta para pensar el mundo contemporáneo, puesto que la creación y la producción artística están en diálogo y evolución permanentes con los cambios culturales y sociales.
 
@@ -9165,7 +9160,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar los aspectos singulares de diversas manifestaciones culturales y artísticas desde las vanguardias hasta la actualidad, relacionándolos con el sentido de dichas obras, con los contextos en los que han sido producidas y con la tradición artística, de forma abierta, crítica y respetuosa.
 
@@ -9173,7 +9168,7 @@ Competencia específica 1.
 
 1.3 Investigar acerca del papel de los movimientos culturales y artísticos como motores de cambio y evolución de la sociedad, recurriendo a fuentes fiables.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Explicar la importancia de la promoción, conservación y puesta en valor del patrimonio artístico y cultural.
 
@@ -9183,7 +9178,7 @@ Competencia específica 2.
 
 2.4 Desarrollar proyectos de investigación individuales o colectivos que muestren una implicación y una respuesta personales en torno a la libre expresión artística y sus posibles límites, partiendo del análisis de casos concretos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Identificar y explicar las características de diversas producciones culturales y artísticas a partir del análisis de sus lenguajes y códigos propios.
 
@@ -9191,7 +9186,7 @@ Competencia específica 3.
 
 3.3 Debatir sobre diferentes propuestas culturales y artísticas, intercambiando las opiniones y los sentimientos experimentados, e incorporando juicios de valor vinculados a la apreciación estética de las obras de manera argumentada, constructiva y respetuosa.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Argumentar la influencia y aportaciones que los nuevos lenguajes y tecnologías han incorporado en la cultura y el arte recientes, a partir del análisis crítico de diferentes producciones, valorando la actitud innovadora de las personas creadoras.
 
@@ -9199,7 +9194,7 @@ Competencia específica 4.
 
 4.3 Identificar una variedad de ámbitos y espacios en los que se desarrolla la práctica cultural y artística en la actualidad, analizando de qué modo condicionan las manifestaciones que acogen.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Explorar diferentes manifestaciones culturales y artísticas actuales con interés, curiosidad y respeto, identificando su valor expresivo y comunicativo tanto de la individualidad de las personas creadoras, como de la sociedad en la que se producen.
 
@@ -9337,19 +9332,19 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Generar y perfeccionar ideas de proyecto, consultando distintas fuentes, elaborando bocetos y maquetas, y experimentando con las técnicas y estrategias artísticas más adecuadas en cada caso.
 
 1.2 Seleccionar una propuesta concreta para un proyecto, justificando su relevancia artística, su viabilidad, su sostenibilidad y su adecuación a la intención con la que fue concebida y a las características del marco de recepción previsto.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Establecer el plan de trabajo de un proyecto artístico, organizando correctamente sus fases, evaluando su sostenibilidad y ajustándolo a los plazos, a las características del espacio y, en su caso, al presupuesto previsto.
 
 2.2 Proponer soluciones creativas en la organización de un proyecto artístico, buscando el máximo aprovechamiento de los recursos disponibles.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar activamente en la realización de proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones y seleccionando los espacios, las técnicas, los medios y los soportes más adecuados.
 
@@ -9359,7 +9354,7 @@ Competencia específica 3.
 
 3.4 Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Compartir, a través de diversos medios y soportes, las distintas fases del proyecto, poniéndolo en relación con el resultado final esperado y recabando, de manera abierta y respetuosa, las críticas, los comentarios y las aportaciones de mejora formuladas por distintas personas, incluido el público receptor.
 
@@ -9367,7 +9362,7 @@ Competencia específica 4.
 
 4.3 Evaluar la repercusión que el proyecto ha tenido en el entorno, considerando las valoraciones del público receptor y analizando el logro de la intención inicial planteada, así como la pertinencia de las soluciones puestas en práctica ante las dificultades afrontadas a lo largo del proceso.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Seleccionar diversas fuentes para la elaboración del proyecto, justificando su utilidad teórica, informativa o inspiradora.
 
@@ -9401,13 +9396,13 @@ B. Gestión de proyectos artísticos.
 
 **Química**
 
-En la naturaleza existen infinidad de procesos y fenómenos que la ciencia trata de explicar a través de diferentes leyes y teorías. El aprendizaje de disciplinas científicas empíricas como la química fomenta en los estudiantes el interés por comprender la realidad y valorar la relevancia de esta ciencia tan completa y versátil a partir del conocimiento de las aplicaciones que tiene en distintos contextos. Mediante el estudio de la química se consigue que el alumnado desarrolle competencias para comprender y describir cómo es la composición y la naturaleza de la materia y cómo se transforma. A lo largo de la Educación Secundaria Obligatoria y el 1.er curso de Bachillerato, el alumnado se ha iniciado en el conocimiento de la química y, mediante una primera aproximación, ha aprendido los principios básicos de esta ciencia, y cómo estos se aplican a la descripción de los fenómenos químicos más sencillos. A partir de aquí, el propósito principal de esta materia en 2.º de Bachillerato es profundizar sobre estos conocimientos para aportar al alumnado una visión más amplia de esta ciencia, y otorgarle una base química suficiente y las habilidades experimentales necesarias, con el doble fin de desarrollar un interés por la química y de que puedan continuar, si así lo desean, estudios relacionados.
+En la naturaleza existen infinidad de procesos y fenómenos que la ciencia trata de explicar a través de diferentes leyes y teorías. El aprendizaje de disciplinas científicas empíricas como la química fomenta en los estudiantes el interés por comprender la realidad y valorar la relevancia de esta ciencia tan completa y versátil a partir del conocimiento de las aplicaciones que tiene en distintos contextos. Mediante el estudio de la química se consigue que el alumnado desarrolle competencias para comprender y describir cómo es la composición y la naturaleza de la materia y cómo se transforma. A lo largo de la Educación Secundaria Obligatoria y el 1.er curso de Bachillerato, el alumnado se ha iniciado en el conocimiento de la química y, mediante una primera aproximación, ha aprendido los principios básicos de esta ciencia, y cómo estos se aplican a la descripción de los fenómenos químicos más sencillos. A partir de aquí, el propósito principal de esta materia en 2.º de Bachillerato es profundizar sobre estos conocimientos para aportar al alumnado una visión más amplia de esta ciencia, y otorgarle una base química suficiente y las habilidades experimentales necesarias, con el doble fin de desarrollar un interés por la química y de que puedan continuar, si así lo desean, estudios relacionados.
 
-Para alcanzar esta doble meta, este currículo de la materia de Química en 2.º curso de Bachillerato propone un conjunto de competencias específicas de marcado carácter abierto y generalista, pues se entiende que el aprendizaje competencial requiere de una metodología muy particular adaptada a la situación del grupo. Entender los fundamentos de los procesos y fenómenos químicos, comprender cómo funcionan los modelos y las leyes de la química y manejar correctamente el lenguaje químico forman parte de las competencias específicas de la materia. Otros aspectos referidos al buen concepto de la química como ciencia y sus relaciones con otras áreas de conocimiento, al desarrollo de técnicas de trabajo propias del pensamiento científico y a las repercusiones de la química en los contextos industrial, sanitario, económico y medioambiental de la sociedad actual, completan la formación competencial del alumnado, proporcionándole un perfil adecuado para desenvolverse según las demandas del mundo real.
+Para alcanzar esta doble meta, este currículo de la materia de Química en 2.º curso de Bachillerato propone un conjunto de competencias específicas de marcado carácter abierto y generalista, pues se entiende que el aprendizaje competencial requiere de una metodología muy particular adaptada a la situación del grupo. Entender los fundamentos de los procesos y fenómenos químicos, comprender cómo funcionan los modelos y las leyes de la química y manejar correctamente el lenguaje químico forman parte de las competencias específicas de la materia. Otros aspectos referidos al buen concepto de la química como ciencia y sus relaciones con otras áreas de conocimiento, al desarrollo de técnicas de trabajo propias del pensamiento científico y a las repercusiones de la química en los contextos industrial, sanitario, económico y medioambiental de la sociedad actual, completan la formación competencial del alumnado, proporcionándole un perfil adecuado para desenvolverse según las demandas del mundo real.
 
-A través del desarrollo de las competencias y los bloques de saberes asociados se logra una formación completa del alumnado en química. No obstante, para completar el desarrollo curricular de esta materia es necesario definir también sus criterios de evaluación que, como en el resto de materias de este currículo, son de carácter competencial por estar directamente relacionados con cada una de las competencias específicas que se han propuesto y con los descriptores competenciales del bachillerato. Por este motivo, el currículo de la materia de Química de 2.º de Bachillerato presenta, para cada una de las competencias específicas, un conjunto de criterios de evaluación que tienen un carácter abierto, yendo más allá de la mera evaluación de conceptos y contemplando una evaluación holística y global de los conocimientos, destrezas y actitudes propios de las competencias definidas para esta materia.
+A través del desarrollo de las competencias y los bloques de saberes asociados se logra una formación completa del alumnado en química. No obstante, para completar el desarrollo curricular de esta materia es necesario definir también sus criterios de evaluación que, como en el resto de materias de este currículo, son de carácter competencial por estar directamente relacionados con cada una de las competencias específicas que se han propuesto y con los descriptores competenciales del bachillerato. Por este motivo, el currículo de la materia de Química de 2.º de Bachillerato presenta, para cada una de las competencias específicas, un conjunto de criterios de evaluación que tienen un carácter abierto, yendo más allá de la mera evaluación de conceptos y contemplando una evaluación holística y global de los conocimientos, destrezas y actitudes propios de las competencias definidas para esta materia.
 
-El aprendizaje de la Química en 2.º de Bachillerato estructura los saberes básicos en tres grandes bloques, que están organizados de manera independiente de forma que permitan abarcar los conocimientos, destrezas y actitudes básicos de esta ciencia adecuados a esta etapa educativa. Aunque se presenten en este documento con un orden prefijado, al no existir una secuencia definida para los bloques, la distribución a lo largo de un curso escolar permite una flexibilidad en temporalización y metodología.
+El aprendizaje de la Química en 2.º de Bachillerato estructura los saberes básicos en tres grandes bloques, que están organizados de manera independiente de forma que permitan abarcar los conocimientos, destrezas y actitudes básicos de esta ciencia adecuados a esta etapa educativa. Aunque se presenten en este documento con un orden prefijado, al no existir una secuencia definida para los bloques, la distribución a lo largo de un curso escolar permite una flexibilidad en temporalización y metodología.
 
 En el primer bloque se profundiza sobre la estructura de la materia y el enlace químico, haciendo uso de principios fundamentales de la mecánica cuántica para la descripción de los átomos, su estructura nuclear y su corteza electrónica, y para el estudio de la formación y las propiedades de elementos y compuestos a través de los distintos tipos de enlaces químicos y de fuerzas intermoleculares.
 
@@ -9471,7 +9466,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM4, 
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer la importancia de la química y sus conexiones con otras áreas en el desarrollo de la sociedad, el progreso de la ciencia, la tecnología, la economía y el desarrollo sostenible respetuoso con el medioambiente, identificando los avances en el campo de la química que han sido fundamentales en estos aspectos.
 
@@ -9479,7 +9474,7 @@ Competencia específica 1.
 
 1.3 Reconocer la naturaleza experimental e interdisciplinar de la química y su influencia en la investigación científica y en los ámbitos económico y laboral actuales, considerando los hechos empíricos y sus aplicaciones en otros campos del conocimiento y la actividad humana.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Relacionar los principios de la química con los principales problemas de la actualidad asociados al desarrollo de la ciencia y la tecnología, analizando cómo se comunican a través de los medios de comunicación o son observados en la experiencia cotidiana.
 
@@ -9487,7 +9482,7 @@ Competencia específica 2.
 
 2.3 Aplicar de manera informada, coherente y razonada los modelos y leyes de la química, explicando y prediciendo las consecuencias de experimentos, fenómenos naturales, procesos industriales y descubrimientos científicos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Utilizar correctamente las normas de nomenclatura de la IUPAC como base de un lenguaje universal para la química que permita una comunicación efectiva en toda la comunidad científica, aplicando dichas normas al reconocimiento y escritura de fórmulas y nombres de diferentes especies químicas.
 
@@ -9495,7 +9490,7 @@ Competencia específica 3.
 
 3.3 Practicar y hacer respetar las normas de seguridad relacionadas con la manipulación de sustancias químicas en el laboratorio y en otros entornos, así como los procedimientos para la correcta gestión y eliminación de los residuos, utilizando correctamente los códigos de comunicación característicos de la química.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Analizar la composición química de los sistemas materiales que se encuentran en el entorno más próximo, en el medio natural y en el entorno industrial y tecnológico, demostrando que sus propiedades, aplicaciones y beneficios están basados en los principios de la química.
 
@@ -9503,7 +9498,7 @@ Competencia específica 4.
 
 4.3 Explicar, empleando los conocimientos científicos adecuados, cuáles son los beneficios de los numerosos productos de la tecnología química y cómo su empleo y aplicación han contribuido al progreso de la sociedad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Reconocer la importante contribución en la química del trabajo colaborativo entre especialistas de diferentes disciplinas científicas poniendo de relieve las conexiones entre las leyes y teorías propias de cada una de ellas.
 
@@ -9513,7 +9508,7 @@ Competencia específica 5.
 
 5.4 Representar y visualizar de forma eficiente los conceptos de química que presenten mayores dificultades, utilizando herramientas digitales y recursos variados, incluyendo experiencias de laboratorio real y virtual.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Explicar y razonar los conceptos fundamentales que se encuentran en la base de la química aplicando los conceptos, leyes y teorías de otras disciplinas científicas (especialmente de la física) a través de la experimentación y la indagación.
 
@@ -9621,7 +9616,7 @@ C. Química orgánica.
 
 − Fórmulas moleculares y desarrolladas de compuestos orgánicos. Diferentes tipos de isomería estructural.
 
-− Modelos moleculares o técnicas de representación 3D de moléculas. Isómeros espaciales de un compuesto y sus propiedades.
+− Modelos moleculares o técnicas de representación 3D de moléculas. Isómeros espaciales de un compuesto y sus propiedades.
 
 2. Reactividad orgánica.
 
@@ -9711,7 +9706,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CPSAA1.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar obras gráfico-plásticas de distintos tipos y épocas, identificando los materiales, técnicas y procedimientos utilizados, valorando sus efectos expresivos e incorporando juicios de valor estético a partir del estudio de sus aspectos formales.
 
@@ -9719,19 +9714,19 @@ Competencia específica 1.
 
 1.3 Valorar críticamente la sostenibilidad y el impacto medioambiental de los procedimientos y materiales utilizados en la creación gráfico-plástica en distintos momentos históricos, proponiendo alternativas respetuosas con el medioambiente.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Seleccionar creativamente los recursos gráfico-plásticos adecuados en función de la situación expresiva o la intencionalidad del desempeño solicitado.
 
 2.2 Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos de la expresión gráfico-plástica en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Planificar el proceso completo de realización de obras gráfico-plásticas variadas, individuales o colectivas, estableciendo las fases de realización y argumentando la selección de las técnicas, materiales, procedimientos y lenguajes más adecuados en función de las distintas intenciones comunicativas o creativas.
 
 3.2 Planificar de manera adecuada la organización de las fases y de los equipos de trabajo en las propuestas colaborativas, identificando las habilidades requeridas en cada caso y repartiendo y asumiendo las tareas con criterio.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráfico-plásticas individuales y colaborativas de distintos tipos, referidas a distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los distintos procedimientos.
 
@@ -9739,7 +9734,7 @@ Competencia específica 4.
 
 4.3 Realizar composiciones gráfico-plásticas individuales o colaborativas, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Evaluar diferentes productos gráfico-plásticos, argumentando, con la terminología específica, el grado de adecuación a la intención prevista de los lenguajes, técnicas, materiales y procedimientos utilizados, valorando el rigor y la calidad de la ejecución, así como aspectos relacionados con la sostenibilidad y la propiedad intelectual.
 
@@ -9811,7 +9806,7 @@ F. Proyectos gráfico-plásticos.
 
 **Tecnología e Ingeniería**
 
-En la sociedad actual, el desarrollo de la tecnología por parte de las ingenierías se ha convertido en uno de los ejes en torno a los cuales se articula la evolución sociocultural. En los últimos tiempos, la tecnología, entendida como el conjunto de conocimientos y técnicas que pretenden dar solución a las necesidades, ha ido incrementando su relevancia en diferentes ámbitos de la sociedad, desde la generación de bienes básicos hasta las comunicaciones. En definitiva, se pretende mejorar el bienestar y las estructuras económicas sociales y ayudar a mitigar las desigualdades presentes en la sociedad actual, evitando generar nuevas brechas cognitivas, sociales, de género o generacionales. Se tratan así, aspectos relacionados con los desafíos que el siglo XXI plantea para garantizar la igualdad de oportunidades a nivel local y global.
+En la sociedad actual, el desarrollo de la tecnología por parte de las ingenierías se ha convertido en uno de los ejes en torno a los cuales se articula la evolución sociocultural. En los últimos tiempos, la tecnología, entendida como el conjunto de conocimientos y técnicas que pretenden dar solución a las necesidades, ha ido incrementando su relevancia en diferentes ámbitos de la sociedad, desde la generación de bienes básicos hasta las comunicaciones. En definitiva, se pretende mejorar el bienestar y las estructuras económicas sociales y ayudar a mitigar las desigualdades presentes en la sociedad actual, evitando generar nuevas brechas cognitivas, sociales, de género o generacionales. Se tratan así, aspectos relacionados con los desafíos que el siglo XXI plantea para garantizar la igualdad de oportunidades a nivel local y global.
 
 En una evolución hacia un mundo más justo y equilibrado, conviene prestar atención a los mecanismos de la sociedad tecnológica, analizando y valorando la sostenibilidad de los sistemas de producción, el uso de los diferentes materiales y fuentes de energía, tanto en el ámbito industrial como doméstico o de servicios.
 
@@ -9861,7 +9856,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, S
 
 La competencia se refiere a la capacidad para seleccionar los materiales más adecuados para la creación de productos en función de sus características, así como realizar la evaluación del impacto ambiental generado.
 
-A la hora de determinar los materiales se atenderá a criterios relativos a sus propiedades técnicas (aspectos como dureza, resistencia, conductividad eléctrica, aislamiento térmico, etc.). Asimismo, el alumnado tendrá en cuenta aspectos relacionados con la capacidad para ser conformados aplicando una u otra técnica, según sea conveniente para el diseño final del producto. De igual modo, se deben considerar los criterios relativos a la capacidad del material para ser tratado, modificado o aleado con el fin de mejorar las características del mismo. Por último, el alumnado, valorará aspectos de sostenibilidad para determinar qué materiales son los más apropiados en relación a, por ejemplo, la contaminación generada y el consumo energético durante todo su ciclo de vida (desde su extracción hasta su aplicación final en la creación de productos) o la capacidad de reciclaje al finalizar su ciclo de vida, la biodegradabilidad del material y otros aspectos vinculados con el uso controlado de recursos o con la relación que se establece entre los materiales y las personas que finalmente hacen uso del producto.
+A la hora de determinar los materiales se atenderá a criterios relativos a sus propiedades técnicas (aspectos como dureza, resistencia, conductividad eléctrica, aislamiento térmico, etc.). Asimismo, el alumnado tendrá en cuenta aspectos relacionados con la capacidad para ser conformados aplicando una u otra técnica, según sea conveniente para el diseño final del producto. De igual modo, se deben considerar los criterios relativos a la capacidad del material para ser tratado, modificado o aleado con el fin de mejorar las características del mismo. Por último, el alumnado, valorará aspectos de sostenibilidad para determinar qué materiales son los más apropiados en relación a, por ejemplo, la contaminación generada y el consumo energético durante todo su ciclo de vida (desde su extracción hasta su aplicación final en la creación de productos) o la capacidad de reciclaje al finalizar su ciclo de vida, la biodegradabilidad del material y otros aspectos vinculados con el uso controlado de recursos o con la relación que se establece entre los materiales y las personas que finalmente hacen uso del producto.
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM2, STEM5, CD1, CD2, CPSAA1.1, CPSAA4, CC4, CE1.
 
@@ -9883,7 +9878,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM1, 
 
 Esta competencia específica hace referencia a la habilitación de productos o soluciones digitales en la ejecución de ciertas acciones de forma autónoma. Por un lado, consiste en crear aplicaciones informáticas que automaticen o simplifiquen tareas a los usuarios y, por otro, se trata de incorporar elementos de regulación automática o de control programado en los diseños, permitiendo actuaciones sencillas en máquinas o sistemas tecnológicos. En este sentido, se incluyen, por ejemplo, el control en desplazamientos o movimientos de los elementos de un robot, el accionamiento regulado de actuadores, como pueden ser lámparas o motores, la estabilidad de los valores de magnitudes concretas, etc. De esta manera, se posibilita que el alumnado automatice tareas en máquinas y en robots mediante la implementación de pequeños programas informáticos ejecutables en tarjetas de control.
 
-En esta línea de actuación cabe destacar el papel de los sistemas emergentes aplicados (inteligencia artificial, internet de las cosas, big data, etc.).
+En esta línea de actuación cabe destacar el papel de los sistemas emergentes aplicados (inteligencia artificial, internet de las cosas, big data, etc.).
 
 Esta competencia específica se conecta con los siguientes descriptores: STEM1, STEM2, STEM3, CD2, CD3, CD5, CPSAA1.1, CE3.
 
@@ -9899,7 +9894,7 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM2, 
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Investigar y diseñar proyectos que muestren de forma gráfica la creación y mejora de un producto, seleccionando, referenciando e interpretando información relacionada.
 
@@ -9911,7 +9906,7 @@ Competencia específica 1.
 
 1.5 Comunicar de manera eficaz y organizada las ideas y soluciones tecnológicas, empleando el soporte, la terminología y el rigor apropiados.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Determinar el ciclo de vida de un producto, planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua.
 
@@ -9919,19 +9914,19 @@ Competencia específica 2.
 
 2.3 Fabricar modelos o prototipos empleando las técnicas de fabricación más adecuadas y aplicando los criterios técnicos y de sostenibilidad necesarios.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Resolver tareas propuestas y funciones asignadas, mediante el uso y configuración de diferentes herramientas digitales de manera óptima y autónoma.
 
 3.2 Realizar la presentación de proyectos empleando herramientas digitales adecuadas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Resolver problemas asociados a sistemas e instalaciones mecánicas, aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones.
 
 4.2 Resolver problemas asociados a sistemas e instalaciones eléctricas y electrónicas, aplicando fundamentos de corriente continua y máquinas eléctricas al desarrollo de montajes o simulaciones.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Controlar el funcionamiento de sistemas tecnológicos y robóticos, utilizando lenguajes de programación informática y aplicando las posibilidades que ofrecen las tecnologías emergentes, tales como inteligencia artificial, internet de las cosas, big data.
 
@@ -9939,7 +9934,7 @@ Competencia específica 5.
 
 5.3 Conocer y comprender conceptos básicos de programación textual, mostrando el progreso paso a paso de la ejecución de un programa a partir de un estado inicial y prediciendo su estado final tras la ejecución.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos, estudiando sus características, calculando sus magnitudes y valorando su eficiencia.
 
@@ -10007,7 +10002,7 @@ G. Tecnología sostenible.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Desarrollar proyectos de investigación e innovación con el fin de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles.
 
@@ -10015,17 +10010,17 @@ Competencia específica 1.
 
 1.3 Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones, aceptando y aprendiendo de la crítica razonada y utilizando el error como parte del proceso de aprendizaje.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad, estudiando su estructura interna, propiedades, tratamientos de modificación y mejora de sus propiedades.
 
 2.2 Elaborar informes sencillos de evaluación de impacto ambiental, de manera fundamentada y estructurada.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Resolver problemas asociados a las distintas fases del desarrollo y gestión de un proyecto (diseño, simulación y montaje y presentación), utilizando las herramientas adecuadas que proveen las aplicaciones digitales.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Calcular y montar estructuras sencillas, estudiando los tipos de cargas a los que se puedan ver sometidas y su estabilidad.
 
@@ -10037,13 +10032,13 @@ Competencia específica 4.
 
 4.5 Experimentar y diseñar circuitos combinacionales y secuenciales físicos y simulados aplicando fundamentos de la electrónica digital, y comprendiendo su funcionamiento en el diseño de soluciones tecnológicas.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad.
 
 5.2 Conocer y evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de los datos, analizando modelos existentes.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación.
 
@@ -10155,7 +10150,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Analizar los elementos formales y estructurales de obras volumétricas de diferentes épocas y culturas, identificando las técnicas, los materiales y los elementos compositivos empleados, incorporando, cuando proceda, las perspectivas de género e intercultural.
 
@@ -10163,7 +10158,7 @@ Competencia específica 1.
 
 1.3 Describir formas, estructuras, técnicas, materiales, proporciones y elementos compositivos tridimensionales, aplicando la terminología específica de la materia.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Analizar los aspectos más notables de la configuración de obras tridimensionales, identificando las diferencias entre lo estructural y lo accesorio y describiendo la relación entre su función comunicativa y su nivel icónico.
 
@@ -10171,13 +10166,13 @@ Competencia específica 2.
 
 2.3 Elaborar producciones volumétricas con una función comunicativa concreta, atendiendo a la relación entre imagen y contenido, así como entre forma, estructura y función comunicativa, con distintos niveles de iconicidad.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos formales, funcionales, estéticos y expresivos.
 
 3.2 Explicar las cualidades expresivas del lenguaje tridimensional en las composiciones tridimensionales propuestas, justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Planificar proyectos tridimensionales, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando las técnicas, las herramientas y los materiales más adecuados a las intenciones expresivas, funcionales y comunicativas.
 
@@ -10193,7 +10188,7 @@ A. Técnicas y materiales de configuración.
 
 − Materiales y herramientas de configuración tridimensional. Materiales sostenibles, naturales, efímeros e innovadores. Características técnicas, comunicativas, funcionales y expresivas. Terminología específica.
 
-− Procedimientos de configuración: técnicas aditivas (modelado, escayola directa.), sustractivas (talla), constructivas (estructuras e instalaciones) y de reproducción (moldeado y vaciado, sacado de puntos, pantógrafo, impresoras 3D).
+− Procedimientos de configuración: técnicas aditivas (modelado, escayola directa.), sustractivas (talla), constructivas (estructuras e instalaciones) y de reproducción (moldeado y vaciado, sacado de puntos, pantógrafo, impresoras 3D).
 
 B. Elementos de configuración formal y espacial.
 
@@ -10247,7 +10242,7 @@ D. El volumen en proyectos tridimensionales.
 
 − La propiedad intelectual: la protección de la creatividad personal.
 
-ANEXO III
+## Anexo III
 
 Situaciones de aprendizaje
 
@@ -10257,7 +10252,7 @@ Para que la adquisición de las competencias sea efectiva, dichas situaciones de
 
 El diseño de estas situaciones debe suponer la transferencia de los aprendizajes adquiridos por parte del alumnado, posibilitando la articulación coherente y eficaz de los distintos conocimientos, destrezas y actitudes propios de esta etapa. Las situaciones deben partir del planteamiento de unos objetivos claros y precisos que integren diversos saberes básicos. Además, deben proponer tareas o actividades que favorezcan diferentes tipos de agrupamientos, desde el trabajo individual al trabajo en grupos, permitiendo que el alumnado asuma responsabilidades personales de manera autónoma y actúe de forma cooperativa en la resolución creativa del reto planteado. Su puesta en práctica debe implicar la producción y la interacción verbal e incluir el uso de recursos auténticos en distintos soportes y formatos, tanto analógicos como digitales. Las situaciones de aprendizaje deben fomentar aspectos relacionados con el interés común, la sostenibilidad o la convivencia democrática, esenciales para que el alumnado sea capaz de responder con eficacia a los retos del siglo XXI.
 
-ANEXO IV
+## Anexo IV
 
 Horario escolar, expresado en horas, correspondiente a las enseñanzas mínimas para el Bachillerato
 
@@ -10277,19 +10272,18 @@ Horario escolar, expresado en horas, correspondiente a los contenidos básicos d
 
 – Para cada una de las seis materias de modalidad: 87,5 horas.
 
-De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educación, las comunidades autónomas que tengan lengua cooficial dispondrán para la organización de las enseñanzas de dicha lengua del 10 % del horario escolar total que se deriva de este anexo, no pudiendo detraer de una materia una cifra superior al 30 % del horario correspondiente a las enseñanzas mínimas.
+De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educación, las comunidades autónomas que tengan lengua cooficial dispondrán para la organización de las enseñanzas de dicha lengua del 10 % del horario escolar total que se deriva de este anexo, no pudiendo detraer de una materia una cifra superior al 30 % del horario correspondiente a las enseñanzas mínimas.
 
-El alumnado que, de acuerdo con lo dispuesto en la disposición adicional primera, curse enseñanzas de religión dispondrá de una asignación horaria mínima de 70 horas en el conjunto de la etapa.
+El alumnado que, de acuerdo con lo dispuesto en la disposición adicional primera, curse enseñanzas de religión dispondrá de una asignación horaria mínima de 70 horas en el conjunto de la etapa.
 
-ANEXO V
+## Anexo V
 
 Continuidad entre materias de Bachillerato
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Desarrollado por**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
 - **Desarrollado por**: [**D103_2023 Ordenacion y Curriculo del Bachillerato en Canarias**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md)
@@ -10307,6 +10301,7 @@ Continuidad entre materias de Bachillerato
 - **Fundamento de**: [**Resolucion BOC 62**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R14_4_2026_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

@@ -1,15 +1,10 @@
 ---
 id: norm-es-2011-17890
 codigo_sintetizado: BOE-A-2011-17890
-titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo
-  régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas
-  de nivel universitario respecto de los títulos universitarios oficiales españoles,
-  en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa
-  Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
+titulo: Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-11-16'
 boletin: BOE
@@ -20,31 +15,28 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-- ensenanzas-universitarias
-- profesorado-de-religi-n
-- titulacion
+  - ensenanzas-universitarias
+  - profesorado-de-religi-n
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
+    - '1'
 ---
+# Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 
 ## Preámbulo
 
-# Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
-
-# Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
-
 El Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, sobre Enseñanza y Asuntos Culturales, establece que la convalidación de los estudios y el reconocimiento por parte del Estado de los efectos civiles de los títulos otorgados en los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica, sitos en España o en el extranjero, será objeto de regulación específica de común acuerdo entre las autoridades de la Iglesia y del Estado.
 
-El Real Decreto 3/1995, de 13 de enero, vino a dar cumplimiento a lo dispuesto en dicho Acuerdo, estableciendo el reconocimiento de efectos civiles a determinados títulos de Diplomatus, Baccalaureatus, Licentiatus y Doctor conferidos por las Universidades, Facultades, Institutos Superiores y otros Centros Superiores de la Iglesia Católica. Tales efectos civiles venían siendo conferidos respecto de los niveles académicos genéricos de Diplomado, Licenciado y Doctor correspondientes a la anterior ordenación de las enseñanzas universitarias oficiales establecida tanto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria como en la redacción inicial de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades (LOU).
+El Real Decreto 3/1995, de 13 de enero, vino a dar cumplimiento a lo dispuesto en dicho Acuerdo, estableciendo el reconocimiento de efectos civiles a determinados títulos de Diplomatus, Baccalaureatus, Licentiatus y Doctor conferidos por las Universidades, Facultades, Institutos Superiores y otros Centros Superiores de la Iglesia Católica. Tales efectos civiles venían siendo conferidos respecto de los niveles académicos genéricos de Diplomado, Licenciado y Doctor correspondientes a la anterior ordenación de las enseñanzas universitarias oficiales establecida tanto en la Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria como en la redacción inicial de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades (LOU).
 
 Asimismo, la LOU estableció en su disposición adicional cuarta que la aplicación de lo dispuesto en la misma a las Universidades y otros centros de la Iglesia católica se ajustará a lo dispuesto en los acuerdos entre el Estado español y la Santa Sede.
 
@@ -72,7 +64,7 @@ Lo dispuesto en la presente norma es de aplicación a los títulos de la Iglesia
 
 #### Artículo 3. Reconocimiento de efectos civiles.
 
-1. De acuerdo con las condiciones y el procedimiento previsto en presente real decreto, se reconocen efectos civiles a los títulos eclesiásticos superiores de Baccalaureatus, Licentiatus y Doctor que se relacionan en el Anexo I, conferidos por los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica, canónicamente erigidos o aprobados por la misma, de acuerdo con las previsiones de la Santa Sede, contenidas en la Constitución Apostólica Sapientia Christiana, de 15 de abril de 1979, que regula la existencia, normas y desarrollo de las Universidades y Facultades Eclesiásticas y la Instrucción sobre los Institutos Superiores de Ciencias Religiosas, de 28 de junio de 2008, que regula la existencia, normas y desarrollo de los Institutos Superiores de Ciencias Religiosas.
+1. De acuerdo con las condiciones y el procedimiento previsto en presente real decreto, se reconocen efectos civiles a los títulos eclesiásticos superiores de Baccalaureatus, Licentiatus y Doctor que se relacionan en el Anexo I, conferidos por los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica, canónicamente erigidos o aprobados por la misma, de acuerdo con las previsiones de la Santa Sede, contenidas en la Constitución Apostólica Sapientia Christiana, de 15 de abril de 1979, que regula la existencia, normas y desarrollo de las Universidades y Facultades Eclesiásticas y la Instrucción sobre los Institutos Superiores de Ciencias Religiosas, de 28 de junio de 2008, que regula la existencia, normas y desarrollo de los Institutos Superiores de Ciencias Religiosas.
 
 2. Los efectos civiles que se reconocen a los títulos eclesiásticos universitarios de Baccalaureatus, Licentiatus y Doctor a que se refiere el apartado anterior son los correspondientes a los niveles académicos universitarios de Grado, Máster y Doctor, respectivamente, de acuerdo con la estructura universitaria prevista en el artículo 37 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, modificada por la Ley Orgánica 4/2007, de 12 de abril.
 
@@ -126,7 +118,9 @@ La superación de pruebas de acceso a estudios de ciencias eclesiásticas en Cen
 
 #### Disposición adicional tercera. Inscripción de Centros de la Iglesia Católica en el Registro de Universidades, Centros y Títulos (RUCT).
 
-Las Facultades de Ciencias Eclesiásticas de la Iglesia Católica sitas en España que figuran en el Anexo II serán inscritas en el RUCT, de conformidad con lo establecido en el artículo 2 del Real Decreto 1509/2008, de 12 de septiembre, por el que se regula el Registro de Universidades, Centros y Títulos.
+Las Facultades de Ciencias Eclesiásticas de la Iglesia Católica sitas en España que figuran en el Anexo II serán inscritas en el RUCT, de conformidad con lo establecido en el artículo 2 l.
+
+Real Decreto 1509/2008, de 12 de septiembre, por el que se regula el Registro de Universidades, Centros y Títulos.
 
 #### Disposición adicional cuarta. Declaraciones de equivalencia anteriores.
 
@@ -134,7 +128,7 @@ Por el Ministerio de Educación se adoptarán las medidas necesarias para inscri
 
 #### Disposición transitoria primera. Solicitudes ya presentadas.
 
-Quienes a la entrada en vigor del presente real decreto hubiesen iniciado la tramitación de solicitudes de reconocimiento de efectos civiles de títulos de la Iglesia Católica podrán continuar la misma por el procedimiento contenido en el citado Real Decreto 3/1995, de 13 de enero, o iniciar una nueva solicitud de acuerdo con lo previsto en la presente norma.
+Quienes a la entrada en vigor del presente real decreto hubiesen iniciado la tramitación de solicitudes de reconocimiento de efectos civiles de títulos de la Iglesia Católica podrán continuar la misma por el procedimiento contenido en el citado Real Decreto 3/1995, de 13 de enero, o iniciar una nueva solicitud de acuerdo con lo previsto en la presente norma.
 
 #### Disposición transitoria segunda. Estudios anteriores.
 
@@ -166,7 +160,7 @@ El Ministro de Educación,
 
 ÁNGEL GABILONDO PUJOL
 
-ANEXO I
+## Anexo I
 
 Relación de los Títulos otorgados por Centros Superiores de Ciencias Eclesiásticas a los que se reconocen efectos civiles
 
@@ -236,7 +230,7 @@ III. Títulos equivalentes al título universitario oficial de Doctor o Doctora.
 
 [ignorar]Título de Doctor in Litteratura Christiana et Classica, otorgado por Facultades de Literatura Cristiana y Clásica.
 
-ANEXO II
+## Anexo II
 
 Relación de Facultades de Ciencias Eclesiásticas de la Iglesia Católica en España
 
@@ -288,14 +282,14 @@ IV. Otras Facultades Eclesiásticas.
 
 Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Eclesiástica «San Dámaso» (Madrid).
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

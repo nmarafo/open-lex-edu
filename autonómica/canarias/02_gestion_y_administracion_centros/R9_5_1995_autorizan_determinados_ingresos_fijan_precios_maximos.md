@@ -1,10 +1,7 @@
 ---
 id: norm-can-res-juriscan-22458-15
 codigo_sintetizado: Resolucion BOC 15
-titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la
-  que se autorizan determinados ingresos, se fijan precios máximos con carácter general
-  y otros precios que puedan fijar los Centros docentes públicos no universitarios
-  de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
+titulo: Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -16,37 +13,34 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Gestión económica de centros
 tags:
-- autonomia-centro
-- consejo-escolar
-- curriculo
-- ensenanzas-deportivas
-- equipos-directivos
-- gesti-n-econ-mica-de-centros
-- gestion-economica
-- oposiciones
-- profesorado
-- roc
+  - autonomia-centro
+  - consejo-escolar
+  - curriculo
+  - ensenanzas-deportivas
+  - equipos-directivos
+  - gesti-n-econ-mica-de-centros
+  - gestion-economica
+  - oposiciones
+  - profesorado
+  - roc
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-132-2010
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-132-2010
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
+    - '1'
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/1995/067/boc-1995-067-013.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=22458
 ---
-
-## Preámbulo
-
 # Resolución de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias (BOC n.º 67, de 29 de mayo).
 
-Comunidad Autónoma de Canarias
+## Preámbulo
 
 Versión texto
 
@@ -68,8 +62,6 @@ Anterior
 
 Siguiente
 
-BOC Nº 067. Lunes 29 de Mayo de 1995 - 1012
-
 1012 - RESOLUCIÓN de 9 de mayo de 1995, de la Dirección General de Centros, por la que se autorizan determinados ingresos, se fijan precios máximos con carácter general y otros precios que puedan fijar los Centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 El artículo 21 De los Centros docentes públicos no universitarios de la Ley 14/1994, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1995, dispone en sus apartados 1 y 2 que:
@@ -88,8 +80,7 @@ La misma Ley, en sus apartados 3, 4 y 6 establece que:
 
 Si en las partidas de ingresos figurase alguna de las reseñadas en los puntos 3 y 4 anteriores, habrá de constar documentalmente la previa autorización de la Consejería de Educación, Cultura y Deportes.
 
-De conformidad con lo dispuesto, a la vista de las solicitudes de autorización que vienen presentando los Centros docentes, a fin de lograr una mayor eficacia, agilidad y coordinación en la gestión de las autorizaciones mencionadas y en virtud de las competencias conferidas mediante el Decreto 305/1991, de 29 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes, esta Dirección General
-R E S U E L V E:
+De conformidad con lo dispuesto, a la vista de las solicitudes de autorización que vienen presentando los Centros docentes, a fin de lograr una mayor eficacia, agilidad y coordinación en la gestión de las autorizaciones mencionadas y en virtud de las competencias conferidas mediante el Decreto 305/1991, de 29 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes, esta Dirección General R E S U E L V E:
 
 1. Autorizar, con carácter general, las partidas de ingresos para incorporar al Presupuesto de los Centros docentes de la Comunidad Autónoma de Canarias procedentes de:
 
@@ -140,11 +131,10 @@ Aviso Legal
 
 Sugerencias y Reclamaciones
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -152,4 +142,5 @@ Sugerencias y Reclamaciones
 - **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 
 ### Fundamentos de Derecho
+
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)

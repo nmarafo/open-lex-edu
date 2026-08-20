@@ -1,13 +1,10 @@
 ---
 id: norm-es-2008-979
 codigo_sintetizado: BOE-A-2008-979
-titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento
-  de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos
-  de carácter personal.
+titulo: Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2008-01-19'
 boletin: BOE
@@ -18,44 +15,45 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- curriculo
-- equipos-directivos
-- protecci-n-de-datos-y-seguridad-de-la-informacion
-- proteccion-menores
-- rgpd
+  - curriculo
+  - equipos-directivos
+  - protecci-n-de-datos-y-seguridad-de-la-informacion
+  - proteccion-menores
+  - rgpd
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-es-2011-17560
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-es-2011-17560
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-can-res-juriscan-64838-121
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-3-2018
+    - '1'
+    - norma_id: norm-es-lo-3-2018
   articulos:
-  - '1'
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-1999-23750
+    - '1'
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-1999-23750
 ---
+# Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
 
 ## Preámbulo
 
-# Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
-
-# Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 15/1999](LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de protección de datos de carácter personal.
-
 La actual [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre de Protección de datos de carácter personal adaptó nuestro ordenamiento a lo dispuesto por la Directiva 95/46/CE del Parlamento Europeo y del Consejo de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, derogando a su vez la hasta entonces vigente Ley Orgánica 5/1992, de 29 de octubre, de Regulación del tratamiento automatizado de datos de carácter personal.
 
-La nueva ley, que ha nacido con una amplia vocación de generalidad, prevé en su artículo 1 que «tiene por objeto garantizar y proteger, en lo que concierne al tratamiento de los datos personales, las libertades públicas y los derechos fundamentales de las personas físicas, y especialmente de su honor e intimidad personal». Comprende por tanto el tratamiento automatizado y el no automatizado de los datos de carácter personal.
+La nueva ley, que ha nacido con una amplia vocación de generalidad, prevé en su
+
+#### Artículo 1. que «tiene.
+
+por objeto garantizar y proteger, en lo que concierne al tratamiento de los datos personales, las libertades públicas y los derechos fundamentales de las personas físicas, y especialmente de su honor e intimidad personal». Comprende por tanto el tratamiento automatizado y el no automatizado de los datos de carácter personal.
 
 A fin de garantizar la necesaria seguridad jurídica en un ámbito tan sensible para los derechos fundamentales como el de la protección de datos, el legislador declaró subsistentes las normas reglamentarias existentes y, en especial, los reales decretos 428/1993, de 26 de marzo, por el que se aprueba el Estatuto de la Agencia de Protección de Datos, 1332/1994, de 20 de junio, por el que se desarrollan determinados aspectos de la Ley Orgánica 5/1992, de 29 de octubre de Regulación del tratamiento automatizado de los datos de carácter personal y 994/1999, de 11 de junio, por el que se aprueba el Reglamento de Medidas de seguridad de los ficheros automatizados que contengan datos de carácter personal, a la vez que habilitó al Gobierno para la aprobación o modificación de las disposiciones reglamentarias necesarias para la aplicación y desarrollo de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md).
 
@@ -183,9 +181,9 @@ MARIANO FERNÁNDEZ BERMEJO
 
 #### Artículo 7. Fuentes accesibles al público.
 
-Título II. Principios de protección de datos.
+## Título II. Principios de protección de datos.
 
-Capítulo I. Calidad de los datos.
+### Capítulo I. Calidad de los datos.
 
 #### Artículo 8. Principios de calidad de los datos.
 
@@ -195,9 +193,9 @@ Capítulo I. Calidad de los datos.
 
 #### Artículo 11. Verificación de datos en solicitudes formuladas a las Administraciones Públicas.
 
-Capítulo II. Consentimiento para el tratamiento de los datos y deber de información.
+### Capítulo II. Consentimiento para el tratamiento de los datos y deber de información.
 
-Sección Primera. Obtención del consentimiento del afectado.
+#### Sección Primera. Obtención del consentimiento del afectado.
 
 #### Artículo 12. Principios generales.
 
@@ -211,13 +209,13 @@ Sección Primera. Obtención del consentimiento del afectado.
 
 #### Artículo 17. Revocación del consentimiento.
 
-Sección Segunda. Deber de información al interesado.
+#### Sección Segunda. Deber de información al interesado.
 
 #### Artículo 18. Acreditación del cumplimiento del deber de información.
 
 #### Artículo 19. Supuestos especiales.
 
-Capítulo III. Encargado del tratamiento.
+### Capítulo III. Encargado del tratamiento.
 
 #### Artículo 20. Relaciones entre el responsable y el encargado del tratamiento.
 
@@ -225,9 +223,9 @@ Capítulo III. Encargado del tratamiento.
 
 #### Artículo 22. Conservación de los datos por el encargado del tratamiento.
 
-Título III. Derechos de acceso, rectificación, cancelación y oposición.
+## Título III. Derechos de acceso, rectificación, cancelación y oposición.
 
-Capítulo I. Disposiciones generales.
+### Capítulo I. Disposiciones generales.
 
 #### Artículo 23. Carácter personalísimo.
 
@@ -237,7 +235,7 @@ Capítulo I. Disposiciones generales.
 
 #### Artículo 26. Ejercicio de los derechos ante un encargado del tratamiento.
 
-Capítulo II. Derecho de acceso.
+### Capítulo II. Derecho de acceso.
 
 #### Artículo 27. Derecho de acceso.
 
@@ -247,7 +245,7 @@ Capítulo II. Derecho de acceso.
 
 #### Artículo 30. Denegación del acceso.
 
-Capítulo III. Derechos de rectificación y cancelación.
+### Capítulo III. Derechos de rectificación y cancelación.
 
 #### Artículo 31. Derechos de rectificación y cancelación.
 
@@ -255,7 +253,7 @@ Capítulo III. Derechos de rectificación y cancelación.
 
 #### Artículo 33. Denegación de los derechos de rectificación y cancelación.
 
-Capítulo IV. Derecho de oposición.
+### Capítulo IV. Derecho de oposición.
 
 #### Artículo 34. Derecho de oposición.
 
@@ -263,11 +261,11 @@ Capítulo IV. Derecho de oposición.
 
 #### Artículo 36. Derecho de oposición a las decisiones basadas únicamente en un tratamiento automatizado de datos.
 
-Título IV. Disposiciones aplicables a determinados ficheros de titularidad privada.
+## Título IV. Disposiciones aplicables a determinados ficheros de titularidad privada.
 
-Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito.
+### Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito.
 
-Sección Primera. Disposiciones generales.
+#### Sección Primera. Disposiciones generales.
 
 #### Artículo 37. Régimen aplicable.
 
@@ -287,7 +285,7 @@ Sección Segunda. Tratamiento de datos relativos al cumplimiento o incumplimient
 
 #### Artículo 44. Ejercicio de los derechos de acceso, rectificación, cancelación y oposición.
 
-Capítulo II. Tratamientos para actividades de publicidad y prospección comercial.
+### Capítulo II. Tratamientos para actividades de publicidad y prospección comercial.
 
 #### Artículo 45. Datos susceptibles de tratamiento e información al interesado.
 
@@ -303,9 +301,9 @@ Capítulo II. Tratamientos para actividades de publicidad y prospección comerci
 
 #### Artículo 51. Derecho de oposición.
 
-Título V. Obligaciones previas al tratamiento de los datos.
+## Título V. Obligaciones previas al tratamiento de los datos.
 
-Capítulo I. Creación, modificación o supresión de ficheros de titularidad pública.
+### Capítulo I. Creación, modificación o supresión de ficheros de titularidad pública.
 
 #### Artículo 52. Disposición o Acuerdo de creación, modificación o supresión del fichero.
 
@@ -313,7 +311,7 @@ Capítulo I. Creación, modificación o supresión de ficheros de titularidad p�
 
 #### Artículo 54. Contenido de la disposición o acuerdo.
 
-Capítulo II. Notificación e inscripción de los ficheros de titularidad pública o privada.
+### Capítulo II. Notificación e inscripción de los ficheros de titularidad pública o privada.
 
 #### Artículo 55. Notificación de ficheros.
 
@@ -335,15 +333,15 @@ Capítulo II. Notificación e inscripción de los ficheros de titularidad públi
 
 #### Artículo 64. Colaboración con las Autoridades de Control de las Comunidades Autónomas.
 
-Título VI. Transferencias internacionales de datos.
+## Título VI. Transferencias internacionales de datos.
 
-Capítulo I. Disposiciones generales.
+### Capítulo I. Disposiciones generales.
 
 #### Artículo 65. Cumplimiento de las disposiciones de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Artículo 66. Autorización y notificación.
 
-Capítulo II. Transferencias a estados que proporcionen un nivel adecuado de protección.
+### Capítulo II. Transferencias a estados que proporcionen un nivel adecuado de protección.
 
 #### Artículo 67. Nivel adecuado de protección acordado por la Agencia Española de Protección de Datos.
 
@@ -351,11 +349,11 @@ Capítulo II. Transferencias a estados que proporcionen un nivel adecuado de pro
 
 #### Artículo 69. Suspensión temporal de las transferencias.
 
-Capítulo III. Transferencias a estados que no proporcionen un nivel adecuado de protección.
+### Capítulo III. Transferencias a estados que no proporcionen un nivel adecuado de protección.
 
 #### Artículo 70. Transferencias sujetas a autorización del Director de la Agencia Española de Protección de Datos.
 
-Título VII. Códigos tipo.
+## Título VII. Códigos tipo.
 
 #### Artículo 71. Objeto y naturaleza.
 
@@ -363,7 +361,7 @@ Título VII. Códigos tipo.
 
 #### Artículo 73. Contenido.
 
-#### Artículo 74. Compromisos adicionales
+#### Artículo 74. Compromisos adicionales.
 
 #### Artículo 75. Garantías del cumplimiento de los códigos tipo.
 
@@ -373,9 +371,9 @@ Título VII. Códigos tipo.
 
 #### Artículo 78. Obligaciones posteriores a la inscripción del código tipo.
 
-Título VIII. De las medidas de seguridad en el tratamiento de datos de carácter personal.
+## Título VIII. De las medidas de seguridad en el tratamiento de datos de carácter personal.
 
-Capítulo I. Disposiciones generales.
+### Capítulo I. Disposiciones generales.
 
 #### Artículo 79. Alcance.
 
@@ -395,13 +393,13 @@ Capítulo I. Disposiciones generales.
 
 #### Artículo 87. Ficheros temporales o copias de trabajo de documentos.
 
-Capítulo II. Del documento de seguridad.
+### Capítulo II. Del documento de seguridad.
 
 #### Artículo 88. El documento de seguridad.
 
-Capítulo III. Medidas de seguridad aplicables a ficheros y tratamientos automatizados.
+### Capítulo III. Medidas de seguridad aplicables a ficheros y tratamientos automatizados.
 
-Sección Primera. Medidas de seguridad de nivel básico.
+#### Sección Primera. Medidas de seguridad de nivel básico.
 
 #### Artículo 89. Funciones y obligaciones del personal.
 
@@ -415,7 +413,7 @@ Sección Primera. Medidas de seguridad de nivel básico.
 
 #### Artículo 94. Copias de respaldo y recuperación.
 
-Sección Segunda. Medidas de seguridad de nivel medio.
+#### Sección Segunda. Medidas de seguridad de nivel medio.
 
 #### Artículo 95. Responsable de seguridad.
 
@@ -429,7 +427,7 @@ Sección Segunda. Medidas de seguridad de nivel medio.
 
 #### Artículo 100. Registro de incidencias.
 
-Sección Tercera. Medidas de seguridad de nivel alto.
+#### Sección Tercera. Medidas de seguridad de nivel alto.
 
 #### Artículo 101. Gestión y distribución de soportes.
 
@@ -439,9 +437,9 @@ Sección Tercera. Medidas de seguridad de nivel alto.
 
 #### Artículo 104. Telecomunicaciones.
 
-Capítulo IV. Medidas de seguridad aplicables a los ficheros y tratamientos no automatizados.
+### Capítulo IV. Medidas de seguridad aplicables a los ficheros y tratamientos no automatizados.
 
-Sección Primera. Medidas de seguridad de nivel básico.
+#### Sección Primera. Medidas de seguridad de nivel básico.
 
 #### Artículo 105. Obligaciones comunes.
 
@@ -451,13 +449,13 @@ Sección Primera. Medidas de seguridad de nivel básico.
 
 #### Artículo 108. Custodia de los soportes.
 
-Sección Segunda. Medidas de seguridad de nivel medio.
+#### Sección Segunda. Medidas de seguridad de nivel medio.
 
 #### Artículo 109. Responsabilidad de seguridad.
 
 #### Artículo 110. Auditoría.
 
-Sección Tercera. Medidas de seguridad de nivel alto.
+#### Sección Tercera. Medidas de seguridad de nivel alto.
 
 #### Artículo 111. Almacenamiento de la información.
 
@@ -467,15 +465,15 @@ Sección Tercera. Medidas de seguridad de nivel alto.
 
 #### Artículo 114. Traslado de documentación.
 
-Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos.
+## Título IX. Procedimientos tramitados por la Agencia Española de Protección de Datos.
 
-Capítulo I. Disposiciones generales.
+### Capítulo I. Disposiciones generales.
 
 #### Artículo 115. Régimen aplicable.
 
-#### Artículo 116. Publicidad de las resoluciones
+#### Artículo 116. Publicidad de las resoluciones.
 
-Capítulo II. Procedimiento de tutela de los derechos de acceso, rectificación, cancelación y oposición.
+### Capítulo II. Procedimiento de tutela de los derechos de acceso, rectificación, cancelación y oposición.
 
 #### Artículo 117. Instrucción del procedimiento.
 
@@ -483,15 +481,15 @@ Capítulo II. Procedimiento de tutela de los derechos de acceso, rectificación,
 
 #### Artículo 119. Ejecución de la resolución.
 
-Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora.
+### Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora.
 
-Sección Primera. Disposiciones Generales.
+#### Sección Primera. Disposiciones Generales.
 
 #### Artículo 120. Ámbito de aplicación.
 
 #### Artículo 121. Inmovilización de ficheros.
 
-Sección Segunda. Actuaciones previas.
+#### Sección Segunda. Actuaciones previas.
 
 #### Artículo 122. Iniciación.
 
@@ -503,7 +501,7 @@ Sección Segunda. Actuaciones previas.
 
 #### Artículo 126. Resultado de las actuaciones previas.
 
-Sección Tercera Procedimiento Sancionador.
+#### Sección Tercera. Procedimiento Sancionador.
 
 #### Artículo 127. Iniciación del procedimiento.
 
@@ -513,9 +511,9 @@ Sección Cuarta. Procedimiento de declaración de infracción de la [Ley Orgáni
 
 #### Artículo 129. Disposición general.
 
-Capítulo IV. Procedimientos relacionados con la inscripción o cancelación de ficheros.
+### Capítulo IV. Procedimientos relacionados con la inscripción o cancelación de ficheros.
 
-Sección Primera. Procedimiento de inscripción de la creación, modificación o supresión de ficheros.
+#### Sección Primera. Procedimiento de inscripción de la creación, modificación o supresión de ficheros.
 
 #### Artículo 130. Iniciación del procedimiento.
 
@@ -527,15 +525,15 @@ Sección Primera. Procedimiento de inscripción de la creación, modificación o
 
 #### Artículo 134. Duración del procedimiento y efectos de la falta de resolución expresa.
 
-Sección Segunda. Procedimiento de cancelación de oficio de ficheros inscritos.
+#### Sección Segunda. Procedimiento de cancelación de oficio de ficheros inscritos.
 
 #### Artículo 135. Iniciación del procedimiento.
 
 #### Artículo 136. Terminación del expediente.
 
-Capítulo V. Procedimientos relacionados con las transferencias internacionales de datos.
+### Capítulo V. Procedimientos relacionados con las transferencias internacionales de datos.
 
-Sección Primera. Procedimiento de autorización de transferencias internacionales de datos.
+#### Sección Primera. Procedimiento de autorización de transferencias internacionales de datos.
 
 #### Artículo 137. Iniciación del procedimiento.
 
@@ -545,7 +543,7 @@ Sección Primera. Procedimiento de autorización de transferencias internacional
 
 #### Artículo 140. Duración del procedimiento y efectos de la falta de resolución expresa.
 
-Sección Segunda. Procedimiento de suspensión temporal de transferencias internacionales de datos.
+#### Sección Segunda. Procedimiento de suspensión temporal de transferencias internacionales de datos.
 
 #### Artículo 141. Iniciación.
 
@@ -555,7 +553,7 @@ Sección Segunda. Procedimiento de suspensión temporal de transferencias intern
 
 #### Artículo 144. Levantamiento de la suspensión temporal.
 
-Capítulo VI. Procedimiento de inscripción de códigos tipo.
+### Capítulo VI. Procedimiento de inscripción de códigos tipo.
 
 #### Artículo 145. Iniciación del procedimiento.
 
@@ -573,13 +571,13 @@ Capítulo VI. Procedimiento de inscripción de códigos tipo.
 
 #### Artículo 152. Publicación de los códigos tipo por la Agencia Española de Protección de Datos.
 
-Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos.
+### Capítulo VII. Otros procedimientos tramitados por la Agencia Española de Protección de Datos.
 
-Sección Primera. Procedimiento de exención del deber de información al interesado
+#### Sección Primera. Procedimiento de exención del deber de información al interesado
 
 #### Artículo 153. Iniciación del procedimiento.
 
-#### Artículo 154. Propuesta de nuevas medidas compensatorias
+#### Artículo 154. Propuesta de nuevas medidas compensatorias.
 
 #### Artículo 155. Terminación del procedimiento.
 
@@ -647,95 +645,95 @@ c) A los establecidos para la investigación del terrorismo y de formas graves d
 
 1. A los efectos previstos en este reglamento, se entenderá por:
 
-a) Afectado o interesado: Persona física titular de los datos que sean objeto del tratamiento.
+a) **Afectado o interesado.** Persona física titular de los datos que sean objeto del tratamiento.
 
-b) Cancelación: Procedimiento en virtud del cual el responsable cesa en el uso de los datos. La cancelación implicará el bloqueo de los datos, consistente en la identificación y reserva de los mismos con el fin de impedir su tratamiento excepto para su puesta a disposición de las Administraciones públicas, Jueces y Tribunales, para la atención de las posibles responsabilidades nacidas del tratamiento y sólo durante el plazo de prescripción de dichas responsabilidades. Transcurrido ese plazo deberá procederse a la supresión de los datos.
+b) **Cancelación.** Procedimiento en virtud del cual el responsable cesa en el uso de los datos. La cancelación implicará el bloqueo de los datos, consistente en la identificación y reserva de los mismos con el fin de impedir su tratamiento excepto para su puesta a disposición de las Administraciones públicas, Jueces y Tribunales, para la atención de las posibles responsabilidades nacidas del tratamiento y sólo durante el plazo de prescripción de dichas responsabilidades. Transcurrido ese plazo deberá procederse a la supresión de los datos.
 
-c) Cesión o comunicación de datos: Tratamiento de datos que supone su revelación a una persona distinta del interesado.
+c) **Cesión o comunicación de datos.** Tratamiento de datos que supone su revelación a una persona distinta del interesado.
 
-d) Consentimiento del interesado: Toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen.
+d) **Consentimiento del interesado.** Toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen.
 
-e) Dato disociado: aquél que no permite la identificación de un afectado o interesado.
+e) **Dato disociado.** Aquél que no permite la identificación de un afectado o interesado.
 
-f) Datos de carácter personal: Cualquier información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a personas físicas identificadas o identificables.
+f) **Datos de carácter personal.** Cualquier información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a personas físicas identificadas o identificables.
 
-g) Datos de carácter personal relacionados con la salud: las informaciones concernientes a la salud pasada, presente y futura, física o mental, de un individuo. En particular, se consideran datos relacionados con la salud de las personas los referidos a su porcentaje de discapacidad y a su información genética.
+g) **Datos de carácter personal relacionados con la salud.** Las informaciones concernientes a la salud pasada, presente y futura, física o mental, de un individuo. En particular, se consideran datos relacionados con la salud de las personas los referidos a su porcentaje de discapacidad y a su información genética.
 
-h) Destinatario o cesionario: la persona física o jurídica, pública o privada u órgano administrativo, al que se revelen los datos.
+h) **Destinatario o cesionario.** La persona física o jurídica, pública o privada u órgano administrativo, al que se revelen los datos.
 
 Podrán ser también destinatarios los entes sin personalidad jurídica que actúen en el tráfico como sujetos diferenciados.
 
-i) Encargado del tratamiento: La persona física o jurídica, pública o privada, u órgano administrativo que, solo o conjuntamente con otros, trate datos personales por cuenta del responsable del tratamiento o del responsable del fichero, como consecuencia de la existencia de una relación jurídica que le vincula con el mismo y delimita el ámbito de su actuación para la prestación de un servicio.
+i) **Encargado del tratamiento.** La persona física o jurídica, pública o privada, u órgano administrativo que, solo o conjuntamente con otros, trate datos personales por cuenta del responsable del tratamiento o del responsable del fichero, como consecuencia de la existencia de una relación jurídica que le vincula con el mismo y delimita el ámbito de su actuación para la prestación de un servicio.
 
 Podrán ser también encargados del tratamiento los entes sin personalidad jurídica que actúen en el tráfico como sujetos diferenciados.
 
-j) Exportador de datos personales: la persona física o jurídica, pública o privada, u órgano administrativo situado en territorio español que realice, conforme a lo dispuesto en el presente Reglamento, una transferencia de datos de carácter personal a un país tercero.
+j) **Exportador de datos personales.** La persona física o jurídica, pública o privada, u órgano administrativo situado en territorio español que realice, conforme a lo dispuesto en el presente Reglamento, una transferencia de datos de carácter personal a un país tercero.
 
-k) Fichero: Todo conjunto organizado de datos de carácter personal, que permita el acceso a los datos con arreglo a criterios determinados, cualquiera que fuere la forma o modalidad de su creación, almacenamiento, organización y acceso.
+k) **Fichero.** Todo conjunto organizado de datos de carácter personal, que permita el acceso a los datos con arreglo a criterios determinados, cualquiera que fuere la forma o modalidad de su creación, almacenamiento, organización y acceso.
 
-l) Ficheros de titularidad privada: los ficheros de los que sean responsables las personas, empresas o entidades de derecho privado, con independencia de quien ostente la titularidad de su capital o de la procedencia de sus recursos económicos, así como los ficheros de los que sean responsables las corporaciones de derecho público, en cuanto dichos ficheros no se encuentren estrictamente vinculados al ejercicio de potestades de derecho público que a las mismas atribuye su normativa específica.
+l) **Ficheros de titularidad privada.** Los ficheros de los que sean responsables las personas, empresas o entidades de derecho privado, con independencia de quien ostente la titularidad de su capital o de la procedencia de sus recursos económicos, así como los ficheros de los que sean responsables las corporaciones de derecho público, en cuanto dichos ficheros no se encuentren estrictamente vinculados al ejercicio de potestades de derecho público que a las mismas atribuye su normativa específica.
 
-m) Ficheros de titularidad pública: los ficheros de los que sean responsables los órganos constitucionales o con relevancia constitucional del Estado o las instituciones autonómicas con funciones análogas a los mismos, las Administraciones públicas territoriales, así como las entidades u organismos vinculados o dependientes de las mismas y las Corporaciones de derecho público siempre que su finalidad sea el ejercicio de potestades de derecho público.
+m) **Ficheros de titularidad pública.** Los ficheros de los que sean responsables los órganos constitucionales o con relevancia constitucional del Estado o las instituciones autonómicas con funciones análogas a los mismos, las Administraciones públicas territoriales, así como las entidades u organismos vinculados o dependientes de las mismas y las Corporaciones de derecho público siempre que su finalidad sea el ejercicio de potestades de derecho público.
 
-n) Fichero no automatizado: todo conjunto de datos de carácter personal organizado de forma no automatizada y estructurado conforme a criterios específicos relativos a personas físicas, que permitan acceder sin esfuerzos desproporcionados a sus datos personales, ya sea aquél centralizado, descentralizado o repartido de forma funcional o geográfica.
+n) **Fichero no automatizado.** Todo conjunto de datos de carácter personal organizado de forma no automatizada y estructurado conforme a criterios específicos relativos a personas físicas, que permitan acceder sin esfuerzos desproporcionados a sus datos personales, ya sea aquél centralizado, descentralizado o repartido de forma funcional o geográfica.
 
 ñ) Importador de datos personales: la persona física o jurídica, pública o privada, u órgano administrativo receptor de los datos en caso de transferencia internacional de los mismos a un tercer país, ya sea responsable del tratamiento, encargada del tratamiento o tercero.
 
-o) Persona identificable: toda persona cuya identidad pueda determinarse, directa o indirectamente, mediante cualquier información referida a su identidad física, fisiológica, psíquica, económica, cultural o social. Una persona física no se considerará identificable si dicha identificación requiere plazos o actividades desproporcionados.
+o) **Persona identificable.** Toda persona cuya identidad pueda determinarse, directa o indirectamente, mediante cualquier información referida a su identidad física, fisiológica, psíquica, económica, cultural o social. Una persona física no se considerará identificable si dicha identificación requiere plazos o actividades desproporcionados.
 
-p) Procedimiento de disociación: Todo tratamiento de datos personales que permita la obtención de datos disociados.
+p) **Procedimiento de disociación.** Todo tratamiento de datos personales que permita la obtención de datos disociados.
 
-q) Responsable del fichero o del tratamiento: Persona física o jurídica, de naturaleza pública o privada, u órgano administrativo, que sólo o conjuntamente con otros decida sobre la finalidad, contenido y uso del tratamiento, aunque no lo realizase materialmente.
+q) **Responsable del fichero o del tratamiento.** Persona física o jurídica, de naturaleza pública o privada, u órgano administrativo, que sólo o conjuntamente con otros decida sobre la finalidad, contenido y uso del tratamiento, aunque no lo realizase materialmente.
 
 Podrán ser también responsables del fichero o del tratamiento los entes sin personalidad jurídica que actúen en el tráfico como sujetos diferenciados.
 
-r) Tercero: la persona física o jurídica, pública o privada u órgano administrativo distinta del afectado o interesado, del responsable del tratamiento, del responsable del fichero, del encargado del tratamiento y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento.
+r) **Tercero.** La persona física o jurídica, pública o privada u órgano administrativo distinta del afectado o interesado, del responsable del tratamiento, del responsable del fichero, del encargado del tratamiento y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento.
 
 Podrán ser también terceros los entes sin personalidad jurídica que actúen en el tráfico como sujetos diferenciados.
 
-s) Transferencia internacional de datos: Tratamiento de datos que supone una transmisión de los mismos fuera del territorio del Espacio Económico Europeo, bien constituya una cesión o comunicación de datos, bien tenga por objeto la realización de un tratamiento de datos por cuenta del responsable del fichero establecido en territorio español.
+s) **Transferencia internacional de datos.** Tratamiento de datos que supone una transmisión de los mismos fuera del territorio del Espacio Económico Europeo, bien constituya una cesión o comunicación de datos, bien tenga por objeto la realización de un tratamiento de datos por cuenta del responsable del fichero establecido en territorio español.
 
-t) Tratamiento de datos: cualquier operación o procedimiento técnico, sea o no automatizado, que permita la recogida, grabación, conservación, elaboración, modificación, consulta, utilización, modificación, cancelación, bloqueo o supresión, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
+t) **Tratamiento de datos.** Cualquier operación o procedimiento técnico, sea o no automatizado, que permita la recogida, grabación, conservación, elaboración, modificación, consulta, utilización, modificación, cancelación, bloqueo o supresión, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
 
 2. En particular, en relación con lo dispuesto en el título VIII de este reglamento se entenderá por:
 
-a) Accesos autorizados: autorizaciones concedidas a un usuario para la utilización de los diversos recursos. En su caso, incluirán las autorizaciones o funciones que tenga atribuidas un usuario por delegación del responsable del fichero o tratamiento o del responsable de seguridad.
+a) **Accesos autorizados.** Autorizaciones concedidas a un usuario para la utilización de los diversos recursos. En su caso, incluirán las autorizaciones o funciones que tenga atribuidas un usuario por delegación del responsable del fichero o tratamiento o del responsable de seguridad.
 
-b) Autenticación: procedimiento de comprobación de la identidad de un usuario.
+b) **Autenticación.** Procedimiento de comprobación de la identidad de un usuario.
 
-c) Contraseña: información confidencial, frecuentemente constituida por una cadena de caracteres, que puede ser usada en la autenticación de un usuario o en el acceso a un recurso.
+c) **Contraseña.** Información confidencial, frecuentemente constituida por una cadena de caracteres, que puede ser usada en la autenticación de un usuario o en el acceso a un recurso.
 
-d) Control de acceso: mecanismo que en función de la identificación ya autenticada permite acceder a datos o recursos.
+d) **Control de acceso.** Mecanismo que en función de la identificación ya autenticada permite acceder a datos o recursos.
 
-e) Copia de respaldo: copia de los datos de un fichero automatizado en un soporte que posibilite su recuperación.
+e) **Copia de respaldo.** Copia de los datos de un fichero automatizado en un soporte que posibilite su recuperación.
 
-f) Documento: todo escrito, gráfico, sonido, imagen o cualquier otra clase de información que puede ser tratada en un sistema de información como una unidad diferenciada.
+f) **Documento.** Todo escrito, gráfico, sonido, imagen o cualquier otra clase de información que puede ser tratada en un sistema de información como una unidad diferenciada.
 
-g) Ficheros temporales: ficheros de trabajo creados por usuarios o procesos que son necesarios para un tratamiento ocasional o como paso intermedio durante la realización de un tratamiento.
+g) **Ficheros temporales.** Ficheros de trabajo creados por usuarios o procesos que son necesarios para un tratamiento ocasional o como paso intermedio durante la realización de un tratamiento.
 
-h) Identificación: procedimiento de reconocimiento de la identidad de un usuario.
+h) **Identificación.** Procedimiento de reconocimiento de la identidad de un usuario.
 
-i) Incidencia: cualquier anomalía que afecte o pudiera afectar a la seguridad de los datos.
+i) **Incidencia.** Cualquier anomalía que afecte o pudiera afectar a la seguridad de los datos.
 
-j) Perfil de usuario: accesos autorizados a un grupo de usuarios.
+j) **Perfil de usuario.** Accesos autorizados a un grupo de usuarios.
 
-k) Recurso: cualquier parte componente de un sistema de información.
+k) **Recurso.** Cualquier parte componente de un sistema de información.
 
-l) Responsable de seguridad: persona o personas a las que el responsable del fichero ha asignado formalmente la función de coordinar y controlar las medidas de seguridad aplicables.
+l) **Responsable de seguridad.** Persona o personas a las que el responsable del fichero ha asignado formalmente la función de coordinar y controlar las medidas de seguridad aplicables.
 
-m) Sistema de información: conjunto de ficheros, tratamientos, programas, soportes y en su caso, equipos empleados para el tratamiento de datos de carácter personal.
+m) **Sistema de información.** Conjunto de ficheros, tratamientos, programas, soportes y en su caso, equipos empleados para el tratamiento de datos de carácter personal.
 
-n) Sistema de tratamiento: modo en que se organiza o utiliza un sistema de información. Atendiendo al sistema de tratamiento, los sistemas de información podrán ser automatizados, no automatizados o parcialmente automatizados.
+n) **Sistema de tratamiento.** Modo en que se organiza o utiliza un sistema de información. Atendiendo al sistema de tratamiento, los sistemas de información podrán ser automatizados, no automatizados o parcialmente automatizados.
 
 ñ) Soporte: objeto físico que almacena o contiene datos o documentos, u objeto susceptible de ser tratado en un sistema de información y sobre el cual se pueden grabar y recuperar datos.
 
-o) Transmisión de documentos: cualquier traslado, comunicación, envío, entrega o divulgación de la información contenida en el mismo.
+o) **Transmisión de documentos.** Cualquier traslado, comunicación, envío, entrega o divulgación de la información contenida en el mismo.
 
-p) Usuario: sujeto o proceso autorizado para acceder a datos o recursos. Tendrán la consideración de usuarios los procesos que permitan acceder a datos o recursos sin identificación de un usuario físico.
+p) **Usuario: sujeto o proceso autorizado para acceder a datos o recursos.** Tendrán la consideración de usuarios los procesos que permitan acceder a datos o recursos sin identificación de un usuario físico.
 
-#### Artículo 6. Cómputo de plazos.
+#### Artículo 6. Cómputo de plazos En los supuestos en que este reglamento señale un plazo por días se computarán únicamente los hábiles.
 
-En los supuestos en que este reglamento señale un plazo por días se computarán únicamente los hábiles. Cuando el plazo sea por meses, se computarán de fecha a fecha.
+Cuando el plazo sea por meses, se computarán de fecha a fecha.
 
 #### Artículo 7. Fuentes accesibles al público.
 
@@ -753,13 +751,11 @@ e) Los medios de comunicación social.
 
 2. En todo caso, para que los supuestos enumerados en el apartado anterior puedan ser considerados fuentes accesibles al público, será preciso que su consulta pueda ser realizada por cualquier persona, no impedida por una norma limitativa, o sin más exigencia que, en su caso, el abono de una contraprestación.
 
-## TÍTULO II
+## Título II
 
 **Principios de protección de datos**
 
-CAPÍTULO I
-
-Calidad de los datos
+## Capítulo I. Calidad de los datos.
 
 #### Artículo 8. Principios relativos a la calidad de los datos.
 
@@ -845,11 +841,9 @@ En particular, no será necesario el consentimiento del interesado para la comun
 
 Cuando se formulen solicitudes por medios electrónicos en las que el interesado declare datos personales que obren en poder de las Administraciones públicas, el órgano destinatario de la solicitud podrá efectuar en el ejercicio de sus competencias las verificaciones necesarias para comprobar la autenticidad de los datos.
 
-CAPÍTULO II
+## Capítulo II. Consentimiento para el tratamiento de los datos y deber de información.
 
-Consentimiento para el tratamiento de los datos y deber de información
-
-Sección 1.ª Obtención del consentimiento del afectado
+#### Sección 1. ª Obtención del consentimiento del afectado
 
 #### Artículo 12. Principios generales.
 
@@ -907,7 +901,7 @@ No se considerarán conformes a lo dispuesto en la [Ley Orgánica 15/1999](./LO1
 
 4. Si los datos hubieran sido cedidos previamente, el responsable del tratamiento, una vez revocado el consentimiento, deberá comunicarlo a los cesionarios, en el plazo previsto en el apartado 2, para que éstos, cesen en el tratamiento de los datos en caso de que aún lo mantuvieran, conforme al artículo 16.4 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-Sección 2.ª Deber de información al interesado
+#### Sección 2. ª Deber de información al interesado
 
 #### Artículo 18. Acreditación del cumplimiento del deber de información.
 
@@ -919,9 +913,7 @@ Sección 2.ª Deber de información al interesado
 
 En los supuestos en que se produzca una modificación del responsable del fichero como consecuencia de una operación de fusión, escisión, cesión global de activos y pasivos, aportación o transmisión de negocio o rama de actividad empresarial, o cualquier operación de reestructuración societaria de análoga naturaleza, contemplada por la normativa mercantil, no se producirá cesión de datos, sin perjuicio del cumplimiento por el responsable de lo dispuesto en el artículo 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-CAPÍTULO III
-
-Encargado del tratamiento
+## Capítulo III. Encargado del tratamiento.
 
 #### Artículo 20. Relaciones entre el responsable y el encargado del tratamiento.
 
@@ -963,13 +955,13 @@ No procederá la destrucción de los datos cuando exista una previsión legal qu
 
 2. El encargado del tratamiento conservará, debidamente bloqueados, los datos en tanto pudieran derivarse responsabilidades de su relación con el responsable del tratamiento.
 
-## TÍTULO III
+## Título III
 
 **Derechos de acceso, rectificación, cancelación y oposición**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 23. Carácter personalísimo.
 
@@ -1033,9 +1025,7 @@ d) Documentos acreditativos de la petición que formula, en su caso.
 
 Cuando los afectados ejercitasen sus derechos ante un encargado del tratamiento y solicitasen el ejercicio de su derecho ante el mismo, el encargado deberá dar traslado de la solicitud al responsable, a fin de que por el mismo se resuelva, a menos que en la relación existente con el responsable del tratamiento se prevea precisamente que el encargado atenderá, por cuenta del responsable, las solicitudes de ejercicio por los afectados de sus derechos de acceso, rectificación, cancelación u oposición.
 
-CAPÍTULO II
-
-Derecho de acceso
+## Capítulo II. Derecho de acceso.
 
 #### Artículo 27. Derecho de acceso.
 
@@ -1089,9 +1079,7 @@ Dicha información comprenderá todos los datos de base del afectado, los result
 
 3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las comunidades autónomas, conforme a lo dispuesto en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-CAPÍTULO III
-
-Derechos de rectificación y cancelación
+## Capítulo III. Derechos de rectificación y cancelación.
 
 #### Artículo 31. Derechos de rectificación y cancelación.
 
@@ -1123,9 +1111,7 @@ La rectificación o cancelación efectuada por el cesionario no requerirá comun
 
 3. En todo caso, el responsable del fichero informará al afectado de su derecho a recabar la tutela de la Agencia Española de Protección de Datos o, en su caso, de las autoridades de control de las Comunidades Autónomas, conforme a lo dispuesto en el artículo 18 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-CAPÍTULO IV
-
-Derecho de oposición
+## Capítulo IV. Derecho de oposición.
 
 #### Artículo 34. Derecho de oposición.
 
@@ -1159,15 +1145,13 @@ a) Se haya adoptado en el marco de la celebración o ejecución de un contrato a
 
 b) Esté autorizada por una norma con rango de Ley que establezca medidas que garanticen el interés legítimo del interesado.
 
-## TÍTULO IV
+## Título IV
 
 **Disposiciones aplicables a determinados ficheros de titularidad privada**
 
-CAPÍTULO I
+## Capítulo I. Ficheros de información sobre solvencia patrimonial y crédito.
 
-Ficheros de información sobre solvencia patrimonial y crédito
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 37. Régimen aplicable.
 
@@ -1267,9 +1251,7 @@ En este caso, el titular del fichero común deberá, además de dar cumplimiento
 
 3.ª Si la solicitud se dirige a otra entidad participante en el sistema, que no hubiera facilitado al fichero común los datos, dicha entidad informará al afectado sobre este hecho en el plazo máximo de diez días, proporcionándole, además, la identidad y dirección del titular del fichero común para, que en su caso, puedan ejercitar sus derechos ante el mismo.
 
-CAPÍTULO II
-
-Tratamientos para actividades de publicidad y prospección comercial
+## Capítulo II. Tratamientos para actividades de publicidad y prospección comercial.
 
 #### Artículo 45. Datos susceptibles de tratamiento e información al interesado.
 
@@ -1347,13 +1329,11 @@ En todo caso, el ejercicio por el afectado de sus derechos no podrá suponer un 
 
 Lo dispuesto en el párrafo anterior se entenderá sin perjuicio del deber impuesto a la entidad mencionada en el apartado anterior, en todo caso, por el párrafo segundo del artículo 5.5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-## TÍTULO V
+## Título V
 
 **Obligaciones previas al tratamiento de los datos**
 
-CAPÍTULO I
-
-Creación, modificación o supresión de ficheros de titularidad pública
+## Capítulo I. Creación, modificación o supresión de ficheros de titularidad pública.
 
 #### Artículo 52. Disposición o Acuerdo de creación, modificación o supresión del fichero.
 
@@ -1391,9 +1371,7 @@ h) El nivel básico, medio o alto de seguridad que resulte exigible, de acuerdo 
 
 3. En las disposiciones o acuerdos que se dicten para la supresión de los ficheros se establecerá el destino que vaya a darse a los datos o, en su caso, las previsiones que se adopten para su destrucción.
 
-CAPÍTULO II
-
-Notificación e inscripción de los ficheros de titularidad pública o privada
+## Capítulo II. Notificación e inscripción de los ficheros de titularidad pública o privada.
 
 #### Artículo 55. Notificación de ficheros.
 
@@ -1423,7 +1401,9 @@ Cuando se tenga previsto crear un fichero del que resulten responsables varias p
 
 2. Cuando el responsable del fichero decida su supresión, deberá notificarla a efectos de que se proceda a la cancelación de la inscripción en el registro correspondiente.
 
-3. Tratándose de ficheros de titularidad pública, cuando se pretenda la modificación que afecte a alguno de los requisitos previstos en el artículo 55 o la supresión del fichero deberá haberse adoptado, con carácter previo a la notificación la correspondiente norma o acuerdo en los términos previstos en el capítulo I de este título.
+3. Tratándose de ficheros de titularidad pública, cuando se pretenda la modificación que afecte a alguno de los requisitos previstos en el artículo 55 o la.
+
+supresión del fichero deberá haberse adoptado, con carácter previo a la notificación la correspondiente norma o acuerdo en los términos previstos en el capítulo I de este título.
 
 #### Artículo 59. Modelos y soportes para la notificación.
 
@@ -1469,21 +1449,19 @@ Cuando la inscripción se refiera a ficheros sujetos a la competencia de la auto
 
 El Director de la Agencia Española de Protección de Datos podrá celebrar con los directores de las autoridades de control de las comunidades autónomas los convenios de colaboración o acuerdos que estime pertinentes, a fin de garantizar la inscripción en el Registro General de Protección de Datos de los ficheros sometidos a la competencia de dichas autoridades autonómicas.
 
-## TÍTULO VI
+## Título VI
 
 **Transferencias internacionales de datos**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 65. Cumplimiento de las disposiciones de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
-
-La transferencia internacional de datos no excluye en ningún caso la aplicación de las disposiciones contenidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente reglamento.
+### Disposiciones generales artículo 65 Cumplimiento de las disposiciones de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre. La transferencia internacional de datos no excluye en ningún caso la aplicación de las disposiciones contenidas en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente reglamento.
 
 #### Artículo 66. Autorización y notificación.
 
-1. Para que la transferencia internacional de datos pueda considerarse conforme a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento será necesaria la autorización del Director de la Agencia Española de Protección de Datos, que se otorgará en caso de que el exportador aporte las garantías a las que se refiere el artículo 70 del presente reglamento.
+1. Para que la transferencia internacional de datos pueda considerarse conforme a lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, y en el presente Reglamento será necesaria la autorización del Director de la Agencia Española de Protección de Datos, que se otorgará en caso de que el exportador aporte las garantías a las que se refiere el artículo 70 l.
+
+presente reglamento.
 
 La autorización se otorgará conforme al procedimiento establecido en la sección primera del capítulo V del título IX de este reglamento.
 
@@ -1495,9 +1473,7 @@ b) Cuando la transferencia se encuentre en uno de los supuestos contemplados en 
 
 3. En todo caso, la transferencia internacional de datos deberá ser notificada a fin de proceder a su inscripción en el Registro General de Protección de Datos, conforme al procedimiento establecido en la sección primera del capítulo IV del título IX del presente reglamento.
 
-CAPÍTULO II
-
-Transferencias a estados que proporcionen un nivel adecuado de protección
+## Capítulo II. Transferencias a estados que proporcionen un nivel adecuado de protección.
 
 #### Artículo 67. Nivel adecuado de protección acordado por la Agencia Española de Protección de Datos.
 
@@ -1525,9 +1501,7 @@ b) Que existan indicios racionales de que se estén vulnerando las normas o, en 
 
 En estos casos, la decisión del Director de la Agencia Española de Protección de Datos será notificada a la Comisión Europea.
 
-CAPÍTULO III
-
-Transferencias a Estados que no proporcionen un nivel adecuado de protección
+## Capítulo III. Transferencias a Estados que no proporcionen un nivel adecuado de protección.
 
 #### Artículo 70. Transferencias sujetas a autorización del Director de la Agencia Española de Protección de Datos.
 
@@ -1561,7 +1535,7 @@ En este caso, para que proceda la autorización del Director de la Agencia Espa�
 
 En todo caso, la autorización del Director de la Agencia Española de Protección de Datos implicará la exigibilidad de lo previsto en las normas o reglas internas tanto por la Agencia como por los afectados cuyos datos hubieran sido objeto de tratamiento.
 
-## TÍTULO VII
+## Título VII
 
 **Códigos tipo**
 
@@ -1677,17 +1651,13 @@ Esta evaluación deberá tener lugar, al menos, cada cuatro años, salvo que sea
 
 d) Favorecer la accesibilidad de todas las personas, con especial atención a las que tengan alguna discapacidad o de edad avanzada a toda la información disponible sobre el código tipo.
 
-## TÍTULO VIII
+## Título VIII
 
 **De las medidas de seguridad en el tratamiento de datos de carácter personal**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 79. Alcance.
-
-Los responsables de los tratamientos o los ficheros y los encargados del tratamiento deberán implantar las medidas de seguridad con arreglo a lo dispuesto en este Título, con independencia de cual sea su sistema de tratamiento.
+### Disposiciones generales artículo 79 Alcance. Los responsables de los tratamientos o los ficheros y los encargados del tratamiento deberán implantar las medidas de seguridad con arreglo a lo dispuesto en este Título, con independencia de cual sea su sistema de tratamiento.
 
 #### Artículo 80. Niveles de seguridad.
 
@@ -1769,9 +1739,7 @@ Las medidas de seguridad exigibles a los accesos a datos de carácter personal a
 
 2. Todo fichero temporal o copia de trabajo así creado será borrado o destruido una vez que haya dejado de ser necesario para los fines que motivaron su creación.
 
-CAPÍTULO II
-
-Del documento de seguridad
+## Capítulo II. Del documento de seguridad.
 
 #### Artículo 88. El documento de seguridad.
 
@@ -1811,11 +1779,9 @@ En tal caso, se atenderá al documento de seguridad del encargado al efecto del 
 
 8. El contenido del documento de seguridad deberá adecuarse, en todo momento, a las disposiciones vigentes en materia de seguridad de los datos de carácter personal.
 
-CAPÍTULO III
+## Capítulo III. Medidas de seguridad aplicables a ficheros y tratamientos automatizados.
 
-Medidas de seguridad aplicables a ficheros y tratamientos automatizados
-
-Sección 1.ª Medidas de seguridad de nivel básico
+#### Sección 1. ª Medidas de seguridad de nivel básico
 
 #### Artículo 89. Funciones y obligaciones del personal.
 
@@ -1879,11 +1845,7 @@ Se exceptúan estas obligaciones cuando las características físicas del soport
 
 Si está previsto realizar pruebas con datos reales, previamente deberá haberse realizado una copia de seguridad.
 
-Sección 2.ª Medidas de seguridad de nivel medio
-
-#### Artículo 95. Responsable de seguridad.
-
-En el documento de seguridad deberán designarse uno o varios responsables de seguridad encargados de coordinar y controlar las medidas definidas en el mismo. Esta designación puede ser única para todos los ficheros o tratamientos de datos de carácter personal o diferenciada según los sistemas de tratamiento utilizados, circunstancia que deberá hacerse constar claramente en el documento de seguridad.
+#### Sección 2. ª Medidas de seguridad de nivel medio artículo 95 Responsable de seguridad. En el documento de seguridad deberán designarse uno o varios responsables de seguridad encargados de coordinar y controlar las medidas definidas en el mismo. Esta designación puede ser única para todos los ficheros o tratamientos de datos de carácter personal o diferenciada según los sistemas de tratamiento utilizados, circunstancia que deberá hacerse constar claramente en el documento de seguridad.
 
 En ningún caso esta designación supone una exoneración de la responsabilidad que corresponde al responsable del fichero o al encargado del tratamiento de acuerdo con este reglamento.
 
@@ -1913,11 +1875,13 @@ Exclusivamente el personal autorizado en el documento de seguridad podrá tener 
 
 #### Artículo 100. Registro de incidencias.
 
-1. En el registro regulado en el artículo 90 deberán consignarse, además, los procedimientos realizados de recuperación de los datos, indicando la persona que ejecutó el proceso, los datos restaurados y, en su caso, qué datos ha sido necesario grabar manualmente en el proceso de recuperación.
+1. En el registro regulado en el artículo 90 berán.
+
+consignarse, además, los procedimientos realizados de recuperación de los datos, indicando la persona que ejecutó el proceso, los datos restaurados y, en su caso, qué datos ha sido necesario grabar manualmente en el proceso de recuperación.
 
 2. Será necesaria la autorización del responsable del fichero para la ejecución de los procedimientos de recuperación de los datos.
 
-Sección 3.ª Medidas de seguridad de nivel alto
+#### Sección 3. ª Medidas de seguridad de nivel alto
 
 #### Artículo 101. Gestión y distribución de soportes.
 
@@ -1957,11 +1921,9 @@ La concurrencia de las dos circunstancias a las que se refiere el apartado anter
 
 Cuando, conforme al artículo 81.3 deban implantarse las medidas de seguridad de nivel alto, la transmisión de datos de carácter personal a través de redes públicas o redes inalámbricas de comunicaciones electrónicas se realizará cifrando dichos datos o bien utilizando cualquier otro mecanismo que garantice que la información no sea inteligible ni manipulada por terceros.
 
-CAPÍTULO IV
+## Capítulo IV. Medidas de seguridad aplicables a los ficheros y tratamientos no automatizados.
 
-Medidas de seguridad aplicables a los ficheros y tratamientos no automatizados
-
-Sección 1.ª Medidas de seguridad de nivel básico
+#### Sección 1. ª Medidas de seguridad de nivel básico
 
 #### Artículo 105. Obligaciones comunes.
 
@@ -2007,17 +1969,13 @@ Los dispositivos de almacenamiento de los documentos que contengan datos de car�
 
 Mientras la documentación con datos de carácter personal no se encuentre archivada en los dispositivos de almacenamiento establecidos en el artículo anterior, por estar en proceso de revisión o tramitación, ya sea previo o posterior a su archivo, la persona que se encuentre al cargo de la misma deberá custodiarla e impedir en todo momento que pueda ser accedida por persona no autorizada.
 
-Sección 2.ª Medidas de seguridad de nivel medio
-
-#### Artículo 109. Responsable de seguridad.
-
-Se designará uno o varios responsables de seguridad en los términos y con las funciones previstas en el artículo 95 de este reglamento.
+#### Sección 2. ª Medidas de seguridad de nivel medio artículo 109 Responsable de seguridad. Se designará uno o varios responsables de seguridad en los términos y con las funciones previstas en el artículo 95 de este reglamento.
 
 #### Artículo 110. Auditoría.
 
 Los ficheros comprendidos en la presente sección se someterán, al menos cada dos años, a una auditoría interna o externa que verifique el cumplimiento del presente título.
 
-Sección 3.ª Medidas de seguridad de nivel alto
+#### Sección 3. ª Medidas de seguridad de nivel alto
 
 #### Artículo 111. Almacenamiento de la información.
 
@@ -2043,13 +2001,13 @@ Sección 3.ª Medidas de seguridad de nivel alto
 
 Siempre que se proceda al traslado físico de la documentación contenida en un fichero, deberán adoptarse medidas dirigidas a impedir el acceso o manipulación de la información objeto de traslado.
 
-## TÍTULO IX
+## Título IX
 
 **Procedimientos tramitados por la Agencia Española de Protección de Datos**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 115. Régimen aplicable.
 
@@ -2067,9 +2025,7 @@ Disposiciones generales
 
 4. La publicación se realizará aplicando los criterios de disociación de los datos de carácter personal que a tal efecto se establezcan mediante Resolución del Director de la Agencia.
 
-CAPÍTULO II
-
-Procedimiento de tutela de los derechos de acceso, rectificación, cancelación y oposición
+## Capítulo II. Procedimiento de tutela de los derechos de acceso, rectificación, cancelación y oposición.
 
 #### Artículo 117. Instrucción del procedimiento.
 
@@ -2089,11 +2045,9 @@ Procedimiento de tutela de los derechos de acceso, rectificación, cancelación 
 
 Si la resolución de tutela fuese estimatoria, se requerirá al responsable del fichero para que, en el plazo de diez días siguientes a la notificación, haga efectivo el ejercicio de los derechos objeto de la tutela, debiendo dar cuenta por escrito de dicho cumplimiento a la Agencia Española de Protección de Datos en idéntico plazo.
 
-CAPÍTULO III
+## Capítulo III. Procedimientos relativos al ejercicio de la potestad sancionadora.
 
-Procedimientos relativos al ejercicio de la potestad sancionadora
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 120. Ámbito de aplicación.
 
@@ -2109,7 +2063,7 @@ Sección 1.ª Disposiciones generales
 
 3. Si el requerimiento fuera desatendido, el Director de la Agencia Española de Protección de Datos podrá, mediante resolución motivada, acordar la inmovilización de tales ficheros o tratamientos, a los solos efectos de restaurar los derechos de las personas afectadas.
 
-Sección 2.ª Actuaciones previas
+#### Sección 2. ª Actuaciones previas
 
 #### Artículo 122. Iniciación.
 
@@ -2161,11 +2115,7 @@ Si de las actuaciones no se derivasen hechos susceptibles de motivar la imputaci
 
 2. En caso de apreciarse la existencia de indicios susceptibles de motivar la imputación de una infracción, el Director de la Agencia Española de Protección de Datos dictará acuerdo de inicio de procedimiento sancionador o de infracción de las Administraciones públicas, que se tramitarán conforme a lo dispuesto, respectivamente, en las secciones tercera y cuarta del presente capítulo.
 
-Sección 3.ª Procedimiento sancionador
-
-#### Artículo 127. Iniciación del procedimiento.
-
-Con carácter específico el acuerdo de inicio del procedimiento sancionador deberá contener:
+#### Sección 3. ª Procedimiento sancionador artículo 127 Iniciación del procedimiento. Con carácter específico el acuerdo de inicio del procedimiento sancionador deberá contener:
 
 a) Identificación de la persona o personas presuntamente responsables.
 
@@ -2193,11 +2143,9 @@ Sección 4.ª Procedimiento de declaración de infracción de la [Ley Orgánica 
 
 El procedimiento por el que se declare la existencia de una infracción de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, cometida por las Administraciones públicas será el establecido en la sección tercera de este capítulo.
 
-CAPÍTULO IV
+## Capítulo IV. Procedimientos relacionados con la inscripción o cancelación de ficheros.
 
-Procedimientos relacionados con la inscripción o cancelación de ficheros
-
-Sección 1.ª Procedimiento de inscripción de la creación, modificación o supresión de ficheros
+#### Sección 1. ª Procedimiento de inscripción de la creación, modificación o supresión de ficheros
 
 #### Artículo 130. Iniciación del procedimiento.
 
@@ -2237,11 +2185,7 @@ La resolución será debidamente motivada, con indicación expresa de las causas
 
 2. Si en dicho plazo no se hubiese dictado y notificado resolución expresa, se entenderá inscrito, modificado o cancelado el fichero a todos los efectos.
 
-Sección 2.ª Procedimiento de cancelación de oficio de ficheros inscritos
-
-#### Artículo 135. Iniciación del procedimiento.
-
-El procedimiento de cancelación de oficio de los ficheros inscritos en el Registro General de Protección de Datos se iniciará siempre de oficio, bien por propia iniciativa o en virtud de denuncia, por acuerdo del Director de la Agencia Española de Protección de Datos.
+#### Sección 2. ª Procedimiento de cancelación de oficio de ficheros inscritos artículo 135 Iniciación del procedimiento. El procedimiento de cancelación de oficio de los ficheros inscritos en el Registro General de Protección de Datos se iniciará siempre de oficio, bien por propia iniciativa o en virtud de denuncia, por acuerdo del Director de la Agencia Española de Protección de Datos.
 
 #### Artículo 136. Terminación del expediente.
 
@@ -2249,11 +2193,9 @@ La resolución, previa audiencia del interesado, acordará haber lugar o no a la
 
 Si la resolución acordase la cancelación del fichero, se dará traslado de la misma al Registro General de Protección de Datos, para que proceda a la cancelación.
 
-CAPÍTULO V
+## Capítulo V. Procedimientos relacionados con las transferencias internacionales de datos.
 
-Procedimientos relacionados con las transferencias internacionales de datos
-
-Sección 1.ª Procedimiento de autorización de transferencias internacionales de datos
+#### Sección 1. ª Procedimiento de autorización de transferencias internacionales de datos
 
 #### Artículo 137. Iniciación del procedimiento.
 
@@ -2291,11 +2233,13 @@ El Registro General de Protección de Datos inscribirá de oficio la autorizaci�
 
 2. Si en dicho plazo no se hubiese dictado y notificado resolución expresa, se entenderá autorizada la transferencia internacional de datos.
 
-Sección 2.ª Procedimiento de suspensión temporal de transferencias internacionales de datos
+#### Sección 2. ª Procedimiento de suspensión temporal de transferencias internacionales de datos
 
 #### Artículo 141. Iniciación.
 
-1. En los supuestos contemplados en el artículo 69 y en el apartado 3 del artículo 70, el Director de la Agencia Española de Protección de Datos podrá acordar la suspensión temporal de una transferencia internacional de datos.
+1. En los supuestos contemplados en el artículo 69 y en.
+
+el apartado 3 del artículo 70, el Director de la Agencia Española de Protección de Datos podrá acordar la suspensión temporal de una transferencia internacional de datos.
 
 2. En tales supuestos, el Director dictará acuerdo de inicio referido a la suspensión temporal de la transferencia. El acuerdo deberá ser motivado y fundarse en los supuestos previstos en este reglamento.
 
@@ -2323,9 +2267,7 @@ El Registro General de Protección de Datos hará constar de oficio el levantami
 
 3. El acuerdo será notificado al exportador y al Ministerio de Justicia, al efecto de que se proceda a su notificación a la Comisión Europea y a los demás Estados miembros de la Unión Europea de acuerdo a lo previsto en el artículo 26. 3 de la Directiva 95/46/CE.
 
-CAPÍTULO VI
-
-Procedimiento de inscripción de códigos tipo
+## Capítulo VI. Procedimiento de inscripción de códigos tipo.
 
 #### Artículo 145. Iniciación del procedimiento.
 
@@ -2385,11 +2327,9 @@ En caso de que durante el trámite previsto en el ar-tículo 148 se hubieran for
 
 La Agencia Española de Protección de Datos dará publicidad al contenido de los códigos tipo inscritos en el Registro General de Protección de Datos, utilizando para ello, con carácter preferente, medios electrónicos o telemáticos.
 
-CAPÍTULO VII
+## Capítulo VII. Otros procedimientos tramitados por la agencia española de protección de datos.
 
-Otros procedimientos tramitados por la agencia española de protección de datos
-
-Sección 1.ª Procedimiento de exención del deber de información al interesado
+#### Sección 1. ª Procedimiento de exención del deber de información al interesado
 
 #### Artículo 153. Iniciación del procedimiento.
 
@@ -2451,11 +2391,10 @@ Los productos de software destinados al tratamiento automatizado de datos person
 
 En lo no establecido en el capítulo III del título IX serán de aplicación a los procedimientos sancionadores tramitados por la Agencia Española de Protección de Datos las disposiciones contenidas en el Reglamento del Procedimiento para el ejercicio de la potestad sancionadora, aprobado por Real Decreto 1398/1993, de 4 de agosto.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Fundamentado en**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
@@ -2467,6 +2406,7 @@ En lo no establecido en el capítulo III del título IX serán de aplicación a 
 - **Fundamento de**: [**Resolucion BOC 121**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)

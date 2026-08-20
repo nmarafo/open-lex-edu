@@ -1,13 +1,10 @@
 ---
 id: norm-es-rd-943-2003
 codigo_sintetizado: RD943_2003 Flexibilizacion para Alumnado con Altas Capacidades
-titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones
-  para flexibilizar la duración de los diversos niveles y etapas del sistema educativo
-  para los alumnos superdotados intelectualmente.
+titulo: Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 943/2003
 fecha_disposicion: '2003-07-18'
@@ -21,38 +18,35 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Alumnado con altas capacidades
 tags:
-- admision-alumnado
-- altas-capacidades
-- alumnado-con-altas-capacidades
-- autonomia-centro
-- flexibilizacion-escolar
-- igualdad-genero
-- medidas-curriculares
-- neae
-- profesorado
-- superdotacion
+  - admision-alumnado
+  - altas-capacidades
+  - alumnado-con-altas-capacidades
+  - autonomia-centro
+  - flexibilizacion-escolar
+  - igualdad-genero
+  - medidas-curriculares
+  - neae
+  - profesorado
+  - superdotacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-8-1985
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-8-1985
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '76'
-  - '77'
-- norma_id: norm-es-ce-1978
+    - '76'
+    - '77'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-8-1985
+    - '27'
+    - norma_id: norm-es-lo-8-1985
 ---
-
-## Preámbulo
-
 # Real Decreto 943/2003, de 18 de julio, por el que se regulan las condiciones para flexibilizar la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente.
 
-# Real Decreto 943/2003 - Flexibilización de la escolarización para alumnado con Altas Capacidades
+## Preámbulo
 
 La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, establece, en su preámbulo, que uno de sus objetivos esenciales es conseguir el mayor poder cualificador del sistema educativo junto a la integración en éste del máximo número posible de alumnos; que el sistema educativo debe procurar una configuración flexible, que se adapte a las diferencias individuales de aptitudes, necesidades, intereses y ritmos de maduración de las personas para no renunciar al logro de resultados de calidad para todos; asimismo, a través de esta ley, se establece un marco general que permita a las Administraciones educativas garantizar una adecuada respuesta educativa a las circunstancias y necesidades que concurren en los alumnos superdotados intelectualmente.
 
@@ -78,13 +72,9 @@ En su virtud, a propuesta de la Ministra de Educación, Cultura y Deporte, de ac
 
 **DISPONGO:**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 1. Ámbito de aplicación.
-
-Este real decreto será de aplicación en todos los centros docentes en los que se impartan las enseñanzas escolares de régimen general y de régimen especial enunciadas en el artículo 7.3 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación.
+### Disposiciones generales artículo 1 Ámbito de aplicación. Este real decreto será de aplicación en todos los centros docentes en los que se impartan las enseñanzas escolares de régimen general y de régimen especial enunciadas en el artículo 7.3 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación.
 
 #### Artículo 2. Objeto.
 
@@ -110,9 +100,7 @@ La decisión de flexibilizar la duración de los diversos niveles y etapas del s
 
 De la autorización de la flexibilización de la duración de los diversos niveles y etapas del sistema educativo para los alumnos superdotados intelectualmente se dejará constancia en el expediente académico del alumno, y se consignará en los documentos oficiales de evaluación, mediante la correspondiente diligencia al efecto, en la que constará la fecha de la resolución por la que se autoriza dicha medida.
 
-CAPÍTULO II
-
-Enseñanzas de régimen general
+## Capítulo II. Enseñanzas de régimen general.
 
 #### Artículo 7. Criterios generales para flexibilizar la duración de los diversos niveles, etapas y grados para los alumnos superdotados intelectualmente.
 
@@ -124,9 +112,7 @@ Enseñanzas de régimen general
 
 Las Administraciones educativas determinarán el procedimiento, trámites y plazos que, de acuerdo con lo dispuesto en este real decreto, se han de seguir en su respectivo ámbito territorial para adoptar las medidas de flexibilización de la duración de los diversos niveles, etapas y grados para los alumnos superdotados intelectualmente, así como el órgano competente para dictar la correspondiente resolución.
 
-CAPÍTULO III
-
-Enseñanzas de régimen especial
+## Capítulo III. Enseñanzas de régimen especial.
 
 #### Artículo 9. Criterios generales para flexibilizar la duración de los diversos grados, ciclos y niveles para los alumnos superdotados intelectualmente, en las enseñanzas de régimen especial.
 
@@ -154,16 +140,16 @@ La Ministra de Educación, Cultura y Deporte,
 
 PILAR DEL CASTILLO VERA
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-12-7-2011
 codigo_sintetizado: O12_7_2011 Evaluacion Artes Plasticas y Diseño Andalucía
-titulo: Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos
-  formativos de Artes Plásticas y Diseño.
+titulo: Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 12/07/2011
 fecha_disposicion: '2011-07-12'
@@ -20,34 +18,27 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- artes_plasticas
-- diseño
-- evaluacion
-- andalucia
+  - artes_plasticas
+  - diseño
+  - evaluacion
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
 
 ## Preámbulo
 
-# Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
-
 Acuerdo de 26 de julio de 2011, del Consejo de Gobierno, por el que se aprueba una línea de préstamos reintegrables de la Comunidad Autónoma de Andalucía destinados a la adquisición de vivienda libre en Andalucía y se autoriza a las Consejerías de Hacienda y Administración Pública y de Obras Públicas y Vivienda para la formalización de un convenio de colaboración con la Confederación de Empresarios de Andalucía y las entidades financieras para impulsar la venta del parque de viviendas libres en Andalucía.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -85,17 +76,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2011
 Boletín 147
 
 ##
 
-Histórico del BOJA
-Boletín número
-147
-de
-28/07/2011
+Histórico del BOJA Boletín número 147 de 28/07/2011
 
 ## 1. Disposiciones generales
 
@@ -104,10 +89,7 @@ de
 ###
 Acuerdo de 26 de julio de 2011, del Consejo de Gobierno, por el que se aprueba una línea de préstamos reintegrables de la Comunidad Autónoma de Andalucía destinados a la adquisición de vivienda libre en Andalucía y se autoriza a las Consejerías de Hacienda y Administración Pública y de Obras Públicas y Vivienda para la formalización de un convenio de colaboración con la Confederación de Empresarios de Andalucía y las entidades financieras para impulsar la venta del parque de viviendas libres en Andalucía.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
 El 22 de diciembre de 2009 el Consejo de Gobierno aprobó la creación de una línea de préstamos reintegrables de la Comunidad Autónoma de Andalucía destinados a la adquisición de vivienda libre en Andalucía y autorizó a las Consejerías de Economía y Hacienda y de Vivienda y Ordenación del Territorio para la formalización de un Convenio de Colaboración con las entidades financieras y con la Confederación de Empresarios de Andalucía para impulsar la venta del parque de viviendas libres en Andalucía.
 
@@ -123,7 +105,11 @@ La contribución de la Junta de Andalucía, instrumentada a través de un Conven
 
 Cabe destacar, como novedades respecto del contenido del Convenio anterior, la elevación del importe máximo del precio de la vivienda, la libertad de pacto entre las partes respecto a las condiciones financieras del préstamo hipotecario y la vigencia indefinida del nuevo Convenio.
 
-De este modo, desde el Gobierno andaluz, se adoptan medidas encaminadas, además, a promover las condiciones necesarias para garantizar el derecho de los ciudadanos a una vivienda digna y adecuada, tal como reconoce la Constitución Española en su artículo 47 y el Estatuto de Autonomía para Andalucía en su artículo 25. Todo ello enmarcado dentro del ámbito competencial exclusivo que en materia de vivienda, urbanismo y ordenación del territorio, atribuye a la Comunidad Autónoma de Andalucía el artículo 56 de nuestro Estatuto de Autonomía.
+De este modo, desde el Gobierno andaluz, se adoptan medidas encaminadas, además, a promover las condiciones necesarias para garantizar el derecho de los ciudadanos a una vivienda digna y adecuada, tal como reconoce la Constitución Española en su
+
+#### Artículo 47. y el.
+
+Estatuto de Autonomía para Andalucía en su artículo 25. Todo ello enmarcado dentro del ámbito competencial exclusivo que en materia de vivienda, urbanismo y ordenación del territorio, atribuye a la Comunidad Autónoma de Andalucía el artículo 56 de nuestro Estatuto de Autonomía.
 
 En su virtud, de conformidad con lo previsto en el artículo 27.23 de la Ley 6/2006, de 24 de octubre, de Gobierno de la Comunidad Autónoma de Andalucía, a propuesta conjunta de las Consejerías de Hacienda y Administración Pública y de Obras Públicas y Vivienda y previa deliberación del Consejo de Gobierno en su reunión del día 26 de julio de 2011 se adopta el siguiente
 
@@ -137,7 +123,9 @@ Segundo. Los préstamos reintegrables que se concedan al amparo del presente Acu
 
 El reintegro que se realizará en la Tesorería General de la Junta de Andalucía se instrumentará mediante los mecanismos establecidos en el Convenio de Colaboración y en las fechas y supuestos previstos en el mismo.
 
-Las cantidades a reintegrar tienen la consideración de ingresos de derecho público, resultando de aplicación para su cobranza lo previsto en el artículo 22 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
+Las cantidades a reintegrar tienen la consideración de ingresos de derecho público, resultando de aplicación para su cobranza lo previsto en el artículo 22 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
 
 Tercero. La Comunidad Autónoma de Andalucía destinará a esta línea de préstamos reintegrables un importe total máximo de mil millones de euros (1.000.000.000 €), cifra a la que habrá que descontar las cuantías ya empleadas durante la vigencia del anterior Convenio, que se imputarán proporcionalmente a los ejercicios presupuestarios que correspondan.
 
@@ -163,7 +151,7 @@ maría del Mar Moreno Ruiz
 
 Consejera de la Presidencia
 
-ANEXO
+## Anexo
 
 CONVENIO DE COLABORACIÓN ENTRE LA JUNTA  DE ANDALUCÍA, LA CONFEDERACIÓN DE EMPRESARIOS  DE ANDALUCÍA Y LAS ENTIDADES FINANCIERAS PARA IMPULSAR LA VENTA DEL PARQUE DE VIVIENDAS LIBRES  EN ANDALUCÍA
 
@@ -189,7 +177,7 @@ Y por todo ello, las partes firmantes acuerdan las siguientes
 
 CLÁUSULAS
 
-Primera. Objeto.
+#### Primera. Objeto.
 
 El presente Convenio tiene por objeto definir los términos de colaboración entre la Junta de Andalucía, la Confederación de Empresarios de Andalucía y las Entidades Financieras para facilitar la transmisión del stock de viviendas libres ubicadas en el territorio de Andalucía, con el objetivo principal de dinamizar la economía andaluza, favoreciendo la creación de empleo al tiempo que se propicia el acceso a la vivienda en propiedad a jóvenes y familias.
 
@@ -197,11 +185,13 @@ Para ello, junto con la determinación del marco de aplicación, el Convenio def
 
 Mediante la combinación de ambos instrumentos, los adquirentes de las viviendas obtienen una reducción sustancial de las cantidades que deban destinar mensualmente a la adquisición de la misma durante los ocho primeros años de vida de la operación de financiación. Y ello sin perjuicio, de que el importe del préstamo otorgado por la Junta de Andalucía más los intereses devengados por éste deban ser reintegrados en su totalidad en la forma prevista en el presente documento.
 
-Segunda. Naturaleza jurídica.
+#### Segunda. Naturaleza jurídica.
 
-El presente Convenio de colaboración es de naturaleza administrativa, estando excluido de la tramitación prevista en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, en virtud de lo dispuesto en el artículo 4 del citado texto legal.
+El presente Convenio de colaboración es de naturaleza administrativa, estando excluido de la tramitación prevista en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, en virtud de lo dispuesto en el artículo 4 l.
 
-Tercera. Ámbito y período de aplicación.
+citado texto legal.
+
+#### Tercera. Ámbito y período de aplicación.
 
 Constituye el ámbito de aplicación de las medidas previstas en el presente Convenio la compraventa de viviendas libres con licencia de primera ocupación, radicadas en el territorio de Andalucía en cuya transmisión se cumplan los siguientes requisitos:
 
@@ -217,27 +207,27 @@ Para el supuesto de transmisión ulterior, en los que el transmitente es la enti
 
 La concesión de las medidas previstas en el presente Convenio se extenderá hasta la consunción de las disponibilidades presupuestarias a ella asignadas, siendo aplicable a todas aquellas transmisiones de viviendas que cumplan los requisitos establecidos y que atendiendo a la fecha de firma de su escritura pública de compraventa, se hayan realizado desde su entrada en vigor hasta la conclusión de la vigencia del Convenio.
 
-Cuarta. Participación de las asociaciones empresariales.
+#### Cuarta. Participación de las asociaciones empresariales.
 
 Podrán participar en el Convenio a través de la Confederación de Empresarios de Andalucía, las asociaciones empresariales con implantación en Andalucía, a los efectos de informar a sus asociados del contenido del mismo.
 
-Quinta. Participación de las entidades financieras.
+#### Quinta. Participación de las entidades financieras.
 
 Podrán participar en el Convenio las entidades financieras que tengan oficina operativa en el territorio nacional.
 
 Además de las entidades financieras que participan en el presente documento desde su fecha de formalización, podrán adherirse al Convenio otras entidades que, cumpliendo el requisito previsto en el apartado anterior, manifiesten su deseo de incorporarse al Convenio durante el período de aplicación de las medidas, a cuyo efecto deberán presentar su solicitud ante la Comisión de Seguimiento prevista en la cláusula vigésimo novena del mismo.
 
-Sexta. Vigencia.
+#### Sexta. Vigencia.
 
 El presente Convenio entrará en vigor desde el día de su firma y extenderá su vigencia hasta que se haya realizado y verificado la devolución a la Junta de Andalucía de los préstamos reintegrables concedidos por la misma a los adquirentes de las viviendas.
 
 II. PRÉSTAMO HIPOTECARIO DE LA ENTIDAD FINANCIERA
 
-Séptima. Formalización del préstamo.
+#### Séptima. Formalización del préstamo.
 
 Las entidades financieras firmantes se comprometen a financiar a los solicitantes, en los términos previstos en la estipulación tercera del presente Convenio, en su caso, mediante constituciones de préstamos hipotecarios, subrogaciones o novaciones de los préstamos preexistentes, siempre que su petición se ajuste a los términos establecidos para esta medida, y una vez que se haya realizado el análisis de riesgo de la operación.
 
-Octava. Características de los préstamos.
+#### Octava. Características de los préstamos.
 
 Los préstamos hipotecarios que se formalicen al amparo del presente Convenio, se ajustarán a las siguientes características generales:
 
@@ -257,21 +247,21 @@ c) El importe total concedido del préstamo se dispondrá en dos momentos distin
 
 d) Las entidades financieras no podrán aplicar comisiones ni gastos derivados de las operaciones necesarias de formalización y disposición del préstamo hipotecario, con excepción de las nuevas tasaciones que sean necesarias, es decir, sin que constituyan una relación exhaustiva, en concepto de novación, subrogación, estudio, apertura o disponibilidad. Igualmente, no podrán aplicarse comisiones por amortización del préstamo hipotecario hasta que termine el año natural en que deba producirse el reintegro del préstamo personal a la Junta de Andalucía.
 
-Novena. Aprobación de la operación.
+#### Novena. Aprobación de la operación.
 
 La entidad financiera deberá aprobar o denegar la operación en un plazo no superior a un mes, contado a partir de la recepción de toda la documentación que debe presentar el solicitante, salvo que concurran circunstancias especiales, que deberán quedar acreditadas en el expediente.
 
-Décima. Conformidad a la concesión de los préstamos.
+#### Décima. Conformidad a la concesión de los préstamos.
 
 A efectos de su inclusión en el ámbito de aplicación del presente Convenio, la Empresa Pública de Suelo de Andalucía (EPSA, en adelante), dará su conformidad, de forma previa y como condición para su formalización, a las concesiones de préstamos hipotecarios.
 
 EPSA manifestará expresamente en el plazo de un mes desde la recepción de la comunicación y documentación completa que, a los efectos respectivos, le dirija la entidad financiera mediante soporte informático, su conformidad o disconformidad por este mismo medio. En los supuestos de conformidad, EPSA deberá hacer constar en su resolución el importe autorizado al adquirente en concepto de préstamo reintegrable, que quedará condicionada a la formalización del préstamo hipotecario en los términos determinados en el presente Convenio.
 
-Undécima. Notificación de la formalización de la adquisición y de los préstamos.
+#### Undécima. Notificación de la formalización de la adquisición y de los préstamos.
 
 La entidad de financiera notificará a EPSA mediante soporte informático la formalización de la escritura pública de préstamo hipotecario y compraventa, mediante copia simple de la misma, dentro de los quince días siguientes a que éstos tengan lugar.
 
-Duodécima. Contenido de la escritura de préstamo.
+#### Duodécima. Contenido de la escritura de préstamo.
 
 En el texto de la escritura de préstamo se harán constar, expresamente los siguientes extremos:
 
@@ -285,21 +275,23 @@ En el texto de la escritura de préstamo se harán constar, expresamente los sig
 
 5. Que no podrán aplicarse comisiones ni gastos derivados de las operaciones necesarias de formalización y disposición del préstamo hipotecario, con excepción de las nuevas tasaciones que sean necesarias, es decir, sin que constituyan una relación exhaustiva, en concepto de novación, subrogación, estudio, apertura o disponibilidad. Igualmente, no podrán aplicarse comisiones por amortización del préstamo hipotecario hasta que termine el año natural en que deba producirse el reintegro del préstamo personal a la Junta de Andalucía.
 
-Decimotercera. Comunicaciones.
+#### Decimotercera. Comunicaciones.
 
 Todas las comunicaciones entre las entidades financieras y la Junta de Andalucía se realizarán preferentemente mediante medios electrónicos, con documentos firmados digitalmente en los supuestos en los que así sea preceptivo.
 
 III. PRÉSTAMO REINTEGRABLE CONCEDIDO POR LA JUNTA DE ANDALUCÍA
 
-Decimocuarta. Préstamo reintegrable de la Junta de Andalucía.
+#### Decimocuarta. Préstamo reintegrable de la Junta de Andalucía.
 
 EPSA podrá otorgar préstamos reintegrables a los adquirentes de las viviendas cuando la transmisión cumpla los requisitos establecidos en la cláusula tercera del presente Convenio y, en su caso, se acrediten por los solicitantes los requisitos que se contemplan en la cláusula decimoséptima del mismo.
 
 Los préstamos concedidos deberán ser reintegrados en su totalidad junto con los intereses devengados de conformidad con lo establecido en la cláusula decimoctava.
 
-Decimoquinta. Autorización de los préstamos.
+#### Decimoquinta. Autorización de los préstamos.
 
-Los préstamos reintegrables se otorgarán al amparo de la autorización contenida en el Acuerdo del Consejo de Gobierno de 26 de julio de 2011, de conformidad con el cual las cantidades a reintegrar tendrán la consideración de ingreso de derecho público, resultando de aplicación para su cobranza lo previsto en el artículo 22 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por el Decreto Legislativo 1/2010, de 2 de marzo.
+Los préstamos reintegrables se otorgarán al amparo de la autorización contenida en el Acuerdo del Consejo de Gobierno de 26 de julio de 2011, de conformidad con el cual las cantidades a reintegrar tendrán la consideración de ingreso de derecho público, resultando de aplicación para su cobranza lo previsto en el artículo 22 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por el Decreto Legislativo 1/2010, de 2 de marzo.
 
 Asimismo, les serán de aplicación las disposiciones establecidas en las cláusulas del presente Convenio.
 
@@ -395,9 +387,9 @@ Igualmente, la Consejería competente en materia de Hacienda podrá requerir cua
 
 Vigésimo séptima. Información en las oficinas de las entidades financieras.
 
-a) Información general: Las entidades financieras se comprometen a informar en toda su red de oficinas, tanto físicas como virtuales en Internet, de la firma del presente Convenio, así como del contenido y términos del mismo.
+a) **Información general.** Las entidades financieras se comprometen a informar en toda su red de oficinas, tanto físicas como virtuales en Internet, de la firma del presente Convenio, así como del contenido y términos del mismo.
 
-b) Información particular: Las entidades financieras se comprometen a informar a cada solicitante de préstamo comprendido en el ámbito de aplicación de este Convenio del importe del préstamo reintegrable concedido por Junta de Andalucía al que tendrían derecho y deberán mostrar la comparación de los importes de las cuotas de amortización que resultarían sin aplicar el Convenio de los obtenidos en aplicación del mismo, recogiendo de forma separada en las cuotas correspondientes a los años cuarto a octavo, los importes que aporta Junta de Andalucía.
+b) **Información particular.** Las entidades financieras se comprometen a informar a cada solicitante de préstamo comprendido en el ámbito de aplicación de este Convenio del importe del préstamo reintegrable concedido por Junta de Andalucía al que tendrían derecho y deberán mostrar la comparación de los importes de las cuotas de amortización que resultarían sin aplicar el Convenio de los obtenidos en aplicación del mismo, recogiendo de forma separada en las cuotas correspondientes a los años cuarto a octavo, los importes que aporta Junta de Andalucía.
 
 Vigésimo octava. Información a través de la Confederación de Empresarios de Andalucía.
 
@@ -458,19 +450,11 @@ Un representante por parte de cada una de las dos entidades que ocupen el puesto
 - Los representantes de las entidades de crédito deberán informar puntualmente a sus representados de cuantos asuntos sean tratados por la Comisión.
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-147
-de
-28/07/2011
+147 de 28/07/2011
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -480,15 +464,11 @@ de
 
 4. Administración de Justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2011/147/boletin.147.pdf">Descargar boletín nº
-147 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2011/147/boletin.147.pdf">Descargar boletín nº 147 completo
 
 PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -509,3 +489,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

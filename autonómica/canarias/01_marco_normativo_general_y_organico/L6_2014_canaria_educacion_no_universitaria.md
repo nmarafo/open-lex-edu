@@ -19,218 +19,209 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- ensenanzas-universitarias
-- ley-canaria-educacion
-- marco-general
-- marco-normativo-general
-- personal-no-docente
-- titulacion
+  - ensenanzas-universitarias
+  - ley-canaria-educacion
+  - marco-general
+  - marco-normativo-general
+  - personal-no-docente
+  - titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-ce-1978
   desarrollado_por:
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-o-25-2-2003
+    - norma_id: norm-can-d-109-1999
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-can-d-135-2016
+    - norma_id: norm-can-d-40-2005
+    - norma_id: norm-can-d-82-1994
+    - norma_id: norm-can-o-25-2-2003
   fundamentado_en:
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
+    - norma_id: norm-can-lo-1-2018
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
   fundamento_de:
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-d-103-2023
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-1994-083-144
-  - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-res-boc-1998-140-142
-  - norma_id: norm-can-res-boc-2002-147-141
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-boc-2005-080-146
-  - norma_id: norm-can-res-boc-2007-009-143
-  - norma_id: norm-can-res-boc-2007-036-147
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-juriscan-65632-66
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-75818-136
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-can-d-101-2023
+    - norma_id: norm-can-d-102-2023
+    - norma_id: norm-can-d-103-2023
+    - norma_id: norm-can-d-106-2009
+    - norma_id: norm-can-d-196-2022
+    - norma_id: norm-can-d-23-1995
+    - norma_id: norm-can-d-234-1996
+    - norma_id: norm-can-d-25-2018
+    - norma_id: norm-can-d-276-1997
+    - norma_id: norm-can-d-52-2009
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-d-84-2024
+    - norma_id: norm-can-d-9-2022
+    - norma_id: norm-can-o-2-8-2006
+    - norma_id: norm-can-o-7-6-2007
+    - norma_id: norm-can-res-014
+    - norma_id: norm-can-res-027
+    - norma_id: norm-can-res-028
+    - norma_id: norm-can-res-030
+    - norma_id: norm-can-res-032
+    - norma_id: norm-can-res-033
+    - norma_id: norm-can-res-034
+    - norma_id: norm-can-res-035
+    - norma_id: norm-can-res-036
+    - norma_id: norm-can-res-037
+    - norma_id: norm-can-res-038
+    - norma_id: norm-can-res-039
+    - norma_id: norm-can-res-040
+    - norma_id: norm-can-res-042
+    - norma_id: norm-can-res-043
+    - norma_id: norm-can-res-053
+    - norma_id: norm-can-res-055
+    - norma_id: norm-can-res-059
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-086
+    - norma_id: norm-can-res-090
+    - norma_id: norm-can-res-095
+    - norma_id: norm-can-res-096
+    - norma_id: norm-can-res-097
+    - norma_id: norm-can-res-098
+    - norma_id: norm-can-res-099
+    - norma_id: norm-can-res-110
+    - norma_id: norm-can-res-112
+    - norma_id: norm-can-res-118
+    - norma_id: norm-can-res-119
+    - norma_id: norm-can-res-125
+    - norma_id: norm-can-res-134
+    - norma_id: norm-can-res-135
+    - norma_id: norm-can-res-boc-1992-106-117
+    - norma_id: norm-can-res-boc-1994-083-144
+    - norma_id: norm-can-res-boc-1996-057-140
+    - norma_id: norm-can-res-boc-1998-140-142
+    - norma_id: norm-can-res-boc-2002-147-141
+    - norma_id: norm-can-res-boc-2002-148-77
+    - norma_id: norm-can-res-boc-2004-158-76
+    - norma_id: norm-can-res-boc-2004-189-65
+    - norma_id: norm-can-res-boc-2005-080-146
+    - norma_id: norm-can-res-boc-2007-009-143
+    - norma_id: norm-can-res-boc-2007-036-147
+    - norma_id: norm-can-res-boc-2011-099-72
+    - norma_id: norm-can-res-boc-2012-035-58
+    - norma_id: norm-can-res-boc-2017-020-2
+    - norma_id: norm-can-res-boc-2017-036-71
+    - norma_id: norm-can-res-boc-2017-036-75
+    - norma_id: norm-can-res-boc-2017-061-4
+    - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-can-res-boc-2017-169-100
+    - norma_id: norm-can-res-boc-2017-220-70
+    - norma_id: norm-can-res-boc-2017-235-5
+    - norma_id: norm-can-res-boc-2018-019-130
+    - norma_id: norm-can-res-boc-2018-048-56
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-boc-2018-106-114
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-boc-2018-127-9
+    - norma_id: norm-can-res-boc-2018-220-18
+    - norma_id: norm-can-res-boc-2018-220-19
+    - norma_id: norm-can-res-boc-2019-016-12
+    - norma_id: norm-can-res-boc-2019-016-13
+    - norma_id: norm-can-res-boc-2019-024-22
+    - norma_id: norm-can-res-boc-2019-067-11
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-can-res-boc-2019-143-74
+    - norma_id: norm-can-res-boc-2019-234-52
+    - norma_id: norm-can-res-boc-2020-130-131
+    - norma_id: norm-can-res-boc-2020-236-82
+    - norma_id: norm-can-res-boc-2020-257-24
+    - norma_id: norm-can-res-boc-2021-038-3
+    - norma_id: norm-can-res-boc-2021-109-79
+    - norma_id: norm-can-res-boc-2021-114-80
+    - norma_id: norm-can-res-boc-2022-087-31
+    - norma_id: norm-can-res-boc-2022-138-7
+    - norma_id: norm-can-res-boc-2022-143-23
+    - norma_id: norm-can-res-boc-2022-158-132
+    - norma_id: norm-can-res-boc-2022-158-21
+    - norma_id: norm-can-res-boc-2022-243-81
+    - norma_id: norm-can-res-boc-2023-085-51
+    - norma_id: norm-can-res-boc-2023-133-57
+    - norma_id: norm-can-res-boc-2024-049-109
+    - norma_id: norm-can-res-boc-2024-117-93
+    - norma_id: norm-can-res-boc-2024-125-91
+    - norma_id: norm-can-res-boc-2024-226-44
+    - norma_id: norm-can-res-boc-2024-230-25
+    - norma_id: norm-can-res-boc-2025-039-104
+    - norma_id: norm-can-res-boc-2025-044-89
+    - norma_id: norm-can-res-boc-2025-046-47
+    - norma_id: norm-can-res-boc-2025-047-107
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-boc-2025-061-106
+    - norma_id: norm-can-res-boc-2025-061-88
+    - norma_id: norm-can-res-boc-2025-094-137
+    - norma_id: norm-can-res-boc-2025-118-46
+    - norma_id: norm-can-res-boc-2026-037-105
+    - norma_id: norm-can-res-boc-2026-039-102
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-res-boc-2026-039-111
+    - norma_id: norm-can-res-boc-2026-046-139
+    - norma_id: norm-can-res-boc-2026-060-61
+    - norma_id: norm-can-res-boc-2026-070-115
+    - norma_id: norm-can-res-boc-2026-070-116
+    - norma_id: norm-can-res-boc-2026-070-41
+    - norma_id: norm-can-res-boc-2026-073-113
+    - norma_id: norm-can-res-boc-2026-075-85
+    - norma_id: norm-can-res-boc-2026-077-49
+    - norma_id: norm-can-res-boc-2026-077-62
+    - norma_id: norm-can-res-boc-2026-109-92
+    - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-boc-2026-129-26
+    - norma_id: norm-can-res-boc-2026-132-101
+    - norma_id: norm-can-res-boc-2026-141-29
+    - norma_id: norm-can-res-juriscan-22458-15
+    - norma_id: norm-can-res-juriscan-30668-127
+    - norma_id: norm-can-res-juriscan-41360-129
+    - norma_id: norm-can-res-juriscan-48984-84
+    - norma_id: norm-can-res-juriscan-49002-54
+    - norma_id: norm-can-res-juriscan-55445-83
+    - norma_id: norm-can-res-juriscan-58182-8
+    - norma_id: norm-can-res-juriscan-61148-128
+    - norma_id: norm-can-res-juriscan-63878-20
+    - norma_id: norm-can-res-juriscan-64565-138
+    - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-can-res-juriscan-64885-10
+    - norma_id: norm-can-res-juriscan-65631-68
+    - norma_id: norm-can-res-juriscan-65632-66
+    - norma_id: norm-can-res-juriscan-66772-94
+    - norma_id: norm-can-res-juriscan-69937-120
+    - norma_id: norm-can-res-juriscan-70096-50
+    - norma_id: norm-can-res-juriscan-71394-16
+    - norma_id: norm-can-res-juriscan-72176-78
+    - norma_id: norm-can-res-juriscan-72788-60
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-res-juriscan-73844-69
+    - norma_id: norm-can-res-juriscan-74499-67
+    - norma_id: norm-can-res-juriscan-75527-17
+    - norma_id: norm-can-res-juriscan-75634-6
+    - norma_id: norm-can-res-juriscan-75818-136
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-can-lo-1-2018
+    - '27'
+    - norma_id: norm-can-lo-1-2018
   articulos:
-  - '136'
-- norma_id: norm-es-ce-1978
+    - '136'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.pdf
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+# Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 
 ## Preámbulo
 
-# Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la Ley 6/2014, de 25 de julio , Canaria de Educación no Universitaria.
 
-# Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
+## Exposición de motivos
 
-[Bloque 1: #pr]
-
-Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la
-Ley 6/2014, de 25 de julio
-, Canaria de Educación no Universitaria.
-
-EXPOSICIÓN DE MOTIVOS
-
-La Comunidad Autónoma de Canarias tiene, según el artículo 32.1 de su Estatuto de Autonomía, competencia plena en materia de educación, sin perjuicio del
-artículo 27 de la Constitución
-y las leyes orgánicas que lo desarrollan. Canarias tiene además características propias que su sistema educativo debe considerar. Así pues, en el marco de las leyes educativas vigentes, nuestra comunidad autónoma necesita definir, contextualizar y desarrollar un sistema educativo de calidad para responder así a una realidad singular que precisa y demanda políticas específicas orientadas a garantizar, en el marco constitucional y estatutario, el derecho a la educación de todos los canarios y canarias y de los que han decidido vivir entre nosotros.
+La Comunidad Autónoma de Canarias tiene, según el artículo 32.1 de su Estatuto de Autonomía, competencia plena en materia de educación, sin perjuicio del artículo 27 de la Constitución y las leyes orgánicas que lo desarrollan. Canarias tiene además características propias que su sistema educativo debe considerar. Así pues, en el marco de las leyes educativas vigentes, nuestra comunidad autónoma necesita definir, contextualizar y desarrollar un sistema educativo de calidad para responder así a una realidad singular que precisa y demanda políticas específicas orientadas a garantizar, en el marco constitucional y estatutario, el derecho a la educación de todos los canarios y canarias y de los que han decidido vivir entre nosotros.
 
 La educación, entendida como un proceso de aprendizaje a lo largo de toda la vida, es el factor decisivo para alcanzar una sociedad más culta, más justa, más crítica y solidaria, una sociedad con más oportunidades para que cada persona pueda desarrollar plenamente sus capacidades.
 
@@ -238,7 +229,7 @@ En las sociedades democráticas, la educación siempre ha desempeñado una doble
 
 Para la sociedad canaria, la educación es el medio de transmitir y, al mismo tiempo, de renovar la cultura y el acervo de conocimientos y valores que la sustentan, de fomentar la convivencia democrática y el respeto a las diferencias individuales, de promover la solidaridad y evitar la discriminación, con el objetivo fundamental de lograr la necesaria igualdad y cohesión social.
 
-I
+**I**
 
 El derecho a la educación alcanza su verdadero sentido cuando las personas pueden acceder en condiciones de equidad a una educación. El sistema educativo es el instrumento fundamental a través del cual los poderes públicos garantizan el derecho a la educación y lo hacen creando las condiciones institucionales para que todas las personas puedan alcanzar un crecimiento continuo de sus capacidades a lo largo de la vida.
 
@@ -248,9 +239,7 @@ La red de centros de titularidad pública, así como los servicios educativos y 
 
 Canarias es un territorio ultraperiférico y fragmentado en islas; ambos factores constituyen una realidad diferenciada que incorpora por sí misma factores de desigualdad en los más diversos ámbitos.
 
-La superficie total del archipiélago es de 7.446,62 km
-2
-. Canarias es un territorio en el que la isla ha marcado siempre desigualdades y ha constituido una realidad diferenciada en sí misma. Esta fragmentación y las especiales características del territorio dificultan el acceso a determinados bienes y servicios, lo que constituye en sí mismo un factor de desigualdad hasta llegar, en algunos casos, a imposibilitar las medidas de integración. No se trata solo, que lo es, del encarecimiento de la educación, sino que obliga también a diseñar un sistema peculiar de atención a la diversidad que amortigüe las consecuencias derivadas del propio hecho insular.
+La superficie total del archipiélago es de 7.446,62 km² . Canarias es un territorio en el que la isla ha marcado siempre desigualdades y ha constituido una realidad diferenciada en sí misma. Esta fragmentación y las especiales características del territorio dificultan el acceso a determinados bienes y servicios, lo que constituye en sí mismo un factor de desigualdad hasta llegar, en algunos casos, a imposibilitar las medidas de integración. No se trata solo, que lo es, del encarecimiento de la educación, sino que obliga también a diseñar un sistema peculiar de atención a la diversidad que amortigüe las consecuencias derivadas del propio hecho insular.
 
 Así pues, analizar la estructura, funcionamiento y resultado de nuestro sistema educativo, contemplando diferentes variables y tomando como marco referencial nuestra propia evolución diacrónica, los datos de la media estatal o del resto de las comunidades autónomas, se convierte en cuestión imperativa a la hora de situar nuestra realidad educativa para dimensionar realmente el valor de sus indicadores.
 
@@ -260,7 +249,7 @@ Transcurridos los inicios del siglo XXI, nos encontramos en un contexto históri
 
 Ahora bien, vivimos en una sociedad abierta y plural, con muchos puntos de vista, ideas y valores; por tanto, desde el reconocimiento de las diferencias, es necesario definir consensos que faciliten la cooperación en un ámbito tan importante como es la educación. El límite al pluralismo debe estar en los principios y normas fundamentales de una sociedad democrática y solidaria. El consenso social que haga posible la cooperación y el compromiso de todos en la construcción de una sociedad educadora requiere que normativamente se establezca un reparto justo tanto de las responsabilidades como de las oportunidades y de los riesgos.
 
-II
+**II**
 
 En las cuatro últimas décadas, la educación en Canarias ha pasado de ser un privilegio a un derecho universal, de manera especial a partir del traspaso de competencias educativas a la comunidad autónoma. El alto grado de subdesarrollo y analfabetismo que sufrió Canarias durante décadas ha ocasionado que el punto de partida en la formación de la población canaria estuviera por debajo de la media del Estado y que, a pesar de los esfuerzos económicos realizados por la sociedad canaria, aún no se han alcanzado en su totalidad los niveles de formación deseables, continuando con altos índices de retraso, abandono y fracaso escolar.
 
@@ -284,7 +273,7 @@ Un sistema que siga de cerca los resultados obtenidos en todos y cada uno de los
 
 Un sistema educativo orientado hacia el aprendizaje permanente, dotado de centros educativos inteligentes, de unos servicios orientados a la atención personal y de una administración abierta y transparente.
 
-III
+**III**
 
 A través de una iniciativa legislativa popular en el año 2010, el Parlamento de Canarias hace suyo el reto social de asumir la educación como eje central de un cambio estructural para el progreso de nuestra sociedad, de prestar especial atención al conocimiento, la formación y la educación como factores determinantes del progreso y del bienestar social.
 
@@ -312,23 +301,15 @@ En los títulos VI y VII se fijan las condiciones para que el sistema educativo 
 
 Finalmente, las disposiciones generales establecen un conjunto de actuaciones que deben facilitar el desarrollo de la ley así como la transición hacia el nuevo modelo educativo.
 
-[Bloque 2: #tp]
+## Título Preliminar
 
-TÍTULO PRELIMINAR
-
-[Bloque 3: #a1]
-
-Artículo 1. Objeto y ámbito.
+#### Artículo 1. Objeto y ámbito.
 
 1. La presente ley tiene por objeto regular el sistema educativo canario y su evaluación, de modo que pueda convertirse en un instrumento eficaz para hacer efectivo el derecho a una educación de calidad, inclusiva e integradora, que garantice la equidad y la excelencia, la prestación de un servicio público esencial y convertirse, a la vez, en uno de los motores del desarrollo social, económico y cultural del archipiélago.
 
-2. El ámbito de aplicación de la presente ley es todo el sistema educativo canario, a excepción del universitario, en consonancia con las competencias asumidas en el
-Estatuto de Autonomía de Canarias
-y en el desarrollo de las normas básicas aprobadas por el Estado.
+2. El ámbito de aplicación de la presente ley es todo el sistema educativo canario, a excepción del universitario, en consonancia con las competencias asumidas en el Estatuto de Autonomía de Canarias y en el desarrollo de las normas básicas aprobadas por el Estado.
 
-[Bloque 4: #a2]
-
-Artículo 2. Configuración del sistema educativo canario.
+#### Artículo 2. Configuración del sistema educativo canario.
 
 1. El sistema educativo de Canarias comprende las enseñanzas reguladas en el título II de la presente ley, los centros que las imparten y los servicios educativos, sean cuales sean los destinatarios de las enseñanzas, la titularidad del centro o su sistema de financiación.
 
@@ -340,9 +321,7 @@ Artículo 2. Configuración del sistema educativo canario.
 
 5. El sistema educativo de Canarias está compuesto por la red pública y la red privada.
 
-[Bloque 5: #a3]
-
-Artículo 3. Principios rectores.
+#### Artículo 3. Principios rectores.
 
 Los principios rectores que regirán el sistema educativo canario serán:
 
@@ -358,9 +337,7 @@ e) La corresponsabilidad de todos los agentes educativos para lograr que la educ
 
 f) La cooperación entre las administraciones públicas, así como entre las administraciones públicas y los agentes económicos y sociales para impulsar el desarrollo, la investigación y la innovación. Esta cooperación tendrá como ejes prioritarios los siguientes: la reducción del absentismo escolar, la mejora del rendimiento escolar, la promoción de la educación no formal y de los aprendizajes que tienen lugar en contextos informales y la prestación de aquellos servicios complementarios que la ley considere adecuados para una gestión compartida.
 
-[Bloque 6: #a4]
-
-Artículo 4. Características del sistema educativo canario.
+#### Artículo 4. Características del sistema educativo canario.
 
 El sistema educativo de Canarias se configurará:
 
@@ -374,9 +351,7 @@ El sistema educativo de Canarias se configurará:
 
 5. Como un sistema que promueva la cultura democrática y basado en la participación de toda la sociedad, en la corresponsabilidad de todas las instituciones y en la participación de todos los sectores educativos en los centros, tanto en su gestión y organización como en la aportación y colaboración en los procesos de enseñanza y aprendizaje.
 
-[Bloque 7: #a5]
-
-Artículo 5. Finalidad y objetivos del sistema educativo canario.
+#### Artículo 5. Finalidad y objetivos del sistema educativo canario.
 
 1. El sistema educativo en Canarias tiene como finalidad hacer efectivo el derecho a una educación de calidad.
 
@@ -412,21 +387,13 @@ n) Incrementar los recursos económicos destinados a la educación y velar para 
 
 ñ) Revisar la situación actual de las infraestructuras educativas y diseñar un plan de modernización que permita contar en todas las islas con centros educativos accesibles, seguros, sostenibles y ajustados a las necesidades propias de las enseñanzas que imparten.
 
-[Bloque 8: #ti]
-
-TÍTULO I
+## Título I
 
 De la configuración del sistema educativo, la corresponsabilidad social y la cooperación institucional
 
-[Bloque 9: #ci]
+## Capítulo I. Agentes y comunidades educativas: derechos y deberes.
 
-CAPÍTULO I
-
-Agentes y comunidades educativas: derechos y deberes
-
-[Bloque 10: #a6]
-
-Artículo 6. La comunidad educativa canaria.
+#### Artículo 6. La comunidad educativa canaria.
 
 1. Forman parte de la comunidad educativa canaria el alumnado, las familias, el profesorado, los profesionales de atención educativa y el personal de administración y servicios, la administración educativa, los entes locales y los agentes territoriales y sociales y las asociaciones que los representan.
 
@@ -436,19 +403,13 @@ Artículo 6. La comunidad educativa canaria.
 
 4. El órgano de participación en el control y gestión y de representación de la comunidad educativa de un centro será el Consejo Escolar del Centro. Este órgano dispondrá de la autonomía necesaria para su funcionamiento, pero en la medida de lo posible coordinará sus actuaciones con otros consejos definidos en esta ley.
 
-[Bloque 11: #a7]
-
-Artículo 7. El alumnado.
+#### Artículo 7. El alumnado.
 
 1. Todo el alumnado tiene los mismos derechos y deberes. Su ejercicio y cumplimiento se adecuará, cuando proceda, a su edad y a las características de las enseñanzas que se encuentre cursando. Los centros educativos dispondrán lo necesario para orientar la formación del alumnado en el conocimiento y correcto ejercicio de derechos y deberes.
 
 2. El Gobierno de Canarias determinará los derechos y deberes propios del alumnado en Canarias, incluyendo, en todo caso, los que aparecen definidos en la presente ley y aquellos que formen parte de la normativa básica del Estado.
 
-3. El alumnado, de acuerdo con su edad, tiene el derecho y el deber de conocer
-la Constitución española
-y el
-Estatuto de Autonomía de Canarias
-, con el fin de formarse en los valores y principios recogidos en ellos y en los tratados y acuerdos internacionales de derechos humanos.
+3. El alumnado, de acuerdo con su edad, tiene el derecho y el deber de conocer la Constitución española y el Estatuto de Autonomía de Canarias , con el fin de formarse en los valores y principios recogidos en ellos y en los tratados y acuerdos internacionales de derechos humanos.
 
 4. La consejería que tenga atribuidas las competencias en educación promoverá, especialmente, el ejercicio efectivo de los siguientes derechos del alumnado:
 
@@ -464,9 +425,7 @@ d) El derecho al reconocimiento y a la protección de su identidad sexual, así 
 
 6. El alumnado tiene el deber básico de comprometerse en su propio aprendizaje asistiendo a clase con regularidad, participando activamente en las actividades y tareas propuestas por el profesorado, siguiendo sus orientaciones y colaborando en la creación de un clima en el aula y en el centro favorable al estudio y al trabajo.
 
-[Bloque 12: #a8]
-
-Artículo 8. El profesorado.
+#### Artículo 8. El profesorado.
 
 1. Es el grupo de profesionales debidamente cualificados que ejercen la responsabilidad principal del proceso educativo y la influencia que del mismo se desprende. El profesorado que ejerza sus funciones en el sistema educativo de Canarias tendrá los derechos y deberes que reglamentariamente se establezcan por el Gobierno de Canarias, así como a través de la normativa básica del Estado.
 
@@ -478,9 +437,7 @@ Artículo 8. El profesorado.
 
 5. La administración educativa, en el marco general de la política de prevención de riesgos y salud laboral y de acuerdo con la legislación que resulte de aplicación, establecerá medidas específicas destinadas a promover el bienestar y la mejora de la salud del personal docente.
 
-[Bloque 13: #a9]
-
-Artículo 9. Las familias.
+#### Artículo 9. Las familias.
 
 1. Las familias cuentan entre sus derechos básicos, además de los establecidos por la normativa básica del Estado, y los que reglamentariamente establezca el Gobierno de Canarias, con la participación en el proceso educativo de sus hijos e hijas, apoyando el proceso de enseñanza y aprendizaje de estos, de acuerdo con lo que se regula en la presente ley.
 
@@ -498,7 +455,7 @@ Artículo 9. Las familias.
 
 [Bloque 14: #a1-2]
 
-Artículo 10. El personal no docente.
+#### Artículo 10. El personal no docente.
 
 1. Los centros docentes públicos y los servicios educativos, en función de sus características, dispondrán de personal de administración y servicios con la cualificación profesional suficiente para una adecuada ejecución del proyecto educativo y del proyecto de gestión de los mismos en las condiciones que reglamentariamente se determinen.
 
@@ -516,13 +473,11 @@ Artículo 10. El personal no docente.
 
 [Bloque 15: #ci-2]
 
-CAPÍTULO II
-
-Corresponsabilidad social y gestión pública de los centros educativos
+## Capítulo II. Corresponsabilidad social y gestión pública de los centros educativos.
 
 [Bloque 16: #a1-3]
 
-Artículo 11. Participación social y gestión pública.
+#### Artículo 11. Participación social y gestión pública.
 
 1. La participación de toda la sociedad canaria en la gestión y supervisión del sistema educativo se hará efectiva a través de los distintos órganos de participación: el Consejo Escolar de Canarias, el Consejo Canario de Formación Profesional, los consejos escolares insulares y municipales, los consejos escolares de los centros. Para facilitar la participación los agentes educativos podrán constituir asociaciones y/o federaciones.
 
@@ -536,7 +491,7 @@ Artículo 11. Participación social y gestión pública.
 
 [Bloque 17: #a1-4]
 
-Artículo 12. Corresponsabilidad social y compromisos educativos.
+#### Artículo 12. Corresponsabilidad social y compromisos educativos.
 
 1. La gestión pública de un centro supone el compromiso de todos los sectores representados en el Consejo Escolar con el proyecto educativo del centro. Los instrumentos que hacen efectiva la gestión pública del centro son el Proyecto Educativo, la Programación Anual y los que reglamentariamente se determinen.
 
@@ -544,19 +499,17 @@ Artículo 12. Corresponsabilidad social y compromisos educativos.
 
 [Bloque 18: #ci-3]
 
-CAPÍTULO III
-
-La administración educativa canaria y la cooperación institucional
+## Capítulo III. La administración educativa canaria y la cooperación institucional.
 
 [Bloque 19: #a1-5]
 
-Artículo 13. La administración educativa.
+#### Artículo 13. La administración educativa.
 
 La administración educativa en Canarias está formada por los centros directivos, los organismos autónomos y los órganos consultivos así como por las personas que prestan servicio en la consejería competente en materia educativa.
 
 [Bloque 20: #a1-6]
 
-Artículo 14. Funciones de la administración educativa canaria.
+#### Artículo 14. Funciones de la administración educativa canaria.
 
 Son funciones de la administración educativa canaria:
 
@@ -578,7 +531,7 @@ h) Impulsar la realización de trámites administrativos a través de internet, 
 
 [Bloque 21: #a1-7]
 
-Artículo 15. Las administraciones locales.
+#### Artículo 15. Las administraciones locales.
 
 1. El Gobierno de Canarias y las corporaciones locales coordinarán sus actuaciones, cada una en el ámbito de sus competencias, para lograr una mayor eficacia de los recursos destinados a la educación y contribuir a los fines establecidos en esta ley.
 
@@ -594,7 +547,7 @@ Artículo 15. Las administraciones locales.
 
 [Bloque 22: #a1-8]
 
-Artículo 16. Cooperación con los medios de comunicación social.
+#### Artículo 16. Cooperación con los medios de comunicación social.
 
 1. Los poderes públicos favorecerán que los medios de comunicación social tengan en cuenta en sus códigos éticos los principios que sustentan el modelo educativo de Canarias, evitando la emisión de contenidos violentos, degradantes, ofensivos o discriminatorios.
 
@@ -604,13 +557,11 @@ Artículo 16. Cooperación con los medios de comunicación social.
 
 [Bloque 23: #ci-4]
 
-CAPÍTULO IV
-
-Centros, servicios y programas educativos
+## Capítulo IV. Centros, servicios y programas educativos.
 
 [Bloque 24: #a1-9]
 
-Artículo 17. Los centros educativos.
+#### Artículo 17. Los centros educativos.
 
 1. Los centros docentes se clasifican en públicos y privados. Son centros públicos aquellos cuyo titular sea una administración pública. Son centros privados aquellos cuyo titular sea una persona física o jurídica de carácter privado y son centros privados concertados los centros privados acogidos al régimen de conciertos legalmente establecido.
 
@@ -628,7 +579,7 @@ Artículo 17. Los centros educativos.
 
 [Bloque 25: #a1-10]
 
-Artículo 18. El Servicio de Inspección Educativa.
+#### Artículo 18. El Servicio de Inspección Educativa.
 
 1. La administración educativa ejerce la inspección sobre todos los centros docentes públicos, concertados y privados, servicios educativos, programas y actividades del sistema educativo de Canarias, a excepción del universitario, mediante los funcionarios públicos del cuerpo de inspectores de educación.
 
@@ -640,7 +591,7 @@ Artículo 18. El Servicio de Inspección Educativa.
 
 [Bloque 26: #a1-11]
 
-Artículo 19. Los servicios de apoyo a los centros educativos.
+#### Artículo 19. Los servicios de apoyo a los centros educativos.
 
 1. La atención al alumnado con necesidades educativas especiales, debidas a causas vinculadas al historial personal y/o familiar del alumno o alumna, así como a diferentes grados y tipos de capacidades personales de orden físico, psíquico, cognitivo o sensorial en educación infantil, educación primaria y educación secundaria obligatoria, corresponde al profesorado y, en su caso, a otros profesionales con la debida cualificación.
 
@@ -658,7 +609,7 @@ Artículo 19. Los servicios de apoyo a los centros educativos.
 
 [Bloque 27: #a2-2]
 
-Artículo 20. Los servicios educativos complementarios.
+#### Artículo 20. Los servicios educativos complementarios.
 
 1. La equidad constituye uno de los principios rectores en la organización y el funcionamiento del sistema educativo en Canarias. Para hacer efectivo este principio el Gobierno de Canarias dispone de dos instrumentos operativos: los servicios educativos complementarios y el sistema de becas y ayudas al estudio.
 
@@ -680,7 +631,7 @@ Artículo 20. Los servicios educativos complementarios.
 
 [Bloque 28: #a2-3]
 
-Artículo 21. El sistema de becas y ayudas al estudio.
+#### Artículo 21. El sistema de becas y ayudas al estudio.
 
 1. Para garantizar la igualdad de todas las personas en el ejercicio del derecho a la educación, el alumnado con condiciones socioeconómicas desfavorables tendrá derecho a obtener becas y ayudas al estudio.
 
@@ -690,19 +641,15 @@ Artículo 21. El sistema de becas y ayudas al estudio.
 
 [Bloque 29: #a2-4]
 
-Artículo 22. Cooperación intercentros.
+#### Artículo 22. Cooperación intercentros.
 
 La consejería competente en materia educativa promoverá la cooperación entre los centros y servicios educativos, tanto autonómica como estatal e internacional. A tal fin regulará reglamentariamente las condiciones que deben satisfacer los centros.
 
-[Bloque 30: #cv]
-
-CAPÍTULO V
-
-Programas y entornos educativos
+## Capítulo V. Programas y entornos educativos.
 
 [Bloque 31: #a2-5]
 
-Artículo 23.–Programas y proyectos educativos específicos.
+#### Artículo 23. Programas y proyectos educativos específicos.
 
 1. La administración educativa favorecerá el funcionamiento cooperativo de los centros educativos, con objeto de compartir recursos, experiencias e iniciativas y desarrollar programas de intercambio de alumnado y profesorado.
 
@@ -726,7 +673,7 @@ Artículo 23.–Programas y proyectos educativos específicos.
 
 [Bloque 32: #a2-6]
 
-Artículo 24. Espacios educativos virtuales y nuevos entornos para el aprendizaje y la comunicación.
+#### Artículo 24. Espacios educativos virtuales y nuevos entornos para el aprendizaje y la comunicación.
 
 1. El Gobierno de Canarias creará una plataforma digital y regulará su funcionamiento como un espacio virtual de educación para toda Canarias que se conectará con espacios similares en España y en Europa.
 
@@ -744,19 +691,17 @@ Artículo 24. Espacios educativos virtuales y nuevos entornos para el aprendizaj
 
 [Bloque 33: #ti-2]
 
-TÍTULO II
+## Título II
 
 De la ordenación de las enseñanzas, la atención a las necesidades educativas y el plurilingüismo
 
 [Bloque 34: #ci-5]
 
-CAPÍTULO I
-
-Educación permanente
+## Capítulo I. Educación permanente.
 
 [Bloque 35: #a2-7]
 
-Artículo 25. El aprendizaje a lo largo de la vida.
+#### Artículo 25. El aprendizaje a lo largo de la vida.
 
 1. Todas las personas deben tener la posibilidad de formarse a lo largo de la vida, dentro y fuera del sistema educativo, con el fin de adquirir, actualizar, completar y ampliar sus capacidades, conocimientos, habilidades, aptitudes y competencias para su desarrollo personal y profesional.
 
@@ -772,7 +717,7 @@ Artículo 25. El aprendizaje a lo largo de la vida.
 
 [Bloque 36: #a2-8]
 
-Artículo 26. La educación formal, no formal y los aprendizajes que tienen lugar en contextos informales.
+#### Artículo 26. La educación formal, no formal y los aprendizajes que tienen lugar en contextos informales.
 
 1. La educación formal es aquella que proporciona a las personas una titulación oficial correspondiente a las enseñanzas reguladas por la presente ley. La educación no formal proporciona a las personas certificaciones y/o diplomas correspondientes a enseñanzas no reguladas en el sistema educativo.
 
@@ -786,7 +731,7 @@ Artículo 26. La educación formal, no formal y los aprendizajes que tienen luga
 
 [Bloque 37: #a2-9]
 
-Artículo 27. El currículo.
+#### Artículo 27. El currículo.
 
 1. El currículo de la educación formal comprende, para cada una de las etapas y cada una de las enseñanzas del sistema educativo, las capacidades y competencias propias de cada una de las enseñanzas, así como las áreas, asignaturas, materias o módulos que podrán incluir objetivos, contenidos, los métodos pedagógicos y los criterios de evaluación.
 
@@ -802,11 +747,7 @@ d) Permitir una organización flexible, variada e individualizada de la ordenaci
 
 e) Atender las necesidades educativas específicas de apoyo educativo y la sobredotación intelectual, propiciando adaptaciones curriculares específicas para este alumnado.
 
-3. Las actividades de las enseñanzas, en general, el desarrollo de la vida de los centros y el currículo de las distintas enseñanzas tomarán en consideración como elementos transversales el fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Asimismo, se incluirá el conocimiento y el respeto a los valores recogidos en
-la Constitución española
-y en el
-Estatuto de Autonomía de Canarias
-.
+3. Las actividades de las enseñanzas, en general, el desarrollo de la vida de los centros y el currículo de las distintas enseñanzas tomarán en consideración como elementos transversales el fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Asimismo, se incluirá el conocimiento y el respeto a los valores recogidos en la Constitución española y en el Estatuto de Autonomía de Canarias
 
 4. Con objeto de favorecer la igualdad real y efectiva entre hombres y mujeres, el currículo de las diferentes enseñanzas contribuirá a la superación de las desigualdades por razón de género, cuando las hubiere, y permitirá apreciar la aportación de las mujeres al desarrollo de nuestra sociedad y al conocimiento acumulado por la humanidad.
 
@@ -818,7 +759,7 @@ Estatuto de Autonomía de Canarias
 
 [Bloque 38: #a2-10]
 
-Artículo 28. Las enseñanzas del sistema educativo no universitario.
+#### Artículo 28. Las enseñanzas del sistema educativo no universitario.
 
 1. El sistema educativo comprende enseñanzas de régimen general y enseñanzas de régimen especial que conforman la educación formal, pero también podrá incorporar enseñanzas correspondientes a la educación no formal en las condiciones que reglamentariamente se determinen.
 
@@ -848,13 +789,11 @@ d) Educación superior, que incluirá tanto la formación profesional de grado s
 
 [Bloque 39: #ci-6]
 
-CAPÍTULO II
-
-Las enseñanzas de régimen general
+## Capítulo II. Las enseñanzas de régimen general.
 
 [Bloque 40: #a2-11]
 
-Artículo 29. La educación infantil.
+#### Artículo 29. La educación infantil.
 
 1. La educación infantil tiene como objetivo el desarrollo global de las capacidades de los niños y las niñas durante los primeros años, al inicio del proceso de aprendizaje.
 
@@ -878,7 +817,7 @@ Artículo 29. La educación infantil.
 
 [Bloque 41: #a3-2]
 
-Artículo 30. La educación primaria.
+#### Artículo 30. La educación primaria.
 
 1. La educación primaria es una etapa educativa que comprende seis cursos académicos, que se seguirán ordinariamente entre los seis y los doce años de edad. Los centros educativos podrán agrupar funcionalmente cada uno de los niveles educativos de esta etapa para facilitar la adaptación del alumnado a las distintas enseñanzas, en los términos que reglamentariamente establezca la consejería competente en materia educativa.
 
@@ -904,7 +843,7 @@ e) Facilitar la implantación de una segunda lengua extranjera en primaria.
 
 [Bloque 42: #a3-3]
 
-Artículo 31. La educación secundaria obligatoria.
+#### Artículo 31. La educación secundaria obligatoria.
 
 1. La etapa de la educación secundaria obligatoria comprende cuatro cursos académicos, que se seguirán ordinariamente entre los doce y los dieciséis años de edad.
 
@@ -936,7 +875,7 @@ Artículo 31. La educación secundaria obligatoria.
 
 [Bloque 43: #a3-4]
 
-Artículo 32. El bachillerato.
+#### Artículo 32. El bachillerato.
 
 1. El bachillerato forma parte de la educación secundaria postobligatoria y comprende dos cursos académicos. Se organizará de modo flexible a fin de que pueda ofrecer una preparación especializada acorde con las perspectivas e intereses personales. Se estructurará en modalidades y, en su caso, en distintas vías dentro de cada modalidad. Podrá cursarse en régimen ordinario, nocturno o a distancia. Podrá acceder al mismo el alumnado que esté en posesión del título de Graduado en Educación Secundaria Obligatoria.
 
@@ -954,7 +893,7 @@ Artículo 32. El bachillerato.
 
 [Bloque 44: #a3-5]
 
-Artículo 33. La formación profesional.
+#### Artículo 33. La formación profesional.
 
 1. La formación profesional comprende el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones, el acceso al empleo y la participación activa en la vida social, cultural y económica.
 
@@ -972,9 +911,7 @@ Artículo 33. La formación profesional.
 
 8. Las consejerías competentes en materia de educación y de empleo deben coordinarse especialmente para garantizar la integridad de la oferta formativa. A tal fin, se podrán ofrecer en algunos centros educativos títulos de Formación Profesional y certificados de profesionalidad de forma complementaria.
 
-9. Se creará una red de centros integrados de formación profesional, que impartirán todas las ofertas correspondientes a los subsistemas de formación profesional, referidas al Catálogo Nacional de Cualificaciones Profesionales, conducentes a la obtención de los títulos y certificados de profesionalidad a que se refiere la
-[Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio
-, de las Cualificaciones y de la Formación Profesional.
+9. Se creará una red de centros integrados de formación profesional, que impartirán todas las ofertas correspondientes a los subsistemas de formación profesional, referidas al Catálogo Nacional de Cualificaciones Profesionales, conducentes a la obtención de los títulos y certificados de profesionalidad a que se refiere la [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio , de las Cualificaciones y de la Formación Profesional.
 
 10. Se promoverán programas para que el alumnado pueda realizar prácticas de formación profesional inicial en centros de trabajo ubicados en países de la Unión Europea.
 
@@ -1008,13 +945,11 @@ d) Las convalidaciones que procedan entre los estudios universitarios de grado, 
 
 [Bloque 45: #ci-7]
 
-CAPÍTULO III
-
-Las enseñanzas de régimen especial
+## Capítulo III. Las enseñanzas de régimen especial.
 
 [Bloque 46: #a3-6]
 
-Artículo 34. Las enseñanzas de régimen especial.
+#### Artículo 34. Las enseñanzas de régimen especial.
 
 1. Las enseñanzas de idiomas, las enseñanzas artísticas y las deportivas tendrán la consideración de enseñanzas de régimen especial.
 
@@ -1026,7 +961,7 @@ Artículo 34. Las enseñanzas de régimen especial.
 
 [Bloque 47: #a3-7]
 
-Artículo 35. Las enseñanzas de idiomas.
+#### Artículo 35. Las enseñanzas de idiomas.
 
 1. Las enseñanzas de idiomas tienen como finalidad capacitar a los alumnos y alumnas para el uso comunicativo de los distintos idiomas, al margen de las etapas ordinarias del sistema educativo.
 
@@ -1046,7 +981,7 @@ Artículo 35. Las enseñanzas de idiomas.
 
 [Bloque 48: #a3-8]
 
-Artículo 36. Las enseñanzas artísticas.
+#### Artículo 36. Las enseñanzas artísticas.
 
 1. Las enseñanzas artísticas tienen como finalidad facilitar una formación artística de calidad y garantizar la formación de los correspondientes profesionales. Las enseñanzas artísticas se fundamentan en dos ofertas formativas distintas: una reglada, que comprende varios grados y tiene el elevado nivel de exigencia que corresponde a la finalidad exclusiva de facultar para la práctica profesional, y otra no reglada, para las personas que quieren alcanzar un nivel de conocimientos artísticos adecuados para practicarlos.
 
@@ -1074,7 +1009,7 @@ e) Otras manifestaciones artísticas que el Gobierno determine.
 
 [Bloque 49: #a3-9]
 
-Artículo 37. Las enseñanzas deportivas.
+#### Artículo 37. Las enseñanzas deportivas.
 
 1. Las enseñanzas deportivas tienen como objetivo preparar a los alumnos para ejercer profesionalmente una modalidad o especialidad deportiva y facilitar su adaptación al mundo laboral.
 
@@ -1086,26 +1021,21 @@ Artículo 37. Las enseñanzas deportivas.
 
 [Bloque 50: #ci-8]
 
-CAPÍTULO IV
-
-Educación de personas adultas
+## Capítulo IV. Educación de personas adultas.
 
 [Bloque 51: #a3-10]
 
-Artículo 38. Finalidad de la educación de personas adultas.
+#### Artículo 38. Finalidad de la educación de personas adultas.
 
 1. La educación de personas adultas tiene la finalidad de ofrecer a todos los mayores de dieciocho años la posibilidad de adquirir, actualizar, completar o ampliar sus conocimientos y aptitudes para su desarrollo personal y profesional.
 
 2. Para el logro de la finalidad propuesta, la administración educativa podrá colaborar con otras administraciones públicas con competencias en la formación de personas adultas y, en especial, con la administración laboral, así como con las corporaciones locales y los diversos agentes sociales.
 
-3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en
-Ley 13/2003, de 4 de abril
-, de Educación y Formación Permanente de Personas Adultas de Canarias
-.
+3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en Ley 13/2003, de 4 de abril , de Educación y Formación Permanente de Personas Adultas de Canarias
 
 [Bloque 52: #a3-11]
 
-Artículo 39. Programación anual de enseñanzas y pruebas para las personas adultas.
+#### Artículo 39. Programación anual de enseñanzas y pruebas para las personas adultas.
 
 1. La administración educativa establecerá para cada curso escolar una oferta específica de enseñanzas para personas adultas en los centros docentes públicos. En dicha oferta se incluirán enseñanzas dirigidas a la obtención de la titulación básica, de bachillerato y de formación profesional. Asimismo, podrán ofrecerse programas que faciliten la obtención de certificados de profesionalidad y programas que permitan la superación de módulos parciales de la formación profesional y el aprendizaje de idiomas.
 
@@ -1133,7 +1063,7 @@ d) Pruebas para la obtención del título de Técnico Superior para las personas
 
 [Bloque 53: #a4-2]
 
-Artículo 40. La educación semipresencial y a distancia.
+#### Artículo 40. La educación semipresencial y a distancia.
 
 1. El Gobierno, para facilitar el derecho universal a la educación, debe desarrollar una oferta adecuada de educación no presencial, ya sea en la modalidad semipresencial o a distancia.
 
@@ -1149,13 +1079,11 @@ Artículo 40. La educación semipresencial y a distancia.
 
 [Bloque 54: #cv-2]
 
-CAPÍTULO V
-
-La atención a la diversidad y la compensación educativa
+## Capítulo V. La atención a la diversidad y la compensación educativa.
 
 [Bloque 55: #a4-3]
 
-Artículo 41. Líneas de acción institucional para atender la diversidad.
+#### Artículo 41. Líneas de acción institucional para atender la diversidad.
 
 1. La educación es una forma de ayuda al desarrollo humano basada en el aprendizaje de la cultura socialmente relevante y su transformación en capacidades y/o competencias. Para que esa transformación de la cultura en capacidades sea efectiva es necesario prestar atención a las necesidades específicas de apoyo educativo que presentan las personas como consecuencia de su diversidad.
 
@@ -1171,7 +1099,7 @@ Artículo 41. Líneas de acción institucional para atender la diversidad.
 
 [Bloque 56: #a4-4]
 
-Artículo 42. La Escuela inclusiva.
+#### Artículo 42. La Escuela inclusiva.
 
 1. El modelo educativo canario se fundamenta en la educación inclusiva como sistema para lograr la calidad de los centros docentes.
 
@@ -1193,7 +1121,7 @@ e) La organización de los apoyos dentro del aula para responder a las necesidad
 
 [Bloque 57: #a4-5]
 
-Artículo 43. Plan Estratégico de Atención a la Diversidad (PEAD).
+#### Artículo 43. Plan Estratégico de Atención a la Diversidad (PEAD).
 
 1. Las medidas de atención a la diversidad adoptadas por cada centro deberán estar enmarcadas en el Plan Estratégico de Atención a la Diversidad (PEAD). La atención a la diversidad del alumnado recibirá una especial atención en el ordenamiento del sistema educativo canario. Con este objetivo:
 
@@ -1307,7 +1235,7 @@ c) Cada centro de educación infantil dispondrá de un plan de atención tempran
 
 [Bloque 58: #a4-6]
 
-Artículo 44. Necesidades específicas de apoyo educativo.
+#### Artículo 44. Necesidades específicas de apoyo educativo.
 
 1. Se considera alumnado con necesidades específicas de apoyo educativo aquel que presenta necesidades educativas singulares, debidas a diferentes grados y tipos de capacidades personales de orden físico, psíquico, cognitivo o sensorial, a altas capacidades, el que, por proceder de otros países o por cualquier otro motivo, se incorpore de forma tardía al sistema educativo, así como el alumnado que precise de acciones de carácter compensatorio.
 
@@ -1337,7 +1265,7 @@ Dicha evaluación permitirá proporcionarles la orientación adecuada y modifica
 
 [Bloque 59: #a4-7]
 
-Artículo 45. La compensación de la desigualdad.
+#### Artículo 45. La compensación de la desigualdad.
 
 1. La administración educativa desarrollará medidas de acción positiva y carácter compensador dirigidas al alumnado procedente de familias que se encuentren en un entorno o situación desfavorables e impulsará planes para alcanzar su igualdad efectiva. Asegurará el acceso a la educación infantil en las condiciones más favorables para el alumnado cuyas circunstancias personales supongan una desigualdad inicial para su éxito educativo.
 
@@ -1351,7 +1279,7 @@ Artículo 45. La compensación de la desigualdad.
 
 [Bloque 60: #a4-8]
 
-Artículo 46. Absentismo escolar y abandono escolar temprano.
+#### Artículo 46. Absentismo escolar y abandono escolar temprano.
 
 1. Se denomina absentismo escolar a la reiterada ausencia temporal injustificada, no permanente ni definitiva, del alumnado al centro educativo en el que está escolarizado y que supone un riesgo para desarrollar satisfactoriamente los procesos de enseñanza y de aprendizaje.
 
@@ -1369,13 +1297,11 @@ Artículo 46. Absentismo escolar y abandono escolar temprano.
 
 [Bloque 61: #cv-3]
 
-CAPÍTULO VI
-
-Plurilingüismo
+## Capítulo VI. Plurilingüismo.
 
 [Bloque 62: #a4-9]
 
-Artículo 47. Fomento del plurilingüismo.
+#### Artículo 47. Fomento del plurilingüismo.
 
 1. Los centros de infantil y primaria que se creen en la Comunidad Autónoma de Canarias serán bilingües, de acuerdo con los términos que reglamentariamente se establezcan.
 
@@ -1391,7 +1317,7 @@ Artículo 47. Fomento del plurilingüismo.
 
 [Bloque 63: #a4-10]
 
-Artículo 48. Educación plurilingüe.
+#### Artículo 48. Educación plurilingüe.
 
 1. La administración educativa establecerá mecanismos y medidas de apoyo que permitan desarrollar modelos plurilingües en los centros, facilitando la impartición de materias del currículo en una lengua extranjera.
 
@@ -1401,7 +1327,7 @@ Artículo 48. Educación plurilingüe.
 
 [Bloque 64: #a4-11]
 
-Artículo 49. Formación lingüística y metodológica.
+#### Artículo 49. Formación lingüística y metodológica.
 
 1. La administración educativa propiciará la formación en lenguas extranjeras del profesorado de las distintas materias, con independencia de su especialidad, estableciendo programas al efecto.
 
@@ -1411,19 +1337,17 @@ Artículo 49. Formación lingüística y metodológica.
 
 [Bloque 65: #ti-3]
 
-TÍTULO III
+## Título III
 
 De la programación general y la organización territorial
 
 [Bloque 66: #ci-9]
 
-CAPÍTULO I
-
-La programación general de las enseñanzas
+## Capítulo I. La programación general de las enseñanzas.
 
 [Bloque 67: #a5-2]
 
-Artículo 50. Programación general de la enseñanza y escolarización.
+#### Artículo 50. Programación general de la enseñanza y escolarización.
 
 1. El Gobierno de Canarias garantizará el ejercicio efectivo del derecho a la educación mediante una programación general de la enseñanza, con la participación efectiva de todos los sectores afectados, que atienda adecuadamente las necesidades educativas y la creación de centros educativos públicos.
 
@@ -1441,19 +1365,17 @@ Artículo 50. Programación general de la enseñanza y escolarización.
 
 [Bloque 68: #a5-3]
 
-Artículo 51. El proceso de admisión en los centros educativos sostenidos con fondos públicos.
+#### Artículo 51. El proceso de admisión en los centros educativos sostenidos con fondos públicos.
 
 El Gobierno de Canarias regulará la admisión del alumnado en centros públicos y privados concertados, de tal forma que se garantice el derecho a la educación y el acceso en condiciones de igualdad. En todo caso, se atenderá a una adecuada y equilibrada distribución entre los centros escolares de los alumnos con necesidad específica de apoyo educativo.
 
 [Bloque 69: #ci-10]
 
-CAPÍTULO II
-
-La organización territorial de las enseñanzas
+## Capítulo II. La organización territorial de las enseñanzas.
 
 [Bloque 70: #a5-4]
 
-Artículo 52. El mapa escolar de Canarias y los distritos escolares.
+#### Artículo 52. El mapa escolar de Canarias y los distritos escolares.
 
 1. El mapa escolar es el instrumento que refleja la oferta del sistema educativo y la actividad educativa no universitaria, y es la base a partir de la cual debe elaborarse la programación general de la enseñanza. La información que contiene el mapa debe actualizarse regularmente y debe examinarse siempre antes de realizar la programación general correspondiente a un nuevo curso académico.
 
@@ -1463,7 +1385,7 @@ Artículo 52. El mapa escolar de Canarias y los distritos escolares.
 
 [Bloque 71: #a5-5]
 
-Artículo 53. Las áreas territoriales.
+#### Artículo 53. Las áreas territoriales.
 
 1. El sistema educativo canario se estructura en siete áreas territoriales que se corresponden con cada una de las islas, que se delimitan de acuerdo con la organización territorial de Canarias. La Graciosa se incorpora en el área territorial de Lanzarote.
 
@@ -1473,7 +1395,7 @@ Artículo 53. Las áreas territoriales.
 
 [Bloque 72: #a5-6]
 
-Artículo 54. Zonas educativas.
+#### Artículo 54. Zonas educativas.
 
 1. Las zonas educativas se conformarán a partir de distritos escolares y atendiendo a criterios de proximidad, de manera que una zona educativa comprenderá el agrupamiento de varios distritos escolares.
 
@@ -1483,7 +1405,7 @@ Artículo 54. Zonas educativas.
 
 [Bloque 73: #a5-7]
 
-Artículo 55. Los distritos escolares.
+#### Artículo 55. Los distritos escolares.
 
 1. La estructura básica del distrito escolar está configurada por el conjunto de centros de infantil y primaria adscritos a un centro de secundaria.
 
@@ -1495,7 +1417,7 @@ Artículo 55. Los distritos escolares.
 
 [Bloque 74: #a5-8]
 
-Artículo 56. Las escuelas unitarias.
+#### Artículo 56. Las escuelas unitarias.
 
 1. El Gobierno de Canarias promoverá una atención específica a las escuelas rurales con la finalidad de facilitar el acceso y la permanencia en el sistema educativo en igualdad de condiciones para todos, con independencia del lugar donde residan. Estas escuelas son consideradas centros educativos singulares.
 
@@ -1509,19 +1431,17 @@ Artículo 56. Las escuelas unitarias.
 
 [Bloque 75: #ti-4]
 
-TÍTULO IV
+## Título IV
 
 De la organización, el funcionamiento y la gestión democrática de los centros educativos
 
 [Bloque 76: #ci-11]
 
-CAPÍTULO I
-
-Organización y participación social
+## Capítulo I. Organización y participación social.
 
 [Bloque 77: #a5-9]
 
-Artículo 57. La organización y el funcionamiento de los centros sostenidos con fondos públicos.
+#### Artículo 57. La organización y el funcionamiento de los centros sostenidos con fondos públicos.
 
 1. Los centros a los que se refiere este artículo dispondrán de órganos de gobierno, que podrán ser personales y colegiados, así como órganos de participación y órganos de coordinación y asesoramiento, en los términos definidos por la normativa básica del Estado y de lo que reglamentariamente determine el Gobierno de Canarias.
 
@@ -1539,13 +1459,9 @@ Artículo 57. La organización y el funcionamiento de los centros sostenidos con
 
 [Bloque 78: #a5-10]
 
-Artículo 58. La participación en la gestión de los centros sostenidos con fondos públicos.
+#### Artículo 58. La participación en la gestión de los centros sostenidos con fondos públicos.
 
-1. La participación es un valor esencial para la formación de ciudadanos/as autónomos, libres, responsables y comprometidos con los principios y valores de
-la Constitución
-y del
-Estatuto de Autonomía de Canarias
-. La participación, autonomía y gobierno de los centros que ofrezcan enseñanzas reguladas en esta ley se ajustarán a lo dispuesto en la normativa básica del Estado, así como a lo previsto en esta ley.
+1. La participación es un valor esencial para la formación de ciudadanos/as autónomos, libres, responsables y comprometidos con los principios y valores de la Constitución y del Estatuto de Autonomía de Canarias . La participación, autonomía y gobierno de los centros que ofrezcan enseñanzas reguladas en esta ley se ajustarán a lo dispuesto en la normativa básica del Estado, así como a lo previsto en esta ley.
 
 2. La administración educativa fomentará, en el ámbito de su competencia, el ejercicio efectivo de la participación de alumnado, profesorado, familias y personal de administración y servicios en los centros educativos.
 
@@ -1559,7 +1475,7 @@ Estatuto de Autonomía de Canarias
 
 [Bloque 79: #a5-11]
 
-Artículo 59. Fomento y apoyo al liderazgo educativo.
+#### Artículo 59. Fomento y apoyo al liderazgo educativo.
 
 1. El liderazgo educativo debe ser un liderazgo democrático y pedagógico que se extienda a toda la organización educativa y que promueva las señas de identidad del centro haciendo efectivos los compromisos adquiridos por toda la comunidad educativa.
 
@@ -1571,13 +1487,11 @@ Artículo 59. Fomento y apoyo al liderazgo educativo.
 
 [Bloque 80: #ci-12]
 
-CAPÍTULO II
-
-Autonomía y planificación en los centros educativos
+## Capítulo II. Autonomía y planificación en los centros educativos.
 
 [Bloque 81: #a6-2]
 
-Artículo 60. La autonomía de los centros sostenidos con fondos públicos.
+#### Artículo 60. La autonomía de los centros sostenidos con fondos públicos.
 
 1. Los centros educativos contarán con autonomía pedagógica, de organización y de gestión para poder llevar a cabo modelos de funcionamiento propios, en el marco de la legislación vigente, en los términos recogidos en esta ley y en las normas que la desarrollen.
 
@@ -1593,7 +1507,7 @@ Artículo 60. La autonomía de los centros sostenidos con fondos públicos.
 
 [Bloque 82: #a6-3]
 
-Artículo 61. Planificación educativa y gestión democrática.
+#### Artículo 61. Planificación educativa y gestión democrática.
 
 1. Los centros educativos serán gestionados democráticamente con la participación de toda la comunidad escolar y tendrán como instrumento de gestión el Proyecto Educativo del centro.
 
@@ -1629,15 +1543,13 @@ e) La obtención o aceptación, si procede, de recursos económicos y materiales
 
 12. La memoria anual analizará el grado de cumplimiento de la programación general y fijará propuestas de mejora. Asimismo, incluirá las conclusiones de los procesos de autoevaluación referidos al funcionamiento del centro, a los procesos de enseñanza y aprendizaje y a los resultados del alumnado.
 
-[Bloque 83: #tv]
-
-TÍTULO V
+## Título V
 
 De la función pública docente y la carrera docente
 
 [Bloque 84: #a6-4]
 
-Artículo 62. El profesorado y la profesión docente.
+#### Artículo 62. El profesorado y la profesión docente.
 
 1. El profesorado ocupa la posición preeminente en el ejercicio de sus funciones docentes, en el que goza de autonomía, dentro de los límites que determina la legislación vigente y en el marco del proyecto educativo del centro en que desarrolla sus funciones.
 
@@ -1657,7 +1569,7 @@ f) Evaluar su propia práctica para que en todos los ámbitos y niveles educativ
 
 [Bloque 85: #a6-5]
 
-Artículo 63. El acceso y el ejercicio de la función pública docente.
+#### Artículo 63. El acceso y el ejercicio de la función pública docente.
 
 1. Con carácter general, los puestos de trabajo docentes en los centros, distritos y servicios educativos se ocuparán por profesorado funcionario de carrera mediante el sistema ordinario de concurso de traslados. La selección y provisión del personal funcionario para el ingreso en los distintos cuerpos docentes se llevará a cabo en la forma establecida por la normativa básica del Estado, en la presente ley y en las normas que se dicten en desarrollo de las mismas.
 
@@ -1673,7 +1585,7 @@ Artículo 63. El acceso y el ejercicio de la función pública docente.
 
 [Bloque 86: #a6-6]
 
-Artículo 64. Formación y promoción de la carrera docente.
+#### Artículo 64. Formación y promoción de la carrera docente.
 
 1. Sin perjuicio de lo establecido en la normativa básica del Estado, la administración educativa favorecerá la promoción profesional del profesorado de los centros docentes públicos sin necesidad de cambio del cuerpo docente al que se pertenece. Asimismo, favorecerá la promoción profesional del profesorado de los centros docentes públicos que soliciten cambiar del cuerpo docente al que se pertenece.
 
@@ -1693,7 +1605,7 @@ Artículo 64. Formación y promoción de la carrera docente.
 
 [Bloque 87: #a6-7]
 
-Artículo 65. Medidas para el reconocimiento y la protección de la función docente.
+#### Artículo 65. Medidas para el reconocimiento y la protección de la función docente.
 
 1. La administración educativa debe velar para que el profesorado reciba el trato, la consideración y el respeto que le corresponden conforme a la importancia social de la tarea que desempeña.
 
@@ -1713,19 +1625,19 @@ Artículo 65. Medidas para el reconocimiento y la protección de la función doc
 
 [Bloque 88: #tv-2]
 
-TÍTULO VI
+## Título VI
 
 Evaluación y mejora continua del sistema educativo
 
 [Bloque 89: #a6-8]
 
-Artículo 66. Procedimiento para la evaluación del sistema educativo.
+#### Artículo 66. Procedimiento para la evaluación del sistema educativo.
 
 Con el propósito de realizar un seguimiento del desarrollo de los objetivos de mejora fijados en esta ley, el Gobierno de Canarias deberá arbitrar los procedimientos adecuados para la consecución y evaluación de las políticas educativas que se implementen de acuerdo con los artículos siguientes.
 
 [Bloque 90: #a6-9]
 
-Artículo 67. Finalidad y características de la evaluación del sistema educativo.
+#### Artículo 67. Finalidad y características de la evaluación del sistema educativo.
 
 1. La evaluación del sistema educativo se desarrollará en los términos previstos en la normativa básica del Estado, así como en los términos definidos en esta ley y tendrá en cuenta los sistemas y modelos de evaluación de referencia estatal e internacional, especialmente los recomendados por la Unión Europea, así como los sistemas de acreditación de la calidad.
 
@@ -1763,7 +1675,7 @@ b) Orientar las actuaciones en materia de gestión del cambio y de promoción de
 
 [Bloque 91: #a6-10]
 
-Artículo 68. Evaluaciones de diagnóstico.
+#### Artículo 68. Evaluaciones de diagnóstico.
 
 1. Las evaluaciones de diagnóstico versarán sobre las capacidades esenciales para la vida y las competencias básicas definidas en el currículo de cada una de las enseñanzas del sistema educativo.
 
@@ -1775,7 +1687,7 @@ Artículo 68. Evaluaciones de diagnóstico.
 
 [Bloque 92: #a6-11]
 
-Artículo 69. Evaluación de centros, los servicios educativos y la función directiva.
+#### Artículo 69. Evaluación de centros, los servicios educativos y la función directiva.
 
 1. La administración educativa, en el marco de sus competencias, elaborará y realizará planes de evaluación de los centros y servicios educativos, que tendrán en cuenta las situaciones socioeconómicas y culturales de las familias y alumnos que acogen, el entorno del propio centro y los recursos de que dispone.
 
@@ -1787,7 +1699,7 @@ Artículo 69. Evaluación de centros, los servicios educativos y la función dir
 
 [Bloque 93: #a7-2]
 
-Artículo 70. Evaluación de la administración educativa.
+#### Artículo 70. Evaluación de la administración educativa.
 
 1. Los órganos y unidades de la administración educativa estarán sujetos a evaluación, al igual que el resto del sistema educativo. A estos efectos, se evaluará el nivel de prestación de los servicios públicos en relación con las expectativas de la ciudadanía, así como el grado de cumplimiento de los compromisos declarados.
 
@@ -1797,7 +1709,7 @@ Artículo 70. Evaluación de la administración educativa.
 
 [Bloque 94: #a7-3]
 
-Artículo 71. La Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
+#### Artículo 71. La Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
 1. El Gobierno establecerá reglamentariamente las normas que regularán el funcionamiento de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
 
@@ -1809,13 +1721,13 @@ Artículo 71. La Agencia Canaria de Calidad Universitaria y Evaluación Educativ
 
 [Bloque 95: #tv-3]
 
-TÍTULO VII
+## Título VII
 
 De la financiación del sistema educativo
 
 [Bloque 96: #a7-4]
 
-Artículo 72. Principios de gestión económica y compromisos de financiación.
+#### Artículo 72. Principios de gestión económica y compromisos de financiación.
 
 1. Los recursos económicos puestos a disposición del sistema educativo, de la administración educativa y de los centros sostenidos con fondos públicos se gestionan de acuerdo con los principios generales de equidad, eficacia, eficiencia, economía y transparencia y de acuerdo con los principios específicos establecidos a tal efecto.
 
@@ -1825,11 +1737,9 @@ Artículo 72. Principios de gestión económica y compromisos de financiación.
 
 [Bloque 97: #a7-5]
 
-Artículo 73. La financiación de los centros educativos.
+#### Artículo 73. La financiación de los centros educativos.
 
 Para la autonomía de gestión económica de los centros públicos de los que es titular el Gobierno de Canarias, y de acuerdo con el principio de suficiencia, los presupuestos anuales deben consignar esta financiación en el capítulo de gasto corriente, sin perjuicio de la posterior evolución a dotaciones presupuestarias por programas.
-
-[Bloque 98: #da]
 
 Disposición adicional primera. Calendario de aplicación de la ley.
 
@@ -1837,29 +1747,25 @@ El Gobierno, sin perjuicio de la entrada en vigor de la presente ley, debe aprob
 
 [Bloque 99: #da-2]
 
-Disposición adicional segunda. Órganos de negociación y de representación del personal docente.
+#### Disposición adicional segunda. Órganos de negociación y de representación del personal docente.
 
-La negociación colectiva de las condiciones de trabajo de los funcionarios docentes debe llevarse a cabo a través de una mesa sectorial de educación, en atención a las condiciones específicas de trabajo de los diferentes colectivos docentes y al número de efectivos. Deben ser objeto de negociación en esta mesa sectorial las materias detalladas en el
-artículo 37 de la Ley 7/2007, de 12 de abril
-, del
-Estatuto Básico del Empleado Público
-, en relación con los funcionarios docentes, siempre que no hayan sido objeto de decisión de la mesa general de negociación del Gobierno de Canarias.
+La negociación colectiva de las condiciones de trabajo de los funcionarios docentes debe llevarse a cabo a través de una mesa sectorial de educación, en atención a las condiciones específicas de trabajo de los diferentes colectivos docentes y al número de efectivos. Deben ser objeto de negociación en esta mesa sectorial las materias detalladas en el artículo 37 de la Ley 7/2007, de 12 de abril , del Estatuto Básico del Empleado Público , en relación con los funcionarios docentes, siempre que no hayan sido objeto de decisión de la mesa general de negociación del Gobierno de Canarias.
 
 [Bloque 100: #da-3]
 
-Disposición adicional tercera. Estabilidad laboral del personal interino.
+#### Disposición adicional tercera. Estabilidad laboral del personal interino.
 
 El Gobierno de Canarias arbitrará fórmulas que permitan la estabilidad para los y las interinas de más de 55 años y cinco años de servicios, al margen de su participación en los procesos selectivos.
 
 [Bloque 101: #da-4]
 
-Disposición adicional cuarta. Estabilidad de las plantillas de los centros educativos.
+#### Disposición adicional cuarta. Estabilidad de las plantillas de los centros educativos.
 
 El Gobierno de Canarias arbitrará medidas para garantizar la estabilidad de los equipos docentes.
 
 [Bloque 102: #da-5]
 
-Disposición adicional quinta. Criterios de asignación de plantillas.
+#### Disposición adicional quinta. Criterios de asignación de plantillas.
 
 El Gobierno de Canarias arbitrará un sistema de asignación de plantillas a los centros que no solo tome en consideración el número de alumnos o alumnas y grupos y su configuración de niveles y etapas, sino que incluya entre sus criterios la presencia de alumnado en riesgo de exclusión educativa o de necesidades específicas de apoyo educativo, así como el desarrollo de un proyecto de acreditado valor para la mejora de los aprendizajes. El sistema deberá estar regido por criterios públicos y desarrollarse con rigor y transparencia.
 
@@ -1867,37 +1773,37 @@ Las plantillas contemplarán, mediante las fórmulas precisas, la incorporación
 
 [Bloque 103: #da-6]
 
-Disposición adicional sexta. Sistema retributivo.
+#### Disposición adicional sexta. Sistema retributivo.
 
 La administración educativa canaria, de forma similar al resto de las comunidades autónomas del Estado, reconocerá y retribuirá al profesorado de Canarias en los términos que se definan en los órganos de negociación correspondientes.
 
 [Bloque 104: #da-7]
 
-Disposición adicional séptima. Protección de datos personales.
+#### Disposición adicional séptima. Protección de datos personales.
 
 En el tratamiento de datos, en el ámbito del sistema educativo es aplicable la normativa de protección de datos de carácter personal, debiendo adoptarse las medidas necesarias para garantizar su seguridad y confidencialidad. La administración educativa debe favorecer la transmisión de los principios, derechos y medidas de seguridad básicas en relación con la protección de datos.
 
 [Bloque 105: #da-8]
 
-Disposición adicional octava. La docencia de los maestros y maestras en la educación secundaria.
+#### Disposición adicional octava. La docencia de los maestros y maestras en la educación secundaria.
 
 Las maestras y maestros especialistas en pedagogía terapéutica y en audición y lenguaje podrán desempeñar funciones en la educación secundaria obligatoria, con las condiciones y los requisitos que establezca el Gobierno de acuerdo con lo previsto en la normativa básica del Estado.
 
 [Bloque 106: #da-9]
 
-Disposición adicional novena. Garantía Juvenil canaria.
+#### Disposición adicional novena. Garantía Juvenil canaria.
 
 La consejería competente en materia de educación dispondrá, por sí misma o en colaboración con otras administraciones y entidades, los recursos y procedimientos necesarios para que todos los jóvenes entre 16 y 25 años que no hayan obtenido una titulación académica ni se hayan incorporado al mundo laboral puedan permanecer en el sistema educativo o en una actividad formativa que mejore su empleabilidad y/o capacidad de emprendimiento, siguiendo los criterios establecidos en la Garantía Juvenil europea.
 
 [Bloque 107: #da-10]
 
-Disposición adicional décima. Ampliación de la educación obligatoria.
+#### Disposición adicional décima. Ampliación de la educación obligatoria.
 
 El Gobierno de Canarias garantizará, en las condiciones que reglamentariamente se establezcan, que el alumnado que no supere las evaluaciones externas y no obtenga la titulación correspondiente a la educación secundaria obligatoria pueda permanecer en el sistema educativo hasta los 18 años.
 
 [Bloque 108: #da-11]
 
-Disposición adicional decimoprimera. Cooperación social y concertación.
+Disposición adicional decimoprimera.... Cooperación social y concertación.
 
 1. La administración educativa promoverá la concertación como instrumento de cohesión social. Las organizaciones empresariales y sindicales participarán en el sistema educativo a través del Consejo Escolar de Canarias, del Consejo de Formación Profesional de Canarias, así como de otros órganos en los que se prevea su participación institucional.
 
@@ -1935,25 +1841,25 @@ En ningún caso, la acción voluntaria organizada podrá reemplazar las activida
 
 [Bloque 109: #da-12]
 
-Disposición adicional decimosegunda. Ciudades educadoras.
+Disposición adicional decimosegunda.... Ciudades educadoras.
 
 El Gobierno de Canarias y las administraciones locales del archipiélago desarrollarán acuerdos de colaboración que faciliten la constitución de ciudades educadoras en Canarias, así como el adecuado funcionamiento de las que ya han sido instituidas para que tanto unas como otras colaboren en la consecución de los objetivos fijados en la presente ley.
 
 [Bloque 110: #da-13]
 
-Disposición adicional decimotercera. Contratación de personas nativas.
+#### Disposición adicional decimotercera. Contratación de personas nativas.
 
 La consejería competente en materia educativa podrá contratar, en las condiciones que reglamentariamente se establezcan, a personas nativas en idiomas para que colaboren con el profesorado en el aprendizaje del alumnado en un determinado programa.
 
 [Bloque 111: #da-14]
 
-Disposición adicional decimocuarta. Reconocimiento social del profesorado.
+#### Disposición adicional decimocuarta. Reconocimiento social del profesorado.
 
 La consejería competente en materia educativa elaborará, con la colaboración de las organizaciones más representativas del profesorado y con el Consejo Escolar de Canarias, en un plazo no superior a un año, un plan para promover el desarrollo profesional y el reconocimiento social del profesorado.
 
 [Bloque 112: #da-15]
 
-Disposición adicional decimoquinta. Fondo de compensación.
+#### Disposición adicional decimoquinta. Fondo de compensación.
 
 1. Los Presupuestos Generales de la Comunidad Autónoma de Canarias de cada año recogerán los créditos que hayan de integrarse en un fondo de compensación que posibilite la mejor distribución de los recursos de la escuela pública canaria y que tendrán como destinatarias a las zonas educativas más desfavorecidas.
 
@@ -1961,19 +1867,19 @@ Disposición adicional decimoquinta. Fondo de compensación.
 
 [Bloque 113: #da-16]
 
-Disposición adicional decimosexta. Material didáctico copyleft.
+Disposición adicional decimosexta.... Material didáctico copyleft.
 
 La administración educativa promoverá la elaboración y divulgación de material curricular de libre disposición para ser difundido de forma digital.
 
 [Bloque 114: #da-17]
 
-Disposición adicional decimoséptima. Reducción del porcentaje del profesorado interino.
+Disposición adicional decimoséptima.... Reducción del porcentaje del profesorado interino.
 
 La administración educativa adoptará medidas para que, en el marco fijado por la normativa general del Estado, se pueda reducir el porcentaje del profesorado interino en los centros y servicios educativos, de manera que no se sobrepasen los límites máximos establecidos de forma general para la función pública.
 
 [Bloque 115: #da-18]
 
-Disposición adicional decimoctava. Plan para la igualdad de género en el sistema educativo.
+Disposición adicional decimoctava.... Plan para la igualdad de género en el sistema educativo.
 
 1. El Gobierno, a propuesta de la consejería competente en materia educativa y en el plazo de dos años a partir de la entrada en vigor de la presente ley, debe aprobar un plan para la igualdad de género en el sistema educativo y debe presentarlo al Parlamento.
 
@@ -1981,7 +1887,7 @@ Disposición adicional decimoctava. Plan para la igualdad de género en el siste
 
 [Bloque 116: #da-19]
 
-Disposición adicional decimonovena. Educación infantil de 0 a 3 años.
+Disposición adicional decimonovena.... Educación infantil de 0 a 3 años.
 
 1. El Gobierno presentará al Parlamento, en un plazo no superior a un año desde la entrada en vigor de la ley, un mapa de la educación infantil en Canarias, así como un plan para atender las necesidades de escolarización en el primer ciclo de educación infantil.
 
@@ -1993,31 +1899,39 @@ Disposición adicional decimonovena. Educación infantil de 0 a 3 años.
 
 [Bloque 117: #da-20]
 
-Disposición adicional vigésima. Organización de las enseñanzas artísticas superiores.
+Disposición adicional vigésima.... Organización de las enseñanzas artísticas superiores.
 
 El Gobierno, en el plazo de dos años a partir de la entrada en vigor de la presente ley, debe presentar al Parlamento un informe que fija las condiciones para dar mayor estabilidad a las enseñanzas artísticas superiores, valore la posibilidad de elaborar un ley específica para estas enseñanzas y determine la conveniencia de crear un instituto superior de artes al que quedarían adscritos los centros que imparten en este momento esas enseñanzas, o bien que este tipo de enseñanzas se adscriba a cada una de las universidades públicas canarias.
 
 [Bloque 118: #da-21]
 
-Disposición adicional vigésimo primera. Nuevos entornos de aprendizaje.
+#### Disposición adicional vigésimo.... primera.
+
+Nuevos entornos de aprendizaje.
 
 El Gobierno presentará al Parlamento, en un plazo no superior a un año desde la entrada en vigor de la ley, un plan para mejorar la conectividad entre los centros educativos y la incorporación de los centros a la banda ancha, así como las condiciones y características que debe tener la plataforma digital única, a la que estarán adscritos todos los centros educativos para que puedan disponer de entornos educativos abiertos.
 
 [Bloque 119: #da-22]
 
-Disposición adicional vigésimo segunda. Portafolio personal de aprendizaje y registro académico personal.
+#### Disposición adicional vigésimo.... segunda.
+
+Portafolio personal de aprendizaje y registro académico personal.
 
 La consejería competente en materia educativa debe adoptar las medidas necesarias para que, en un plazo no superior a un año desde la entrada en vigor de la ley, los servicios de portafolio personal de aprendizaje y de registro académico personal tengan las características funcionales y operativas plenamente definidas, y estén técnicamente implantados y disponibles a todos los efectos.
 
 [Bloque 120: #da-23]
 
-Disposición adicional vigésimo tercera. Aplicación de las normas reglamentarias.
+#### Disposición adicional vigésimo.... tercera.
+
+Aplicación de las normas reglamentarias.
 
 En aquellas materias a cuya regulación se remite en la presente ley o se difiere a desarrollos reglamentarios futuros, y en tanto estos no sean dictados, serán de aplicación, en cada caso, las normas vigentes a la fecha de entrada en vigor de esta ley.
 
 [Bloque 121: #da-24]
 
-Disposición adicional vigésimo cuarta. Abandono escolar temprano y absentismo escolar.
+#### Disposición adicional vigésimo.... cuarta.
+
+Abandono escolar temprano y absentismo escolar.
 
 1. El Gobierno tendrá en cuenta la necesidad de reducir la tasa de abandono escolar temprano aumentando, durante el periodo de implantación de la ley, las plazas destinadas a las enseñanzas conducentes a la Formación Profesional. Así mismo dispondrá las condiciones necesarias para mejorar las tasas de titulación en todas las enseñanzas obligatorias y no obligatorias.
 
@@ -2027,7 +1941,9 @@ Disposición adicional vigésimo cuarta. Abandono escolar temprano y absentismo 
 
 [Bloque 122: #da-25]
 
-Disposición adicional vigésimo quinta. Mapa Escolar de Canarias.
+#### Disposición adicional vigésimo.... quinta.
+
+Mapa Escolar de Canarias.
 
 1. El Gobierno elaborará, en un plazo no superior a un año desde la aprobación de la ley, un Mapa Escolar de Canarias en el que aparecen definidos todos los distritos escolares, así como la oferta de formación que se desarrollará en cada uno de los ellos.
 
@@ -2037,17 +1953,15 @@ Disposición adicional vigésimo quinta. Mapa Escolar de Canarias.
 
 [Bloque 123: #da-26]
 
-Disposición adicional vigésimo sexta. Residencias escolares.
+#### Disposición adicional vigésimo.... sexta.
+
+Residencias escolares.
 
 El Gobierno de Canarias, a propuesta de la consejería competente en materia educativa, elaborará en un plazo no superior a un año desde la aprobación de la ley, un plan para revitalizar las residencias escolares, modernizarlas y dotarlas, poniendo esas plazas a disposición del estudiantado de Formación Profesional, Bachillerato y Estudios Universitarios, especialmente en aquellas islas que carecen de residencias universitarias, además de cumplir su papel como recurso social para la escolarización del alumnado de Enseñanza Obligatoria con dificultades de carácter educativo, social y familiar. En este sentido se deberán dotar de recursos adaptados a estas necesidades y adaptar su organización y funcionamiento.
 
-[Bloque 124: #dd]
-
-Disposición derogatoria única.
+#### Disposición derogatoria única.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido por la presente ley.
-
-[Bloque 125: #df]
 
 Disposiciones final primera. Desarrollo reglamentario.
 
@@ -2055,11 +1969,9 @@ Se autoriza al Gobierno a dictar las disposiciones necesarias para desarrollar y
 
 [Bloque 126: #da-27]
 
-Disposición adicional segunda. Entrada en vigor.
+#### Disposición adicional segunda. Entrada en vigor.
 
 La presente ley entrará en vigor el 1 de septiembre de 2014.
-
-[Bloque 127: #fi]
 
 Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 
@@ -2069,11 +1981,10 @@ El Presidente,
 
 Paulino Rivero Baute.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Desarrollado por**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
 - **Desarrollado por**: [**D114_2011 Decreto de Convivencia Escolar**](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
@@ -2242,6 +2153,7 @@ Paulino Rivero Baute.
 - **Fundamento de**: [**Resolucion BOC 136**](../08_personal_docente/R25_5_2017_regula_programa_mejora_estabilidad_claustros_docentes.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2007-10487
 codigo_sintetizado: BOE-A-2007-10487
-titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación
-  general de las enseñanzas profesionales de artes plásticas y diseño.
+titulo: Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-05-25'
 boletin: BOE
@@ -17,49 +15,46 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Pruebas de acceso
 tags:
-- admision-alumnado
-- curriculo
-- ensenanzas-artisticas
-- eso
-- evaluacion
-- formacion-profesional
-- grado-medio
-- grado-superior
-- oposiciones
-- orientacion-educativa
-- pruebas-de-acceso
-- titulacion
+  - admision-alumnado
+  - curriculo
+  - ensenanzas-artisticas
+  - eso
+  - evaluacion
+  - formacion-profesional
+  - grado-medio
+  - grado-superior
+  - oposiciones
+  - orientacion-educativa
+  - pruebas-de-acceso
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-31-1995
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2017-220-70
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-can-res-boc-2018-106-114
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-res-boc-2017-220-70
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-31-1995
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-31-1995
   articulos:
-  - '1'
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 ## Preámbulo
-
-# Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
-
-# Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.
 
@@ -77,13 +72,7 @@ En su virtud, a propuesta de la Ministra de Educación y Ciencia, de acuerdo con
 
 **DISPONGO:**
 
-CAPÍTULO I
-
-Las enseñanzas profesionales de artes plásticas y diseño: Definición, finalidad y objetivos
-
-#### Artículo 1. Definición.
-
-Las enseñanzas profesionales de artes plásticas y diseño del sistema educativo comprenden el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones relacionadas con el ámbito del diseño, las artes aplicadas y los oficios artísticos, el acceso al empleo y la participación activa en la vida social, cultural y económica, así como para la actualización y ampliación de las competencias profesionales y personales a lo largo de la vida.
+## Capítulo I. Las enseñanzas profesionales de artes plásticas y diseño: Definición, finalidad y objetivos artículo 1 Definición. Las enseñanzas profesionales de artes plásticas y diseño del sistema educativo comprenden el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones relacionadas con el ámbito del diseño, las artes aplicadas y los oficios artísticos, el acceso al empleo y la participación activa en la vida social, cultural y económica, así como para la actualización y ampliación de las competencias profesionales y personales a lo largo de la vida.
 
 #### Artículo 2. Finalidad de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -113,9 +102,7 @@ f) Desarrollar habilidades y destrezas en las áreas prioritarias contempladas d
 
 2. Asimismo, las enseñanzas profesionales de artes plásticas y diseño fomentarán la igualdad efectiva de oportunidades entre las personas, con independencia de su origen, raza, sexo, discapacidad y demás circunstancias personales o sociales, para el acceso a la formación y el ejercicio profesional.
 
-CAPÍTULO II
-
-Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos
+## Capítulo II. Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Títulos y ciclos formativos.
 
 #### Artículo 4. Títulos de las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -127,7 +114,7 @@ Ordenación de las enseñanzas profesionales de artes plásticas y diseño: Tít
 
 La normas que el Gobierno dicte para establecer los diferentes títulos de Artes Plásticas y Diseño especificarán:
 
-a) Identificación del título: denominación, nivel, duración y familia profesional artística. Referente europeo.
+a) **Identificación del título.** Denominación, nivel, duración y familia profesional artística. Referente europeo.
 
 b) El perfil profesional, que incluirá la competencia general del título, las competencias profesionales que lo constituyen y, en su caso, las cualificaciones profesionales del Catálogo Nacional de Cualificaciones Profesionales que pudieran estar incluidas en el título.
 
@@ -151,9 +138,7 @@ h) Accesos a estudios superiores desde los ciclos formativos de grado superior.
 
 3. Sin perjuicio de lo dispuesto en los apartados anteriores, con el fin de promover la formación a lo largo de la vida, las Administraciones educativas podrán organizar y desarrollar vías formativas que faciliten la formación continua y la actualización permanente de las competencias profesionales de los titulados en Artes Plásticas y Diseño.
 
-CAPÍTULO III
-
-Enseñanzas mínimas
+## Capítulo III. Enseñanzas mínimas.
 
 #### Artículo 7. Establecimiento de las enseñanzas mínimas.
 
@@ -203,9 +188,7 @@ Los ciclos formativos incorporarán en sus enseñanzas aquellos contenidos que s
 
 El Gobierno y las Administraciones educativas, en el ámbito de sus respectivas competencias, incorporarán en las enseñanzas profesionales de artes plásticas y diseño aquellos objetivos y contenidos que garanticen el desarrollo del currículo formativo «diseño para todos», en cumplimiento de lo establecido en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidades.
 
-CAPÍTULO IV
-
-Currículo de los ciclos formativos
+## Capítulo IV. Currículo de los ciclos formativos.
 
 #### Artículo 13. Establecimiento del currículo de los ciclos formativos.
 
@@ -215,9 +198,7 @@ Currículo de los ciclos formativos
 
 3. La metodología didáctica de las enseñanzas profesionales de artes plásticas y diseño integrará los aspectos artísticos, científicos, técnicos, tecnológicos y organizativos que en cada caso correspondan, con el fin de que el alumnado adquiera una visión global de los procesos y procedimientos propios de la actividad profesional correspondiente.
 
-CAPÍTULO V
-
-Acceso y admisión
+## Capítulo V. Acceso y admisión.
 
 #### Artículo 14. Requisitos de acceso a las enseñanzas de profesionales de artes plásticas y diseño.
 
@@ -289,9 +270,7 @@ b) La parte específica, que permitirá valorar las aptitudes y los conocimiento
 
 Las Administraciones educativas podrán establecer, en el ámbito de sus competencias, un porcentaje de plazas de reserva para quienes accedan a las enseñanzas profesionales de artes plásticas y diseño en los supuestos recogidos en los artículos 15 y 16 del presente real decreto.
 
-CAPÍTULO VI
-
-Evaluación y movilidad
+## Capítulo VI. Evaluación y movilidad.
 
 #### Artículo 19. Evaluación y promoción en las enseñanzas profesionales de artes plásticas y diseño.
 
@@ -335,9 +314,7 @@ Evaluación y movilidad
 
 2. Los módulos adaptados figurarán en el expediente académico personal con la denominación de «Adaptado». Cuando sea necesario hacer una ponderación de las calificaciones, los módulos que figuren como adaptados se computarán con la calificación obtenida en el centro de origen.
 
-CAPÍTULO VII
-
-Efectos de los títulos
+## Capítulo VII. Efectos de los títulos.
 
 #### Artículo 22. Efectos de los títulos.
 
@@ -353,9 +330,7 @@ Efectos de los títulos
 
 6. El registro y la expedición de los títulos de Técnico y Técnico Superior de Artes Plásticas y Diseño, se realizará de acuerdo con la normativa estatal básica sobre expedición de títulos académicos y profesionales.
 
-CAPÍTULO VIII
-
-Convalidaciones y exenciones
+## Capítulo VIII. Convalidaciones y exenciones.
 
 #### Artículo 23. Convalidación de módulos formativos.
 
@@ -457,11 +432,10 @@ La Ministra de Educación y Ciencia,
 
 MERCEDES CABRERA CALVO-SOTELO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -473,6 +447,7 @@ MERCEDES CABRERA CALVO-SOTELO
 - **Fundamento de**: [**Resolucion BOC 70**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R6_11_2017_dictan_instrucciones_organizacion_evaluacion_modulos_obra.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

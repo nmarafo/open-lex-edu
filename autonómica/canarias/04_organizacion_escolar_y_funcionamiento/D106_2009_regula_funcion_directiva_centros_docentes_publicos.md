@@ -1,8 +1,7 @@
 ---
 id: norm-can-d-106-2009
 codigo_sintetizado: D106_2009 Funcion Directiva en Centros Docentes Publicos
-titulo: Decreto 106/2009, de 28 de julio, por el que se regula la función directiva
-  en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
+titulo: Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -20,48 +19,43 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Función directiva y liderazgo
 tags:
-- autonomia-gestion
-- becas-y-ayudas
-- equipos-directivos
-- funci-n-directiva-y-liderazgo
-- funcion-directiva
-- profesorado
-- seleccion-directores
+  - autonomia-gestion
+  - becas-y-ayudas
+  - equipos-directivos
+  - funci-n-directiva-y-liderazgo
+  - funcion-directiva
+  - profesorado
+  - seleccion-directores
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
   fundamento_de:
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-juriscan-66772-94
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-o-2013-10-09
+    - norma_id: norm-can-res-095
+    - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-boc-2023-133-57
+    - norma_id: norm-can-res-boc-2026-046-139
+    - norma_id: norm-can-res-juriscan-66772-94
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '62'
-- norma_id: norm-es-lo-2-2006
+    - '62'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '131'
-  - '132'
+    - '131'
+    - '132'
 anexos_extraidos_pdf: true
 ---
-
-## Preámbulo
-
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
+## Preámbulo
 
 Archivo
 
@@ -79,17 +73,19 @@ Anterior
 
 Siguiente
 
-III. OTRAS RESOLUCIONES - Consejería de Agricultura, Ganadería, Pesca y Alimentación
-
 1213 - ORDEN de 28 de julio de 2009, por la que se convocan para el año 2009 las subvenciones previstas en la Medida 421 (Cooperación) del Programa de Desarrollo Rural de Canarias, PDR 2007-2013, y se aprueban las bases que han de regir la misma.
 
 Examinada la iniciativa de la Dirección General de Desarrollo Rural para convocar en el año 2009 las subvenciones previstas en la Medida 421 (Cooperación) del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013", y para aprobar las bases que han de regir las mismas, así como la propuesta formulada por la Secretaría General Técnica en relación con dicha iniciativa, y teniendo en cuenta los siguientes
 
 ANTECEDENTES DE HECHO
 
-Primero.- En el artículo 61 del Reglamento (CE) 1698/2005, del Consejo, de 20 de septiembre, relativo a la ayuda al desarrollo rural a través del FEADER (DO L 277, de 21.10.05), se establece que el enfoque LEADER ha de contar como mínimo con siete elementos, uno de los cuales es la ejecución de proyectos de cooperación, mientras que en su artículo 63 se dispone que dichos proyectos han de estar relacionados con las estrategias de desarrollo de los Grupos de Acción Local.
+Primero.- En el artículo 61 l.
 
-Segundo.- En el artículo 39 del Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre, por el que se aprueban disposiciones de aplicación del Reglamento (CE) 1698/2005 (DO L 368, de 23.12.06), se dispone que la cooperación entrañará la participación de al menos un Grupo de Acción Local seleccionado en virtud del Eje 4 (LEADER), y que serán éstos los que han de asumir la responsabilidad y coordinación en la ejecución de los proyectos correspondientes, sin perjuicio de que también puedan participar como socios las asociaciones de los sectores público y privado a que se refiere la letra e) del artículo 59 del Reglamento (CE) 1698/2005.
+Reglamento (CE) 1698/2005, del Consejo, de 20 de septiembre, relativo a la ayuda al desarrollo rural a través del FEADER (DO L 277, de 21.10.05), se establece que el enfoque LEADER ha de contar como mínimo con siete elementos, uno de los cuales es la ejecución de proyectos de cooperación, mientras que en su artículo 63 se dispone que dichos proyectos han de estar relacionados con las estrategias de desarrollo de los Grupos de Acción Local.
+
+Segundo.- En el artículo 39 l.
+
+Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre, por el que se aprueban disposiciones de aplicación del Reglamento (CE) 1698/2005 (DO L 368, de 23.12.06), se dispone que la cooperación entrañará la participación de al menos un Grupo de Acción Local seleccionado en virtud del Eje 4 (LEADER), y que serán éstos los que han de asumir la responsabilidad y coordinación en la ejecución de los proyectos correspondientes, sin perjuicio de que también puedan participar como socios las asociaciones de los sectores público y privado a que se refiere la letra e) del artículo 59 del Reglamento (CE) 1698/2005.
 
 Tercero.- En coherencia con lo que dispone el "Plan Estratégico Nacional de Desarrollo Rural para 2007-2013" y el "Marco Nacional de Desarrollo Rural 2007-2013", en la Medida 421 del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013" se han previsto las subvenciones que se han de convocar en régimen de concurrencia competitiva para contribuir a la financiación de las actuaciones de cooperación que se acometan en esta Comunidad Autónoma (Cooperación Intrautonómica) con la finalidad, entre otras, de intercambiar experiencias y de poner en común los conocimientos técnicos y los recursos humanos y financieros dispersos en cada una de las comarcas de aplicación, de tal manera que se aprovechen y rentabilicen las complementariedades y los efectos sinérgicos resultantes de la interrelación entre los programas que cada Grupo de Acción Local viene desarrollando en su ámbito insular.
 
@@ -101,17 +97,19 @@ Primero.- La aprobación de esta Orden corresponde a la titular de la Consejerí
 
 Segundo.- Las actividades subvencionables con arreglo a esta convocatoria se ajustan a las disposiciones del Tratado de la Unión Europea y a la normativa que de él se deriva, así como a las políticas y acciones comunitarias, y en particular, a las relativas a la competencia, a la contratación pública, a la protección y mejora del medio ambiente, a la eliminación de las desigualdades y a la consecución de la igualdad entre hombres y mujeres.
 
-Asimismo se ajustan a lo previsto en el artículo 56, en el apartado II), del artículo 52.b) y en el artículo 57 del Reglamento (CE) 1698/2005, del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER), a los Reglamentos (CE) nº 1974/2006, de la Comisión, de 15 de diciembre de 2006, por el que se establecen disposiciones de aplicación del Reglamento (CE) nº 1698/2005, y nº 1975/2006, de la Comisión, de 7 de diciembre de 2006, por el que se establecen disposiciones de aplicación del Reglamento (CE) nº 1698/2005, en lo que respecta a la aplicación de los procedimientos de control y la condicionalidad en relación con las medidas de ayuda al desarrollo rural, y a la Decisión de la Comisión C (2008), de 17 de julio de 2008, por la que se aprueba el Programa de Desarrollo Rural de Canarias (España), y por tanto elegibles o financiables con Fondos FEADER.
+Asimismo se ajustan a lo previsto en el artículo 56, en el apartado II), del artículo 52.b) y en el artículo 57 l.
+
+Reglamento (CE) 1698/2005, del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER), a los Reglamentos (CE) nº 1974/2006, de la Comisión, de 15 de diciembre de 2006, por el que se establecen disposiciones de aplicación del Reglamento (CE) nº 1698/2005, y nº 1975/2006, de la Comisión, de 7 de diciembre de 2006, por el que se establecen disposiciones de aplicación del Reglamento (CE) nº 1698/2005, en lo que respecta a la aplicación de los procedimientos de control y la condicionalidad en relación con las medidas de ayuda al desarrollo rural, y a la Decisión de la Comisión C (2008), de 17 de julio de 2008, por la que se aprueba el Programa de Desarrollo Rural de Canarias (España), y por tanto elegibles o financiables con Fondos FEADER.
 
 Tercero.- En virtud de lo establecido en el artículo 3.1 del Decreto 36/2009, en relación con el ámbito funcional establecido en el artículo 1.2.e) del Reglamento Orgánico de la Consejería de Agricultura, Ganadería, Pesca y Alimentación, aprobado por Decreto 31/2007, de 5 de febrero, corresponde al titular del Departamento la competencia para conceder subvenciones. Por razones de eficacia y agilidad administrativa, dicha competencia se delega en el Director General de Desarrollo Rural al amparo de lo que establece el artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 Vistos los hechos y fundamentos enunciados, y en uso de las facultades que tengo atribuidas,
 
-R E S U E L V O:
+RESUELVO:
 
 Primero.- Convocar para el año 2009 las subvenciones previstas en la Medida 421 (Cooperación) del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013", las cuales tendrán la denominación de Subvenciones a la Cooperación Intrautonómica.
 
-Segundo.- Aprobar las bases por las que se rige la presente convocatoria en los términos del anexo.
+#### Segundo. Aprobar las bases por las que se rige la presente convocatoria en los términos del anexo.
 
 Tercero.- Facultar al Director General de Desarrollo Rural a dictar cuantas actuaciones sean necesarias para el desarrollo de la presente Orden, así como delegar en el mismo la facultad de dictar los actos que pongan fin al procedimiento.
 
@@ -127,7 +125,7 @@ GANADERÍA, PESCA Y ALIMENTACIÓN,
 
 María del Pilar Merino Troncoso.
 
-A N E X O
+## Anexo
 
 BASES DE LA CONVOCATORIA DE 2009 DE LAS SUBVENCIONES A LA COOPERACIÓN INTRAUTONÓMICA PREVISTAS EN LA MEDIDA 421 (COOPERACIÓN) DEL PROGRAMA DE DESARROLLO RURAL DE CANARIAS, PDR 2007-2013.
 
@@ -157,7 +155,7 @@ b) Búsqueda de socios participantes y creación y mantenimiento de una herramie
 
 c) Promoción de colaboraciones externas a la cooperación entre territorios rurales.
 
-d) Programas de formación específica en materia de cooperación: formación de formadores, formación de empresarios y de representantes sociales interesados en la cooperación, formación de coordinadores de proyectos y apoyo a los grupos coordinadores en las labores inherentes a su condición.
+d) **Programas de formación específica en materia de cooperación.** Formación de formadores, formación de empresarios y de representantes sociales interesados en la cooperación, formación de coordinadores de proyectos y apoyo a los grupos coordinadores en las labores inherentes a su condición.
 
 e) Recopilación y divulgación de buenas prácticas en materia de cooperación.
 
@@ -197,7 +195,9 @@ h) Los gastos de reparación y mantenimiento, así como la sustitución de equip
 
 i) Los indicados en el artículo 31, apartados 7, 8 y 9, de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, salvo los gastos de asesoramiento contable, jurídico y fiscal, gastos de suscripción del acuerdo o convenio de cooperación y/o de constitución de la estructura jurídica común y los de garantía bancaria que sí serán objeto de subvención.
 
-j) Los indicados en el artículo 71 del Reglamento (CE) nº 1698/2005, del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
+j) Los indicados en el artículo 71 l.
+
+Reglamento (CE) nº 1698/2005, del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
 
 Base 2.- Requisitos.
 
@@ -221,7 +221,7 @@ c) Dirección y coordinación del proyecto.
 
 d) Control y seguimiento del proyecto de cooperación, en todos sus aspectos (técnicos, financieros, de participación, etc.).
 
-e) Dirección y coordinación de la "post-ejecución". Cierre financiero del proyecto y promoción del proyecto y divulgación a la población.
+e) **Dirección y coordinación de la "post-ejecución".** Cierre financiero del proyecto y promoción del proyecto y divulgación a la población.
 
 5. Los gastos del grupo coordinador generados en el ejercicio de las funciones de coordinación se imputarán al proyecto de cooperación.
 
@@ -287,7 +287,9 @@ Base 7.- Procedimiento de concesión.
 
 1. La solicitud acompañada de la documentación que resulte preceptiva se presentará ante la Consejería de Agricultura, Ganadería, Pesca y Alimentación del Gobierno de Canarias, en las Agencias de Extensión Agraria, o en cualesquiera de las dependencias o formas previstas en el Decreto 164/1994, de 29 de julio, por el que se adaptan los procedimientos administrativos de la Comunidad Autónoma a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-Las solicitudes presentadas en las Agencias de Extensión Agraria deberán remitirse a la Consejería de Agricultura, Ganadería, Pesca y Alimentación, en cumplimiento de lo establecido en la Disposición Adicional Quinta y en el artículo 3 del Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos de los registros de la Administración Autonómica de Canarias, con carácter inmediato y siempre dentro de las 24 horas siguientes a su recepción.
+Las solicitudes presentadas en las Agencias de Extensión Agraria deberán remitirse a la Consejería de Agricultura, Ganadería, Pesca y Alimentación, en cumplimiento de lo establecido en la Disposición Adicional Quinta y en el artículo 3 l.
+
+Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos de los registros de la Administración Autonómica de Canarias, con carácter inmediato y siempre dentro de las 24 horas siguientes a su recepción.
 
 2. La Dirección General de Desarrollo Rural llevará a cabo los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los datos en virtud de los cuales deba pronunciarse la resolución, de conformidad con lo establecido en el artículo 16.3 del Decreto 36/2009, de 31 de marzo, por el que se establece el régimen general de subvenciones de la Comunidad Autónoma de Canarias. En concreto, una vez recibida la solicitud, examinará si reúne los requisitos exigidos y si se acompaña la documentación preceptiva, requiriéndose en caso contrario al interesado para que en el plazo de 10 días hábiles, a contar desde la notificación del requerimiento, subsane o complete los documentos o datos que deban presentarse, advirtiéndole de que si así no lo hiciera se le tendrá por desistido de su petición, previa resolución que será dictada en los términos previstos en el artículo 42 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
@@ -345,7 +347,9 @@ c) Que no ha sido acordada por el órgano concedente de la subvención, como med
 
 Base 10.- Anticipo de la subvención.
 
-Sin perjuicio de lo que se dispone en los apartados anteriores, la concesión de anticipos está condicionada a la aprobación por la Comisión Europea de las modificaciones realizadas a tal efecto en el PDR de Canarias 2007-2013, y deberán cumplir con los límites máximos y los requisitos previos a su liquidación que se establecen en el primer párrafo del apartado 2 del artículo 56 del Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre (DO L 368, de 23.12.06), modificado a través del apartado 9 del artículo 1 del Reglamento (CE) 363/2009, de la Comisión, de 4 de mayo (DO L 111, de 5.5.09).
+Sin perjuicio de lo que se dispone en los apartados anteriores, la concesión de anticipos está condicionada a la aprobación por la Comisión Europea de las modificaciones realizadas a tal efecto en el PDR de Canarias 2007-2013, y deberán cumplir con los límites máximos y los requisitos previos a su liquidación que se establecen en el primer párrafo del apartado 2 del artículo 56 l.
+
+Reglamento (CE) 1974/2006, de la Comisión, de 15 de diciembre (DO L 368, de 23.12.06), modificado a través del apartado 9 del artículo 1 del Reglamento (CE) 363/2009, de la Comisión, de 4 de mayo (DO L 111, de 5.5.09).
 
 Base 11.- Plazos y medios de justificación.
 
@@ -363,7 +367,9 @@ Base 11.- Plazos y medios de justificación.
 
 5. Los justificantes que habrán de aportarse serán los correspondientes a los gastos efectivamente pagados por los beneficiarios con arreglo a la normativa de aplicación contenida en el Reglamento (CE) nº 1698/2005, del Consejo, de 20 de septiembre, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
 
-6. En relación con lo que exige el apartado ñ) del artículo 10 del Decreto 36/2009, de 31 de marzo, los beneficiarios han de dar publicidad del carácter público de la financiación de los proyectos de cooperación aprobados, siéndoles de aplicación las normas a que se refiere el artículo 58.3 del Reglamento (CE) 1974/2006 de la Comisión, de 15 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1698/2005.
+6. En relación con lo que exige el apartado ñ) del artículo 10 l.
+
+Decreto 36/2009, de 31 de marzo, los beneficiarios han de dar publicidad del carácter público de la financiación de los proyectos de cooperación aprobados, siéndoles de aplicación las normas a que se refiere el artículo 58.3 del Reglamento (CE) 1974/2006 de la Comisión, de 15 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1698/2005.
 
 Base 12.- Obligaciones de los beneficiarios.
 
@@ -407,17 +413,16 @@ Para lo no establecido en estas bases se estará a lo dispuesto en el Reglamento
 
 Asimismo se estará a lo dispuesto en los preceptos básicos de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en su Reglamento de desarrollo, aprobado por Real Decreto 887/2006, de 21 de julio, y en el Decreto 36/2009, de 31 de marzo, por el que se establece el régimen general de subvenciones de la Comunidad Autónoma de Canarias, en todo aquello que no se oponga o contradiga a los preceptos básicos de la citada Ley y de su Reglamento.
 
-## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+## Anexo. S COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
-### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2009/151/boc-2009-151-anexo-17626.pdf
+## Anexo. Fuente: https://www.gobiernodecanarias.org/boc/2009/151/boc-2009-151-anexo-17626.pdf
 
 A N E X O I
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
@@ -433,5 +438,6 @@ A N E X O I
 - **Fundamento de**: [**Resolucion BOC 94**](./R12_1_2012_dictan_instrucciones_procedimiento_establecen_indicadores_evaluacion.md)
 
 ### Fundamentos de Derecho
+
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

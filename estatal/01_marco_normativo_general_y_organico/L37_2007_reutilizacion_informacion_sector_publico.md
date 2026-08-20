@@ -1,12 +1,10 @@
 ---
 id: norm-es-2007-19814
 codigo_sintetizado: BOE-A-2007-19814
-titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del
-  sector público.
+titulo: Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-11-17'
 boletin: BOE
@@ -17,37 +15,34 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- empleados-p-blicos
-- equipos-directivos
-- transparencia
+  - empleados-p-blicos
+  - equipos-directivos
+  - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-es-2011-17560
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-9-2017
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2011-17560
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-9-2017
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-3-2018
+    - '1'
+    - norma_id: norm-es-lo-3-2018
   articulos:
-  - '1'
-- norma_id: norm-es-1999-23750
+    - '1'
+    - norma_id: norm-es-1999-23750
 ---
+# Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 ## Preámbulo
-
-# Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
-
-# Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 **JUAN CARLOS I**
 
@@ -57,15 +52,15 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-## PREÁMBULO
-
 La información generada desde las instancias públicas, con la potencialidad que le otorga el desarrollo de la sociedad de la información, posee un gran interés para las empresas a la hora de operar en sus ámbitos de actuación, contribuir al crecimiento económico y la creación de empleo, y para los ciudadanos como elemento de transparencia y guía para la participación democrática. Recogiendo ambas aspiraciones la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, se adoptó con la finalidad de explotar el potencial de información del sector público y superar las barreras de un mercado europeo fragmentado estableciendo unos criterios homogéneos, asentados en condiciones equitativas, proporcionadas y no discriminatorias para el tratamiento de la información susceptible de ser reutilizada por personas físicas o jurídicas.
 
 Las diferentes Administraciones y organismos del sector público recogen, producen, reproducen y difunden documentos para llevar a cabo la misión de servicio público que tienen encomendada. Como expresa la Directiva 2003/98/CE, la utilización de dichos documentos por otros motivos, ya sea con fines comerciales o no comerciales, constituye una reutilización. Por una parte, se persigue armonizar la explotación de la información en el sector público, en especial la información en soporte digital recopilada por sus distintos organismos relativa a numerosos ámbitos de interés como la información social, económica, jurídica, geográfica, meteorológica, turística, sobre empresas, patentes y educación, etc., al objeto de facilitar la creación de productos y servicios de información basados en documentos del sector público, y reforzar la eficacia del uso transfronterizo de estos documentos por parte de los ciudadanos y de las empresas privadas para que ofrezcan productos y servicios de información de valor añadido. Por otra parte, la publicidad de todos los documentos de libre disposición que obran en poder del sector público referentes no sólo a los procedimientos políticos, sino también a los judiciales, económicos y administrativos, es un instrumento esencial para el desarrollo del derecho al conocimiento, que constituye un principio básico de la democracia.
 
 Estos objetivos son los que persigue la presente ley, que mediante la incorporación a nuestro ordenamiento jurídico de la Directiva 2003/98/CE y, tomando como punto de partida el diverso tratamiento que las Administraciones y organismos del sector público han otorgado a la explotación de la información, dispone un marco general mínimo para las condiciones de reutilización de los documentos del sector público que acoja las diferentes modalidades que se pueden adoptar y que dimanan de la heterogeneidad de la propia información. En consecuencia, se prevé que sean las Administraciones y organismos del sector público los que decidan autorizar o no la reutilización de los documentos o categorías de documentos por ellos conservados con fines comerciales o no comerciales. Asimismo, se pretende promover la puesta a disposición de los documentos por medios electrónicos, propiciando el desarrollo de la sociedad de la información.
 
-La ley posee unos contornos específicos que la delimitan del régimen general de acceso previsto en el artículo 105 b) de la Constitución Española y en su desarrollo legislativo, en esencia representado por la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. En este sentido resulta necesario precisar que no se modifica el régimen de acceso a los documentos administrativos consagrado en nuestro ordenamiento jurídico, sino que se aporta un valor añadido al derecho de acceso, contemplando el marco de regulación básico para la explotación de la información que obra en poder del sector público, en un marco de libre competencia, regulando las condiciones mínimas a las que debe acogerse un segundo nivel de tratamiento de la información que se genera desde las instancias públicas.
+La ley posee unos contornos específicos que la delimitan del régimen general de acceso previsto en el artículo 105 b).
+
+de la Constitución Española y en su desarrollo legislativo, en esencia representado por la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. En este sentido resulta necesario precisar que no se modifica el régimen de acceso a los documentos administrativos consagrado en nuestro ordenamiento jurídico, sino que se aporta un valor añadido al derecho de acceso, contemplando el marco de regulación básico para la explotación de la información que obra en poder del sector público, en un marco de libre competencia, regulando las condiciones mínimas a las que debe acogerse un segundo nivel de tratamiento de la información que se genera desde las instancias públicas.
 
 En el Título I de la ley se prevé el ámbito subjetivo de aplicación, que se extiende a las Administraciones y organismos del sector público en el sentido definido en su artículo 2, en consonancia con la delimitación realizada en la normativa de contratación del sector público. Desde la perspectiva de su aplicación objetiva, la ley contempla una definición genérica del término documento, acorde con la evolución de la sociedad de la información y que engloba todas las formas de representación de actos, hechos o información, y cualquier recopilación de los mismos, independientemente del soporte (escrito en papel, almacenado en forma electrónica o como grabación sonora, visual o audiovisual) conservados por las Administraciones y organismos del sector público, e incluye una delimitación negativa del ámbito de aplicación, enumerando aquellos documentos o categorías de documentos que no se encuentran afectados por la misma, atendiendo a diversos criterios. En este punto cabe precisar que la ley no se aplica a los documentos sometidos a derechos de propiedad intelectual o industrial (como las patentes, los diseños y las marcas registradas) especialmente por parte de terceros. A los efectos de esta ley se entiende por derechos de propiedad intelectual los derechos de autor y derechos afines, incluidas las formas de protección sui géneris. En este sentido, la ley tampoco afecta a la existencia de derechos de propiedad intelectual de las Administraciones y organismos del sector público, ni restringe en modo alguno el ejercicio de esos derechos fuera de los límites establecidos en su articulado. Las obligaciones impuestas por esta ley sólo deben aplicarse en la medida en que resulten compatibles con las disposiciones de los acuerdos internacionales sobre protección de los derechos de propiedad intelectual, en particular el Convenio de Berna para la protección de las obras literarias y artísticas (Convenio de Berna) y el Acuerdo sobre aspectos de los derechos de propiedad intelectual relacionados con el comercio (Acuerdo ADPIC). No obstante, las instancias públicas deben ejercer sus derechos de autor de una manera que facilite la reutilización.
 
@@ -85,11 +80,13 @@ En el Título III la ley establece el procedimiento para poder arbitrar las soli
 
 Por último se establece para la Administración General del Estado un régimen sancionador conectado con el mal uso que se confiera a la información cuya reutilización ha sido autorizada.
 
-La presente Ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
+La presente Ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los.
+
+apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
 
 En la elaboración de la ley se ha recabado el informe de la Agencia Española de Protección de Datos.
 
-## TÍTULO I
+## Título I
 
 **Disposiciones generales**
 
@@ -145,11 +142,11 @@ f) Los documentos conservados por las entidades que gestionen los servicios esen
 
 g) Los documentos conservados por instituciones educativas y de investigación, tales como centros escolares, universidades, archivos, bibliotecas y centros de investigación, con inclusión de organizaciones creadas para la transferencia de los resultados de la investigación.
 
-h) los documentos conservados por instituciones culturales tales como museos, bibliotecas, archivos históricos, orquestas, óperas, ballets y teatros.
+h) Los documentos conservados por instituciones culturales tales como museos, bibliotecas, archivos históricos, orquestas, óperas, ballets y teatros.
 
 4. Lo previsto en esta ley no restringirá las previsiones más favorables que sobre acceso o reutilización se establezcan en las leyes sectoriales.
 
-## TÍTULO II
+## Título II
 
 **Régimen jurídico de la reutilización**
 
@@ -163,7 +160,9 @@ a) Reutilización de documentos puestos a disposición del público sin sujeció
 
 b) Reutilización de documentos puestos a disposición del público con sujeción a condiciones establecidas en licencias-tipo.
 
-c) Reutilización de documentos previa solicitud, conforme al procedimiento previsto en el artículo 10 o, en su caso, en la normativa autonómica, pudiendo incorporar en estos supuestos condiciones establecidas en una licencia.
+c) Reutilización de documentos previa solicitud, conforme al procedimiento previsto en el artículo 10 o,.
+
+en su caso, en la normativa autonómica, pudiendo incorporar en estos supuestos condiciones establecidas en una licencia.
 
 3. Las condiciones incorporadas en las licencias habrán de respetar los siguientes criterios:
 
@@ -225,7 +224,7 @@ d) Que se mencione la fecha de la última actualización.
 
 En los casos en los que se otorgue una licencia, ésta deberá reflejar, al menos, la información relativa a la finalidad concreta, comercial o no comercial, para la que se concede la reutilización, la duración de la licencia, las obligaciones del beneficiario y del organismo concedente, las responsabilidades de uso y modalidades financieras, indicándose el carácter gratuito o, en su caso, la tasa o precio público aplicable.
 
-## TÍTULO III
+## Título III
 
 **Procedimiento y régimen sancionador**
 
@@ -311,11 +310,15 @@ El Gobierno, a propuesta de los Ministerios competentes, desarrollará planes y 
 
 #### Disposición transitoria única. Régimen transitorio aplicable a los acuerdos exclusivos.
 
-Los acuerdos exclusivos existentes a los que no se aplique la excepción contemplada en el artículo 6 concluirán cuando expire el contrato y, en cualquier caso, no más tarde del 31 de diciembre de 2008.
+Los acuerdos exclusivos existentes a los que no se aplique la excepción contemplada en el artículo 6 concluirán.
+
+cuando expire el contrato y, en cualquier caso, no más tarde del 31 de diciembre de 2008.
 
 #### Disposición final primera. Fundamento constitucional.
 
-La presente ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
+La presente ley tiene carácter de legislación básica al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Se exceptúa el artículo 11 y los.
+
+apartados 1 (párrafos segundo y tercero), 3 y 8 del artículo 10.
 
 #### Disposición final segunda. Desarrollo reglamentario.
 
@@ -335,11 +338,10 @@ El Presidente del Gobierno,
 
 JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -349,6 +351,7 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)

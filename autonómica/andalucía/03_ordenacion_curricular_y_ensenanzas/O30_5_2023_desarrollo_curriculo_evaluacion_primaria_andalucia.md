@@ -1,14 +1,10 @@
 ---
 id: norm-and-o-30-5-2023-primaria
 codigo_sintetizado: O30_5_2023 Desarrollo Curriculo y Evaluacion Primaria Andalucia
-titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente
-  a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan
-  determinados aspectos de la atención a la diversidad y se establece la ordenación
-  de la evaluación del proceso de aprendizaje del alumnado.
+titulo: Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 30/05/2023
 fecha_disposicion: '2023-05-30'
@@ -22,22 +18,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- curriculo_primaria
-- evaluacion_primaria
-- atencion_diversidad
-- andalucia
+  - curriculo_primaria
+  - evaluacion_primaria
+  - atencion_diversidad
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 ## Preámbulo
-
-# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
 
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
 
@@ -77,35 +72,19 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2023
 Boletín 104
 
 ##
 
-Histórico del BOJA
-Boletín número 104 de
-02/06/2023
+Histórico del BOJA Boletín número 104 de 02/06/2023
 
 ## 1. Disposiciones generales
 
-### Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa
+### Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa
 
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
 
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00284641.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00284641.
 
 Vivimos en un momento en el que la globalización y las tecnologías digitales están transformando radicalmente la vida diaria de las personas y el modo en que la sociedad se organiza a nivel mundial. Los cambios más relevantes y de mayor impacto que se han producido en las últimas décadas en nuestra sociedad son fruto de una revolución tecnológica sin precedentes, que ha cambiado nuestra forma de ver y entender el mundo, modificando las reglas en los ámbitos económico, social y político. Este nuevo escenario no es sólo fruto del proceso de digitalización en el que estamos inmersos, pero son las tecnologías de la información y la comunicación (TIC) las que están habilitando las principales transformaciones.
 
@@ -143,11 +122,11 @@ En su virtud, a propuesta del Consejero de la Presidencia, Interior, Diálogo So
 
 ACUERDO
 
-Primero. Formulación de la I Estrategia Cloud de Andalucía 2030.
+#### Primero. Formulación de la I Estrategia Cloud de Andalucía 2030.
 
 Se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030 (en adelante la Estrategia), cuya elaboración y aprobación se realizará conforme a las determinaciones establecidas en el presente acuerdo.
 
-Segundo. Fines.
+#### Segundo. Fines.
 
 La Estrategia se conforma como el conjunto integrado de medidas dirigidas a implementar un sistema de planificación de actuaciones para impulsar el uso de infraestructuras en la nube en la Administración de la Junta de Andalucía, siendo sus fines:
 
@@ -167,7 +146,7 @@ La Estrategia se conforma como el conjunto integrado de medidas dirigidas a impl
 
 8. Apostar por un modelo de crecimiento de las infraestructuras tecnológicas de la Administración de la Junta de Andalucía que atienda a criterios de sostenibilidad y transición ecológica, contribuyendo a la consecución de los Objetivos de Desarrollo Sostenible (ODS) y las metas establecidas en la Agenda 2030.
 
-Tercero. Contenido.
+#### Tercero. Contenido.
 
 La Estrategia incluirá, al menos, los siguientes contenidos:
 
@@ -183,7 +162,7 @@ La Estrategia incluirá, al menos, los siguientes contenidos:
 
 6. El establecimiento de un sistema de seguimiento y evaluación de la Estrategia.
 
-Cuarto. Proceso de elaboración y aprobación.
+#### Cuarto. Proceso de elaboración y aprobación.
 
 La Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, a través de la Agencia Digital de Andalucía, será responsable y coordinará la elaboración de la Estrategia.
 
@@ -197,11 +176,11 @@ El proceso de elaboración será el siguiente:
 
 4. La Agencia Digital de Andalucía propondrá a la persona titular de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa el texto de la Estrategia, que elevará al Consejo de Gobierno para su aprobación definitiva.
 
-Quinto. Desarrollo y ejecución.
+#### Quinto. Desarrollo y ejecución.
 
 Se faculta a la persona titular de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa para adoptar los actos necesarios para el desarrollo y ejecución de este acuerdo.
 
-Sexto. Eficacia.
+#### Sexto. Eficacia.
 
 El presente acuerdo surtirá efectos a partir del día siguiente al de su publicación en el
 
@@ -213,17 +192,13 @@ Presidente de la Junta de Andalucía
 
 ANTONIO SANZ CABELLO
 
-Consejero de la Presidencia, Interior, Diálogo Social  y Simplificación Administrativa
+Consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa
 
-<a target="_blank" href="BOJA23-104-00005-9616-01_00284641.pdf"
-class="item_pdf_disposicion item_pdf_grupo"
-title="Descargar PDF de la disposición"> Descargar PDF
+<a target="_blank" href="BOJA23-104-00005-9616-01_00284641.pdf" class="item_pdf_disposicion item_pdf_grupo" title="Descargar PDF de la disposición"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº 104 de 02/06/2023
-
-Disposiciones generales
+### Disposiciones generales
 
 Autoridades y personal
 
@@ -252,3 +227,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

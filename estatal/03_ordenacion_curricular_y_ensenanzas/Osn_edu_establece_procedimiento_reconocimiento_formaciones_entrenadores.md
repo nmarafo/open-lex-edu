@@ -1,13 +1,10 @@
 ---
 id: norm-es-2011-2615
 codigo_sintetizado: BOE-A-2011-2615
-titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento
-  de reconocimiento de las formaciones de entrenadores deportivos en las modalidades
-  de fútbol y fútbol sala.
+titulo: Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-02-11'
 boletin: BOE
@@ -18,42 +15,39 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-- consejo-escolar
-- curriculo
-- ense-anzas-deportivas
-- ensenanzas-deportivas
-- formacion-profesional
-- grado-medio
-- grado-superior
-- oposiciones
-- titulacion
+  - consejo-escolar
+  - curriculo
+  - ense-anzas-deportivas
+  - ensenanzas-deportivas
+  - formacion-profesional
+  - grado-medio
+  - grado-superior
+  - oposiciones
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2000-5990
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2000-5990
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2000-5990
-- norma_id: norm-es-2007-19326
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2000-5990
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 ## Preámbulo
-
-# Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
-
-# Orden EDU/216/2011, de 8 de febrero, por la que se establece el procedimiento de reconocimiento de las formaciones de entrenadores deportivos en las modalidades de fútbol y fútbol sala.
 
 El [Real Decreto 320/2000](RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md), de 3 de marzo, estableció los títulos de Técnico Deportivo y Técnico Deportivo Superior en fútbol y fútbol sala, aprobó las correspondientes enseñanzas mínimas y reguló las pruebas de acceso a estas enseñanzas.
 
@@ -119,7 +113,9 @@ c) Estar acreditadas con las actas y plan de estudios, con expresión de la carg
 
 #### Artículo 7. Obtención individual del reconocimiento.
 
-Quienes acrediten haber superado la formación a la que se refiere el artículo 6 y se encuentren relacionados en las correspondientes actas, podrán solicitar el efecto de reconocimiento previsto en el artículo 4 mediante el modelo establecido en el anexo I.
+Quienes acrediten haber superado la formación a la que se refiere el artículo 6 y se.
+
+encuentren relacionados en las correspondientes actas, podrán solicitar el efecto de reconocimiento previsto en el artículo 4 mediante el modelo establecido en el anexo I.
 
 #### Artículo 8. Requisitos.
 
@@ -145,7 +141,9 @@ a) Acreditar la condición de Instructor de Juveniles de fútbol o Instructor de
 
 b) Acreditar el título de Graduado en Educación Secundaria Obligatoria establecido en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, o equivalente a efectos académicos, o acreditar cualquiera de las condiciones que a efectos de acceso se detallan en la disposición adicional duodécima.1 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 
-c) Estar matriculado en un centro autorizado previsto en el artículo 45 del [Real Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, a fin de completar las enseñanzas de fútbol o fútbol sala.
+c) Estar matriculado en un centro autorizado previsto en el artículo 45 l [Real.
+
+Decreto 1363/2007](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, a fin de completar las enseñanzas de fútbol o fútbol sala.
 
 #### Artículo 9. Prueba de conjunto.
 
@@ -169,7 +167,9 @@ b) Podrá efectuar una sola matrícula para superar la prueba de conjunto, que l
 
 #### Artículo 11. Resolución de los procedimientos.
 
-1. La resolución de los expedientes de homologación a los que se refiere el artículo 4 será dictada por el Ministro de Educación o por el titular de la Consejería competente en materia de educación de la Comunidad autónoma de que se trate, de acuerdo con el modelo que se incluye como anexo III.
+1. La resolución de los expedientes de homologación a los que se refiere el artículo 4 será.
+
+dictada por el Ministro de Educación o por el titular de la Consejería competente en materia de educación de la Comunidad autónoma de que se trate, de acuerdo con el modelo que se incluye como anexo III.
 
 2. El certificado al que se refiere el artículo 4.c) se expedirá en la forma que determine la correspondiente Administración educativa.
 
@@ -183,21 +183,20 @@ La presente orden se dicta en base a las competencias que se atribuyen al Estado
 
 Madrid, 8 de febrero de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
-ANEXO I
+## Anexo I
 
 Modelo de solicitud para iniciar el procedimiento
 
-ANEXO II
+## Anexo II
 
-ANEXO III
+## Anexo III
 
 Modelo de Resolución
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
 - **Fundamentado en**: [**BOE-A-2007-19326**](./RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -206,6 +205,7 @@ Modelo de Resolución
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)

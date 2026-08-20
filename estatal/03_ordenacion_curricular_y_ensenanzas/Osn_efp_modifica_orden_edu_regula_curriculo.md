@@ -1,15 +1,10 @@
 ---
 id: norm-es-2022-15953
 codigo_sintetizado: BOE-A-2022-15953
-titulo: Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010,
-  de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas
-  al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble
-  titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como
-  los requisitos para su obtención.
+titulo: Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-10-01'
 boletin: BOE
@@ -20,98 +15,105 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- bachillerato
-- curriculo
-- eso
-- evaluacion
-- profesorado
-- titulacion
+  - bachillerato
+  - curriculo
+  - eso
+  - evaluacion
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2010-4130
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-243-2022
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2010-4130
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-243-2022
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-2010-4130
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-rd-243-2022
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-4130
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-es-2010-12201
 ---
+# Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 ## Preámbulo
 
-# Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
+El Acuerdo Marco firmado por el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, de 16 de mayo de 2005, preveía ya, en su artículo 7, una posible integración de los currículos respectivos de educación secundaria, con el fin de obtener la doble titulación a través de una prueba externa al final del Bachillerato.
 
-# Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
+Al amparo de este acuerdo, se sellaría posteriormente el Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a la doble titulación de Bachiller y de Baccalauréat, hecho «ad referendum» en París el 10 de enero de 2008, con el objetivo de establecer un marco de cooperación educativa que permitiera otorgar simultáneamente los títulos de Bachiller y de Baccalauréat.
 
-El Acuerdo Marco firmado por el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, de 16 de mayo de 2005, preveía ya, en su artículo 7, una posible integración de los currículos respectivos de educación secundaria, con el fin de obtener la doble titulación a través de una prueba externa al final del Bachillerato.
+En el contexto de dicho marco se dictó el [Real Decreto 102/2010](RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles. El citado real decreto dispone en su artículo 2 que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y de Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
 
-Al amparo de este acuerdo, se sellaría posteriormente el Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a la doble titulación de Bachiller y de Baccalauréat, hecho «ad referendum» en París el 10 de enero de 2008, con el objetivo de establecer un marco de cooperación educativa que permitiera otorgar simultáneamente los títulos de Bachiller y de Baccalauréat.
+Finalmente, con objeto de regular dicho currículo mixto, y conforme a lo establecido por la Comisión de seguimiento prevista en el artículo 7 l.
 
-En el contexto de dicho marco se dictó el [Real Decreto 102/2010](RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles. El citado real decreto dispone en su artículo 2 que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y de Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
+citado Acuerdo de Doble Titulación, se publicó la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención. La citada orden establece en su artículo 2.2 que las materias específicas de este currículo mixto deberán respetar los aspectos básicos del Bachillerato español en su configuración curricular, integrando estos con los contenidos y métodos pedagógicos propios del sistema educativo francés.
 
-Finalmente, con objeto de regular dicho currículo mixto, y conforme a lo establecido por la Comisión de seguimiento prevista en el artículo 7 del citado Acuerdo de Doble Titulación, se publicó la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención. La citada orden establece en su artículo 2.2 que las materias específicas de este currículo mixto deberán respetar los aspectos básicos del Bachillerato español en su configuración curricular, integrando estos con los contenidos y métodos pedagógicos propios del sistema educativo francés.
+La reforma educativa operada por la [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, introdujo, entre otras cuestiones, cambios sustanciales en el currículo de Bachillerato. Dichos cambios fueron desarrollados en la Orden ECD/1961/2015, de 24 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
-La reforma educativa operada por la [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, introdujo, entre otras cuestiones, cambios sustanciales en el currículo de Bachillerato. Dichos cambios fueron desarrollados en la Orden ECD/1961/2015, de 24 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, propone un nuevo modelo de currículo que implica la modificación de algunos de sus elementos básicos. De acuerdo con la nueva redacción dada al artículo 6.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se entiende por currículo el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la citada ley. Además, en el apartado 3 de ese mismo artículo, se indica que, con el fin de asegurar una formación común y garantizar la validez de los títulos correspondientes, el Gobierno, previa consulta a las comunidades autónomas, fijará, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del currículo, que constituyen las enseñanzas mínimas. Por su parte, el apartado 1.c) del artículo 6 bis de la Ley Orgánica 2/2006, de 3 de mayo, reitera que corresponde al Gobierno la fijación de dichas enseñanzas mínimas.
 
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, propone un nuevo modelo de currículo que implica la modificación de algunos de sus elementos básicos. De acuerdo con la nueva redacción dada al artículo 6.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se entiende por currículo el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la citada ley. Además, en el apartado 3 de ese mismo artículo, se indica que, con el fin de asegurar una formación común y garantizar la validez de los títulos correspondientes, el Gobierno, previa consulta a las comunidades autónomas, fijará, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del currículo, que constituyen las enseñanzas mínimas. Por su parte, el apartado 1.c) del artículo 6 bis de la Ley Orgánica 2/2006, de 3 de mayo, reitera que corresponde al Gobierno la fijación de dichas enseñanzas mínimas.
+Publicado el [Real Decreto 243/2022](RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, que desarrolla lo previsto en la nueva ley orgánica, es preciso modificar ahora lo establecido en la citada Orden EDU/2157/2010, de 30 de julio, con el objeto de garantizar la adecuada correlación entre lo dispuesto en la normativa específica aplicable a los centros españoles que imparten el programa Bachibac con respecto a la ordenación curricular de las materias que integran el currículo mixto, y lo que determina el marco regulador del sistema educativo español en relación con las materias comunes en las que aquellas se integran.
 
-Publicado el [Real Decreto 243/2022](RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, que desarrolla lo previsto en la nueva ley orgánica, es preciso modificar ahora lo establecido en la citada Orden EDU/2157/2010, de 30 de julio, con el objeto de garantizar la adecuada correlación entre lo dispuesto en la normativa específica aplicable a los centros españoles que imparten el programa Bachibac con respecto a la ordenación curricular de las materias que integran el currículo mixto, y lo que determina el marco regulador del sistema educativo español en relación con las materias comunes en las que aquellas se integran.
-
-La presente orden se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas que conforman el programa de doble titulación conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+La presente orden se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas que conforman el programa de doble titulación conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 En la tramitación de esta orden ha emitido dictamen el Consejo Escolar del Estado y han sido consultadas las comunidades autónomas en el seno de la Comisión General de Educación de la Conferencia Sectorial de Educación.
 
 En virtud de lo expuesto, dispongo:
 
-#### Artículo único. Modificación de la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
+#### Artículo único. Modificación de la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
-La Orden 2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención, se modifica del siguiente modo:
+La Orden 2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención, se modifica del siguiente modo:
 
-Uno. El artículo 3 queda redactado en los siguientes términos:
+Uno. El artículo 3 queda.
 
-#### «Artículo 3. Asignación horaria.
+redactado en los siguientes términos:
+
+#### «Artículo 3. Asignación horaria.
 
 El currículo mixto respetará en todo caso la estructura y la carga horaria del sistema educativo español, teniendo en cuenta la proporción que corresponda a las enseñanzas mínimas establecidas con carácter estatal. Únicamente el horario asignado a la materia de Lengua y Literatura Francesas y a la materia de Historia de España y de Francia se incrementará, al menos, una hora lectiva a la semana con el fin de alcanzar los objetivos de este currículo mixto.»
 
-Dos. Los apartados 2 y 3 del artículo 5 quedan redactados en los siguientes términos:
+Dos. Los apartados 2 y 3 del artículo 5 quedan.
+
+redactados en los siguientes términos:
 
 «2. El ejercicio escrito tendrá una duración total de cuatro horas y constará de dos partes:
 
-a) La primera parte tendrá una duración de dos horas. A partir de un texto que podrá ir acompañado de un documento gráfico, el alumno o alumna deberá realizar un comentario respondiendo a unas cuestiones que permitan evaluar su comprensión, así como una redacción sobre el texto propuesto.
+a) **La primera parte tendrá una duración de dos horas.** A partir de un texto que podrá ir acompañado de un documento gráfico, el alumno o alumna deberá realizar un comentario respondiendo a unas cuestiones que permitan evaluar su comprensión, así como una redacción sobre el texto propuesto.
 
-b) La segunda parte tendrá también una duración de dos horas, y consistirá en la elaboración de un ensayo sobre uno de los temas de estudio fijados cada dos años por la Comisión de seguimiento, a partir del programa de literatura relativo a las obras y autores y autoras de los siglos XIX, XX y XXI.
+b) La segunda parte tendrá también una duración de dos horas, y consistirá en la elaboración de un ensayo sobre uno de los temas de estudio fijados cada dos años por la Comisión de seguimiento, a partir del programa de literatura relativo a las obras y autores y autoras de los siglos XIX, XX y XXI.
 
-3. El ejercicio oral constará de dos partes y tendrá una duración de entre 35 y 40 minutos.
+3. El ejercicio oral constará de dos partes y tendrá una duración de entre 35 y 40 minutos.
 
-a) En la primera, de 20 minutos, el alumno o alumna preparará un tema a partir de un texto y/o documento gráfico propuesto, relacionado con el currículo de 2.º curso de Bachillerato.
+a) En la primera, de 20 minutos, el alumno o alumna preparará un tema a partir de un texto y/o documento gráfico propuesto, relacionado con el currículo de 2.º curso de Bachillerato.
 
-b) Durante la segunda, de entre 15 y 20 minutos, el tribunal evaluará la comprensión y expresión oral del alumno o alumna, quien actuará tanto individualmente como en interacción, a partir del documento propuesto.»
+b) Durante la segunda, de entre 15 y 20 minutos, el tribunal evaluará la comprensión y expresión oral del alumno o alumna, quien actuará tanto individualmente como en interacción, a partir del documento propuesto.»
 
-Tres. El artículo 8 queda redactado en los siguientes términos:
+Tres. El artículo 8 queda.
 
-#### «Artículo 8. Calificación final para la obtención del título de Baccalauréat.
+redactado en los siguientes términos:
 
-La calificación final para la obtención del título de Baccalauréat se calculará ponderando un 70 por ciento la nota media de bachillerato y un 30 por ciento la calificación global de la prueba externa. La nota resultante de dicha ponderación se expresará en forma numérica de 0 a 10 puntos, con dos decimales, redondeada a la centésima.»
+#### «Artículo 8. Calificación final para la obtención del título de Baccalauréat.
 
-Cuatro. El apartado 1 del artículo 10 queda redactado en los siguientes términos:
+La calificación final para la obtención del título de Baccalauréat se calculará ponderando un 70 por ciento la nota media de bachillerato y un 30 por ciento la calificación global de la prueba externa. La nota resultante de dicha ponderación se expresará en forma numérica de 0 a 10 puntos, con dos decimales, redondeada a la centésima.»
 
-«1. Para el alumnado que obtenga la doble titulación, tanto el expediente académico como el historial académico de Bachillerato, establecidos en el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, recogerán mediante diligencia incluida en el anexo II, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado el nivel B2 del Marco común europeo de referencia para las lenguas en lengua francesa.»
+Cuatro. El apartado 1 del artículo 10 queda.
+
+redactado en los siguientes términos:
+
+«1. Para el alumnado que obtenga la doble titulación, tanto el expediente académico como el historial académico de Bachillerato, establecidos en el Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, recogerán mediante diligencia incluida en el anexo II, que el alumno o alumna ha superado las enseñanzas del currículo mixto y que ha alcanzado el nivel B2 del Marco común europeo de referencia para las lenguas en lengua francesa.»
 
 Cinco. La disposición adicional única queda redactada en los siguientes términos:
 
 #### «Disposición adicional única. Acceso a la universidad española.
 
-El alumnado que haya obtenido el título de Baccalauréat en virtud del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, podrá acogerse a lo dispuesto en el apartado 1.b) de la disposición adicional trigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, para acceder a las universidades españolas.»
+El alumnado que haya obtenido el título de Baccalauréat en virtud del Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, podrá acogerse a lo dispuesto en el apartado 1.b) de la disposición adicional trigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, para acceder a las universidades españolas.»
 
 Seis. El anexo I-A queda redactado en los siguientes términos:
 
@@ -137,11 +139,11 @@ El desarrollo de las competencias del alumnado reclama una especial atención al
 
 Por su parte, el desarrollo de la competencia literaria requiere tanto de la lectura acompañada como de la lectura autónoma, con sus respectivos corpus, sus propios procedimientos de estudio y análisis, y sus formas diferenciadas de disfrute. En esta materia, la educación literaria exige capacidad de comprensión y de análisis, así como el manejo de unas estrategias y métodos de trabajo específicos que permitan una aproximación reflexiva y crítica a los usos de la lengua literaria.
 
-En el currículo de la materia, se indican las conexiones de cada una de las competencias específicas con los descriptores operativos del grado de adquisición de las competencias clave previsto al finalizar la etapa de Bachillerato. Estos descriptores aparecen recogidos en el anexo I del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
+En el currículo de la materia, se indican las conexiones de cada una de las competencias específicas con los descriptores operativos del grado de adquisición de las competencias clave previsto al finalizar la etapa de Bachillerato. Estos descriptores aparecen recogidos en el anexo I del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 
 Para cada competencia específica se formulan criterios de evaluación que establecen el nivel de adquisición esperado al finalizar el segundo curso y permiten la valoración y la evaluación de los aprendizajes. Derivan de un planteamiento decididamente competencial y requieren el uso de instrumentos de evaluación variados que permiten el diagnóstico y la reparación tanto de los procesos de enseñanza como de los procesos de aprendizaje. No se fijan criterios de evaluación o saberes básicos para cada uno de los dos cursos del programa, puesto que la progresión se ha de establecer tanto en función de la creciente dificultad de los textos y de las destrezas de producción o de interpretación y análisis que exigen como en función del grado de autonomía conferido al alumnado y de la complejidad de los usos de la lengua.
 
-Los saberes bÃ¡sicos aglutinan los conocimientos, destrezas y actitudes necesarios para adquirir las competencias especÃ­ficas de la materia. Se estructuran en cinco bloques.Â
+Los saberes bÃ¡sicos aglutinan los conocimientos, destrezas y actitudes necesarios para adquirir las competencias especÃficas de la materia. Se estructuran en cinco bloques.Â
 
 El primero, "Comunicación", incluye diferentes aspectos relacionados con la comprensión, la producción, la interacción y la mediación de textos orales, escritos y multimodales, integrando la alfabetización informacional y mediática. En este bloque figuran también los elementos necesarios para el desarrollo de las actividades lingüísticas en función de las necesidades del alumnado.
 
@@ -157,7 +159,7 @@ Competencias específicas
 
 1. Comprender e interpretar textos orales, escritos y multimodales, con especial atención a los textos académicos y de los medios de comunicación, identificando el sentido general y las ideas principales y secundarias, así como el punto de vista y la intención del emisor, y reflexionando sobre la forma y el contenido, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.
 
-La comprensiÃ³n supone recibir y procesar informaciÃ³n con sentido crÃ­tico a partir de textos orales, escritos o multimodales, prestando, en el contexto de esta materia, especial atenciÃ³n a los textos acadÃ©micos o los propios de los medios de comunicaciÃ³n. Se trata de un constante proceso de interpretaciÃ³n de intenciones en el que entran en juego el conocimiento compartido entre el emisor y el receptor y todos aquellos elementos contextuales y cotextuales que permiten ir mÃ¡s allÃ¡ del significado del texto para interpretar su sentido.Â
+La comprensiÃ³n supone recibir y procesar informaciÃ³n con sentido crÃtico a partir de textos orales, escritos o multimodales, prestando, en el contexto de esta materia, especial atenciÃ³n a los textos acadÃ©micos o los propios de los medios de comunicaciÃ³n. Se trata de un constante proceso de interpretaciÃ³n de intenciones en el que entran en juego el conocimiento compartido entre el emisor y el receptor y todos aquellos elementos contextuales y cotextuales que permiten ir mÃ¡s allÃ¡ del significado del texto para interpretar su sentido.Â
 
 En esta materia, la comprensión se debe desarrollar a partir de textos adecuados al nivel B2 del MCER sobre temas de actualidad relacionados con los ámbitos socioculturales europeos y francófonos. Los textos serán auténticos y procederán preferentemente de medios de comunicación fiables franceses o francófonos. También se incluirán textos académicos de interés para la cultura de expresión francesa adecuados al nivel y al propósito de la tarea que deba realizarse: Relato breve, conferencia, película, canción, diálogo, debate, etc. Los textos podrán recoger también otras formas de representación como, por ejemplo, imágenes, gráficos, tablas o diagramas, que el alumnado deberá interpretar.
 
@@ -173,7 +175,7 @@ En Lengua y Literatura Francesas, la producción de textos implica el uso de dif
 
 Para el desarrollo de esta competencia, resulta esencial poner la máxima atención en el lenguaje y el estilo, por lo que la vinculación entre la reflexión explícita sobre el funcionamiento de la lengua y su proyección en los usos textuales resulta inseparable. Las estrategias que permiten la mejora de la producción comprenden en esta etapa la planificación, la autoevaluación, la autorreparación y la coevaluación, la retroalimentación, así como la monitorización, la validación y la compensación de forma autónoma y sistemática.
 
-Las tecnologÃ­as de la informaciÃ³n y la comunicaciÃ³n proporcionan nuevos formatos para la comunicaciÃ³n, asÃ­ como para la documentaciÃ³n, tanto en formato sÃ­ncrono como asÃ­ncrono, que alumnos y alumnas usarÃ¡n para completar sus conocimientos o para registrar producciones respetuosas con la etiqueta digital.Â
+Las tecnologÃas de la informaciÃ³n y la comunicaciÃ³n proporcionan nuevos formatos para la comunicaciÃ³n, asÃ como para la documentaciÃ³n, tanto en formato sÃncrono como asÃncrono, que alumnos y alumnas usarÃ¡n para completar sus conocimientos o para registrar producciones respetuosas con la etiqueta digital.Â
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL1, CCL3, CCL5, CP1, CP2, CD1, CD3, CPSAA4, CC1, CC3.
 
@@ -219,13 +221,13 @@ Esta competencia tiene una doble función: por un lado, la de desarrollar habili
 
 Se propondrán fragmentos literarios y obras que se encuentren al alcance del alumnado. Se combinarán la lectura autónoma, que realizará el alumnado libremente, y la lectura acompañada, efectuada con el apoyo del profesorado fuera y dentro del aula. Estas lecturas, autónomas o acompañadas, tienen por finalidad la mejora de la competencia comunicativa y el conocimiento y disfrute de las culturas a las que la lengua francesa sirve de vehículo, así como la comprensión del funcionamiento del fenómeno literario.
 
-No se trata de emprender un estudio exhaustivo de la historia de la literatura, sino de que, para alcanzar las competencias comunicativas en lengua francesa, alumnos y alumnas lean fragmentos de textos literarios diversos que les sirvan para construir unas referencias culturales que conjuguen horizontes franceses o francÃ³fonos, nacionales y europeos y que puedan relacionar con otras manifestaciones artÃ­sticas y culturales, asÃ­ como con los valores ideolÃ³gicos y estÃ©ticos de su contexto de producciÃ³n.Â
+No se trata de emprender un estudio exhaustivo de la historia de la literatura, sino de que, para alcanzar las competencias comunicativas en lengua francesa, alumnos y alumnas lean fragmentos de textos literarios diversos que les sirvan para construir unas referencias culturales que conjuguen horizontes franceses o francÃ³fonos, nacionales y europeos y que puedan relacionar con otras manifestaciones artÃsticas y culturales, asÃ como con los valores ideolÃ³gicos y estÃ©ticos de su contexto de producciÃ³n.Â
 
-Esta competencia especÃ­fica se conecta con los siguientes descriptores: CCL1, CCL4, STEM1, CD1, CPSAA5, CC3, CCEC2.Â
+Esta competencia especÃfica se conecta con los siguientes descriptores: CCL1, CCL4, STEM1, CD1, CPSAA5, CC3, CCEC2.Â
 
 Criterios de evaluación
 
-**Competencia específica 1**
+**Competencia específica 1**
 
 1.1 Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos auténticos de nivel B2, orales, escritos y multimodales, expresados en una variedad de lengua francesa estándar y a través de diversos soportes, que traten temas actuales de relevancia, tanto concretos como abstractos, y relacionados con los ámbitos socioculturales europeos y francófonos, realizando las inferencias necesarias.
 
@@ -235,7 +237,7 @@ Criterios de evaluación
 
 1.4 Buscar, identificar y contrastar información, evaluando su fiabilidad y su calidad.
 
-**Competencia específica 2**
+**Competencia específica 2**
 
 2.1 Realizar exposiciones, ensayos y argumentaciones formales bien estructurados, coherentes, cohesionados, en el registro adecuado y con diferente grado de planificación, sobre temas de actualidad relacionados con los ámbitos socioculturales europeos y francófonos, ajustándose a las convenciones propias de cada género discursivo, y utilizando de manera eficaz diferentes soportes y recursos verbales y no verbales.
 
@@ -243,25 +245,25 @@ Criterios de evaluación
 
 2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción y revisión de textos compuestos con una estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
-**Competencia específica 3**
+**Competencia específica 3**
 
 3.1 Participar de manera activa y adecuada a la situación de comunicación en interacciones formales e informales y en el trabajo en equipo, construyendo un discurso razonado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
 3.2 Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
-**Competencia específica 4**
+**Competencia específica 4**
 
 4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
 4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
 
-**Competencia específica 5**
+**Competencia específica 5**
 
 5.1 Comparar y argumentar las semejanzas y diferencias entre las distintas lenguas de los repertorios lingüísticos propios, reflexionando sobre su funcionamiento, estableciendo relaciones entre ellas y apreciando la diversidad con la que se relacionan.
 
 5.2 Utilizar con iniciativa y de forma creativa conocimientos y estrategias de mejora para comunicar y aprender la lengua francesa con apoyo de otros participantes y de soportes analógicos y digitales.
 
-**Competencia específica 6**
+**Competencia específica 6**
 
 6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, especialmente con las francófonas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y buscando soluciones a aquellos factores socioculturales que dificulten la comunicación.
 
@@ -269,7 +271,7 @@ Criterios de evaluación
 
 6.3 Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
 
-**Competencia específica 7**
+**Competencia específica 7**
 
 7.1 Leer de manera autónoma o acompañada obras relevantes de la literatura de expresión francesa, preferentemente contemporánea, adecuadas a un nivel B2, y dejar constancia del progreso del itinerario lector explicando de forma argumentada la experiencia de lectura y proponiendo una interpretación personal vinculada con otras manifestaciones artísticas y culturales.
 
@@ -283,7 +285,7 @@ A. Comunicación:
 
 – Sentido global del texto y relación entre sus partes. Intención del emisor. Relación entre la forma y el contenido del texto.
 
-ââLa audiencia y el tiempo en exposiciones orales. Rasgos discursivos y lingÃ¼Ã­sticos; elementos no verbales.Â
+ââLa audiencia y el tiempo en exposiciones orales. Rasgos discursivos y lingÃ¼Ãsticos; elementos no verbales.Â
 
 – Patrones sonoros, acentuales, rítmicos y de entonación, y significados e intenciones comunicativas generales asociadas a dichos patrones. Alfabeto fonético básico.
 
@@ -299,7 +301,7 @@ A. Comunicación:
 
 – Estructuras gramaticales y sintáctico-discursivas. El verbo: Gerundio y participio presente, subjuntivo, concordancia de tiempos, verbos preposicionales. Marcadores discursivos. Las relaciones lógicas. La oración compleja. La expresión de la concesión, la causa, la finalidad, la consecuencia, la condición, la oposición y la hipótesis. Los pronombres relativos compuestos, la doble pronominalización, la mise en relief. La oración pasiva. La oración interrogativa. El discurso directo e indirecto.
 
-– Léxico común y especializado de interés para el alumnado relativo a ciencia y tecnología; economía; educación y sistema educativo, formación y estudios; el mundo del trabajo y de la vida profesional; medio ambiente, clima y ecología; medios de comunicación y actualidad; moda; sentimientos y emociones; temas culturales; tradiciones y costumbres. Vocabulario básico especializado: científico, médico, jurídico, etc.
+– Léxico común y especializado de interés para el alumnado relativo a ciencia y tecnología; economía; educación y sistema educativo, formación y estudios; el mundo del trabajo y de la vida profesional; medio ambiente, clima y ecología; medios de comunicación y actualidad; moda; sentimientos y emociones; temas culturales; tradiciones y costumbres. Vocabulario básico especializado: científico, médico, jurídico, etc.
 
 – Estrategias de enriquecimiento léxico en lengua francesa: Derivación, familias léxicas, polisemia, sinonimia, antonimia, etc.
 
@@ -417,13 +419,13 @@ Siglo XIX:
 
 – Guy de Maupassant: "Les bijoux", "La parure", "Le Horla", "Boule de suif", Bel-Ami.
 
-– Prosper Mérimée: La Vénus d’Ille, Carmen.
+– Prosper Mérimée: La Vénus d'Ille, Carmen.
 
 – Stendhal: Le Rouge et le Noir, La Chartreuse de Parme.
 
-– Jules Verne: Le Tour du monde en 80 jours, Vingt mille lieues sous les mers, L'íle mystérieuse (fragmentos), Voyage au centre de la Terre.
+– Jules Verne: Le Tour du monde en 80 jours, Vingt mille lieues sous les mers, L'íle mystérieuse (fragmentos), Voyage au centre de la Terre.
 
-– Émile Zola: L’Assommoir, Germinal, Thérèse Raquin, Nana.
+– Émile Zola: L'Assommoir, Germinal, Thérèse Raquin, Nana.
 
 Siglos XX y XXI:
 
@@ -431,9 +433,9 @@ Siglos XX y XXI:
 
 – Hervé Bazin: Vipère au poing.
 
-– Tahar Ben Jelloun: L’Enfant de sable, La Nuit sacrée.
+– Tahar Ben Jelloun: L'Enfant de sable, La Nuit sacrée.
 
-– Albert Camus: L’Étranger, La Peste.
+– Albert Camus: L'Étranger, La Peste.
 
 – Louis-Ferdinand Céline: Voyage au bout de la nuit.
 
@@ -455,39 +457,39 @@ Siglos XX y XXI:
 
 – Laurent Gaudé: Le Soleil des Scorta, Eldorado.
 
-– Anna Gavalda: Ensemble, c’est tout, Je l’aimais.
+– Anna Gavalda: Ensemble, c'est tout, Je l'aimais.
 
 – Sylvie Germain: Magnus, Le Livre des nuits.
 
 – André Gide: La Symphonie pastorale.
 
-– Jean Giono: L’Homme qui plantait des arbres, Ennemonde et autres caractères.
+– Jean Giono: L'Homme qui plantait des arbres, Ennemonde et autres caractères.
 
-– Yasmina Khadra: Les Hirondelles de Kaboul, L’Attentat, Les Sirènes de Bagdad.
+– Yasmina Khadra: Les Hirondelles de Kaboul, L'Attentat, Les Sirènes de Bagdad.
 
-– Camara Laye: L’Enfant noir.
+– Camara Laye: L'Enfant noir.
 
-– Jean-Marie Gustave Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le Chercheur d’or, Lullaby.
+– Jean-Marie Gustave Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le Chercheur d'or, Lullaby.
 
-– Marc Lévy: Les Enfants de la liberté, Et si c’était vrai, Toutes ces choses qu’on ne s’est pas dites, Le Voleur d’ombre.
+– Marc Lévy: Les Enfants de la liberté, Et si c'était vrai, Toutes ces choses qu'on ne s'est pas dites, Le Voleur d'ombre.
 
-– Amin Maalouf: Léon l’Africain, Le Premier siècle après Béatrice, Samarcande, Le Périple de Baldassare.
+– Amin Maalouf: Léon l'Africain, Le Premier siècle après Béatrice, Samarcande, Le Périple de Baldassare.
 
 – Patrick Modiano: La Ronde de nuit, Villa triste, Une jeunesse.
 
 – Irène Némirovsky: Suite française, Le Bal.
 
-– Amélie Nothomb: Stupeur et tremblements, La Nostalgie heureuse, Hygiène de l’assassin.
+– Amélie Nothomb: Stupeur et tremblements, La Nostalgie heureuse, Hygiène de l'assassin.
 
 – Erik Orsenna: La grammaire est une chanson douce, Madame Bâ.
 
-– Daniel Pennac: La petite marchande de prose, Chagrin d’école, La fée carabine, Au bonheur des ogres.
+– Daniel Pennac: La petite marchande de prose, Chagrin d'école, La fée carabine, Au bonheur des ogres.
 
 – Marcel Proust: À la recherche du temps perdu (fragmentos).
 
 – Raymond Queneau: Exercices de style (fragmentos).
 
-– Pierre Rabhi: Du Sahara aux Cévennes, Itinéraire d’un homme au service de la Terre-Mer.
+– Pierre Rabhi: Du Sahara aux Cévennes, Itinéraire d'un homme au service de la Terre-Mer.
 
 – Françoise Sagan: Bonjour tristesse.
 
@@ -503,9 +505,9 @@ Siglos XX y XXI:
 
 – Vercors: Le Silence de la mer.
 
-– Boris Vian: L’Écume des jours, J’irai cracher sur vos tombes.
+– Boris Vian: L'Écume des jours, J'irai cracher sur vos tombes.
 
-– Marguerite Yourcenar: Mémoires d’Hadrien, Nouvelles orientales.
+– Marguerite Yourcenar: Mémoires d'Hadrien, Nouvelles orientales.
 
 2. Teatro.
 
@@ -513,7 +515,7 @@ Siglo XVII:
 
 – Corneille: Le Cid.
 
-– Molière: Le Malade imaginaire, L’Avare, Dom Juan, Tartuffe.
+– Molière: Le Malade imaginaire, L'Avare, Dom Juan, Tartuffe.
 
 – Racine: Phèdre, Andromaque, Bérénice.
 
@@ -529,7 +531,7 @@ Siglo XIX:
 
 Siglos XX y XXI:
 
-– Jean Anouilh: Le Voyageur sans bagages, Antigone, L’Alouette.
+– Jean Anouilh: Le Voyageur sans bagages, Antigone, L'Alouette.
 
 – Samuel Beckett: En attendant Godot.
 
@@ -537,7 +539,7 @@ Siglos XX y XXI:
 
 – Jean Cocteau: Les Enfants terribles.
 
-– Jean Giraudoux: La Guerre de Troie n’aura pas lieu, Électre.
+– Jean Giraudoux: La Guerre de Troie n'aura pas lieu, Électre.
 
 – Eugène Ionesco: Rhinocéros, La Cantatrice chauve, Le Roi se meurt.
 
@@ -561,19 +563,19 @@ Siglos XX y XXI:
 
 4. Autobiografía.
 
-– Simone de Beauvoir: Mémoires d’une jeune fille rangée.
+– Simone de Beauvoir: Mémoires d'une jeune fille rangée.
 
 – Patrick Chamoiseau: Une enfance créole.
 
-– François-René de Chateaubriand: Mémoires d’Outre-tombe (fragmentos).
+– François-René de Chateaubriand: Mémoires d'Outre-tombe (fragmentos).
 
-– Romain Gary: La Promesse de l’aube.
+– Romain Gary: La Promesse de l'aube.
 
 – Andreï Makine: Le Testament français.
 
 – Marcel Pagnol: La Gloire de mon père, Le Château de ma mère.
 
-– Georges Perec: W ou le souvenir d’enfance (fragmentos).
+– Georges Perec: W ou le souvenir d'enfance (fragmentos).
 
 – Jean-Jacques Rousseau: Les Confessions (fragmentos), Les Rêveries du promeneur solitaire.
 
@@ -589,13 +591,13 @@ Siglos XX y XXI:
 
 – Albert Camus: Le Mythe de Sisyphe (fragmentos).
 
-– L’Encyclopédie (artículos).
+– L'Encyclopédie (artículos).
 
 – Claude Lévi-Strauss: Tristes Tropiques (fragmentos).
 
-– Jean-Jacques Rousseau: Discours sur l’origine et le fondement de l’inégalité parmi les hommes (fragmentos).
+– Jean-Jacques Rousseau: Discours sur l'origine et le fondement de l'inégalité parmi les hommes (fragmentos).
 
-– Jean-Paul Sartre: L’Existentialisme est un humanisme (fragmentos).
+– Jean-Paul Sartre: L'Existentialisme est un humanisme (fragmentos).
 
 – Michel Serres: Petite Poucette (fragmentos).
 
@@ -689,7 +691,7 @@ No se trata de llevar a cabo un estudio cronológico y exhaustivo de la historia
 
 **Lectura acompañada y lectura autónoma**
 
-Al introducirse en la lectura de textos literarios, el alumnado descubrirá la riqueza expresiva de la lengua francesa, y aprenderá a «leer» mejor todo tipo de texto. El ejercicio de lectura acompañada dará la oportunidad no solamente de comprender los textos, sino de analizar cómo están escritos. El profesorado actuará de guía para ir más allá de las palabras y su significado, iniciando al alumnado en la exploración del estilo, de la forma de escritura y de la interpretación del mensaje. Además de en la comprensión, el alumnado debe progresar en el análisis y la reflexión, que se llevarán a cabo tanto de forma individual como compartida. Los textos de los siglos XIX, XX y XXI, que se trabajarán durante el 2.º curso por hacer referencia a una realidad más próxima al alumnado y por ser objeto de la prueba externa, permitirán una comprensión más completa. Se practicará el ejercicio del comentario de manera progresiva –por ejemplo, primero de forma colectiva y luego como ejercicio de clase, para realizarlo finalmente de manera individual–, ya que la prueba externa consiste en contestar a preguntas de comprensión que exigen la demostración de capacidades de análisis y de síntesis, a la vez que cierta madurez.
+Al introducirse en la lectura de textos literarios, el alumnado descubrirá la riqueza expresiva de la lengua francesa, y aprenderá a «leer» mejor todo tipo de texto. El ejercicio de lectura acompañada dará la oportunidad no solamente de comprender los textos, sino de analizar cómo están escritos. El profesorado actuará de guía para ir más allá de las palabras y su significado, iniciando al alumnado en la exploración del estilo, de la forma de escritura y de la interpretación del mensaje. Además de en la comprensión, el alumnado debe progresar en el análisis y la reflexión, que se llevarán a cabo tanto de forma individual como compartida. Los textos de los siglos XIX, XX y XXI, que se trabajarán durante el 2.º curso por hacer referencia a una realidad más próxima al alumnado y por ser objeto de la prueba externa, permitirán una comprensión más completa. Se practicará el ejercicio del comentario de manera progresiva –por ejemplo, primero de forma colectiva y luego como ejercicio de clase, para realizarlo finalmente de manera individual–, ya que la prueba externa consiste en contestar a preguntas de comprensión que exigen la demostración de capacidades de análisis y de síntesis, a la vez que cierta madurez.
 
 La comprensión y análisis de las obras objeto de estudio, que se desarrolla en la modalidad de lectura acompañada, abordará la temática en cada una de las obras propuestas o de forma transversal, teniendo presente que, a partir de los conocimientos, las destrezas y las actitudes adquiridos sobre estos textos, el alumnado habrá de realizar un ensayo con argumentos razonados y valiéndose de ejemplos precisos de las obras.
 
@@ -707,7 +709,7 @@ Como sujetos autónomos y responsables de su aprendizaje, alumnos y alumnas han 
 
 Las propuestas habrán de combinar los diferentes tipos de evaluación: La heteroevaluación, realizada por el profesorado sobre el alumnado; la autoevaluación, que supone la evaluación del alumnado a sí mismo, de forma que amplíe el conocimiento acerca de su proceso de aprendizaje y sea responsable de ese proceso; y la coevaluación, que supone la evaluación entre iguales y que debe desarrollarse en un ambiente de respeto y empatía. Asimismo, la evaluación puede llevarse a cabo a partir de la observación sistemática, de las encuestas o del análisis de documentos, productos o artefactos, de modo que tanto el profesorado como el alumnado pueda disponer de una gran variedad de información orientada a la mejora de los procesos de enseñanza y de aprendizaje.
 
-La progresiÃ³n del alumnado en el uso de la lengua francesa, en su capacidad de hacer suyo el lenguaje para comunicarse de manera autÃ³noma en situaciones formales, ha de medirse con herramientas que permitan identificar los logros obtenidos y su progresiÃ³n. Estas deben ser diversas, variadas, accesibles y adecuadas a las circunstancias en las que se produzca la evaluaciÃ³n, en consonancia con los principios del DiseÃ±o Universal para el Aprendizaje. En este sentido resultan de utilidad herramientas como las rÃºbricas para medir el nivel de logro del alumnado, las listas de control, las escalas de valoraciÃ³n o cotejo, los portfolios (como el PEL) o los diarios de aprendizaje, pues constituyen soportes fÃ­sicos y digitales que facilitan y favorecen la recogida de informaciÃ³n en cada una de las fases del proceso. La integraciÃ³n de las herramientas digitales en el proceso de evaluaciÃ³n abre la posibilidad a que el alumnado incremente su percepciÃ³n de autoeficacia con respecto al aprendizaje, incidiendo asÃ­ en una variable crucial para su desempeÃ±o. Por otra parte, permiten al profesorado visualizar con amplitud y profundidad el proceso de aprendizaje, al habilitar nuevos canales de producciÃ³n y comunicaciÃ³n con alumnos y alumnas, lo que puede incrementar los procesos y herramientas de evaluaciÃ³n a su disposiciÃ³n âpor ejemplo, la actividad registrada en chats y foros de los entornos virtuales de aprendizaje, o la exposiciÃ³n ante la clase a travÃ©s de videoconferencias o paneles colaborativos virtualesâ, ofreciendo nuevas herramientas para el seguimiento del trabajo individual y grupal, asÃ­ como de su evoluciÃ³n.Â
+La progresiÃ³n del alumnado en el uso de la lengua francesa, en su capacidad de hacer suyo el lenguaje para comunicarse de manera autÃ³noma en situaciones formales, ha de medirse con herramientas que permitan identificar los logros obtenidos y su progresiÃ³n. Estas deben ser diversas, variadas, accesibles y adecuadas a las circunstancias en las que se produzca la evaluaciÃ³n, en consonancia con los principios del DiseÃ±o Universal para el Aprendizaje. En este sentido resultan de utilidad herramientas como las rÃºbricas para medir el nivel de logro del alumnado, las listas de control, las escalas de valoraciÃ³n o cotejo, los portfolios (como el PEL) o los diarios de aprendizaje, pues constituyen soportes fÃsicos y digitales que facilitan y favorecen la recogida de informaciÃ³n en cada una de las fases del proceso. La integraciÃ³n de las herramientas digitales en el proceso de evaluaciÃ³n abre la posibilidad a que el alumnado incremente su percepciÃ³n de autoeficacia con respecto al aprendizaje, incidiendo asÃ en una variable crucial para su desempeÃ±o. Por otra parte, permiten al profesorado visualizar con amplitud y profundidad el proceso de aprendizaje, al habilitar nuevos canales de producciÃ³n y comunicaciÃ³n con alumnos y alumnas, lo que puede incrementar los procesos y herramientas de evaluaciÃ³n a su disposiciÃ³n âpor ejemplo, la actividad registrada en chats y foros de los entornos virtuales de aprendizaje, o la exposiciÃ³n ante la clase a travÃ©s de videoconferencias o paneles colaborativos virtualesâ, ofreciendo nuevas herramientas para el seguimiento del trabajo individual y grupal, asÃ como de su evoluciÃ³n.Â
 
 La evaluación de la práctica docente, por su parte, permitirá la validación o el ajuste de las propuestas metodológicas de la materia, de modo que se pueda garantizar su adecuación a las particularidades y a las necesidades de cada grupo, así como contribuir a una mejor adquisición de las competencias específicas de la materia de Lengua y Literatura Francesas por parte del alumnado. La evaluación de la actividad pedagógica y didáctica contribuye a detectar las dificultades que puedan existir, de forma que se puedan establecer las medidas de refuerzo necesarias y se pueda garantizar la adquisición de las competencias esperadas en la lengua y la literatura francesas. La valoración de la práctica docente ha de realizarse a través de un análisis de la actividad pedagógica y didáctica desarrollada en el aula. Asimismo, dicha valoración debe permitir, por un lado, adecuar las situaciones de aprendizaje al nivel de lengua, a las necesidades y a los intereses del alumnado, favoreciendo un uso activo de la lengua francesa y la transferencia y aprovechamiento de los conocimientos, destrezas y actitudes del alumnado en las lenguas que conforman su repertorio; y, por otro, seleccionar las lecturas más apropiadas para cada grupo, de manera que se contribuya al disfrute de las manifestaciones culturales en lengua francesa. La valoración del proceso de enseñanza no solo ha de aportar datos acerca de las propuestas pedagógicas, sino que también debe servir para detectar las posibles necesidades de recursos, de formación, de infraestructura, etc., tanto del profesorado como del centro.»
 
@@ -725,7 +727,7 @@ Las competencias específicas se han estructurado en torno a los vectores que vi
 
 La libertad, el primero de estos ejes vertebradores, ofrece una perspectiva no lineal que atraviesa toda la época contemporánea hasta la actualidad, recogiendo la trayectoria de la memoria democrática de España y de Francia hasta el establecimiento de los sistemas constitucionales y democráticos que existen hoy en día en los dos países y los retos actuales y futuros a los que pueden enfrentarse los sistemas democráticos. Las identidades nacionales y regionales y las creencias y las ideologías, que tanta trascendencia tienen y han tenido a lo largo de la historia en España y en Francia, conectan procesos diversos y resultan esenciales para, a partir de su análisis histórico, destacar, antes que aquello que separa y diferencia, los elementos de unión, con objeto de favorecer el diálogo y la convivencia. El progreso y el crecimiento económico, desde la perspectiva de la sostenibilidad, la cohesión territorial y la justicia social, así como la visión de la diversidad social o de la igualdad de género a lo largo del tiempo, se han convertido también en campos fundamentales para el estudio de la historia y el análisis del presente. El marco comparativo que permite el estudio de la historia de los dos países y, más allá, la de otros países del mundo occidental, las relaciones internacionales y la conexión del territorio español y francés con los grandes procesos históricos, constituyen igualmente un vector imprescindible para la interpretación de la evolución y desarrollo de estos países, así como para el análisis de sus analogías y singularidades, subrayando aquellas etapas históricas en las que sus instituciones, colectivos o ciertos individuos destacados han tenido un especial protagonismo. Finalmente, otra de las competencias específicas, de carácter transversal, subraya la expresión práctica y metodológica del pensamiento histórico y del aprendizaje activo que debe llevar a cabo el alumnado.
 
-En el currículo de la materia, se indican las conexiones de cada una de las competencias específicas con los descriptores operativos del grado de adquisición de las competencias clave previsto al finalizar la etapa de Bachillerato. Estos descriptores aparecen recogidos en el anexo I del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
+En el currículo de la materia, se indican las conexiones de cada una de las competencias específicas con los descriptores operativos del grado de adquisición de las competencias clave previsto al finalizar la etapa de Bachillerato. Estos descriptores aparecen recogidos en el anexo I del Real Decreto 243/2022, de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 
 Los criterios de evaluación indican el nivel de desempeño de las competencias específicas que se espera que alcance el alumnado y, en este sentido, la aplicación de los mismos requiere de la activación de los saberes básicos de la materia. Conllevan por tanto una adaptación de las metodologías y acciones educativas para este tipo de aprendizaje, aplicando estrategias en las que el alumnado pueda ejercitar tanto los procesos instrumentales como las actitudes propuestas y utilizar las bases metodológicas del pensamiento histórico en la construcción del conocimiento. Todo ello implica disponer de nuevos y variados instrumentos para valorar un conjunto amplio y diverso de acciones, teniendo en cuenta la diversidad e individualidad del alumnado.
 
@@ -737,9 +739,9 @@ El enfoque competencial del Bachillerato y de la materia de Historia de España 
 
 Competencias específicas
 
-1. Valorar los movimientos y acciones que han promovido las libertades en la historia de España y de Francia, utilizando términos y conceptos históricos, a través del análisis comparado de los distintos regímenes políticos, para reconocer el legado democrático de la Constitución de 1978 en España y de la de 1958 en Francia como fundamento de la convivencia democrática y garantía de la defensa de los derechos y libertades en los dos países.
+1. Valorar los movimientos y acciones que han promovido las libertades en la historia de España y de Francia, utilizando términos y conceptos históricos, a través del análisis comparado de los distintos regímenes políticos, para reconocer el legado democrático de la Constitución de 1978 en España y de la de 1958 en Francia como fundamento de la convivencia democrática y garantía de la defensa de los derechos y libertades en los dos países.
 
-La Constitución de 1978 en España y la de 1958 en Francia iniciaron una larga etapa de convivencia pacífica y democrática en la historia de los dos países. El alumnado debe concebir el estado social y de derecho actual no solo como resultado del entendimiento y de la acción de determinados hombres y mujeres comprometidos con la libertad, sino también como el fruto del ejercicio diario de una ciudadanía activa identificada con sus principios e inspirada en sus valores. De este modo, se ha de entender la memoria democrática, no solo como efecto histórico de la Transición o del cambio político y constitucional que da lugar a la proclamación de la V República en Francia, sino como culminación del cambio político que el constitucionalismo ha recorrido en España desde 1812 y en Francia desde la Revolución. Todo esto implica considerar la historia como un proceso no lineal, de avances y retrocesos, valorando lo que las distintas culturas políticas han aportado al afianzamiento del parlamentarismo y al establecimiento de la democracia. Para ello resulta necesario desarrollar estrategias comparativas sobre los distintos regímenes políticos que se han ido sucediendo desde el fin del absolutismo y el reinado de Isabel II hasta la Restauración y la Constitución de 1931 en España. Y, en el caso de Francia, desde la Revolución, la Monarquía Constitucional y la II y III Repúblicas hasta la recuperación de las libertades democráticas y las diferentes características de la IV y V Repúblicas, considerando en uno y otro país las influencias mutuas, los paralelismos y las diferencias en cuanto a los modelos constitucionales y la evolución política. Para ello es indispensable la correcta utilización de aquellos términos y conceptos históricos, políticos y jurídicos que permitan definir su naturaleza y contextualizar sus dinámicas y logros. Por otro lado, se persigue el reconocimiento e interpretación de los diferentes significados asignados al concepto de libertad, así como el análisis de los distintos y a veces contrapuestos intereses presentes en ellos, de manera que el alumnado entienda que la libertad, como principio inherente del ser humano, implica una actitud crítica y exigente ante el cumplimiento de sus principios y aspiraciones dentro del propio marco constitucional.
+La Constitución de 1978 en España y la de 1958 en Francia iniciaron una larga etapa de convivencia pacífica y democrática en la historia de los dos países. El alumnado debe concebir el estado social y de derecho actual no solo como resultado del entendimiento y de la acción de determinados hombres y mujeres comprometidos con la libertad, sino también como el fruto del ejercicio diario de una ciudadanía activa identificada con sus principios e inspirada en sus valores. De este modo, se ha de entender la memoria democrática, no solo como efecto histórico de la Transición o del cambio político y constitucional que da lugar a la proclamación de la V República en Francia, sino como culminación del cambio político que el constitucionalismo ha recorrido en España desde 1812 y en Francia desde la Revolución. Todo esto implica considerar la historia como un proceso no lineal, de avances y retrocesos, valorando lo que las distintas culturas políticas han aportado al afianzamiento del parlamentarismo y al establecimiento de la democracia. Para ello resulta necesario desarrollar estrategias comparativas sobre los distintos regímenes políticos que se han ido sucediendo desde el fin del absolutismo y el reinado de Isabel II hasta la Restauración y la Constitución de 1931 en España. Y, en el caso de Francia, desde la Revolución, la Monarquía Constitucional y la II y III Repúblicas hasta la recuperación de las libertades democráticas y las diferentes características de la IV y V Repúblicas, considerando en uno y otro país las influencias mutuas, los paralelismos y las diferencias en cuanto a los modelos constitucionales y la evolución política. Para ello es indispensable la correcta utilización de aquellos términos y conceptos históricos, políticos y jurídicos que permitan definir su naturaleza y contextualizar sus dinámicas y logros. Por otro lado, se persigue el reconocimiento e interpretación de los diferentes significados asignados al concepto de libertad, así como el análisis de los distintos y a veces contrapuestos intereses presentes en ellos, de manera que el alumnado entienda que la libertad, como principio inherente del ser humano, implica una actitud crítica y exigente ante el cumplimiento de sus principios y aspiraciones dentro del propio marco constitucional.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL2, CPSAA1.2, CPSAA3.1, CC1, CC2.
 
@@ -747,7 +749,7 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 La definición constitucional de la nación española y el reconocimiento de otras identidades exigen el estudio de los procesos de nacionalización que se dan a raíz de la incorporación del concepto de soberanía nacional y del uso de la historia para justificarlos. Una ciudadanía informada y crítica debe ser capaz de interpretar discursos e ideas diferentes, incluyendo aquellos que son contrarios a los suyos propios, y defender la solidaridad y la cohesión como base de la convivencia, así como el respeto a los símbolos y normas comunes. La coexistencia de identidades, especialmente las que tienen que ver con el sentimiento nacional, es uno de los hechos que más interés despierta en la actualidad y que más tensión ha provocado en la sociedad española de las últimas décadas. Como fenómeno político y cultural, exige en el alumnado una aproximación rigurosa en cuanto a su contextualización histórica, a través del análisis crítico de fuentes y de la interpretación rigurosa de las mismas. Es también necesario que pueda describir el origen y evolución del Estado nacional, así como de los distintos nacionalismos y regionalismos, articulados en movimientos políticos y culturales a partir del siglo XIX. Igualmente, ha de poder identificar el origen de la idea de España y de otras identidades territoriales a través de los textos, desde sus primeras formulaciones y a través de su evolución en el tiempo. Por otro lado, respetar los distintos sentimientos de pertenencia, implica tratarlos en sus diferentes escalas y dimensiones, y trabajar sobre la compatibilidad de identidades múltiples, valorando la riqueza de sus diferentes expresiones y manifestaciones.
 
-También es necesario realizar un análisis crítico y riguroso de las fuentes para comprender cómo se produce la formación del Estado nacional, concepto que va unido a la aparición de la idea de ciudadanía, una idea cambiante a lo largo de los diferentes sistemas políticos que van viendo la luz durante la época contemporánea y vinculada también a la forma de sufragio. En Francia, una vez consolidada una estructura centralizadora del estado, se concentra el debate político sobre la forma concreta que este debe adquirir, al tiempo que a finales del siglo XIX aparecen otras formas de nacionalismo que se separan de la idea de nación surgida al calor de la Revolución y de la lucha contra los privilegios del Antiguo Régimen y que conducen a la formación de un nacionalismo excluyente y, en muchos casos, xenófobo, como los que ocurren con la crisis boulangiste o el affaire Dreyfus. En el caso de España, el nacionalismo español, asociado al proceso de construcción del estado, ha derivado en distintas corrientes y formulaciones, abarcando un amplio desarrollo político y cultural desde comienzos del siglo XIX hasta la actualidad. El análisis crítico de todas estas formulaciones, de su origen y del contexto en el que surgen, a través de fuentes originales, resulta fundamental para comprender su significado.
+También es necesario realizar un análisis crítico y riguroso de las fuentes para comprender cómo se produce la formación del Estado nacional, concepto que va unido a la aparición de la idea de ciudadanía, una idea cambiante a lo largo de los diferentes sistemas políticos que van viendo la luz durante la época contemporánea y vinculada también a la forma de sufragio. En Francia, una vez consolidada una estructura centralizadora del estado, se concentra el debate político sobre la forma concreta que este debe adquirir, al tiempo que a finales del siglo XIX aparecen otras formas de nacionalismo que se separan de la idea de nación surgida al calor de la Revolución y de la lucha contra los privilegios del Antiguo Régimen y que conducen a la formación de un nacionalismo excluyente y, en muchos casos, xenófobo, como los que ocurren con la crisis boulangiste o el affaire Dreyfus. En el caso de España, el nacionalismo español, asociado al proceso de construcción del estado, ha derivado en distintas corrientes y formulaciones, abarcando un amplio desarrollo político y cultural desde comienzos del siglo XIX hasta la actualidad. El análisis crítico de todas estas formulaciones, de su origen y del contexto en el que surgen, a través de fuentes originales, resulta fundamental para comprender su significado.
 
 Esta competencia específica se conecta con los siguientes descriptores: CCL3, CPSAA3.1, CC1, CC2, CC3, CCEC1, CCEC2.
 
@@ -789,15 +791,15 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Criterios de evaluación
 
-**Competencia específica 1**
+**Competencia específica 1**
 
 1.1 Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la Monarquía absoluta y la construcción del Estado liberal en España y Francia a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen la aplicación efectiva de los mismos.
 
-1.2 Identificar y valorar el papel de la Transición en España en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
+1.2 Identificar y valorar el papel de la Transición en España en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
 
 1.3 Identificar y valorar el establecimiento del régimen republicano democrático en Francia y su evolución reciente como garantía de los derechos y libertades del pueblo francés a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional y a las formas de poder a través de procesos de búsqueda y tratamiento de la información.
 
-**Competencia específica 2**
+**Competencia específica 2**
 
 2.1 Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo su pluralidad identitaria y respetando los distintos sentimientos de pertenencia.
 
@@ -805,13 +807,13 @@ Criterios de evaluación
 
 2.3 Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del Estado y en la construcción de la nación en España y Francia, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
 
-**Competencia específica 3**
+**Competencia específica 3**
 
 3.1 Analizar tanto la evolución económica de España y Francia, sus ritmos y ciclos de crecimiento, como la relación económica hispanofrancesa contemporánea, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando sus particulares procesos de modernización en el contexto de los países del entorno y los debates historiográficos sobre el desarrollo industrial en ambos países, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
 
 3.2 Entender los distintos significados de la idea del progreso en sus contextos históricos, aplicando el estudio multicausal de los modelos de desarrollo económico referidos a la España y a la Francia contemporáneas y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
 
-**Competencia específica 4**
+**Competencia específica 4**
 
 4.1 Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España y en Francia, principalmente en la época contemporánea, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
@@ -819,27 +821,27 @@ Criterios de evaluación
 
 4.3 Deducir la evolución del estado social a través del estudio crítico de noticias y datos estadísticos, identificando los logros y retrocesos experimentados y las medidas adoptadas por el Estado español y el Estado francés hasta el presente, la evolución de los niveles de vida y de bienestar en ambos países, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
-**Competencia específica 5**
+**Competencia específica 5**
 
 5.1 Explicar el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España y de Francia, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales, así como el anticlericalismo y los procesos de laicización.
 
 5.2 Construir opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España y la Francia contemporáneas, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
 
-5.3 Analizar a través del método histórico las grandes reformas estructurales acometidas en ambos países en la construcción de la democracia, identificando los logros y las reacciones antidemocráticas que derivaron en el golpe de Estado de 1936 en España y el colaboracionismo de la Francia de Vichy, aproximándose a la historiografía sobre los sistemas totalitarios y autoritarios y los movimientos sociales de lucha por la libertad.
+5.3 Analizar a través del método histórico las grandes reformas estructurales acometidas en ambos países en la construcción de la democracia, identificando los logros y las reacciones antidemocráticas que derivaron en el golpe de Estado de 1936 en España y el colaboracionismo de la Francia de Vichy, aproximándose a la historiografía sobre los sistemas totalitarios y autoritarios y los movimientos sociales de lucha por la libertad.
 
-**Competencia específica 6**
+**Competencia específica 6**
 
 6.1 Señalar los retos globales y los principales compromisos de los Estados español y francés en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
 
 6.2 Reconocer el valor geoestratégico de España y de Francia, identificando el rico legado histórico y cultural de ambos países, su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución histórica con respecto al resto de Europa, la construcción de estereotipos y la influencia de las relaciones internacionales.
 
-**Competencia específica 7**
+**Competencia específica 7**
 
 7.1 Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual de España y de Francia, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
 
 7.2 Constatar el papel relegado de la mujer en la historia de España y de Francia analizando fuentes literarias y artísticas, incluidas las fuentes orales, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras silenciadas y omitidas, individuales y colectivas, como protagonistas de la historia.
 
-**Competencia específica 8**
+**Competencia específica 8**
 
 8.1 Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva de España y de Francia sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural, tanto del entorno local como de otros ámbitos del territorio francés, considerando el patrimonio histórico como un bien común que se debe proteger.
 
@@ -857,7 +859,7 @@ A. Sociedades en el tiempo:
 
 – La construcción del Estado liberal. Estudio comparado de los regímenes liberales y del constitucionalismo en España y en Francia: de los inicios del régimen liberal a los orígenes de la democracia. Implantación de diferentes regímenes políticos en los dos países: monarquía, república, imperio. Términos y conceptos de la historia para el estudio de los sistemas políticos.
 
-– España: Desde los inicios del régimen liberal y la Constitución de 1812 hasta la Constitución democrática de 1931.
+– España: Desde los inicios del régimen liberal y la Constitución de 1812 hasta la Constitución democrática de 1931.
 
 – Francia: La herencia de la Revolución y el Imperio. La formación del régimen liberal y los avances hacia la democracia. República parlamentaria y régimen plebiscitario. La Comuna de París y su influencia en España.
 
@@ -877,7 +879,7 @@ A. Sociedades en el tiempo:
 
 – Período de entreguerras. De la crisis de la Restauración a la II República y la transformación democrática de España. Grandes reformas sociales, políticas y culturales. Reacciones antidemocráticas contra las reformas y el sistema parlamentario en ambos países. El Frente Popular en Francia y la crisis de la III República.
 
-– España y Francia ante los regímenes totalitarios. El golpe de estado de 1936 en España y la Guerra Civil. Aproximación a la historiografía sobre el conflicto. La posición de Francia en la Guerra Civil y el exilio español. Francia y España en la II Guerra Mundial. El régimen de Vichy. La Resistencia francesa y el papel de los exiliados españoles. La liberación de Francia y el nacimiento de la IV República.
+– España y Francia ante los regímenes totalitarios. El golpe de estado de 1936 en España y la Guerra Civil. Aproximación a la historiografía sobre el conflicto. La posición de Francia en la Guerra Civil y el exilio español. Francia y España en la II Guerra Mundial. El régimen de Vichy. La Resistencia francesa y el papel de los exiliados españoles. La liberación de Francia y el nacimiento de la IV República.
 
 – España y Francia tras la II Guerra Mundial. Fundamentos ideológicos del régimen franquista, relaciones internacionales y etapas políticas y económicas. La represión, la resistencia, el exilio y los movimientos de protesta contra la dictadura por la recuperación de los valores, derechos y libertades democráticas. La Francia de la reconstrucción. La Guerra Fría y los procesos de descolonización. Francia y la cuestión de Indochina y la Guerra de Argelia. España y la cuestión del Sáhara Occidental.
 
@@ -889,9 +891,9 @@ B. Retos del mundo actual:
 
 – La cuestión nacional: Conciencia histórica y crítica de fuentes para abordar el origen y la evolución de los nacionalismos y regionalismos en la España contemporánea. El nacionalismo francés y la cuestión de los regionalismos. Las cinco repúblicas francesas y sus principales valores (libertad, igualdad, solidaridad, unidad, soberanía nacional y ciudadanía).
 
-– Crecimiento económico y sostenibilidad: Manejo de datos, aplicaciones y gráficos para el análisis de la evolución de la economía española desde el Desarrollismo a la actualidad. Francia, de los "Treinta Gloriosos" a la crisis de los años 1970. Políticas económicas, transformaciones sociales y desarrollo del estado del bienestar. Las políticas económicas de los años de crisis y la respuesta social. Desequilibrios sociales, territoriales y ambientales en España y en Francia.
+– Crecimiento económico y sostenibilidad: Manejo de datos, aplicaciones y gráficos para el análisis de la evolución de la economía española desde el Desarrollismo a la actualidad. Francia, de los "Treinta Gloriosos" a la crisis de los años 1970. Políticas económicas, transformaciones sociales y desarrollo del estado del bienestar. Las políticas económicas de los años de crisis y la respuesta social. Desequilibrios sociales, territoriales y ambientales en España y en Francia.
 
-– La Transición y la Constitución de 1978: Identificación de los retos, logros dificultades, y resistencias del fin de la dictadura y el establecimiento de la democracia. La normalización democrática y la amenaza del terrorismo. La V República, la Constitución de 1958 y la reforma de 1962. El Mayo del 68 francés y su repercusión en España. Alternativas de poder en la V República. Las cohabitaciones y la crisis de los partidos tradicionales.
+– La Transición y la Constitución de 1978: Identificación de los retos, logros dificultades, y resistencias del fin de la dictadura y el establecimiento de la democracia. La normalización democrática y la amenaza del terrorismo. La V República, la Constitución de 1958 y la reforma de 1962. El Mayo del 68 francés y su repercusión en España. Alternativas de poder en la V República. Las cohabitaciones y la crisis de los partidos tradicionales.
 
 – El papel de Francia en la construcción europea. España en Europa: derivaciones económicas, sociales y políticas del proceso de integración en la Unión Europea. La Unión Europea en la actualidad, desafíos y expectativas de futuro.
 
@@ -955,7 +957,7 @@ Conseguir una visión sistémica e integrada de la realidad exige una perspectiv
 
 **Entornos digitales**
 
-La competencia digital ha adquirido una dimensión transversal y resulta fundamental para el ejercicio de determinados procesos y habilidades en el ámbito de la historia. En la actualidad, el acceso a fuentes de información y documentos, tanto del presente como del pasado, resulta imprescindible a través de los portales y plataformas que ofrecen un amplio conjunto de recursos digitales (hemerográficos, cartográficos, fotográficos, audiovisuales, documentales o estadísticos). El trabajo sobre estos materiales en entornos virtuales, así como el tratamiento de la información y de los datos a través de distintas aplicaciones, utilizando equipos y dispositivos informáticos de manera habitual y normalizada, constituye una realidad ineludible en el ámbito educativo. El trabajo en equipo requiere el acceso y manejo de redes, a través de un espacio de comunicación eficaz y rápido, así como el dominio de plataformas y entornos virtuales. La elaboración de productos requiere también la utilización de programas informáticos y aplicaciones de todo tipo, a la hora de realizar presentaciones, pósteres científicos, podcasts, montajes audiovisuales, imágenes, mapas y esquemas interactivos, maquetas en 3D o escenarios de realidad virtual. También para el manejo de sitios web a través de aplicaciones que permitan trabajar al alumnado en sus propios portfolios digitales. El trabajo en entornos virtuales permite ampliar los espacios de contacto y conexión, por un lado, entre el alumnado y, por otro, con el profesorado, permitiendo el desarrollo de iniciativas más allá del contexto presencial, lo que amplía las posibilidades de trabajo y colaboración.
+La competencia digital ha adquirido una dimensión transversal y resulta fundamental para el ejercicio de determinados procesos y habilidades en el ámbito de la historia. En la actualidad, el acceso a fuentes de información y documentos, tanto del presente como del pasado, resulta imprescindible a través de los portales y plataformas que ofrecen un amplio conjunto de recursos digitales (hemerográficos, cartográficos, fotográficos, audiovisuales, documentales o estadísticos). El trabajo sobre estos materiales en entornos virtuales, así como el tratamiento de la información y de los datos a través de distintas aplicaciones, utilizando equipos y dispositivos informáticos de manera habitual y normalizada, constituye una realidad ineludible en el ámbito educativo. El trabajo en equipo requiere el acceso y manejo de redes, a través de un espacio de comunicación eficaz y rápido, así como el dominio de plataformas y entornos virtuales. La elaboración de productos requiere también la utilización de programas informáticos y aplicaciones de todo tipo, a la hora de realizar presentaciones, pósteres científicos, podcasts, montajes audiovisuales, imágenes, mapas y esquemas interactivos, maquetas en 3D o escenarios de realidad virtual. También para el manejo de sitios web a través de aplicaciones que permitan trabajar al alumnado en sus propios portfolios digitales. El trabajo en entornos virtuales permite ampliar los espacios de contacto y conexión, por un lado, entre el alumnado y, por otro, con el profesorado, permitiendo el desarrollo de iniciativas más allá del contexto presencial, lo que amplía las posibilidades de trabajo y colaboración.
 
 **Conciencia histórica, compromiso cívico y participación social**
 
@@ -967,21 +969,20 @@ La evaluación debe reflejar en todo momento los presupuestos metodológicos que
 
 La evaluación debe facilitar al alumnado procesos constantes de reflexión, de autoevaluación y coevaluación, que le permitan tomar conciencia de sus procesos de aprendizaje, incorporar el error como modo de orientar sus iniciativas y valorar su grado de rendimiento y la calidad de sus resultados y productos. Este nivel de metacognición, en el que el alumnado toma conciencia de las competencias adquiridas, del sentido, utilidad y significado de las acciones que lleva a cabo, así como de su nivel de rendimiento y la calidad del trabajo realizado, resulta esencial para su desarrollo personal y su preparación para el aprendizaje permanente. También para el profesorado resulta fundamental llevar a cabo procesos de evaluación continua, no solo del alumnado, sino de su propia práctica, valorando a lo largo del desarrollo de las situaciones de aprendizaje la efectividad de sus propuestas, así como el resultado de sus intervenciones con el alumnado, para ir adaptando sus iniciativas y acciones a las demandas y necesidades que van surgiendo. En este escenario, su labor de orientar los aprendizajes resulta esencial, al replantear las direcciones e itinerarios del alumnado, sin penalizar el error y buscando la constante mejora y la superación de las dificultades. De ahí que la evaluación deba incorporar la perspectiva de personalización, inclusión, y universalización de los aprendizajes. También resulta fundamental su papel motivador, poniendo especial atención a la competencia emocional, al favorecer un clima que permita al alumnado desarrollar sus talentos y aptitudes, así como conseguir un mayor rendimiento y fomentar el esfuerzo orientado al logro y a la autorrealización personal.»
 
-#### Disposición final primera. Calendario de implantación.
+#### Disposición final primera. Calendario de implantación.
 
-Lo dispuesto en esta orden se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
+Lo dispuesto en esta orden se implantará para primer curso de Bachillerato en el año académico 2022-2023, y para segundo de Bachillerato, en el curso 2023-2024.
 
-#### Disposición final segunda. Entrada en vigor.
+#### Disposición final segunda. Entrada en vigor.
 
 La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Estado».
 
-Madrid, 27 de septiembre de 2022.–La Ministra de Educación y Formación Profesional, María del Pilar Alegría Continente.
-
----
+Madrid, 27 de septiembre de 2022.–La Ministra de Educación y Formación Profesional, María del Pilar Alegría Continente.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
@@ -991,6 +992,7 @@ Madrid, 27 de septiembre de 2022.–La Ministra de Educación y Formación Prof
 - **Fundamentado en**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)

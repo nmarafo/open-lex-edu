@@ -1,13 +1,10 @@
 ---
 id: norm-es-2011-16923
 codigo_sintetizado: BOE-A-2011-16923
-titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria,
-  reconocimiento, certificación y registro de las actividades de formación permanente
-  del profesorado.
+titulo: Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-28'
 boletin: BOE
@@ -18,36 +15,33 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- atencion-diversidad
-- formacion-del-profesorado
-- igualdad-genero
-- neae
-- orientacion-educativa
-- profesorado
-- titulacion
+  - atencion-diversidad
+  - formacion-del-profesorado
+  - igualdad-genero
+  - neae
+  - orientacion-educativa
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1834-2008
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-rd-1834-2008
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
 ## Preámbulo
-
-# Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
-
-# Orden EDU/2886/2011, de 20 de octubre, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su título preliminar, destaca entre los factores que favorecen la calidad de la enseñanza, y a los cuales se prestará una atención prioritaria, la cualificación y formación del profesorado, la investigación, la experimentación y la renovación educativa.
 
@@ -57,7 +51,9 @@ En el artículo 102 de la citada Ley se declara que la formación permanente con
 
 Asimismo, reconoce que el Ministerio de Educación podrá ofrecer programas de formación permanente de carácter estatal, dirigidos al profesorado de todas las enseñanzas reguladas por dicha Ley, y establecer los convenios, que se consideren oportunos con instituciones, para poder llevar a cabo este cometido.
 
-En el artículo 103 encomienda a las Administraciones educativas la planificación de las actividades de formación del profesorado garantizando una oferta diversificada y gratuita y estableciendo las medidas oportunas para favorecer la participación del profesorado. Además, en su artículo 106 garantiza que las actividades de formación, investigación e innovación serán tenidas en cuenta en los concursos de traslado y en la carrera docente.
+En el artículo 103 encomienda.
+
+a las Administraciones educativas la planificación de las actividades de formación del profesorado garantizando una oferta diversificada y gratuita y estableciendo las medidas oportunas para favorecer la participación del profesorado. Además, en su artículo 106 garantiza que las actividades de formación, investigación e innovación serán tenidas en cuenta en los concursos de traslado y en la carrera docente.
 
 Por otra parte, el número de instituciones que, en virtud del artículo 102 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, colaboran en materia de formación permanente del profesorado se ha incrementado considerablemente en los últimos años, siendo necesario unificar y concretar los términos de esta colaboración.
 
@@ -65,13 +61,9 @@ Para la elaboración de esta orden han sido consultadas las Comunidades Autónom
 
 Y así, en virtud de lo expuesto, con la aprobación previa del Vicepresidente del Gobierno de Política Territorial y Ministro de Política Territorial y Administración Pública, dispongo:
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 1. Objeto.
-
-La presente Orden tiene por objeto regular el proceso de convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado, organizadas por el Ministerio de Educación, fijar la equivalencia de las titulaciones oficiales y establecer las condiciones de reconocimiento de las actividades de formación organizadas por otras instituciones.
+### Disposiciones generales artículo 1 Objeto. La presente Orden tiene por objeto regular el proceso de convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado, organizadas por el Ministerio de Educación, fijar la equivalencia de las titulaciones oficiales y establecer las condiciones de reconocimiento de las actividades de formación organizadas por otras instituciones.
 
 #### Artículo 2. Concepto de formación permanente del profesorado.
 
@@ -93,9 +85,7 @@ Se considera formación permanente del profesorado, a efectos de su reconocimien
 
 3. Asimismo, podrán asistir personas que no habiendo ejercido la docencia, cumplan todos los requisitos para ello establecidos en la normativa vigente.
 
-CAPÍTULO II
-
-Modalidades y responsables de las actividades formativas
+## Capítulo II. Modalidades y responsables de las actividades formativas.
 
 #### Artículo 5. Modalidades de las acciones formativas.
 
@@ -149,11 +139,9 @@ Las jornadas, encuentros y cualquier otra actividad de estas características qu
 
 5. Ponente.–Persona experta en un determinado ámbito de conocimiento, que imparte las ponencias en cualquiera de las modalidades formativas, participa en mesas redondas o presenta comunicaciones o experiencias en congresos.
 
-CAPÍTULO III
+## Capítulo III. Diseño, evaluación y reconocimiento de las actividades de formación.
 
-Diseño, evaluación y reconocimiento de las actividades de formación
-
-#### Artículo 8. Diseño de actividades
+#### Artículo 8. Diseño de actividades.
 
 1. Las actividades se diseñarán atendiendo a las modalidades y forma de participación descritas en los artículos cinco y seis.
 
@@ -281,31 +269,29 @@ e) Criterios e indicadores de evaluación acordes a los objetivos y contenidos d
 
 4. Una vez reconocida la actividad formativa y antes de su inicio, la entidad quedará obligada a realizar la convocatoria haciendo públicos los siguientes datos:
 
-a)	Título de la actividad y modalidad.
+a) Título de la actividad y modalidad.
 
-b)	Entidad organizadora.
+b) Entidad organizadora.
 
-c)	Fechas y horarios de realización con indicaciones, si es el caso, de las fases presenciales y en red.
+c) Fechas y horarios de realización con indicaciones, si es el caso, de las fases presenciales y en red.
 
-d)	Personas a quienes va destinada la actividad.
+d) Personas a quienes va destinada la actividad.
 
-e)	Condiciones de participación.
+e) Condiciones de participación.
 
-f)	Criterios de selección si fuesen necesarios.
+f) Criterios de selección si fuesen necesarios.
 
-g)	Objetivos de la actividad, contenidos y método de trabajo.
+g) Objetivos de la actividad, contenidos y método de trabajo.
 
-h)	Valoración en horas de formación.
+h) Valoración en horas de formación.
 
-i)	Logotipo del Ministerio de Educación, indicando que la actividad está reconocida por éste.
+i) Logotipo del Ministerio de Educación, indicando que la actividad está reconocida por éste.
 
 5. La Dirección General de Formación Profesional elaborará las instrucciones correspondientes sobre los plazos y características de las actividades de formación en coherencia con las líneas prioritarias que establezca el Ministerio de Educación en este ámbito.
 
 6. El Ministerio de Educación podrá reconocer actividades organizadas por la Comisión Europea y por otros organismos públicos de carácter internacional de interés para el profesorado de enseñanzas reguladas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md) de Educación.
 
-CAPÍTULO IV
-
-Entidades colaboradoras
+## Capítulo IV. Entidades colaboradoras.
 
 #### Artículo 12. Requisitos.
 
@@ -353,9 +339,7 @@ e) Acuerdo del órgano de gobierno de la entidad en el que se decide la formaliz
 
 Con carácter excepcional y previa justificación, se podrán reconocer actividades de formación permanente del profesorado, mediante la oportuna resolución motivada, a aquellas entidades que realicen acciones formativas que se ajusten en su desarrollo a lo previsto en la presente Orden. La solicitud de reconocimiento por este sistema será resuelta por quien sea titular de la Dirección General de Formación Profesional del Ministerio de Educación en el plazo de tres meses, transcurrido dicho plazo sin resolución expresa por causas ajenas al interesado, se entenderá concedida la petición. Dicha resolución no pone fin a la vía administrativa, pudiendo ser recurrida en alzada ante el superior jerárquico en los plazos establecidos en el artículo 115 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-CAPÍTULO V
-
-Certificación y registro de actividades de formación
+## Capítulo V. Certificación y registro de actividades de formación.
 
 #### Artículo 16. Registro de Formación Permanente del Profesorado.
 
@@ -411,9 +395,7 @@ c) A quienes hayan ejercido las funciones de tutoría, el número de horas total
 
 d) A quienes hayan ejercido las funciones de coordinación en grupos de trabajo y proyectos de formación en centros, hasta un tercio más de las horas totales de duración de la actividad.
 
-CAPÍTULO VI
-
-Certificación y registro de actividades a solicitud del interesado
+## Capítulo VI. Certificación y registro de actividades a solicitud del interesado.
 
 #### Artículo 20. Proyectos de investigación.
 
@@ -549,7 +531,7 @@ Todas las referencias a cargos o puestos para los que en esta orden se utiliza l
 
 Las acciones formativas que se hayan realizado con anterioridad a la entrada en vigor de la presente Orden se reconocerán, certificarán y registrarán con arreglo a la normativa que recoge la Orden ministerial de 26 de noviembre de 1992 (BOE de 10 de diciembre), las Resoluciones de 27 de abril de 1994 (BOE de 25 de mayo), de 24 de enero de 1996 (BOE de febrero), de 12 de noviembre de 1998 (BOE de 8 de diciembre), y la Resolución de 8 de octubre de 2002 (BOE del 23) que la desarrollan.
 
-#### Disposición derogatoria. Normas que se derogan.
+Disposición derogatoria .... Normas que se derogan.
 
 A la entrada en vigor de la presente Orden quedan derogadas la Orden ministerial de 26 de noviembre de 1992 (BOE del 10 de diciembre), por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado y se establece la equivalencia de las actividades de investigación y de las titulaciones universitarias, las Resoluciones de 27 de abril de 1994 (BOE del 25 de mayo), de 24 de enero de 1996 (BOE de 13 febrero) y de 12 de noviembre de 1998 (BOE del 8 de diciembre) y la Resolución de 8 de octubre de 2002 (BOE 23 de octubre), que la desarrollan y cuantas normas se opongan o contradigan a la presente Orden, salvo lo indicado en la Disposición Transitoria Primera.
 
@@ -561,7 +543,7 @@ Se autoriza a la Secretaría de Estado de Educación y Formación Profesional, e
 
 Madrid, 20 de octubre de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
-ANEXO I
+## Anexo I
 
 Ficha modelo de la actividad
 
@@ -639,9 +621,7 @@ Número de grupos en los que se organiza:
 
 (5) Debe hacerse referencia, en todas las actividades, a la obligatoriedad de asistencia del 85% de las horas lectivas presenciales.
 
-ANEXO II
-
-D./D.ª ............................................................................................., como representante legal de la entidad denominada ..........................................................................................., con domicilio en ....................................................................................................................
+## Anexo II
 
 SOLICITO la firma de un convenio de colaboración con el Ministerio de Educación en materia de formación permanente del profesorado, al amparo de lo dispuesto en el artículo 12 de la Orden, por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado.
 
@@ -661,13 +641,11 @@ A tal fin remito la siguiente de documentación:
 
 De acuerdo con el artículo 6 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, consiento expresamente en que el Ministerio de Educación, a través de la Dirección General de Formación Profesional, recabe de la Agencia Estatal de la Administración Tributaria y de la Tesorería General de la Seguridad Social los siguientes datos: certificados de estar al corriente de sus obligaciones tributarias y frente a la Seguridad Social.
 
-En Madrid, a ........ de ................................... de ...........
-
 Fdo.:
 
 Sr. Director del Instituto de Formación del Profesorado, Investigación e Innovación Educativa.
 
-ANEXO III
+## Anexo III
 
 (Certificado para asistentes Entidades colaboradoras)
 
@@ -683,17 +661,17 @@ En _________________, a ____ de ______________ de 20___
 
 Nombre y apellidos, sello y firma (10)
 
-(6)	Nombre, apellidos y cargo en la entidad, de la persona que lo expide y nombre de la entidad organizadora.
+(6) Nombre, apellidos y cargo en la entidad, de la persona que lo expide y nombre de la entidad organizadora.
 
-(7)	Modalidad y denominación de la actividad.
+(7) Modalidad y denominación de la actividad.
 
-(8)	Lugar y fecha de celebración. Se indicará «en red» cuando la actividad no sea presencial.
+(8) Lugar y fecha de celebración. Se indicará «en red» cuando la actividad no sea presencial.
 
-(9)	Convenio de Colaboración o de la Resolución que concede el reconocimiento de la actividad y fecha.
+(9) Convenio de Colaboración o de la Resolución que concede el reconocimiento de la actividad y fecha.
 
-(10)	Firma del responsable y sello de la entidad.
+(10) Firma del responsable y sello de la entidad.
 
-ANEXO IV
+## Anexo IV
 
 (Certificado para Asistentes Ministerio de Educación)
 
@@ -717,7 +695,7 @@ Nombre y apellidos, sello y firma (14)
 
 (14) Firma del Director del Instituto de Formación del Profesorado, Investigación e Innovación Educativa, del funcionario de dicho Instituto en quien delegue o de la autoridad competente de las distintas Unidades Administrativas que certifiquen, y sello del Ministerio de Educación.
 
-ANEXO V
+## Anexo V
 
 (Certificado para Directores, Ponentes, Coordinadores y Tutores de Entidades colaboradoras)
 
@@ -745,7 +723,7 @@ Nombre y apellidos, sello y firma (20)
 
 (20) Firma del responsable y sello de la entidad.
 
-ANEXO VI
+## Anexo VI
 
 (Certificado para Directores, Ponentes, Coordinadores y Tutores del Ministerio de Educación)
 
@@ -771,7 +749,7 @@ Nombre y apellidos, sello y firma (25)
 
 (25) Firma del Director del Instituto de Formación del Profesorado, Investigación e Innovación Educativa, del funcionario de dicho Instituto en quien delegue o de la autoridad competente de las distintas Unidades Administrativas que certifiquen, y sello del Ministerio de Educación.
 
-ANEXO VII
+## Anexo VII
 
 (Reconocimiento para funcionarios docentes adscritos en comisión de servicios a la Administración educativa)
 
@@ -787,7 +765,7 @@ Nombre y apellidos, sello y firma
 
 (26) Nombre, apellidos y cargo en la entidad, de la persona que lo expide y nombre de la entidad organizadora.
 
-ANEXO VIII
+## Anexo VIII
 
 (Reconocimiento de créditos a solicitud de la persona interesada)
 
@@ -803,11 +781,10 @@ Nombre y apellidos, sello y firma
 
 (27) Nombre, apellidos y cargo en la entidad, de la persona que lo expide.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -815,6 +792,7 @@ Nombre y apellidos, sello y firma
 - **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)

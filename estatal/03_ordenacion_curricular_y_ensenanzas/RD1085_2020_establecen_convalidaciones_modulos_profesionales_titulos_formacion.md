@@ -1,15 +1,10 @@
 ---
 id: norm-es-2020-17274
 codigo_sintetizado: BOE-A-2020-17274
-titulo: Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones
-  de módulos profesionales de los títulos de Formación Profesional del sistema educativo
-  español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011,
-  de 29 de julio, por el que se establece la ordenación general de la formación profesional
-  del sistema educativo.
+titulo: Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2020-12-30'
 boletin: BOE
@@ -20,54 +15,51 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- formacion-profesional
-- grado-medio
-- procedimiento-administrativo
-- titulacion
+  - formacion-profesional
+  - grado-medio
+  - procedimiento-administrativo
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-2021-979
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2021-979
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-39-1997
   fundamento_de:
-  - norma_id: norm-es-2021-979
-  - norma_id: norm-es-2024-10684
-  - norma_id: norm-es-2024-10685
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-030
+    - norma_id: norm-es-2021-979
+    - norma_id: norm-es-2024-10684
+    - norma_id: norm-es-2024-10685
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-boc-2024-226-44
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-res-032
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-030
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-rd-39-1997
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2021-979
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2021-979
+    - norma_id: norm-es-2010-12201
 ---
-
-## Preámbulo
-
 # Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
-# [Real Decreto 1085/2020](RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+## Preámbulo
 
 Una de las intenciones perseguidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, es mejorar la flexibilidad entre las enseñanzas y facilitar los mecanismos de convalidaciones y equivalencias. En este sentido, el artículo 44.6 dispone que el Gobierno regulará el régimen de convalidaciones y equivalencias entre los ciclos formativos de grado medio y superior de la Formación Profesional y el resto de enseñanzas y estudios oficiales, oídos los correspondientes órganos colegiados.
 
@@ -95,13 +87,9 @@ En su virtud, a propuesta de la Ministra de Educación y Formación Profesional,
 
 **DISPONGO:**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 1. Objeto.
-
-El objeto de este real decreto es establecer las condiciones de convalidación de módulos profesionales de diferentes títulos de Formación Profesional del sistema educativo, de grado medio y de grado superior, destinadas al alumnado matriculado en estas enseñanzas.
+### Disposiciones generales artículo 1 Objeto. El objeto de este real decreto es establecer las condiciones de convalidación de módulos profesionales de diferentes títulos de Formación Profesional del sistema educativo, de grado medio y de grado superior, destinadas al alumnado matriculado en estas enseñanzas.
 
 #### Artículo 2. Ámbito de aplicación.
 
@@ -147,15 +135,9 @@ En aquellos casos, en los que la convalidación exija considerar más de un mód
 
 Los módulos profesionales así convalidados, así como los que se convaliden aportando estudios anteriores a la LOGSE, no llevarán asignada ninguna puntuación, constando en el expediente del alumnado como convalidado y no computarán a efectos de cálculo de la nota media del ciclo formativo.
 
-CAPÍTULO II
+## Capítulo II. Procedimiento para las convalidaciones.
 
-Procedimiento para las convalidaciones
-
-Sección 1.ª Iniciación del procedimiento. Solicitudes
-
-#### Artículo 4. Condiciones aplicables a la iniciación del procedimiento. Presentación de solicitudes.
-
-La solicitud de convalidación se presentará ante la dirección del centro docente en el que el alumnado se encuentra matriculado para cursar las enseñanzas para las que solicita la convalidación, siguiendo el modelo del Anexo V.
+#### Sección 1. ª Iniciación del procedimiento. Solicitudes artículo 4 Condiciones aplicables a la iniciación del procedimiento. Presentación de solicitudes. La solicitud de convalidación se presentará ante la dirección del centro docente en el que el alumnado se encuentra matriculado para cursar las enseñanzas para las que solicita la convalidación, siguiendo el modelo del Anexo V.
 
 El solicitante deberá haber satisfecho los derechos de matrícula en las enseñanzas para las cuales solicita la convalidación.
 
@@ -193,7 +175,7 @@ b) Certificado de Profesionalidad expedido por la Administración Laboral compet
 
 3. El solicitante, previo registro de sus datos personales, podrá descargar la resolución de su solicitud desde la propia sede electrónica. En tanto el solicitante no haya obtenido la resolución por parte del Ministerio de Educación y Formación Profesional, no estará eximido de la asistencia a clase y de la presentación a las evaluaciones correspondientes.
 
-Sección 2.ª Finalización del procedimiento. Resolución de convalidaciones
+#### Sección 2. ª Finalización del procedimiento. Resolución de convalidaciones
 
 #### Artículo 8. Convalidaciones cuya resolución le corresponde a los centros educativos.
 
@@ -269,7 +251,7 @@ Los expedientes de convalidaciones iniciados con anterioridad a la entrada en vi
 
 1. Queda derogado el artículo 38.3 del Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
-2. Queda derogado el Anexo relativo a las convalidaciones de módulos profesionales establecido en los reales decretos que regulan los títulos de Formación Profesional derivados de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, publicados con anterioridad al 5 de marzo de 2017, siendo dichos reales decretos los siguientes: Real Decreto 1394/2007, de 29 de octubre; Real Decreto 1395/2007, de 29 de octubre; Real Decreto 1396/2007, de 29 de octubre; Real Decreto 1397/2007, de 29 de octubre; Real Decreto 1398/2007, de 29 de octubre; Real Decreto 1399/2007, de 29 de octubre; Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1686/2007, de 14 de diciembre; Real Decreto 1687/2007, de 14 de diciembre; Real Decreto 1688/2007, de 14 de diciembre; Real Decreto 1689/2007, de 14 de diciembre; Real Decreto 1690/2007, de 14 de diciembre; Real Decreto 1691/2007, de 14 de diciembre; Real Decreto 1692/2007, de 14 de diciembre; Real Decreto 174/2008, de 8 de febrero; Real Decreto 175/2008, de 8 de febrero; Real Decreto 176/2008, de 8 de febrero; Real Decreto 177/2008, de 8 de febrero; Real Decreto 178/2008, de 8 de febrero; Real Decreto 219/2008, de 15 de febrero; Real Decreto 220/2008, de 15 de febrero; Real Decreto 954/2008, de 6 de junio; Real Decreto 955/2008, de 6 de junio; Real Decreto 1177/2008, de 11 de julio; Real Decreto 1796/2008, de 3 de noviembre; Real Decreto 1797/2008, de 3 de noviembre; Real Decreto 1798/2008, de 3 de noviembre; Real Decreto 1254/2009, de 24 de julio; Real Decreto 1255/2009, de 24 de julio; Real Decreto 1629/2009, de 30 de octubre; Real Decreto 1630/2009, de 30 de octubre; Real Decreto 1631/2009, de 30 de octubre; Real Decreto 1632/2009, de 30 de octubre; Real Decreto 1633/2009, de 30 de octubre; Real Decreto 1634/2009, de 30 de octubre; Real Decreto 450/2010, de 16 de abril; Real Decreto 451/2010, de 16 de abril; Real Decreto 452/2010, de 16 de abril; Real Decreto 453/2010, de 16 de abril; Real Decreto 454/2010, de 16 de abril; Real Decreto 686/2010, de 20 de mayo; Real Decreto 687/2010, de 20 de mayo; Real Decreto 688/2010, de 20 de mayo; Real Decreto 689/2010, de 20 de mayo; Real Decreto 690/2010, de 20 de mayo; Real Decreto 1127/2010, de 10 de septiembre; Real Decreto 1128/2010, de 10 de septiembre; Real Decreto 1129/2010, de 10 de septiembre; Real Decreto 1792/2010, de 30 de diciembre; Real Decreto 1793/2010, de 30 de diciembre; Real Decreto 254/2011, de 28 de febrero; Real Decreto 255/2011, de 28 de febrero; Real Decreto 256/2011, de 28 de febrero; Real Decreto 257/2011, de 28 de febrero; Real Decreto 258/2011, de 28 de febrero; Real Decreto 259/2011, de 28 de febrero; Real Decreto 260/2011, de 28 de febrero; Real Decreto 384/2011, de 18 de marzo; Real Decreto 385/2011, de 18 de marzo; Real Decreto 386/2011, de 18 de marzo; Real Decreto 387/2011, de 18 de marzo; Real Decreto 880/2011, de 24 de junio; Real Decreto 881/2011, de 24 de junio; Real Decreto 882/2011, de 24 de junio; Real Decreto 883/2011, de 24 de julio; Real Decreto 1571/2011, de 4 de noviembre; Real Decreto 1572/2011, de 4 de noviembre; Real Decreto 1573/2011, de 4 de noviembre; Real Decreto 1574/2011, de 4 de noviembre; Real Decreto 1575/2011, de 4 de noviembre; Real Decreto 1576/2011, de 4 de noviembre; Real Decreto 1577/2011, de 4 de noviembre; Real Decreto 1578/2011, de 4 de noviembre; Real Decreto 1579/2011, de 4 de noviembre; Real Decreto 1580/2011, de 4 de noviembre; Real Decreto 1581/2011, de 4 de noviembre; Real Decreto 1582/2011, de 4 de noviembre; Real Decreto 1583/2011, de 4 de noviembre; Real Decreto 1584/2011, de 4 de noviembre; Real Decreto 1585/2011, de noviembre; Real Decreto 1586/2011, de 4 de noviembre; Real Decreto 1587/2011, de 4 de noviembre; Real Decreto 1588/2011, de 4 de noviembre; Real Decreto 1589/2011, de 4 de noviembre; Real Decreto 1590/2011, de 4 de noviembre; Real Decreto 1591/2011, de 4 de noviembre; Real Decreto 1592/2011, de 4 de noviembre; Real Decreto 1593/2011, de 4 de noviembre; Real Decreto 1678/2011, de 18 de noviembre; Real Decreto 1680/2011, de 18 de noviembre; Real Decreto 1681/2011, de 18 de noviembre; Real Decreto 1682/2011, de 18 de noviembre; Real Decreto 1683/2011, de 18 de noviembre; Real Decreto 1684/2011, de 18 de noviembre; Real Decreto 1685/2011, de 18 de noviembre; Real Decreto 1686/2011, de 18 de noviembre; Real Decreto, 1687/2011, de 18 de noviembre; Real Decreto 1688/2011, de 18 de noviembre; Real Decreto 1689/2011, de 18 de noviembre; Real Decreto 1690/201,1 de 18 de noviembre; Real Decreto 1691/201,1 de 18 de noviembre; Real Decreto 553/2012, de 23 de marzo; Real Decreto 554/2012, de 23 de marzo; Real Decreto 555/2012, de 23 de marzo; Real Decreto 556/2012, de 23 de marzo; Real Decreto 1071/2012, de 13 de julio; Real Decreto 1072/2012, de 13 de julio; Real Decreto 1073/2012, de 13 de julio; Real Decreto 1074/2012, de 13 de julio; Real Decreto 1075/2012, de 13 de julio; Real Decreto 1144/2012, de 27 de julio; Real Decreto 1145/2012, de 27 de julio; Real Decreto 1585/2012, de 23 de noviembre; Real Decreto 174/2013, de 8 de marzo; Real Decreto 175/2013, de 8 de marzo; Real Decreto 779 /2013, de 11 de octubre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 906/2013, de 22 de noviembre; Real Decreto 907/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre; Real Decreto 772/2014, de 12 de septiembre; Real Decreto 831/2014, de 3 de octubre; Real Decreto 832/2014, de 3 de octubre; Real Decreto 636/2015, de 10 de julio; Real Decreto 838/2015, de 21 de septiembre; Real Decreto 113/2017, de 17 de febrero; y Real Decreto 114/2017, de 17 de febrero.
+2. Queda derogado el Anexo relativo a las convalidaciones de módulos profesionales establecido en los reales decretos que regulan los títulos de Formación Profesional derivados de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, publicados con anterioridad al 5 de marzo de 2017, siendo dichos reales decretos los siguientes: Real Decreto 1394/2007, de 29 de octubre; Real Decreto 1395/2007, de 29 de octubre; Real Decreto 1396/2007, de 29 de octubre; Real Decreto 1397/2007, de 29 de octubre; Real Decreto 1398/2007, de 29 de octubre; Real Decreto 1399/2007, de 29 de octubre; Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1686/2007, de 14 de diciembre; Real Decreto 1687/2007, de 14 de diciembre; Real Decreto 1688/2007, de 14 de diciembre; Real Decreto 1689/2007, de 14 de diciembre; Real Decreto 1690/2007, de 14 de diciembre; Real Decreto 1691/2007, de 14 de diciembre; Real Decreto 1692/2007, de 14 de diciembre; Real Decreto 174/2008, de 8 de febrero; Real Decreto 175/2008, de 8 de febrero; Real Decreto 176/2008, de 8 de febrero; Real Decreto 177/2008, de 8 de febrero; Real Decreto 178/2008, de 8 de febrero; Real Decreto 219/2008, de 15 de febrero; Real Decreto 220/2008, de 15 de febrero; Real Decreto 954/2008, de 6 de junio; Real Decreto 955/2008, de 6 de junio; Real Decreto 1177/2008, de 11 de julio; Real Decreto 1796/2008, de 3 de noviembre; Real Decreto 1797/2008, de 3 de noviembre; Real Decreto 1798/2008, de 3 de noviembre; Real Decreto 1254/2009, de 24 de julio; Real Decreto 1255/2009, de 24 de julio; Real Decreto 1629/2009, de 30 de octubre; Real Decreto 1630/2009, de 30 de octubre; Real Decreto 1631/2009, de 30 de octubre; Real Decreto 1632/2009, de 30 de octubre; Real Decreto 1633/2009, de 30 de octubre; Real Decreto 1634/2009, de 30 de octubre; Real Decreto 450/2010, de 16 de abril; Real Decreto 451/2010, de 16 de abril; Real Decreto 452/2010, de 16 de abril; Real Decreto 453/2010, de 16 de abril; Real Decreto 454/2010, de 16 de abril; Real Decreto 686/2010, de 20 de mayo; Real Decreto 687/2010, de 20 de mayo; Real Decreto 688/2010, de 20 de mayo; Real Decreto 689/2010, de 20 de mayo; Real Decreto 690/2010, de 20 de mayo; Real Decreto 1127/2010, de 10 de septiembre; Real Decreto 1128/2010, de 10 de septiembre; Real Decreto 1129/2010, de 10 de septiembre; Real Decreto 1792/2010, de 30 de diciembre; Real Decreto 1793/2010, de 30 de diciembre; Real Decreto 254/2011, de 28 de febrero; Real Decreto 255/2011, de 28 de febrero; Real Decreto 256/2011, de 28 de febrero; Real Decreto 257/2011, de 28 de febrero; Real Decreto 258/2011, de 28 de febrero; Real Decreto 259/2011, de 28 de febrero; Real Decreto 260/2011, de 28 de febrero; Real Decreto 384/2011, de 18 de marzo; Real Decreto 385/2011, de 18 de marzo; Real Decreto 386/2011, de 18 de marzo; Real Decreto 387/2011, de 18 de marzo; Real Decreto 880/2011, de 24 de junio; Real Decreto 881/2011, de 24 de junio; Real Decreto 882/2011, de 24 de junio; Real Decreto 883/2011, de 24 de julio; Real Decreto 1571/2011, de 4 de noviembre; Real Decreto 1572/2011, de 4 de noviembre; Real Decreto 1573/2011, de 4 de noviembre; Real Decreto 1574/2011, de 4 de noviembre; Real Decreto 1575/2011, de 4 de noviembre; Real Decreto 1576/2011, de 4 de noviembre; Real Decreto 1577/2011, de 4 de noviembre; Real Decreto 1578/2011, de 4 de noviembre; Real Decreto 1579/2011, de 4 de noviembre; Real Decreto 1580/2011, de 4 de noviembre; Real Decreto 1581/2011, de 4 de noviembre; Real Decreto 1582/2011, de 4 de noviembre; Real Decreto 1583/2011, de 4 de noviembre; Real Decreto 1584/2011, de 4 de noviembre; Real Decreto 1585/2011, de noviembre; Real Decreto 1586/2011, de 4 de noviembre; Real Decreto 1587/2011, de 4 de noviembre; Real Decreto 1588/2011, de 4 de noviembre; Real Decreto 1589/2011, de 4 de noviembre; Real Decreto 1590/2011, de 4 de noviembre; Real Decreto 1591/2011, de 4 de noviembre; Real Decreto 1592/2011, de 4 de noviembre; Real Decreto 1593/2011, de 4 de noviembre; Real Decreto 1678/2011, de 18 de noviembre; Real Decreto 1680/2011, de 18 de noviembre; Real Decreto 1681/2011, de 18 de noviembre; Real Decreto 1682/2011, de 18 de noviembre; Real Decreto 1683/2011, de 18 de noviembre; Real Decreto 1684/2011, de 18 de noviembre; Real Decreto 1685/2011, de 18 de noviembre; Real Decreto 1686/2011, de 18 de noviembre; Real Decreto, 1687/2011, de 18 de noviembre; Real Decreto 1688/2011, de 18 de noviembre; Real Decreto 1689/2011, de 18 de noviembre; Real Decreto 1690/201,1 de 18 de noviembre; Real Decreto 1691/201,1 de 18 de noviembre; Real Decreto 553/2012, de 23 de marzo; Real Decreto 554/2012, de 23 de marzo; Real Decreto 555/2012, de 23 de marzo; Real Decreto 556/2012, de 23 de marzo; Real Decreto 1071/2012, de 13 de julio; Real Decreto 1072/2012, de 13 de julio; Real Decreto 1073/2012, de 13 de julio; Real Decreto 1074/2012, de 13 de julio; Real Decreto 1075/2012, de 13 de julio; Real Decreto 1144/2012, de 27 de julio; Real Decreto 1145/2012, de 27 de julio; Real Decreto 1585/2012, de 23 de noviembre; Real Decreto 174/2013, de 8 de marzo; Real Decreto 175/2013, de 8 de marzo; Real Decreto 779 /2013, de 11 de octubre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 906/2013, de 22 de noviembre; Real Decreto 907/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre; Real Decreto 772/2014, de 12 de septiembre; Real Decreto 831/2014, de 3 de octubre; Real Decreto 832/2014, de 3 de octubre; Real Decreto 636/2015, de 10 de julio; Real Decreto 838/2015, de 21 de septiembre; Real Decreto 113/2017, de 17 de febrero; y Real Decreto 114/2017, de 17 de febrero.
 
 3. Quedan derogadas la Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo y la Orden ECD/2159/2014, de 7 de noviembre, por la que se establecen convalidaciones entre módulos profesionales de formación profesional del Sistema Educativo Español y medidas para su aplicación y se modifica la Orden de 20 de diciembre de 2001, por la que se determinan convalidaciones de estudios de formación profesional específica derivada de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo.
 
@@ -297,7 +279,7 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA ISABEL CELAÁ DIÉGUEZ
 
-ANEXO I
+## Anexo I
 
 Convalidaciones de Módulos Profesionales de títulos de Formación Profesional derivados de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo
 
@@ -383,7 +365,7 @@ Administración
 
 Ciclo Formativo: Gestión administrativa
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 GM
 
@@ -395,7 +377,7 @@ GM
 
 Ciclo formativo: Administración y finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 GS
 
@@ -411,15 +393,15 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Medio o Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.
 
 Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones.
 
-Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
+Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
 
 Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones.
 
@@ -433,15 +415,15 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.
 
 Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones.
 
-Certificado de Nivel Avanzado (B2), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
+Certificado de Nivel Avanzado (B2), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
 
 Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones.
 
@@ -455,21 +437,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 MP Segunda Lengua Extranjera, siempre que sea la misma que la que se desea convalidar.
 
-Segunda Lengua Extranjera.
+#### Segunda. Lengua Extranjera.
 
-Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
+Certificado de Nivel Intermedio (B1), equivalente o superior, de la Escuela Oficial de Idiomas (RD 1629/2006, de 29 de diciembre) siempre que sea de la misma lengua extranjera que la que se desea convalidar.
 
-Segunda Lengua Extranjera.
+#### Segunda. Lengua Extranjera.
 
 Título de Grado en Filología o Traducción e Interpretación, o equivalente, de la misma especialidad que la lengua extranjera que se desea convalidar.
 
-Segunda Lengua Extranjera.
+#### Segunda. Lengua Extranjera.
 
 Fabricación mecánica
 
@@ -477,19 +459,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 GRADO MEDIO
 
 Técnico en Mecanizado
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 Técnico en Joyería
 
-(RD 498/2003, de 2 de mayo)
+(RD 498/2003, de 2 de mayo)
 
 Preparación y programación de máquinas de fabricación mecánica.
 
@@ -503,21 +485,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 GRADO SUPERIOR
 
 Técnico Superior en Salud Ambiental
 
-(RD 540/1995, de 7 de abril)
+(RD 540/1995, de 7 de abril)
 
 (Sanidad)
 
 Técnico Superior en Química Ambiental
 
-(RD 812/1993, de 28 de mayo)
+(RD 812/1993, de 28 de mayo)
 
 Contaminación atmosférica, ruidos y radiaciones.
 
@@ -535,21 +517,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 GRADO MEDIO
 
 Técnico en Atención Sociosanitaria
 
-(RD 496/2003, de 2 de mayo)
+(RD 496/2003, de 2 de mayo)
 
 (Servicios Socioculturales y a la Comunidad)
 
 Técnico en Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, de 7 de abril)
+(RD 546/1995, de 7 de abril)
 
 Ciclo completo.
 
@@ -561,11 +543,11 @@ Técnicas básicas de enfermería.
 
 Técnico Superior en Documentación Sanitaria
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Técnico en Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, de 7 de abril)
+(RD 546/1995, de 7 de abril)
 
 Ciclo completo.
 
@@ -577,21 +559,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 GRADO MEDIO
 
 Técnico en Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, de 7 de abril)
+(RD 546/1995, de 7 de abril)
 
 (Sanidad)
 
 Técnico en Atención Sociosanitaria
 
-(RD 496/2003, de 2 de mayo)
+(RD 496/2003, de 2 de mayo)
 
 Ciclo completo.
 
@@ -601,11 +583,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Integración Social
 
-(RD 2061/1995, de 22 de diciembre)
+(RD 2061/1995, de 22 de diciembre)
 
 Técnico Superior en Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Contexto y metodología de la intervención social.
 
@@ -635,57 +617,57 @@ Ciclo Formativo:
 
 Gestión y Organización de Empresas Agropecuarias
 
-(RD 1711/1996, de 12 de julio)
+(RD 1711/1996, de 12 de julio)
 
 Organización y gestión de una explotación agraria familiar
 
 (Explotaciones Agrarias Extensivas)
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 (Explotaciones Agrícolas Intensivas)
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 (Explotaciones Ganaderas)
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 (Jardinería)
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 (Trabajos Forestales y de Conservación del Medio Natural)
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Ciclo Formativo:
 
 Gestión y Organización de los Recursos Naturales y Paisajísticos
 
-(RD 1712/ 1996, de 12 de julio)
+(RD 1712/ 1996, de 12 de julio)
 
 Organización y gestión de una explotación agraria familiar
 
 (Explotaciones Agrarias Extensivas)
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 (Explotaciones Agrícolas Intensivas)
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 (Explotaciones Ganaderas)
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 (Jardinería)
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 (Trabajos Forestales y de Conservación del Medio Natural)
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Módulo profesional:
 
@@ -693,33 +675,33 @@ Organización y gestión de una empresa agraria
 
 (Gestión y Organización de Empresas Agropecuarias)
 
-(RD 1711/1996, de 12 de julio)
+(RD 1711/1996, de 12 de julio)
 
 (Gestión y Organización de los Recursos Naturales y Paisajísticos)
 
-(RD 1712/ 1996, de 12 de julio)
+(RD 1712/ 1996, de 12 de julio)
 
 Organización y gestión de una explotación agraria familiar
 
 (Explotaciones Agrarias Extensivas)
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 (Explotaciones Agrícolas Intensivas)
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 (Explotaciones Ganaderas)
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 (Jardinería)
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 (Trabajos Forestales y de Conservación del Medio Natural)
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Familia: Actividades físicas y deportivas
 
@@ -745,25 +727,25 @@ Ciclo Formativo:
 
 Animación de Actividades Físicas y Deportivas
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 Actividades físicas para personas con Discapacidades
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Dinámica de grupos
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Fundamentos biológicos, salud y primeros auxilios
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -771,13 +753,13 @@ Animación y dinámica de grupos
 
 (Animación de Actividades Físicas y Deportivas)
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 Dinámica de grupos
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -785,7 +767,7 @@ Actividades físicas para personas con discapacidades
 
 (Animación de Actividades Físicas y Deportivas)
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 Actividades físicas para personas con
 
@@ -793,7 +775,7 @@ discapacidades
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -803,13 +785,13 @@ Primeros auxilios y socorrismo acuático
 
 (Animación de Actividades Físicas y Deportivas)
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 Fundamentos biológicos, salud y primeros auxilios
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Servicios socio-culturales y a la comunidad
 
@@ -817,25 +799,25 @@ Ciclo Formativo:
 
 Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Dinámica de grupos
 
 (Conducción de Actividades Físico-Deportivas en el Medio natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Educación Infantil
 
-(RD 2059/1995, de 22 de diciembre)
+(RD 2059/1995, de 22 de diciembre)
 
 Dinámica de grupos
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -843,17 +825,17 @@ Animación y dinámica de grupos
 
 (Animación Sociocultural)
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 (Educación Infantil)
 
-(RD 2059/1995, de 22 de diciembre.
+(RD 2059/1995, de 22 de diciembre.
 
 Dinámica de grupos
 
 (Conducción de Actividades Físico-Deportivas en el Medio Natural)
 
-(RD 2049/1995, de 22 de diciembre)
+(RD 2049/1995, de 22 de diciembre)
 
 Familia: Actividades marítimo-pesqueras
 
@@ -879,27 +861,27 @@ Ciclo Formativo:
 
 Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Seguridad, supervivencia y primeros auxilios en la Mar
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Seguridad, supervivencia y primeros auxilios en la mar
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -907,7 +889,7 @@ Seguridad, supervivencia y primeros auxilios en la mar
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Electricidad electrónica
 
@@ -915,13 +897,13 @@ Ciclo Formativo:
 
 Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Fabricación mecánica
 
@@ -929,25 +911,25 @@ Ciclo Formativo:
 
 Construcciones Metálicas
 
-(RD1656/1994 de 22 de julio)
+(RD1656/1994 de 22 de julio)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Soldadura y Calderería
 
-(RD 1657/1994 de 16 de diciembre)
+(RD 1657/1994 de 16 de diciembre)
 
 Operaciones auxiliares de mantenimiento industrial
 
 (Operación. Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -955,13 +937,13 @@ Ejecución de procesos de construcciones metálicas
 
 (Construcciones Metálicas)
 
-(RD 1656/1994 de 22 de julio)
+(RD 1656/1994 de 22 de julio)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Mantenimiento y servicios a la producción
 
@@ -969,39 +951,39 @@ Ciclo Formativo:
 
 Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Automatización, regulación y control
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Automatización, regulación y control
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Mantenimiento y servicios a la producción
 
@@ -1009,59 +991,59 @@ Ciclo Formativo:
 
 Mantenimiento de Equipo Industrial
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Automatización, regulación y control
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Módulos profesionales:
 
@@ -1069,17 +1051,17 @@ Automatismos eléctricos, neumáticos e hidráulicos + Conducción y mantenimien
 
 (Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Automatización, regulación y control
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -1087,13 +1069,13 @@ Montaje y mantenimiento de los sistemas eléctrico y electrónico
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Instalaciones y máquinas eléctricas
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -1101,21 +1083,21 @@ Sistemas automáticos en las instalaciones
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre
+(RD 2042/1995, de 22 de diciembre
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Automatización, regulación y control
 
 (Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque)
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Pesca y Transporte Marítimo)
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -1123,13 +1105,13 @@ Técnicas de fabricación para el mantenimiento y montaje
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Mantenimiento de vehículos autopropulsados
 
@@ -1137,25 +1119,25 @@ Ciclo Formativo:
 
 Mantenimiento Aeromecánico
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Mantenimiento de Aviónica
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -1163,17 +1145,17 @@ Técnicas electromecánicas básicas para el mantenimiento
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Técnicas auxiliares de mantenimiento industrial
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Familia: Administración
 
@@ -1199,43 +1181,43 @@ Ciclo Formativo:
 
 Administración y Finanzas
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Elaboración y presentación de documentos e información
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Elementos de derecho
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Gestión administrativa de personal
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Gestión de datos
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Productos y servicios financieros y de seguros básicos
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Administración
 
@@ -1243,25 +1225,25 @@ Ciclo Formativo:
 
 Secretariado
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Aplicaciones informáticas y operatoria de teclados
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Comunicación, archivo de la información y operatoria de teclados
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1269,43 +1251,43 @@ Aplicaciones informáticas y operatoria de teclados
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Elaboración y presentación de documentos e información
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Gestión de datos
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Módulos profesionales: Elaboración y presentación de documentos e información + Gestión de datos
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Aplicaciones informáticas y operatoria de teclados
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Módulos profesionales:
 
@@ -1315,13 +1297,13 @@ Productos y servicios financieros y de seguros
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Productos y servicios financieros y de seguros básicos
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1329,13 +1311,13 @@ Recursos humanos
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Gestión administrativa de personal
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Comercio y marketing
 
@@ -1343,67 +1325,67 @@ Ciclo Formativo:
 
 Comercio
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Comercio Internacional
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Gestión comercial y servicio de atención al cliente
 
 (Administración y Finanzas)
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 Ciclo Formativo:
 
 Gestión del Transporte
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Servicios al Consumidor
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1411,29 +1393,29 @@ Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Informática
 
@@ -1441,25 +1423,25 @@ Ciclo Formativo:
 
 Administración de Sistemas informáticos
 
-(RD1660/1994, de 22 de julio)
+(RD1660/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Desarrollo de Aplicaciones Informáticas
 
-(RD1661/1994, de 22 de julio)
+(RD1661/1994, de 22 de julio)
 
 Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Familia: Artes gráficas
 
@@ -1485,75 +1467,75 @@ Ciclo Formativo:
 
 Diseño y Producción Editorial
 
-(RD 2422/1994, de 16 de diciembre)
+(RD 2422/1994, de 16 de diciembre)
 
 Materias primas en artes gráficas
 
 (Encuadernación y Manipulados de Papel y cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 (Preimpresión en Artes Gráficas)
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Procesos de artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón) (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 (Preimpresión en Artes Gráficas)
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Ciclo Formativo:
 
 Producción en Industrias de Artes Gráficas
 
-(RD 2423/1994, de 16 de diciembre)
+(RD 2423/1994, de 16 de diciembre)
 
 Materias primas en artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 (Preimpresión en Artes Gráficas)
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Procesos de artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 (Preimpresión en Artes Gráficas)
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Seguridad en las industrias de artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -1561,25 +1543,25 @@ Materiales de producción en artes gráficas
 
 (Diseño y Producción Editorial)
 
-(RD 2422/1994, de 16 de diciembre)
+(RD 2422/1994, de 16 de diciembre)
 
 (Producción en Industrias de Artes Gráficas)
 
-(RD 2423/1994, de 16 de diciembre)
+(RD 2423/1994, de 16 de diciembre)
 
 Materias primas en artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 (Preimpresión en Artes Gráficas)
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -1587,17 +1569,17 @@ Planes de seguridad en industrias de artes gráficas
 
 (Producción en Industrias de Artes Gráficas)
 
-(RD 2423/1994, de 16 de diciembre)
+(RD 2423/1994, de 16 de diciembre)
 
 Seguridad en las industrias de artes gráficas
 
 (Encuadernación y Manipulados de Papel y Cartón)
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 (Impresión en Artes Gráficas)
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 Familia: Comercio y marketing
 
@@ -1623,75 +1605,75 @@ Ciclo Formativo:
 
 Administración y Finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Administración y gestión de un pequeño establecimiento comercial
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Gestión Administrativa
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Secretariado
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1699,13 +1681,13 @@ Aplicaciones informáticas
 
 (Gestión Administrativa)
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1713,29 +1695,29 @@ Aplicaciones informáticas y operatoria de teclados
 
 (Administración y Finanzas)
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Administración
 
@@ -1745,29 +1727,29 @@ Elaboración y presentación de documentos e información + Gestión de datos
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Comercio y marketing
 
@@ -1775,91 +1757,91 @@ Ciclo Formativo:
 
 Comercio Internacional
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Logística comercial
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Operaciones de almacenaje
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Comercialización del servicio de transporte
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Operaciones de venta
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Gestión del Transporte
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Logística comercial
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Operaciones de almacenaje
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Transporte internacional de mercancías
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Servicios al Consumidor
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Comercio y marketing
 
@@ -1869,17 +1851,17 @@ Almacenaje de productos
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Operaciones de almacenaje
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -1887,25 +1869,25 @@ Aplicaciones informáticas de propósito general
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Módulos profesionales:
 
@@ -1913,13 +1895,13 @@ Gestión de la compraventa + Marketing en el punto de venta
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Operaciones de venta
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Informática
 
@@ -1927,57 +1909,57 @@ Ciclo Formativo:
 
 Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Sanidad
 
@@ -1985,29 +1967,29 @@ Ciclo Formativo:
 
 Documentación Sanitaria
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Módulo profesional:
 
@@ -2015,29 +1997,29 @@ Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Aplicaciones informáticas de propósito general
 
 (Comercio)
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Familia: Comunicación, imagen y sonido
 
@@ -2063,25 +2045,25 @@ Ciclo Formativo:
 
 Preimpresión en Artes Gráficas
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Tratamiento de imágenes fotográficas por procedimientos digitales
 
 (Laboratorio de Imagen)
 
-(RD 2037/1995, de 22 de diciembre)
+(RD 2037/1995, de 22 de diciembre)
 
 Módulo profesional:
 
 Tratamiento de imágenes
 
-(Preimpresión en Artes Gráficas) (RD 2424/1994, de 16 de diciembre)
+(Preimpresión en Artes Gráficas) (RD 2424/1994, de 16 de diciembre)
 
 Tratamiento de imágenes fotográficas por procedimientos digitales
 
 (Laboratorio de Imagen)
 
-(RD 2037/1995, de 22 de diciembre)
+(RD 2037/1995, de 22 de diciembre)
 
 Comunicación imagen y sonido
 
@@ -2089,49 +2071,49 @@ Ciclo Formativo:
 
 Imagen
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Medios técnicos audiovisuales
 
 (Producción de Audiovisuales, Radio y Espectáculos)
 
-(RD 2034/1995, de 22 de diciembre)
+(RD 2034/1995, de 22 de diciembre)
 
 Procesos de imagen fotográfica
 
 (Laboratorio de Imagen)
 
-(RD 2037/1995, de 22 de diciembre)
+(RD 2037/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Realización de Audiovisuales y Espectáculos
 
-(RD 2035/1995, de 22 de diciembre)
+(RD 2035/1995, de 22 de diciembre)
 
 Lenguajes audiovisuales y escénicos
 
 (Producción de Audiovisuales, Radio y Espectáculos)
 
-(RD 2034/1995, de 22 de diciembre)
+(RD 2034/1995, de 22 de diciembre)
 
 Medios fotográficos y audiovisuales
 
 (Imagen)
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Medios técnicos audiovisuales
 
 (Producción de Audiovisuales, Radio y Espectáculos)
 
-(RD 2034/1995, de 22 de diciembre)
+(RD 2034/1995, de 22 de diciembre)
 
 Medios y lenguajes de comunicación visual
 
 (Imagen)
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -2139,25 +2121,25 @@ Iluminación de espacios escénicos + Medios fotográficos y audiovisuales
 
 (Imagen)
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Medios técnicos audiovisuales
 
 (Producción de Audiovisuales, Radio y Espectáculos)
 
-(RD 2034/1995, de 22 de diciembre)
+(RD 2034/1995, de 22 de diciembre)
 
 Módulos profesionales: Representaciones escénicas y espectáculos + Sistemas técnicos de realización
 
 (Realización de Audiovisuales y Espectáculos)
 
-(RD 2035/1995, de 22 de diciembre)
+(RD 2035/1995, de 22 de diciembre)
 
 Medios técnicos audiovisuales
 
 (Producción de Audiovisuales, Radio y Espectáculos)
 
-(RD 2034/1995, de 22 de diciembre)
+(RD 2034/1995, de 22 de diciembre)
 
 Familia: Edificación y obra civil
 
@@ -2183,19 +2165,19 @@ Ciclo Formativo:
 
 Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Proyecto de obra civil
 
 (Desarrollo y Aplicación de Proyectos de Construcción)
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Representaciones de construcción
 
 (Desarrollo y Aplicación de Proyectos de Construcción)
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Edificación y obra civil
 
@@ -2203,49 +2185,49 @@ Ciclo Formativo:
 
 Realización y Planes de Obra
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 Organización de los trabajos de acabados de construcción
 
 (Acabados de Construcción)
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 Organización de los trabajos de maquinaria de construcción
 
 (Operación y Mantenimiento de Maquinaría de Construcción)
 
-(RD 2214/1993, de 17 de diciembre)
+(RD 2214/1993, de 17 de diciembre)
 
 Organización de los trabajos de obras de albañilería
 
 (Obras de Albañilería)
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 Organización de los trabajos de obras de hormigón
 
 (Obras de Hormigón)
 
-(RD 2213/1993, de 17 de diciembre)
+(RD 2213/1993, de 17 de diciembre)
 
 Seguridad en la construcción
 
 (Acabados de Construcción)
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 (Obras de Albañilería)
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 (Obras de Hormigón)
 
-(RD 2213/1993, de 17 de diciembre)
+(RD 2213/1993, de 17 de diciembre)
 
 (Operación y Mantenimiento de Maquinaria de Construcción)
 
-(RD 2214/1993, de 17 de diciembre)
+(RD 2214/1993, de 17 de diciembre)
 
 Módulos profesionales:
 
@@ -2253,53 +2235,53 @@ Organización de tajos de obra + Planes de obra
 
 (Realización y Planes de Obra)
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 Organización de los trabajos de acabados de construcción
 
 (Acabados de Construcción)
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 Organización de tos trabajos de maquinaria de construcción
 
 (Operación y Mantenimiento de Maquinaria de Construcción)
 
-(RD 2214/1993, de 17 de diciembre)
+(RD 2214/1993, de 17 de diciembre)
 
 Organización de los trabajos de obras de albañilería
 
 (Obras de Albañilería)
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 Organización de los trabajos de obras de hormigón
 
-(Obras de Hormigón) (RD 2213/1993, de 17 de diciembre)
+(Obras de Hormigón) (RD 2213/1993, de 17 de diciembre)
 
 Módulo profesional:
 
 Planes de seguridad en la construcción
 
-(Realización y Planes de Obra) (RD 2210/1993, de 17 de diciembre)
+(Realización y Planes de Obra) (RD 2210/1993, de 17 de diciembre)
 
 Seguridad en la construcción
 
 (Acabados de Construcción)
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 (Obras de Albañilería)
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 (Obras de Hormigón)
 
-(RD 2213/1993, de 17 de diciembre)
+(RD 2213/1993, de 17 de diciembre)
 
 (Operación y Mantenimiento de Maquinaria de Construcción)
 
-(RD 2214/1993, de 17 de diciembre)
+(RD 2214/1993, de 17 de diciembre)
 
 Módulo profesional:
 
@@ -2307,13 +2289,13 @@ Proyecto de urbanización
 
 (Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas)
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Proyecto de obra civil
 
 (Desarrollo y Aplicación de Proyectos de Construcción)
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Familia: Electricidad y electrónica
 
@@ -2339,105 +2321,105 @@ Ciclo Formativo:
 
 Desarrollo de Productos Electrónicos
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Calidad
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 Electrónica digital y microprogramable
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Electrónica general
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Instalaciones básicas
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Instalaciones Electrotécnicas
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 Calidad
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Sistemas de Regulación y Control Automáticos
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 Calidad
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 Informática técnica
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Sistemas de Telecomunicación e Informáticos
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Calidad
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 Informática industrial
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 Sistemas electrónicos de información
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Técnicas de programación
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Electricidad y electrónica
 
@@ -2447,41 +2429,41 @@ Calidad
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Calidad
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Equipos e Instalaciones Electrotécnicas)
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Módulos profesionales: Comunicaciones industriales + informática industrial
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 Informática técnica
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2489,13 +2471,13 @@ Electrónica analógica
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Electrónica general
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2503,13 +2485,13 @@ Instalaciones eléctricas de interior
 
 (Equipos e Instalaciones Electrotécnicas)
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Instalaciones básicas
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2517,13 +2499,13 @@ Lógica digital y microprogramable
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Electrónica digital y microprogramable
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2531,13 +2513,13 @@ Sistemas operativos y lenguajes de programación
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Técnicas de programación
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Fabricación mecánica
 
@@ -2545,31 +2527,31 @@ Ciclo Formativo:
 
 Construcciones Metálicas
 
-(RD 1656/1994 de 22 de julio)
+(RD 1656/1994 de 22 de julio)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Fabricación mecánica
 
@@ -2577,59 +2559,59 @@ Ciclo Formativo:
 
 Producción por Fundición y Pulvimetalurgia
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Producción por Mecanizado
 
-(RD 2417/1994 de 16 de diciembre)
+(RD 2417/1994 de 16 de diciembre)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
-(Desarrollo de Productos Electrónicos) (RD 620/1995 de 21 de abril)
+(Desarrollo de Productos Electrónicos) (RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2637,35 +2619,35 @@ Control de calidad en fabricación mecánica
 
 (Producción por Fundición y Pulvimetalurgia)
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 (Producción por Mecanizado)
 
-(RD 2417/1994 de 16 de diciembre)
+(RD 2417/1994 de 16 de diciembre)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2673,31 +2655,31 @@ Gestión de la calidad en construcciones metálicas
 
 (Construcciones Metálicas)
 
-RD 1656/1994 de 22 de julio)
+RD 1656/1994 de 22 de julio)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Informática
 
@@ -2705,37 +2687,37 @@ Ciclo Formativo:
 
 Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Sistemas operativos y lenguajes de programación
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Técnicas de programación
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Sistemas operativos y lenguajes de programación
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Técnicas de programación
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2743,13 +2725,13 @@ Programación en lenguajes estructurados
 
 (Desarrollo de Aplicaciones Informáticas)
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Técnicas de programación
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 Madera y mueble
 
@@ -2757,59 +2739,59 @@ Ciclo Formativo:
 
 Desarrollo de Productos en Carpintería y Mueble
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril)
+(RD 620/1995 de 21 de abril)
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Producción de Madera y Mueble
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril) (Instalaciones Electrotécnicas)
+(RD 620/1995 de 21 de abril) (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -2817,31 +2799,31 @@ Gestión de la calidad en industrias de la madera y el mueble
 
 (Desarrollo de Productos en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril) (Producción de Madera y Mueble)
+(RD 728/1994, de 22 de abril) (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Calidad
 
-(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
+(Equipos e Instalaciones Electrotécnicas) (RD 623/1995 de 21 de abril)
 
 (Equipos Electrónicos de Consumo)
 
-(RD 624/1995 de 21 de abril)
+(RD 624/1995 de 21 de abril)
 
 (Desarrollo de Productos Electrónicos)
 
-(RD 620/1995 de 21 de abril) (Instalaciones Electrotécnicas)
+(RD 620/1995 de 21 de abril) (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 (Sistemas de Telecomunicación e Informáticos)
 
-(RD 622/1995 de 21 de abril)
+(RD 622/1995 de 21 de abril)
 
 Familia: Fabricación mecánica
 
@@ -2869,35 +2851,35 @@ Sistemas de Regulación y Control
 
 Automáticos
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Automatización de la fabricación
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Programación de sistemas automáticos de fabricación mecánica
 
-(Producción por Fundición y Pulvimetalurgia) (RD 2418/1994, de 16 de diciembre)
+(Producción por Fundición y Pulvimetalurgia) (RD 2418/1994, de 16 de diciembre)
 
 (Producción por Mecanizado)
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Sistemas auxiliares de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Módulos profesionales:
 
@@ -2907,13 +2889,13 @@ Gestión del desarrollo de sistemas automáticos
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Automatización de la fabricación
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Fabricación mecánica
 
@@ -2921,63 +2903,63 @@ Ciclo Formativo:
 
 Construcciones Metálicas
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Desarrollos geométricos en construcciones metálicas
 
 (Soldadura y Calderería)
 
-RD 1657/1994 de 16 de diciembre)
+RD 1657/1994 de 16 de diciembre)
 
 Ciclo Formativo:
 
 Mecanizado
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 Mecanizado en construcciones metálicas
 
 (Soldadura y Calderería)
 
-(RD 1657/1994 de 16 de diciembre)
+(RD 1657/1994 de 16 de diciembre)
 
 Ciclo Formativo:
 
 Producción por Fundición y Pulvimetalurgía
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
-(Tratamientos Superficiales y Térmicos) (RD 2420/1994, de 16 de diciembre)
+(Tratamientos Superficiales y Térmicos) (RD 2420/1994, de 16 de diciembre)
 
 Ciclo Formativo:
 
 Producción por Mecanizado
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -2985,25 +2967,25 @@ Planes de seguridad en industrias de fabricación mecánica
 
 (Producción por Fundición y Pulvimetalurgía)
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 (Producción por Mecanizado)
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -3011,13 +2993,13 @@ Representación en construcciones metálicas
 
 (Construcciones Metálicas)
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Desarrollos geométricos en construcciones metálicas
 
 (Soldadura y Calderería)
 
-(RD 1657/1994 de 16 de diciembre)
+(RD 1657/1994 de 16 de diciembre)
 
 Mantenimiento y servicios a la producción
 
@@ -3025,73 +3007,73 @@ Ciclo Formativo:
 
 Mantenimiento de Equipo Industrial
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Automatización de la fabricación
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Técnicas de fabricación mecánica
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Ciclo Formativo:
 
 Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Ciclo Formativo:
 
 Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Sistemas auxiliares de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -3099,21 +3081,21 @@ Conducción y mantenimiento de líneas automatizadas
 
 (Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Sistemas auxiliares de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Módulo profesional:
 
@@ -3121,25 +3103,25 @@ Planes de seguridad en el mantenimiento y montaje de equipos e instalaciones
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Seguridad en las industrias de fabricación mecánica
 
 (Fundición)
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 (Mecanizado)
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Familia: Hostelería y turismo
 
@@ -3165,87 +3147,87 @@ Ciclo Formativo:
 
 Agencias de Viajes
 
-(RD 2215/1993, de 17 de diciembre)
+(RD 2215/1993, de 17 de diciembre)
 
 Productos y destinos turísticos nacionales e internacionales
 
 (Información y Comercialización Turísticas)
 
-(RD 2217/1993 de 17 de diciembre)
+(RD 2217/1993 de 17 de diciembre)
 
 Ciclo Formativo:
 
 Pastelería y Panadería
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Repostería
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Ciclo Formativo:
 
 Restauración
 
-(RD 2218/1993 de 17 de diciembre)
+(RD 2218/1993 de 17 de diciembre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento
 
 (Pastelería y Panadería)
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 (Servicios de Restaurante y Bar)
 
-(RD 2221/1993 de 17 de diciembre)
+(RD 2221/1993 de 17 de diciembre)
 
 Repostería
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Técnicas de pastelería, panadería, y conservación de alimentos
 
 (Pastelería y Panadería)
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Ciclo Formativo:
 
 Restauración
 
-(RD 2218/1993 de 17 de diciembre)
+(RD 2218/1993 de 17 de diciembre)
 
 Técnicas de servicio y atención al cliente
 
 (Servicios de Restaurante y Bar)
 
-(RD 2221/1993 de 17 de diciembre)
+(RD 2221/1993 de 17 de diciembre)
 
 Técnicas elementales de cocina
 
 (Servicios de Restaurante y Bar)
 
-(RD 2221/1993 de 17 de diciembre)
+(RD 2221/1993 de 17 de diciembre)
 
 Ciclo Formativo:
 
 Servicios de Restaurante y Bar
 
-(RD 2221/1993 de 17 de diciembre)
+(RD 2221/1993 de 17 de diciembre)
 
 Técnicas básicas de servicio y de preparación de alimentos y bebidas a la vista del cliente
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Módulos profesionales:
 
@@ -3255,13 +3237,13 @@ Técnicas de servicio y atención al cliente
 
 (Servicios de Restaurante y Bar)
 
-(RD 2221/1993 de 17 de diciembre)
+(RD 2221/1993 de 17 de diciembre)
 
 Técnicas básicas de servicio y de preparación de alimentos y bebidas a la vista del cliente
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Módulos profesionales:
 
@@ -3271,13 +3253,13 @@ Productos de pastelería y repostería
 
 (Pastelería y panadería)
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Repostería
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Módulos profesionales:
 
@@ -3285,13 +3267,13 @@ Producción y venta de servicios turísticos en agencias de viajes
 
 (Agencias de Viajes)
 
-(RD 2215/1993, de 17 de diciembre)
+(RD 2215/1993, de 17 de diciembre)
 
 Productos y destinos turísticos nacionales e internacionales
 
 (Información y Comercialización Turísticas)
 
-(RD 2217/1993 de 17 de diciembre)
+(RD 2217/1993 de 17 de diciembre)
 
 Industrias alimentarias
 
@@ -3299,25 +3281,25 @@ Ciclo Formativo:
 
 Panificación y Repostería
 
-(RD 2057/1995 de 22 de diciembre)
+(RD 2057/1995 de 22 de diciembre)
 
 Repostería
 
 (Cocina)
 
-(RD 2219/1993 de 17 de diciembre)
+(RD 2219/1993 de 17 de diciembre)
 
 Técnicas de pastelería, panadería, y conservación de alimentos
 
 (Pastelería y Panadería)
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Panificación y pastelería salada
 
 (Pastelería y Panadería)
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Servicios socio-culturales y a la comunidad
 
@@ -3325,13 +3307,13 @@ Ciclo Formativo:
 
 Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Actividades y recursos culturales
 
 (Animación Turística)
 
-(RD 274/2000 de 25 de febrero)
+(RD 274/2000 de 25 de febrero)
 
 Familia: Imagen personal
 
@@ -3357,13 +3339,13 @@ Ciclo Formativo:
 
 Imagen
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Procesos audiovisuales y espectáculos
 
 (Caracterización)
 
-(RD 631/1995 de 21 de abril)
+(RD 631/1995 de 21 de abril)
 
 Ciclo Formativo:
 
@@ -3371,13 +3353,13 @@ Realización de Audiovisuales y
 
 Espectáculos
 
-(RD 2035/1995, de 22 de diciembre)
+(RD 2035/1995, de 22 de diciembre)
 
 Procesos audiovisuales y espectáculos
 
 (Caracterización)
 
-(RD 631/1995 de 21 de abril)
+(RD 631/1995 de 21 de abril)
 
 Imagen personal
 
@@ -3385,53 +3367,53 @@ Ciclo Formativo:
 
 Asesoría de Imagen Personal
 
-(RD 627/1995 de 21 de abril)
+(RD 627/1995 de 21 de abril)
 
 Dirección técnico-artística
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Estética
 
-(RD 628/1995 de 21 de abril)
+(RD 628/1995 de 21 de abril)
 
 Anatomía y fisiología humanas básicas
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Cosmetología aplicada a la estética decorativa
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Depilación mecánica y técnicas complementarias
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Estética Personal Decorativa
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Técnicas básicas de manicura y pedicura
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Imagen personal
 
@@ -3439,13 +3421,13 @@ Ciclo Formativo:
 
 Peluquería
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Transformaciones del cabello para caracterización
 
 (Caracterización)
 
-(RD 631/1995 de 21 de abril)
+(RD 631/1995 de 21 de abril)
 
 Módulos profesionales:
 
@@ -3453,17 +3435,17 @@ Anatomía, fisiología y patología humanas aplicadas a la estética integral
 
 (Estética)
 
-(RD 628/1995 de 21 de abril)
+(RD 628/1995 de 21 de abril)
 
 Anatomía y fisiología humanas básicas
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Módulos profesionales:
 
@@ -3473,13 +3455,13 @@ Peinados, acabados y recogidos
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Transformaciones del cabello para caracterización
 
 (Caracterización)
 
-(RD 631/1995 de 21 de abril)
+(RD 631/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -3487,13 +3469,13 @@ Cosmetología aplicada a la estética integral
 
 (Estética)
 
-(RD 628/1995 de 21 de abril)
+(RD 628/1995 de 21 de abril)
 
 Cosmetología aplicada a la estética decorativa
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -3501,13 +3483,13 @@ Depilación
 
 (Estética)
 
-(RD 628/1995 de 21 de abril)
+(RD 628/1995 de 21 de abril)
 
 Depilación mecánica y técnicas complementarias
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -3515,13 +3497,13 @@ Escultura de uñas y estética de manos y pies
 
 (Estética Personal Decorativa)
 
-(RD 630/1995 de 21 de abril)
+(RD 630/1995 de 21 de abril)
 
 Técnicas básicas de manicura y pedicura
 
 (Peluquería)
 
-(RD 629/1995 de 21 de abril)
+(RD 629/1995 de 21 de abril)
 
 Familia: Industrias alimentarias
 
@@ -3549,13 +3531,13 @@ Sistemas de Regulación y Control
 
 Automáticos
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Sistemas automáticos de producción en la industria alimentaria
 
 (Industria Alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -3567,13 +3549,13 @@ Sistemas de medida y regulación
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Sistemas automáticos de producción en la industria alimentaria
 
 (Industria Alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Hostelería y turismo
 
@@ -3581,19 +3563,19 @@ Ciclo Formativo:
 
 Panadería y Pastelería
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 Elaboraciones básicas de pastelería
 
 (Panificación y Repostería)
 
-(RD 2057/1995 de 22 de diciembre)
+(RD 2057/1995 de 22 de diciembre)
 
 Especialidades y acabados de pastelería y confitería
 
 (Panificación y Repostería)
 
-(RD 2057/1995 de 22 de diciembre)
+(RD 2057/1995 de 22 de diciembre)
 
 Mantenimiento y servicios a la producción
 
@@ -3605,13 +3587,13 @@ Instalaciones de Fluidos, Térmicas y de
 
 Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Sistemas automáticos de producción en la industria alimentaria
 
 (Industria Alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Ciclo Formativo:
 
@@ -3619,43 +3601,43 @@ Mantenimiento y Montaje de
 
 Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Sistemas automáticos de producción en la industria alimentaria
 
 (Industria alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Ciclo Formativo:
 
 Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Sistemas de control y auxiliares de los procesos
 
-(Conservaduría Vegetal, Cárnica y de Pescado) (RD 2052/1995, de 22 de diciembre)
+(Conservaduría Vegetal, Cárnica y de Pescado) (RD 2052/1995, de 22 de diciembre)
 
 (Elaboración de Aceites y Jugos)
 
-(RD 2053/1995, de 22 de diciembre)
+(RD 2053/1995, de 22 de diciembre)
 
 (Elaboración de Productos Lácteos)
 
-(RD 2054/1995, de 22 de diciembre)
+(RD 2054/1995, de 22 de diciembre)
 
 (Elaboración de vinos y otras Bebidas)
 
-(RD 2055/1995, de 22 de diciembre)
+(RD 2055/1995, de 22 de diciembre)
 
 (Molinería e Industrias Cerealistas)
 
-(RD 2056/1995, de 22 de diciembre)
+(RD 2056/1995, de 22 de diciembre)
 
 (Panificación y Repostería)
 
-(RD 2057/1995 de 22 de diciembre)
+(RD 2057/1995 de 22 de diciembre)
 
 Módulo profesional:
 
@@ -3663,17 +3645,17 @@ Sistemas automáticos en las instalaciones
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Sistemas automáticos de producción en la industria alimentaria
 
 (Industria Alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Química
 
@@ -3681,13 +3663,13 @@ Ciclo formativo:
 
 Química Ambiental
 
-(RD 812/1993, de 28 de mayo)
+(RD 812/1993, de 28 de mayo)
 
 Técnicas de protección ambiental
 
 (Industria Alimentaria)
 
-(RD 2050/1995 de 22 de diciembre)
+(RD 2050/1995 de 22 de diciembre)
 
 Sanidad
 
@@ -3695,35 +3677,35 @@ Ciclo Formativo:
 
 Salud Ambiental
 
-(RD 540/1995, de 7 de abril)
+(RD 540/1995, de 7 de abril)
 
 Higiene y seguridad en la industria alimentaria
 
-(Conservaduría Vegetal, Cárnica y de Pescado) (RD 2052/1995, de 22 de diciembre)
+(Conservaduría Vegetal, Cárnica y de Pescado) (RD 2052/1995, de 22 de diciembre)
 
 (Elaboración de Aceites y Jugos)
 
-(RD 2053/1995, de 22 de diciembre)
+(RD 2053/1995, de 22 de diciembre)
 
 (Elaboración de Productos Lácteos)
 
-(RD 2054/1995, de 22 de diciembre)
+(RD 2054/1995, de 22 de diciembre)
 
 (Elaboración de vinos y otras Bebidas)
 
-(RD 2055/1995, de 22 de diciembre)
+(RD 2055/1995, de 22 de diciembre)
 
 (Matadero y Carnicería-Charcutería)
 
-(RD 2051/1995 de 22 de diciembre)
+(RD 2051/1995 de 22 de diciembre)
 
 (Molinería e Industrias Cerealistas)
 
-(RD 2056/1995, de 22 de diciembre)
+(RD 2056/1995, de 22 de diciembre)
 
 (Panificación y Repostería)
 
-(RD 2057/1995 de 22 de diciembre)
+(RD 2057/1995 de 22 de diciembre)
 
 Familia: Informática
 
@@ -3749,49 +3731,49 @@ Ciclo Formativo:
 
 Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Sistemas informáticos multiusuario y en red
 
 (Desarrollo de Aplicaciones Informáticas)
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Fundamentos de programación
 
 (Administración de Sistemas Informáticos)
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Módulo profesional:
 
 Programación en lenguajes estructurados
 
-(Desarrollo de Aplicaciones Informáticas) (RD 1661/1994, de 22 de julio)
+(Desarrollo de Aplicaciones Informáticas) (RD 1661/1994, de 22 de julio)
 
 Fundamentos de programación
 
 (Administración de Sistemas Informáticos)
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Módulos profesionales:
 
 Redes de área local + Sistemas informáticos monousuario y multiusuario
 
-(Administración de Sistemas Informáticos) (RD 1660/1994, de 22 de julio)
+(Administración de Sistemas Informáticos) (RD 1660/1994, de 22 de julio)
 
 Sistemas informáticos multiusuario y en red
 
 (Desarrollo de Aplicaciones Informáticas)
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Familia: Madera y mueble
 
@@ -3817,17 +3799,17 @@ Ciclo Formativo:
 
 Instalaciones Electrotécnicas
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 Gestión de calidad en industrias de la madera y el mueble
 
 (Desarrollo de Producto en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Ciclo Formativo:
 
@@ -3835,17 +3817,17 @@ Sistemas de Regulación y Control
 
 Automáticos
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Gestión de calidad en industrias de la madera y el mueble
 
 (Desarrollo de Producto en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -3853,21 +3835,21 @@ Calidad
 
 (Instalaciones Electrotécnicas)
 
-(RD 621/1995 de 21 de abril)
+(RD 621/1995 de 21 de abril)
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Gestión de calidad en industrias de la madera y el mueble
 
 (Desarrollo de Producto en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Madera y mueble
 
@@ -3875,63 +3857,63 @@ Ciclo Formativo:
 
 Desarrollo de Productos en Carpintería y Mueble
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 Definición de soluciones en carpintería y mueble a medida
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Materiales y productos en industrias de la madera
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
-(Transformación de Madera y Corcho) (RD 730/1994, de 22 de abril)
+(Transformación de Madera y Corcho) (RD 730/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Producción de Madera y Mueble
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Aplicación de acabados en carpintería y mueble
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 Materiales y productos en industrias de la madera
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 (Transformación de Madera y Corcho)
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Operaciones básicas de mecanizado en carpintería y mueble a medida
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Seguridad en la industria de la madera y el mueble
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 (Transformación de Madera y Corcho)
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Madera y mueble
 
@@ -3941,11 +3923,11 @@ Acabado industrial en carpintería y mueble
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Aplicación de acabados en carpintería y mueble
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 Módulos profesionales:
 
@@ -3953,13 +3935,13 @@ Desarrollo de producto en carpintería y mueble + Proyectos de instalación de c
 
 (Desarrollo de Productos en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 Definición de soluciones en carpintería y mueble a medida
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -3967,13 +3949,13 @@ Fabricación e instalación de carpintería y mueble
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Operaciones básicas de mecanizado en carpintería y mueble a medida
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -3981,19 +3963,19 @@ Planes de seguridad en las industrias de la madera y el mueble
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Seguridad en la industria de la madera y el mueble
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 (Transformación de Madera y Corcho)
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -4001,23 +3983,23 @@ Procesos en industrias de la madera
 
 (Producción de Madera y Mueble)
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 (Desarrollo de Productos en Carpintería y Mueble)
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 Materiales y productos en industrias de la madera
 
 (Fabricación a Medida e Instalación de Carpintería y Mueble)
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
-(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
+(Fabricación Industrial de Carpintería y Mueble) (RD 731/1994, de 22 de abril)
 
 (Transformación de Madera y Corcho)
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Familia: Mantenimiento y servicios a la producción
 
@@ -4043,61 +4025,61 @@ Ciclo Formativo:
 
 Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Instalaciones eléctricas y automatismos.
 
 (Montaje y Mantenimiento de instalaciones de Frío, Climatización y Producción de Calor)
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Montaje y mantenimiento eléctrico.
 
 (Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 (Mantenimiento Ferroviario)
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Sistemas de Regulación y Control Automáticos
 
-(RD 619/1995 de 21 de abril).
+(RD 619/1995 de 21 de abril).
 
 Automatismos eléctricos, neumáticos e hidráulicos.
 
 (Instalación y Mantenimiento Electromecánico de Maquinaría y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 (Mantenimiento Ferroviario)
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Montaje y mantenimiento de sistemas automáticos de producción.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Montaje y mantenimiento de los sistemas eléctrico y electrónico.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Sistemas automáticos en las instalaciones
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -4107,13 +4089,13 @@ Instalaciones eléctricas de enlace y centros de transformación
 
 (Equipos e Instalaciones Electrotécnicas)
 
-(RD 623/1995 de 21 de abril)
+(RD 623/1995 de 21 de abril)
 
 Instalaciones eléctricas y automatismos
 
 (Montaje y Mantenimiento de instalaciones de Frío, Climatización y Producción de Calor)
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4121,13 +4103,13 @@ Sistemas electrotécnicos de potencia
 
 (Sistemas de Regulación y Control Automáticos)
 
-(RD 619/1995 de 21 de abril)
+(RD 619/1995 de 21 de abril)
 
 Montaje y mantenimiento de los sistemas eléctrico y electrónico.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Fabricación mecánica
 
@@ -4135,31 +4117,31 @@ Ciclo Formativo:
 
 Desarrollo de Proyectos Mecánicos
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Elementos de máquinas.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Representación gráfica en maquinaria.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Mecanizado
 
-(RD 2419/1994 de 16 de diciembre)
+(RD 2419/1994 de 16 de diciembre)
 
 Calidad en el montaje y proceso.
 
 (Instalación y Mantenimiento Electromecánico y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Fabricación mecánica
 
@@ -4167,57 +4149,57 @@ Ciclo Formativo:
 
 Producción por Fundición y Pulvimetalurgia
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Calidad en el mantenimiento y montaje de equipos e instalaciones.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Producción por Mecanizado
 
-(RD 2417/1994 de 16 de diciembre)
+(RD 2417/1994 de 16 de diciembre)
 
 Calidad en el mantenimiento y montaje de equipos e instalaciones.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Soldadura y Calderería
 
-(RD 1657/1994 de 16 de diciembre)
+(RD 1657/1994 de 16 de diciembre)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones
 
 (Montaje y Mantenimiento de instalaciones de Frío, Climatización y Producción de Calor)
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Tratamientos Superficiales y Térmicos
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Calidad en el montaje y proceso
 
 (Instalación y Mantenimiento Electromecánico y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4225,21 +4207,21 @@ Control de calidad en fabricación mecánica.
 
 (Producción por Fundición y Pulvimetalurgia)
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 (Producción por Mecanizado)
 
-(RD 2417/1994 de 16 de diciembre)
+(RD 2417/1994 de 16 de diciembre)
 
 Calidad en el mantenimiento y montaje de equipos e instalaciones.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4247,13 +4229,13 @@ Control de las características del producto mecanizado.
 
 (Mecanizado)
 
-(RD 2419/1994 de 16 de diciembre)
+(RD 2419/1994 de 16 de diciembre)
 
 Calidad en el montaje y proceso.
 
 (Instalación y Mantenimiento Electromecánico y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4261,13 +4243,13 @@ Control de las características del producto tratado.
 
 (Tratamientos Superficiales y Térmicos)
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Calidad en el montaje y proceso.
 
 (Instalación y Mantenimiento Electromecánico y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -4277,13 +4259,13 @@ Materiales empleados en fabricación mecánica.
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Elementos de máquinas.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4291,13 +4273,13 @@ Representación gráfica en fabricación mecánica.
 
 (Desarrollo de Proyectos Mecánicos)
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Representación gráfica en maquinaria.
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Mantenimiento y servicios a la producción
 
@@ -4305,59 +4287,59 @@ Ciclo Formativo:
 
 Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Proyectos de modificación de instalaciones térmicas y de fluidos.
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Mantenimiento de Equipo Industrial
 
-(RD 2043/1995, de 22 de diciembre).
+(RD 2043/1995, de 22 de diciembre).
 
 Sistemas automáticos en las instalaciones.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Ciclo Formativo:
 
 Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Instalaciones de fluidos.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Instalaciones de procesos térmicos.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnicas de montaje de instalaciones.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones
 
 (Montaje y Mantenimiento de instalaciones de Frío, Climatización y Producción de Calor)
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4365,13 +4347,13 @@ Equipos para instalaciones térmicas y de fluidos.
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Instalaciones de fluidos.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Módulos profesionales:
 
@@ -4381,13 +4363,13 @@ Mantenimiento de instalaciones térmicas y de fluidos.
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Instalaciones de procesos térmicos.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4395,13 +4377,13 @@ Ejecución de procesos de montaje de instalaciones.
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnicas de montaje de instalaciones.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Módulo profesional:
 
@@ -4409,13 +4391,13 @@ Proyectos de instalaciones térmicas y de fluidos.
 
 (Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención)
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Proyectos de modificación de instalaciones térmicas y de fluidos.
 
 (Mantenimiento y Montaje de Instalaciones de Edificio y Proceso)
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Familia: Mantenimiento de vehículos autopropulsados
 
@@ -4439,17 +4421,17 @@ Actividades marítimo-pesqueras
 
 Ciclo Formativo:
 
-Supervisión y Control de Máquinas e Instalaciones del Buque(RD 722/1994, de 22 de abril)
+Supervisión y Control de Máquinas e Instalaciones del Buque(RD 722/1994, de 22 de abril)
 
 Técnicas electromecánicas básicas para el mantenimiento
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Módulos profesionales:
 
@@ -4457,17 +4439,17 @@ Instalaciones y equipos eléctricos del buque + Técnicas auxiliares de mantenim
 
 (Supervisión y Control de Máquinas e Instalaciones del Buque)
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Técnicas electromecánicas básicas para el mantenimiento
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Mantenimiento y servicios a la producción
 
@@ -4475,47 +4457,47 @@ Ciclo Formativo:
 
 Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Técnicas de mecanizado para el mantenimiento de vehículos
 
 (Electromecánica de Vehículos)
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Mantenimiento de Equipo Industrial
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Técnicas electromecánicas básicas para el mantenimiento
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Técnicas de mecanizado para el mantenimiento de vehículos
 
 (Electromecánica de Vehículos)
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Ciclo Formativo:
 
 Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Técnicas de mecanizado para el mantenimiento de vehículos
 
 (Electromecánica de Vehículos)
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Módulos profesionales:
 
@@ -4523,13 +4505,13 @@ Elementos de máquinas + Técnicas de fabricación para el mantenimiento y monta
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Técnicas de mecanizado para el mantenimiento de vehículos
 
 (Electromecánica de Vehículos)
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Módulos profesionales:
 
@@ -4537,17 +4519,17 @@ Montaje y mantenimiento de los sistemas eléctrico y electrónico + Técnicas de
 
 (Mantenimiento de Equipo Industrial)
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Técnicas electromecánicas básicas para el mantenimiento
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Módulo profesional:
 
@@ -4555,17 +4537,17 @@ Técnicas de mecanizado para el mantenimiento y montaje
 
 (Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas)
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 (Mantenimiento Ferroviario)
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Técnicas de mecanizado para el mantenimiento de vehículos
 
 (Electromecánica de Vehículos)
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Mantenimiento de vehículos autopropulsados
 
@@ -4573,25 +4555,25 @@ Ciclo Formativo:
 
 Mantenimiento Aeromecánico
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 Planta de potencia y sistemas mecánicos de las aeronaves
 
 (Mantenimiento de Aviónica)
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Ciclo Formativo:
 
 Mantenimiento de Aviónica
 
-(RD 626/1995 de 21 de abril)
+(RD 626/1995 de 21 de abril)
 
 Sistemas eléctricos/electrónicos de las aeronaves
 
 (Mantenimiento Aeromecánico)
 
-(RD 625/1995 de 21 de abril)
+(RD 625/1995 de 21 de abril)
 
 Familia: Química
 
@@ -4617,83 +4599,83 @@ Ciclo Formativo:
 
 Análisis y Control
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Control de calidad de procesos de transformación de plásticos y caucho
 
 (Plásticos y Caucho)
 
-(RD 813/1993, de 28 de mayo)
+(RD 813/1993, de 28 de mayo)
 
 Control de calidad en la industria farmacéutica
 
 (Fabricación de Productos Farmacéuticos y Afines)
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 Control de calidad en la industria papelera
 
 (Industrias de Proceso de Pasta y Papel)
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 Control de calidad en la industria química
 
 (Industrias de Proceso Químico)
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Ensayos físicos y fisicoquímicos
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Pruebas microbiológicas
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Ciclo Formativo:
 
 Fabricación de Productos Farmacéuticos y Afines
 
-(RD 810/1993, de 28 de abril)
+(RD 810/1993, de 28 de abril)
 
 Organización, seguridad y ambiente químico
 
 (Operaciones de Fabricación de Productos Farmacéuticos)
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 (Operaciones de Proceso de Pasta y Papel)
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 (Operaciones de Proceso en Planta Química)
 
-(RD 814/1993, de 28 de mayo)
+(RD 814/1993, de 28 de mayo)
 
 Ciclo Formativo:
 
 Industrias de Proceso de Pasta y Papel
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 Organización, seguridad y ambiente químico
 
 (Operaciones de Fabricación de Productos Farmacéuticos)
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 (Operaciones de Proceso de Pasta y Papel)
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 (Operaciones de Proceso en Planta Química)
 
-(RD 814/1993, de 28 de mayo)
+(RD 814/1993, de 28 de mayo)
 
 Química
 
@@ -4701,61 +4683,61 @@ Ciclo Formativo:
 
 Industrias de Proceso Químico
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Organización, seguridad y ambiente químico
 
 (Operaciones de Fabricación de Productos Farmacéuticos)
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 (Operaciones de Proceso de Pasta y Papel)
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 (Operaciones de Proceso en Planta Química)
 
-(RD 814/1993, de 28 de mayo)
+(RD 814/1993, de 28 de mayo)
 
 Ciclo Formativo:
 
 Laboratorio
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Química aplicada
 
 (Operaciones de Fabricación de Productos Farmacéuticos)
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 (Operaciones de Proceso de Pasta y Papel)
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 (Operaciones de Proceso en Planta Química)
 
-(RD 814/1993, de 28 de mayo)
+(RD 814/1993, de 28 de mayo)
 
 Ciclo Formativo:
 
 Química Ambiental
 
-(RD 812/1993, de 28 de mayo)
+(RD 812/1993, de 28 de mayo)
 
 Seguridad y ambiente químico
 
 (Fabricación de Productos Farmacéuticos y Afines)
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 (Industrias de Proceso de Pasta y Papel)
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 (Industrias de Proceso Químico)
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Módulo profesional:
 
@@ -4763,13 +4745,13 @@ Análisis microbiológico
 
 (Análisis y Control)
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Pruebas microbiológicas
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Módulo profesional:
 
@@ -4777,13 +4759,13 @@ Ensayos físicos
 
 (Análisis y Control)
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Ensayos físicos y fisicoquímicos
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Módulos profesionales:
 
@@ -4791,29 +4773,29 @@ Organización y gestión en industrias de procesos + Seguridad y ambiente quími
 
 (Fabricación de Productos Farmacéuticos y Afines)
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 (Industrias de Proceso de Pasta y Papel)
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 (Industrias de Proceso Químico)
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Organización, seguridad y ambiente químico
 
 (Operaciones de Fabricación de Productos Farmacéuticos)
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 (Operaciones de Proceso de Pasta y Papel)
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 (Operaciones de Proceso en Planta Química)
 
-(RD 814/1993, de 28 de mayo)
+(RD 814/1993, de 28 de mayo)
 
 Módulo profesional:
 
@@ -4821,21 +4803,21 @@ Seguridad química e higiene industrial
 
 (Química Ambiental)
 
-(RD 812/1993, de 28 de mayo)
+(RD 812/1993, de 28 de mayo)
 
 Seguridad y ambiente químico
 
 (Fabricación de Productos Farmacéuticos y Afines)
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 (Industrias de Proceso de Pasta y Papel)
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 (Industrias de Proceso Químico)
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Sanidad
 
@@ -4843,25 +4825,25 @@ Ciclo Formativo:
 
 Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Análisis microbiológico
 
 (Análisis y Control)
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Información y seguridad en el Laboratorio
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Pruebas microbiológicas
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Módulo profesional:
 
@@ -4869,13 +4851,13 @@ Fundamentos y técnicas de análisis microbiológicos
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Pruebas microbiológicas
 
 (Laboratorio)
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Familia: Sanidad
 
@@ -4901,25 +4883,25 @@ Ciclo Formativo:
 
 Administración y Finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Secretariado
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Módulo profesional:
 
@@ -4927,13 +4909,13 @@ Aplicaciones informáticas y operatoria de teclados
 
 (Administración y finanzas)
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Módulos profesionales:
 
@@ -4941,13 +4923,13 @@ Elaboración y presentación de documentos e información + Gestión de datos
 
 (Secretariado)
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Comercio y marketing
 
@@ -4955,49 +4937,49 @@ Ciclo Formativo:
 
 Comercio Internacional
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Gestión comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Gestión del Transporte
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Servicios al Consumidor
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Módulo profesional:
 
@@ -5005,25 +4987,25 @@ Aplicaciones informáticas de propósito general.
 
 (Comercio Internacional)
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 (Gestión Comercial y Marketing)
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 (Gestión del Transporte)
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 (Servicios al Consumidor)
 
-(RD 1652/1994, de 22 de julio)
+(RD 1652/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Comunicación, imagen y sonido
 
@@ -5031,13 +5013,13 @@ Ciclo Formativo:
 
 Imagen
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Fotografía macro y microscópica
 
 (Anatomía Patológica y Citológica)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Módulos profesionales:
 
@@ -5047,13 +5029,13 @@ Medios fotográficos y audiovisuales
 
 (Imagen)
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Fotografía macro y microscópica
 
 (Anatomía Patológica y Citológica)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Electricidad y electrónica
 
@@ -5061,13 +5043,13 @@ Ciclo Formativo:
 
 Desarrollo de Productos Electrónicos
 
-(RD 620/1995, de 21 de abril)
+(RD 620/1995, de 21 de abril)
 
 Electrónica aplicada a la audioprótesis
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Informática
 
@@ -5075,25 +5057,25 @@ Ciclo Formativo:
 
 Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Aplicaciones informáticas generales
 
 (Documentación Sanitaria)
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Sanidad
 
@@ -5101,43 +5083,43 @@ Ciclo Formativo:
 
 Anatomía Patológica y Citología
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Sanidad
 
@@ -5145,73 +5127,73 @@ Ciclo Formativo:
 
 Audioprótesis
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Administración y gestión de una unidad/gabinete ortoprotésico
 
 (Ortoprotésica)
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Organización, administración y gestión de unidad/gabinete de prótesis dentales
 
 (Prótesis dentales)
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Promoción de la salud y apoyo psicológico a las personas
 
 (Farmacia)
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Sanidad
 
@@ -5219,55 +5201,55 @@ Ciclo Formativo:
 
 Dietética
 
-(RD 536/1995. de 7 de abril)
+(RD 536/1995. de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Ciclo Formativo:
 
 Farmacia
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Promoción de la salud y apoyo psicológico al paciente
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Sanidad
 
@@ -5275,49 +5257,49 @@ Ciclo Formativo:
 
 Higiene Bucodental
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Técnicas de ayuda odontológica / estomatológica
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Sanidad
 
@@ -5325,43 +5307,43 @@ Ciclo Formativo:
 
 Imagen para el Diagnóstico
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Sanidad
 
@@ -5369,49 +5351,49 @@ Ciclo Formativo:
 
 Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Realización de análisis clínicos elementales bajo la supervisión del facultativo
 
 (Farmacia)
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Sanidad
 
@@ -5419,61 +5401,61 @@ Ciclo Formativo:
 
 Ortoprotésica
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Organización, administración y gestión de una unidad/gabinete de prótesis dentales
 
 (Prótesis Dentales)
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Sanidad
 
@@ -5481,67 +5463,67 @@ Ciclo Formativo:
 
 Prótesis Dentales
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Administración y gestión de una unidad/gabinete de ortoprotésica
 
 (Ortoprotésica)
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Ciclo Formativo:
 
 Prótesis Dentales
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Sanidad
 
@@ -5549,43 +5531,43 @@ Ciclo Formativo:
 
 Radioterapia
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Módulo profesional:
 
@@ -5593,43 +5575,43 @@ Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión al área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Sanidad
 
@@ -5639,25 +5621,25 @@ Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización, administración y gestión de una unidad/gabinete de prótesis dentales
 
 (Prótesis Dentales)
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Administración y gestión de una unidad/gabinete de ortoprotésica
 
 (Ortoprotésica)
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Sanidad
 
@@ -5667,7 +5649,7 @@ Administración y gestión de una unidad/gabinete de ortoprotésica
 
 (Ortoprotésica)
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Módulo profesional:
 
@@ -5675,55 +5657,55 @@ Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Organización, administración y gestión de una unidad/gabinete de prótesis dentales
 
 (Prótesis Dentales)
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Sanidad
 
@@ -5733,43 +5715,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Módulo profesional:
 
@@ -5777,43 +5759,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Sanidad
 
@@ -5823,43 +5805,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Módulo profesional:
 
@@ -5867,43 +5849,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en I, t unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Sanidad
 
@@ -5913,43 +5895,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Módulo profesional:
 
@@ -5957,43 +5939,43 @@ Organización y gestión del área de trabajo asignada en la unidad/gabinete de 
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Sanidad
 
@@ -6003,7 +5985,7 @@ Organización, administración y gestión de una unidad/gabinete de prótesis de
 
 (Prótesis Dentales)
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Módulo profesional:
 
@@ -6011,55 +5993,55 @@ Administración y gestión de un gabinete audioprotésico
 
 (Audioprótesis)
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Administración y gestión de una unidad/gabinete de ortoprotésica
 
 (Ortoprotésica)
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Operaciones administrativas y documentación sanitaria
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de anatomía patológica / citología
 
 (Anatomía Patológica y Citología)
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de laboratorio de diagnóstico clínico
 
 (Laboratorio de Diagnóstico Clínico)
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de imagen para el diagnóstico
 
 (Imagen para el Diagnóstico)
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de radioterapia
 
 (Radioterapia)
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de dietética
 
 (Dietética)
 
-(RD 536/1995 de 7 de abril)
+(RD 536/1995 de 7 de abril)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Módulo profesional:
 
@@ -6067,13 +6049,13 @@ Promoción de la salud y apoyo psicológico a las personas
 
 (Farmacia)
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Promoción de la salud y apoyo psicológico al paciente
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Módulo profesional:
 
@@ -6081,13 +6063,13 @@ Promoción de la salud y apoyo psicológico al paciente
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Promoción de la salud y apoyo psicológico a las personas
 
 (Farmacia)
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Sanidad
 
@@ -6097,13 +6079,13 @@ Exploración bucodental + Prevención bucodental
 
 (Higiene Bucodental)
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Técnicas de ayuda odontológica / estomatológica
 
 (Cuidados Auxiliares de Enfermería)
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Familia: Textil, confección y piel
 
@@ -6129,25 +6111,25 @@ Ciclo Formativo:
 
 Análisis y Control
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Química textil
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Laboratorio
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Química textil
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 Textil, confección y piel
 
@@ -6155,45 +6137,45 @@ Ciclo Formativo:
 
 Curtidos
 
-(RD 736/1994, de 22 de abril)
+(RD 736/1994, de 22 de abril)
 
 Piel y cuero
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 Química textil
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Textil, confección y piel
 
@@ -6201,109 +6183,109 @@ Ciclo Formativo:
 
 Patronaje
 
-(RD 738/1994, de 22 de abril)
+(RD 738/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Productos de confección
 
 (Procesos de Confección Industrial)
 
-(RD 737/1994, de 22 de abril)
+(RD 737/1994, de 22 de abril)
 
 Productos y procesos de calzado y marroquinería
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 Productos y procesos de confección
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Procesos de Confección Industrial
 
-(RD 737/1994, de 22 de abril)
+(RD 737/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Productos y procesos de calzado y marroquinería
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 Productos y procesos de confección
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Textil, confección y piel
 
@@ -6311,107 +6293,107 @@ Ciclo Formativo:
 
 Procesos de Ennoblecimiento Textil
 
-(RD 735/1994, de 22 de abril)
+(RD 735/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Química textil
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Ciclo Formativo:
 
 Procesos Textiles de Hilatura y Tejeduría de Calada
 
-(RD 733/1994, de 22 de abril)
+(RD 733/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Textil, confección y piel
 
@@ -6419,51 +6401,51 @@ Ciclo Formativo:
 
 Procesos Textiles de Tejeduría de Punto
 
-(RD 734/1994, de 22 de abril)
+(RD 734/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -6471,17 +6453,17 @@ Estudio y calidad de las pieles
 
 (Curtidos)
 
-(RD 736/1994, de 22 de abril)
+(RD 736/1994, de 22 de abril)
 
 Piel y cuero
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -6489,45 +6471,45 @@ Materias, productos y ensayos de calidad textil
 
 (Patronaje)
 
-(RD 738/1994, de 22 de abril)
+(RD 738/1994, de 22 de abril)
 
 (Procesos de Confección Industrial)
 
-(RD 737/1994, de 22 de abril)
+(RD 737/1994, de 22 de abril)
 
 (Procesos de Ennoblecimiento Textil)
 
-(RD 735/1994, de 22 de abril)
+(RD 735/1994, de 22 de abril)
 
 (Procesos Textiles de Hilatura y Tejeduría de Calada)
 
-(RD 733/1994, de 22 de abril)
+(RD 733/1994, de 22 de abril)
 
 (Procesos Textiles de Tejeduría de Punto)
 
-(RD 734/1994, de 22 de abril)
+(RD 734/1994, de 22 de abril)
 
 Materias textiles
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Textil, confección y piel
 
@@ -6537,45 +6519,45 @@ Planes de seguridad en la industria textil, confección y piel.
 
 (Curtidos)
 
-(RD 736/1994, de 22 de abril)
+(RD 736/1994, de 22 de abril)
 
 (Procesos de Confección Industrial)
 
-(RD 737/1994, de 22 de abril)
+(RD 737/1994, de 22 de abril)
 
 (Procesos de Ennoblecimiento Textil)
 
-(RD 735/1994, de 22 de abril)
+(RD 735/1994, de 22 de abril)
 
 (Procesos Textiles de Hilatura y Tejeduría de Calada)
 
-(RD 733/1994, de 22 de abril)
+(RD 733/1994, de 22 de abril)
 
 (Procesos Textiles de Tejeduría de Punto)
 
-(RD 734/1994, de 22 de abril)
+(RD 734/1994, de 22 de abril)
 
 Seguridad en la industria textil, confección y piel
 
 (Calzado y Marroquinería)
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 (Confección)
 
-(RD 743/1994, de 22 de abril)
+(RD 743/1994, de 22 de abril)
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
 (Producción de Tejidos de Punto)
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 (Producción de Hilatura y Tejeduría de Calada)
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Módulo profesional:
 
@@ -6583,21 +6565,21 @@ Química de los tratamientos
 
 (Curtidos)
 
-(RD 736/1994, de 22 de abril)
+(RD 736/1994, de 22 de abril)
 
 (Procesos de Ennoblecimiento Textil)
 
-(RD 735/1994, de 22 de abril)
+(RD 735/1994, de 22 de abril)
 
 Química textil
 
 (Operaciones de Ennoblecimiento Textil)
 
-(RD 741/1994, de 22 de abril)
+(RD 741/1994, de 22 de abril)
 
-ANEXO II
+## Anexo II
 
-Convalidaciones de módulos profesionales entre títulos regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Convalidaciones de módulos profesionales entre títulos regulados por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo y por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
 Convalidaciones de los módulos profesionales de Formación y Orientación Laboral
 
@@ -6605,9 +6587,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO Y GRADO SUPERIOR
 
@@ -6631,11 +6613,11 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Empresa e Iniciativa Emprendedora
 
-(Ley Orgánica 2/2006)
+(Ley Orgánica 2/2006)
 
 GRADO MEDIO Y GRADO SUPERIOR
 
@@ -6657,23 +6639,23 @@ Empresa e Iniciativa Emprendedora.
 
 Organización y gestión de una explotación agraria familiar
 
-Ciclo Trabajos Forestales y de Conservación del Medio Natural. (RD 1713/1996, de 12 de julio) (Agraria)
+Ciclo Trabajos Forestales y de Conservación del Medio Natural. (RD 1713/1996, de 12 de julio) (Agraria)
 
-Ciclo Jardinería. (RD 1714/1996, de 12 de julio) (Agraria)
+Ciclo Jardinería. (RD 1714/1996, de 12 de julio) (Agraria)
 
-Ciclo Explotaciones Agrarias Extensivas. (RD 1715/1996, de 12 de julio) (Agraria)
+Ciclo Explotaciones Agrarias Extensivas. (RD 1715/1996, de 12 de julio) (Agraria)
 
-Ciclo Explotaciones Agrícolas Intensivas. (RD 1716/1996, de 12 de julio)
+Ciclo Explotaciones Agrícolas Intensivas. (RD 1716/1996, de 12 de julio)
 
 (Agraria)
 
-Ciclo Explotaciones Ganaderas. (RD 1717/1996, de 12 de julio) (Agraria)
+Ciclo Explotaciones Ganaderas. (RD 1717/1996, de 12 de julio) (Agraria)
 
 Empresa e Iniciativa Emprendedora.
 
 (Cualquier ciclo formativo)
 
-Ciclo completo de Gestión administrativa. (RD 1662/1994, de 22 de julio)
+Ciclo completo de Gestión administrativa. (RD 1662/1994, de 22 de julio)
 
 (Administración y Gestión)
 
@@ -6761,7 +6743,7 @@ Empresa e Iniciativa Emprendedora.
 
 Ciclo completo de Administración y finanzas.
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 (Administración y Gestión)
 
@@ -6775,13 +6757,13 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
-Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas)
+Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas)
 
 Cuando la lengua extranjera cursada y superada sea inglés.
 
@@ -6805,7 +6787,7 @@ Lengua Extranjera (Inglés).
 
 0179. Inglés.
 
-Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas)
+Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas)
 
 Cuando la lengua extranjera cursada y superada sea inglés.
 
@@ -6823,27 +6805,27 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO SUPERIOR
 
-Segunda Lengua Extranjera.
+#### Segunda. Lengua Extranjera.
 
 Cuando la lengua extranjera cursada y superada sea la misma que se desea convalidar.
 
 180. Segunda Lengua Extranjera.
 
-Convalidaciones del módulo profesional 0020 Primeros Auxilios
+Convalidaciones del módulo profesional 0020 Primeros Auxilios
 
 Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Técnico en Cuidados Auxiliares de Enfermería
 
@@ -6859,19 +6841,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Gestión Administrativa
 
-(RD 1662/1994, de 22 de julio)
+(RD 1662/1994, de 22 de julio)
 
 Técnico en Gestión Administrativa
 
-(RD 1631/2009, de 30 de octubre)
+(RD 1631/2009, de 30 de octubre)
 
 Comunicación, archivo de la información y operatoria de teclados.
 
@@ -6905,11 +6887,11 @@ Aplicaciones informáticas.
 
 Técnico Superior en Secretariado
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Técnico en Gestión Administrativa
 
-(RD 1631/2009, de 30 de octubre)
+(RD 1631/2009, de 30 de octubre)
 
 Gestión de datos.
 
@@ -6925,11 +6907,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Secretariado
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 Elementos de derecho.
 
@@ -6951,11 +6933,11 @@ Organización del servicio y trabajos de secretariado.
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 Administración pública.
 
@@ -6989,11 +6971,11 @@ Proyecto empresarial.
 
 Técnico Superior en Secretariado.
 
-(RD 1658/1994, de 22 de julio)
+(RD 1658/1994, de 22 de julio)
 
 Técnico Superior en Administración y Finanzas.
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 Elementos de derecho.
 
@@ -7011,11 +6993,11 @@ Comunicación y relaciones profesionales.
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 Administración pública.
 
@@ -7031,19 +7013,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Trabajos Forestales y de Conservación del Medio Natural
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Técnico en Aprovechamiento y Conservación del Medio Natural
 
-(RD 1071/2012, de 13 de julio)
+(RD 1071/2012, de 13 de julio)
 
 Agrotecnología.
 
@@ -7081,11 +7063,11 @@ Actividades de uso público en espacios naturales.
 
 Técnico en Jardinería
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 Técnico en Aprovechamiento y Conservación del Medio Natural
 
-(RD 1071/2012, de 13 de julio)
+(RD 1071/2012, de 13 de julio)
 
 Mecanización agraria. Instalaciones agrarias.
 
@@ -7101,11 +7083,11 @@ Producción de plantas.
 
 Técnico en Explotaciones Agrarias Extensivas
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 Técnico en Aprovechamiento y Conservación del Medio Natural
 
-(RD 1071/2012, de 13 de julio)
+(RD 1071/2012, de 13 de julio)
 
 Mecanización agraria. Instalaciones agrarias.
 
@@ -7117,11 +7099,11 @@ Agrotecnología.
 
 Técnico Explotaciones Agrícola Intensivas
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 Técnico en Aprovechamiento y Conservación del Medio Natural
 
-(RD 1071/2012, de 13 de julio)
+(RD 1071/2012, de 13 de julio)
 
 Mecanización agraria. Instalaciones agrarias.
 
@@ -7137,11 +7119,11 @@ Producción de plantas.
 
 Técnico Explotaciones Ganaderas
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 Técnico en Aprovechamiento y Conservación del Medio Natural
 
-(RD 1071/2012, de 13 de julio)
+(RD 1071/2012, de 13 de julio)
 
 Mecanización agraria. Instalaciones agrarias.
 
@@ -7153,11 +7135,11 @@ Agrotecnología.
 
 Técnico en Jardinería
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Agrotecnología.
 
@@ -7191,11 +7173,11 @@ Jardinería de interiores y arreglos florales.
 
 Técnico Explotaciones Agrarias Extensivas
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Agrotecnología.
 
@@ -7213,11 +7195,11 @@ Métodos de control fitosanitario.
 
 Técnico Explotaciones Agrícolas Intensivas
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Agrotecnología.
 
@@ -7239,11 +7221,11 @@ Producción de plantas.
 
 Técnico Explotaciones Ganaderas
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Agrotecnología.
 
@@ -7255,11 +7237,11 @@ Instalaciones agrarias.
 
 Técnico en Trabajos Forestales y de Conservación del Medio Natural
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Agrotecnología.
 
@@ -7275,11 +7257,11 @@ Producción de plantas.
 
 Técnico en Jardinería
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7291,11 +7273,11 @@ Instalaciones agrarias.
 
 Técnico Explotaciones Agrarias Extensivas
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7307,11 +7289,11 @@ Instalaciones agrarias.
 
 Técnico Explotaciones Agrícolas Intensivas
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7323,11 +7305,11 @@ Instalaciones agrarias.
 
 Técnico Explotaciones Ganaderas
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7339,11 +7321,11 @@ Instalaciones agrarias.
 
 Técnico en Trabajos Forestales y de Conservación del Medio Natural
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7355,11 +7337,11 @@ Instalaciones agrarias.
 
 Técnico en Explotaciones Agrarias Extensivas
 
-(RD 1715/1996, de 12 de julio)
+(RD 1715/1996, de 12 de julio)
 
 Técnico en Producción Agropecuaria
 
-(RD 1634/2009, de 30 de octubre)
+(RD 1634/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7391,11 +7373,11 @@ Manejo racional del ganado. Producción ganadera ligada a la tierra.
 
 Técnico en Explotaciones Agrícolas Intensivas
 
-(RD 1716/1996, de 12 de julio)
+(RD 1716/1996, de 12 de julio)
 
 Técnico en Producción Agropecuaria
 
-(RD 1634/2009, de 30 de octubre)
+(RD 1634/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7419,11 +7401,11 @@ Cultivos hortícolas. Cultivos frutícolas.
 
 Técnico en Explotaciones Ganaderas
 
-(RD 1717/1996, de 12 de julio)
+(RD 1717/1996, de 12 de julio)
 
 Técnico en Producción Agropecuaria
 
-(RD 1634/2009, de 30 de octubre)
+(RD 1634/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7443,11 +7425,11 @@ Manejo racional del ganado. Producción ganadera intensiva.
 
 Técnico en Trabajos Forestales y de Conservación del Medio Natural
 
-(RD 1713/1996, de 12 de julio)
+(RD 1713/1996, de 12 de julio)
 
 Técnico en Producción Agropecuaria
 
-(RD 1634/2009, de 30 de octubre)
+(RD 1634/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7459,11 +7441,11 @@ Instalaciones agrarias.
 
 Técnico en Jardinería
 
-(RD 1714/1996, de 12 de julio)
+(RD 1714/1996, de 12 de julio)
 
 Técnico en Producción Agropecuaria
 
-(RD 1634/2009, de 30 de octubre)
+(RD 1634/2009, de 30 de octubre)
 
 Agrotecnología.
 
@@ -7477,11 +7459,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos
 
-(RD 1712/1996, de 12 de julio)
+(RD 1712/1996, de 12 de julio)
 
 Técnico Superior en Paisajismo y Medio Rural
 
-(RD 259/2011, de 28 de febrero)
+(RD 259/2011, de 28 de febrero)
 
 Gestión y organización de la producción de plantas.
 
@@ -7499,11 +7481,11 @@ Instalación y mantenimiento de jardines y restauración del paisaje.
 
 Técnico Superior en Gestión y Organización de Empresas Agropecuarias
 
-(RD 1711/1996, de 12 de julio)
+(RD 1711/1996, de 12 de julio)
 
 Técnico Superior en Paisajismo y Medio Rural
 
-(RD 259/2011, de 28 de febrero)
+(RD 259/2011, de 28 de febrero)
 
 Gestión y organización de la producción de plantas.
 
@@ -7525,11 +7507,11 @@ Producción agrícola.
 
 Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos
 
-(RD 1712/1996, de 12 de julio)
+(RD 1712/1996, de 12 de julio)
 
 Técnico Superior en Gestión Forestal y del Medio Natural
 
-(RD 260/2011, de 28 de febrero)
+(RD 260/2011, de 28 de febrero)
 
 Gestión de los aprovechamientos forestales.
 
@@ -7565,11 +7547,11 @@ Mecanización e instalaciones en una empresa agraria.
 
 Técnico Superior en Gestión y Organización de Empresas Agropecuarias
 
-(RD 1711/1996, de 12 de julio)
+(RD 1711/1996, de 12 de julio)
 
 Técnico Superior en Gestión Forestal y del Medio Natural
 
-(RD 260/2011, de 28 de febrero)
+(RD 260/2011, de 28 de febrero)
 
 Gestión y organización de la producción de plantas.
 
@@ -7581,11 +7563,11 @@ Mecanización e instalaciones en una empresa agraria.
 
 Técnico Superior en Gestión y Organización de Empresas Agropecuarias
 
-(RD 1711/1996, de 12 de julio)
+(RD 1711/1996, de 12 de julio)
 
 Técnico Superior en Ganadería y Asistencia en Sanidad Animal
 
-(RD 1585/2012, de 23 de noviembre)
+(RD 1585/2012, de 23 de noviembre)
 
 Producción ganadera.
 
@@ -7599,11 +7581,11 @@ Mecanización e instalaciones en una empresa agraria.
 
 Técnico Superior en Gestión y Organización de los Recursos Naturales y Paisajísticos
 
-(RD 1712/1996, de 12 de julio)
+(RD 1712/1996, de 12 de julio)
 
 Técnico Superior en Ganadería y Asistencia en Sanidad Animal
 
-(RD 1585/2012, de 23 de noviembre)
+(RD 1585/2012, de 23 de noviembre)
 
 Mecanización e instalaciones en una empresa agraria.
 
@@ -7615,19 +7597,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Impresión en Artes Gráficas
 
-(RD 2425/1994, de 16 de diciembre)
+(RD 2425/1994, de 16 de diciembre)
 
 Técnico en Impresión Gráfica
 
-(RD 1590/2011, de 4 de noviembre)
+(RD 1590/2011, de 4 de noviembre)
 
 Procesos de impresión en offset.
 
@@ -7641,11 +7623,11 @@ Materias primas en artes gráficas. Procesos de impresión en offset.
 
 Técnico en Encuadernación y Manipulados de Papel y Cartón
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 Técnico en Postimpresión y Acabados Gráficos
 
-(RD 1683/2011, de 18 de noviembre)
+(RD 1683/2011, de 18 de noviembre)
 
 Procesos de encuadernación y manipulados de papel.
 
@@ -7659,11 +7641,11 @@ Procesos de manipulados de cartón.
 
 Técnico en Preimpresión en Artes Gráficas
 
-(RD 2424/1994, de 16 de diciembre)
+(RD 2424/1994, de 16 de diciembre)
 
 Técnico en Preimpresión Digital
 
-(RD 1586/2011, de 4 de noviembre)
+(RD 1586/2011, de 4 de noviembre)
 
 Tratamiento de textos.
 
@@ -7685,11 +7667,11 @@ Materias primas de artes gráficas.
 
 Técnico en Encuadernación y Manipulados de Papel y Cartón
 
-(RD 2426/1994, de 16 de diciembre)
+(RD 2426/1994, de 16 de diciembre)
 
 Técnico en Preimpresión Digital
 
-(RD 1586/2011, de 4 de noviembre)
+(RD 1586/2011, de 4 de noviembre)
 
 Materias primas de artes gráficas.
 
@@ -7699,11 +7681,11 @@ GRADO SUPERIOR
 
 Técnico Superior Producción en Industrias de Artes Gráficas
 
-(RD 2423/1994, de 16 de diciembre)
+(RD 2423/1994, de 16 de diciembre)
 
 Técnico Superior en Diseño y Gestión de la Producción Gráfica
 
-(RD 175/2013, de 8 de marzo)
+(RD 175/2013, de 8 de marzo)
 
 Materiales de producción en artes gráficas.
 
@@ -7727,11 +7709,11 @@ Organización de la producción en las industrias de Artes Gráficas.
 
 Técnico Superior en Diseño y Producción Editorial
 
-(RD 2422/1994, de 16 de diciembre)
+(RD 2422/1994, de 16 de diciembre)
 
 Técnico Superior en Diseño y Gestión de la Producción Gráfica
 
-(RD 175/2013, de 8 de marzo)
+(RD 175/2013, de 8 de marzo)
 
 Materiales de producción en artes gráficas.
 
@@ -7743,11 +7725,11 @@ Diseño gráfico.
 
 Técnico Superior en Diseño y Producción Editorial
 
-(RD 2422/1994, de 16 de diciembre)
+(RD 2422/1994, de 16 de diciembre)
 
 Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
 
-(RD 174/2013, de 8 de marzo)
+(RD 174/2013, de 8 de marzo)
 
 Materiales de producción en artes gráficas.
 
@@ -7771,11 +7753,11 @@ Artes Gráficas.
 
 Técnico Superior Producción en Industrias de Artes Gráficas
 
-(RD 2423/1994, de 16 de diciembre)
+(RD 2423/1994, de 16 de diciembre)
 
 Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
 
-(RD 174/2013, de 8 de marzo)
+(RD 174/2013, de 8 de marzo)
 
 Materiales de producción en artes gráficas.
 
@@ -7797,19 +7779,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Comercio
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 Operaciones de almacenaje.
 
@@ -7831,11 +7813,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Comercio Internacional
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Gestión administrativa del comercio internacional.
 
@@ -7867,11 +7849,11 @@ Transporte internacional de mercancías.
 
 Técnico Superior en Gestión del Transporte
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -7881,13 +7863,13 @@ Ciclo completo.
 
 Técnico Superior en Administración y finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 (Administración)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -7895,11 +7877,11 @@ Ciclo completo.
 
 Técnico Superior en Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Logística comercial.
 
@@ -7907,13 +7889,13 @@ Logística comercial.
 
 Técnico Superior en Administración y finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 (Administración)
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -7921,11 +7903,11 @@ Ciclo completo.
 
 Técnico Superior en Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 Investigación comercial.
 
@@ -7941,13 +7923,13 @@ Logística comercial.
 
 Técnico Superior en Administración y finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 (Administración)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -7955,11 +7937,11 @@ Ciclo completo.
 
 Técnico Superior en Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Políticas de marketing.
 
@@ -7967,13 +7949,13 @@ Políticas de marketing.
 
 Técnico Superior en Administración y finanzas
 
-(RD 1659/1994, de 22 de julio)
+(RD 1659/1994, de 22 de julio)
 
 (Administración)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -7981,11 +7963,11 @@ Ciclo completo.
 
 Técnico Superior en Comercio Internacional
 
-(RD 1653/1994, de 22 de julio)
+(RD 1653/1994, de 22 de julio)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Almacenaje de productos.
 
@@ -8001,11 +7983,11 @@ Transporte internacional de mercancías.
 
 Técnico Superior en Gestión Comercial y Marketing
 
-(RD 1651/1994, de 22 de julio)
+(RD 1651/1994, de 22 de julio)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Logística comercial.
 
@@ -8013,11 +7995,11 @@ Logística comercial.
 
 Técnico Superior en Gestión del Transporte
 
-(RD 1654/1994, de 22 de julio)
+(RD 1654/1994, de 22 de julio)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Gestión administrativa del comercio internacional.
 
@@ -8045,19 +8027,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Obras de Albañilería
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 Técnico en Construcción
 
-(RD 1575/2011, de 4 de noviembre)
+(RD 1575/2011, de 4 de noviembre)
 
 Obras de fábrica.
 
@@ -8083,11 +8065,11 @@ Cubiertas e impermeabilizaciones.
 
 Técnico en Obras de Hormigón
 
-(RD 2213/1993, de 17 de diciembre)
+(RD 2213/1993, de 17 de diciembre)
 
 Técnico en Construcción
 
-(RD 1575/2011, de 4 de noviembre)
+(RD 1575/2011, de 4 de noviembre)
 
 Encofrados y entibaciones.
 
@@ -8107,11 +8089,11 @@ Conducciones lineales sin presión.
 
 Técnico en Acabados de construcción
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 Técnico en Construcción
 
-(RD 1575/2011, de 4 de noviembre)
+(RD 1575/2011, de 4 de noviembre)
 
 Revestimientos continuos conglomerados.
 
@@ -8123,11 +8105,11 @@ Solados y alicatados.
 
 Técnico en Obras de Albañilería
 
-(RD 2212/1993, de 17 de diciembre)
+(RD 2212/1993, de 17 de diciembre)
 
 Técnico en Obras de interior, decoración y rehabilitación
 
-(RD 1689/2011, de 18 de noviembre)
+(RD 1689/2011, de 18 de noviembre)
 
 Revestimientos continuos conglomerados.
 
@@ -8139,11 +8121,11 @@ Organización de los trabajos de obras de albañilería.
 
 Técnico en Obras en Obras de Hormigón
 
-(RD 2213/1993, de 17 de diciembre)
+(RD 2213/1993, de 17 de diciembre)
 
 Técnico en Obras de interior, decoración y rehabilitación
 
-(RD 1689/2011, de 18 de noviembre)
+(RD 1689/2011, de 18 de noviembre)
 
 Organización de los trabajos de obras de hormigón.
 
@@ -8151,11 +8133,11 @@ Organización de los trabajos de obras de hormigón.
 
 Técnico en Acabados de construcción
 
-(RD 2211/1993, de 17 de diciembre)
+(RD 2211/1993, de 17 de diciembre)
 
 Técnico en Obras de interior, decoración y rehabilitación
 
-(RD 1689/2011, de 18 de noviembre)
+(RD 1689/2011, de 18 de noviembre)
 
 Solados y alicatados.
 
@@ -8185,11 +8167,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 Replanteos de obra.
 
@@ -8197,11 +8179,11 @@ Replanteos de obra.
 
 Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 Mediciones y valoraciones.
 
@@ -8231,11 +8213,11 @@ Representaciones de construcción.
 
 Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Técnico Superior en Organización y Control de obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 Replanteos de obra
 
@@ -8243,11 +8225,11 @@ Replanteos de obra
 
 Técnico Superior en Realización y Planes de Obra
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 Organización de tajos de obra.
 
@@ -8263,11 +8245,11 @@ Planes de obra.
 
 Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Replanteos de obra.
 
@@ -8275,11 +8257,11 @@ Replanteos de obra.
 
 Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Normas y proyectos de construcción.
 
@@ -8307,11 +8289,11 @@ Proyecto de edificación.
 
 Técnico Superior en Realización y Planes de Obra
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Planes de obra.
 
@@ -8323,11 +8305,11 @@ Organización de tajos de obra.
 
 Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Replanteos de obra.
 
@@ -8359,11 +8341,11 @@ Trazados viarios y abastecimientos.
 
 Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Normas y proyectos de construcción.
 
@@ -8389,11 +8371,11 @@ Proyecto de obra civil.
 
 Técnico Superior en Realización y Planes de Obra
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Organización de tajos de obra.
 
@@ -8405,19 +8387,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Instalaciones eléctricas de enlace y centros de transformación.
 
@@ -8449,11 +8431,11 @@ Automatismos y cuadros eléctricos.
 
 Técnico en Equipos Electrónicos de Consumo
 
-(RD 624/1995, de 21 abril)
+(RD 624/1995, de 21 abril)
 
 Técnicos en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Electrónica general.
 
@@ -8463,13 +8445,13 @@ Electrónica digital y microprogramable.
 
 Técnico en Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 (Mantenimiento y servicios a la producción)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Electrotecnia.
 
@@ -8477,13 +8459,13 @@ Electrotecnia.
 
 Técnico en Instalación y mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 (Mantenimiento y servicios a la producción)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Electrotecnia.
 
@@ -8491,13 +8473,13 @@ Electrotecnia.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Electrotecnia.
 
@@ -8505,11 +8487,11 @@ Electrotecnia.
 
 Técnico Superior en Sistemas de Telecomunicación e Informáticos
 
-(RD 622/1995, de 21 de abril)
+(RD 622/1995, de 21 de abril)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Sistemas de telefonía.
 
@@ -8519,11 +8501,11 @@ Sistemas de radio y TV. Seguridad en las instalaciones de telecomunicación e in
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Instalaciones singulares en viviendas y edificios.
 
@@ -8539,11 +8521,11 @@ Instalaciones eléctricas de interior.
 
 Técnico en Equipos Electrónicos de Consumo
 
-(RD 624/1995, de 21 de abril)
+(RD 624/1995, de 21 de abril)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Sistemas electrónicos de información.
 
@@ -8561,13 +8543,13 @@ Instalaciones básicas.
 
 Técnico en Explotación de Sistemas Informáticos
 
-(RD 497/2003, de 2 de mayo)
+(RD 497/2003, de 2 de mayo)
 
 (Informática)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Ciclo completo.
 
@@ -8575,11 +8557,11 @@ Ciclo completo.
 
 Técnico Superior en Desarrollo de Productos electrónicos
 
-(RD 620/1995, de 21 de abril)
+(RD 620/1995, de 21 de abril)
 
 Técnico en instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Ciclo completo.
 
@@ -8589,11 +8571,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Sistemas de Regulación y Control Automáticos
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 Sistemas de control secuencial.
 
@@ -8629,11 +8611,11 @@ Comunicaciones industriales.
 
 Técnico superior en Desarrollo de Productos Electrónicos
 
-(RD 620/1995, de 21 de abril)
+(RD 620/1995, de 21 de abril)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 Electrónica analógica.
 
@@ -8643,13 +8625,13 @@ Lógica digital y microprogramable.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificios y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 Sistemas automáticos en las instalaciones.
 
@@ -8657,13 +8639,13 @@ Sistemas automáticos en las instalaciones.
 
 Técnico Superior en Mantenimiento de equipo industrial
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 Montaje y mantenimiento de los sistemas eléctrico y electrónico.
 
@@ -8675,13 +8657,13 @@ Montaje y mantenimiento de los sistemas hidráulico y neumático.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 Sistemas automáticos en las instalaciones.
 
@@ -8689,11 +8671,11 @@ Sistemas automáticos en las instalaciones.
 
 Técnico Superior en Desarrollo de Productos Electrónicos
 
-(RD 620/1995, de 21 de abril)
+(RD 620/1995, de 21 de abril)
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Electrónica analógica.
 
@@ -8713,11 +8695,11 @@ Mantenimiento de equipos electrónicos.
 
 Técnico Superior en Instalaciones Electrotécnicas
 
-(RD 621/1995, de 21 de abril)
+(RD 621/1995, de 21 de abril)
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 Desarrollo de instalaciones eléctricas de distribución.
 
@@ -8743,11 +8725,11 @@ Técnicas y procesos en las instalaciones singulares en los edificios.
 
 Técnico Superior en Sistemas de Regulación y Control Automáticos
 
-(RD 619/1995, de 21 de abril)
+(RD 619/1995, de 21 de abril)
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 Gestión del desarrollo de sistemas automáticos.
 
@@ -8759,11 +8741,11 @@ Sistemas electrotécnicos de potencia.
 
 Técnico Superior en Sistemas de Telecomunicación e Informáticos
 
-(RD 622/1995, de 21 de abril)
+(RD 622/1995, de 21 de abril)
 
 Técnico Superior en Sistemas de Telecomunicaciones e Informáticos
 
-(RD 883/2011, de 24 de junio)
+(RD 883/2011, de 24 de junio)
 
 Sistemas de telefonía.
 
@@ -8799,21 +8781,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -8829,13 +8811,13 @@ Instalaciones de agua y gas.
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 (Electricidad y Electrónica)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Ciclo formativo completo.
 
@@ -8843,13 +8825,13 @@ Ciclo formativo completo.
 
 Técnico Superior en Desarrollo y Aplicación de Proyectos de Construcción
 
-(RD 2208/1993, de 17 de diciembre)
+(RD 2208/1993, de 17 de diciembre)
 
 (Edificación y Obra Civil)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Proyectos de edificación.
 
@@ -8857,13 +8839,13 @@ Proyectos de edificación.
 
 Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Actividades marítimo pesqueras)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -8871,13 +8853,13 @@ Ciclo completo.
 
 Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 (Actividades marítimo pesqueras)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -8887,13 +8869,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 Equipos para instalaciones térmicas y de fluidos.
 
@@ -8909,13 +8891,13 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 Instalaciones de fluidos. Instalaciones de procesos térmicos.
 
@@ -8931,13 +8913,13 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Ejecución de procesos de montaje e instalaciones.
 
@@ -8945,13 +8927,13 @@ Ejecución de procesos de montaje e instalaciones.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Técnicas de montaje de instalaciones.
 
@@ -8959,13 +8941,13 @@ Técnicas de montaje de instalaciones.
 
 Técnico Superior en Realización y Planes de Obra
 
-(RD 2210/1993, de 17 de diciembre)
+(RD 2210/1993, de 17 de diciembre)
 
 (Edificación y Obra Civil)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Replanteos de obra. Planes de obra.
 
@@ -8973,13 +8955,13 @@ Replanteos de obra. Planes de obra.
 
 Técnico Superior en Desarrollo de Proyectos Urbanísticos y Operaciones Topográficas
 
-(RD 2209/1993, de 17 de diciembre)
+(RD 2209/1993, de 17 de diciembre)
 
 (Edificación y Obra Civil)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Replanteos de obra. Planes de obra.
 
@@ -8991,19 +8973,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Fundición
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Fusión y colada.
 
@@ -9027,11 +9009,11 @@ Control de las características del producto fundido.
 
 Técnico en Mecanizado
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Control de las características del producto mecanizado.
 
@@ -9047,11 +9029,11 @@ Sistemas auxiliares de fabricación mecánica.
 
 Técnico en Soldadura y Calderería
 
-(RD 1657/1994, de 22 de julio)
+(RD 1657/1994, de 22 de julio)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Desarrollos geométricos en construcciones metálicas.
 
@@ -9063,11 +9045,11 @@ Calidad en construcciones metálicas.
 
 Técnico en Tratamientos superficiales y térmicos
 
-(RD 2420/1994, de 16 de diciembre)
+(RD 2420/1994, de 16 de diciembre)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Sistemas auxiliares de fabricación mecánica.
 
@@ -9075,13 +9057,13 @@ Sistemas auxiliares de fabricación mecánica.
 
 Técnico en Operaciones de Transformación de Plásticos y Caucho
 
-(RD 818/1993, de 28 de mayo)
+(RD 818/1993, de 28 de mayo)
 
 (Química)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Instalaciones de transformación.
 
@@ -9103,11 +9085,11 @@ Materiales poliméricos y sus mezclas.
 
 Técnico en Mecanizado
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 Procedimientos de mecanizado.
 
@@ -9137,11 +9119,11 @@ Control de las características del producto mecanizado.
 
 Técnico en Fundición
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 Fusión y colada.
 
@@ -9153,11 +9135,11 @@ Control de las características del producto fundido.
 
 Técnico en Soldadura y Calderería
 
-(RD 1657/1994, de 22 de julio)
+(RD 1657/1994, de 22 de julio)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 Desarrollos geométricos en construcciones metálicas.
 
@@ -9169,11 +9151,11 @@ Calidad en construcciones metálicas.
 
 Técnico en Soldadura y Calderería
 
-(RD 1657/1994, de 22 de julio)
+(RD 1657/1994, de 22 de julio)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 Desarrollos geométricos en construcciones metálicas.
 
@@ -9205,11 +9187,11 @@ Calidad en construcciones metálicas.
 
 Técnico en Fundición
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 Fusión y colada.
 
@@ -9221,11 +9203,11 @@ Control de las características del producto fundido.
 
 Técnico en Mecanizado
 
-(RD 2419/1994, de 16 de diciembre)
+(RD 2419/1994, de 16 de diciembre)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 Procedimientos de mecanizado.
 
@@ -9239,11 +9221,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Representación en construcciones metálicas.
 
@@ -9273,11 +9255,11 @@ Gestión de la calidad en construcción metálica.
 
 Técnico Superior en Desarrollo de Proyectos Mecánicos
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Representación gráfica en fabricación mecánica.
 
@@ -9285,11 +9267,11 @@ Representación gráfica en fabricación mecánica.
 
 Técnico Superior en Producción por Mecanizado
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Programación de la producción en fabricación mecánica.
 
@@ -9301,11 +9283,11 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Producción por Fundición y Pulvimetalurgia
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Programación de la producción en fabricación mecánica.
 
@@ -9317,13 +9299,13 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995, de 22 de diciembre)
+(RD 2038/1995, de 22 de diciembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Gestión de calidad en industrias cerámicas.
 
@@ -9335,11 +9317,11 @@ Organización de la producción en industrias cerámicas.
 
 Técnico Superior en Desarrollo de Proyectos Mecánicos
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Representación gráfica en fabricación mecánica.
 
@@ -9365,11 +9347,11 @@ Técnicas de fabricación mecánica.
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Representación en construcciones metálicas.
 
@@ -9377,11 +9359,11 @@ Representación en construcciones metálicas.
 
 Técnico Superior en Producción por Mecanizado
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Definición de procesos de mecanizado, conformado y montaje.
 
@@ -9415,11 +9397,11 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Desarrollo de Proyectos Mecánicos
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Representación gráfica en fabricación mecánica.
 
@@ -9427,11 +9409,11 @@ Representación gráfica en fabricación mecánica.
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Definición de procesos en construcciones metálicas.
 
@@ -9443,11 +9425,11 @@ Gestión de la calidad en construcción metálica.
 
 Técnico Superior en Producción por Fundición y Pulvimetalurgia
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Programación de sistemas automáticos de fabricación mecánica.
 
@@ -9465,13 +9447,13 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995, de 22 de diciembre)
+(RD 2038/1995, de 22 de diciembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Gestión de calidad en industrias cerámicas.
 
@@ -9483,11 +9465,11 @@ Organización de la producción en industrias cerámicas.
 
 Técnico Superior en Producción por Fundición y Pulvimetalurgia
 
-(RD 2418/1994, de 16 de diciembre)
+(RD 2418/1994, de 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Definición de procesos de fundición y pulvimetalurgia.
 
@@ -9517,11 +9499,11 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Desarrollo de Proyectos Mecánicos
 
-(RD 2416/1994, de 16 de diciembre)
+(RD 2416/1994, de 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Representación gráfica en fabricación mecánica.
 
@@ -9529,11 +9511,11 @@ Representación gráfica en fabricación mecánica.
 
 Técnico Superior en Producción por Mecanizado
 
-(RD 2417/1994 de, 16 de diciembre)
+(RD 2417/1994 de, 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Programación de sistemas automáticos de fabricación mecánica.
 
@@ -9551,11 +9533,11 @@ Control de calidad en fabricación mecánica.
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 1656/1994, de 22 de julio)
+(RD 1656/1994, de 22 de julio)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Definición de procesos en construcciones metálicas.
 
@@ -9567,11 +9549,11 @@ Gestión de la calidad en construcción metálica.
 
 Técnico en Soldadura y Calderería
 
-(RD 1657/1994, de 22 de julio)
+(RD 1657/1994, de 22 de julio)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Desarrollos geométricos en construcciones metálicas.
 
@@ -9579,13 +9561,13 @@ Desarrollos geométricos en construcciones metálicas.
 
 Técnico Superior en Plásticos y Caucho
 
-(RD 813/1993, de 28 de mayo)
+(RD 813/1993, de 28 de mayo)
 
 (Química)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Organización y control del proceso de producción.
 
@@ -9613,11 +9595,11 @@ Control de calidad en transformación de plásticos y caucho.
 
 Técnico en Fundición
 
-(RD 2421/1994, de 16 de diciembre)
+(RD 2421/1994, de 16 de diciembre)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Fusión y colada.
 
@@ -9625,13 +9607,13 @@ Fusión y colada.
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995, de 22 de diciembre)
+(RD 2038/1995, de 22 de diciembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Gestión de calidad en industrias cerámicas.
 
@@ -9647,19 +9629,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Cocina
 
-(RD 2219/1993, de 17 de diciembre
+(RD 2219/1993, de 17 de diciembre
 
 Técnico en Cocina y Gastronomía
 
-(RD 1396/2007, de 29 de octubre)
+(RD 1396/2007, de 29 de octubre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento.
 
@@ -9685,11 +9667,11 @@ Elaboraciones y productos culinarios.
 
 Técnico en Pastelería y Panadería
 
-(RD 2220/1993, de 17 de diciembre.)
+(RD 2220/1993, de 17 de diciembre.)
 
 Técnico en Cocina y Gastronomía
 
-(RD 1396/2007, de 29 de octubre)
+(RD 1396/2007, de 29 de octubre)
 
 Técnicas de pastelería, panadería y conservación de alimentos.
 
@@ -9699,11 +9681,11 @@ Técnicas de pastelería, panadería y conservación de alimentos.
 
 Técnico en Servicios de Restaurante y Bar
 
-(RD 2221/1993, de 17 de diciembre)
+(RD 2221/1993, de 17 de diciembre)
 
 Técnico en Cocina y Gastronomía
 
-(RD 1396/2007, de 29 de octubre)
+(RD 1396/2007, de 29 de octubre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento.
 
@@ -9711,13 +9693,13 @@ Ofertas gastronómicas y sistemas de aprovisionamiento.
 
 Técnico en Panificación y Repostería
 
-(RD 2057/1995, de 22 de diciembre)
+(RD 2057/1995, de 22 de diciembre)
 
 (Industrias alimentarias)
 
 Técnico en Cocina y Gastronomía
 
-(RD 1396/2007, de 29 de octubre)
+(RD 1396/2007, de 29 de octubre)
 
 Elaboraciones básicas de pastelería.
 
@@ -9727,11 +9709,11 @@ Elaboraciones básicas de pastelería.
 
 Técnico en Servicios de Restaurante y Bar
 
-(RD 2221/1993, de 17 de diciembre)
+(RD 2221/1993, de 17 de diciembre)
 
 Técnico en Servicios en Restauración
 
-(RD1690/2007, de 14 de diciembre)
+(RD1690/2007, de 14 de diciembre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento.
 
@@ -9749,11 +9731,11 @@ Técnicas de servicio y atención al cliente.
 
 Técnico en Cocina
 
-(RD 2219/1993, de 17 de diciembre)
+(RD 2219/1993, de 17 de diciembre)
 
 Técnico en Servicios en Restauración
 
-(RD1690/2007, de 14 de diciembre)
+(RD1690/2007, de 14 de diciembre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento.
 
@@ -9763,11 +9745,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Agencias de Viajes
 
-(RD 2215/1993, de 17 de diciembre)
+(RD 2215/1993, de 17 de diciembre)
 
 Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
-( RD 1254/2009, de 24 de julio)
+( RD 1254/2009, de 24 de julio)
 
 Producción y venta de servicios turísticos en agencias de viajes.
 
@@ -9791,11 +9773,11 @@ Comercialización de productos y servicios turísticos.
 
 Técnico Superior en Alojamiento
 
-(RD 2216/1993, de 17 de diciembre.)
+(RD 2216/1993, de 17 de diciembre.)
 
 Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
-( RD 1254/2009, de 24 de julio)
+( RD 1254/2009, de 24 de julio)
 
 Comercialización de productos y servicios turísticos.
 
@@ -9805,11 +9787,11 @@ Comercialización de productos y servicios turísticos.
 
 Técnico Superior en Agencias de Viajes
 
-(RD 2215/1993, de 17 de diciembre)
+(RD 2215/1993, de 17 de diciembre)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 Comercialización de productos y servicios turísticos.
 
@@ -9819,11 +9801,11 @@ Comercialización de productos y servicios turísticos.
 
 Técnico Superior en Información y Comercialización Turística
 
-(RD 2217/1993, de 17 de diciembre.)
+(RD 2217/1993, de 17 de diciembre.)
 
 Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
-( RD 1254/2009, de 24 de julio)
+( RD 1254/2009, de 24 de julio)
 
 Diseño y comercialización de productos turísticos locales y regionales.
 
@@ -9833,11 +9815,11 @@ Diseño y comercialización de productos turísticos locales y regionales.
 
 Técnico Superior en Restauración
 
-(RD 2218/1993, de 17 de diciembre)
+(RD 2218/1993, de 17 de diciembre)
 
 Técnico Superior en Dirección de Cocina
 
-(RD 687/2010, de 20 de mayo. Corrección Real Decreto 687/2010, de 20 de mayo)
+(RD 687/2010, de 20 de mayo. Corrección Real Decreto 687/2010, de 20 de mayo)
 
 Procesos de cocina.
 
@@ -9855,11 +9837,11 @@ Administración de establecimientos de restauración. Marketing en restauración
 
 Técnico Superior en Restauración
 
-(RD 2218/1993, de 17 de diciembre)
+(RD 2218/1993, de 17 de diciembre)
 
 Técnico Superior en Dirección de Servicios de Restauración
 
-(RD 688/2010, de 20 de mayo)
+(RD 688/2010, de 20 de mayo)
 
 Procesos de servicio.
 
@@ -9873,11 +9855,11 @@ Administración de establecimientos de restauración. Marketing en restauración
 
 Técnico Superior en Alojamiento
 
-(RD 2216/1993, de 17 de diciembre.)
+(RD 2216/1993, de 17 de diciembre.)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 Recepción y atención al cliente.
 
@@ -9903,11 +9885,11 @@ Comercialización de productos y servicios turísticos.
 
 Técnico Superior en Información y Comercialización Turísticas
 
-(RD 2217/1993, de 17 de diciembre.)
+(RD 2217/1993, de 17 de diciembre.)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 Diseño y comercialización de productos turísticos locales y regionales.
 
@@ -9917,11 +9899,11 @@ Diseño y comercialización de productos turísticos locales y regionales.
 
 Técnico Superior en Agencias de Viajes
 
-(RD 2215/1993, de 17 de diciembre)
+(RD 2215/1993, de 17 de diciembre)
 
 Técnico Superior en Guía, Información y Asistencias Turísticas
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 Comercialización de productos y servicios turísticos.
 
@@ -9931,11 +9913,11 @@ Comercialización de productos y servicios turísticos.
 
 Técnico Superior en Información y Comercialización Turísticas
 
-(RD 2217/1993, de 17 de diciembre)
+(RD 2217/1993, de 17 de diciembre)
 
 Técnico Superior en Guía, Información y Asistencias Turísticas
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 Diseño y comercialización de productos turísticos locales y regionales.
 
@@ -9969,11 +9951,11 @@ Asistencia y guía de grupos.
 
 Técnico Superior en Alojamiento
 
-(RD 2216/1993, de 17 de diciembre)
+(RD 2216/1993, de 17 de diciembre)
 
 Técnico Superior en Guía, Información y Asistencias Turísticas
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 Comercialización de productos y servicios turísticos.
 
@@ -9987,19 +9969,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Estética Personal Decorativa
 
-(RD 630/1995, de 21 de abril)
+(RD 630/1995, de 21 de abril)
 
 Técnico en Estética y Belleza
 
-(RD 256/2011, de 28 de febrero.)
+(RD 256/2011, de 28 de febrero.)
 
 Depilación mecánica y técnicas complementarias.
 
@@ -10033,11 +10015,11 @@ Cosmetología aplicada a la estética decorativa.
 
 Técnico en Peluquería
 
-(RD 629/1995, de 21 de abril)
+(RD 629/1995, de 21 de abril)
 
 Técnico en Estética y Belleza
 
-(RD 256/2011, de 28 de febrero.)
+(RD 256/2011, de 28 de febrero.)
 
 Anatomía y fisiología humanas básicas.
 
@@ -10045,11 +10027,11 @@ Anatomía y fisiología humanas básicas.
 
 Técnico en Peluquería
 
-(RD 629/1995, de 21 de abril)
+(RD 629/1995, de 21 de abril)
 
 Técnico en Peluquería y Cosmética Capilar
 
-(RD 1588/2011, de 4 de noviembre)
+(RD 1588/2011, de 4 de noviembre)
 
 Peinados, acabados y recogidos.
 
@@ -10087,11 +10069,11 @@ Higiene, desinfección y esterilización aplicadas a peluquería.
 
 Técnico en Estética Personal Decorativa
 
-(RD 630/1995, de 21 de abril)
+(RD 630/1995, de 21 de abril)
 
 Técnico en Peluquería y Cosmética Capilar
 
-(RD 1588/2011, de 4 de noviembre)
+(RD 1588/2011, de 4 de noviembre)
 
 Escultura de uñas y estética de manos y pies.
 
@@ -10109,11 +10091,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Asesoría de Imagen Personal
 
-(RD 627/1995, de 21 de abril)
+(RD 627/1995, de 21 de abril)
 
 Técnico Superior en Asesoría de Imagen Personal y Corporativa
 
-(RD 1685/2011, de 18 de noviembre)
+(RD 1685/2011, de 18 de noviembre)
 
 Asesoría de belleza.
 
@@ -10141,11 +10123,11 @@ Imagen personal y comunicación.
 
 Técnico Superior en Estética
 
-(RD 628/1995, de 21 de abril)
+(RD 628/1995, de 21 de abril)
 
 Técnico Superior en Estética Integral y Bienestar
 
-(RD 881/2011, de 24 de junio)
+(RD 881/2011, de 24 de junio)
 
 Diagnóstico y protocolo de procesos de estética integral.
 
@@ -10183,11 +10165,11 @@ Cosmetología aplicada a la estética integral.
 
 Técnico Superior en Estética
 
-(RD 628/1995, de 21 de abril)
+(RD 628/1995, de 21 de abril)
 
 Técnico Superior en Estilismo y Dirección de Peluquería
 
-(RD 1577/2011, de 4 de noviembre)
+(RD 1577/2011, de 4 de noviembre)
 
 Anatomía, fisiología y patología humanas aplicadas a la estética integral.
 
@@ -10199,19 +10181,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Laboratorio de Imagen
 
-(RD 2037/1995, de 22 de diciembre)
+(RD 2037/1995, de 22 de diciembre)
 
 Técnico en Vídeo Disc-jockey y Sonido
 
-(RD 556/2012, de 23 de marzo)
+(RD 556/2012, de 23 de marzo)
 
 Tratamiento de imágenes fotográficas por procedimientos digitales.
 
@@ -10221,11 +10203,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Realización de Audiovisuales y Espectáculos
 
-(RD 2035/1995 de 22 de diciembre)
+(RD 2035/1995 de 22 de diciembre)
 
-Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
 
-(RD 1583/2011, de 4 de noviembre)
+(RD 1583/2011, de 4 de noviembre)
 
 Realización multimedia.
 
@@ -10233,11 +10215,11 @@ Realización multimedia.
 
 Técnico Superior en Imagen
 
-(RD 2033/1995, de 22 de diciembre)
+(RD 2033/1995, de 22 de diciembre)
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 Imagen fotográfica.
 
@@ -10269,11 +10251,11 @@ Imagen audiovisual.
 
 Técnico Superior en Realización de Audiovisuales y Espectáculos
 
-(RD 2035/1995 de 22 de diciembre)
+(RD 2035/1995 de 22 de diciembre)
 
 Técnico Superior en Realización de Proyectos Audiovisuales y Espectáculos
 
-(RD 1680/2011, de 18 de noviembre)
+(RD 1680/2011, de 18 de noviembre)
 
 Realización en cine y vídeo.
 
@@ -10299,11 +10281,11 @@ Sistemas técnicos de realización.
 
 Técnico Superior en Realización de Audiovisuales y Espectáculos
 
-(RD 2035/1995 de 22 de diciembre)
+(RD 2035/1995 de 22 de diciembre)
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Sistemas técnicos de realización.
 
@@ -10311,11 +10293,11 @@ Sistemas técnicos de realización.
 
 Técnico Superior en Producción de Audiovisuales, Radio y Espectáculos
 
-(RD 2034/1995 de 22 de diciembre)
+(RD 2034/1995 de 22 de diciembre)
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Producción de cine/vídeo. Producción de televisión.
 
@@ -10349,11 +10331,11 @@ Gestión y promoción de producciones audiovisuales, radiofónicas y espectácul
 
 Técnico Superior en Producción de Audiovisuales, Radio y Espectáculos
 
-(RD 2034/1995 de 22 de diciembre)
+(RD 2034/1995 de 22 de diciembre)
 
 Técnico Superior en Realización de Proyectos Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Medios técnicos audiovisuales.
 
@@ -10361,11 +10343,11 @@ Medios técnicos audiovisuales.
 
 Técnico Superior en Sonido
 
-(RD 2036/1995, de 22 de diciembre)
+(RD 2036/1995, de 22 de diciembre)
 
 Técnico Superior en Sonido para Audiovisuales y Espectáculos
 
-(RD 1682/2011, de 18 de noviembre)
+(RD 1682/2011, de 18 de noviembre)
 
 Sonido en producciones audiovisuales.
 
@@ -10393,19 +10375,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Elaboración de Aceites y Jugos
 
-(RD 2053/1995, de 22 de diciembre)
+(RD 2053/1995, de 22 de diciembre)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Materias primas, productos y procesos en la industria oleícola y extractiva.
 
@@ -10435,11 +10417,11 @@ Sistemas de control y auxiliares de los procesos.
 
 Técnico en Elaboración de Vinos y Otras Bebidas
 
-(RD 2055/1995, de 22 de diciembre)
+(RD 2055/1995, de 22 de diciembre)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Materias primas, productos y procesos en la industria de bebidas.
 
@@ -10469,13 +10451,13 @@ Sistemas de control y auxiliares de los procesos.
 
 Técnico en Pastelería y Panadería
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 (Hostelería y turismo)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Ofertas gastronómicas y sistemas de aprovisionamiento.
 
@@ -10483,11 +10465,11 @@ Ofertas gastronómicas y sistemas de aprovisionamiento.
 
 Técnico en Conservería Vegetal, Cárnica y de Pescado
 
-(RD 2052/1995, de 22 de diciembre)
+(RD 2052/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Operaciones y control de almacén.
 
@@ -10517,11 +10499,11 @@ Sistemas de control y auxiliares de los procesos.
 
 Técnico en Matadero y Carnicería-Charcutería
 
-(RD 2051/1995, de 22 de diciembre)
+(RD 2051/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Operaciones y control de almacén.
 
@@ -10543,11 +10525,11 @@ Tecnología de la carne.
 
 Técnico en Elaboración de Productos Lácteos
 
-(RD 2054/1995, de 22 de diciembre)
+(RD 2054/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Operaciones y control de almacén.
 
@@ -10577,11 +10559,11 @@ Sistemas de control y auxiliares de los procesos.
 
 Técnico en Elaboración de Aceites y Jugos
 
-(RD 2053/1995, de 22 de diciembre)
+(RD 2053/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Sistemas de control y auxiliares de los procesos.
 
@@ -10597,11 +10579,11 @@ Higiene y seguridad en la industria alimentaria
 
 Técnico en Elaboración de Vinos y Otras Bebidas
 
-(RD 2055/1995, de 22 de diciembre)
+(RD 2055/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Sistemas de control y auxiliares de los procesos.
 
@@ -10617,11 +10599,11 @@ Higiene y seguridad en la industria alimentaria
 
 Técnico en Molinería e Industrias Cerealistas
 
-(RD 2056/1995, de 22 de diciembre)
+(RD 2056/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Operaciones y control de almacén.
 
@@ -10637,11 +10619,11 @@ Higiene y seguridad en la industria alimentaria.
 
 Técnico en Panificación y Repostería
 
-(RD 2057/1995, de 22 de diciembre)
+(RD 2057/1995, de 22 de diciembre)
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Operaciones y control de almacén.
 
@@ -10657,11 +10639,11 @@ Sistemas de control y auxiliares de los procesos.
 
 Técnico en Panificación y Repostería
 
-(RD 2057/1995, de 22 de diciembre)
+(RD 2057/1995, de 22 de diciembre)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Materias primas, productos y procesos en panadería, pastelería y confitería.
 
@@ -10691,13 +10673,13 @@ Higiene y seguridad en la industria alimentaria.
 
 Técnico en Pastelería y Panadería
 
-(RD 2220/1993, de 17 de diciembre)
+(RD 2220/1993, de 17 de diciembre)
 
 (Hostelería y turismo)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Panificación y pastelería salada.
 
@@ -10723,13 +10705,13 @@ Ofertas gastronómicas y sistemas de aprovisionamiento.
 
 Técnico en Cocina
 
-(RD 2219/1993, de 17 de diciembre)
+(RD 2219/1993, de 17 de diciembre)
 
 (Hostelería y turismo)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Repostería.
 
@@ -10739,13 +10721,13 @@ Repostería.
 
 Técnico en Comercio
 
-(RD 1655/1994, de 22 de julio)
+(RD 1655/1994, de 22 de julio)
 
 (Comercio)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -10755,11 +10737,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Industria Alimentaria
 
-(RD 2050/1995, de 22 de diciembre)
+(RD 2050/1995, de 22 de diciembre)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 Logística.
 
@@ -10797,11 +10779,11 @@ Microbiología y química alimentarias.
 
 Técnico Superior en Industria Alimentaria
 
-(RD 2050/1995, de 22 de diciembre)
+(RD 2050/1995, de 22 de diciembre)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 Logística.
 
@@ -10819,19 +10801,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Técnico en Sistemas Microinformáticos y Redes
 
-(RD 1691/2007, de 14 de diciembre)
+(RD 1691/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -10847,11 +10829,11 @@ Ciclo completo.
 
 Técnico en Explotación de Sistemas Informáticos
 
-(RD 497/2003, de 2 de mayo)
+(RD 497/2003, de 2 de mayo)
 
 Técnico en Sistemas Microinformáticos y Redes
 
-(RD 1691/2007, de 14 de diciembre)
+(RD 1691/2007, de 14 de diciembre)
 
 Instalación y Mantenimiento de Servicios de Redes Locales.
 
@@ -10885,11 +10867,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 Sistemas informáticos monousuario y multiusuario.
 
@@ -10907,11 +10889,11 @@ Sistemas gestores de bases de datos.
 
 Técnico Superior en Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE.
 
@@ -10921,11 +10903,11 @@ Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas 
 
 Técnico Superior en Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 
-(RD 450/2010, de 16 de abril)
+(RD 450/2010, de 16 de abril)
 
 Sistemas informáticos monousuario y multiusuario. Redes de área local.
 
@@ -10937,11 +10919,11 @@ Sistemas gestores de bases de datos.
 
 Técnico Superior en Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 
-(RD 450/2010, de 16 de abril)
+(RD 450/2010, de 16 de abril)
 
 Sistemas informáticos multiusuario y en red.
 
@@ -10967,11 +10949,11 @@ Diseño y realización de servicios de presentación en entornos gráficos.
 
 Técnico Superior en Administración de Sistemas Informáticos
 
-(RD 1660/1994, de 22 de julio)
+(RD 1660/1994, de 22 de julio)
 
 Técnico Superior en Desarrollo de Aplicaciones Web
 
-(RD 686/2010, de 20 de mayo)
+(RD 686/2010, de 20 de mayo)
 
 Sistemas informáticos monousuario y multiusuario. Redes de área local.
 
@@ -10983,11 +10965,11 @@ Sistemas gestores de bases de datos.
 
 Técnico Superior en Desarrollo de Aplicaciones Informáticas
 
-(RD 1661/1994, de 22 de julio)
+(RD 1661/1994, de 22 de julio)
 
 Técnico Superior en Desarrollo de Aplicaciones Web
 
-(RD 686/2010, de 20 de mayo)
+(RD 686/2010, de 20 de mayo)
 
 Sistemas informáticos multiusuario y en red.
 
@@ -11011,21 +10993,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 (Electricidad y electrónica)
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Automatismos y cuadros eléctricos.
 
@@ -11033,11 +11015,11 @@ Automatismos y cuadros eléctricos.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Máquinas y equipos frigoríficos.
 
@@ -11063,13 +11045,13 @@ Instalaciones de climatización y ventilación
 
 Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Actividades marítimo pesqueras)
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Instalaciones y máquinas eléctricas. Automatización: regulación y control.
 
@@ -11077,11 +11059,11 @@ Instalaciones y máquinas eléctricas. Automatización: regulación y control.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnicos en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Técnicas de montaje de instalaciones.
 
@@ -11089,11 +11071,11 @@ Técnicas de montaje de instalaciones.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Ejecución de procesos de montaje de instalaciones.
 
@@ -11101,13 +11083,13 @@ Ejecución de procesos de montaje de instalaciones.
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 (Electricidad y electrónica)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Automatismos y cuadros eléctricos.
 
@@ -11115,11 +11097,11 @@ Automatismos y cuadros eléctricos.
 
 Técnico en Instalación y Mantenimiento Electromecánico de Máquinas y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Técnicos en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -11127,11 +11109,11 @@ Ciclo completo.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Máquinas y equipos frigoríficos.
 
@@ -11159,11 +11141,11 @@ Instalaciones eléctricas y automatismos.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Técnicas de montaje de instalaciones.
 
@@ -11171,11 +11153,11 @@ Técnicas de montaje de instalaciones.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ejecución de procesos de montaje de instalaciones.
 
@@ -11183,11 +11165,11 @@ Ejecución de procesos de montaje de instalaciones.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -11199,11 +11181,11 @@ Electrotecnia.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 Técnico en Redes y Estaciones de Tratamiento de Agua
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y Agua)
 
@@ -11213,11 +11195,11 @@ Técnicas de mecanizado y unión para el montaje y mantenimiento de instalacione
 
 Técnico en Mantenimiento ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -11243,11 +11225,11 @@ Montaje y mantenimiento eléctrico.
 
 Técnico en Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -11277,13 +11259,13 @@ Conducción y mantenimiento de líneas automatizadas.
 
 Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 (Actividades marítimo pesqueras)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -11291,13 +11273,13 @@ Ciclo completo.
 
 Técnico en Soldadura y Calderería
 
-(RD 1657/1994 de 22 de julio)
+(RD 1657/1994 de 22 de julio)
 
 (Fabricación mecánica)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -11307,13 +11289,13 @@ Ciclo completo.
 
 Técnico en Equipos e Instalaciones Electrotécnicas
 
-(RD 623/1995, de 21 de abril)
+(RD 623/1995, de 21 de abril)
 
 (Electricidad y electrónica)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Electrotecnia.
 
@@ -11321,11 +11303,11 @@ Electrotecnia.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Técnicas de montaje e instalaciones
 
@@ -11333,11 +11315,11 @@ Técnicas de montaje e instalaciones
 
 Técnico Superior en Mantenimiento y Montaje de instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Ejecución de procesos de montaje de instalaciones
 
@@ -11347,13 +11329,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico Superior en Mantenimiento de
 
 Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 Procesos y gestión del mantenimiento y montaje de instalaciones.
 
@@ -11391,11 +11373,11 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 Instalaciones de fluidos.
 
@@ -11413,11 +11395,11 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio y Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 Ejecución de procesos de montaje de instalaciones.
 
@@ -11431,11 +11413,11 @@ Equipos para instalaciones térmicas y de fluidos.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre)
+(RD 2042/1995, de 22 de diciembre)
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 Instalaciones de fluidos.
 
@@ -11471,11 +11453,11 @@ Técnicas de montaje de instalaciones.
 
 Técnico Superior en Mantenimiento y Montaje de Instalaciones de Edificio Proceso
 
-(RD 2044/1995, de 22 de diciembre)
+(RD 2044/1995, de 22 de diciembre)
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 (Energía y Agua)
 
@@ -11493,11 +11475,11 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones de Fluidos, Térmicas y de Manutención
 
-(RD 2042/1995, de 22 de diciembre))
+(RD 2042/1995, de 22 de diciembre))
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 (Energía y Agua)
 
@@ -11515,11 +11497,11 @@ Representación gráfica en instalaciones.
 
 Técnico Superior en Mantenimiento de Equipo Industrial
 
-(RD 2043/1995, de 22 de diciembre)
+(RD 2043/1995, de 22 de diciembre)
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 Procesos y gestión del mantenimiento. Calidad en el mantenimiento y montaje de equipos e instalaciones.
 
@@ -11561,13 +11543,13 @@ Elementos de máquinas.
 
 Técnico Superior en Automoción
 
-(RD 1648/1994 de 22 de julio)
+(RD 1648/1994 de 22 de julio)
 
 (Mantenimiento de Vehículos Autopropulsados)
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 Sistemas de transmisión de fuerzas y trenes de rodaje.
 
@@ -11581,19 +11563,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Fabricación Industrial de Carpintería y Mueble
 
-(RD 731/1994, de 22 de abril)
+(RD 731/1994, de 22 de abril)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 Materiales y productos en industrias de la madera.
 
@@ -11613,11 +11595,11 @@ Aplicación de acabados en carpintería y mueble.
 
 Técnico en Fabricación a Medida e Instalación de Carpintería y Mueble
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 Materiales y productos en industrias de la madera.
 
@@ -11637,11 +11619,11 @@ Fabricación a medida en carpintería y mueble.
 
 Técnico en Transformación de Madera y Corcho
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 Materiales y productos en industrias de la madera.
 
@@ -11661,11 +11643,11 @@ Mecanizado industrial de la Madera.
 
 Técnico en Fabricación a Medida e Instalación de Carpintería y Mueble
 
-(RD 732/1994, de 22 de abril)
+(RD 732/1994, de 22 de abril)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 Materiales y productos en industrias de la madera.
 
@@ -11701,11 +11683,11 @@ Instalación y acabado en carpintería y mueble a medida.
 
 Técnico en Fabricación Industrial de Carpintería y Mueble
 
-(RD 731/1994, de 22 de abril)
+(RD 731/1994, de 22 de abril)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 Materiales y productos en industrias de la madera
 
@@ -11723,11 +11705,11 @@ Control de almacén en industrias de la madera.
 
 Técnico en Transformación de Madera y Corcho
 
-(RD 730/1994, de 22 de abril)
+(RD 730/1994, de 22 de abril)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 Control de almacén en industrias de la madera.
 
@@ -11747,11 +11729,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Desarrollo de Productos en Carpintería y Mueble
 
-(RD 728/1994, de 22 de abril)
+(RD 728/1994, de 22 de abril)
 
 Técnico Superior en Diseño y Amueblamiento
 
-(RD 1579/2011, de 4 de noviembre)
+(RD 1579/2011, de 4 de noviembre)
 
 Procesos en industrias de la madera.
 
@@ -11773,11 +11755,11 @@ Desarrollo de producto en carpintería y mueble.
 
 Técnico Superior en Producción de Madera y Mueble
 
-(RD 729/1994, de 22 de abril)
+(RD 729/1994, de 22 de abril)
 
 Técnico Superior en Diseño y Amueblamiento
 
-(RD 1579/2011, de 4 de noviembre)
+(RD 1579/2011, de 4 de noviembre)
 
 Procesos en industrias de la madera.
 
@@ -11805,19 +11787,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Operaciones de Cultivo Acuícola
 
-(RD 726/1994, de 22 de abril)
+(RD 726/1994, de 22 de abril)
 
 Técnico en Cultivos Acuícolas
 
-(RD 254/2011, de 28 de febrero)
+(RD 254/2011, de 28 de febrero)
 
 Instalaciones y equipos de cultivo.
 
@@ -11845,11 +11827,11 @@ Técnicas de cultivo auxiliares.
 
 Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 Operación y mantenimiento de los equipos de propulsión y servicios.
 
@@ -11881,11 +11863,11 @@ Seguridad, supervivencia y primeros auxilios en la mar.
 
 Técnico en Pesca y Transporte Marítimo
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 Seguridad, supervivencia y primeros auxilios en la mar.
 
@@ -11899,11 +11881,11 @@ Automatización: regulación y control.
 
 Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 Seguridad, supervivencia y primeros auxilios en la mar.
 
@@ -11913,11 +11895,11 @@ Seguridad, supervivencia y primeros auxilios en la mar.
 
 Técnico en Operación, Control y Mantenimiento de Máquinas e Instalaciones del Buque
 
-(RD 725/1994, de 22 de abril)
+(RD 725/1994, de 22 de abril)
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Seguridad, supervivencia y primeros auxilios en la mar.
 
@@ -11927,11 +11909,11 @@ Seguridad, supervivencia y primeros auxilios en la mar.
 
 Técnico en Pesca y Transporte Marítimo
 
-(RD 724/1994, de 22 de abril)
+(RD 724/1994, de 22 de abril)
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Navegación y comunicaciones del buque.
 
@@ -11959,11 +11941,11 @@ Estabilidad y maniobra del buque.
 
 Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Seguridad, supervivencia y primeros auxilios en la mar.
 
@@ -11973,11 +11955,11 @@ Seguridad, supervivencia y primeros auxilios en la mar.
 
 Técnico en Buceo de Media Profundidad
 
-(RD 727/1994, de 22 de abril)
+(RD 727/1994, de 22 de abril)
 
 Técnico en Operaciones Subacuáticas e Hiperbáricas
 
-(RD 1073/2012, de 13 de julio)
+(RD 1073/2012, de 13 de julio)
 
 Inmersión a media profundidad.
 
@@ -12001,11 +11983,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Producción Acuícola
 
-(RD 723/1994, de 22 de abril)
+(RD 723/1994, de 22 de abril)
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 Organización del proceso productivo acuícola.
 
@@ -12031,11 +12013,11 @@ Producción de cultivos auxiliares.
 
 Técnico Superior en Navegación, Pesca y Transporte Marítimo
 
-(RD 721/1994, de 22 de abril)
+(RD 721/1994, de 22 de abril)
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 Seguridad, prevención y supervivencia en la mar.
 
@@ -12047,11 +12029,11 @@ Atención sanitaria de urgencia a bordo.
 
 Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 Sistemas de propulsión y servicios del buque.
 
@@ -12087,11 +12069,11 @@ Seguridad, supervivencia y primeros auxilios en el mar
 
 Técnico Superior en Navegación, Pesca y Transporte Marítimo
 
-(RD 721/1994, de 22 de abril)
+(RD 721/1994, de 22 de abril)
 
 Técnico Superior en Transporte Marítimo y Pesca de Altura
 
-(RD 1691/2011, de 18 de noviembre)
+(RD 1691/2011, de 18 de noviembre)
 
 Derecho marítimo, legislación pesquera y administración.
 
@@ -12119,11 +12101,11 @@ Atención sanitaria de urgencia a bordo.
 
 Técnico Superior en Supervisión y Control de Máquinas e Instalaciones del Buque
 
-(RD 722/1994, de 22 de abril)
+(RD 722/1994, de 22 de abril)
 
 Técnico Superior en Transporte Marítimo y Pesca de Altura
 
-(RD 1691/2011, de 18 de noviembre)
+(RD 1691/2011, de 18 de noviembre)
 
 Seguridad, supervivencia y primeros auxilios en el mar
 
@@ -12137,19 +12119,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Laboratorio
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 Técnico en Operaciones de Laboratorio
 
-(RD 554/2012, de 23 de marzo)
+(RD 554/2012, de 23 de marzo)
 
 Operaciones básicas de laboratorio.
 
@@ -12179,11 +12161,11 @@ Información y seguridad en el laboratorio.
 
 Técnico en Operaciones de Fabricación de Productos Farmacéuticos
 
-(RD 816/1993, de 28 de mayo)
+(RD 816/1993, de 28 de mayo)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 Química aplicada.
 
@@ -12203,11 +12185,11 @@ Servicios auxiliares de proceso químico.
 
 Técnico en Operaciones de Proceso de Pasta y Papel
 
-(RD 815/1993, de 28 de mayo)
+(RD 815/1993, de 28 de mayo)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 Química aplicada.
 
@@ -12227,11 +12209,11 @@ Servicios auxiliares de proceso químico.
 
 Técnico en Operaciones de Proceso en Planta Química
 
-(RD 81471993 de 28 de mayo)
+(RD 81471993 de 28 de mayo)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 Química aplicada.
 
@@ -12261,11 +12243,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Análisis y control
 
-(RD 811/1993, de 28 de mayo)
+(RD 811/1993, de 28 de mayo)
 
 Técnico Superior en Laboratorio de Análisis y de control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 Análisis químico e instrumental.
 
@@ -12291,13 +12273,13 @@ Seguridad y ambiente químico en el laboratorio. Organización y gestión del la
 
 Técnico Superior en Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 (Sanidad)
 
 Técnico Superior en Laboratorio de Análisis y de control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 Fundamentos y técnicas de análisis microbiológico
 
@@ -12305,11 +12287,11 @@ Fundamentos y técnicas de análisis microbiológico
 
 Técnico Superior en Fabricación de Productos Farmacéuticos y Afines
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 Técnico Superior en Productos Farmacéuticos, Biotecnológicos y Afines
 
-(RD 832/2014, de 3 octubre)
+(RD 832/2014, de 3 octubre)
 
 Control de calidad en la industria farmacéutica.
 
@@ -12335,11 +12317,11 @@ Seguridad y ambiente químico.
 
 Técnico Superior en Industrias de Proceso Químico
 
-(RD 808/1993, de 28 de mayo)
+(RD 808/1993, de 28 de mayo)
 
 Técnico Superior en Química Industrial
 
-(RD 175/2008, de 8 de febrero)
+(RD 175/2008, de 8 de febrero)
 
 Organización y gestión en industrias de procesos. Control de calidad en la industria química.
 
@@ -12369,11 +12351,11 @@ Proceso químico.
 
 Técnico Superior en Industrias de Proceso de Pasta y Papel
 
-(RD 809/1993, de 28 de mayo)
+(RD 809/1993, de 28 de mayo)
 
 Técnico Superior en Química Industrial
 
-(RD 175/2008, de 8 de febrero)
+(RD 175/2008, de 8 de febrero)
 
 Organización y gestión en industrias de procesos. Control de calidad en la industria papelera.
 
@@ -12393,11 +12375,11 @@ Fluidodinámica y termotecnia en industrias de procesos.
 
 Técnico Superior en Fabricación de Productos Farmacéuticos y Afines
 
-(RD 810/1993, de 28 de mayo)
+(RD 810/1993, de 28 de mayo)
 
 Técnico Superior en Química Industrial
 
-(RD 175/2008, de 8 de febrero)
+(RD 175/2008, de 8 de febrero)
 
 Organización y gestión en industrias de procesos. Control de calidad en la industria farmacéutica.
 
@@ -12411,13 +12393,13 @@ GRADO MEDIO
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 (Mantenimiento de Vehículos Autopropulsados)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007 de 29 de Octubre)
+(RD 1397/2007 de 29 de Octubre)
 
 Ciclo completo.
 
@@ -12425,13 +12407,13 @@ Ciclo completo.
 
 Técnico Superior en Automoción
 
-(RD 1648/1994, de 22 de julio)
+(RD 1648/1994, de 22 de julio)
 
 (Mantenimiento de Vehículos Autopropulsados)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007 de 29 de Octubre)
+(RD 1397/2007 de 29 de Octubre)
 
 Ciclo completo.
 
@@ -12443,19 +12425,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Farmacia
 
-(RD 547/1995, de 7 de abril)
+(RD 547/1995, de 7 de abril)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Procedimientos administrativos y de control de existencias en establecimientos de farmacia.
 
@@ -12479,11 +12461,11 @@ Promoción de la salud y apoyo psicológico a las personas.
 
 Técnico en Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Promoción de la salud y apoyo psicológico al paciente.
 
@@ -12491,13 +12473,13 @@ Promoción de la salud y apoyo psicológico al paciente.
 
 Técnico en Laboratorio
 
-(RD 817/1993, de 28 de mayo)
+(RD 817/1993, de 28 de mayo)
 
 (Química)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Ciclo completo
 
@@ -12505,11 +12487,11 @@ Ciclo completo
 
 Técnico Superior en Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Recogida, preparación y conservación de muestras biológicas.
 
@@ -12521,11 +12503,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Anatomía Patológica y Citología
 
-(RD 538/1995, de 7 de abril)
+(RD 538/1995, de 7 de abril)
 
 Técnico Superior en Anatomía Patológica y Citodiagnóstico
 
-(RD 767/2014, de 12 de septiembre)
+(RD 767/2014, de 12 de septiembre)
 
 Proceso de tejidos y citopreparación.
 
@@ -12549,11 +12531,11 @@ Fotografía macro y microscopía.
 
 Técnico Superior en Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 d abril)
+(RD 539/1995, de 7 d abril)
 
 Técnico Superior en Anatomía Patológica y Citodiagnóstico
 
-(RD 767/2014, de 12 de septiembre)
+(RD 767/2014, de 12 de septiembre)
 
 Organización y gestión del área de trabajo asignada en la unidad/consulta de laboratorio de diagnóstico clínico.
 
@@ -12563,11 +12545,11 @@ Recogida, preparación y conservación de muestras biológicas humanas.
 
 Técnico Superior en Audioprótesis
 
-(RD 62/2001, de 26 de enero)
+(RD 62/2001, de 26 de enero)
 
 Técnico Superior en Audiología Protésica
 
-(RD 1685/2007, de 1 de diciembre)
+(RD 1685/2007, de 1 de diciembre)
 
 Características anatomosensoriales auditivas.
 
@@ -12591,11 +12573,11 @@ Elección y ajuste de prótesis auditivas.
 
 Técnico Superior en Documentación Sanitaria
 
-(RD 543/1995, de 7 de abril)
+(RD 543/1995, de 7 de abril)
 
 Técnico Superior en Documentación y Administración Sanitaria
 
-(RD 768/2014, de 12 de septiembre)
+(RD 768/2014, de 12 de septiembre)
 
 Definición y tratamiento de documentación clínica.
 
@@ -12623,13 +12605,13 @@ Validación y explotación de las bases de datos sanitarias.
 
 Técnico Superior en Administración y finanzas
 
-(RD 1659/1994 de 22 de julio)
+(RD 1659/1994 de 22 de julio)
 
 (Administración)
 
 Técnico Superior en Documentación y Administración Sanitaria
 
-(RD 768/2014, de 12 de septiembre)
+(RD 768/2014, de 12 de septiembre)
 
 Aplicaciones informáticas generales.
 
@@ -12639,11 +12621,11 @@ Aplicación informática y operatoria de teclados
 
 Técnico Superior en Higiene Bucodental
 
-(RD 537/1995 de 7 de abril)
+(RD 537/1995 de 7 de abril)
 
 Técnico Superior en Higiene Bucodental
 
-(RD 769/2014, de 12 de septiembre)
+(RD 769/2014, de 12 de septiembre)
 
 Organización y gestión del área de trabajo asignada en la unidad/gabinete de higiene bucodental.
 
@@ -12673,11 +12655,11 @@ Educación sanitaria y promoción de la salud.
 
 Técnico Superior en Dietética
 
-(RD 536/1995. de 7 de abril)
+(RD 536/1995. de 7 de abril)
 
 Técnico Superior en Higiene Bucodental
 
-(RD 769/2014, de 12 de septiembre)
+(RD 769/2014, de 12 de septiembre)
 
 Educación sanitaria y promoción de la salud.
 
@@ -12685,11 +12667,11 @@ Educación sanitaria y promoción de la salud.
 
 Técnico Superior en Salud Ambiental
 
-(RD 540/1995, de 7 de abril)
+(RD 540/1995, de 7 de abril)
 
 Técnico Superior en Higiene Bucodental
 
-(RD 769/2014, de 12 de septiembre)
+(RD 769/2014, de 12 de septiembre)
 
 Educación sanitaria y promoción de la salud.
 
@@ -12697,11 +12679,11 @@ Educación sanitaria y promoción de la salud.
 
 Técnico Superior en Imagen para el Diagnóstico
 
-(RD 545/1995, de 7 de abril)
+(RD 545/1995, de 7 de abril)
 
 Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear
 
-(RD 770/2014, de 12 de septiembre)
+(RD 770/2014, de 12 de septiembre)
 
 Anatomía radiológica.
 
@@ -12731,11 +12713,11 @@ Fundamentos y técnicas de exploración en medicina nuclear.
 
 Técnico Superior en Radioterapia
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear
 
-(RD 770/2014, de 12 de septiembre)
+(RD 770/2014, de 12 de septiembre)
 
 Protección radiológica.
 
@@ -12743,11 +12725,11 @@ Protección radiológica.
 
 Técnico Superior en Laboratorio de Diagnóstico Clínico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Técnico Superior en Laboratorio Clínico y Biomédico
 
-(RD 771/2014, de 12 de septiembre)
+(RD 771/2014, de 12 de septiembre)
 
 Organización y gestión del área de trabajo asignada en la unidad/consulta de laboratorio de diagnóstico clínico.
 
@@ -12771,11 +12753,11 @@ Fundamentos y técnicas de análisis hematológicos y citológicos.
 
 Técnico Superior en Ortoprotésica
 
-(RD 542/1995, de 7 de abril)
+(RD 542/1995, de 7 de abril)
 
 Técnico Superior en Ortoprótesis y Productos de Apoyo
 
-(RD 905/2013, de 22 de noviembre)
+(RD 905/2013, de 22 de noviembre)
 
 Fundamentos de tecnología industrial.
 
@@ -12803,11 +12785,11 @@ Fisiopatología aplicada a la elaboración de ortoprótesis.
 
 Técnico Superior en Prótesis Dentales
 
-(RD 541/1995, de 7 de abril)
+(RD 541/1995, de 7 de abril)
 
 Técnico Superior en Prótesis Dentales
 
-(RD1687/2011, de 18 de Noviembre)
+(RD1687/2011, de 18 de Noviembre)
 
 Organización, administración y gestión de una unidad/gabinete de prótesis dentales.
 
@@ -12845,11 +12827,11 @@ Prótesis mixtas, quirúrgicas e implantosoportadas.
 
 Técnico Superior en Radioterapia
 
-(RD 544/1995, de 7 de abril)
+(RD 544/1995, de 7 de abril)
 
 Técnico Superior en Radioterapia y Dosimetría
 
-(RD 772/2014 de 12 de Septiembre)
+(RD 772/2014 de 12 de Septiembre)
 
 Protección radiológica.
 
@@ -12873,11 +12855,11 @@ Fundamentos y técnicas de tratamientos de braquiterapia.
 
 Técnico Superior en Imagen para el Diagnóstico
 
-(RD 539/1995, de 7 de abril)
+(RD 539/1995, de 7 de abril)
 
 Técnico Superior en Radioterapia y Dosimetría
 
-(RD 772/2014 de 12 de Septiembre)
+(RD 772/2014 de 12 de Septiembre)
 
 Protección radiológica.
 
@@ -12889,19 +12871,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Atención Sociosanitaria
 
-(RD 496/2003, de 2 de mayo)
+(RD 496/2003, de 2 de mayo)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 Planificación y control de las intervenciones.
 
@@ -12933,13 +12915,13 @@ Comunicación alternativa.
 
 Técnico en Cuidados Auxiliares de Enfermería
 
-(RD 546/1995, 7 de abril)
+(RD 546/1995, 7 de abril)
 
 (Sanidad)
 
 Técnico en Atención a personas en situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 Ciclo completo
 
@@ -12949,11 +12931,11 @@ Ciclo completo
 
 Técnico Superior en Integración Social
 
-(RD 2061/1995, de 22 de diciembre)
+(RD 2061/1995, de 22 de diciembre)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 Pautas básicas y sistemas alternativos de comunicación.
 
@@ -12963,11 +12945,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Técnico Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Animación de ocio y tiempo libre.
 
@@ -12991,7 +12973,7 @@ Desarrollo comunitario.
 
 Técnico Superior en Animación Turística
 
-(RD 274/2000, de 25 de febrero)
+(RD 274/2000, de 25 de febrero)
 
 (Hostelería y Turismo)
 
@@ -12999,7 +12981,7 @@ Técnico Superior en Animación
 
 Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Técnicas de comunicación para animación. Animación en el ámbito turístico.
 
@@ -13011,11 +12993,11 @@ Actividades y recursos culturales.
 
 Técnico Superior en Integración Social
 
-(RD 2061/1995, de 22 de diciembre)
+(RD 2061/1995, de 22 de diciembre)
 
 Técnico Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Contexto y metodología de la intervención social.
 
@@ -13023,13 +13005,13 @@ Contexto y metodología de la intervención social.
 
 Técnico Superior en Animación de Actividades Físicas y Deportivas
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 (Actividades Físicas y Deportivas)
 
 Técnico Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Animación y dinámica de grupos.
 
@@ -13037,11 +13019,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Educación Infantil
 
-(RD 2059/1995, de 22 de diciembre)
+(RD 2059/1995, de 22 de diciembre)
 
 Técnico Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Animación y dinámica de grupos.
 
@@ -13049,11 +13031,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Educación Infantil
 
-(RD 2059/1995, de 22 de diciembre)
+(RD 2059/1995, de 22 de diciembre)
 
 Técnico Superior en Educación Infantil
 
-(RD 1394/2007, de 29 de octubre)
+(RD 1394/2007, de 29 de octubre)
 
 Didáctica de la Educación Infantil.
 
@@ -13085,13 +13067,13 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Animación de Actividades Físicas y Deportivas
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 (Actividades Físicas y Deportivas)
 
 Técnico Superior en Educación Infantil
 
-(RD 1394/2007, de 29 de octubre)
+(RD 1394/2007, de 29 de octubre)
 
 Animación y dinámica de grupos.
 
@@ -13099,11 +13081,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Metodología de la intervención Social.
 
@@ -13115,11 +13097,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Integración Social
 
-(RD 2061/1995, de 22 de diciembre)
+(RD 2061/1995, de 22 de diciembre)
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Contexto y Metodología de la intervención social.
 
@@ -13145,13 +13127,13 @@ Pautas básicas y sistemas alternativos de comunicación.
 
 Técnico Superior en Animación de Actividades Físicas y Deportivas
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 (Actividades Físicas y Deportivas)
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Animación y dinámica de grupos.
 
@@ -13159,11 +13141,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Interpretación de la Lengua de Signos.
 
-(RD 2060/ 1995, de 22 de diciembre)
+(RD 2060/ 1995, de 22 de diciembre)
 
 Técnico Superior en Mediación Comunicativa
 
-(RD 831/2014, de 3 de octubre)
+(RD 831/2014, de 3 de octubre)
 
 Psicosociología de la población sorda y sordociega.
 
@@ -13187,11 +13169,11 @@ Expresión corporal aplicada a la lengua de signos.
 
 Técnico Superior en Educación Infantil
 
-(RD 2059/1995, de 22 de diciembre)
+(RD 2059/1995, de 22 de diciembre)
 
 Técnico Superior en Promoción e Igualdad de Género
 
-(RD 779/2013, de 11 de octubre)
+(RD 779/2013, de 11 de octubre)
 
 Animación y dinámica de grupos.
 
@@ -13199,11 +13181,11 @@ Animación y dinámica de grupos.
 
 Técnico Superior en Integración Social
 
-(RD 2061/1995, de 22 de diciembre)
+(RD 2061/1995, de 22 de diciembre)
 
 Técnico Superior en Promoción e Igualdad de Género
 
-(RD 779/2013, de 11 de octubre)
+(RD 779/2013, de 11 de octubre)
 
 Contexto y Metodología de la intervención social.
 
@@ -13211,11 +13193,11 @@ Contexto y Metodología de la intervención social.
 
 Técnico Superior en Animación Sociocultural
 
-(RD 2058/1995, de 22 de diciembre)
+(RD 2058/1995, de 22 de diciembre)
 
 Técnico Superior en Promoción e Igualdad de Género.
 
-RD 779/2013, de 11 de octubre)
+RD 779/2013, de 11 de octubre)
 
 Desarrollo comunitario.
 
@@ -13231,13 +13213,13 @@ Contexto y Metodología de la intervención social.
 
 Técnico Superior en Animación de Actividades Físicas y Deportivas
 
-(RD 2048/1995, de 22 de diciembre)
+(RD 2048/1995, de 22 de diciembre)
 
 (Actividades Físicas y Deportivas)
 
 Técnico Superior en Promoción e Igualdad de Género
 
-(RD 779/2013, de 11 de octubre)
+(RD 779/2013, de 11 de octubre)
 
 Animación y dinámica de grupos.
 
@@ -13249,19 +13231,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Calzado y Marroquinería
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 Técnico en Calzado y Complementos de Moda
 
-(RD 257/2011, de 28 de febrero)
+(RD 257/2011, de 28 de febrero)
 
 Técnicas de corte de tejidos y pieles.
 
@@ -13283,11 +13265,11 @@ Técnicas de montado y acabado de calzado y marroquinería.
 
 Técnico en Confección
 
-(RD 743/1994 de 22 de abril)
+(RD 743/1994 de 22 de abril)
 
 Técnico en Calzado y Complementos de Moda
 
-(RD 257/2011, de 28 de febrero)
+(RD 257/2011, de 28 de febrero)
 
 Técnicas de corte de tejidos y pieles.
 
@@ -13303,11 +13285,11 @@ Materias textiles. Piel y cuero.
 
 Técnico en Calzado y Marroquinería
 
-(RD 742/1994, de 22 de abril)
+(RD 742/1994, de 22 de abril)
 
 Técnico en Confección y Moda
 
-(RD 955/2008, de 6 de junio)
+(RD 955/2008, de 6 de junio)
 
 Técnicas de corte de tejidos y pieles.
 
@@ -13323,11 +13305,11 @@ Técnicas de ensamblaje.
 
 Técnico en Confección
 
-(RD 743/1994 de 22 de abril)
+(RD 743/1994 de 22 de abril)
 
 Técnico en Confección y Moda
 
-(RD 955/2008, de 6 de junio)
+(RD 955/2008, de 6 de junio)
 
 Técnicas de corte de tejidos y pieles.
 
@@ -13347,11 +13329,11 @@ Acabados de confección.
 
 Técnico en Calzado y Marroquinería
 
-(RD 742/1994 de 22 de abril)
+(RD 742/1994 de 22 de abril)
 
 Técnico en Fabricación y Ennoblecimiento de Productos Textiles
 
-(RD 1591/2011, de 4 de noviembre)
+(RD 1591/2011, de 4 de noviembre)
 
 Materias textiles.
 
@@ -13359,11 +13341,11 @@ Materias textiles.
 
 Técnico en Confección
 
-(RD 743/1994 de 22 de abril)
+(RD 743/1994 de 22 de abril)
 
 Técnico en Fabricación y Ennoblecimiento de Productos Textiles
 
-(RD 1591/2011, de 4 de noviembre)
+(RD 1591/2011, de 4 de noviembre)
 
 Materias textiles.
 
@@ -13387,11 +13369,11 @@ Estampación.
 
 Técnico en Producción de Hilatura y Tejeduría de Calada
 
-(RD 739/1994, de 22 de abril)
+(RD 739/1994, de 22 de abril)
 
 Técnico en Fabricación y Ennoblecimiento de Productos Textiles
 
-(RD 1591/2011, de 4 de noviembre)
+(RD 1591/2011, de 4 de noviembre)
 
 Elementos, sistemas e instalaciones de máquinas textiles.
 
@@ -13411,11 +13393,11 @@ Materias textiles
 
 Técnico en Producción de Tejidos de Punto
 
-(RD 740/1994, de 22 de abril)
+(RD 740/1994, de 22 de abril)
 
 Técnico en Fabricación y Ennoblecimiento de Productos Textiles
 
-(RD 1591/2011, de 4 de noviembre)
+(RD 1591/2011, de 4 de noviembre)
 
 Elementos, sistemas e instalaciones de máquinas textiles.
 
@@ -13437,11 +13419,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Procesos Textiles de Hilatura y Tejeduría de Calada
 
-(RD 733/1994, de 22 de abril)
+(RD 733/1994, de 22 de abril)
 
 Técnico Superior en Diseño Técnico en Textil y Piel.
 
-(RD 1580/2011, de 4 de noviembre)
+(RD 1580/2011, de 4 de noviembre)
 
 Procesos de tejeduría de calada.
 
@@ -13461,11 +13443,11 @@ Procesos de tejeduría de punto por recogida.
 
 Técnico Superior en Procesos de Ennoblecimiento Textil
 
-(RD 735/1994, de 22 de abril)
+(RD 735/1994, de 22 de abril)
 
 Técnico Superior en Diseño Técnico en Textil y Piel
 
-(RD 1580/2011, de 4 de noviembre)
+(RD 1580/2011, de 4 de noviembre)
 
 Procesos de tratamiento de ennoblecimiento textil.
 
@@ -13473,11 +13455,11 @@ Procesos de tratamiento de ennoblecimiento textil.
 
 Técnico Superior en Patronaje
 
-(RD 738/1994 de 22 de abril)
+(RD 738/1994 de 22 de abril)
 
 Técnico Superior en Diseño Técnico en Textil y Piel
 
-(RD 1580/2011, de 4 de noviembre)
+(RD 1580/2011, de 4 de noviembre)
 
 Análisis de diseños y modelos de artículos.
 
@@ -13485,11 +13467,11 @@ Análisis de diseños y modelos de artículos.
 
 Técnico Superior en Patronaje
 
-(RD 738/1994 de 22 de abril)
+(RD 738/1994 de 22 de abril)
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 Organización de la producción en la industria de confección.
 
@@ -13519,11 +13501,11 @@ Estudio y calidad de las pieles.
 
 Técnico Superior en Procesos de Confección Industrial
 
-(RD 737/1994 de 22 de abril)
+(RD 737/1994 de 22 de abril)
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 Organización de la producción en la industria de confección.
 
@@ -13543,13 +13525,13 @@ Estudio y calidad de las pieles.
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995 de 22 de diciembre)
+(RD 2038/1995 de 22 de diciembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 Gestión de calidad en industrias cerámicas.
 
@@ -13557,11 +13539,11 @@ Gestión de calidad en industrias cerámicas.
 
 Técnico Superior en Patronaje
 
-(RD 738/1994 de 22 de abril)
+(RD 738/1994 de 22 de abril)
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 Organización de la producción en la industria de confección.
 
@@ -13591,11 +13573,11 @@ Estudio y calidad de las pieles.
 
 Técnico Superior en Procesos de Confección Industrial
 
-(RD 737/1994 de 22 de abril)
+(RD 737/1994 de 22 de abril)
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 Organización de la producción en la industria de la confección.
 
@@ -13619,13 +13601,13 @@ Productos de confección.
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995 de 22 de diciembre)
+(RD 2038/1995 de 22 de diciembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 Gestión de calidad en industrias cerámicas.
 
@@ -13633,11 +13615,11 @@ Gestión de calidad en industrias cerámicas.
 
 Técnico Superior en Patronaje
 
-(RD 738/1994 de 22 de abril)
+(RD 738/1994 de 22 de abril)
 
 Técnico Superior en Vestuario a Medida y de Espectáculos
 
-(RD 1679/2011, de 18 de noviembre)
+(RD 1679/2011, de 18 de noviembre)
 
 Materias, productos y ensayos de calidad textil.
 
@@ -13647,11 +13629,11 @@ Estudio y calidad de las pieles.
 
 Técnico Superior en Procesos de Confección Industrial
 
-(RD 737/1994 de 22 de abril)
+(RD 737/1994 de 22 de abril)
 
 Técnico Superior en Vestuario a Medida y de Espectáculos
 
-(RD 1679/2011, de 18 de noviembre)
+(RD 1679/2011, de 18 de noviembre)
 
 Materias, productos y ensayos de calidad textil.
 
@@ -13665,19 +13647,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Carrocería
 
-(RD 1650/1994, de 22 de julio)
+(RD 1650/1994, de 22 de julio)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 Elementos amovibles.
 
@@ -13705,11 +13687,11 @@ Embellecimiento de superficies.
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 Técnicas de mecanizado para el mantenimiento de vehículos.
 
@@ -13717,13 +13699,13 @@ Técnicas de mecanizado para el mantenimiento de vehículos.
 
 Técnico en Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -13731,13 +13713,13 @@ Técnicas de mecanizado para el mantenimiento y montaje.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -13745,11 +13727,11 @@ Técnicas de mecanizado y unión para el montaje y mantenimiento de instalacione
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 Motores.
 
@@ -13769,13 +13751,13 @@ Técnicas de mecanizado para el mantenimiento de vehículos.
 
 Técnico en Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Electromecánica de Maquinaria.
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -13783,13 +13765,13 @@ Técnicas de mecanizado para el mantenimiento y montaje.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -13797,11 +13779,11 @@ Técnicas de mecanizado y unión para el montaje y mantenimiento de instalacione
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994, de 22 de julio)
+(RD 1649/1994, de 22 de julio)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Motores.
 
@@ -13837,13 +13819,13 @@ Técnicas de mecanizado para el mantenimiento de vehículos.
 
 Técnico en Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre
+(RD 2047/1995, de 22 de diciembre
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -13851,13 +13833,13 @@ Técnicas de mecanizado para el mantenimiento y montaje.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -13865,11 +13847,11 @@ Técnicas de mecanizado y unión para el montaje y mantenimiento de instalacione
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994. de 22 de julio)
+(RD 1649/1994. de 22 de julio)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Motores.
 
@@ -13885,13 +13867,13 @@ Técnicas de mecanizado para el mantenimiento de vehículos.
 
 Técnico en Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas
 
-(RD 2045/1995, de 22 de diciembre)
+(RD 2045/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
@@ -13899,13 +13881,13 @@ Técnicas de mecanizado para el mantenimiento y montaje.
 
 Técnico en Mantenimiento Ferroviario
 
-(RD 2047/1995, de 22 de diciembre)
+(RD 2047/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción).
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Motor Diésel.
 
@@ -13919,13 +13901,13 @@ Técnicas de mecanizado para el mantenimiento y montaje.
 
 Técnico en Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor
 
-(RD 2046/1995, de 22 de diciembre)
+(RD 2046/1995, de 22 de diciembre)
 
 (Mantenimiento y Servicios a la Producción)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
 
@@ -13933,11 +13915,11 @@ Técnicas de mecanizado y unión para el montaje y mantenimiento de instalacione
 
 Técnico en Electromecánica de Vehículos
 
-(RD 1649/1994. de 22 de julio)
+(RD 1649/1994. de 22 de julio)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Sistemas auxiliares del motor.
 
@@ -13955,11 +13937,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Automoción
 
-(RD 1648/1994, de 22 de julio)
+(RD 1648/1994, de 22 de julio)
 
 Técnico Superior en Automoción
 
-(RD 1796/2008, de 3 de noviembre)
+(RD 1796/2008, de 3 de noviembre)
 
 Sistemas eléctricos, de seguridad y de confortabilidad.
 
@@ -13995,19 +13977,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
+Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Operaciones de Fabricación de Productos Cerámicos
 
-(RD 2040/1995, de 22 de diciembre)
+(RD 2040/1995, de 22 de diciembre)
 
 Técnico en Fabricación de Productos Cerámicos
 
-(RD 454/2010, de 16 de abril)
+(RD 454/2010, de 16 de abril)
 
 Pastas cerámicas.
 
@@ -14031,11 +14013,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 2038/1995, de 22 de diciembre)
+(RD 2038/1995, de 22 de diciembre)
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 1797/2008, de 3 de noviembre)
+(RD 1797/2008, de 3 de noviembre)
 
 Desarrollo de composiciones.
 
@@ -14071,9 +14053,9 @@ Cerámicas avanzadas.
 
 0311. Cerámicas avanzadas.
 
-ANEXO III
+## Anexo III
 
-Convalidaciones de módulos profesionales incluidos en los títulos de Formación Profesional aprobados de conformidad con la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Convalidaciones de módulos profesionales incluidos en los títulos de Formación Profesional aprobados de conformidad con la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
 Para todos los ciclos formativos con formación y orientación laboral
 
@@ -14081,9 +14063,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Formación y orientación laboral.
 
@@ -14095,7 +14077,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
@@ -14109,7 +14091,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica2/2006
 
@@ -14143,9 +14125,9 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 0179 Inglés.
 
@@ -14153,17 +14135,17 @@ Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/
 
 Certificado del Ciclo Elemental, de Inglés, de la Escuela Oficial de Idiomas.
 
-(RD 967/1988, de 2 de septiembre).
+(RD 967/1988, de 2 de septiembre).
 
 0156 Inglés.
 
-Certificado de Nivel Intermedio (B1), de Inglés, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre).
+Certificado de Nivel Intermedio (B1), de Inglés, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre).
 
 0156 Inglés.
 
 Certificado de Aptitud de Inglés de la Escuela Oficial de Idiomas.
 
-(RD 967/1988, de 2 de septiembre).
+(RD 967/1988, de 2 de septiembre).
 
 0156 Inglés.
 
@@ -14171,7 +14153,7 @@ Certificado de Aptitud de Inglés de la Escuela Oficial de Idiomas.
 
 Certificado de Nivel Avanzado (B2), o superior, de Inglés de la Escuela Oficial de Idiomas.
 
-(RD 1629/2006, de 29 de diciembre).
+(RD 1629/2006, de 29 de diciembre).
 
 0156 Inglés.
 
@@ -14189,19 +14171,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Certificado del Ciclo Elemental o de Aptitud, de la Escuela Oficial de Idiomas.
 
-(RD 967/1988, de 2 de septiembre).
+(RD 967/1988, de 2 de septiembre).
 
 (De la misma lengua extranjera que se desea convalidar).
 
 0180 Segunda Lengua Extranjera.
 
-Certificado de Nivel Intermedio (B1), o superior, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre).
+Certificado de Nivel Intermedio (B1), o superior, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre).
 
 (De la misma lengua extranjera que se desea convalidar).
 
@@ -14219,21 +14201,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO SUPERIOR
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 0626. Logística de aprovisionamiento.
 
@@ -14241,13 +14223,13 @@ Técnico Superior en Administración y Finanzas
 
 Técnico Superior en Transporte y Logística
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 0626. Logística de aprovisionamiento.
 
@@ -14255,13 +14237,13 @@ Técnico Superior en Administración y Finanzas
 
 Técnico Superior en Agencias de Viaje y Gestión de Eventos
 
-(RD 1254/2009, de 24 de julio)
+(RD 1254/2009, de 24 de julio)
 
 (Hostelería y Turismo)
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 0172. Protocolo y relaciones públicas.
 
@@ -14269,13 +14251,13 @@ Técnico Superior en Asistencia a la Dirección
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 (Hostelería y Turismo)
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 0172. Protocolo y relaciones públicas.
 
@@ -14283,13 +14265,13 @@ Técnico Superior en Asistencia a la Dirección
 
 Técnico Superior en Guía, Información y Asistencia Turística
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 (Hostelería y Turismo)
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 0172. Protocolo y relaciones públicas.
 
@@ -14301,21 +14283,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Ciclo Completo.
 
@@ -14323,13 +14305,13 @@ Ciclo Completo.
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Jardinería y Floristería
 
-(RD 1129/2010, de 10 de septiembre)
+(RD 1129/2010, de 10 de septiembre)
 
 Ciclo Completo.
 
@@ -14337,13 +14319,13 @@ Ciclo Completo.
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Ciclo Completo.
 
@@ -14351,13 +14333,13 @@ Ciclo Completo.
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Producción Agroecológica
 
-(RD 1633/2009, de 30 de octubre)
+(RD 1633/2009, de 30 de octubre)
 
 Ciclo Completo.
 
@@ -14367,11 +14349,11 @@ GRADO SUPERIOR
 
 Técnico en Superior en Paisajismo y Medio Rural
 
-(RD 259/2011, de 28 de febrero)
+(RD 259/2011, de 28 de febrero)
 
 Técnico en Superior en Gestión Forestal y del Medio Natural
 
-(RD 260/2011, de 28 de febrero)
+(RD 260/2011, de 28 de febrero)
 
 0691. Gestión y organización del vivero.
 
@@ -14379,13 +14361,13 @@ Técnico en Superior en Gestión Forestal y del Medio Natural
 
 Técnico Superior en Educación y Control Ambiental
 
-(RD 384/2011, de 18 de marzo)
+(RD 384/2011, de 18 de marzo)
 
 (Seguridad y Medio Ambiente)
 
 Técnico Superior en Gestión Forestal y del Medio Natural
 
-(RD 260/2011, de 28 de febrero)
+(RD 260/2011, de 28 de febrero)
 
 Ciclo Completo.
 
@@ -14399,21 +14381,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen.
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico en Preimpresión Digital
 
-(RD 1586/2011, de 4 de noviembre)
+(RD 1586/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14425,27 +14407,27 @@ GRADO SUPERIOR
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
 
-(RD 174/2013, de 8 de marzo)
+(RD 174/2013, de 8 de marzo)
 
 Ciclo Completo.
 
 1480. Comercialización de productos gráficos y atención al cliente.
 
-Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
 
-(RD 1583/2011, de 4 de noviembre)
+(RD 1583/2011, de 4 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
 
-(RD 174/2013, de 8 de marzo)
+(RD 174/2013, de 8 de marzo)
 
 Ciclo Completo.
 
@@ -14453,13 +14435,13 @@ Ciclo Completo.
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Diseño y Gestión de la Producción Gráfica
 
-(RD 175/2013, de 8 de marzo)
+(RD 175/2013, de 8 de marzo)
 
 Ciclo Completo.
 
@@ -14467,13 +14449,13 @@ Ciclo Completo.
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Diseño y Gestión de la Producción Gráfica
 
-(RD 175/2013, de 8 de marzo)
+(RD 175/2013, de 8 de marzo)
 
 Ciclo Completo.
 
@@ -14485,19 +14467,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 0927. Gestión de productos y promociones en el punto de venta.
 
@@ -14505,13 +14487,13 @@ Técnico en Actividades Comerciales
 
 Técnico en Gestión Administrativa
 
-(RD 1631/2009, de 30 de octubre)
+(RD 1631/2009, de 30 de octubre)
 
 (Administración y Gestión)
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 Ciclo Completo.
 
@@ -14519,13 +14501,13 @@ Ciclo Completo.
 
 Técnico Superior en Diseño y Gestión de la Producción Gráfica
 
-(RD 175/2013, de 8 de marzo)
+(RD 175/2013, de 8 de marzo)
 
 (Artes Gráficas)
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 1480. Comercialización de productos gráficos y atención al cliente.
 
@@ -14533,13 +14515,13 @@ Técnico en Actividades Comerciales
 
 Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
 
-(RD 174/2013, de 8 de marzo)
+(RD 174/2013, de 8 de marzo)
 
 (Artes Gráficas)
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 1480. Comercialización de productos gráficos y atención al cliente.
 
@@ -14549,13 +14531,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14563,13 +14545,13 @@ Ciclo Completo.
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Comercio Internacional
 
-(RD 1574/2011, de 4 de noviembre)
+(RD 1574/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14577,13 +14559,13 @@ Ciclo Completo.
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14593,13 +14575,13 @@ Ciclo Completo.
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14607,13 +14589,13 @@ Ciclo Completo.
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14623,13 +14605,13 @@ Ciclo Completo.
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14637,13 +14619,13 @@ Ciclo Completo.
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14651,13 +14633,13 @@ Ciclo Completo.
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14665,13 +14647,13 @@ Ciclo Completo.
 
 Técnico Superior en Administración y Finanzas
 
-(RD 1584/2011, de 4 de noviembre)
+(RD 1584/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14681,13 +14663,13 @@ Ciclo Completo.
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14699,19 +14681,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Técnico en Construcción
 
-(RD 1575/2011, de 4 de noviembre)
+(RD 1575/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14719,11 +14701,11 @@ Ciclo Completo.
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Técnico en Obras de Interior, Decoración y Rehabilitación
 
-(RD 1689/2011, de 18 de noviembre)
+(RD 1689/2011, de 18 de noviembre)
 
 Ciclo Completo.
 
@@ -14731,11 +14713,11 @@ Ciclo Completo.
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Técnico en Construcción
 
-(RD 1575/2011, de 4 de noviembre)
+(RD 1575/2011, de 4 de noviembre)
 
 Ciclo Completo.
 
@@ -14743,11 +14725,11 @@ Ciclo Completo.
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Técnico en Obras de Interior, Decoración y Rehabilitación
 
-(RD 1689/2011, de 18 de noviembre)
+(RD 1689/2011, de 18 de noviembre)
 
 Ciclo Completo.
 
@@ -14757,11 +14739,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 0563. Representación de construcción
 
@@ -14769,11 +14751,11 @@ Técnico Superior en Organización y Control de Obras de Construcción
 
 Técnico Superior en Proyectos de Obra civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 0563. Representación de construcción
 
@@ -14781,13 +14763,13 @@ Técnico Superior en Organización y Control de Obras de Construcción
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 (Energía y Agua)
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 0350. Certificación energética de edificios
 
@@ -14799,15 +14781,15 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y Agua)
 
@@ -14815,7 +14797,7 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 1561. Instalaciones eléctricas en redes de agua.
 
@@ -14823,13 +14805,13 @@ Técnico en Instalaciones Eléctricas y Automáticas
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 1576. Sistemas eléctricos en instalaciones de agua.
 
@@ -14839,11 +14821,11 @@ Técnico en Instalaciones Eléctricas y Automáticas
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Ciclo completo.
 
@@ -14853,11 +14835,11 @@ Ciclo completo.
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 0233. Electrónica.
 
@@ -14867,11 +14849,11 @@ Técnico en Instalaciones de Telecomunicaciones
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 0232. Automatismos industriales.
 
@@ -14883,11 +14865,11 @@ Técnico en Instalaciones de Telecomunicaciones
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Ciclo completo.
 
@@ -14897,13 +14879,13 @@ Ciclo completo.
 
 Técnico en Sistemas Microinformáticos y Redes
 
-(RD 1691/2007, de 14 de diciembre)
+(RD 1691/2007, de 14 de diciembre)
 
 (Informática y Comunicaciones)
 
 Técnico en Instalaciones de Telecomunicaciones
 
-(RD 1632/2009, de 30 de octubre)
+(RD 1632/2009, de 30 de octubre)
 
 Ciclo completo.
 
@@ -14915,11 +14897,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -14927,11 +14909,11 @@ Ciclo completo.
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 0519. Documentación técnica en instalaciones eléctricas.
 
@@ -14939,13 +14921,13 @@ Técnico Superior en Automatización y Robótica Industrial
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 
-(RD 450/2010, de 16 de abril)
+(RD 450/2010, de 16 de abril)
 
 (Informática y Comunicaciones)
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -14953,11 +14935,11 @@ Ciclo completo.
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 0959. Sistemas eléctricos, neumáticos e hidráulicos.
 
@@ -14965,11 +14947,11 @@ Técnico Superior en Electromedicina Clínica
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 1051. Circuitos electrónicos analógicos.
 
@@ -14979,11 +14961,11 @@ Técnico Superior en Electromedicina Clínica
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 0524. Configuración de instalaciones eléctricas.
 
@@ -14993,13 +14975,13 @@ Técnico Superior en Electromedicina Clínica
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 0122. Proceso de montaje de instalaciones.
 
@@ -15009,13 +14991,13 @@ Técnico Superior en Electromedicina Clínica
 
 Técnico Superior en Mantenimiento de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 0120. Sistemas eléctricos y automáticos.
 
@@ -15025,11 +15007,11 @@ Técnico Superior en Electromedicina Clínica
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 0963. Documentación técnica.
 
@@ -15037,11 +15019,11 @@ Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 Ciclo completo.
 
@@ -15049,11 +15031,11 @@ Ciclo completo.
 
 Técnico Superior en Sistemas de Telecomunicaciones e Informáticos
 
-(RD 883/2011, de 24 de junio)
+(RD 883/2011, de 24 de junio)
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 0525. Configuración de infraestructuras de sistemas de telecomunicaciones.
 
@@ -15063,13 +15045,13 @@ Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 (Informática y Comunicaciones)
 
 Técnico Superior en Sistemas de Telecomunicación e Informáticos
 
-(RD 883/2011, de 24 de junio)
+(RD 883/2011, de 24 de junio)
 
 Ciclo completo.
 
@@ -15077,13 +15059,13 @@ Ciclo completo.
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 (Instalación y Mantenimiento)
 
 Técnico Superior en Electromedicina Clínica
 
-(RD 838/2015, de 21 de septiembre)
+(RD 838/2015, de 21 de septiembre)
 
 (Electricidad y Electrónica)
 
@@ -15097,19 +15079,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 1573. Calidad y tratamiento de aguas.
 
@@ -15121,11 +15103,11 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0122. Procesos de Montaje de Instalaciones.
 
@@ -15135,13 +15117,13 @@ Instalaciones de agua.
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 (Electricidad y Electrónica)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0232. Automatismos industriales.
 
@@ -15153,13 +15135,13 @@ Ciclo completo.
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 (Instalación y Mantenimiento)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0038. Instalaciones eléctricas y automatismos.
 
@@ -15171,13 +15153,13 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 (Instalación y Mantenimiento)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0038. Instalaciones eléctricas y automatismos.
 
@@ -15189,13 +15171,13 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-( RD 220/2008, de 15 de febrero)
+( RD 220/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0122. Procesos de Montaje de Instalaciones.
 
@@ -15203,13 +15185,13 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico Superior en Desarrollo de Proyectos de Energías Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0122. Procesos de Montaje de Instalaciones.
 
@@ -15217,13 +15199,13 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 (Edificación y obra civil)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0568. Instalaciones en edificación.
 
@@ -15231,13 +15213,13 @@ Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 Técnico Superior en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -15245,13 +15227,13 @@ Ciclo completo.
 
 Técnico en Planta química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 (Química)
 
 Técnico en Redes y Estaciones de Tratamiento de Agua
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0115. Tratamientos de aguas.
 
@@ -15259,13 +15241,13 @@ Técnico en Redes y Estaciones de Tratamiento de Agua
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico en Redes y Estaciones de Tratamiento de Agua
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 0133. Gestión del montaje, de la calidad y del mantenimiento.
 
@@ -15277,13 +15259,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 (Edificación y Obra Civil)
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 0568. Instalaciones en edificación.
 
@@ -15293,13 +15275,13 @@ Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 (Edificación y Obra Civil)
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 0569. Eficiencia energética en edificación.
 
@@ -15307,11 +15289,11 @@ Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0122. Procesos de montaje de instalaciones.
 
@@ -15319,13 +15301,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Automatización y Robótica Industrial
 
-(RD 1581/2011, de 4 de noviembre)
+(RD 1581/2011, de 4 de noviembre)
 
 (Electricidad y electrónica)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -15335,13 +15317,13 @@ Ciclo completo.
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 (Instalación y mantenimiento)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0122. Procesos de montaje de instalaciones
 
@@ -15349,13 +15331,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 (Electricidad y electrónica)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -15363,13 +15345,13 @@ Ciclo completo.
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 (Instalación y mantenimiento)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0122. Procesos de montaje de instalaciones.
 
@@ -15377,13 +15359,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 1309. Organización del mantenimiento en seco de buques y embarcaciones y montaje de motores térmicos.
 
@@ -15395,13 +15377,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Organización y Control de Obras de Construcción
 
-(RD 636/2015, de 10 de julio)
+(RD 636/2015, de 10 de julio)
 
 (Edificación y obra civil)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0565. Replanteos de construcción.
 
@@ -15411,13 +15393,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Proyectos de Edificación
 
-(RD 690/2010, de 20 de mayo)
+(RD 690/2010, de 20 de mayo)
 
 (Edificación y obra civil)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0565. Replanteos de construcción.
 
@@ -15427,13 +15409,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Proyectos de Obra Civil
 
-(RD 386/2011, de 18 de marzo)
+(RD 386/2011, de 18 de marzo)
 
 (Edificación y obra civil)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 0565. Replanteos de construcción
 
@@ -15443,13 +15425,13 @@ Técnico Superior en Gestión del Agua
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 (Electricidad y electrónica)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -15457,13 +15439,13 @@ Ciclo completo.
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 (Instalación y mantenimiento)
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 Ciclo completo.
 
@@ -15475,19 +15457,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15495,11 +15477,11 @@ Técnico en Conformado por Moldeo de Metales y Polímeros
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15507,13 +15489,13 @@ Técnico en Conformado por Moldeo de Metales y Polímeros
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 1174. Regulación y mantenimiento de automatismos en buques y embarcaciones.
 
@@ -15521,11 +15503,11 @@ Técnico en Conformado por Moldeo de Metales y Polímeros
 
 Técnico en Conformado por Moldeo de Metales y Polímeros
 
-(RD 387/2011, de 18 de marzo)
+(RD 387/2011, de 18 de marzo)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0722. Preparación de máquinas e instalaciones de procesos automatizados.
 
@@ -15533,11 +15515,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0162. Programación de sistemas automáticos de fabricación mecánica.
 
@@ -15545,11 +15527,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15557,11 +15539,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15569,11 +15551,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0162. Programación de sistemas automáticos de fabricación mecánica.
 
@@ -15581,11 +15563,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 0162. Programación de sistemas automáticos de fabricación mecánica.
 
@@ -15593,11 +15575,11 @@ Técnico en Mecanizado
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15605,11 +15587,11 @@ Técnico en Soldadura y Calderería
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -15617,11 +15599,11 @@ Ciclo completo.
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15631,13 +15613,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 1310. Programación y mantenimiento de automatismos hidráulicos y neumáticos en buques y embarcaciones.
 
@@ -15645,7 +15627,7 @@ Técnico Superior en Construcciones Metálicas
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
@@ -15653,7 +15635,7 @@ Técnico Superior en Construcciones
 
 Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 0280. Organización de la producción en confección textil.
 
@@ -15661,11 +15643,11 @@ Metálicas
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15673,13 +15655,13 @@ Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 1310. Programación y mantenimiento de automatismos hidráulicos y neumáticos en buques y embarcaciones.
 
@@ -15687,13 +15669,13 @@ Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 0280. Organización de la producción en confección textil.
 
@@ -15701,11 +15683,11 @@ Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15713,11 +15695,11 @@ Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15725,11 +15707,11 @@ Técnico Superior en Programación de la Producción en Moldeo de Metales y Pol�
 
 Técnico Superior en Diseño en Fabricación Mecánica
 
-(RD 1630/2009 de 30 de octubre)
+(RD 1630/2009 de 30 de octubre)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 0245. Representación gráfica en fabricación mecánica.
 
@@ -15737,13 +15719,13 @@ Técnico Superior en Programación de la Producción en Moldeo de Metales y Pol�
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 1310. Programación y mantenimiento de automatismos hidráulicos y neumáticos en buques y embarcaciones.
 
@@ -15751,13 +15733,13 @@ Técnico Superior en Programación de la Producción en Moldeo de Metales y Pol�
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 0280. Organización de la producción en confección textil.
 
@@ -15769,21 +15751,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO SUPERIOR
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Agencias de Viaje y Gestión de Eventos
 
-(RD 1254/2009, de 24 de julio)
+(RD 1254/2009, de 24 de julio)
 
 0661. Protocolo empresarial.
 
@@ -15791,13 +15773,13 @@ Técnico Superior en Agencias de Viaje y Gestión de Eventos
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
-(RD 1254/2009, de 24 de julio)
+(RD 1254/2009, de 24 de julio)
 
 0930. Políticas de marketing.
 
@@ -15805,13 +15787,13 @@ Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
-(RD 1254/2009, de 24 de julio)
+(RD 1254/2009, de 24 de julio)
 
 0930. Políticas de marketing.
 
@@ -15819,13 +15801,13 @@ Técnico Superior en Agencias de Viajes y Gestión de Eventos
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 (Industrias Alimentarias)
 
 Técnico Superior en Dirección de Cocina
 
-(RD 687/2010, de 20 de mayo)
+(RD 687/2010, de 20 de mayo)
 
 0086. Gestión de calidad y ambiental en la industria alimentaria.
 
@@ -15835,13 +15817,13 @@ Técnico Superior en Dirección de Cocina
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 (Industrias Alimentarias)
 
 Técnico Superior en Dirección de Cocina
 
-(RD 687/2010, de 20 de mayo)
+(RD 687/2010, de 20 de mayo)
 
 0085. Legislación vitivinícola y seguridad alimentaria.
 
@@ -15851,13 +15833,13 @@ Técnico Superior en Dirección de Cocina
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 0661. Protocolo empresarial.
 
@@ -15865,13 +15847,13 @@ Técnico Superior en Gestión de Alojamientos Turísticos
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 0930. Políticas de marketing.
 
@@ -15879,13 +15861,13 @@ Técnico Superior en Gestión de Alojamientos Turísticos
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Gestión de Alojamientos Turísticos
 
-(RD 1686/2007, de 14 de diciembre)
+(RD 1686/2007, de 14 de diciembre)
 
 0930. Políticas de marketing.
 
@@ -15893,13 +15875,13 @@ Técnico Superior en Gestión de Alojamientos Turísticos
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Guía, Información y Asistencias Turísticas
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 0930. Políticas de marketing.
 
@@ -15907,13 +15889,13 @@ Técnico Superior en Guía, Información y Asistencias Turísticas
 
 Técnico Superior en Asistencia a la Dirección
 
-(RD 1582/2011, de 4 de noviembre)
+(RD 1582/2011, de 4 de noviembre)
 
 (Administración y Gestión)
 
 Técnico Superior en Guía, Información y Asistencia Turística
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 0661. Protocolo empresarial.
 
@@ -15921,13 +15903,13 @@ Técnico Superior en Guía, Información y Asistencia Turística
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Guía, Información y Asistencias Turísticas
 
-(RD 1255/2009, de 24 de julio)
+(RD 1255/2009, de 24 de julio)
 
 0930. Políticas de marketing.
 
@@ -15939,21 +15921,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Estética y Belleza
 
-(RD 256/2011, de 28 de febrero)
+(RD 256/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -15961,13 +15943,13 @@ Ciclo completo.
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Estética y Belleza
 
-(RD 256/2011, de 28 de febrero)
+(RD 256/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -15975,13 +15957,13 @@ Ciclo completo.
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Estética y Belleza
 
-(RD 256/2011, de 28 de febrero)
+(RD 256/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -15989,13 +15971,13 @@ Ciclo completo.
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Peluquería y Cosmética Capilar
 
-(RD 1588/2011, de 4 de noviembre)
+(RD 1588/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -16003,13 +15985,13 @@ Ciclo completo.
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Peluquería y Cosmética Capilar
 
-(RD 1588/2011, de 4 de noviembre)
+(RD 1588/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -16017,13 +15999,13 @@ Ciclo completo.
 
 Técnico Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Peluquería y Cosmética Capilar
 
-(RD 1588/2011, de 4 de noviembre)
+(RD 1588/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -16031,19 +16013,19 @@ Ciclo completo.
 
 GRADO SUPERIOR
 
-Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
 
-(RD 1583/2011, de 4 de noviembre)
+(RD 1583/2011, de 4 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Caracterización y Maquillaje Profesional
 
-(RD 553/2012, de 23 de marzo)
+(RD 553/2012, de 23 de marzo)
 
 Ciclo completo.
 
-1267. Diseño digital de personajes 2D 3D.
+1267. Diseño digital de personajes 2D 3D.
 
 Imagen y Sonido
 
@@ -16051,19 +16033,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 Técnico en Vídeo Disc-jockey y Sonido
 
-(RD 556/2012, de 23 de marzo)
+(RD 556/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -16071,11 +16053,11 @@ Ciclo completo.
 
 Técnico Superior en Sonido para Audiovisuales y Espectáculos
 
-(RD 1682/2011, de 18 de noviembre)
+(RD 1682/2011, de 18 de noviembre)
 
 Técnico en Vídeo Disc-jockey y Sonido
 
-(RD 556/2012, de 23 de marzo)
+(RD 556/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -16083,11 +16065,11 @@ Ciclo completo.
 
 Técnico Superior en Sonido para Audiovisuales y Espectáculos
 
-(RD 1682/2011, de 18 de noviembre)
+(RD 1682/2011, de 18 de noviembre)
 
 Técnico en Vídeo Disc-jockey y Sonido
 
-(RD 556/2012, de 23 de marzo)
+(RD 556/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -16095,11 +16077,11 @@ Ciclo completo.
 
 Técnico Superior en Sonido para Audiovisuales y Espectáculos
 
-(RD 1682/2011, de 18 de noviembre)
+(RD 1682/2011, de 18 de noviembre)
 
 Técnico en Vídeo Disc-jockey y Sonido
 
-(RD 556/2012, de 23 de marzo)
+(RD 556/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -16109,11 +16091,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Realización de Proyectos de Audiovisuales y Espectáculos
 
-(RD 1680/2011, de 18 de noviembre)
+(RD 1680/2011, de 18 de noviembre)
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 Ciclo completo.
 
@@ -16121,11 +16103,11 @@ Ciclo completo.
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
 
-(RD 1686/2011, de 18 de noviembre)
+(RD 1686/2011, de 18 de noviembre)
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Ciclo completo.
 
@@ -16133,11 +16115,11 @@ Ciclo completo.
 
 Técnico Superior en Realización de Proyectos de Audiovisuales y Espectáculos
 
-(RD 1680/2011, de 18 de noviembre)
+(RD 1680/2011, de 18 de noviembre)
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Ciclo completo.
 
@@ -16145,11 +16127,11 @@ Ciclo completo.
 
 Técnico Superior en Realización de Proyectos de Audiovisuales y Espectáculos
 
-(RD 1680/2011, de 18 de noviembre)
+(RD 1680/2011, de 18 de noviembre)
 
 Técnico Superior en Producción de Audiovisuales y Espectáculos
 
-(RD 1681/2011, de 18 de noviembre)
+(RD 1681/2011, de 18 de noviembre)
 
 Ciclo completo.
 
@@ -16161,19 +16143,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 0032. Presentación y venta de productos de panadería y pastelería.
 
@@ -16181,13 +16163,13 @@ Técnico en Aceites de Oliva y Vinos
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 1228. Técnicas de almacén.
 
@@ -16195,13 +16177,13 @@ Técnico en Aceites de Oliva y Vinos
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Ciclo completo.
 
@@ -16209,13 +16191,13 @@ Ciclo completo.
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 0542. Control de almacén.
 
@@ -16223,13 +16205,13 @@ Técnico en Aceites de Oliva y Vinos
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 1209. Operaciones de Almacenaje.
 
@@ -16237,13 +16219,13 @@ Técnico en Aceites de Oliva y Vinos
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 0542 Control de almacén.
 
@@ -16251,13 +16233,13 @@ Técnico en Aceites de Oliva y Vinos
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 (Instalación y Mantenimiento)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Ciclo completo.
 
@@ -16265,13 +16247,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Ciclo completo.
 
@@ -16279,11 +16261,11 @@ Ciclo completo.
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 0032 Presentación y venta de productos de panadería y pastelería.
 
@@ -16291,13 +16273,13 @@ Técnico en Elaboración de Productos Alimentarios
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 1228. Técnicas de almacén.
 
@@ -16305,13 +16287,13 @@ Técnico en Elaboración de Productos Alimentarios
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16319,13 +16301,13 @@ Ciclo completo.
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 0542. Control de almacén.
 
@@ -16333,13 +16315,13 @@ Técnico en Elaboración de Productos Alimentarios
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 1209. Operaciones de Almacenaje.
 
@@ -16347,13 +16329,13 @@ Técnico en Elaboración de Productos Alimentarios
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 0542. Control de almacén.
 
@@ -16361,13 +16343,13 @@ Técnico en Elaboración de Productos Alimentarios
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 (Instalación y Mantenimiento)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16375,13 +16357,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Elaboración de Productos Alimentarios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16389,11 +16371,11 @@ Ciclo completo.
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 0146. Venta y comercialización de productos alimentarios.
 
@@ -16401,11 +16383,11 @@ Técnico en Panadería, Repostería y Confitería
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 0146. Venta y comercialización de productos alimentarios.
 
@@ -16413,13 +16395,13 @@ Técnico en Panadería, Repostería y Confitería
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 1228. Técnicas de almacén.
 
@@ -16427,13 +16409,13 @@ Técnico en Panadería, Repostería y Confitería
 
 Técnico en Actividades Comerciales
 
-(RD 1688/2011, de 18 de noviembre)
+(RD 1688/2011, de 18 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -16441,13 +16423,13 @@ Ciclo completo.
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 0542. Control de almacén.
 
@@ -16455,13 +16437,13 @@ Técnico en Panadería, Repostería y Confitería
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 1209. Operaciones de Almacenaje.
 
@@ -16469,13 +16451,13 @@ Técnico en Panadería, Repostería y Confitería
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 (Madera, Mueble y Corcho)
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 0542. Control de almacén.
 
@@ -16485,13 +16467,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 1021. Gestión medioambiental de los procesos acuícolas.
 
@@ -16499,13 +16481,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16513,13 +16495,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 1797/2008, de 3 de noviembre)
+(RD 1797/2008, de 3 de noviembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16527,13 +16509,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16541,13 +16523,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16555,13 +16537,13 @@ Ciclo completo.
 
 Técnico Superior en Laboratorio de Análisis y Control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 (Química)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16569,13 +16551,13 @@ Ciclo completo.
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 (Instalación y Mantenimiento)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16583,13 +16565,13 @@ Ciclo completo.
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16597,13 +16579,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16611,13 +16593,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16625,13 +16607,13 @@ Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Procesos y Calidad en la Industria Alimentaria
 
-(RD 451/2010, de 16 de abril)
+(RD 451/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16639,13 +16621,13 @@ Ciclo completo.
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 1021. Gestión medioambiental de los procesos acuícolas.
 
@@ -16653,13 +16635,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Construcciones Metálicas
 
-(RD 174/2008, de 8 de febrero)
+(RD 174/2008, de 8 de febrero)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16667,13 +16649,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos
 
-(RD 1797/2008, de 3 de noviembre)
+(RD 1797/2008, de 3 de noviembre)
 
 (Vidrio y Cerámica)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16681,13 +16663,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16695,13 +16677,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
 
-(RD 1573/2011, de 4 de noviembre)
+(RD 1573/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -16709,13 +16691,13 @@ Ciclo completo.
 
 Técnico Superior en Laboratorio de Análisis y Control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 (Química)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -16723,13 +16705,13 @@ Ciclo completo.
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16737,13 +16719,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16751,13 +16733,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Programación de la Producción en Moldeo de Metales y Polímeros
 
-(RD 882/2011, de 24 de junio)
+(RD 882/2011, de 24 de junio)
 
 (Fabricación Mecánica)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -16765,13 +16747,13 @@ Técnico Superior en Vitivinicultura
 
 Técnico Superior en Transporte y Logística
 
-(RD 1572/2011, de 4 de noviembre)
+(RD 1572/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico Superior en Vitivinicultura
 
-(RD 1688/2007, de 14 de diciembre)
+(RD 1688/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -16783,21 +16765,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Gestión Administrativa
 
-(RD 1631/2009, de 30 de octubre)
+(RD 1631/2009, de 30 de octubre)
 
 (Administración y Gestión)
 
 Técnico en Sistemas Microinformáticos y Redes
 
-(RD 1691/2007, de 14 de diciembre)
+(RD 1691/2007, de 14 de diciembre)
 
 0440. Tratamiento informático de la información.
 
@@ -16807,13 +16789,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 (Electricidad y Electrónica)
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 Ciclo completo.
 
@@ -16821,11 +16803,11 @@ Ciclo completo.
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 
-(RD 450/2010, de 16 de abril)
+(RD 450/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16833,15 +16815,15 @@ Ciclo completo.
 
 0484. Bases de datos.
 
-Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
+Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
 
-(RD 1583/2011, de 4 de noviembre)
+(RD 1583/2011, de 4 de noviembre)
 
 (Imagen y Sonido)
 
 Técnico Superior en Desarrollo Aplicaciones Multiplataforma
 
-(RD 450/2010, de 16 de abril)
+(RD 450/2010, de 16 de abril)
 
 Ciclo completo.
 
@@ -16849,11 +16831,11 @@ Ciclo completo.
 
 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-(RD 1629/2009, de 30 de octubre)
+(RD 1629/2009, de 30 de octubre)
 
 Técnico Superior en Desarrollo de Aplicaciones Web
 
-(RD 686/2010, de 20 de mayo)
+(RD 686/2010, de 20 de mayo)
 
 Ciclo completo.
 
@@ -16863,13 +16845,13 @@ Ciclo completo.
 
 Técnico Superior en Mantenimiento Electrónico
 
-(RD 1578/2011, de 4 de noviembre)
+(RD 1578/2011, de 4 de noviembre)
 
 (Electricidad y Electrónica)
 
 Técnico en Sistemas Microinformáticos y Redes
 
-(RD 1691/2007, de 14 de diciembre)
+(RD 1691/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -16883,7 +16865,7 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
@@ -16891,13 +16873,13 @@ GRADO MEDIO
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones Frigoríficas y de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 1176. Instalación y mantenimiento de maquinaria de frío y climatización en buques y embarcaciones.
 
@@ -16905,13 +16887,13 @@ Técnico en Instalaciones Frigoríficas y de Climatización
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Instalaciones Frigoríficasy de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -16919,13 +16901,13 @@ Técnico en Instalaciones Frigoríficasy de Climatización
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 (Electricidad y Electrónica)
 
 Técnico en Instalaciones Frigoríficasy de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -16933,13 +16915,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones Frigoríficasy de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -16947,13 +16929,13 @@ Ciclo completo.
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Instalaciones Frigoríficasy de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -16961,13 +16943,13 @@ Técnico en Instalaciones Frigoríficasy de Climatización
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones Frigoríficasy de Climatización
 
-(RD 1793/2010, de 30 de diciembre)
+(RD 1793/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -16975,13 +16957,13 @@ Ciclo completo.
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 (Electricidad y Electrónica)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -16989,13 +16971,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -17003,13 +16985,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -17021,13 +17003,13 @@ Ciclo completo.
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -17035,13 +17017,13 @@ Técnico en Instalaciones de Producción de Calor
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -17049,13 +17031,13 @@ Técnico en Instalaciones de Producción de Calor
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -17063,13 +17045,13 @@ Ciclo completo.
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Instalaciones de Producción de Calor
 
-(RD 1792/2010, de 30 de diciembre)
+(RD 1792/2010, de 30 de diciembre)
 
 Ciclo completo.
 
@@ -17081,13 +17063,13 @@ Ciclo completo.
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 (Fabricación Mecánica)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 0004. Fabricación por arranque de viruta.
 
@@ -17097,13 +17079,13 @@ Técnico en Mantenimiento Electromecánico
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -17111,13 +17093,13 @@ Técnico en Mantenimiento Electromecánico
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Mantenimiento. Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -17125,13 +17107,13 @@ Técnico en Mantenimiento. Electromecánico
 
 Técnico en Instalaciones Eléctricas y Automáticas
 
-(RD 177/2008, de 8 de febrero)
+(RD 177/2008, de 8 de febrero)
 
 (Electricidad y Electrónica)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -17141,13 +17123,13 @@ Ciclo completo.
 
 Técnico en Soldadura y Calderería
 
-(RD 1692/2007, de 14 de diciembre)
+(RD 1692/2007, de 14 de diciembre)
 
 (Fabricación Mecánica)
 
 Técnico en Mantenimiento Electromecánico
 
-(RD 1589/2011, de 4 de noviembre)
+(RD 1589/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -17159,11 +17141,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 Ciclo completo.
 
@@ -17171,13 +17153,13 @@ Ciclo completo.
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 (Electricidad y Electrónica)
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 Ciclo completo.
 
@@ -17185,13 +17167,13 @@ Ciclo completo.
 
 Técnico Superior en Eficiencia Energética y Energía Solar Térmica
 
-(RD 1177/2008, de 11 de julio)
+(RD 1177/2008, de 11 de julio)
 
 (Energía y Agua)
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 0349. Eficiencia energética de instalaciones.
 
@@ -17201,11 +17183,11 @@ Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
 Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
 
-(RD 219/2008, de 15 de febrero)
+(RD 219/2008, de 15 de febrero)
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 0125. Configuración de instalaciones de climatización, calefacción y ACS.
 
@@ -17215,11 +17197,11 @@ Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
 0134. Configuración de instalaciones térmicas y de fluidos.
 
-Técnico Superior en Mecatrónica Industrial(RD 1576/2011, de 4 de noviembre)
+Técnico Superior en Mecatrónica Industrial(RD 1576/2011, de 4 de noviembre)
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 Ciclo completo.
 
@@ -17227,13 +17209,13 @@ Ciclo completo.
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 (Electricidad y Electrónica)
 
 Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
 
-(RD 220/2008, de 15 de febrero)
+(RD 220/2008, de 15 de febrero)
 
 Ciclo completo.
 
@@ -17241,13 +17223,13 @@ Ciclo completo.
 
 Técnico Superior en Automoción
 
-(RD 1796/2008, de 3 de noviembre)
+(RD 1796/2008, de 3 de noviembre)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 0292. Sistemas de transmisión de fuerzas y trenes de rodaje.
 
@@ -17259,13 +17241,13 @@ Técnico Superior en Mecatrónica Industrial
 
 Técnico Superior en Sistemas Electrotécnicos y Automatizados
 
-(RD 1127/2010, de 10 de septiembre)
+(RD 1127/2010, de 10 de septiembre)
 
 (Electricidad y Electrónica)
 
 Técnico Superior en Mecatrónica Industrial
 
-(RD 1576/2011, de 4 de noviembre)
+(RD 1576/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -17277,21 +17259,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
 
-(RD 1687/2007, de 14 de diciembre)
+(RD 1687/2007, de 14 de diciembre)
 
 (Fabricación Mecánica)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0002. Mecanizado por control numérico.
 
@@ -17299,13 +17281,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Actividades Comerciales
 
-Real Decreto 1688/2011, de 18 de noviembre
+Real Decreto 1688/2011, de 18 de noviembre
 
 (Comercio y Marketing)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 1228 Técnicas de almacén
 
@@ -17313,13 +17295,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 (Industrias Alimentarias)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0030. Operaciones y control de almacén en la industria alimentaria.
 
@@ -17327,13 +17309,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 1209. Operaciones de Almacenaje.
 
@@ -17341,13 +17323,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Elaboración de Productos Alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 (Industrias Alimentarias)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0030. Operaciones y control de almacén en la industria alimentaria.
 
@@ -17355,13 +17337,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Mecanizado
 
-(RD 1398/2007, de 29 de octubre)
+(RD 1398/2007, de 29 de octubre)
 
 (Fabricación Mecánica)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0002. Mecanizado por control numérico.
 
@@ -17369,13 +17351,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Piedra Natural
 
-(RD 1587/2011, de 4 de noviembre)
+(RD 1587/2011, de 4 de noviembre)
 
 (Industrias Extractivas)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0895. Tecnología de mecanizado en piedra natural.
 
@@ -17383,13 +17365,13 @@ Técnico en Carpintería y Mueble
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 (Industrias Alimentarias)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 0030. Operaciones y control de almacén en la industria alimentaria.
 
@@ -17397,11 +17379,11 @@ Técnico en Carpintería y Mueble
 
 Técnico Superior en Diseño y Amueblamiento
 
-(RD 1579/2011, de 4 de noviembre)
+(RD 1579/2011, de 4 de noviembre)
 
 Técnico en Carpintería y Mueble
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 Ciclo completo.
 
@@ -17413,13 +17395,13 @@ Ciclo completo.
 
 Técnico en Actividades Comerciales
 
-Real Decreto 1688/2011, de 18 de noviembre
+Real Decreto 1688/2011, de 18 de noviembre
 
 (Comercio y Marketing)
 
 Técnico en Instalación y A
 
-(RD 1128/2010, de 10 de septiembre)
+(RD 1128/2010, de 10 de septiembre)
 
 1228 Técnicas de almacén
 
@@ -17427,13 +17409,13 @@ Técnico en Instalación y A
 
 Técnico en Aceites de Oliva y Vinos
 
-(RD 1798/2008, de 3 de noviembre)
+(RD 1798/2008, de 3 de noviembre)
 
 (Industrias Alimentarias)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 0030. Operaciones y control de almacén en la industria alimentaria.
 
@@ -17441,13 +17423,13 @@ Técnico en Instalación y Amueblamiento
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 1209. Operaciones de Almacenaje.
 
@@ -17455,13 +17437,13 @@ Técnico en Instalación y Amueblamiento
 
 Técnico en Elaboración de productos alimenticios
 
-(RD 452/2010, de 16 de abril)
+(RD 452/2010, de 16 de abril)
 
 (Industrias Alimentarias)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 0030 Operaciones y control de almacén en la industria alimentaria.
 
@@ -17469,13 +17451,13 @@ Técnico en Instalación y Amueblamiento
 
 Técnico en Panadería, Repostería y Confitería
 
-(RD 1399/2007, de 29 de octubre)
+(RD 1399/2007, de 29 de octubre)
 
 (Industrias Alimentarias)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 0030. Operaciones y control de almacén en la industria alimentaria.
 
@@ -17483,11 +17465,11 @@ Técnico en Instalación y Amueblamiento
 
 Técnico Superior en Diseño y Amueblamiento
 
-(RD 1579/2011, de 4 de noviembre)
+(RD 1579/2011, de 4 de noviembre)
 
 Técnico en Instalación y Amueblamiento
 
-(RD 880/2011, de 24 de junio)
+(RD 880/2011, de 24 de junio)
 
 Ciclo completo.
 
@@ -17503,19 +17485,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 Técnico en Cultivos Acuícolas
 
-(RD 254/2011, de 28 de febrero)
+(RD 254/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -17523,11 +17505,11 @@ Ciclo completo.
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 Técnico en Cultivos Acuícolas
 
-(RD 254/2011, de 28 de febrero)
+(RD 254/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -17535,11 +17517,11 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Ciclo completo.
 
@@ -17547,11 +17529,11 @@ Ciclo completo.
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Ciclo completo.
 
@@ -17559,11 +17541,11 @@ Ciclo completo.
 
 Técnico en Navegación y Pesca de Litoral
 
-(RD 1144/2012, de 27 de julio)
+(RD 1144/2012, de 27 de julio)
 
 Técnico en Operaciones Subacuáticas e Hiperbáricas
 
-(RD 1073/2012, de 13 de julio)
+(RD 1073/2012, de 13 de julio)
 
 Ciclo completo.
 
@@ -17573,11 +17555,11 @@ Ciclo completo.
 
 Técnico Superior en Transporte Marítimo y Pesca de Altura
 
-(RD 1691/2011, de 18 de noviembre)
+(RD 1691/2011, de 18 de noviembre)
 
 Técnico en Operaciones Subacuáticas e Hiperbáricas
 
-(RD 1073/2012, de 13 de julio)
+(RD 1073/2012, de 13 de julio)
 
 Ciclo completo.
 
@@ -17589,13 +17571,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Diseño y Producción de Calzado y Complementos
 
-(RD 689/2010, de 20 de mayo)
+(RD 689/2010, de 20 de mayo)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -17603,11 +17585,11 @@ Técnico Superior en Acuicultura
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -17615,13 +17597,13 @@ Ciclo completo.
 
 Técnico Superior en Patronaje y Moda
 
-(RD 954/2008, de 6 de junio)
+(RD 954/2008, de 6 de junio)
 
 (Textil, Confección y Piel)
 
 Técnico Superior en Acuicultura
 
-(RD 1585/2011, de 4 de noviembre)
+(RD 1585/2011, de 4 de noviembre)
 
 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental.
 
@@ -17633,19 +17615,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Operaciones de Laboratorio
 
-(RD 554/2012, de 23 de marzo)
+(RD 554/2012, de 23 de marzo)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 1249. Química Aplicada.
 
@@ -17657,13 +17639,13 @@ Laboratorio.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 Ciclo completo.
 
@@ -17671,13 +17653,13 @@ Ciclo completo.
 
 Técnico en Redes y Estaciones de Tratamientos de Agua
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 1564 Calidad del agua
 
@@ -17685,13 +17667,13 @@ Técnico en Planta Química
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 1573. Calidad y tratamiento de aguas.
 
@@ -17699,11 +17681,11 @@ Técnico en Planta Química
 
 Técnico en Planta Química
 
-(RD 178/2008, de 8 de febrero)
+(RD 178/2008, de 8 de febrero)
 
 Técnico en Operaciones de Laboratorio
 
-(RD 554/2012, de 23 de marzo)
+(RD 554/2012, de 23 de marzo)
 
 0109. Parámetros químicos.
 
@@ -17715,13 +17697,13 @@ Técnico en Mantenimiento de Material
 
 Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Operaciones de Laboratorio
 
-(RD 554/2012, de 23 de marzo)
+(RD 554/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -17729,11 +17711,11 @@ Ciclo completo.
 
 Técnico Superior en Laboratorio de Análisis y Control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 Técnico en Operaciones de Laboratorio
 
-(RD 554/2012, de 23 de marzo)
+(RD 554/2012, de 23 de marzo)
 
 0065. Muestreo y preparación de la muestra.
 
@@ -17743,13 +17725,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Química Industrial
 
-(RD 175/2008, de 8 de febrero)
+(RD 175/2008, de 8 de febrero)
 
 Ciclo completo.
 
@@ -17761,21 +17743,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17783,13 +17765,13 @@ Ciclo completo.
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17797,13 +17779,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17811,13 +17793,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17825,13 +17807,13 @@ Ciclo completo.
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17839,13 +17821,13 @@ Ciclo completo.
 
 Técnico Superior en Automoción
 
-(RD 1796/2008, de 3 de noviembre)
+(RD 1796/2008, de 3 de noviembre)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Ciclo completo.
 
@@ -17853,11 +17835,11 @@ Ciclo completo.
 
 Técnico en Emergencias Sanitarias
 
-(RD 1397/2007, de 29 de octubre)
+(RD 1397/2007, de 29 de octubre)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -17865,13 +17847,13 @@ Ciclo completo.
 
 Técnico Superior en Laboratorio de Análisis y Control de Calidad
 
-(RD 1395/2007, de 29 de octubre)
+(RD 1395/2007, de 29 de octubre)
 
 (Química)
 
 Técnico en Farmacia y Parafarmacia
 
-(RD 1689/2007, de 14 de diciembre)
+(RD 1689/2007, de 14 de diciembre)
 
 Ciclo completo.
 
@@ -17883,19 +17865,19 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 1124. Dinamización grupal.
 
@@ -17903,11 +17885,11 @@ Técnico en Atención a Personas en Situación de Dependencia
 
 Técnico Superior en Mediación Comunicativa
 
-(RD 831/2014, de 3 de octubre)
+(RD 831/2014, de 3 de octubre)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -17915,11 +17897,11 @@ Técnico en Atención a Personas en Situación de Dependencia
 
 Técnico Superior en Educación Infantil
 
-(RD 1394/2007, de 29 de octubre)
+(RD 1394/2007, de 29 de octubre)
 
 Técnico en Atención a Personas en Situación en Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -17927,11 +17909,11 @@ Técnico en Atención a Personas en Situación en Dependencia
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Técnico en Atención a Personas en Situación en Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -17939,11 +17921,11 @@ Técnico en Atención a Personas en Situación en Dependencia
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0343. Sistemas aumentativos y alternativos de comunicación.
 
@@ -17951,11 +17933,11 @@ Técnico en Atención a Personas en Situación de Dependencia
 
 Técnico Superior en Mediación Comunicativa
 
-(RD 831/2014 de 3 de octubre)
+(RD 831/2014 de 3 de octubre)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0343. Sistemas aumentativos y alternativos de comunicación.
 
@@ -17963,11 +17945,11 @@ Técnico en Atención a Personas en Situación de Dependencia
 
 Técnico Superior en Promoción de Igualdad de Género
 
-(RD 779/2013, de 11 de octubre)
+(RD 779/2013, de 11 de octubre)
 
 Técnico en Atención a Personas en Situación en Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -17975,13 +17957,13 @@ Técnico en Atención a Personas en Situación en Dependencia
 
 Técnico Superior en Educación y Control Ambiental
 
-(RD 384/2011, de 18 de marzo)
+(RD 384/2011, de 18 de marzo)
 
 (Seguridad y Medio-Ambiente)
 
 Técnico en Atención a Personas en Situación de Dependencia
 
-(RD 1593/2011, de 4 de noviembre)
+(RD 1593/2011, de 4 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -17991,11 +17973,11 @@ GRADO SUPERIOR
 
 Técnico Superior en Educación Infantil
 
-(RD 1394/2007, de 29 de octubre)
+(RD 1394/2007, de 29 de octubre)
 
 Técnico en Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -18003,11 +17985,11 @@ Técnico en Superior en Animación Sociocultural y Turística
 
 Técnico Superior en Integración Social
 
-(RD 1074/2012, de 13 de julio)
+(RD 1074/2012, de 13 de julio)
 
 Técnico en Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -18015,11 +17997,11 @@ Técnico en Superior en Animación Sociocultural y Turística
 
 Técnico Superior en Promoción de Igualdad de Género
 
-(RD 779/2013, de 11 de octubre)
+(RD 779/2013, de 11 de octubre)
 
 Técnico en Superior en Animación Sociocultural y Turística
 
-(RD 1684/2011, de 18 de noviembre)
+(RD 1684/2011, de 18 de noviembre)
 
 0017. Habilidades sociales.
 
@@ -18031,21 +18013,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Superior en Marketing y Publicidad
 
-(RD 1571/2011, de 4 de noviembre)
+(RD 1571/2011, de 4 de noviembre)
 
 (Comercio y Marketing)
 
 Técnico en Confección y Moda
 
-(RD 955/2008, de 6 de junio)
+(RD 955/2008, de 6 de junio)
 
 1110. Atención al cliente, consumidor y usuario.
 
@@ -18053,13 +18035,13 @@ Técnico en Confección y Moda
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Calzado y Complementos de Moda
 
-(RD 257/2011, de 28 de febrero)
+(RD 257/2011, de 28 de febrero)
 
 Ciclo completo.
 
@@ -18067,13 +18049,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Confección y Moda
 
-(RD 955/2008, de 6 de junio)
+(RD 955/2008, de 6 de junio)
 
 Ciclo completo.
 
@@ -18081,13 +18063,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Fabricación y Ennoblecimiento de Productos Textiles
 
-(RD 1591/2011, de 4 de noviembre)
+(RD 1591/2011, de 4 de noviembre)
 
 Ciclo completo.
 
@@ -18099,21 +18081,21 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 GRADO MEDIO
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -18121,13 +18103,13 @@ Técnico en Carrocería
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -18135,13 +18117,13 @@ Técnico en Carrocería
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Carrocería
 
-(RD 176/2008, de 8 de febrero)
+(RD 176/2008, de 8 de febrero)
 
 1173. Procedimientos de mecanizado y soldadura en buques y embarcaciones.
 
@@ -18149,11 +18131,11 @@ Técnico en Carrocería
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18161,11 +18143,11 @@ Ciclo completo.
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18173,13 +18155,13 @@ Ciclo completo.
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18187,11 +18169,11 @@ Ciclo completo.
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18199,11 +18181,11 @@ Ciclo completo.
 
 Técnico Superior en Automoción
 
-(RD 1797/2008, de 3 de noviembre)
+(RD 1797/2008, de 3 de noviembre)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18211,13 +18193,13 @@ Ciclo completo.
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Conducción de Vehículos de Transporte por Carretera
 
-(RD 555/2012, de 23 de marzo)
+(RD 555/2012, de 23 de marzo)
 
 Ciclo completo.
 
@@ -18225,11 +18207,11 @@ Ciclo completo.
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 0453. Sistemas auxiliares del motor.
 
@@ -18237,13 +18219,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 1173. Procedimientos de mecanizado y soldadura en buques y embarcaciones.
 
@@ -18251,13 +18233,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 1172. Mantenimiento de la planta propulsora y maquinaria auxiliar.
 
@@ -18265,13 +18247,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -18279,13 +18261,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -18293,13 +18275,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Maquinaria
 
-(RD 255/2011, de 28 de febrero)
+(RD 255/2011, de 28 de febrero)
 
 1308. Organización del mantenimiento de planta propulsora y maquinaria auxiliar de buques.
 
@@ -18307,13 +18289,13 @@ Técnico en Electromecánica de Maquinaria
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 1173. Procedimientos de mecanizado y soldadura en buques y embarcaciones.
 
@@ -18321,11 +18303,11 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 0975. Circuitos auxiliares.
 
@@ -18333,13 +18315,13 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 1562. Técnicas de mecanizado y unión
 
@@ -18347,13 +18329,13 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico Superior en Gestión del Agua
 
-(RD 113/2017, de 17 de febrero)
+(RD 113/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -18361,13 +18343,13 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 1172. Mantenimiento de la planta propulsora y maquinaria auxiliar.
 
@@ -18375,13 +18357,13 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 1308. Organización del mantenimiento de planta propulsora y maquinaria auxiliar de buques.
 
@@ -18389,11 +18371,11 @@ Técnico en Electromecánica de Vehículos Automóviles
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 0453. Sistemas auxiliares del motor.
 
@@ -18401,11 +18383,11 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico en Electromecánica de Vehículos Automóviles
 
-(RD 453/2010, de 16 abril)
+(RD 453/2010, de 16 abril)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 0457. Circuitos eléctricos auxiliares del vehículo.
 
@@ -18413,13 +18395,13 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico en Redes y estaciones de Tratamiento de aguas
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y agua)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 1562. Técnicas de mecanizado y unión.
 
@@ -18427,13 +18409,13 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico Superior en Gestión del Agua
 
-(RD 114/2017, de 17 de febrero)
+(RD 114/2017, de 17 de febrero)
 
 (Energía y Agua)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 1580. Técnicas de montaje en instalaciones de agua.
 
@@ -18441,13 +18423,13 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 1308. Organización del mantenimiento de planta propulsora y maquinaria auxiliar de buques.
 
@@ -18455,13 +18437,13 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 1173. Procedimientos de mecanizado y soldadura en buques y embarcaciones.
 
@@ -18469,13 +18451,13 @@ Técnico en Mantenimiento de Material Rodante Ferroviario
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
 
-(RD 1072/2012, de 13 de julio)
+(RD 1072/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 1172. Mantenimiento de la planta propulsora y maquinaria auxiliar.
 
@@ -18485,13 +18467,13 @@ GRADO SUPERIOR
 
 Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
 
-(RD 1075/2012, de 13 de julio)
+(RD 1075/2012, de 13 de julio)
 
 (Marítimo Pesquera)
 
 Técnico Superior en Automoción
 
-(RD 1796/2008, de 3 de noviembre)
+(RD 1796/2008, de 3 de noviembre)
 
 Ciclo completo.
 
@@ -18503,29 +18485,29 @@ Formación aportada
 
 Formación a convalidar
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
+Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
-(RD 1145/2012, de 27 de julio)
+(RD 1145/2012, de 27 de julio)
 
 (Transporte y Mantenimiento de Vehículos)
 
 Técnico en Fabricación de Productos Cerámicos
 
-(RD 454/2010, de 16 de abril)
+(RD 454/2010, de 16 de abril)
 
 Ciclo completo.
 
 0116. Principios de mantenimiento electromecánico.
 
-ANEXO IV
+## Anexo IV
 
-Convalidaciones de títulos publicados a partir de 5 de marzo de 2017
+Convalidaciones de títulos publicados a partir de 5 de marzo de 2017
 
-Las convalidaciones de los títulos publicados a partir del 5 de marzo de 2017 quedan reflejadas en los reales decretos de dichos títulos, a excepción de las siguientes:
+Las convalidaciones de los títulos publicados a partir del 5 de marzo de 2017 quedan reflejadas en los reales decretos de dichos títulos, a excepción de las siguientes:
 
 Cualquier ciclo formativo
 
@@ -18545,7 +18527,7 @@ Cualquier ciclo formativo
 
 Comercio y Marketing/Hostelería y Turismo
 
-c) Convalidaciones entre módulos profesionales establecidos en el título de Técnico en Comercialización de productos alimentarios (RD 189/2018, de 6 de abril) y los de otros títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE).
+c) Convalidaciones entre módulos profesionales establecidos en el título de Técnico en Comercialización de productos alimentarios (RD 189/2018, de 6 de abril) y los de otros títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE).
 
 Formación aportada
 
@@ -18577,7 +18559,7 @@ Ciclo completo.
 
 Transporte y Mantenimiento de Vehículos
 
-b) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE) y los establecidos en el título de Técnico en Montaje de estructuras e Instalación de sistemas aeronáuticos (RD 74/2018, de 19 de febrero).
+b) Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 2/2006 (LOE) y los establecidos en el título de Técnico en Montaje de estructuras e Instalación de sistemas aeronáuticos (RD 74/2018, de 19 de febrero).
 
 Formación aportada
 
@@ -18597,15 +18579,14 @@ Módulos profesionales a convalidar
 
 1444. Instalaciones eléctricas y electrónicas.
 
-ANEXO V
+## Anexo V
 
 Solicitud de convalidación de módulos de formación profesional
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -18625,6 +18606,7 @@ Solicitud de convalidación de módulos de formación profesional
 - **Fundamento de**: [**Resolucion BOC 30**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R2_5_2025_resoluci_n_mayo_direcci_n_general.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

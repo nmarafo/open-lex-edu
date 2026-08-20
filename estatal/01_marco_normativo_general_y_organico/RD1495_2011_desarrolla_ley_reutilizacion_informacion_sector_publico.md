@@ -1,13 +1,10 @@
 ---
 id: norm-es-2011-17560
 codigo_sintetizado: BOE-A-2011-17560
-titulo: Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley
-  37/2007, de 16 de noviembre, sobre reutilización de la información del sector público,
-  para el ámbito del sector público estatal.
+titulo: Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-11-08'
 boletin: BOE
@@ -18,32 +15,29 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- empleados-p-blicos
-- equipos-directivos
-- oposiciones
-- procedimiento-administrativo
+  - empleados-p-blicos
+  - equipos-directivos
+  - oposiciones
+  - procedimiento-administrativo
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2007-19814
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2008-979
-  - norma_id: norm-es-l-39-2015
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2007-19814
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-2008-979
-- norma_id: norm-es-2007-6115
+    - '1'
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-2007-6115
 ---
-
-## Preámbulo
-
 # Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
-# Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
+## Preámbulo
 
 La [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, por medio de la cual se incorpora a nuestro ordenamiento jurídico la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, establece el régimen jurídico general para la reutilización de dicha información.
 
@@ -55,31 +49,53 @@ Por otra parte, favorecer la reutilización de la información pública figura e
 
 El presente real decreto se enmarca en el conjunto de medidas que constituyen la Estrategia 2011-2015 del Plan Avanza 2, que prevé entre sus medidas normativas el desarrollo reglamentario de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, al objeto de detallar para el ámbito del sector público estatal las disposiciones de esta Ley, promoviendo y facilitando al máximo la puesta a disposición de la información del sector público.
 
-El capítulo I del real decreto establece en el artículo 1 su objeto y ámbito de aplicación, manteniendo el ámbito de aplicación objetiva de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, y acotando su ámbito de aplicación subjetiva al sector público estatal.
+El capítulo I del real decreto establece en el artículo 1 su.
 
-El capítulo II del real decreto contiene el régimen jurídico de la reutilización de la información del sector público estatal. Así, el artículo 2 establece el principio general de que, en el ámbito del sector público estatal, estará autorizada la reutilización de los documentos elaborados o custodiados por las personas jurídico-públicas que lo forman, sin perjuicio del régimen aplicable al derecho de acceso a los documentos establecido en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y de las demás normas que regulan el derecho de acceso o la publicidad registral con carácter específico.
+objeto y ámbito de aplicación, manteniendo el ámbito de aplicación objetiva de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, y acotando su ámbito de aplicación subjetiva al sector público estatal.
 
-El artículo 3 del real decreto tiene por objeto regular determinadas responsabilidades y funciones en materia de reutilización en cada departamento ministerial, organismo o entidad del sector público.
+El capítulo II del real decreto contiene el régimen jurídico de la reutilización de la información del sector público estatal. Así, el artículo 2 establece.
 
-El artículo 4 del real decreto supone un desarrollo de lo dispuesto en el apartado 5 del artículo 4 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre. En este artículo se establece que las entidades del sector público estatal informarán, a través de su sede electrónica, sobre los documentos reutilizables elaborados o custodiados por ellas. La publicación de la información sobre los documentos reutilizables en la sede electrónica, prevista en el artículo 4 no implica necesariamente que los propios documentos reutilizables se pongan a disposición del público a través de la sede electrónica, siendo posible que dicha puesta a disposición se realice a través de páginas de Internet u otros medios electrónicos.
+el principio general de que, en el ámbito del sector público estatal, estará autorizada la reutilización de los documentos elaborados o custodiados por las personas jurídico-públicas que lo forman, sin perjuicio del régimen aplicable al derecho de acceso a los documentos establecido en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y de las demás normas que regulan el derecho de acceso o la publicidad registral con carácter específico.
 
-El artículo 5 prevé el mantenimiento de un catálogo de información pública reutilizable correspondiente, al menos, a la Administración General del Estado y demás organismos y entidades que forman parte del sector público estatal, que permitirá acceder desde un único punto a los recursos de información pública reutilizable existentes.
+El artículo 3 l.
 
-El artículo 6 establece determinados mecanismos de coordinación pertinentes en el ámbito del sector público estatal, en particular, en lo que se refiere a la puesta a disposición de información reutilizable por medios electrónicos.
+real decreto tiene por objeto regular determinadas responsabilidades y funciones en materia de reutilización en cada departamento ministerial, organismo o entidad del sector público.
+
+El artículo 4 l.
+
+real decreto supone un desarrollo de lo dispuesto en el apartado 5 del artículo 4 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre. En este artículo se establece que las entidades del sector público estatal informarán, a través de su sede electrónica, sobre los documentos reutilizables elaborados o custodiados por ellas. La publicación de la información sobre los documentos reutilizables en la sede electrónica, prevista en el artículo 4 no implica necesariamente que los propios documentos reutilizables se pongan a disposición del público a través de la sede electrónica, siendo posible que dicha puesta a disposición se realice a través de páginas de Internet u otros medios electrónicos.
+
+El artículo 5 prevé.
+
+el mantenimiento de un catálogo de información pública reutilizable correspondiente, al menos, a la Administración General del Estado y demás organismos y entidades que forman parte del sector público estatal, que permitirá acceder desde un único punto a los recursos de información pública reutilizable existentes.
+
+El artículo 6 establece.
+
+determinados mecanismos de coordinación pertinentes en el ámbito del sector público estatal, en particular, en lo que se refiere a la puesta a disposición de información reutilizable por medios electrónicos.
 
 El capítulo III desarrolla el régimen de modalidades de reutilización de los documentos reutilizables establecido en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, promoviendo al máximo la homogeneidad, claridad y sencillez del régimen de condiciones aplicables a la reutilización, contribuyendo de este modo al mayor aprovechamiento de las posibilidades de reutilización y a impulsar la competencia y la innovación.
 
-El artículo 7 establece ciertas condiciones generales para la reutilización de la información, exigibles en todo caso, que constituyen un desarrollo de los contenidos potestativos establecidos en el artículo 8 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre. Entre otras condiciones, se prohíbe que el sentido de la información sea desnaturalizado, es decir, que sea tergiversado o falseado.
+El artículo 7 establece.
 
-El apartado 1 del artículo 8 establece que, en el ámbito subjetivo de aplicación del real decreto, la modalidad general de puesta a disposición de los documentos reutilizables será la puesta a disposición para la reutilización sin sujeción a condiciones específicas, siendo únicamente aplicables las condiciones generales antes mencionadas. De este modo, el real decreto establece como regla general de aplicación la modalidad más favorable a la reutilización, que deberá ser la que se siga en la generalidad de los casos. No obstante, para los supuestos en los que la modalidad general de puesta a disposición no resulte adecuada, se puede considerar el establecimiento de condiciones específicas adicionales a las condiciones generales previstas en este artículo. En tales supuestos, se podrá optar por aplicar alguna de las otras modalidades de puesta a disposición establecidas en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, en los términos desarrollados por los apartados 2 a 4 del artículo 8 del real decreto. Asimismo, se prevé que la puesta a disposición a través del procedimiento de solicitud previa establecido en el artículo 10 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sólo sea empleado cuando la naturaleza de los documentos así lo exija, por ejemplo, cuando correspondan a documentos que no preexistan en formato electrónico y en otros casos excepcionales debidamente motivados.
+ciertas condiciones generales para la reutilización de la información, exigibles en todo caso, que constituyen un desarrollo de los contenidos potestativos establecidos en el artículo 8 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre. Entre otras condiciones, se prohíbe que el sentido de la información sea desnaturalizado, es decir, que sea tergiversado o falseado.
+
+El apartado 1 del artículo 8 establece.
+
+que, en el ámbito subjetivo de aplicación del real decreto, la modalidad general de puesta a disposición de los documentos reutilizables será la puesta a disposición para la reutilización sin sujeción a condiciones específicas, siendo únicamente aplicables las condiciones generales antes mencionadas. De este modo, el real decreto establece como regla general de aplicación la modalidad más favorable a la reutilización, que deberá ser la que se siga en la generalidad de los casos. No obstante, para los supuestos en los que la modalidad general de puesta a disposición no resulte adecuada, se puede considerar el establecimiento de condiciones específicas adicionales a las condiciones generales previstas en este artículo. En tales supuestos, se podrá optar por aplicar alguna de las otras modalidades de puesta a disposición establecidas en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, en los términos desarrollados por los apartados 2 a 4 del artículo 8 del real decreto. Asimismo, se prevé que la puesta a disposición a través del procedimiento de solicitud previa establecido en el artículo 10 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sólo sea empleado cuando la naturaleza de los documentos así lo exija, por ejemplo, cuando correspondan a documentos que no preexistan en formato electrónico y en otros casos excepcionales debidamente motivados.
 
 El capítulo IV regula el régimen aplicable a los documentos reutilizables sujetos a derechos de propiedad intelectual o que contengan datos personales.
 
-Conforme a lo establecido en el artículo 3.3 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, el artículo 9 prevé que la reutilización de los documentos sobre los que existan derechos de propiedad intelectual o industrial de terceros sólo podrá ser autorizada si se dispone de la preceptiva y suficiente cesión de los derechos de explotación por parte de las personas titulares de los mismos.
+Conforme a lo establecido en el artículo 3.3 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, el artículo 9 prevé.
 
-Por su parte, el artículo 10 desarrolla el mandato establecido en el artículo 3.3.e), de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, de que el ejercicio de los derechos de propiedad intelectual de las Administraciones y organismos del sector público sobre sus documentos deberá realizarse de forma que se facilite su reutilización, previendo que la puesta a disposición de los documentos para su reutilización conllevará la cesión no exclusiva de los derechos de propiedad intelectual correspondientes.
+que la reutilización de los documentos sobre los que existan derechos de propiedad intelectual o industrial de terceros sólo podrá ser autorizada si se dispone de la preceptiva y suficiente cesión de los derechos de explotación por parte de las personas titulares de los mismos.
 
-Finalmente, el artículo 11 establece, en relación con los documentos que contengan datos de carácter personal, que podrá procederse a autorizar su reutilización siempre y cuando se proceda previamente a un proceso de disociación, de conformidad con lo establecido en la normativa de protección de datos de carácter personal.
+Por su parte, el artículo 10 sarrolla.
+
+el mandato establecido en el artículo 3.3.e), de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, de que el ejercicio de los derechos de propiedad intelectual de las Administraciones y organismos del sector público sobre sus documentos deberá realizarse de forma que se facilite su reutilización, previendo que la puesta a disposición de los documentos para su reutilización conllevará la cesión no exclusiva de los derechos de propiedad intelectual correspondientes.
+
+Finalmente, el artículo 11 establece,.
+
+en relación con los documentos que contengan datos de carácter personal, que podrá procederse a autorizar su reutilización siempre y cuando se proceda previamente a un proceso de disociación, de conformidad con lo establecido en la normativa de protección de datos de carácter personal.
 
 Conforme a lo dispuesto por el artículo 14.11 de la [Ley Orgánica 3/2007](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el uso del masculino genérico en el texto de esta disposición debe considerarse como inclusivo de ambos géneros.
 
@@ -89,9 +105,9 @@ En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, y del V
 
 **DISPONGO:**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
@@ -121,9 +137,7 @@ h) Las asociaciones constituidas por las Administraciones, organismos y entidade
 
 5. A los efectos de esta norma se entiende por «agente reutilizador» toda persona, física o jurídica que reutilice información del sector público, ya sea para fines comerciales o no comerciales, siempre que dicho uso no constituya una actividad administrativa pública.
 
-CAPÍTULO II
-
-Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal
+## Capítulo II. Régimen jurídico y organizativo de la reutilización de la información en el sector público estatal.
 
 #### Artículo 2. Autorización general para la reutilización de los documentos del sector público y puesta a disposición por medios electrónicos.
 
@@ -185,9 +199,7 @@ El Consejo Superior de Administración Electrónica elaborará y publicará dura
 
 3. Sin perjuicio de las competencias atribuidas a otros órganos, el Consejo Superior de Administración Electrónica evaluará periódicamente los aspectos técnicos de los servicios públicos relacionados con la reutilización de la información del sector público, y podrá dirigirse, de oficio o a instancia de parte, a otros órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal referidos en el artículo 1.2, para la obtención de información y, en su caso, para la búsqueda de soluciones consensuadas en casos de supuestos de información pública cuya reutilización esté sujeta a restricciones de índole técnica.
 
-CAPÍTULO III
-
-Modalidades de reutilización de los documentos reutilizables
+## Capítulo III. Modalidades de reutilización de los documentos reutilizables.
 
 #### Artículo 7. Condiciones generales de puesta a disposición de los documentos reutilizables.
 
@@ -221,9 +233,7 @@ Los agentes reutilizadores interesados podrán solicitar a dichos órganos admin
 
 4. La modalidad de puesta a disposición previa solicitud conforme al párrafo c) del apartado 2 del artículo 4 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, se empleará, con carácter general, cuando la naturaleza de los documentos reutilizables exija la tramitación de un procedimiento previa solicitud conforme al artículo 10 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, por ejemplo, cuando no preexistan en formato electrónico, y en otros casos excepcionales que sean definidos de manera motivada en la correspondiente orden ministerial o resolución del presidente del organismo o entidad correspondiente. Este procedimiento será tramitado preferentemente por medios electrónicos en los términos establecidos en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y su normativa de desarrollo, figurando el acceso al mismo entre la información sobre la documentación susceptible de ser reutilizada descrita en el artículo 4.
 
-CAPÍTULO IV
-
-Régimen aplicable a documentos reutilizables sujetos a derechos de propiedad intelectual o que contengan datos personales
+## Capítulo IV. Régimen aplicable a documentos reutilizables sujetos a derechos de propiedad intelectual o que contengan datos personales.
 
 #### Artículo 9. Documentos e información objeto de derechos de propiedad intelectual o industrial de terceros.
 
@@ -235,7 +245,9 @@ La reutilización de los documentos que custodian los órganos de la Administrac
 
 2. A tal efecto, la puesta a disposición de dichos documentos para su reutilización realizada conforme a lo dispuesto en el artículo 8.1 conllevará la cesión gratuita y no exclusiva de los derechos de propiedad intelectual correspondientes necesarios para desarrollar la actividad de reutilización autorizada, en cualquier modalidad y bajo cualquier formato, para todo el mundo y por el plazo máximo permitido por la Ley.
 
-No obstante, lo dispuesto en el párrafo anterior podrá ser excepcionado, en todo lo no referente a la no exclusividad de la cesión, mediante el establecimiento de condiciones específicas de acuerdo con lo dispuesto en los apartados 2 a 4 del artículo 8 cuando se empleen las modalidades de puesta a disposición previstas en los mismos, siempre dentro de los límites establecidos en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, y, en particular, en su artículo 4.3 y en su artículo 6.
+No obstante, lo dispuesto en el párrafo anterior podrá ser excepcionado, en todo lo no referente a la no exclusividad de la cesión, mediante el establecimiento de condiciones específicas de acuerdo con lo dispuesto en los apartados 2 a 4 del artículo 8 cuando.
+
+se empleen las modalidades de puesta a disposición previstas en los mismos, siempre dentro de los límites establecidos en la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, y, en particular, en su artículo 4.3 y en su artículo 6.
 
 #### Artículo 11. Reutilización de los documentos que contengan datos de carácter personal.
 
@@ -285,17 +297,17 @@ El Ministro de la Presidencia,
 
 RAMÓN JÁUREGUI ATONDO
 
-ANEXO
+## Anexo
 
 «Obligatoriedad de las condiciones generales.
 
-Las presentes condiciones generales, disponibles con carácter permanente bajo “www.datos.gob.es/avisolegal”, vincularán a cualquier agente reutilizador por el mero hecho de hacer uso de los documentos sometidos a ellas.
+Las presentes condiciones generales, disponibles con carácter permanente bajo "www.datos.gob.es/avisolegal", vincularán a cualquier agente reutilizador por el mero hecho de hacer uso de los documentos sometidos a ellas.
 
 Autorización de reutilización y cesión no exclusiva de derechos de propiedad intelectual.
 
 Las presentes condiciones generales permiten la reutilización de los documentos sometidos a ellas para fines comerciales y no comerciales. Se entiende por reutilización el uso de documentos que obran en poder de los órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal referidos en el artículo 1.2 del Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público estatal, por personas físicas o jurídicas, con fines comerciales o no comerciales, siempre que dicho uso no constituya una actividad administrativa pública. La reutilización autorizada incluye, a modo ilustrativo, actividades como la copia, difusión, modificación, adaptación, extracción, reordenación y combinación de la información.
 
-El concepto de documento es el establecido en el apartado 2 del artículo 3 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, por lo que comprende toda información cualquiera que sea su soporte material o electrónico así como su forma de expresión gráfica, sonora o en imagen utilizada, incluyendo, en consecuencia, también los datos en sus niveles más desagregados o “en bruto”.
+El concepto de documento es el establecido en el apartado 2 del artículo 3 de la [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, por lo que comprende toda información cualquiera que sea su soporte material o electrónico así como su forma de expresión gráfica, sonora o en imagen utilizada, incluyendo, en consecuencia, también los datos en sus niveles más desagregados o "en bruto".
 
 Esta autorización conlleva, asimismo, la cesión gratuita y no exclusiva de los derechos de propiedad intelectual, en su caso, correspondientes a tales documentos, autorizándose la realización de actividades de reproducción, distribución, comunicación pública o transformación, necesarias para desarrollar la actividad de reutilización autorizada, en cualquier modalidad y bajo cualquier formato, para todo el mundo y por el plazo máximo permitido por la Ley.
 
@@ -305,7 +317,7 @@ Son de aplicación las siguientes condiciones generales para la reutilización d
 
 1. Está prohibido desnaturalizar el sentido de la información.
 
-2. Debe citarse la fuente de los documentos objeto de la reutilización. Esta cita podrá realizarse de la siguiente manera: “Origen de los datos: [órgano administrativo, organismo o entidad del sector público estatal de que se trate]”.
+2. Debe citarse la fuente de los documentos objeto de la reutilización. Esta cita podrá realizarse de la siguiente manera: "Origen de los datos: [órgano administrativo, organismo o entidad del sector público estatal de que se trate]".
 
 3. Debe mencionarse la fecha de la última actualización de los documentos objeto de la reutilización, siempre cuando estuviera incluida en el documento original.
 
@@ -329,11 +341,10 @@ El agente reutilizador se halla sometido a la normativa aplicable en materia de 
 
 o bien el comando
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
 - **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
@@ -341,6 +352,7 @@ o bien el comando
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)

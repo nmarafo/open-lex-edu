@@ -1,9 +1,7 @@
 ---
 id: norm-es-1988-6938
 codigo_sintetizado: BOE-A-1988-6938
-titulo: Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real
-  Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos
-  y estudios extranjeros de educación no universitaria.
+titulo: Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Secretaría General Técnica
@@ -17,47 +15,44 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- bachillerato
-- centros-extranjeros
-- curriculo
-- ensenanzas-universitarias
-- equipos-directivos
-- formacion-profesional
-- fp-basica
-- procedimiento-administrativo
-- titulacion
+  - bachillerato
+  - centros-extranjeros
+  - curriculo
+  - ensenanzas-universitarias
+  - equipos-directivos
+  - formacion-profesional
+  - fp-basica
+  - procedimiento-administrativo
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-2002-25289
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-2002-25289
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-1996-10210
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-25289
-  - norma_id: norm-es-2018-4480
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1996-10210
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-25289
+    - norma_id: norm-es-2018-4480
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-can-d-81-2010
+  fundamentos_derecho:
+    - norma_id: norm-can-d-81-2010
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-lo-2-2006
+    - '1'
+    - '2'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '120'
-- norma_id: norm-es-1988-3987
-- norma_id: norm-es-2002-25289
+    - '120'
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-2002-25289
 ---
-
-## Preámbulo
-
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
-# Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+## Preámbulo
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero,
 
@@ -163,31 +158,25 @@ El contenido de las Órdenes de homologación o convalidación se recogerá en c
 
 La entrega al interesado de la credencial a la que se refiere el número anterior se realizará a través de la dependencia –Subdirección General, Dirección Provincial, Oficina de Educación y Ciencia, Oficina Consular– en la que se hubiera presentado la correspondiente solicitud de convalidación u homologación. Por el mismo conducto se harán llegar a los interesados las resoluciones denegatorias que se produzcan.
 
-#### Disposición derogatoria.
+Disposición derogatoria ....
 
 #### Disposición final primera.
 
 Se autoriza a la Secretaría General Técnica del Departamento para dictar las instrucciones que resulten precisas para la aplicación de la presente Orden.
 
-#### Disposición final segunda.
-
-Madrid, 14 de marzo de 1988.
+#### Disposición final segunda. Madrid, 14 de marzo de 1988.
 
 MARAVALL HERRERO
 
 Ilmos. Sres. Subsecretario y secretario general técnico.
 
-ANEXO I
+## Anexo I
 
 Modelo de solicitud (anverso)
-
-Don/doña ..............................................................................................................., natural de .........................................................................................................................., de nacionalidad ................................................................................................................, con domicilio (a efectos de notificación) en calle/plaza ............................................., localidad ..............................., D.P. ..........., Provincia (1) ................... Teléfono ...................
 
 SOLICITA la convalidación/homologación de los mencionados estudios, y, en su caso, título o diploma por los correspondientes españoles de ................................................................................................................................................................................................ (2)
 
 ...................... a ............ de ...................... de 19....
-
-Fdo. ................................................
 
 (1) Si se solicita la convalidación para proseguir estudios españoles de EDB, BUP o FP, el domicilio deberá corresponder a la provincia en la que radique el Centro donde el solicitante vaya a cursar dichos estudios.
 
@@ -281,23 +270,20 @@ Otros documentos de carácter académico
 
 (2) Táchese, en su caso, lo que no proceda.
 
-ANEXO II
+## Anexo II
 
 Volante para inscripción condicional en Centros docentes o en exámenes oficiales
 
 .................................... a .......... de ...................... de 19......
 
-(Sello de la Unidad de Registro)	Fdo.: ........................................
-
 (1) Dirección Provincial de Educación y Ciencia de ............................................................................, Oficina de Educación y Ciencia de .................................................................................................................. Oficina Consular de .........................................................................., Subdirección General de Títulos, Convalidaciones y Homologaciones.
 
 (2) Curso del sistema educativo español o exámenes oficiales de que se trate.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - **Fundamentado en**: [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
@@ -311,6 +297,7 @@ Volante para inscripción condicional en Centros docentes o en exámenes oficial
 - **Fundamento de**: [**Resolucion BOC 103**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 
 ### Fundamentos de Derecho
+
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)

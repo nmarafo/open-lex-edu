@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-20-7-2006
 codigo_sintetizado: O20_7_2006 Convalidaciones Modulos Formacion Profesional Andalucía
-titulo: Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos
-  profesionales de FP.
+titulo: Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos profesionales de FP.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 20/07/2006
 fecha_disposicion: '2006-07-20'
@@ -20,34 +18,27 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- convalidaciones
-- fp
-- exenciones
-- andalucia
+  - convalidaciones
+  - fp
+  - exenciones
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos profesionales de FP.
 
 ## Preámbulo
 
-# Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos profesionales de FP.
-
 ORDEN de 10 de julio de 2006, por la que se declara apto en la Fase de Prácticas al personal seleccionado en el procedimiento selectivo, convocado por Orden que se cita, y por la que se aprueba el expediente del citado procedimiento.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="2.1. Nombramientos, situaciones e incidencias - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
 
 ###
 
@@ -85,19 +76,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2006
-Boletín 151
-<a href="../../2006/151/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
+Boletín 151 <a href="../../2006/151/s2.1.html" title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
 
 ##
 
-Histórico del BOJA
-Boletín número
-151
-de
-05/08/2006
+Histórico del BOJA Boletín número 151 de 05/08/2006
 
 ## 2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
 
@@ -105,17 +88,10 @@ de
 
 ### ORDEN de 10 de julio de 2006, por la que se declara apto en la Fase de Prácticas al personal seleccionado en el procedimiento selectivo, convocado por Orden que se cita, y por la que se aprueba el expediente del citado procedimiento.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 Por Orden de esta Consejería de Educación de 22 de febrero de 2005 (BOJA de 3 de marzo) se efectúa convocatoria de procedimiento selectivo para el ingreso en el Cuerpo de Maestros.
 
@@ -152,27 +128,17 @@ CANDIDA MARTINEZ LOPEZ
 Consejera de Educación
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-151
-de
-05/08/2006
+151 de 05/08/2006
 
 2.1. Nombramientos, situaciones e incidencias
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2006/151/boletin.151.pdf">Descargar boletín nº
-151 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2006/151/boletin.151.pdf">Descargar boletín nº 151 completo
 
 PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -195,3 +161,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

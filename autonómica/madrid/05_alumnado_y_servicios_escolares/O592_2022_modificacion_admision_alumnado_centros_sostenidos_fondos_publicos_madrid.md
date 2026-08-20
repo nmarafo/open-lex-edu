@@ -1,12 +1,9 @@
 ---
 id: norm-mad-o592-2022
-titulo: Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades,
-  Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con
-  los criterios de baremación en la admisión de alumnos
+titulo: Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
-  Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
 tipo_disposicion: Orden
 numero_disposicion: 592/2022
 fecha_disposicion: '2022-03-16'
@@ -19,208 +16,49 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-- admision_alumnado
-- baremacion
-- madrid
+  - admision_alumnado
+  - baremacion
+  - madrid
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-mad-d-29-2013
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF
 ---
+# Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos
 
 ## Preámbulo
 
-# Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación con los criterios de baremación en la admisión de alumnos
-
-BOCM
 I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Presidencia, Justicia e Interior
-1
-ORDEN de 16 de marzo de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto
-de Letrado Vocal de la Comisión Jurídica Asesora de la Comunidad de Madrid.
-De acuerdo con lo previsto en el artículo 10.1 del Decreto 5/2016, de 19 de enero, del
-Consejo de Gobierno por el que se aprueba el Reglamento de Organización y Funcionamiento de la Comisión Jurídica Asesora de la Comunidad de Madrid, y en virtud de la competencia atribuida en el artículo 10.2 del citado Decreto,
-RESUELVO
-Primero
-Objeto
-Se aprueba convocatoria pública para la provisión del puesto de trabajo número 78123,
-Letrado Vocal de la Comisión Jurídica Asesora de la Comunidad de Madrid, por el sistema
-de Concurso de Méritos.
-Segundo
-Normativa aplicable
-La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo,
-por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad
-de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la
-Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de
-la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo
-de 1989), y su normativa de desarrollo con las especialidades reguladas en la Ley 7/2015,
-de 28 de diciembre, de Supresión del Consejo Consultivo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de diciembre), y el Decreto 5/2016, de 19 de enero, del Consejo
-de Gobierno, por el que se aprueba el Reglamento de Organización y Funcionamiento de la
-Comisión Jurídica Asesora de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de enero).
-Tercero
-Requisitos y condiciones de participación
-1.
-Podrán participar en este procedimiento los funcionarios de carrera que pertenezcan al Cuerpo de Letrados de la Comunidad de Madrid, con diez años de antigüedad en el
-citado Cuerpo y se encuentren adscritos a la Abogacía General de la Comunidad de Madrid.
-2.
-Los requisitos y condiciones de participación expresados en el presente apartado
-han de poseerse antes de la finalización del plazo de presentación de solicitudes y mantenerse hasta la resolución del procedimiento.
-Cuarto
-Solicitudes
-1.
-Las solicitudes se formularán telemáticamente, cumplimentando el modelo normalizado de “Solicitud de provisión de puestos de trabajo”, al que podrá accederse desde la
-página web: https://tramita.comunidad.madrid, adjuntando la documentación correspondiente que hubiera de aportarse. En el caso de ser varias las plazas solicitadas, se indicará
-el orden de preferencia entre las mismas.
-2.
-Las solicitudes irán acompañadas de la documentación, original o copia, acreditativa de los méritos, preferentes y no preferentes, que se aleguen.
+B) Autoridades y Personal Consejería de Presidencia, Justicia e Interior 1 ORDEN de 16 de marzo de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de Letrado Vocal de la Comisión Jurídica Asesora de la Comunidad de Madrid. De acuerdo con lo previsto en el artículo 10.1 del Decreto 5/2016, de 19 de enero, del Consejo de Gobierno por el que se aprueba el Reglamento de Organización y Funcionamiento de la Comisión Jurídica Asesora de la Comunidad de Madrid, y en virtud de la competencia atribuida en el artículo 10.2 del citado Decreto,
+RESUELVO:
+Primero Objeto Se aprueba convocatoria pública para la provisión del puesto de trabajo número 78123, Letrado Vocal de la Comisión Jurídica Asesora de la Comunidad de Madrid, por el sistema de Concurso de Méritos.
+Segundo Normativa aplicable La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo, por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989), y su normativa de desarrollo con las especialidades reguladas en la Ley 7/2015, de 28 de diciembre, de Supresión del Consejo Consultivo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de diciembre), y el Decreto 5/2016, de 19 de enero, del Consejo de Gobierno, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Comisión Jurídica Asesora de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de enero).
+Tercero Requisitos y condiciones de participación 1. Podrán participar en este procedimiento los funcionarios de carrera que pertenezcan al Cuerpo de Letrados de la Comunidad de Madrid, con diez años de antigüedad en el citado Cuerpo y se encuentren adscritos a la Abogacía General de la Comunidad de Madrid. 2. Los requisitos y condiciones de participación expresados en el presente apartado han de poseerse antes de la finalización del plazo de presentación de solicitudes y mantenerse hasta la resolución del procedimiento.
+Cuarto Solicitudes 1. Las solicitudes se formularán telemáticamente, cumplimentando el modelo normalizado de "Solicitud de provisión de puestos de trabajo", al que podrá accederse desde la página web: https://tramita.comunidad.madrid, adjuntando la documentación correspondiente que hubiera de aportarse. En el caso de ser varias las plazas solicitadas, se indicará el orden de preferencia entre las mismas. 2. Las solicitudes irán acompañadas de la documentación, original o copia, acreditativa de los méritos, preferentes y no preferentes, que se aleguen.
 
-BOCM
-3.
-Los Certificados de Registro de Personal de los interesados relativos a su situación
-y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto en la
-Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emisión de los Certificados de Registro de
-Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no docente, sin que deban ser solicitados ni aportados por el interesado.
-Quinto
-Méritos
-Los méritos alegados por los candidatos se valorarán, de acuerdo con lo previsto en la
-normativa aplicable, por la Junta de Méritos que corresponda y con los siguientes criterios:
-En particular, la valoración del trabajo desarrollado se realizará teniendo en cuenta
-los puestos de trabajo de los que haya sido titular el aspirante como funcionario de carrera en los cinco años inmediatamente anteriores a la entrada en vigor de la convocatoria, de
-acuerdo con los certificados emitidos al efecto por el Registro de Personal.
-Se consideran méritos no preferentes para la presente convocatoria los siguientes:
-1.
-Por la realización de cursos, diplomas, publicaciones, estudios y trabajos relacionados con cualquiera de las materias a que se refiere el artículo 10.4 del Reglamento de Organización y Funcionamiento de la Comisión Jurídica Asesora, aprobado por Decreto 5/2016,
-de 19 de enero.
-Se asignará un punto por cada uno de los cursos, diplomas, publicaciones, estudios o
-trabajos realizados, sin que sea posible superar el límite máximo de 2 puntos atribuidos a
-este mérito no preferente.
-A estos efectos, se tendrán en cuenta los cursos impartidos por centros oficiales así
-como cualquier otro financiado con fondos públicos, incluyendo los impartidos por la Abogacía General de la Comunidad de Madrid y por la Comisión Jurídica Asesora: 2 puntos.
-2.
-Conocimiento y/o experiencia en materia consultiva relativa a disposiciones normativas, convenios, recursos de carácter administrativo, reclamaciones de responsabilidad
-patrimonial o cuestiones relacionadas con la contratación administrativa: 4,5 puntos, valorándose de la siguiente manera:
-2.1.
-Con certificado expedido por el titular de la Abogacía General de la Comunidad
-de Madrid, que contemple el desempeño de alguno de los siguientes puestos, o por acreditación mediante la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del
-nombramiento, para aquellos puestos no dependientes de la Abogacía General, que serán
-valorados con la siguiente puntuación:
-— 0,2 puntos por cada año de servicio en los siguientes puestos: Subdirector General,
-Letrado Jefe Adjunto a la Subdirección o Letrado Jefe de cualquier Consejería de
-la Comunidad de Madrid, Letrado Jefe de la Subdirección General de Asistencia
-Jurídica Convencional, Asuntos Convencionales, Asuntos Constitucionales y Estudios, Presidente del Tribunal de Contratación Administrativa, Letrado del Consejo Consultivo de la Comunidad de Madrid.
-— 0,15 puntos por cada año de servicio en los siguientes puestos: Letrado Jefe Adjunto o Coordinador de los Servicios Consultivos, Letrado Jefe Adjunto de la Subdirección General de Asistencia Jurídica Convencional, Asuntos Constitucionales
-y Estudios o Letrado Jefe del Servicio Jurídico de lo Contencioso Administrativo.
-— 0,10 puntos por cada año de servicio en los siguientes puestos: letrados de Consultivo y Coordinadores de lo Contencioso-Administrativo.
-— 0,05 puntos por cada año de servicio en los siguientes puestos: Letrados de lo Contencioso-Administrativo.
-2.2.
-Igualmente se valorarán a estos efectos, otros puestos prestados en el sector público, distintos de los mencionados en el apartado 2.1, con un total de 0,10 puntos por cada
-año de servicio siempre que se acredite expresamente el conocimiento o la experiencia en las
-materias relacionadas en el punto 2. Para ello será necesario la presentación de certificado
-expedido por el órgano competente, que contemple dicha experiencia y/o conocimiento.
-2.3.
-No se valorarán en ningún caso la prestación de servicio inferior a seis meses.
+3. Los Certificados de Registro de Personal de los interesados relativos a su situación y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto en la Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emisión de los Certificados de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no docente, sin que deban ser solicitados ni aportados por el interesado.
+Quinto Méritos Los méritos alegados por los candidatos se valorarán, de acuerdo con lo previsto en la normativa aplicable, por la Junta de Méritos que corresponda y con los siguientes criterios:
+En particular, la valoración del trabajo desarrollado se realizará teniendo en cuenta los puestos de trabajo de los que haya sido titular el aspirante como funcionario de carrera en los cinco años inmediatamente anteriores a la entrada en vigor de la convocatoria, de acuerdo con los certificados emitidos al efecto por el Registro de Personal. Se consideran méritos no preferentes para la presente convocatoria los siguientes:
 
-BOCM
-3.
-Tesis doctoral en derecho relacionada con alguna de las materias a que refiere el
+1. Por la realización de cursos, diplomas, publicaciones, estudios y trabajos relacionados con cualquiera de las materias a que se refiere el artículo 10.4 del Reglamento de Organización y Funcionamiento de la Comisión Jurídica Asesora, aprobado por Decreto 5/2016, de 19 de enero. Se asignará un punto por cada uno de los cursos, diplomas, publicaciones, estudios o trabajos realizados, sin que sea posible superar el límite máximo de 2 puntos atribuidos a este mérito no preferente. A estos efectos, se tendrán en cuenta los cursos impartidos por centros oficiales así como cualquier otro financiado con fondos públicos, incluyendo los impartidos por la Abogacía General de la Comunidad de Madrid y por la Comisión Jurídica Asesora: 2 puntos. 2. Conocimiento y/o experiencia en materia consultiva relativa a disposiciones normativas, convenios, recursos de carácter administrativo, reclamaciones de responsabilidad patrimonial o cuestiones relacionadas con la contratación administrativa: 4,5 puntos, valorándose de la siguiente manera:
+Con certificado expedido por el titular de la Abogacía General de la Comunidad de Madrid, que contemple el desempeño de alguno de los siguientes puestos, o por acreditación mediante la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del nombramiento, para aquellos puestos no dependientes de la Abogacía General, que serán valorados con la siguiente puntuación:
+— 0,2 puntos por cada año de servicio en los siguientes puestos: Subdirector General, Letrado Jefe Adjunto a la Subdirección o Letrado Jefe de cualquier Consejería de la Comunidad de Madrid, Letrado Jefe de la Subdirección General de Asistencia Jurídica Convencional, Asuntos Convencionales, Asuntos Constitucionales y Estudios, Presidente del Tribunal de Contratación Administrativa, Letrado del Consejo Consultivo de la Comunidad de Madrid. — 0,15 puntos por cada año de servicio en los siguientes puestos: Letrado Jefe Adjunto o Coordinador de los Servicios Consultivos, Letrado Jefe Adjunto de la Subdirección General de Asistencia Jurídica Convencional, Asuntos Constitucionales y Estudios o Letrado Jefe del Servicio Jurídico de lo Contencioso Administrativo. — 0,10 puntos por cada año de servicio en los siguientes puestos: letrados de Consultivo y Coordinadores de lo Contencioso-Administrativo. — 0,05 puntos por cada año de servicio en los siguientes puestos: Letrados de lo Contencioso-Administrativo. Igualmente se valorarán a estos efectos, otros puestos prestados en el sector público, distintos de los mencionados en el apartado 2.1, con un total de 0,10 puntos por cada año de servicio siempre que se acredite expresamente el conocimiento o la experiencia en las materias relacionadas en el punto 2. Para ello será necesario la presentación de certificado expedido por el órgano competente, que contemple dicha experiencia y/o conocimiento. No se valorarán en ningún caso la prestación de servicio inferior a seis meses.
 
-#### artículo 10.4 del Reglamento de Organización y Funcionamiento de la Comisión Jurídica
+3. Tesis doctoral en derecho relacionada con alguna de las materias a que refiere el artículo 10 4 del Reglamento de Organización y Funcionamiento de la Comisión Jurídica. Asesora, aprobado por Decreto 5/2016, de 19 de enero, que se valorará con 1,5 puntos.
+Sexto Presentación y plazo 1. De conformidad con lo establecido en el artículo 1, base sexta, de la Orden 923/1989, de 20 de abril, las solicitudes se dirigirán a la Secretaría General Técnica de la Consejería convocante y se presentarán telemáticamente, en el plazo de quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria, en el Registro electrónico de la Comunidad de Madrid o en la forma establecida en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En el supuesto de que algún funcionario presentase la solicitud de forma presencial será requerido para que la subsane a través de su presentación electrónica, en los términos y con los efectos establecidos en el artículo 68.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, considerándose a todos los efectos como fecha de presentación de la solicitud aquella en la que se haya realizado la correspondiente subsanación. 2. El mencionado plazo de presentación de solicitudes, siempre que no haya vencido, podrá ser ampliado como consecuencia de incidencias técnicas que hayan imposibilitado el funcionamiento ordinario del sistema o de la aplicación correspondiente según lo dispuesto en el artículo 32.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Durante el plazo de presentación de solicitudes los concursantes podrán efectuar modificaciones en su solicitud, así como aportar cualquier documentación que consideren oportuna para la valoración de sus méritos. 3. En ningún caso podrán valorarse méritos que no hayan sido debidamente acreditados en el plazo de presentación de instancias.
+Séptimo Trámite de alegaciones 1. Finalizada la valoración de la documentación presentada y con anterioridad a la propuesta de adjudicación de la Junta de Méritos, se publicará en los tablones de anuncios de la Consejería la relación provisional de los aspirantes admitidos y no admitidos al proceso de provisión, con indicación de la puntuación obtenida en cada uno de los méritos preferentes y no preferentes alegados, así como la puntuación obtenida por ambos conceptos. Dicha relación se podrá consultar en la página web de la Comunidad de Madrid. 2. Contra la publicación de la relación de aspirantes se podrán formular las alegaciones que se consideren oportunas en el plazo de diez días hábiles a contar desde el día siguiente al de su exposición en los tablones de anuncios.
+Octavo Puntuación mínima 1. El puesto de trabajo convocado no podrá declararse desierto cuando existan concursantes que, habiéndolos solicitado, hayan obtenido una puntuación mínima de 10 puntos. 2. Sin embargo, de conformidad con lo establecido en el artículo 1, base undécima, apartado 4, de la Orden 923/1989, de 20 de abril, la Junta de Méritos podrá proponer, de manera motivada, la adjudicación de puestos a candidatos que no lleguen a la puntuación mínima señalada, siempre que dichos candidatos hayan acreditado un nivel adecuado y previo informe favorable de la Comisión jurídica Asesora.
+Noveno Desistimientos y renuncias 1. Los participantes solo podrán desistir de su solicitud hasta la fecha de finalización del plazo concedido para formular alegaciones contra la lista provisional de admitidos y excluidos al que hace referencia el apartado Séptimo de esta Orden. 2. El destino adjudicado será irrenunciable.
 
-Asesora, aprobado por Decreto 5/2016, de 19 de enero, que se valorará con 1,5 puntos.
-Sexto
-Presentación y plazo
-1.
-De conformidad con lo establecido en el artículo 1, base sexta, de la Orden 923/1989, de 20 de abril, las solicitudes se dirigirán a la Secretaría General Técnica de
-la Consejería convocante y se presentarán telemáticamente, en el plazo de quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria, en el Registro electrónico de la Comunidad de Madrid o en la forma establecida en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
-En el supuesto de que algún funcionario presentase la solicitud de forma presencial
-será requerido para que la subsane a través de su presentación electrónica, en los términos
-y con los efectos establecidos en el artículo 68.4 de la Ley 39/2015, de 1 de octubre, del
-Procedimiento Administrativo Común de las Administraciones Públicas, considerándose a
-todos los efectos como fecha de presentación de la solicitud aquella en la que se haya realizado la correspondiente subsanación.
-2.
-El mencionado plazo de presentación de solicitudes, siempre que no haya vencido, podrá ser ampliado como consecuencia de incidencias técnicas que hayan imposibilitado el funcionamiento ordinario del sistema o de la aplicación correspondiente según lo dispuesto en el artículo 32.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento
-Administrativo Común de las Administraciones Públicas.
-Durante el plazo de presentación de solicitudes los concursantes podrán efectuar modificaciones en su solicitud, así como aportar cualquier documentación que consideren
-oportuna para la valoración de sus méritos.
-3.
-En ningún caso podrán valorarse méritos que no hayan sido debidamente acreditados en el plazo de presentación de instancias.
-Séptimo
-Trámite de alegaciones
-1.
-Finalizada la valoración de la documentación presentada y con anterioridad a la
-propuesta de adjudicación de la Junta de Méritos, se publicará en los tablones de anuncios
-de la Consejería la relación provisional de los aspirantes admitidos y no admitidos al proceso de provisión, con indicación de la puntuación obtenida en cada uno de los méritos preferentes y no preferentes alegados, así como la puntuación obtenida por ambos conceptos.
-Dicha relación se podrá consultar en la página web de la Comunidad de Madrid.
-2.
-Contra la publicación de la relación de aspirantes se podrán formular las alegaciones que se consideren oportunas en el plazo de diez días hábiles a contar desde el día siguiente al de su exposición en los tablones de anuncios.
-Octavo
-Puntuación mínima
-1.
-El puesto de trabajo convocado no podrá declararse desierto cuando existan concursantes que, habiéndolos solicitado, hayan obtenido una puntuación mínima de 10 puntos.
-2.
-Sin embargo, de conformidad con lo establecido en el artículo 1, base undécima,
-apartado 4, de la Orden 923/1989, de 20 de abril, la Junta de Méritos podrá proponer, de
-manera motivada, la adjudicación de puestos a candidatos que no lleguen a la puntuación
-mínima señalada, siempre que dichos candidatos hayan acreditado un nivel adecuado y previo informe favorable de la Comisión jurídica Asesora.
-Noveno
-Desistimientos y renuncias
-1.
-Los participantes solo podrán desistir de su solicitud hasta la fecha de finalización
-del plazo concedido para formular alegaciones contra la lista provisional de admitidos y excluidos al que hace referencia el apartado Séptimo de esta Orden.
-2.
-El destino adjudicado será irrenunciable.
+Décimo Entrada en vigor La presente Orden producirá efectos desde el día siguiente al de su publicación en el Undécimo Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 16 de marzo de 2022.—El Consejero de Presidencia, Justicia e Interior, P. D. (Orden de 10 de diciembre de 2021; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de diciembre), el Secretario General Técnico, Manuel Galán Rivas.
 
-BOCM
-Décimo
-Entrada en vigor
-La presente Orden producirá efectos desde el día siguiente al de su publicación en el
-Undécimo
-Recursos
-La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
-los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
-día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
-perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y 46 de la Ley 29/1998,
-de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
-Dado en Madrid, a 16 de marzo de 2022.—El Consejero de Presidencia, Justicia e Interior, P. D. (Orden de 10 de diciembre de 2021; BOLETÍN OFICIAL DE LA COMUNIDAD DE
-MADRID de 16 de diciembre), el Secretario General Técnico, Manuel Galán Rivas.
-
-http://www.bocm.es
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOCM
-LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE CONCURSO DE MÉRITOS
-Puesto/Denominación
-NCD
-Grupo
-Unidad Orgánica
-Específico
-Administración Pública
-Cuerpo  Escala  Especialidad
-Admon
-SE INDICAN EN LA ORDEN
-8
-MAÑANA Y DOS TA
-Madrid
-Localidad........:
+http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE CONCURSO DE MÉRITOS Puesto/Denominación NCD Grupo Unidad Orgánica Específico Administración Pública Cuerpo  Escala  Especialidad Admon SE INDICAN EN LA ORDEN 8 MAÑANA Y DOS TA Madrid Localidad........:
 Turno/Jornada:
-MERITOS
-78123
-VOCAL DE LA
-COMISION JURIDICA
-ASESORA
-A
-30
-    38.922,36
-COMUNIDAD DE MADRID
-COMISIÓN JURÍDICA ASESORA DE LA
-COMUNIDAD DE MADRID
-LETRADOS
-E
-(03/5.423/22)
+MERITOS VOCAL DE LA COMISION JURIDICA ASESORA A 30 38.922,36 COMUNIDAD DE MADRID COMISIÓN JURÍDICA ASESORA DE LA COMUNIDAD DE MADRID LETRADOS E (03/5.423/22)

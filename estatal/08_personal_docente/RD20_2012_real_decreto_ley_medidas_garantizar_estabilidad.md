@@ -1,12 +1,10 @@
 ---
 id: norm-es-2012-9364
 codigo_sintetizado: BOE-A-2012-9364
-titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad
-  presupuestaria y de fomento de la competitividad.
+titulo: Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-07-14'
 boletin: BOE
@@ -17,35 +15,34 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- ensenanzas-artisticas
-- personal-no-docente
-- prevencion-riesgos-laborales
-- salud-laboral-y-vigilancia
+  - ensenanzas-artisticas
+  - personal-no-docente
+  - prevencion-riesgos-laborales
+  - salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1985-7820
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-l-53-1984
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1985-7820
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-l-4-2023
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-l-4-2023
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-rdl-5-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-l-53-1984
-- norma_id: norm-es-lo-1-2004
-- norma_id: norm-es-1985-7820
-- norma_id: norm-es-2012-8745
+    - '1'
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-1985-7820
+    - norma_id: norm-es-2012-8745
 ---
+# Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 ## Preámbulo
-
-# Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, aprobada con un amplio consenso entre las fuerzas políticas, supuso un avance en el bienestar de las personas y ha contado con la colaboración de todas las administraciones públicas en su desarrollo.
 
@@ -107,7 +104,7 @@ En primer lugar, se introducen medidas de carácter excepcional para los períod
 
 Adicionalmente, en consonancia con el aludido Real Decreto-ley 12/2012, se limita la deducción de los activos intangibles de vida útil indefinida, si bien excepcionando de dicha restricción a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas, salvedad que se hace extensible a la limitación en la deducibilidad del fondo de comercio que se introdujo en el citado Real Decreto-ley.
 
-En relación con las grandes empresas, se introducen diversas modificaciones respecto a la modalidad del pago fraccionado cuya determinación se realiza sobre la base imponible del período impositivo transcurrido. En este sentido, se incluye en su base un 25 por ciento de los dividendos y rentas que proceden de la transmisión de participaciones que tienen derecho al régimen de exención y se elevan los porcentajes de aplicación sobre la base imponible. Por último, respecto del importe mínimo de este pago fraccionado con base en el resultado del ejercicio establecido en el Real Decreto-ley 12/2012, se incrementa su porcentaje y este pago mínimo no se verá minorado por las bonificaciones y retenciones del período.
+En relación con las grandes empresas, se introducen diversas modificaciones respecto a la modalidad del pago fraccionado cuya determinación se realiza sobre la base imponible del período impositivo transcurrido. En este sentido, se incluye en su base un 25 por ciento de los dividendos y rentas que proceden de la transmisión de participaciones que tienen derecho al régimen de exención y se elevan los porcentajes de aplicación sobre la base imponible. Por último, respecto del importe mínimo de este pago fraccionado con base en el resultado del ejercicio establecido en el Real Decreto-ley 12/2012, se incrementa su porcentaje y este pago mínimo no se verá minorado por las bonificaciones y retenciones del período.
 
 En segundo lugar, como medida de carácter indefinido, se modifica la limitación a la deducibilidad de gastos financieros, haciéndola extensiva a todas las empresas en general, sin circunscribirse a su pertenencia a un grupo mercantil. Asimismo, se exceptúa la aplicación de la limitación señalada, para aquellos supuestos en que se produce la extinción de una entidad, sin posibilidad de subrogación en otra entidad a efectos de la aplicación futura de los gastos financieros no deducidos.
 
@@ -139,9 +136,13 @@ En el ámbito aeroportuario, por un lado, se modifica:
 
 – La actualización de las prestaciones públicas patrimoniales percibidas por AENA Aeropuertos, S. A., al objeto de cambiar la fórmula de actualización, suprimiendo los ingresos procedentes de la explotación comercial de las Terminales Con tal finalidad se modifica el artículo 92 de la Ley 21/2003, de 7 de julio de Seguridad Aérea.
 
-– En segundo lugar se aborda la regulación de los Comités de Coordinación Aeroportuaria. Esta modificación responde a la intención de facilitar la participación de las Comunidades Autónomas en la gestión aeroportuaria. Para ello se da una nueva redacción al artículo 13 del Real Decreto Ley 13/2011, al objeto de dar una nueva regulación a los Comités de Coordinación Aeroportuaria.
+– En segundo lugar se aborda la regulación de los Comités de Coordinación Aeroportuaria. Esta modificación responde a la intención de facilitar la participación de las Comunidades Autónomas en la gestión aeroportuaria. Para ello se da una nueva redacción al artículo 13 l.
 
-Se deroga expresamente el artículo 8 del Real Decreto-ley 6/1999, de 16 de abril, de Medidas Urgentes de Liberalización e Incremento de la Competencia, que establecía una compensación que la Administración General del Estado liquidaría a las sociedades concesionarias de autopistas de peaje por la pérdida de ingresos que les suponga la bajada de tarifas del 7% de su importe. Esta compensación, prevista hace más de una década, encontró su justificación en circunstancias impositivas que hoy han variado, por lo que no se justifica su permanencia.
+Real Decreto Ley 13/2011, al objeto de dar una nueva regulación a los Comités de Coordinación Aeroportuaria.
+
+Se deroga expresamente el artículo 8 l.
+
+Real Decreto-ley 6/1999, de 16 de abril, de Medidas Urgentes de Liberalización e Incremento de la Competencia, que establecía una compensación que la Administración General del Estado liquidaría a las sociedades concesionarias de autopistas de peaje por la pérdida de ingresos que les suponga la bajada de tarifas del 7% de su importe. Esta compensación, prevista hace más de una década, encontró su justificación en circunstancias impositivas que hoy han variado, por lo que no se justifica su permanencia.
 
 Los Planes Estatales de Vivienda recogen entre otras ayudas, la subsidiación de préstamos. Se trata de una ayuda financiera estatal destinada a facilitar al prestatario el pago de la amortización del capital del préstamo así como sus intereses, que consiste en una cuantía fija que el Ministerio de Fomento abona a la entidad financiera una vez que ésta factura al prestatario. En los últimos 5 años el Estado ha abonado por este concepto un total de más de 1.298 millones de euros.
 
@@ -177,7 +178,9 @@ En relación con los costes de generación en régimen ordinario de los sistemas
 
 Por otro lado, en el artículo 17.4 de la Ley 54/1997, de 27 de noviembre, se establece en la actualidad, que si las actividades eléctricas fueran gravadas con tributos de carácter autonómico o local, cuya cuota se obtuviera mediante reglas no uniformes para el conjunto del territorio nacional, al peaje de acceso se le podrá incluir un suplemento territorial, que podría ser diferente en cada Comunidad Autónoma o entidad local. Actualmente la proliferación de distintos tributos sobre las actividades de suministro eléctrico, está provocando que las empresas del sector incurran en distintos costes en función del territorio en que se implanten las instalaciones con las consiguientes distorsiones para la unidad de mercado.
 
-El hecho de gravar las diferentes actividades eléctricas a nivel autonómico podría implicar que el coste adicional que suponen estos tributos para los sujetos que realizan dichas actividades se traslade a todos los consumidores, bien en los costes de las actividades reguladas reconocidos en los peajes de acceso, o bien a través del precio del mercado libre. De esta forma, una decisión de este tipo adoptada en el ámbito autonómico afectaría al conjunto de consumidores en el ámbito nacional, en términos que no resultarían justificados. Con el fin de evitar esta situación, se determina para las Comunidades Autónomas que graven, directa o indirectamente, las actividades o instalaciones destinadas al suministro eléctrico, con tributos propios o recargos sobre los tributos estatales, la obligatoriedad de imponer el suplemento territorial en los peajes de acceso y tarifas de último recurso, debiendo ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma. Para ello, se modifica el apartado 4 del artículo 17 y el apartado 5 del artículo 18 de la Ley 54/1997, de 27 de noviembre.
+El hecho de gravar las diferentes actividades eléctricas a nivel autonómico podría implicar que el coste adicional que suponen estos tributos para los sujetos que realizan dichas actividades se traslade a todos los consumidores, bien en los costes de las actividades reguladas reconocidos en los peajes de acceso, o bien a través del precio del mercado libre. De esta forma, una decisión de este tipo adoptada en el ámbito autonómico afectaría al conjunto de consumidores en el ámbito nacional, en términos que no resultarían justificados. Con el fin de evitar esta situación, se determina para las Comunidades Autónomas que graven, directa o indirectamente, las actividades o instalaciones destinadas al suministro eléctrico, con tributos propios o recargos sobre los tributos estatales, la obligatoriedad de imponer el suplemento territorial en los peajes de acceso y tarifas de último recurso, debiendo ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma. Para ello, se modifica el apartado 4 del artículo 17 y el.
+
+apartado 5 del artículo 18 de la Ley 54/1997, de 27 de noviembre.
 
 El Real Decreto-ley 13/2012, de 30 de marzo, procedió a minorar la retribución de la actividad de distribución de energía eléctrica a partir del 1 de enero de 2012, como consecuencia de que parte de los activos están ya amortizados o parcialmente amortizados. En el presente Real Decreto-ley, siguiendo las recomendaciones del Informe de la Comisión Nacional de Energía de 7 de marzo de 2012, se considera oportuno adoptar el mismo criterio para la actividad de transporte, y se establece que la retribución en concepto de inversión se hará para aquellos activos en servicio no amortizados, tomando como base para su retribución financiera el valor neto de los mismos. En aplicación de este nuevo criterio, se modifica la retribución correspondiente al año 2012 para la actividad de transporte a percibir por las empresas que figuran en la Real Decreto-ley 13/2012, de 30 de marzo.
 
@@ -211,7 +214,7 @@ En su virtud, haciendo uso de la autorización contenida en el artículo 86 de l
 
 **DISPONGO:**
 
-## TÍTULO I
+## Título I
 
 **Medidas de reordenación y racionalización de las Administraciones Públicas**
 
@@ -263,7 +266,9 @@ La reducción retributiva establecida en el apartado 1 de este artículo será t
 
 Tampoco percibirán, en el mes de diciembre, las cuantías contenidas en el anexo XI de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, ni las correspondientes al citado mes de diciembre del apartado segundo del Acuerdo de Consejo de Ministros de 8 de mayo de 2009, publicado por Orden 1230/2009, de 18 de mayo, del Ministerio de la Presidencia.
 
-Al personal incluido en el artículo 31 apartado cuatro, le serán de aplicación las reducciones previstas en el presente artículo de acuerdo a la normativa que les resulte de aplicación.
+Al personal incluido en el artículo 31 apartado.
+
+cuatro, le serán de aplicación las reducciones previstas en el presente artículo de acuerdo a la normativa que les resulte de aplicación.
 
 4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado cinco del artículo 31 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley, se les reducirá una catorceava parte de las retribuciones totales anuales que figuran en el citado artículo, incluida la paga correspondiente al mes de diciembre recogida en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
 
@@ -277,7 +282,9 @@ Al personal incluido en el artículo 31 apartado cuatro, le serán de aplicació
 
 2. La reducción prevista en el artículo 2 de este Real Decreto-ley será de aplicación a los Secretarios de Estado, Subsecretarios, Directores Generales y asimilados, así como a los Consejeros Permanentes y Secretario General del Consejo de Estado en los mismos términos que al personal funcionario al servicio de la Administración General del Estado.
 
-Al personal incluido en el artículo 24.Tres de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md) de Presupuestos Generales del Estado para 2012, se le aplicará igualmente lo previsto en el artículo 2 del presente Real Decreto-ley, procediéndose a la supresión de la paga extraordinaria del mes de diciembre o, de no existir dicha paga extraordinaria, a la minoración de una catorceava parte de sus retribuciones anuales totales, prorrateándose la citada minoración entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
+Al personal incluido en el artículo 24.Tres de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md) de Presupuestos Generales del Estado para 2012, se le aplicará igualmente lo previsto en el artículo 2 l.
+
+presente Real Decreto-ley, procediéndose a la supresión de la paga extraordinaria del mes de diciembre o, de no existir dicha paga extraordinaria, a la minoración de una catorceava parte de sus retribuciones anuales totales, prorrateándose la citada minoración entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-Ley.
 
 3. Lo dispuesto en este artículo será también de aplicación al Defensor del Pueblo.
 
@@ -287,7 +294,9 @@ A efectos del cálculo de la base de cotización por todas las contingencias de 
 
 #### Artículo 6. Aplicación del artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, al personal laboral del sector público.
 
-Durante el año 2012, se suprime para el personal laboral del sector público la percepción de la gratificación extraordinaria con ocasión de las fiestas de Navidad contenida en el artículo 31 del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sin perjuicio de lo dispuesto en el artículo 2, apartado 2.2 de este mismo Real Decreto-ley.
+Durante el año 2012, se suprime para el personal laboral del sector público la percepción de la gratificación extraordinaria con ocasión de las fiestas de Navidad contenida en el artículo 31 l.
+
+Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sin perjuicio de lo dispuesto en el artículo 2, apartado 2.2 de este mismo Real Decreto-ley.
 
 #### Artículo 7. Modificación del artículo 32 de la Ley 7/2007, de 12 de abril del Estatuto Básico del Empleado Público.
 
@@ -373,7 +382,9 @@ A partir del día nonagésimo primero, será de aplicación el subsidio establec
 
 Cuando la situación de incapacidad temporal derive de contingencias profesionales, la retribución a percibir podrá ser complementada desde el primer día, hasta alcanzar como máximo de las retribuciones que vinieran correspondiendo a dicho personal en el mes anterior al de causarse la incapacidad.
 
-A partir del día nonagésimo primero será de aplicación el subsidio establecido en el apartado 1.B) del artículo 20 del Real Decreto Legislativo 3/2000, de 23 de junio.
+A partir del día nonagésimo primero será de aplicación el subsidio establecido en el apartado 1.B) del artículo 20 l.
+
+Real Decreto Legislativo 3/2000, de 23 de junio.
 
 5. Cada Administración Pública podrá determinar, respecto a su personal, los supuestos en que con carácter excepcional y debidamente justificados se pueda establecer un complemento hasta alcanzar, como máximo, el cien por cien de las retribuciones que vinieran disfrutando en cada momento. A estos efectos, se considerarán en todo caso debidamente justificados los supuestos de hospitalización e intervención quirúrgica.
 
@@ -467,7 +478,7 @@ La regulación de otros derechos sindicales, permisos o créditos horarios se es
 
 3. Se dejan sin efecto cuantos pactos, acuerdos o convenios hayan podido establecer condiciones distintas a las reguladas en este artículo y, en concreto y en lo que se oponga al mismo, el Acuerdo de 3 de diciembre de 2007 de la Mesa General de Negociación de la Administración General del Estado sobre condiciones de trabajo para el personal laboral que presta servicios en el exterior al servicio de la Administración General del Estado y sus Organismos Autónomos y, en su integridad, el Acuerdo adoptado por dicha mesa el 9 de junio de 2011 sobre Procedimiento para la elección de órganos de representación del personal laboral de la Administración General del Estado en el exterior, así como cuantos procedimientos hubieran podido iniciarse o estuviesen en curso en ejecución del mismo.
 
-4. Lo dispuesto en este artículo producirá sus efectos desde el 1 de octubre de 2012.
+4. Lo dispuesto en este artículo producirá sus efectos desde el 1 de octubre de 2012.
 
 #### Artículo 15. Asignación eficiente y evaluación de efectivos en la Administración del Estado.
 
@@ -479,7 +490,7 @@ Para ello, por el citado Ministerio se analizará la distribución del personal 
 
 Se suspenden y quedan sin efecto los acuerdos, pactos y convenios para el personal del sector público definido en el artículo 22 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos generales del Estado, suscritos por las Administraciones públicas y sus organismos y entidades que contengan cláusulas que se opongan a lo dispuesto en el presente título.
 
-## TÍTULO II
+## Título II
 
 **Medidas en materia de Seguridad Social y Empleo**
 
@@ -487,7 +498,9 @@ Se suspenden y quedan sin efecto los acuerdos, pactos y convenios para el person
 
 El texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, queda modificado en los siguientes términos:
 
-Uno. El apartado 1.1 del artículo 27 queda redactado en los siguientes términos:
+Uno. El apartado 1.1 del artículo 27 queda.
+
+redactado en los siguientes términos:
 
 «1. Transcurrido el plazo reglamentario establecido para el pago de las cuotas a la Seguridad Social sin ingreso de las mismas y sin perjuicio de las especialidades previstas para los aplazamientos, se devengarán los siguientes recargos:
 
@@ -519,13 +532,17 @@ En el desarrollo reglamentario de los apartados a) y c) se procurará la mayor h
 
 4. No obstante lo dispuesto en el apartado 2.d), el Ministerio de Empleo y Seguridad Social podrá establecer el cómputo de las horas extraordinarias, ya sea con carácter general, ya sea por sectores laborales en los que la prolongación de la jornada sea característica de su actividad.»
 
-Tres. La letra b) del artículo 207 queda redactada como sigue:
+Tres. La letra b) del artículo 207 queda.
+
+redactada como sigue:
 
 «b. Tener cubierto el período mínimo de cotización a que se refiere el apartado 1 del artículo 210 de la presente Ley, dentro de los seis años anteriores a la situación legal de desempleo o al momento en que cesó la obligación de cotizar.
 
 Para el supuesto de que en el momento de la situación legal de desempleo se mantengan uno o varios contratos a tiempo parcial se tendrán en cuenta exclusivamente, a los solos efectos de cumplir el requisito de acceso a la prestación, los períodos de cotización en los trabajos en los que se haya perdido el empleo, de forma temporal o definitiva, o se haya visto reducida la jornada ordinaria de trabajo.»
 
-Cuatro. Los apartados 2 y 3 del artículo 211 quedan redactados en los términos siguientes:
+Cuatro. Los apartados 2 y 3 del artículo 211 quedan.
+
+redactados en los términos siguientes:
 
 «2. La cuantía de la prestación se determinará aplicando a la base reguladora los siguientes porcentajes: El 70 por 100 durante los ciento ochenta primeros días y el 50 por 100 a partir del día ciento ochenta y uno.
 
@@ -533,21 +550,27 @@ Cuatro. Los apartados 2 y 3 del artículo 211 quedan redactados en los términos
 
 La cuantía mínima de la prestación por desempleo será del 107 por 100 o del 80 por 100 del indicador público en rentas de efectos múltiples, según que el trabajador tenga o no, respectivamente, hijos a su cargo.
 
-En caso de desempleo por pérdida de empleo a tiempo parcial o a tiempo completo, las cuantías máximas y mínimas de la prestación, contempladas en los párrafos anteriores, se determinaran teniendo en cuenta el indicador público de rentas de efectos múltiples calculado en función del promedio de las horas trabajadas durante el período de los últimos 180 días, a que se refiere el apartado 1 de este artículo, ponderándose tal promedio en relación con los días en cada empleo a tiempo parcial o completo durante dicho período.
+En caso de desempleo por pérdida de empleo a tiempo parcial o a tiempo completo, las cuantías máximas y mínimas de la prestación, contempladas en los párrafos anteriores, se determinaran teniendo en cuenta el indicador público de rentas de efectos múltiples calculado en función del promedio de las horas trabajadas durante el período de los últimos 180 días, a que se refiere el apartado 1 de este artículo, ponderándose tal promedio en relación con los días en cada empleo a tiempo parcial o completo durante dicho período.
 
 A los efectos de lo previsto en este apartado, se tendrá en cuenta el indicador público de rentas de efectos múltiples mensual vigente en el momento del nacimiento del derecho, incrementado en una sexta parte.»
 
-Cinco. La letra a) del apartado 1 del artículo 212 queda redactada como sigue:
+Cinco. La letra a) del apartado 1 del artículo 212 queda.
+
+redactada como sigue:
 
 «a) Durante el periodo que corresponda por imposición de sanción por infracciones leves y graves en los términos establecidos en la Ley sobre Infracciones y Sanciones en el Orden Social.
 
 Si finalizado el período a que se refiere el párrafo anterior, el beneficiario de prestaciones no se encontrara inscrito como demandante de empleo, la reanudación de la prestación requerirá su previa comparecencia ante la Entidad Gestora acreditando dicha inscripción.»
 
-Seis. Se incluye en el artículo 212 un nuevo apartado 3, pasando el actual apartado 3 al 4, que queda redactado en los siguientes términos:
+Seis. Se incluye en el artículo 212 un.
+
+nuevo apartado 3, pasando el actual apartado 3 al 4, que queda redactado en los siguientes términos:
 
 «3. El incumplimiento, por parte de los beneficiarios de las prestaciones por desempleo de la obligación de presentar, en los plazos establecidos, los documentos que les sean requeridos, siempre que los mismos puedan afectar a la conservación del derecho a las prestaciones, podrá dar lugar a que por la Entidad Gestora se adopten las medidas preventivas necesarias, mediante la suspensión cautelar del abono de las citadas prestaciones, hasta que dichos beneficiarios comparezcan ante aquella acreditando que cumplen los requisitos legales establecidos para el mantenimiento del derecho, que se reanudará a partir de la fecha de la comparecencia.»
 
-Siete. El número 3 del apartado 1 y el número 2 del apartado 3 del artículo 215 quedan redactados en los términos siguientes:
+Siete. El número 3 del apartado 1 y el número 2 del apartado 3 del artículo 215 quedan.
+
+redactados en los términos siguientes:
 
 «1. Serán beneficiarios del subsidio:
 
@@ -565,15 +588,21 @@ Las rentas se computarán por su rendimiento íntegro o bruto. El rendimiento qu
 
 Para acreditar las rentas la Entidad Gestora podrá exigir al trabajador una declaración de las mismas y, en su caso, la aportación de copia de las declaraciones tributarias presentadas.»
 
-Ocho. El apartado 3 del artículo 216 queda redactado en los términos siguientes:
+Ocho. El apartado 3 del artículo 216 queda.
+
+redactado en los términos siguientes:
 
 «3. En el supuesto previsto en el apartado 1.3 del artículo 215, el subsidio se extenderá, como máximo, hasta que el trabajador alcance la edad que le permita acceder a la pensión contributiva de jubilación, en cualquiera de sus modalidades».
 
-Nueve. El apartado 1 del artículo 217 queda redactado en los siguientes términos:
+Nueve. El apartado 1 del artículo 217 queda.
+
+redactado en los siguientes términos:
 
 «1. La cuantía del subsidio por desempleo será igual al 80 por 100 del indicador público de rentas de efectos múltiples mensual vigente en cada momento. En el caso de desempleo por pérdida de un trabajo a tiempo parcial, dicha cuantía se percibirá en proporción a las horas previamente trabajadas en los supuestos previstos en los párrafos a) y b) del apartado 1.1, y en los apartados 1.2 y 1.3 del artículo 215».
 
-Diez. El artículo 218 queda redactado como sigue:
+Diez. El artículo 218 queda.
+
+redactado como sigue:
 
 «1. Durante la percepción del subsidio por desempleo para trabajadores mayores de cincuenta y cinco años la entidad gestora deberá cotizar por la contingencia de jubilación.
 
@@ -585,19 +614,27 @@ b) Sin son mayores de cincuenta y cinco años, la entidad gestora ingresará las
 
 3. A efectos de determinar la cotización en los supuestos indicado en los apartados 1 y 2 anteriores se tomará como base de cotización el tope mínimo de cotización vigente en cada momento».
 
-Once. El apartado 1 del artículo 221 queda redactado en los siguientes términos:
+Once. El apartado 1 del artículo 221 queda.
+
+redactado en los siguientes términos:
 
 «1. La prestación o el subsidio por desempleo serán incompatibles con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de la seguridad social, o con el trabajo por cuenta ajena, excepto cuando éste se realice a tiempo parcial, en cuyo caso se deducirá del importe de la prestación o subsidio la parte proporcional al tiempo trabajado.
 
-La deducción en el importe de la prestación o subsidio a que se refiere el párrafo anterior se efectuará tanto cuando el trabajador esté percibiendo la prestación o el subsidio por desempleo como consecuencia de la pérdida de un trabajo a tiempo completo o parcial y obtenga un nuevo trabajo a tiempo parcial, como cuando realice dos contratos a tiempo parcial y pierda uno de ellos, si bien, en este supuesto, la base reguladora de la prestación por desempleo será el promedio de las bases por la que se haya cotizado por dicha contingencia en ambos trabajos durante los 180 días del periodo a que se refiere el apartado 1 del artículo 210, y las cuantías máxima y mínima a que se refiere el artículo 211 se determinarán teniendo en cuenta el indicador público de rentas de efectos múltiples en función de las horas trabajadas en ambos trabajos.»
+La deducción en el importe de la prestación o subsidio a que se refiere el párrafo anterior se efectuará tanto cuando el trabajador esté percibiendo la prestación o el subsidio por desempleo como consecuencia de la pérdida de un trabajo a tiempo completo o parcial y obtenga un nuevo trabajo a tiempo parcial, como cuando realice dos contratos a tiempo parcial y pierda uno de ellos, si bien, en este supuesto, la base reguladora de la prestación por desempleo será el promedio de las bases por la que se haya cotizado por dicha contingencia en ambos trabajos durante los 180 días del periodo a que se refiere el apartado 1 del artículo 210, y las cuantías máxima y mínima a que se refiere el artículo 211 se.
 
-Doce. El artículo 229 queda redactado como sigue:
+determinarán teniendo en cuenta el indicador público de rentas de efectos múltiples en función de las horas trabajadas en ambos trabajos.»
+
+Doce. El artículo 229 queda.
+
+redactado como sigue:
 
 «Sin perjuicio de las facultades de los servicios competentes en cuanto a inspección y control en orden a la sanción de las infracciones que pudieran cometerse en la percepción de las prestaciones por desempleo, corresponde a la Entidad Gestora controlar el cumplimiento de lo establecido en el presente Título y comprobar las situaciones de fraude que puedan cometerse.
 
 A tal fin, la Entidad Gestora podrá suspender el abono de las prestaciones por desempleo cuando se aprecien indicios suficientes de fraude en el curso de las investigaciones realizadas por los órganos competentes en materia de lucha contra el fraude.»
 
-Trece. Las letras b) e i) del apartado 1 y el apartado 2 del artículo 231 quedan redactados en los siguientes términos:
+Trece. Las letras b) e i) del apartado 1 y el apartado 2 del artículo 231 quedan.
+
+redactados en los siguientes términos:
 
 «b) Proporcionar la documentación e información que reglamentariamente se determinen a efectos del reconocimiento, suspensión, extinción o reanudación del derecho a las prestaciones y comunicar a los Servicios Públicos de Empleo autonómicos y al Servicio Público de Empleo Estatal, el domicilio y, en su caso, el cambio del domicilio, facilitado a efectos de notificaciones, en el momento en que éste se produzca.
 
@@ -623,7 +660,9 @@ El apartado 4 del artículo 27 de la Ley 56/2003, de 16 de diciembre, de Empleo,
 
 #### Artículo 19. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
 
-Se modifica en los siguientes términos el artículo 33 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo:
+Se modifica en los siguientes términos el artículo 33 l.
+
+texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo:
 
 Uno. El apartado 1 queda redactado en los siguientes términos:
 
@@ -645,7 +684,9 @@ Tres. La regla segunda del apartado 3 queda redactada en los siguientes término
 
 El texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, queda redactado del siguiente modo:
 
-Uno. La letra a) del apartado 1 del artículo 17 queda redactado en los siguientes términos:
+Uno. La letra a) del apartado 1 del artículo 17 queda.
+
+redactado en los siguientes términos:
 
 «1. Leves.
 
@@ -653,15 +694,21 @@ a) No comparecer, previo requerimiento, ante los servicios públicos de empleo o
 
 Las citaciones o comunicaciones efectuadas por el Servicio Público de Empleo Estatal y los Servicios Públicos de Empleo autonómicos por medios electrónicos para el cumplimiento del compromiso de actividad, se entenderán validas, a efectos de notificación, siempre que los solicitantes o beneficiarios de las prestaciones por desempleo hayan expresado previamente su consentimiento»
 
-Dos. Se añade un nuevo párrafo a la letra a) del apartado 3 del artículo 24 con la siguiente redacción:
+Dos. Se añade un nuevo párrafo a la letra a) del apartado 3 del artículo 24 con.
+
+la siguiente redacción:
 
 «Las citaciones o comunicaciones efectuadas por el Servicio Público de Empleo Estatal y los Servicios Públicos de Empleo autonómicos por medios electrónicos para el cumplimiento del compromiso de actividad, se entenderán validas, a efectos de notificación, siempre que los solicitantes o beneficiarios de las prestaciones por desempleo hayan expresado previamente su consentimiento».
 
-Tres. Se añade una nueva letra d) al apartado 3 del artículo 24 con la siguiente redacción:
+Tres. Se añade una nueva letra d) al apartado 3 del artículo 24 con.
+
+la siguiente redacción:
 
 «d) No facilitar, al Servicio Público de Empleo Estatal y a los Servicios Públicos de Empleo Autonómicos, la información necesaria para garantizar la recepción de notificaciones y comunicaciones.»
 
-Cuatro. Se añade una nueva letra e) al apartado 1 del artículo 47 que queda redactada en los siguientes términos:
+Cuatro. Se añade una nueva letra e) al apartado 1 del artículo 47 que.
+
+queda redactada en los siguientes términos:
 
 «e) A estos efectos tendrán la consideración de beneficiarios de prestaciones por desempleo los trabajadores desempleados durante el plazo de solicitud de las prórrogas del subsidio por desempleo establecida en el artículo 219.4 de la Ley General de la Seguridad Social, así como durante la suspensión cautelar o definitiva de la prestación o subsidio por desempleo como consecuencia de un procedimiento sancionador o de lo establecido en el artículo 212.3. de dicha Ley.»
 
@@ -669,19 +716,23 @@ Cuatro. Se añade una nueva letra e) al apartado 1 del artículo 47 que queda re
 
 El Real Decreto 1369/2006, de 24 de noviembre, por el que se regula el programa de renta activa de inserción para desempleados con especiales necesidades económicas y dificultad para encontrar empleo, se modifica en los términos siguientes:
 
-Uno. Se añaden dos párrafos a la letra b) del apartado 1 del artículo 2 que quedan redactados en los términos siguientes:
+Uno. Se añaden dos párrafos a la letra b) del apartado 1 del artículo 2 que.
+
+quedan redactados en los términos siguientes:
 
 «Durante la inscripción como demandante de empleo a que se refiere el párrafo anterior deberá buscarse activamente empleo, sin haber rechazado oferta de empleo adecuada ni haberse negado a participar, salvo causa justificada, en acciones de promoción, formación o reconversión profesionales u otras para incrementar la ocupabilidad. La salida al extranjero, por cualquier motivo o duración, interrumpe la inscripción como demandante de empleo a estos efectos.
 
 En los supuestos en que se interrumpa la demanda de empleo, se exigirá un periodo de 12 meses ininterrumpido desde la nueva inscripción».
 
-Dos. La letra c) del apartado 1 del artículo 2 queda redactada en los términos siguientes:
+Dos. La letra c) del apartado 1 del artículo 2 queda.
+
+redactada en los términos siguientes:
 
 «c) Haber extinguido la prestación por desempleo de nivel contributivo y/o el subsidio por desempleo de nivel asistencial establecidos en el Título Tercero del texto refundido de la Ley General de la Seguridad Social, salvo cuando la extinción se hubiera producido por imposición de sanción, y no tener derecho a la protección por dicha contingencia.
 
 Este requisito no se exigirá en los supuestos previstos en las letras b) y c) del apartado 2 de este artículo».
 
-## TÍTULO III
+## Título III
 
 **Medidas de racionalización del sistema de dependencia**
 
@@ -693,7 +744,7 @@ Uno. Se modifica el apartado 4 del artículo 4, que queda redactado de la siguie
 
 «4. Las personas en situación de dependencia y, en su caso, sus familiares o quienes les representen, así como los centros de asistencia, estarán obligados a suministrar toda la información y datos que les sean requeridos por las administraciones competentes para la valoración de su grado de dependencia, a comunicar todo tipo de ayudas personalizadas que reciban, a aplicar las prestaciones económicas a las finalidades para las que fueron otorgadas y a cualquier otra obligación prevista en la legislación vigente».
 
-Dos. Se modifican la rúbrica y el apartado 1, se suprime el último inciso del apartado 2 y se añade un nuevo apartado 3 en el artículo 8, con la siguiente redacción:
+Dos. Se modifican la rúbrica y el apartado 1, se suprime el último inciso del apartado 2 y se añade un nuevo apartado 3 en el artículo 8, con la siguiente redacción:
 
 «Artículo 8. Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
 
@@ -725,7 +776,9 @@ Siete. Se modifica el artículo 19, que queda redactado de la siguiente forma:
 
 La prestación económica de asistencia personal tiene como finalidad la promoción de la autonomía de las personas en situación de dependencia, en cualquiera de sus grados. Su objetivo es contribuir a la contratación de una asistencia personal, durante un número de horas, que facilite al beneficiario el acceso a la educación y al trabajo, así como una vida más autónoma en el ejercicio de las actividades básicas de la vida diaria. Previo acuerdo del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia se establecerán las condiciones específicas de acceso a esta prestación.»
 
-Ocho. Se modifica el artículo 23 que queda redactado de la siguiente forma:
+Ocho. Se modifica el artículo 23 que.
+
+queda redactado de la siguiente forma:
 
 «Artículo 23. Servicio de Ayuda a Domicilio.
 
@@ -747,7 +800,9 @@ Nueve. Se introduce una Sección 4ª en el Capítulo II del Título I con el sig
 
 No obstante lo anterior, las administraciones públicas competentes podrán establecer la compatibilidad entre prestaciones para apoyo, cuidados y atención que faciliten la permanencia en el domicilio a la persona en situación de dependencia, de tal forma que la suma de estas prestaciones no sea superior, en su conjunto, a las intensidades máximas reconocidas a su grado de dependencia. A los efectos de la asignación del nivel mínimo establecido en el artículo 9, estas prestaciones tendrán la consideración de una única prestación.»
 
-Diez. Se suprime el apartado 2 del artículo 26 y, en consecuencia, el apartado 3 se renumera como apartado 2, que tendrá la siguiente redacción:
+Diez. Se suprime el apartado 2 del artículo 26 y,.
+
+en consecuencia, el apartado 3 se renumera como apartado 2, que tendrá la siguiente redacción:
 
 «2. Los intervalos para la determinación de los grados se establecerán en el baremo al que se refiere el artículo siguiente».
 
@@ -801,13 +856,15 @@ En el tercer y cuarto año a quienes sean valorados en el Grado II de Dependenci
 
 El quinto año, que finaliza el 31 de diciembre de 2011, a quienes sean valorados en el Grado I de Dependencia Moderada, Nivel 2, y se les haya reconocido la concreta prestación.
 
-A partir del 1 de julio de 2015 al resto de quienes fueron valorados en el Grado I de Dependencia Moderada, nivel 2.
+A partir del 1 de julio de 2015 al resto de quienes fueron valorados en el Grado I de Dependencia Moderada, nivel 2.
 
 A partir del 1 de julio de 2015 a quienes hayan sido valorados en el Grado I, nivel 1, o sean valorados en el Grado I de Dependencia Moderada.»
 
-«3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, salvo cuando se trate de las prestaciones económicas previstas en el artículo 18 que quedarán sujetas a un plazo suspensivo máximo de dos años a contar, según proceda, desde las fechas indicadas anteriormente, plazo que se interrumpirá en el momento en que el interesado empiece a percibir dicha prestación.»
+«3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, desde el transcurso del plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación, salvo cuando se trate de las prestaciones económicas previstas en el artículo 18 que.
 
-## TÍTULO IV
+quedarán sujetas a un plazo suspensivo máximo de dos años a contar, según proceda, desde las fechas indicadas anteriormente, plazo que se interrumpirá en el momento en que el interesado empiece a percibir dicha prestación.»
+
+## Título IV
 
 **Medidas fiscales**
 
@@ -927,7 +984,7 @@ a) El pan común, así como la masa de pan común congelada y el pan común cong
 
 b) Las harinas panificables.
 
-c) Los siguientes tipos de leche producida por cualquier especie animal: natural, certificada, pasterizada, concentrada, desnatada, esterilizada, UHT, evaporada y en polvo.
+c) **Los siguientes tipos de leche producida por cualquier especie animal.** Natural, certificada, pasterizada, concentrada, desnatada, esterilizada, UHT, evaporada y en polvo.
 
 d) Los quesos.
 
@@ -973,7 +1030,7 @@ Las viviendas que sean adquiridas por las entidades que apliquen el régimen esp
 
 2.º Los arrendamientos con opción de compra de edificios o partes de los mismos destinados exclusivamente a viviendas calificadas administrativamente como de protección oficial de régimen especial o de promoción pública, incluidas las plazas de garaje, con un máximo de dos unidades, y anexos en ellos situados que se arrienden conjuntamente.
 
-3.º Los servicios de teleasistencia, ayuda a domicilio, centro de día y de noche y atención residencial, a que se refieren las letras b), c), d) y e) del apartado 1 del artículo 15 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, siempre que se presten en plazas concertadas en centros o residencias o mediante precios derivados de un concurso administrativo adjudicado a las empresas prestadoras, o como consecuencia de una prestación económica vinculada a tales servicios que cubra más del 75 por ciento de su precio, en aplicación, en ambos casos, de lo dispuesto en dicha Ley.
+3.º Los servicios de teleasistencia, ayuda a domicilio, centro de día y de noche y atención residencial, a que se refieren las letras b), c), d) y e) del apartado 1 del artículo 15 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, siempre que se presten en plazas concertadas en centros o residencias o mediante precios derivados de un concurso administrativo adjudicado a las empresas prestadoras, o como consecuencia de una prestación económica vinculada a tales servicios que cubra más del 75 por ciento de su precio, en aplicación, en ambos casos, de lo dispuesto en dicha Ley.
 
 Lo dispuesto en este número 3.º no se aplicará a los servicios que resulten exentos por aplicación del número 8.º del apartado uno del artículo 20 de esta Ley.
 
@@ -1035,7 +1092,7 @@ Los sujetos pasivos revendedores de bienes usados o de bienes muebles, a que se 
 
 #### Artículo 24. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
-Con efectos desde la entrada en vigor de este Real Decreto-ley se modifica el artículo 60 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, si bien lo dispuesto en su epígrafe 2 resultará de aplicación desde el 1 de septiembre de 2012, que queda redactado de la siguiente forma:
+Con efectos desde la entrada en vigor de este Real Decreto-ley se modifica el artículo 60 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, si bien lo dispuesto en su epígrafe 2 resultará de aplicación desde el 1 de septiembre de 2012, que queda redactado de la siguiente forma:
 
 «Artículo 60. Tipos impositivos.
 
@@ -1047,17 +1104,17 @@ Los cigarros y cigarritos estarán gravados al tipo único de 32 euros por cada 
 
 Epígrafe 2. Cigarrillos: excepto en los casos en que resulte aplicable el párrafo siguiente, los cigarrillos estarán gravados simultáneamente a los siguientes tipos impositivos:
 
-a) Tipo proporcional: 53,1 por 100.
+a) **Tipo proporcional.** 53,1 por 100.
 
-b) Tipo específico: 19,1 euros por cada 1.000 cigarrillos.
+b) **Tipo específico.** 19,1 euros por cada 1.000 cigarrillos.
 
 Los cigarrillos estarán gravados al tipo único de 119,1 euros por cada 1.000 cigarrillos cuando la suma de las cuotas que resultarían de la aplicación de los tipos de las letras a) y b) anteriores sea inferior a la cuantía del tipo único.
 
 Epígrafe 3. Picadura para liar: excepto en los casos en que resulte aplicable el párrafo siguiente, la picadura para liar estará gravada simultáneamente a los siguientes tipos impositivos:
 
-a) Tipo proporcional: 41,5 por 100.
+a) **Tipo proporcional.** 41,5 por 100.
 
-b) Tipo específico: 8 euros por kilogramo.
+b) **Tipo específico.** 8 euros por kilogramo.
 
 La picadura para liar estará gravada al tipo único de 80 euros por kilogramo cuando la suma de las cuotas que resultarían de la aplicación de los tipos de las letras a) y b) anteriores sea inferior a la cuantía del tipo único.
 
@@ -1093,7 +1150,9 @@ El porcentaje de retención o ingreso a cuenta aplicable a dichos rendimientos q
 
 Primero. Con efectos para los períodos impositivos que se inicien dentro de los años 2012 y 2013, se introducen las siguientes modificaciones en el régimen legal del Impuesto sobre Sociedades:
 
-Uno. Se modifica el número dos del apartado primero del artículo 9 del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011, que queda redactado de la siguiente forma:
+Uno. Se modifica el número dos del apartado primero del artículo 9 l.
+
+Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011, que queda redactado de la siguiente forma:
 
 «Dos. Para los sujetos pasivos cuyo volumen de operaciones, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, haya superado la cantidad de 6.010.121,04 euros durante los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013, en la compensación de bases imponibles negativas a que se refiere el artículo 25 del texto refundido de la Ley del Impuesto sobre Sociedades se tendrán en consideración las siguientes especialidades:
 
@@ -1103,25 +1162,41 @@ Uno. Se modifica el número dos del apartado primero del artículo 9 del Real De
 
 Lo previsto en este apartado no será de aplicación a los pagos fraccionados cuyo plazo de declaración haya vencido a la entrada en vigor de este Real Decreto-ley.»
 
-Dos. Se modifica el número uno del apartado primero del artículo 1 del Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, que queda redactado de la siguiente forma:
+Dos. Se modifica el número uno del apartado primero del artículo 1 l.
 
-«Uno. La deducción correspondiente al fondo de comercio a que se refiere el apartado 6 del artículo 12 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que se deduzca de la base imponible en los períodos impositivos iniciados dentro del año 2012 o 2013, está sujeta al límite anual máximo de la centésima parte de su importe.
+Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, que queda redactado de la siguiente forma:
 
-Lo dispuesto en el párrafo anterior no será de aplicación a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas que cumplan los requisitos establecidos en el apartado 1 del artículo 108 del texto refundido de la Ley del Impuesto sobre Sociedades.».
+«Uno. La deducción correspondiente al fondo de comercio a que se refiere el apartado 6 del artículo 12 l.
 
-Tres. La deducción correspondiente al inmovilizado intangible con vida útil indefinida a que se refiere el apartado 7 del artículo 12 del texto refundido de la Ley del Impuesto sobre Sociedades, que se deduzca de la base imponible en los períodos impositivos iniciados dentro del año 2012 ó 2013, está sujeta al límite anual máximo de la cincuentava parte de su importe.
+texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que se deduzca de la base imponible en los períodos impositivos iniciados dentro del año 2012 o 2013, está sujeta al límite anual máximo de la centésima parte de su importe.
 
-Lo dispuesto en el párrafo anterior no será de aplicación a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas que cumplan los requisitos establecidos en el apartado 1 del artículo 108 del texto refundido de la Ley del Impuesto sobre Sociedades.
+Lo dispuesto en el párrafo anterior no será de aplicación a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas que cumplan los requisitos establecidos en el apartado 1 del artículo 108 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades.».
+
+Tres. La deducción correspondiente al inmovilizado intangible con vida útil indefinida a que se refiere el apartado 7 del artículo 12 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades, que se deduzca de la base imponible en los períodos impositivos iniciados dentro del año 2012 ó 2013, está sujeta al límite anual máximo de la cincuentava parte de su importe.
+
+Lo dispuesto en el párrafo anterior no será de aplicación a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas que cumplan los requisitos establecidos en el apartado 1 del artículo 108 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades.
 
 Lo previsto en este apartado no será de aplicación a los pagos fraccionados cuyo plazo de declaración haya vencido a la entrada en vigor de este Real Decreto-ley.
 
 Segundo. Con efectos para los pagos fraccionados cuyos plazos de declaración se inicien a partir de la entrada en vigor de este Real Decreto-ley, correspondientes a períodos impositivos iniciados dentro de los años 2012 y 2013, se introducen las siguientes modificaciones en el régimen legal del Impuesto sobre Sociedades:
 
-Uno. En la determinación de los pagos fraccionados que se realicen en la modalidad prevista en el apartado 3 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, se integrará en la base imponible del período respecto del cual se calcula el correspondiente pago fraccionado, el 25 por ciento del importe de los dividendos y las rentas devengadas en el mismo, a los que resulte de aplicación el artículo 21 de dicha Ley.
+Uno. En la determinación de los pagos fraccionados que se realicen en la modalidad prevista en el apartado 3 del artículo 45 l.
 
-Dos. Se modifica el número uno del apartado primero del artículo 9 del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011, que queda redactado de la siguiente forma:
+texto refundido de la Ley del Impuesto sobre Sociedades, se integrará en la base imponible del período respecto del cual se calcula el correspondiente pago fraccionado, el 25 por ciento del importe de los dividendos y las rentas devengadas en el mismo, a los que resulte de aplicación el artículo 21 de dicha Ley.
 
-«Uno. El porcentaje a que se refiere el apartado 4 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, para la modalidad prevista en el apartado 3 de dicho artículo, será:
+Dos. Se modifica el número uno del apartado primero del artículo 9 l.
+
+Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011, que queda redactado de la siguiente forma:
+
+«Uno. El porcentaje a que se refiere el apartado 4 del artículo 45 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades, para la modalidad prevista en el apartado 3 de dicho artículo, será:
 
 a) Tratándose de sujetos pasivos cuyo volumen de operaciones, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, no haya superado la cantidad de 6.010.121,04 euros durante los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 o 2013, según corresponda, el resultado de multiplicar por cinco séptimos el tipo de gravamen redondeado por defecto.
 
@@ -1135,21 +1210,29 @@ b) Tratándose de sujetos pasivos cuyo volumen de operaciones, calculado conform
 
 – El resultado de multiplicar por diecinueve veinteavos el tipo de gravamen redondeado por exceso, cuando en esos doce meses el importe neto de la cifra de negocios sea al menos sesenta millones de euros.
 
-Estarán obligados a la modalidad a que se refiere el apartado 3 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, los sujetos pasivos cuyo volumen de operaciones, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, haya superado la cantidad de 6.010.121,04 euros durante los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013.»
+Estarán obligados a la modalidad a que se refiere el apartado 3 del artículo 45 l.
 
-Tres. Se modifica el número cuatro del apartado primero del artículo 1 del Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, que queda redactado de la siguiente forma:
+texto refundido de la Ley del Impuesto sobre Sociedades, los sujetos pasivos cuyo volumen de operaciones, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, haya superado la cantidad de 6.010.121,04 euros durante los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013.»
 
-«Cuatro. La cantidad a ingresar correspondiente a los pagos fraccionados establecidos en el apartado 3 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 o 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 12 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado exclusivamente en los pagos fraccionados realizados con anterioridad, correspondientes al mismo período impositivo.
+Tres. Se modifica el número cuatro del apartado primero del artículo 1 l.
+
+Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, que queda redactado de la siguiente forma:
+
+«Cuatro. La cantidad a ingresar correspondiente a los pagos fraccionados establecidos en el apartado 3 del artículo 45 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 o 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 12 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado exclusivamente en los pagos fraccionados realizados con anterioridad, correspondientes al mismo período impositivo.
 
 No obstante, el porcentaje establecido en el párrafo anterior será del 6 por ciento para aquellas entidades allí referidas, en las que al menos el 85 por ciento de los ingresos de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, correspondan a rentas a las que resulte de aplicación las exenciones previstas en los artículos 21 y 22 o la deducción prevista en el artículo 30.2, del texto refundido de la Ley del Impuesto sobre Sociedades.».
 
-Tercero. Con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2012, se modifica el apartado 5 y se añade un nuevo apartado 6 en el artículo 20 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que quedan redactados de la siguiente forma:
+Tercero. Con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2012, se modifica el apartado 5 y se añade un nuevo apartado 6 en el artículo 20 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que quedan redactados de la siguiente forma:
 
 «5. Si el período impositivo de la entidad tuviera una duración inferior al año, el importe previsto en el párrafo cuarto del apartado 1 de este artículo será el resultado de multiplicar 1 millón de euros por la proporción existente entre la duración del período impositivo respecto del año.
 
 6. La limitación prevista en este artículo no resultará de aplicación:
 
-a) A las entidades de crédito y aseguradoras. No obstante, en el caso de entidades de crédito o aseguradoras que tributen en el régimen de consolidación fiscal conjuntamente con otras entidades que no tengan esta consideración, el límite establecido en este artículo se calculará teniendo en cuenta el beneficio operativo y los gastos financieros netos de estas últimas entidades.
+a) **A las entidades de crédito y aseguradoras.** No obstante, en el caso de entidades de crédito o aseguradoras que tributen en el régimen de consolidación fiscal conjuntamente con otras entidades que no tengan esta consideración, el límite establecido en este artículo se calculará teniendo en cuenta el beneficio operativo y los gastos financieros netos de estas últimas entidades.
 
 A estos efectos, recibirán el tratamiento de las entidades de crédito aquellas entidades cuyos derechos de voto correspondan, directa o indirectamente, íntegramente a aquellas, y cuya única actividad consista en la emisión y colocación en el mercado de instrumentos financieros para reforzar el capital regulatorio y la financiación de tales entidades.
 
@@ -1159,7 +1242,7 @@ Cuarto. Con efectos a partir de la entrada en vigor de este Real Decreto-ley, se
 
 «Disposición adicional decimoséptima. Gravamen especial sobre dividendos y rentas de fuente extranjera derivadas de la transmisión de valores representativos de los fondos propios de entidades no residentes en territorio español no incluidos en la disposición adicional decimoquinta de esta Ley.
 
-1. Los dividendos o participaciones en beneficios de entidades no residentes en territorio español que cumplan el requisito establecido en la letra a) del apartado 1 del artículo 21 de esta Ley y no les resulte de aplicación la disposición adicional decimoquinta de esta Ley, que se devenguen hasta 30 de noviembre de 2012, podrán no integrarse en la base imponible de este Impuesto, mediante la opción del sujeto pasivo por la sujeción al mismo a través de un gravamen especial.
+1. Los dividendos o participaciones en beneficios de entidades no residentes en territorio español que cumplan el requisito establecido en la letra a) del apartado 1 del artículo 21 de esta Ley y no les resulte de aplicación la disposición adicional decimoquinta de esta Ley, que se devenguen hasta 30 de noviembre de 2012, podrán no integrarse en la base imponible de este Impuesto, mediante la opción del sujeto pasivo por la sujeción al mismo a través de un gravamen especial.
 
 La base imponible del gravamen especial estará constituida por el importe íntegro de los dividendos o participaciones en beneficios devengados, sin que resulte fiscalmente deducible la pérdida por deterioro del valor de la participación que pudiera derivarse de la distribución de los beneficios que sean objeto de este gravamen especial.
 
@@ -1167,7 +1250,7 @@ La base imponible del gravamen especial estará constituida por el importe ínte
 
 En este caso, la base imponible estará constituida por la renta obtenida en la transmisión, así como la reversión de cualquier corrección de valor sobre la participación transmitida, que hubiera tenido la consideración de fiscalmente deducible durante el tiempo de tenencia de la participación.
 
-No obstante, este gravamen especial no resultará de aplicación respecto de la transmisión de valores representativos de los fondos propios de entidades no residentes en territorio español a que se refiere la letra a) del apartado 2 del artículo 21 de esta Ley.
+No obstante, este gravamen especial no resultará de aplicación respecto de la transmisión de valores representativos de los fondos propios de entidades no residentes en territorio español a que se refiere la letra a) del apartado 2 del artículo 21 de esta Ley.
 
 3. El tipo de gravamen especial será del 10 por ciento.
 
@@ -1183,7 +1266,7 @@ En el caso de transmisión de valores representativos de los fondos propios de e
 
 6. El gravamen especial deberá autoliquidarse e ingresarse en el plazo de los 25 días siguientes a la fecha de devengo. El modelo de declaración de este gravamen especial será el aprobado por Orden HAP/1181/2012, de 31 de mayo, por la que se aprueba el modelo 250, Gravamen especial sobre dividendos y rentas de fuente extranjera derivadas de la transmisión de valores representativos de los fondos propios de entidades no residentes en territorio español, que será objeto de adaptación a los efectos previstos en esta disposición.»
 
-## TÍTULO V
+## Título V
 
 **Medidas de liberalización comercial y de fomento de la internacionalización empresarial**
 
@@ -1191,11 +1274,15 @@ En el caso de transmisión de valores representativos de los fondos propios de e
 
 La Ley 1/2004, de 21 de diciembre, de horarios comerciales, queda modificada como sigue:
 
-Uno. El apartado 1 del artículo 3 queda redactado del siguiente modo:
+Uno. El apartado 1 del artículo 3 queda.
+
+redactado del siguiente modo:
 
 «1. El horario global en que los comercios podrán desarrollar su actividad durante el conjunto de días laborables de la semana no podrá restringirse por las Comunidades Autónomas a menos de 90 horas.»
 
-Dos. El artículo 4 queda redactado del siguiente modo:
+Dos. El artículo 4 queda.
+
+redactado del siguiente modo:
 
 «Artículo 4. Domingos y festivos.
 
@@ -1217,7 +1304,9 @@ c) La apertura en los domingos y festivos de mayor afluencia turística en la Co
 
 d) La apertura en los domingos o festivos de la campaña de Navidad.»
 
-Tres. El artículo 5 queda redactado del siguiente modo:
+Tres. El artículo 5 queda.
+
+redactado del siguiente modo:
 
 «Artículo 5. Establecimientos con régimen especial de horarios.
 
@@ -1263,17 +1352,23 @@ Cinco. La disposición adicional segunda queda redactada del siguiente modo:
 
 La Ley 7/1996, de 15 de enero, de ordenación del comercio minorista queda modificada como sigue:
 
-Uno. Se añade un apartado 4 al artículo 18 con la siguiente redacción:
+Uno. Se añade un apartado 4 al artículo 18 con.
+
+la siguiente redacción:
 
 «4. Las actividades de promoción de ventas podrán simultanearse en un mismo establecimiento comercial, excepto en los supuestos de venta en liquidación, siempre y cuando exista la debida separación entre ellas y se respeten los deberes de información.»
 
-Dos. Se añade un apartado 3 al artículo 20 con la siguiente redacción:
+Dos. Se añade un apartado 3 al artículo 20 con.
+
+la siguiente redacción:
 
 «Artículo 20. Constancia de la reducción de precios.
 
 «3. En ningún caso, la utilización de las actividades de promoción de ventas podrá condicionarse a la existencia de una reducción porcentual mínima o máxima.»
 
-Tres. El artículo 25 queda redactado del siguiente modo:
+Tres. El artículo 25 queda.
+
+redactado del siguiente modo:
 
 «Artículo 25. Temporada de rebajas.
 
@@ -1281,11 +1376,15 @@ Tres. El artículo 25 queda redactado del siguiente modo:
 
 2. La duración de cada periodo de rebajas será decidida libremente por cada comerciante.»
 
-Cuatro. El apartado 1 del artículo 26 queda redactado del siguiente modo:
+Cuatro. El apartado 1 del artículo 26 queda.
+
+redactado del siguiente modo:
 
 «1. Los artículos objeto de la venta en rebajas deberán haber estado incluidos con anterioridad en la oferta habitual de ventas.»
 
-Cinco. El artículo 27 queda redactado del siguiente modo:
+Cinco. El artículo 27 queda.
+
+redactado del siguiente modo:
 
 «Artículo 27. Concepto.
 
@@ -1293,9 +1392,11 @@ Cinco. El artículo 27 queda redactado del siguiente modo:
 
 2. Los artículos que vayan a comerciarse como productos en promoción podrán adquirirse con este exclusivo fin, no podrán estar deteriorados, ni tampoco ser de peor calidad que los mismos productos que vayan a ser objeto de futura oferta ordinaria a precio normal.
 
-3. Será de aplicación a las ventas de promoción lo dispuesto en los artículos 33 y 34 de la presente Ley.»
+3. Será de aplicación a las ventas de promoción lo dispuesto en los artículos 33 y 34 de la presente Ley.»
 
-Seis. El artículo 28 queda redactado del siguiente modo:
+Seis. El artículo 28 queda.
+
+redactado del siguiente modo:
 
 «Artículo 28. Concepto.
 
@@ -1303,7 +1404,9 @@ Seis. El artículo 28 queda redactado del siguiente modo:
 
 2. No cabe calificar como venta de saldos la de aquellos productos cuya venta bajo tal régimen implique riesgo o engaño para el comprador, ni la de aquellos productos que no se venden realmente por precio inferior al habitual.»
 
-Siete. El artículo 31 queda redactado del siguiente modo:
+Siete. El artículo 31 queda.
+
+redactado del siguiente modo:
 
 «Artículo 31. Duración y reiteración.
 
@@ -1347,17 +1450,27 @@ Se añade una nueva letra l) al artículo 2.1:
 
 La Ley 44/2002, de 22 de noviembre, queda modificada como sigue:
 
-Uno. Se añade un nuevo párrafo al final del apartado primero del artículo 13 con la siguiente redacción:
+Uno. Se añade un nuevo párrafo al final del apartado primero del artículo 13 con.
 
-«En el momento de la emisión de las cédulas territoriales, de aquellos préstamos y créditos que pudieran igualmente garantizar las emisiones de cédulas de internacionalización en virtud del artículo 13 bis, apartado primero, letra a), deberá elegirse cuales garantizarán dicha emisión.
+la siguiente redacción:
+
+«En el momento de la emisión de las cédulas territoriales, de aquellos préstamos y créditos que pudieran igualmente garantizar las emisiones de cédulas de internacionalización en virtud del artículo 13 bis,.
+
+apartado primero, letra a), deberá elegirse cuales garantizarán dicha emisión.
 
 Estos préstamos y créditos no podrán garantizar ambos tipos de cédulas simultáneamente. Tampoco podrán, una vez asignados como garantía a la emisión de cédulas territoriales, dejar de garantizar dichas cédulas para convertirse en garantía de cédulas de internacionalización.»
 
-Dos. Se añade un nuevo apartado octavo al artículo 13 con la siguiente redacción:
+Dos. Se añade un nuevo apartado octavo al artículo 13 con.
+
+la siguiente redacción:
 
 «Octavo. La entidad emisora de las cédulas territoriales llevará un registro contable especial de los préstamos y créditos que sirven de garantía a las emisiones de cédulas territoriales. Las cuentas anuales de la entidad emisora recogerán, en la forma que reglamentariamente se determine, los datos esenciales de dicho registro.»
 
-Tres. Se añade un nuevo artículo 13 bis con la siguiente redacción:
+Tres. Se añade un nuevo
+
+#### Artículo 13 bis. con.
+
+la siguiente redacción:
 
 «Artículo 13 bis. Cédulas de internacionalización.
 
@@ -1371,7 +1484,9 @@ Estos préstamos y créditos no podrán garantizar ambos tipos de cédulas simul
 
 b) Los préstamos y créditos vinculados a la financiación de contratos de exportación de bienes y servicios españoles o a la internacionalización de las empresas residentes en España, concedidos a deudores que sean empresas no financieras o entidades financieras, y que sean de alta calidad crediticia.
 
-c) Los préstamos y créditos vinculados a la financiación de contratos de exportación de bienes y servicios españoles o a la internacionalización de las empresas residentes en España que gocen de cobertura de riesgo de crédito mediante seguro o garantía, por cuenta del Estado, emitida por CESCE, de acuerdo con lo establecido, respectivamente, en el artículo 1 y en la disposición adicional primera de la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación. De igual modo, también se admitirán los préstamos y créditos de este tipo si dichas coberturas o garantías se emitiesen, en régimen mancomunado, con otro u otros Estados, y que sean de alta calidad crediticia, a través de su correspondiente agencia de crédito a la exportación u organismo de análoga naturaleza y se tratase de financiación destinada a contratos con participación de múltiples proveedores residentes en diferentes jurisdicciones.
+c) Los préstamos y créditos vinculados a la financiación de contratos de exportación de bienes y servicios españoles o a la internacionalización de las empresas residentes en España que gocen de cobertura de riesgo de crédito mediante seguro o garantía, por cuenta del Estado, emitida por CESCE, de acuerdo con lo establecido, respectivamente, en el artículo 1 y en.
+
+la disposición adicional primera de la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del Seguro de Crédito a la Exportación. De igual modo, también se admitirán los préstamos y créditos de este tipo si dichas coberturas o garantías se emitiesen, en régimen mancomunado, con otro u otros Estados, y que sean de alta calidad crediticia, a través de su correspondiente agencia de crédito a la exportación u organismo de análoga naturaleza y se tratase de financiación destinada a contratos con participación de múltiples proveedores residentes en diferentes jurisdicciones.
 
 d) Los activos de sustitución contemplados en el apartado segundo y los flujos económicos generados por los instrumentos financieros derivados vinculados a cada emisión, y en particular, los que sirvan de cobertura al riesgo de tipo de cambio, en las condiciones que reglamentariamente se determinen.
 
@@ -1381,21 +1496,21 @@ El Ministro de Economía y Competitividad especificará las características que
 
 Segundo. Las cédulas de internacionalización podrán estar respaldadas hasta un límite del 5 por ciento del principal emitido por los activos de sustitución siguientes:
 
-a) valores de renta fija representados mediante anotaciones en cuenta emitidos por el Estado, otros Estados miembros de la Unión Europea o el Instituto de Crédito Oficial,
+a) Valores de renta fija representados mediante anotaciones en cuenta emitidos por el Estado, otros Estados miembros de la Unión Europea o el Instituto de Crédito Oficial,
 
-b) cédulas hipotecarias admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito con garantía hipotecaria concedido por el propio emisor de las cédulas de internacionalización ni por otras entidades de su grupo,
+b) Cédulas hipotecarias admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito con garantía hipotecaria concedido por el propio emisor de las cédulas de internacionalización ni por otras entidades de su grupo,
 
-c) bonos hipotecarios admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no estén garantizados por ningún préstamo o crédito con garantía hipotecaria concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
+c) Bonos hipotecarios admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no estén garantizados por ningún préstamo o crédito con garantía hipotecaria concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
 
-d) valores emitidos por fondos de titulización hipotecaria o por fondos de titulización de activos admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no estén garantizados por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
+d) Valores emitidos por fondos de titulización hipotecaria o por fondos de titulización de activos admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no estén garantizados por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
 
-e) cédulas territoriales admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
+e) Cédulas territoriales admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
 
-f) cédulas de internacionalización admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
+f) Cédulas de internacionalización admitidas a cotización en un mercado secundario oficial, o en un mercado regulado, siempre que dichas cédulas no estén garantizadas por ningún préstamo o crédito concedido por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
 
-g) otros valores de renta fija admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no hayan sido emitidos por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
+g) Otros valores de renta fija admitidos a cotización en un mercado secundario oficial, o en un mercado regulado, con una alta calidad crediticia en los términos previstos en el apartado primero, siempre que dichos valores no hayan sido emitidos por la propia entidad emisora de las cédulas de internacionalización, ni por otras entidades de su grupo,
 
-h) otros activos de bajo riesgo y alta liquidez que se determinen reglamentariamente.
+h) Otros activos de bajo riesgo y alta liquidez que se determinen reglamentariamente.
 
 Tercero. Las cédulas de internacionalización no deberán ser objeto de inscripción en el Registro Mercantil ni les serán de aplicación las reglas contenidas en el Título XI del texto refundido de la Ley de Sociedades de Capital aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, ni las previstas en la Ley 211/1964, de 24 de diciembre, sobre regulación de la emisión de obligaciones por sociedades que no hayan adoptado la forma de sociedades anónimas, asociaciones u otras personas jurídicas, y la constitución del sindicato de obligacionistas.
 
@@ -1425,21 +1540,27 @@ Uno. El título queda redactado del siguiente modo:
 
 «Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial ICEX España Exportación e Inversiones (ICEX).»
 
-Dos. El apartado 1 del artículo 1 queda redactado del siguiente modo:
+Dos. El apartado 1 del artículo 1 queda.
+
+redactado del siguiente modo:
 
 «1. Se crea la entidad pública empresarial ICEX España Exportación e Inversiones (en adelante, ICEX), de conformidad con lo previsto en los artículos 43.1.b y 61.1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, como transformación de la actual entidad de derecho público Instituto Español de Comercio Exterior creada mediante el Real Decreto-ley 6/1982, de 2 de abril, quedando adscrita al Ministerio de Economía y Competitividad a través de la Secretaría de Estado de Comercio.»
 
-Tres. El apartado 1 del artículo 3 queda redactado del siguiente modo:
+Tres. El apartado 1 del artículo 3 queda.
+
+redactado del siguiente modo:
 
 «1. Constituyen los fines del ICEX ejecutar las acciones que, en el marco de la política económica del Gobierno, tengan como objetivo promover las exportaciones, el apoyo a la internacionalización de la empresa española y la mejora de su competitividad así como la atracción y promoción de inversiones exteriores en España. Las actividades desarrolladas por el ICEX se consideran de interés general.»
 
-## TÍTULO VI
+## Título VI
 
 **Medidas en materia de infraestructuras, transporte y vivienda**
 
 #### Artículo 33. Modificación del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo.
 
-Se modifica el artículo 13 del Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo que queda redactado en los siguientes términos:
+Se modifica el artículo 13 l.
+
+Real Decreto-ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo que queda redactado en los siguientes términos:
 
 «1. En los aeropuertos atribuidos a la gestión y explotación de «Aena Aeropuertos, S.A.» se garantizará la participación de las Comunidades y Ciudades Autónomas y de las corporaciones locales, y las organizaciones empresariales y sociales representativas.
 
@@ -1505,7 +1626,7 @@ A tal efecto se entiende por:
 
 2. La definición de cada uno de los epígrafes componentes de la fórmula es la siguiente:
 
-a) Gastos de explotación: corresponde a la suma de los epígrafes siguientes que figuren en el Presupuesto de explotación del PAP:
+a) **Gastos de explotación.** Corresponde a la suma de los epígrafes siguientes que figuren en el Presupuesto de explotación del PAP:
 
 1.º Aprovisionamientos.
 
@@ -1521,7 +1642,7 @@ a) Gastos de explotación: corresponde a la suma de los epígrafes siguientes qu
 
 7.º Deterioro del Fondo de Comercio de Consolidación.
 
-b) Coste de capital: Corresponde a la cantidad resultante de aplicar el coste medio ponderado del capital antes de impuestos (CMPCAI, en adelante), al valor medio de los Activos Netos durante el año n, calculado como la semisuma de los valores de los Activos netos al final de los años n-1 y n que figuren en el PAP.
+b) **Coste de capital.** Corresponde a la cantidad resultante de aplicar el coste medio ponderado del capital antes de impuestos (CMPCAI, en adelante), al valor medio de los Activos Netos durante el año n, calculado como la semisuma de los valores de los Activos netos al final de los años n-1 y n que figuren en el PAP.
 
 Los dos componentes esenciales CMPCAI y Activos Netos se describen a continuación:
 
@@ -1545,7 +1666,7 @@ Ke = Coste de los Recursos Propios, calculado de acuerdo a la siguiente fórmula
 
 Donde:
 
-i) RF: Tasa Libre de Riesgo. Se tomará la media de la tasa interna de rendimiento del Bono del Estado español a 10 años de los últimos 12 meses disponibles en el momento de elaboración de la propuesta.
+i) **RF: Tasa Libre de Riesgo.** Se tomará la media de la tasa interna de rendimiento del Bono del Estado español a 10 años de los últimos 12 meses disponibles en el momento de elaboración de la propuesta.
 
 ii) PM: Prima de riesgo del Mercado (en %). Es la rentabilidad incremental que un inversor exige a las acciones por encima de la renta fija sin riesgo. Se tomará el valor fijo del 4,21%.
 
@@ -1579,7 +1700,7 @@ Coeficiente corrector K
 
 Dicho porcentaje, además de aplicarse a los gastos de explotación mencionados anteriormente, se tendrán en cuenta para el cálculo del coste de capital aplicándose a los Activos Netos, Deudas y Recursos Propios vinculados a los Ingresos por Precios Privados derivados de la explotación de las Áreas Terminales. A efectos de su aplicación, los ingresos, gastos, inversiones y demás partidas, generadas por actividades de expansión y desarrollo internacional son considerados y reciben el mismo tratamiento que las provenientes de las actividades comerciales fuera de terminal.
 
-c) Ajuste por déficit. Si en los ejercicios 2013, 2014 y 2015 el resultado de la aplicación de esta fórmula conduce a un incremento superior al porcentaje que represente el IPC interanual, incrementado en 5 puntos, el incremento máximo a aplicar será éste, pudiéndose, a lo largo de los tres próximos ejercicios, recuperar el posible déficit producido.
+c) **Ajuste por déficit.** Si en los ejercicios 2013, 2014 y 2015 el resultado de la aplicación de esta fórmula conduce a un incremento superior al porcentaje que represente el IPC interanual, incrementado en 5 puntos, el incremento máximo a aplicar será éste, pudiéndose, a lo largo de los tres próximos ejercicios, recuperar el posible déficit producido.
 
 3. Con el fin de garantizar la eficiencia económica en la gestión de los aeropuertos, «Aena Aeropuertos, S.A.», directamente o a propuesta de sus sociedades filiales, podrá proponer para cada aeropuerto:
 
@@ -1613,7 +1734,7 @@ Así mismo, los beneficiarios cuya resolución se haya extinguido por alguna de 
 
 2. La percepción de la ayuda para facilitar el pago de los gastos relacionados con el alquiler de la vivienda habitual será incompatible con otras ayudas o subvenciones establecidas para los inquilinos en la normativa autonómica.
 
-## TÍTULO VII
+## Título VII
 
 **Medidas para la supresión de desajustes entre los costes e ingresos en el sector eléctrico**
 
@@ -1621,11 +1742,11 @@ Así mismo, los beneficiarios cuya resolución se haya extinguido por alguna de 
 
 1. Los costes fijos y variables de las centrales de generación en régimen ordinario en los sistemas eléctricos insulares y extrapeninsulares, resultantes de la aplicación de las revisiones que se establezcan en las disposiciones que desarrollen el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, serán de aplicación para la retribución de los costes de generación reconocidos a los generadores en régimen ordinario en dichos sistemas desde el 1 de enero de 2012.
 
-2. Adicionalmente a las revisiones del modelo retributivo que se aprueben en las citadas disposiciones que modifiquen el cálculo de costes fijos y variables de las centrales de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, se establecen las siguientes medidas a aplicar desde el 1 de enero de 2012:
+2. Adicionalmente a las revisiones del modelo retributivo que se aprueben en las citadas disposiciones que modifiquen el cálculo de costes fijos y variables de las centrales de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares, se establecen las siguientes medidas a aplicar desde el 1 de enero de 2012:
 
 a) Se elimina la retribución de los gastos de naturaleza recurrente a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, por la que se establece el método de cálculo de la retribución de garantía de potencia para las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares.
 
-b) Se revisa la tasa financiera de retribución para el cálculo de la retribución financiera de la inversión de cada grupo a la que hace referencia el apartado 2 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, que se corresponderá con el valor de los Bonos del Estado a diez años más 200 puntos básicos.
+b) Se revisa la tasa financiera de retribución para el cálculo de la retribución financiera de la inversión de cada grupo a la que hace referencia el apartado 2 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, que se corresponderá con el valor de los Bonos del Estado a diez años más 200 puntos básicos.
 
 c) Se reducen en un 10 por ciento los valores unitarios de la anualidad en concepto de operación y mantenimiento fijos a los que hace referencia el apartado 3 del artículo 5 de la Orden ITC/914/2006, de 30 de marzo, actualizados mediante resolución de 7 de marzo de 2011, de la Dirección General de Política Energética y Minas, por la que se publica el valor unitario de garantía de potencia anual GPOTn(i) correspondiente a las instalaciones de generación en régimen ordinario de los sistemas eléctricos insulares y extrapeninsulares para el año 2011.
 
@@ -1635,13 +1756,17 @@ Se habilita al Ministerio de Industria, Energía y Turismo a revisar tanto la ta
 
 Se modifica la Ley 54/1997 de 27 de noviembre, del Sector Eléctrico, en los siguientes términos:
 
-Uno. Se modifica el apartado 4 del artículo 17 que pasa a tener la siguiente redacción:
+Uno. Se modifica el apartado 4 del artículo 17 que.
+
+pasa a tener la siguiente redacción:
 
 «4. En caso de que las actividades o instalaciones destinadas al suministro eléctrico fueran gravadas, directa o indirectamente, con tributos propios de las Comunidades Autónomas o recargos sobre tributos estatales, al peaje de acceso se le incluirá un suplemento territorial que cubrirá la totalidad del sobrecoste provocado por ese tributo o recargo y que deberá ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma.
 
 En el caso de que los tributos impuestos sean de carácter local y no vengan determinados por normativa estatal, al peaje de acceso se le podrá incluir un suplemento territorial que cubra la totalidad del sobrecoste provocado.»
 
-Dos. Se modifica el apartado 5 del artículo 18 en los siguientes términos:
+Dos. Se modifica el apartado 5 del artículo 18 en.
+
+los siguientes términos:
 
 «5. En caso de que las actividades o instalaciones destinadas al suministro eléctrico fueran gravadas, directa o indirectamente, con tributos propios de las Comunidades Autónomas o recargos sobre tributos estatales a la tarifa de último recurso se le incluirá un suplemento territorial que cubrirá la totalidad del sobrecoste provocado por ese tributo o recargo y que deberá ser abonado por los consumidores ubicados en el ámbito territorial de la respectiva Comunidad Autónoma.
 
@@ -1705,7 +1830,7 @@ El artículo 2.2 a) del Real Decreto 437/2010, de 9 de abril, por el que se desa
 
 #### Disposición adicional primera. Medidas en relación con los trabajadores de las empresas de servicios contratadas por la Administración.
 
-Los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto legislativo 3/2011, de 14 de noviembre, dictarán en sus respectivos ámbitos de competencias las instrucciones pertinentes para la correcta ejecución de los servicios externos que hubieran contratado, de manera que quede clarificada la relación entre los gestores de la Administración y el personal de la empresa contratada, evitando, en todo caso, actos que pudieran considerarse como determinantes para el reconocimiento de una relación laboral, sin perjuicio de las facultades que la legislación de contratos del sector público reconoce al órgano de contratación en orden a la ejecución de los contratos. A tal fin lo citados entes, organismos y entidades dictarán antes del 31 de diciembre de 2012 las instrucciones pertinentes para evitar actuaciones que pudieran considerarse como determinantes para el reconocimiento de una relación laboral.
+Los entes, organismos y entidades que forman parte del sector público de acuerdo con el artículo 3.1 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto legislativo 3/2011, de 14 de noviembre, dictarán en sus respectivos ámbitos de competencias las instrucciones pertinentes para la correcta ejecución de los servicios externos que hubieran contratado, de manera que quede clarificada la relación entre los gestores de la Administración y el personal de la empresa contratada, evitando, en todo caso, actos que pudieran considerarse como determinantes para el reconocimiento de una relación laboral, sin perjuicio de las facultades que la legislación de contratos del sector público reconoce al órgano de contratación en orden a la ejecución de los contratos. A tal fin lo citados entes, organismos y entidades dictarán antes del 31 de diciembre de 2012 las instrucciones pertinentes para evitar actuaciones que pudieran considerarse como determinantes para el reconocimiento de una relación laboral.
 
 En el supuesto de que en virtud de sentencia judicial los trabajadores de las empresas se convirtieran en personal laboral de la Administración, el salario a percibir será el que corresponda a su clasificación profesional de acuerdo con el convenio colectivo aplicable al personal laboral de la Administración, siendo necesario informe favorable de los órganos competentes para hacer cumplir las exigencias de las leyes presupuestarias.
 
@@ -1727,7 +1852,7 @@ De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27
 
 #### Disposición adicional quinta. Posibilidad de que los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2 soliciten la reducción, a petición propia, del complemento específico.
 
-1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del [Real Decreto 598/1985](RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md), de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
+1. Los funcionarios de la Administración General del Estado pertenecientes a los Subgrupos A1 y A2, incluidos en el ámbito de aplicación del [Real Decreto 598/1985](RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md), de 30 de abril, podrán solicitar ante las órganos y unidades de personal con competencias en materia de personal de los Departamentos, Organismos Autónomos y Entidades gestoras de la Seguridad Social en los que estén destinados la reducción del importe del complemento específico correspondiente al puesto que desempeñan al objeto de adecuarlo al porcentaje al que se refiere el artículo 16.4 de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas.
 
 2. Se excluye de esta posibilidad a los funcionarios que ocupen puestos en Gabinetes de miembros del Gobierno y altos cargos de la Administración General del Estado, a los que desempeñen puestos que tengan asignado complemento de destino de nivel 30 y 29.
 
@@ -1735,7 +1860,9 @@ De acuerdo con lo previsto en el artículo 1.1 de la Ley Orgánica 2/2012, de 27
 
 1. Las disposiciones de carácter general que, para los miembros de las Fuerzas Armadas y de la Guardia Civil, regulan las materias contenidas en el título I deberán entenderse modificadas en los términos establecidos en esta disposición legal.
 
-2. Los miembros de las Fuerzas Armadas y de la Guardia Civil a los que se refiere el artículo 21 del texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto Legislativo 1/2000, de 9 de junio, que padezcan insuficiencia temporal de condiciones psicofísicas para el servicio, percibirán el cincuenta por ciento de las retribuciones tanto básicas como complementarias, como de la prestación de hijo a cargo, en su caso, desde el primer al tercer día de la insuficiencia, tomando como referencia aquellas que percibían en el mes inmediato anterior al de causarse dicha insuficiencia. Desde el día cuarto al vigésimo día, ambos inclusive, percibirán el setenta y cinco por ciento de las retribuciones tanto básicas como complementarias, como de la prestación de hijo a cargo, en su caso. A partir del día vigésimo primero percibirán la totalidad de las retribuciones básicas, de la prestación por hijo a cargo, en su caso, y de las retribuciones complementarias.
+2. Los miembros de las Fuerzas Armadas y de la Guardia Civil a los que se refiere el artículo 21 l.
+
+texto refundido de la Ley sobre Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto Legislativo 1/2000, de 9 de junio, que padezcan insuficiencia temporal de condiciones psicofísicas para el servicio, percibirán el cincuenta por ciento de las retribuciones tanto básicas como complementarias, como de la prestación de hijo a cargo, en su caso, desde el primer al tercer día de la insuficiencia, tomando como referencia aquellas que percibían en el mes inmediato anterior al de causarse dicha insuficiencia. Desde el día cuarto al vigésimo día, ambos inclusive, percibirán el setenta y cinco por ciento de las retribuciones tanto básicas como complementarias, como de la prestación de hijo a cargo, en su caso. A partir del día vigésimo primero percibirán la totalidad de las retribuciones básicas, de la prestación por hijo a cargo, en su caso, y de las retribuciones complementarias.
 
 Si la insuficiencia se hubiera producido en acto de servicio o como consecuencia de una hospitalización o intervención quirúrgica la retribución a percibir podrá ser complementada, desde el primer día, hasta alcanzar, como máximo el 100% de las retribuciones que vinieran correspondiendo a dicho personal en el mes anterior al de causarse la insuficiencia.
 
@@ -1801,11 +1928,11 @@ En la determinación de estos criterios se tendrá en cuenta el consumo medio de
 
 Se habilita al Ministro de Industria, Energía y Turismo a determinar, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, los concretos tributos y recargos que serán considerados a efectos de la aplicación del suplemento territorial a los peajes de acceso y tarifas de último recurso, de acuerdo con lo establecido en los artículos 17 y 18 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, así como los mecanismos necesarios para su gestión y liquidación
 
-#### Disposición adicional decimosexta. Aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
+Disposición adicional decimosexta.... Aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
 A los efectos de la aplicación de la disposición adicional sexta de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012, la consideración de los porcentajes de cesión a favor de las entidades locales incluidas en el modelo de cesión de impuestos estatales, citados en los apartados Uno y Tres de dicha disposición, a efectos de calcular la liquidación definitiva correspondiente al año 2010, se deberán entender de aplicación exclusiva para determinar la cesión del Impuesto sobre la Renta de las Personas Físicas. Por lo que se refiere a la citada liquidación de la cesión de los impuestos indirectos serán de aplicación los porcentajes de cesión establecidos en los artículos 93, 94, 95, 101, 102 y 103 de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010.»
 
-#### Disposición adicional decimoséptima. Beneficios fiscales aplicables a la «Candidatura de Madrid 2020».
+Disposición adicional decimoséptima.... Beneficios fiscales aplicables a la «Candidatura de Madrid 2020».
 
 Uno. La «Candidatura de Madrid 2020» tendrá la consideración de acontecimiento de excepcional interés público a los efectos de lo dispuesto en el artículo 27 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.
 
@@ -1817,7 +1944,7 @@ Cuatro. Las actuaciones a realizar serán las que aseguren el adecuado desarroll
 
 Cinco. Los beneficios fiscales de este programa serán los máximos establecidos en el artículo 27.3 de la citada Ley 49/2002.
 
-#### Disposición adicional decimoctava. Incapacidad temporal en la Administración del Estado.
+Disposición adicional decimoctava.... Incapacidad temporal en la Administración del Estado.
 
 Al personal funcionario y laboral de la Administración General del Estado y organismos y entidades de ellas dependientes acogidos al Régimen General de la Seguridad Social se le reconocerán los siguientes complementos en los supuestos de incapacidad temporal:
 
@@ -1837,17 +1964,17 @@ Igualmente, lo dispuesto en este Real Decreto-ley no será de aplicación a los 
 
 #### Disposición transitoria segunda.
 
-#### Disposición transitoria tercera.
+#### Disposición transitoria tercera. La derogación del apartado 4 del artículo 214 l.
 
-La derogación del apartado 4 del artículo 214 del texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley será de aplicación a las prestaciones por desempleo cuyo nacimiento del derecho derive de situaciones legales de desempleo producidas a partir de la entrada en vigor de esta norma.
+texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley será de aplicación a las prestaciones por desempleo cuyo nacimiento del derecho derive de situaciones legales de desempleo producidas a partir de la entrada en vigor de esta norma.
 
-#### Disposición transitoria cuarta.
+#### Disposición transitoria cuarta. Sin perjuicio de la derogación del apartado 1.4 del artículo 215 l.
 
-Sin perjuicio de la derogación del apartado 1.4 del artículo 215 del texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley, dicho apartado mantendrá su aplicación para los desempleados mayores de cuarenta y cinco años que hubieran agotado la prestación por desempleo de nivel contributivo de setecientos veinte días antes de la entrada en vigor de este Real Decreto- ley.
+texto refundido de la Ley General de la Seguridad Social prevista en este Real Decreto-ley, dicho apartado mantendrá su aplicación para los desempleados mayores de cuarenta y cinco años que hubieran agotado la prestación por desempleo de nivel contributivo de setecientos veinte días antes de la entrada en vigor de este Real Decreto- ley.
 
-#### Disposición transitoria quinta.
+#### Disposición transitoria quinta. Los trabajadores que, por aplicación del artículo 218 l.
 
-Los trabajadores que, por aplicación del artículo 218 del texto refundido de la Ley General de la Seguridad Social, tuvieran fijada como base de cotización, durante la percepción del subsidio por desempleo, el 125 por cien del tope mínimo de cotización vigente en cada momento, pasaran a tener como base de cotización el 100 por cien de ese tope mínimo a partir del día primero del mes siguiente al de la entrada en vigor de este Real Decreto Ley.
+texto refundido de la Ley General de la Seguridad Social, tuvieran fijada como base de cotización, durante la percepción del subsidio por desempleo, el 125 por cien del tope mínimo de cotización vigente en cada momento, pasaran a tener como base de cotización el 100 por cien de ese tope mínimo a partir del día primero del mes siguiente al de la entrada en vigor de este Real Decreto Ley.
 
 #### Disposición transitoria sexta. Supresión del derecho a la aplicación de bonificaciones.
 
@@ -1933,7 +2060,7 @@ Prestación económica de asistencia personal
 
 Prestación económica por cuidados en el entorno familiar
 
-Grado III
+Grado III
 
 715,07 €
 
@@ -2033,17 +2160,21 @@ Continuarán vigentes, hasta el 31 de diciembre de 2012, los calendarios de domi
 
 Asimismo, los calendarios que regulen el periodo estival de rebajas de 2012 mantendrán su vigencia durante el periodo en ellos establecido.
 
-#### Disposición transitoria decimoquinta.
+#### Disposición transitoria decimoquinta. Las previsiones contenidas en el artículo 10 relativas.
 
-Las previsiones contenidas en el artículo 10 relativas a las prestaciones económicas en la situación de incapacidad temporal del personal al servicio de las Administraciones Púbicas acogido al Régimen General de la Seguridad Social serán desarrolladas por cada Administración Pública en el plazo de tres meses desde la publicación de este Real Decreto-ley, plazo a partir del cual surtirá efectos en todo caso.
+a las prestaciones económicas en la situación de incapacidad temporal del personal al servicio de las Administraciones Púbicas acogido al Régimen General de la Seguridad Social serán desarrolladas por cada Administración Pública en el plazo de tres meses desde la publicación de este Real Decreto-ley, plazo a partir del cual surtirá efectos en todo caso.
 
 #### Disposición derogatoria única. Derogación normativa.
 
 1. Quedan derogadas las siguientes disposiciones legales y reglamentarias:
 
-a) El apartado 2 del artículo 2 del Real Decreto 1202/2010, de 24 de septiembre, por el que se establecen los plazos de revisión de los peajes de acceso a las redes de transporte y distribución de energía eléctrica,.
+a) El apartado 2 del artículo 2 l.
 
-b) Se deroga el artículo 8 del Real Decreto-ley 6/1999, de 16 de abril, de Medidas Urgentes de Liberalización e Incremento de la Competencia, y su normativa de desarrollo,
+Real Decreto 1202/2010, de 24 de septiembre, por el que se establecen los plazos de revisión de los peajes de acceso a las redes de transporte y distribución de energía eléctrica,.
+
+b) Se deroga el artículo 8 l.
+
+Real Decreto-ley 6/1999, de 16 de abril, de Medidas Urgentes de Liberalización e Incremento de la Competencia, y su normativa de desarrollo,
 
 2. Se derogan las siguientes disposiciones en materia de empleo y Seguridad social:
 
@@ -2063,9 +2194,13 @@ g) Las referencias a las bonificaciones contempladas en el Real Decreto 1432/200
 
 3. Quedan derogadas expresamente las siguientes disposiciones:
 
-a) El apartado 1.4 del artículo 215 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de Junio, así como las restantes disposiciones de esa Ley que se refieran al subsidio especial establecido en dicho apartado.
+a) El apartado 1.4 del artículo 215 l.
 
-b) El apartado 4 del artículo 214 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de Junio.
+texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de Junio, así como las restantes disposiciones de esa Ley que se refieran al subsidio especial establecido en dicho apartado.
+
+b) El apartado 4 del artículo 214 l.
+
+texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de Junio.
 
 4. Igualmente, quedan derogados.
 
@@ -2073,7 +2208,9 @@ a) El apartado 2 del artículo 68 de la Ley de Funcionarios Civiles del Estado d
 
 b) Los apartados 1 y 2 del artículo 7 de la Ley 9/1987, de 12 de junio, de regulación de los órganos de representación, de determinación de las condiciones de trabajo y participación de los funcionarios públicos.
 
-c) La letra d del apartado 1 del artículo 67, el segundo párrafo del apartado 2 del artículo 67 y el apartado 4 del artículo 67 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+c) La letra d del apartado 1 del artículo 67, el segundo párrafo del apartado 2 del artículo 67 y el.
+
+apartado 4 del artículo 67 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 d) La Disposición Adicional Sexta de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para 2010.
 
@@ -2165,9 +2302,9 @@ Uno. Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
-a) Ciclos formativos de grado superior: entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
 
-b) Bachillerato: entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
 
 La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
 
@@ -2391,9 +2528,7 @@ Primer curso.
 
 46.932,61
 
-Segundo curso.
-
-0,00
+#### Segundo. curso.
 
 Grupo 2. Ciclos formativos de grado medio de 2.000 horas.
 
@@ -2403,7 +2538,7 @@ Primer curso.
 
 46.932,61
 
-Segundo curso.
+#### Segundo. curso.
 
 46.932,61
 
@@ -2415,9 +2550,7 @@ Primer curso.
 
 43.322,41
 
-Segundo curso.
-
-0,00
+#### Segundo. curso.
 
 Grupo 4. Ciclos formativos de grado superior de 2.000 horas.
 
@@ -2427,7 +2560,7 @@ Primer curso.
 
 43.322,41
 
-Segundo curso.
+#### Segundo. curso.
 
 43.322,41
 
@@ -2443,9 +2576,7 @@ Primer curso.
 
 6.337,68
 
-Segundo curso.
-
-0,00
+#### Segundo. curso.
 
 Grupo 2. Ciclos formativos de grado medio de 2.000 horas.
 
@@ -2455,7 +2586,7 @@ Primer curso.
 
 6.337,68
 
-Segundo curso.
+#### Segundo. curso.
 
 6.337,68
 
@@ -2467,9 +2598,7 @@ Primer curso.
 
 6.296,66
 
-Segundo curso.
-
-0,00
+#### Segundo. curso.
 
 Grupo 4. Ciclos formativos de grado superior de 2.000 horas.
 
@@ -2479,7 +2608,7 @@ Primer curso.
 
 6.296,66
 
-Segundo curso.
+#### Segundo. curso.
 
 6.296,66
 
@@ -2515,7 +2644,7 @@ Primer curso.
 
 10.026,10
 
-Segundo curso.
+#### Segundo. curso.
 
 2.344,87
 
@@ -3539,7 +3668,7 @@ IMPORTE TOTAL ANUAL.
 
 64.291,43
 
-La cuantía del componente del módulo de “Otros gastos” para las unidades concertadas en las enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Programas de Cualificación Profesional Inicial será incrementada en 1.181,09 euros en los centros ubicados en Ceuta y Melilla, en razón del mayor coste originado por el plus de residencia del Personal de Administración y Servicios.
+La cuantía del componente del módulo de "Otros gastos" para las unidades concertadas en las enseñanzas de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Programas de Cualificación Profesional Inicial será incrementada en 1.181,09 euros en los centros ubicados en Ceuta y Melilla, en razón del mayor coste originado por el plus de residencia del Personal de Administración y Servicios.
 
 Al personal docente de los Centros concertados ubicados en Ceuta y Melilla, se le abonará la cantidad correspondiente al plus de residencia establecido en el correspondiente Convenio Colectivo, si bien la Administración Educativa no asumirá incrementos superiores al porcentaje de incremento global fijado en la presente Ley de Presupuestos Generales del Estado.
 
@@ -3553,9 +3682,9 @@ Se modifica el apartado seis del artículo 17 de la [Ley 2/2012](./L2_2012_presu
 
 «Seis. Las cantidades máximas a percibir de los alumnos en concepto de financiación complementaria a la proveniente de los fondos públicos que se asignen al régimen de conciertos singulares, suscritos para enseñanzas de niveles no obligatorios, y en concepto exclusivo de enseñanza reglada, son las que se establecen a continuación:
 
-a) Ciclos formativos de grado superior: entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+a) **Ciclos formativos de grado superior.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
 
-b) Bachillerato: entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
+b) **Bachillerato.** Entre 18 y 36 euros alumno/mes durante diez meses, en el período comprendido entre el 1 de enero y el 31 de diciembre de 2012.
 
 La financiación obtenida por los centros, consecuencia del cobro a los alumnos de estas cantidades, tendrá el carácter de complementaria a la abonada directamente por la Administración para la financiación de los «otros gastos».
 
@@ -3585,13 +3714,17 @@ En ningún caso los funcionarios incluidos en los Regímenes Especiales de segur
 
 2. Lo dispuesto en los artículos 215.1.3, 215.3.2, 216.3 y 217.1 del texto refundido de la Ley General de la Seguridad Social se aplicará a las solicitudes de nacimiento del derecho al subsidio por desempleo que se presenten a partir de la entrada en vigor de este Real Decreto-ley.
 
-3. Lo dispuesto en el artículo 218 del texto refundido de la Ley General de la seguridad social se aplicará desde el día primero del mes siguiente a la entrada en vigor de este Real Decreto-ley.
+3. Lo dispuesto en el artículo 218 l.
+
+texto refundido de la Ley General de la seguridad social se aplicará desde el día primero del mes siguiente a la entrada en vigor de este Real Decreto-ley.
 
 #### Disposición final decimocuarta. Reforma de los salarios de tramitación.
 
 Uno. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo.
 
-Se modifica el apartado 1 del artículo 57 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 1 de marzo, que queda redactado de la siguiente forma:
+Se modifica el apartado 1 del artículo 57 l.
+
+texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 1 de marzo, que queda redactado de la siguiente forma:
 
 «1. Cuando la sentencia que declare la improcedencia del despido se dicte transcurridos más de noventa días hábiles desde la fecha en que se presentó la demanda, el empresario podrá reclamar del Estado el abono de la percepción económica a la que se refiere el apartado 2 del artículo 56 de esta Ley, correspondiente al tiempo que exceda de dichos noventa días hábiles.»
 
@@ -3611,7 +3744,7 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
-ANEXO
+## Anexo
 
 Determinación de los municipios de más de 200.000 habitantes, que en 2011 registraron una elevada ocupación hotelera superior a un millón de personas o un número de pasajeros de cruceros turísticos superior a cuatrocientos mil, a los efectos de declaración de zonas de gran afluencia turística en el año 2012
 
@@ -3747,11 +3880,10 @@ Fuentes:
 
 *** Ministerio de Fomento, Puertos del Estado 2011.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
 - **Fundamentado en**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
 - **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
@@ -3762,6 +3894,7 @@ Fuentes:
 - **Fundamento de**: [**L4_2023 Ley del Gobierno de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md)
 
 ### Fundamentos de Derecho
+
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)

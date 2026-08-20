@@ -1,13 +1,10 @@
 ---
 id: norm-and-d-19-2007
 codigo_sintetizado: D19_2007 Derechos Deberes Alumnado Convivencia Andalucia
-titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción
-  de la convivencia en los centros docentes sostenidos con fondos públicos y se regula
-  el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
+titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 19/2007
 fecha_disposicion: '2007-01-23'
@@ -21,37 +18,30 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Convivencia escolar
 tags:
-- convivencia_escolar
-- derechos_deberes
-- aula_de_convivencia
-- comision_convivencia
-- andalucia
+  - convivencia_escolar
+  - derechos_deberes
+  - aula_de_convivencia
+  - comision_convivencia
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-8-2021
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-es-lo-1-1996
 ---
+# Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
 
 ## Preámbulo
 
-# Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
-
 Orden de 15 de enero de 2007, por la que se convocan los Premios Sociedad de la Información Andaluza en su segunda edición y se publican las bases que regirán los mismos.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -89,17 +79,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2007
 Boletín 25
 
 ##
 
-Histórico del BOJA
-Boletín número
-25
-de
-02/02/2007
+Histórico del BOJA Boletín número 25 de 02/02/2007
 
 ## 1. Disposiciones generales
 
@@ -107,17 +91,10 @@ de
 
 ### Orden de 15 de enero de 2007, por la que se convocan los Premios Sociedad de la Información Andaluza en su segunda edición y se publican las bases que regirán los mismos.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 La información se ha convertido en el eje promotor de cambios sociales, económicos y culturales. El auge de las telecomunicaciones ha producido una transformación de las tecnologías de la información y de la comunicación (TIC), cuyo impacto ha afectado a todos los sectores de la economía y de la sociedad.
 
@@ -127,11 +104,7 @@ Esta segunda convocatoria, como la anterior, de los Premios Sociedad de la Infor
 
 En su virtud, en uso de las facultades conferidas por el artículo 46.4 de la ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y a propuesta de la Secretaría General de Telecomunicaciones y Sociedad de la Información,
 
-DISPONGO
-
-Artículo 1. Objeto.
-
-El objeto de la presente Orden es regular la convocatoria de los "II Premios Sociedad de la Información Andaluza" que tendrá las siguientes modalidades:
+DISPONGO artículo 1 Objeto. El objeto de la presente Orden es regular la convocatoria de los "II Premios Sociedad de la Información Andaluza" que tendrá las siguientes modalidades:
 
 1.1. Empresa TIC del año. Destinado al reconocimiento de la trayectoria empresarial de la compañía andaluza que más haya destacado en el sector TIC.
 
@@ -153,11 +126,11 @@ El objeto de la presente Orden es regular la convocatoria de los "II Premios Soc
 
 1.10. Mejor proyecto de divulgación y difusión de las TIC. Destinado a reconocer la mejor iniciativa de comunicación y promoción de la Sociedad de la Información dirigida a la ciudadanía andaluza, que haya contribuido a difundir el uso y aprovechamiento de las TIC.
 
-Artículo 2. Candidaturas.
+#### Artículo 2. Candidaturas.
 
 Podrán optar a estos premios, en sus diferentes modalidades, todas las empresas, centros investigación y desarrollo, organizaciones empresariales, instituciones, agrupaciones ciudadanas y grupos de investigación tanto públicos como privados. Para ello, es necesario que la empresa, institución u organización solicitante tenga sus instalaciones y desarrolle sus actividades en la Comunidad Autónoma Andaluza.
 
-Artículo 3. Premios.
+#### Artículo 3. Premios.
 
 3.1. Los Premios Sociedad de la Información Andaluza no van acompañados de dotación económica alguna.
 
@@ -167,7 +140,7 @@ Artículo 3. Premios.
 
 3.4. La Consejería de Innovación, Ciencia y Empresa, a través de la Secretaría General de Telecomunicaciones y Sociedad de la Información, difundirá públicamente y de forma oficial el nombre de los premiados en cada categoría, por lo que éstas no podrán hacer pública, hasta dicha fecha, la concesión del premio.
 
-Artículo 4. Lugar y plazo de presentación de solicitudes.
+#### Artículo 4. Lugar y plazo de presentación de solicitudes.
 
 4.1. Las solicitudes deberán cumplimentarse en el formulario que figura como Anexo I de la presente Orden y que estará disponible en la dirección de Internet: www.juntadeandalucia.es/innovacioncienciayempresa/premiosSI.
 
@@ -177,7 +150,7 @@ Artículo 4. Lugar y plazo de presentación de solicitudes.
 
 4.4. El plazo de presentación de candidaturas se abrirá al día siguiente de publicación de la presente Orden en el BOJA y permanecerá abierto hasta el 30 de abril del 2007.
 
-Artículo 5. Documentación.
+#### Artículo 5. Documentación.
 
 Las inscripciones de participación en la convocatoria irán acompañadas de la siguiente documentación en español:
 
@@ -187,7 +160,7 @@ b) Propuesta de candidatura, con expresión concisa del proyecto y de los argume
 
 c) Memoria de la empresa.
 
-Artículo 6. Valoración de candidaturas.
+#### Artículo 6. Valoración de candidaturas.
 
 6.1. La valoración de las candidaturas presentadas a cada premio se llevará a cabo por un Jurado designado por el titular de la Consejería de Innovación, Ciencia y Empresa compuesto por:
 
@@ -219,11 +192,11 @@ Artículo 6. Valoración de candidaturas.
 
 6.4. Los premiados se darán a conocer en el mes de mayo de 2007, mediante Resolución dictada por la titular de la Secretaría General de Telecomunicaciones y Sociedad de la Información.
 
-Disposición Final Primera. Habilitación para el desarrollo normativo.
+#### Disposición final primera. Habilitación para el desarrollo normativo.
 
 Se autoriza a la titular de la Secretaría General de Telecomunicaciones y Sociedad de la Información para realizar cuantas actuaciones sean necesarias en aplicación e interpretación de la presente Orden.
 
-Disposición Final Segunda. Entrada en vigor.
+#### Disposición final segunda. Entrada en vigor.
 
 La presente Orden entrará en vigor el día de su publicación en el
 
@@ -234,19 +207,11 @@ FRANCISCO VALLEJO SERRANO
 Consejero de Innovación, Ciencia y Empresa
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-25
-de
-02/02/2007
+25 de 02/02/2007
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -254,15 +219,11 @@ de
 
 4. Administración de justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2007/25/boletin.25.pdf">Descargar boletín nº
-25 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2007/25/boletin.25.pdf">Descargar boletín nº 25 completo
 
 ## Temas
 
@@ -277,3 +238,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

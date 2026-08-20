@@ -4,8 +4,7 @@ codigo_sintetizado: BOE-A-1984-17387
 titulo: Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1984-08-03'
 boletin: BOE
@@ -16,44 +15,41 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- curriculo
-- ebep
-- empleados-p-blicos
-- ensenanzas-artisticas
+  - curriculo
+  - ebep
+  - empleados-p-blicos
+  - ensenanzas-artisticas
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-1985-5392
-  - norma_id: norm-es-1985-7820
-  - norma_id: norm-es-1986-1216
-  - norma_id: norm-es-1995-8730
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2009-20550
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2015-9453
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1364-2010
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-res-boc-1996-057-140
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
+    - norma_id: norm-es-1985-5392
+    - norma_id: norm-es-1985-7820
+    - norma_id: norm-es-1986-1216
+    - norma_id: norm-es-1995-8730
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-2009-20550
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2015-9453
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1364-2010
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-res-boc-1996-057-140
+    - norma_id: norm-can-l-2-1987
+    - norma_id: norm-can-res-juriscan-49002-54
+    - norma_id: norm-can-d-109-1999
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 ---
+# Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 ## Preámbulo
-
-# Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
-
-# Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**
 
@@ -109,9 +105,7 @@ Artículos: 3.º, 2, e) y f); 6.º; 7.º; 8.º; 11; 12; 13, 2, 3 y 4; 14, 4 y 5;
 
 Todo el personal al servicio de la Administración del Estado a que se refiere el artículo anterior, sus Cuerpos, Escalas, Categorías y Clases, tendrá dependencia orgánica del Ministerio de la Presidencia, sin perjuicio de la que funcionalmente tenga con cada Departamento.
 
-CAPÍTULO I
-
-Órganos superiores de la Función Pública
+## Capítulo I. Órganos superiores de la Función Pública.
 
 #### Artículo tres. El Gobierno.
 
@@ -239,9 +233,7 @@ La Comisión Superior de Personal se configura como un Organo colegiado de coord
 
 Corresponde a los Delegados del Gobierno en relación al personal que haya sido destinado a los servicios periféricos de ámbito regional, y a los Gobernadores civiles en relación con el personal destinado a los servicios periféricos provinciales, el ejercicio de las competencias que la legislación vigente atribuye a los Subsecretarios y a los Directores generales en relación al personal de los servicios periféricos de la Administración del Estado, sus Organismos Autónomos y de la Seguridad Social, sin perjuicio de la superior dirección que corresponde a los Departamentos ministeriales.
 
-CAPÍTULO II
-
-Ordenación de la Función Pública de las Comunidades Autónomas y regulación de la situación de los funcionarios transferidos
+## Capítulo II. Ordenación de la Función Pública de las Comunidades Autónomas y regulación de la situación de los funcionarios transferidos.
 
 #### Artículo once. Ordenación de la Función Pública de las Comunidades Autónomas.
 
@@ -259,9 +251,7 @@ Se garantiza la igualdad entre todos los funcionarios propios de las Comunidades
 
 En sus Cuerpos o Escalas de origen, permanecen en una situación administrativa especial de servicios en Comunidades Autónomas, que les permite mantener respecto de ellos todos sus derechos como si se hallaran en servicio activo, de acuerdo con lo establecido en los respectivos Estatutos de Autonomía.
 
-CAPÍTULO III
-
-Registros de personal, programación y oferta de empleo público
+## Capítulo III. Registros de personal, programación y oferta de empleo público.
 
 #### Artículo trece. Los Registros administrativos de personal.
 
@@ -325,9 +315,7 @@ Los Tribunales o las Comisiones de Selección no podrán aprobar ni declarar que
 
 Las demás Administraciones Públicas elaborarán y propondrán públicamente sus ofertas de empleo ajustándose a los criterios anteriormente expuestos.
 
-CAPÍTULO IV
-
-Normas para objetivar la selección del personal, la provisión de puestos de trabajo y la promoción profesional de los funcionarios
+## Capítulo IV. Normas para objetivar la selección del personal, la provisión de puestos de trabajo y la promoción profesional de los funcionarios.
 
 #### Artículo diecinueve. Selección del personal.
 
@@ -345,11 +333,11 @@ En las convocatorias para acceso a la función pública, las Administraciones P�
 
 1. Los puestos de trabajo adscritos a funcionarios se proveerán de acuerdo con los siguientes procedimientos:
 
-a) Concurso: Constituye el sistema normal de provisión, y en él se tendrán únicamente en cuenta únicamente los méritos exigidos en la correspondiente convocatoria.
+a) **Concurso.** Constituye el sistema normal de provisión, y en él se tendrán únicamente en cuenta únicamente los méritos exigidos en la correspondiente convocatoria.
 
 Se considerarán méritos preferentes conforme reglamentariamente se determine la valoración del trabajo desarrollado en los anteriores puestos ocupados, los cursos de promoción y perfeccionamiento superados en las Escuelas de Administración Pública, las titulaciones académicas, en su caso, y la antigüedad.
 
-b) Libre designación con convocatoria pública: Se cubrirán por este sistema los puestos que se determinen en la relación de puestos de trabajo. Para su provisión deberán anunciarse en los «Boletines» y «Diarios Oficiales» por la autoridad competente para efectuar los nombramientos. La convocatoria indicará la denominación, nivel y localización del puesto, así como los requisitos mínimos exigidos a los funcionarios que aspiren a desempeñarlos, y concederá un plazo no inferior a quince días para la presentación de solicitudes.
+b) **Libre designación con convocatoria pública.** Se cubrirán por este sistema los puestos que se determinen en la relación de puestos de trabajo. Para su provisión deberán anunciarse en los «Boletines» y «Diarios Oficiales» por la autoridad competente para efectuar los nombramientos. La convocatoria indicará la denominación, nivel y localización del puesto, así como los requisitos mínimos exigidos a los funcionarios que aspiren a desempeñarlos, y concederá un plazo no inferior a quince días para la presentación de solicitudes.
 
 Dichas solicitudes se elevarán a la autoridad competente, que, previo informe del Jefe de la dependencia, procederá al nombramiento en el plazo máximo de un mes y lo comunicará al correspondiente Registro de Personal.
 
@@ -393,9 +381,7 @@ d) El Gobierno o los órganos de gobierno de las Comunidades Autónomas, previo 
 
 3. A propuesta del Ministro de la Presidencia, el Gobierno establecerá los requisitos y condiciones para el acceso de los funcionarios españoles de los organismos internacionales a los Cuerpos y Escalas correspondientes de la Administración del Estado.
 
-CAPÍTULO V
-
-Bases del régimen de retribuciones
+## Capítulo V. Bases del régimen de retribuciones.
 
 #### Artículo veintitrés. Conceptos retributivos.
 
@@ -431,9 +417,7 @@ d) Las gratificaciones por servicios extraordinarios, fuera de la jornada normal
 
 2. La cuantía de las retribuciones básicas, de los complementos de destino asignados a cada puesto de trabajo y de los complementos específicos y de productividad, en su caso, deberá reflejarse para cada ejercicio presupuestario en la correspondiente Ley de Presupuestos Generales del Estado y figurar en los Presupuestos de las demás Administraciones Públicas.
 
-CAPÍTULO VI
-
-Racionalización de la estructura de los Cuerpos y Escalas y otras clasificaciones del personal al servicio de las Administraciones Públicas
+## Capítulo VI. Racionalización de la estructura de los Cuerpos y Escalas y otras clasificaciones del personal al servicio de las Administraciones Públicas.
 
 #### Artículo veinticinco. Grupos de clasificación.
 
@@ -475,9 +459,7 @@ Los funcionarios de los Cuerpos o Escalas declarados a extinguir, desempeñarán
 
 El Gobierno procederá también a racionalizar las plantillas de personal laboral, a través de los instrumentos establecidos en el artículo anterior, o de los que resulten precisos, de acuerdo con su naturaleza jurídica, y, coherentemente, con el proceso de racionalización de los Cuerpos y Escalas de funcionarios.
 
-CAPÍTULO VII
-
-Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios
+## Capítulo VII. Modificación en las situaciones, régimen disciplinario y de Seguridad Social de los funcionarios.
 
 #### Artículo veintinueve. Situaciones de los funcionarios.
 
@@ -603,13 +585,13 @@ Los funcionarios que, habiendo perdido la nacionalidad española, la recobrasen,
 
 La jubilación forzosa se declarará de oficio al cumplir el funcionario los sesenta y cinco años de edad.
 
-#### DISPOSICIÓN ADICIONAL PRIMERA
+#### Disposición adicional primera.
 
 1. Se declaran a extinguir todas las plazas no escalafonadas de funcionarios. El Gobierno, mediante Real Decreto, procederá a su reordenación, agrupación y clasificación integrándolas, en su caso, en los Cuerpos y Escalas que tengan asignados igual titulación académica y funciones y retribuciones similares.
 
 2. El personal al servicio de la Administración del Estado que perciba el total de sus retribuciones con cargo a los créditos de personal vario sin clasificar de los Presupuestos Generales del Estado deberá ser clasificado por el Gobierno, mediante Real Decreto, determinando, en su caso, su integración, de acuerdo con la naturaleza de sus funciones y titulación académica exigida, en Cuerpos o Escalas de funcionarios o plantillas de personal laboral.
 
-#### DISPOSICIÓN ADICIONAL SEGUNDA
+#### Disposición adicional segunda.
 
 Se crea, con el carácter de Cuerpo general e interministerial, el Cuerpo de Gestión de la Administración Civil del Estado. Su plantilla presupuestaria estará inicialmente constituida por 3.000 plazas.
 
@@ -619,7 +601,7 @@ Para el ingreso al Cuerpo se exigirá estar en posesión del título de Diplomad
 
 Sin perjuicio de lo establecido en la presente Ley, podrán integrarse en el Cuerpo de Gestión quienes, a la entrada en vigor de la misma, sean funcionarios de carrera del Cuerpo General Administrativo o de aquellos otros Cuerpos o Escalas que reglamentariamente se determinen, y se encuentren en posesión de la titulación exigida y superen las pruebas selectivas correspondientes. Se cubrirán por este sistema como mínimo el 50 por 100 de las plazas de nueva creación.
 
-#### DISPOSICIÓN ADICIONAL TERCERA
+#### Disposición adicional tercera.
 
 1. Se autoriza al Gobierno para que, de acuerdo con la naturaleza pública de la MUFACE, proceda a la constitución o reestructuración de sus órganos de Gobierno, administración y representación en forma análoga a las Entidades Gestoras de la Seguridad Social, determinando su composición, funcionamiento y atribuciones.
 
@@ -627,17 +609,17 @@ Sin perjuicio de lo establecido en la presente Ley, podrán integrarse en el Cue
 
 3. Los funcionarios transferidos a las Comunidades Autónomas continuarán con el sistema de Seguridad Social o de previsión que tuvieran originariamente, asumiendo las Comunidades Autónomas todas las obligaciones del Estado o de la Corporación Local correspondiente en relación con los mismos.
 
-#### DISPOSICIÓN ADICIONAL CUARTA
+#### Disposición adicional cuarta.
 
 1. A partir de la fecha de entrada en vigor de la presente Ley no podrán celebrarse por las Administraciones Públicas contratos de colaboración temporal en régimen de derecho administrativo.
 
 2. Los contratos a celebrar excepcionalmente por las Administraciones Públicas con personal para la realización de trabajos específicos y concretos no habituales se someterán a la legislación de contratos del Estado, sin perjuicio, en su caso, de la aplicación de la normativa civil o mercantil.
 
-#### DISPOSICIÓN ADICIONAL QUINTA
+#### Disposición adicional quinta.
 
 El Gobierno determinará mediante Real Decreto el cómputo recíproco de cotizaciones entre el Régimen de Seguridad Social de los funcionarios públicos y los distintos Regímenes del Sistema de la Seguridad Social.
 
-#### DISPOSICIÓN ADICIONAL SEXTA
+#### Disposición adicional sexta.
 
 1. Con arreglo a lo dispuesto en la Ley 10/1983, de 16 de agosto, de organización de la Administración Central del Estado, las funciones de inspección que corresponden a la Presidencia del Gobierno sobre todos los servicios de la Administración del Estado, Entes, Organismos y Empresas de ellos dependientes, serán ejercidas por el Ministerio de la Presidencia.
 
@@ -647,19 +629,17 @@ Asimismo, el Gobierno mediante Real Decreto, determinará y regulará las funcio
 
 Igualmente, el Gobierno establecerá el régimen jurídico de tales inspecciones.
 
-#### DISPOSICIÓN ADICIONAL SÉPTIMA
+#### Disposición adicional séptima.
 
 Sin perjuicio de lo dispuesto en el artículo 33, el Gobierno regulará la figura del Profesor universitario emérito.
 
-#### DISPOSICIÓN ADICIONAL OCTAVA
+#### Disposición adicional octava.
 
 1. Los Cuerpos y Escalas declarados a extinguir que actualmente tengan asignados los índices de proporcionalidad 10, 8, 6, 4 y 3, pasarán a integrarse respectivamente, a partir de la vigencia de esta Ley, en los grupos A, B, C, D y E establecidos en el artículo 25.
 
 2. Para el ingreso en los Cuerpos y Escalas de nueva creación se exigirá la titulación académica necesaria para el ingreso en los Cuerpos y Escalas que se integran en ellos. En el caso de que se integren Cuerpos o Escalas con distinto nivel de titulación a efectos de nuevos ingresos, el exigido será el correspondiente al cuerpo o escala de los integrados para el que se requiera mayor nivel de titulación.
 
-#### DISPOSICIÓN ADICIONAL NOVENA
-
-Uno.–Se crean en la Administración del Estado los siguientes Cuerpos de funcionarios:
+#### Disposición adicional novena. Uno.–Se crean en la Administración del Estado los siguientes Cuerpos de funcionarios:.
 
 1. Cuerpo Superior de Administradores Civiles del Estado, en el que se integran los funcionarios pertenecientes a los Cuerpos Técnico de Información y Turismo y Técnico de la Administración Civil del Estado.
 
@@ -2485,27 +2465,27 @@ Cuatro. Se declaran a extinguir los siguientes Cuerpos de funcionarios de la Adm
 
 5. Ayudantes de Cinematografía.
 
-#### DISPOSICIÓN ADICIONAL DÉCIMA
+#### Disposición adicional décima.
 
 La integración del personal funcionario de las Universidades en las Escalas de carácter interdepartamental, Técnica de Gestión, Administrativa, Auxiliar y Subalterna de los Organismos Autónomos respetará, en todo caso, lo establecido en el artículo 49 de la Ley Orgánica 11/1983, de 25 agosto, de Reforma Universitaria.
 
-#### DISPOSICIÓN ADICIONAL DECIMOPRIMERA
+#### Disposición adicional decimoprimera....
 
 Las distintas Administraciones Públicas fomentarán la creación y desarrollo de servicios destinados al cuidado de los niños con el fin de facilitar el mejor desempeño de la función pública.
 
-#### DISPOSICIÓN ADICIONAL DECIMOSEGUNDA
+#### Disposición adicional decimosegunda....
 
 Los funcionarios que ejerciten el derecho de huelga no devengarán ni percibirán las retribuciones correspondientes al tiempo en que hayan permanecido en esa situación sin que la deducción de haberes que se efectúe tenga, en ningún caso, carácter de sanción disciplinaria ni afecte al régimen respectivo de sus prestaciones sociales.
 
-#### DISPOSICIÓN ADICIONAL DECIMOTERCERA
+#### Disposición adicional decimotercera.
 
 Los funcionarios que en virtud de lo dispuesto en las disposiciones adicionales de esta Ley se integren en otros Cuerpos o Escalas conservarán el régimen de Seguridad Social que tuvieran a la entrada en vigor de la misma.
 
-#### DISPOSICIÓN ADICIONAL DECIMOCUARTA
+#### Disposición adicional decimocuarta.
 
 La presente Ley se aplicará a la Comunidad Foral de Navarra, en los términos establecidos en el artículo 149, 1, 18, y disposición adicional primera de la Constitución y en la Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra.
 
-#### DISPOSICIÓN ADICIONAL DECIMOQUINTA
+#### Disposición adicional decimoquinta.
 
 1. Los actuales Cuerpos y Escalas de funcionarios docentes dependientes del Ministerio de Educación y Ciencia se ordenarán en los siguientes Cuerpos y Escalas:
 
@@ -2653,7 +2633,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 9. En el marco de las competencias en materia educativa atribuidas por sus respectivos Estatutos de Autonomía, las Comunidades Autónomas ordenarán su función pública docente de conformidad con lo establecido en esta disposición adicional.
 
-#### DISPOSICIÓN ADICIONAL DECIMOSEXTA
+#### Disposición adicional decimosexta....
 
 1. A los efectos de esta Ley, se entiende por personal funcionario de la Administración de la Seguridad Social el comprendido en los Estatutos de Personal de los extinguidos Instituto Nacional de Previsión, Mutualismo Laboral, Servicio de Asistencia a Pensionistas, Servicio de Reaseguro de Accidentes de Trabajo, Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos, Instituto de Estudios de Sanidad y Seguridad Social e Instituto Social de la Marina, así como a los integrantes del Cuerpo de Intervención y Contabilidad y de las Escalas de Médicos Inspectores y de Farmacéuticos Inspectores del Cuerpo Sanitario, con excepción de los Cuerpos y Escalas sanitarios y de Asesores Médicos que se regulan en los citados Estatutos.
 
@@ -2749,7 +2729,9 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Cuerpo de Servicios Especiales. Escala de Oficios del extinguido Mutualismo Laboral.
 
-– Los funcionarios del Cuerpo Subalterno del Instituto Social de la Marina que, de conformidad con lo establecido en el artículo 12 del Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
+– Los funcionarios del Cuerpo Subalterno del Instituto Social de la Marina que, de conformidad con lo establecido en el artículo 12 l.
+
+Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
 2.6 Cuerpo de Letrados de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado en Derecho, pertenezcan a algunos de los Cuerpos o Escalas siguientes:
 
@@ -2789,11 +2771,11 @@ La asimilación y homologación del personal funcionario de la Administración d
 
 5. Deberán ser informadas por la Comisión Superior de Personal las disposiciones que se dicten en materia de personal funcionario de la Administración de la Seguridad Social.
 
-#### DISPOSICIÓN TRANSITORIA PRIMERA
+#### Disposición transitoria primera.
 
 En tanto se regulan por el Gobierno los órganos de gobierno y participación de la MUFACE, se mantendrán con su actual composición y atribuciones el Consejo Rector, que asumirá las funciones de la Asamblea General, la Junta de Gobierno y la Gerencia.
 
-#### DISPOSICIÓN TRANSITORIA SEGUNDA
+#### Disposición transitoria segunda.
 
 1. Los funcionarios afectados por el régimen de situaciones administrativas previsto en la presente Ley, deberán solicitar en el plazo de seis meses su regularización.
 
@@ -2803,21 +2785,21 @@ Los plazos previstos en el artículo 29.3 comenzarán a computarse a partir de l
 
 Cuando deban pasar a la situación de servicio activo y no existan vacantes en el Cuerpo o Escala de procedencia, podrán optar por pasar a la de excedencia voluntaria o permanecer en la de supernumerario hasta que se produzca vacante.
 
-#### DISPOSICIÓN TRANSITORIA TERCERA
+#### Disposición transitoria tercera.
 
 Los Cuerpos, Escalas, Categorías, Clases o situaciones pertenecientes o integradas en las Entidades a que hace referencia el número 1 de la disposición adicional decimosexta, declarados a extinguir con anterioridad a la entrada en vigor de la presente Ley, permanecerán en dicha situación de «a extinguir» a su entrada en vigor.
 
-#### DISPOSICIÓN TRANSITORIA CUARTA
+#### Disposición transitoria cuarta.
 
 1. El personal de la Seguridad Social regulado en el Estatuto Jurídico del Personal Médico de la Seguridad Social, en el Estatuto del Personal Auxiliar Sanitario Titulado y Auxiliar de Clínica de la Seguridad Social, en el Estatuto del Personal no Sanitario al servicio de las Instituciones Sanitarias de la Seguridad Social, así como el de los Cuerpos y Escalas Sanitarios y de Asesores Médicos a que se refiere la disposición adicional decimosexta se regirán de acuerdo con lo dispuesto en el artículo 1.º, 2, de esta Ley, por la legislación que al respecto se dicte.
 
 2. El personal a que se refiere está disposición transitoria, podrá ocupar los puestos de trabajo del ámbito sanitario de acuerdo con lo que determinen las respectivas relaciones de puestos de trabajo.
 
-#### DISPOSICIÓN TRANSITORIA QUINTA
+#### Disposición transitoria quinta.
 
 A efectos de lo dispuesto en esta Ley, se considerará equivalente al título de Diplomado universitario el haber superado tres cursos completos de licenciatura.
 
-#### DISPOSICIÓN TRANSITORIA SEXTA
+#### Disposición transitoria sexta.
 
 1. En el plazo de seis meses, a partir de la fecha de entrada en vigor de la presente Ley, el Gobierno procederá a realizar la clasificación de las funciones desempeñadas hasta ese momento por el personal contratado administrativamente por la Administración del Estado.
 
@@ -2835,13 +2817,13 @@ En todo caso, estas convocatorias de acceso, deberán respetar los criterios de 
 
 5. Excepcionalmente, y hasta el curso académico 1986-1987, inclusive, las Universidades podrán celebrar contratos de colaboración temporal en régimen de derecho administrativo para el personal docente en las categorías contractuales a que se refiere la disposición transitoria 10.ª, 2, de la Ley 11/1983, de 25 de agosto, de Reforma Universitaria.
 
-#### DISPOSICIÓN TRANSITORIA SÉPTIMA
+#### Disposición transitoria séptima.
 
 1. La asignación de los grados personales previstos en la presente Ley a los funcionarios que presten servicios en el momento de su entrada en vigor, no supondrá el cese automático en el puesto de trabajo que venían desempeñando y comenzarán a adquirir su grado personal, cumpliendo los requisitos establecidos en esta Ley, a partir del 1 de enero de 1985.
 
 2. El funcionario que se considere perjudicado en la asignación de su grado personal, podrá solicitar la revisión de dicha asignación conforme a criterios objetivos basados en el tiempo de servicios efectivos prestados en su Cuerpo o Escala y en el nivel de los puestos desempeñados. Las propuestas de resolución de asignación de grado, deberán ser informadas en todo caso por la Comisión Superior de Personal.
 
-#### DISPOSICIÓN TRANSITORIA OCTAVA
+#### Disposición transitoria octava.
 
 1. Durante el período de transferencias de medios personales a las Comunidades Autónomas, queda prohibida la concesión de comisión de servicios al personal destinado en los servicios periféricos a los servicios centrales afectados por dichas transferencias.
 
@@ -2867,7 +2849,7 @@ Dicha jubilación dará derecho a la percepción del 150 por 100 de las retribuc
 
 El personal afectado por dichos traslados que no desee trasladarse, podrá optar por pasar a la situación administrativa de excedencia forzosa sin derecho a retribución alguna.
 
-#### DISPOSICIÓN TRANSITORIA NOVENA
+#### Disposición transitoria novena.
 
 1. En aplicación de lo dispuesto en el artículo 33, los funcionarios se jubilarán de la siguiente forma:
 
@@ -2897,35 +2879,33 @@ c) En 30 de septiembre de 1987 los que tengan cumplidos los sesenta y cinco año
 
 d) A partir de primero de octubre de 1987 será de plena aplicación la jubilación a los sesenta y cinco años.
 
-#### DISPOSICIÓN TRANSITORIA DÉCIMA
+#### Disposición transitoria décima.
 
 Los funcionarios que como consecuencia de la aplicación del régimen retributivo establecido en la presente Ley experimenten una disminución en el total de sus retribuciones anuales, con exclusión del actual concepto retributivo de dedicación exclusiva y de aquellos otros que dependan exclusivamente de las características de los puestos de trabajo o del nivel de rendimiento o de productividad de los funcionarios, tendrán derecho a un complemento personal y transitorio por la diferencia, que será absorbido por cualquier futura mejora retributiva según los criterios que establezcan las sucesivas leyes de presupuestos.
 
-#### DISPOSICIÓN TRANSITORIA DECIMOPRIMERA
+#### Disposición transitoria decimoprimera....
 
 En tanto que se aprueban las relaciones de puestos de trabajo a que se refiere el artículo 15 de esta Ley, se proveerán mediante concursos los puestos así calificados en el momento de su entrada en vigor.
 
-#### DISPOSICIÓN TRANSITORIA DECIMOSEGUNDA
+#### Disposición transitoria decimosegunda. Se aplaza la entrada en vigor de los artículos 21, 22 y 23 hasta 1 de enero de 1985.
 
-Se aplaza la entrada en vigor de los artículos 21, 22 y 23 hasta 1 de enero de 1985.
-
-#### DISPOSICIÓN TRANSITORIA DECIMOTERCERA
+#### Disposición transitoria decimotercera.
 
 En tanto no se constituya el Consejo Superior de la Función Pública, las funciones del mismo serán desempeñadas por la Comisión de Coordinación de la Función Pública en lo que afecte a la política de personal de las Comunidades Autónomas.
 
-#### DISPOSICIÓN TRANSITORIA DECIMOCUARTA
+#### Disposición transitoria decimocuarta.
 
 Hasta la entrada en vigor de la Ley Orgánica a que se refiere el artículo 104.2 de la Constitución, los funcionarios de las Fuerzas y Cuerpos de Seguridad seguirán rigiéndose por las normas que les son aplicables, sin perjuicio de la aplicación supletoria de la presente Ley.
 
-#### DISPOSICIÓN FINAL PRIMERA
+#### Disposición final primera.
 
 El Gobierno, por Real Decreto, establecerá el régimen de indemnización a percibir por el personal contratado administrativo que, una vez realizada la clasificación de puestos de trabajo, que se regula en la Disposición transitoria sexta de esta Ley, no tenga plaza en las correspondientes plantillas.
 
-#### DISPOSICIÓN FINAL SEGUNDA
+#### Disposición final segunda.
 
 La primera oferta de empleo público que se realice como consecuencia de lo dispuesto en el artículo 18 de la presente Ley, será efectuada en 1985.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 1. Quedan derogados los siguientes preceptos de las disposiciones que se citan:
 
@@ -2971,11 +2951,10 @@ El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
@@ -2997,4 +2976,5 @@ FELIPE GONZÁLEZ MÁRQUEZ
 - **Fundamento de**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../../autonómica/canarias/02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)

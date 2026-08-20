@@ -1,14 +1,10 @@
 ---
 id: norm-es-2010-10424
 codigo_sintetizado: BOE-A-2010-10424
-titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento
-  de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal,
-  riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial
-  de la Seguridad Social de los Funcionarios Civiles del Estado.
+titulo: Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-07-01'
 boletin: BOE
@@ -19,30 +15,27 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- curriculo
-- personal-no-docente
-- prevencion-riesgos-laborales
-- salud-laboral-y-vigilancia
+  - curriculo
+  - personal-no-docente
+  - prevencion-riesgos-laborales
+  - salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-rd-39-1997
-  - norma_id: norm-es-rdl-5-2015
-fundamentos_derecho:
-- norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-es-rdl-5-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-rd-39-1997
+    - '1'
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-rd-39-1997
 ---
+# Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
 
 ## Preámbulo
 
-# Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
-
-# Orden PRE/1744/2010, de 30 de junio, por la que se regula el procedimiento de reconocimiento, control y seguimiento de las situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural en el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado.
-
-El Reglamento General del Mutualismo Administrativo, aprobado por Real Decreto 375/2003, de 28 de marzo (en adelante «el Reglamento») desarrolla en sus artículos 88 a 101, lo dispuesto en el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por Real Decreto Legislativo 4/2000, de 23 de junio, en cuanto a las prestaciones por incapacidad temporal y por riesgo durante el embarazo y durante la lactancia natural, determinando la definición de las contingencias protegidas, así como la duración y extinción de las situaciones y las reglas aplicables a los subsidios económicos en dichos casos.
+El Reglamento General del Mutualismo Administrativo, aprobado por Real Decreto 375/2003, de 28 de marzo (en adelante «el Reglamento») desarrolla en sus artículos 88 a 101, lo dispuesto en el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por Real Decreto Legislativo 4/2000, de 23 de junio, en cuanto a las prestaciones por incapacidad temporal y por riesgo durante el embarazo y durante la lactancia natural, determinando la definición de las contingencias protegidas, así como la duración y extinción de las situaciones y las reglas aplicables a los subsidios económicos en dichos casos.
 
 A estos efectos, los artículos 89.2, 90.5, 92.2, 96.3 y 99.3 del Reglamento, en la nueva redacción dada por el Real Decreto 2/2010, de 8 de enero, contienen una remisión expresa para que el Ministro de la Presidencia, mediante orden, complete o pormenorice sus determinaciones básicas en materias tales como los modelos oficiales de parte, la estructura del procedimiento que ha de seguirse para la concesión de la licencia en las diferentes situaciones y la forma de acreditación de éstas, así como el cálculo de los subsidios. Queda así delimitado el ámbito principal en el que opera la orden ministerial en desarrollo del reglamento general.
 
@@ -52,7 +45,9 @@ Por lo que concierne a las situaciones de riesgo durante el embarazo y de riesgo
 
 Mención especial merece en estas situaciones de riesgo la documentación necesaria en la que descansa su acreditación, que está formada por el informe médico de diagnóstico de la situación y el informe del Servicio de Prevención.
 
-Por otro lado, y siguiendo el esquema de la Orden APU/2210/2003 a la que la presente orden sustituye, se determina el modelo de parte médico necesario para la expedición del permiso de maternidad, regulado en el artículo 49 a) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+Por otro lado, y siguiendo el esquema de la Orden APU/2210/2003 a la que la presente orden sustituye, se determina el modelo de parte médico necesario para la expedición del permiso de maternidad, regulado en el artículo 49 a).
+
+de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 Finalmente, la orden destaca la disposición relativa a la posible tramitación y obtención de los partes por medios electrónicos, de acuerdo con la finalidades explicitadas en el artículo 3 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, de facilitar el ejercicio de derechos y cumplimiento de deberes por medios electrónicos, así como el acceso a la información y al procedimiento administrativo por esos mismos medios.
 
@@ -60,9 +55,7 @@ La presente orden ha sido informada por la Agencia Española de Protección de D
 
 En virtud de lo expuesto, de acuerdo con la habilitación contenida en los artículos 89.2, 90.5, 92.2, 96.3 y 99.3 del Reglamento General del Mutualismo Administrativo, dispongo:
 
-CAPÍTULO I
-
-Normas comunes
+## Capítulo I. Normas comunes.
 
 #### Artículo 1. Objeto de la orden.
 
@@ -86,23 +79,21 @@ Normas comunes
 
 3. De acuerdo con lo previsto en la disposición adicional décima del Reglamento, no será preciso el consentimiento del mutualista para que los datos codificados puedan ser tratados a través del fichero automatizado de que disponga MUFACE, al que podrán tener acceso, con las condiciones de seguridad asociadas al mismo, los órganos de personal y las Unidades Médicas de Seguimiento a los efectos oportunos.
 
-CAPÍTULO II
-
-Situación de IT
+## Capítulo II. Situación de IT.
 
 #### Artículo 4. Parte médico inicial para el reconocimiento de la situación de IT.
 
 Para que se pueda llevar a cabo el reconocimiento de la situación de incapacidad temporal, en el parte médico inicial a que se refiere el artículo 2 el médico deberá:
 
-a)	Describir el diagnóstico en el ejemplar para el mutualista e identificarlo en los ejemplares para el órgano de personal y para MUFACE mediante el código estandarizado en la práctica médica habitual que se señale en el propio parte.
+a) Describir el diagnóstico en el ejemplar para el mutualista e identificarlo en los ejemplares para el órgano de personal y para MUFACE mediante el código estandarizado en la práctica médica habitual que se señale en el propio parte.
 
-b)	Describir la limitación en la capacidad funcional que motiva la situación de incapacidad.
+b) Describir la limitación en la capacidad funcional que motiva la situación de incapacidad.
 
-c)	Hacer constar la fecha de inicio del proceso patológico.
+c) Hacer constar la fecha de inicio del proceso patológico.
 
-d)	Señalar la duración probable del proceso patológico.
+d) Señalar la duración probable del proceso patológico.
 
-e)	Indicar, sólo cuando sea preciso y por motivos estrictamente de mejor asistencia al paciente, la circunstancia excepcional que recomienda retrasar el plazo de expedición del parte sucesivo de confirmación de la baja sobre el plazo general establecido en la presente orden.
+e) Indicar, sólo cuando sea preciso y por motivos estrictamente de mejor asistencia al paciente, la circunstancia excepcional que recomienda retrasar el plazo de expedición del parte sucesivo de confirmación de la baja sobre el plazo general establecido en la presente orden.
 
 #### Artículo 5. Partes de confirmación quincenales.
 
@@ -120,9 +111,9 @@ e)	Indicar, sólo cuando sea preciso y por motivos estrictamente de mejor asiste
 
 2. En dicho informe deberán constar las dolencias padecidas por el mutualista y la presunción médica de que:
 
-a)	El mutualista podría llegar a ser dado de alta por curación o mejoría, antes de cumplirse quinientos cuarenta y cinco días naturales desde el inicio de la situación, o,
+a) El mutualista podría llegar a ser dado de alta por curación o mejoría, antes de cumplirse quinientos cuarenta y cinco días naturales desde el inicio de la situación, o,
 
-b)	Se trata de un proceso que podría calificarse de incapacidad permanente. En este caso, el órgano de personal deberá solicitar el correspondiente examen al equipo o unidad de valoración de incapacidades permanentes a los que la normativa de reconocimiento de derechos pasivos haya encomendado esta función.
+b) **Se trata de un proceso que podría calificarse de incapacidad permanente.** En este caso, el órgano de personal deberá solicitar el correspondiente examen al equipo o unidad de valoración de incapacidades permanentes a los que la normativa de reconocimiento de derechos pasivos haya encomendado esta función.
 
 3. MUFACE trasladará el informe médico de ratificación al que se refiere este artículo y que le haya remitido el órgano de personal competente, a las Unidades Médicas de Seguimiento de las que disponga, con el fin de que estas realicen un reconocimiento al mutualista antes del cumplimiento del plazo de 365 días naturales desde el inicio de la situación de IT.
 
@@ -130,9 +121,9 @@ b)	Se trata de un proceso que podría calificarse de incapacidad permanente. En 
 
 1. El parte de confirmación correspondiente al plazo en que se cumpla el decimosexto mes desde el inicio de la situación de IT deberá ir acompañado de un informe médico adicional que se extenderá en el modelo que se acompaña a la presente orden como anexo III y que:
 
-a)	Se pronunciará sobre los extremos que justifiquen, desde el punto de vista médico, la necesidad de mantener para el mutualista los efectos de la IT o bien,
+a) Se pronunciará sobre los extremos que justifiquen, desde el punto de vista médico, la necesidad de mantener para el mutualista los efectos de la IT o bien,
 
-b)	Señalará que se trata de un proceso que podría calificarse de incapacidad permanente.
+b) Señalará que se trata de un proceso que podría calificarse de incapacidad permanente.
 
 2. MUFACE trasladará las Unidades Médicas de Seguimiento de las que disponga el informe médico de ratificación al que se refiere este artículo y que le haya remitido el órgano de personal competente, con el fin de que dichas Unidades realicen un reconocimiento al mutualista antes del cumplimiento del plazo de quinientos cuarenta y cinco días naturales desde el inicio de la situación de IT. Asimismo, una vez transcurridos quinientos cuarenta y cinco días naturales desde el inicio de la situación, el órgano de personal tendrá que iniciar de oficio el procedimiento de jubilación del mutualista por incapacidad permanente para el servicio.
 
@@ -154,7 +145,7 @@ Si el resultado de estos informes de reconocimiento fuera desfavorable para la c
 
 2. La introducción en el fichero de MUFACE de los datos indicados en el apartado anterior será realizada por el personal designado por cada órgano de personal competente. A tal efecto, el acceso de dicho personal al fichero se realizará mediante el uso de certificados digitales u otros modos de autenticación electrónica que garanticen la seguridad del acceso y la identificación unívoca del usuario.
 
-3. En el acceso y en la transmisión de datos de salud, así como de datos personales se garantizará el estricto cumplimiento de las condiciones establecidas en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
+3. En el acceso y en la transmisión de datos de salud, así como de datos personales se garantizará el estricto cumplimiento de las condiciones establecidas en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 #### Artículo 10. Seguimiento de la situación de IT.
 
@@ -168,15 +159,17 @@ Para su admisión por MUFACE, la solicitud irá acompañada del parte de baja, d
 
 3. Sin perjuicio del control y seguimiento de la situación de IT que sea ejercido por el órgano de personal, MUFACE podrá requerir a las Unidades Médicas de Seguimiento el reconocimiento del mutualista en los casos siguientes:
 
-a)	Situaciones en las que el órgano de personal solicite a MUFACE el control de una situación de IT determinada.
+a) Situaciones en las que el órgano de personal solicite a MUFACE el control de una situación de IT determinada.
 
-b)	Procesos cuya duración supere los tiempos estándar especificados para cada patología en los protocolos técnicos utilizados por estas Unidades o elaborados expresamente por MUFACE, siempre y cuando resulte conveniente, a juicio de MUFACE, para el correcto seguimiento de la situación.
+b) Procesos cuya duración supere los tiempos estándar especificados para cada patología en los protocolos técnicos utilizados por estas Unidades o elaborados expresamente por MUFACE, siempre y cuando resulte conveniente, a juicio de MUFACE, para el correcto seguimiento de la situación.
 
 4. El mutualista tendrá derecho a aportar cuanta documentación médica considere oportuna en todos los procesos de reconocimiento que realicen las Unidades Médicas de Seguimiento. MUFACE trasladará al órgano de personal y al mutualista el resultado del mismo, que tendrá carácter vinculante.
 
 #### Artículo 11. Parte médico de alta de una situación de IT.
 
-1. El parte médico de alta será expedido por el médico dependiente de la Entidad o del Servicio Público de Salud al que figure adscrito el mutualista a efectos de asistencia sanitaria, reunirá las características reseñadas en el artículo 2 indicando el motivo del alta y deberá ir precedido del reconocimiento médico del mutualista.
+1. El parte médico de alta será expedido por el médico dependiente de la Entidad o del Servicio Público de Salud al que figure adscrito el mutualista a efectos de asistencia sanitaria, reunirá las características reseñadas en el artículo 2 indicando.
+
+el motivo del alta y deberá ir precedido del reconocimiento médico del mutualista.
 
 2. La presentación por el mutualista de este parte ante el órgano de personal competente, que deberá realizarse antes de la finalización del día hábil siguiente al de su expedición, acreditará la finalización del proceso patológico que le impedía el normal desempeño de sus funciones, a los efectos de la finalización de la licencia por enfermedad, sin perjuicio de que pueda continuar recibiendo la asistencia sanitaria que precise.
 
@@ -184,23 +177,23 @@ b)	Procesos cuya duración supere los tiempos estándar especificados para cada 
 
 A efectos del cómputo de plazos de la duración máxima de la situación de IT se tendrán en cuenta los siguientes factores:
 
-a)	Existirá nuevo proceso patológico cuando las enfermedades o patología que padezca el mutualista sean diferentes o no tengan relación directa con el proceso anterior.
+a) Existirá nuevo proceso patológico cuando las enfermedades o patología que padezca el mutualista sean diferentes o no tengan relación directa con el proceso anterior.
 
-b)	Los distintos y sucesivos procesos patológicos darán lugar a una nueva situación de IT.
+b) Los distintos y sucesivos procesos patológicos darán lugar a una nueva situación de IT.
 
-c)	Los períodos de recaída que concurran en la situación de IT se computarán a efectos de la duración máxima de ésta.
+c) Los períodos de recaída que concurran en la situación de IT se computarán a efectos de la duración máxima de ésta.
 
-d)	Se entenderá que existe recaída y, por tanto, no se inicia una nueva situación de IT, cuando el mutualista cuya licencia por enfermedad haya concluido vuelva a necesitar asistencia sanitaria y a estar incapacitado para el servicio dentro de un plazo no superior a 180 días naturales desde que se produjo la conclusión de dicha licencia por enfermedad, como consecuencia del proceso patológico que hubiese determinado su anterior IT o de otro derivado del anterior, tras la consiguiente valoración médica.
+d) Se entenderá que existe recaída y, por tanto, no se inicia una nueva situación de IT, cuando el mutualista cuya licencia por enfermedad haya concluido vuelva a necesitar asistencia sanitaria y a estar incapacitado para el servicio dentro de un plazo no superior a 180 días naturales desde que se produjo la conclusión de dicha licencia por enfermedad, como consecuencia del proceso patológico que hubiese determinado su anterior IT o de otro derivado del anterior, tras la consiguiente valoración médica.
 
-e)	Los períodos de observación por enfermedad profesional previos al diagnóstico se computarán a efectos de la duración de la IT, tanto si el diagnóstico médico confirma la existencia de una enfermedad profesional como si se trata de una enfermedad común. Al término del plazo máximo de duración de los períodos de observación, incluidas las prórrogas, el mutualista pasará a la situación que proceda o continuará en IT.
+e) Los períodos de observación por enfermedad profesional previos al diagnóstico se computarán a efectos de la duración de la IT, tanto si el diagnóstico médico confirma la existencia de una enfermedad profesional como si se trata de una enfermedad común. Al término del plazo máximo de duración de los períodos de observación, incluidas las prórrogas, el mutualista pasará a la situación que proceda o continuará en IT.
 
-CAPÍTULO III
-
-Subsidio por IT
+## Capítulo III. Subsidio por IT.
 
 #### Artículo 13. Procedimiento de concesión del subsidio por IT.
 
-1. De conformidad con lo dispuesto en el artículo 94 del Reglamento, al inicio del cuarto mes de licencia por enfermedad o accidente, el mutualista dejará de percibir las retribuciones complementarias y comenzará a devengar el correspondiente subsidio económico por parte de MUFACE. La solicitud del subsidio se efectuará por el mutualista a MUFACE que la tramitará a través del Servicio Provincial al que el mutualista esté adscrito. Esta solicitud podrá ser cursada también a través del órgano de personal correspondiente.
+1. De conformidad con lo dispuesto en el artículo 94 l.
+
+Reglamento, al inicio del cuarto mes de licencia por enfermedad o accidente, el mutualista dejará de percibir las retribuciones complementarias y comenzará a devengar el correspondiente subsidio económico por parte de MUFACE. La solicitud del subsidio se efectuará por el mutualista a MUFACE que la tramitará a través del Servicio Provincial al que el mutualista esté adscrito. Esta solicitud podrá ser cursada también a través del órgano de personal correspondiente.
 
 2. Para la tramitación y terminación del procedimiento de reconocimiento del derecho al subsidio por IT, el órgano de personal remitirá a MUFACE los datos relativos a las retribuciones del mutualista devengadas al inicio del tercer mes de licencia y de las retribuciones complementarias que, al iniciarse el cuarto mes, ha dejado de percibir. Asimismo, el órgano de personal remitirá a MUFACE todos los ejemplares del parte de baja destinado a MUFACE emitidos hasta ese momento y comunicará la prórroga de la licencia que dé lugar al cuarto mes desde que se inició la situación. A esta documentación se adicionará la solicitud de subsidio del mutualista, en el caso de que hubiera sido cursada a través del órgano de personal. El plazo para resolver la solicitud de reconocimiento del subsidio comenzará a computarse a partir del día de entrada de la solicitud en MUFACE, sin perjuicio de los casos de interrupción del plazo, previstos legalmente, que se pudieran producir.
 
@@ -212,27 +205,29 @@ Subsidio por IT
 
 #### Artículo 14. Cálculo del subsidio por IT.
 
-La cuantía del subsidio será la establecida en el artículo 96 del Reglamento y se calculará conforme a las siguientes reglas:
+La cuantía del subsidio será la establecida en el artículo 96 l.
 
-a)	Se considerarán devengadas en el tercer mes de licencia aquellas retribuciones, básicas y complementarias, que hayan de ser imputadas a dicho mes en virtud de disposición o acto administrativo que así lo reconozca, con independencia del momento en que se produzca su percepción.
+Reglamento y se calculará conforme a las siguientes reglas:
 
-b)	Si se acreditasen retribuciones complementarias con periodicidad superior a la mensual, para el cálculo del subsidio se imputará al mes en que se inició la tercera licencia la parte alícuota que corresponda de dichas retribuciones.
+a) Se considerarán devengadas en el tercer mes de licencia aquellas retribuciones, básicas y complementarias, que hayan de ser imputadas a dicho mes en virtud de disposición o acto administrativo que así lo reconozca, con independencia del momento en que se produzca su percepción.
 
-c)	En el supuesto de que las retribuciones del puesto que viniera desempeñando el funcionario no sean las que le correspondan como funcionario de carrera y no respondan en términos de homogeneidad a la estructura retributiva indicada en el artículo 96 del Reglamento, la base para el cálculo del subsidio estará constituida por el importe de las últimas retribuciones que haya percibido en su condición de funcionario público, actualizadas al mes de la tercera licencia por enfermedad.
+b) Si se acreditasen retribuciones complementarias con periodicidad superior a la mensual, para el cálculo del subsidio se imputará al mes en que se inició la tercera licencia la parte alícuota que corresponda de dichas retribuciones.
 
-d)	En aquellos casos en que la licencia no comprenda un mes natural completo, el importe del subsidio será la parte proporcional equivalente a los días de su concesión.
+c) En el supuesto de que las retribuciones del puesto que viniera desempeñando el funcionario no sean las que le correspondan como funcionario de carrera y no respondan en términos de homogeneidad a la estructura retributiva indicada en el artículo 96 l.
 
-CAPÍTULO IV
+Reglamento, la base para el cálculo del subsidio estará constituida por el importe de las últimas retribuciones que haya percibido en su condición de funcionario público, actualizadas al mes de la tercera licencia por enfermedad.
 
-Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural
+d) En aquellos casos en que la licencia no comprenda un mes natural completo, el importe del subsidio será la parte proporcional equivalente a los días de su concesión.
+
+## Capítulo IV. Situaciones de riesgo durante el embarazo y de riesgo durante la lactancia natural.
 
 #### Artículo 15. Acreditación de las situaciones de riesgo.
 
 La acreditación de la existencia de situación de riesgo durante el embarazo o de riesgo durante la lactancia natural se documentará mediante el informe y certificado siguientes:
 
-a)	Informe del médico dependiente de la Entidad o, en su caso, del Servicio Público de Salud a la que figure adscrita la mutualista y que asista facultativamente a ella o al lactante, en el que se diagnostique su situación de embarazo y la fecha probable del parto o la situación de lactancia natural, según corresponda.
+a) Informe del médico dependiente de la Entidad o, en su caso, del Servicio Público de Salud a la que figure adscrita la mutualista y que asista facultativamente a ella o al lactante, en el que se diagnostique su situación de embarazo y la fecha probable del parto o la situación de lactancia natural, según corresponda.
 
-b)	Informe del Servicio de Prevención del centro de trabajo donde desempeñe sus tareas la mutualista y que desarrolle las funciones de vigilancia y control de la salud de los empleados en los términos establecidos en el artículo 37.3 del [Real Decreto 39/1997](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, o en la normativa específica que regule las normas de prevención de riesgos laborales en determinados sectores.
+b) Informe del Servicio de Prevención del centro de trabajo donde desempeñe sus tareas la mutualista y que desarrolle las funciones de vigilancia y control de la salud de los empleados en los términos establecidos en el artículo 37.3 del [Real Decreto 39/1997](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, o en la normativa específica que regule las normas de prevención de riesgos laborales en determinados sectores.
 
 En dicho informe se hará constar, de acuerdo con la evaluación de riesgos en la actividad desarrollada y las condiciones del puesto de trabajo que desempeña, si concurren o no agentes, procedimientos o condiciones de trabajo que pueden influir negativamente en su salud y/o en la del feto o en la del lactante, según corresponda conforme a su situación. A tal efecto deberá tenerse en cuenta la lista no exhaustiva de tales agentes, procedimientos y condiciones de trabajo incluidos en el anexo II del [Real Decreto 39/1997](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero.
 
@@ -242,7 +237,7 @@ Alternativamente, el certificado podrá ser emitido por el Servicio médico del 
 
 1. En el caso de riesgo durante el embarazo y durante la lactancia natural, en los tres primeros meses de licencia se expedirá, con carácter general, un único parte de baja. Si se hubiera previsto una duración del período de riesgo inferior a tres meses y se alcanzara esa fecha sin que desapareciera el riesgo, será necesario expedir un nuevo parte acreditativo de la situación y del nuevo período de duración probable. Si se alcanzara el comienzo del cuarto mes de prórroga de la licencia y continuara la situación de riesgo, se expedirá un parte con igual contenido en dicha fecha o en el día hábil posterior.
 
-2. De acuerdo con lo dispuesto en el artículo 3, el parte a que se refiere el apartado 1 del presente artículo será entregado al órgano de personal (ejemplares para el órgano de personal y MUFACE, que le será enviado por el órgano de personal) no más tarde del cuarto día hábil desde la fecha de inicio de la situación.
+2. De acuerdo con lo dispuesto en el artículo 3, el parte a que se refiere el apartado 1 del presente artículo será entregado al órgano de personal (ejemplares para el órgano de personal y MUFACE, que le será enviado por el órgano de personal) no más tarde del cuarto día hábil desde la fecha de inicio de la situación.
 
 3. El modelo de parte para el reconocimiento de estas situaciones es el establecido en el anexo I de esta orden.
 
@@ -254,7 +249,9 @@ Alternativamente, el certificado podrá ser emitido por el Servicio médico del 
 
 #### Artículo 18. Subsidios por riesgo durante el embarazo y por riesgo durante la lactancia natural.
 
-El procedimiento de concesión del subsidio por riesgo durante el embarazo y durante la lactancia natural se regirá por lo dispuesto en el artículo 13, con las especificaciones referidas a la cuantía de dicho subsidio establecidas en el artículo 101 del Reglamento.
+El procedimiento de concesión del subsidio por riesgo durante el embarazo y durante la lactancia natural se regirá por lo dispuesto en el artículo 13, con las especificaciones referidas a la cuantía de dicho subsidio establecidas en el artículo 101 l.
+
+Reglamento.
 
 #### Artículo 19. Normas supletorias.
 
@@ -274,11 +271,13 @@ El contenido y diseño de los modelos de partes, informes médicos y modelos de 
 
 1. En aplicación de lo dispuesto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, MUFACE podrá sustituir los modelos de parte que ahora se aprueban por otros que puedan obtenerse mediante la utilización de medios electrónicos, siempre que contengan la información exigida en la presente orden y se garantice la identidad del expedidor.
 
-2. Asimismo, mediante Resolución del Director General de MUFACE se establecerán los requisitos para la tramitación por medios electrónicos del procedimiento para la concesión del subsidio por IT a que se refiere el artículo 13, con las debidas garantías de seguridad, integridad y disponibilidad de las comunicaciones, así como los mecanismos necesarios para que los documentos y certificados que deben ser expedidos por el órgano de destino del mutualista sean sustituidos, previa autorización del mutualista, por certificados emitidos por medios electrónicos o por transmisiones de datos, de acuerdo con lo dispuesto en el artículo 2 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+2. Asimismo, mediante Resolución del Director General de MUFACE se establecerán los requisitos para la tramitación por medios electrónicos del procedimiento para la concesión del subsidio por IT a que se refiere el artículo 13, con las debidas garantías de seguridad, integridad y disponibilidad de las comunicaciones, así como los mecanismos necesarios para que los documentos y certificados que deben ser expedidos por el órgano de destino del mutualista sean sustituidos, previa autorización del mutualista, por certificados emitidos por medios electrónicos o por transmisiones de datos, de acuerdo con lo dispuesto en el artículo 2 l.
+
+Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
 
 #### Disposición transitoria primera. Situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden.
 
-Las situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden podrán ser objeto de seguimiento y control en los términos establecidos en el artículo 10, con pleno respeto, en todo caso, de los requerimientos exigidos en cuanto al tratamiento de datos por la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
+Las situaciones de IT iniciadas con anterioridad a la entrada en vigor de la presente orden podrán ser objeto de seguimiento y control en los términos establecidos en el artículo 10, con pleno respeto, en todo caso, de los requerimientos exigidos en cuanto al tratamiento de datos por la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
 #### Disposición transitoria segunda. Utilización de partes anteriores.
 
@@ -298,32 +297,32 @@ Se habilita al Director General de MUFACE para dictar las resoluciones e instruc
 
 Madrid, 30 de junio de 2010.–La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, María Teresa Fernández de la Vega Sanz.
 
-ANEXO I
+## Anexo I
 
 Parte Médico para situaciones de incapacidad temporal, riesgo durante el embarazo y riesgo durante la lactancia natural
 
-ANEXO II
+## Anexo II
 
 Parte de maternidad
 
-ANEXO III
+## Anexo III
 
 Situación de incapacidad temporal - Informe médico adicional de ratificación
 
-ANEXO IV
+## Anexo IV
 
 Solicitud de reconocimiento médico
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 
 ### Fundamentos de Derecho
+
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**RD39_1997 Reglamento de los Servicios de Prevencion**](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)

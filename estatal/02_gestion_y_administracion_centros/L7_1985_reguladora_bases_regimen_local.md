@@ -4,8 +4,7 @@ codigo_sintetizado: BOE-A-1985-5392
 titulo: Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1985-04-03'
 boletin: BOE
@@ -16,39 +15,36 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-- autonomia-centro
-- convivencia
-- convivencia-escolar
-- cooperaci-n-con-entidades-locales
+  - autonomia-centro
+  - convivencia
+  - convivencia-escolar
+  - cooperaci-n-con-entidades-locales
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-1995-8730
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2012-9282
-  - norma_id: norm-es-2013-13756
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-boc-2026-129-26
+    - norma_id: norm-es-1995-8730
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2012-9282
+    - norma_id: norm-es-2013-13756
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-res-boc-2026-129-26
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-1984-17387
+    - '27'
+    - norma_id: norm-es-1984-17387
 ---
+# Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 ## Preámbulo
-
-# Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
-
-# Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 **JUAN CARLOS I**
 
@@ -57,8 +53,6 @@ fundamentos_derecho:
 A todos los que la presente vieren y entendieren, sabed:
 
 Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
-
-## PREÁMBULO
 
 **I**
 
@@ -154,7 +148,7 @@ Por lo que hace a las relaciones interadministrativas, salta a la vista la radic
 
 Las anteriores reflexiones son un compendio de la filosofía que inspira la Ley. Esta, más que pretender garantizar la autonomía sobre la quietud de compartimentos estancos e incomunicados y, en definitiva, sobre un equilibrio estático propio de las cosas inanimadas, busca fundamentar aquélla en el equilibrio dinámico propio de un sistema de distribución del poder, tratando de articular los intereses del conjunto, reconociendo a cada uno lo suyo y estableciendo las competencias, principios, criterios y directrices que guíen la aplicación práctica de la norma en su conjunto de forma abierta a la realidad y a las necesidades del presente.
 
-## TÍTULO PRIMERO
+## Título PRIMERO
 
 **Disposiciones generales**
 
@@ -280,7 +274,7 @@ Las normas de desarrollo de esta Ley que afecten a los Municipios, Provincias, i
 
 3. Las funciones de coordinación no afectaran en ningún caso a la autonomía de las Entidades locales.
 
-## TÍTULO II
+## Título II
 
 **El municipio**
 
@@ -290,7 +284,7 @@ Las normas de desarrollo de esta Ley que afecten a los Municipios, Provincias, i
 
 2. Son elementos del Municipio el territorio, la población y la organización.
 
-CAPÍTULO primero
+### Capítulo PRIMERO
 
 Territorios y población
 
@@ -362,9 +356,7 @@ h) Aquellos otros derechos y deberes establecidos en las Leyes.
 
 2. Los extranjeros domiciliados que sean mayores de edad tienen los derechos y deberes propios de los vecinos, salvo los de carácter político. No obstante, tendrán derecho de sufragio activo en los términos que prevea la legislación electoral general aplicable a las elecciones locales.
 
-CAPÍTULO II
-
-Organización
+## Capítulo II. Organización.
 
 #### Artículo 19.
 
@@ -476,9 +468,7 @@ b) Las atribuciones que el Alcalde u otro órgano municipal le delegue o le atri
 
 Para facilitar la participación ciudadana en la gestión de los asuntos locales y mejorar ésta, los Municipios podrán establecer órganos territoriales de gestión desconcentrada, con la organización, funciones y competencias que cada Ayuntamiento les confiera, atendiendo a las características del asentamiento de la población en el término municipal, sin perjuicio de la unidad de gobierno y gestión del Municipio.
 
-CAPÍTULO III
-
-Competencias
+## Capítulo III. Competencias.
 
 #### Artículo 25.
 
@@ -556,9 +546,7 @@ Transporte colectivo urbano de viajeros y protección del medio ambiente.
 
 Los Municipios pueden realizar actividades complementarias de las propias de otras Administraciones Públicas y, en particular, las relativas a la educación, la cultura, la promoción de la mujer, la vivienda, la sanidad y la protección del medio ambiente.
 
-CAPÍTULO IV
-
-Regímenes Especiales
+## Capítulo IV. Regímenes Especiales.
 
 #### Artículo 29.
 
@@ -576,7 +564,7 @@ b) Aquellos otros en los que su localización geográfica, la mejor gestión de 
 
 Las Leyes sobre régimen local de las Comunidades Autónomas, en el marco de lo establecido en esta Ley, podrán establecer regímenes especiales para Municipios pequeños o de carácter rural y para aquellos que reúnan otras características que lo hagan aconsejable, como su carácter histórico-artístico o el predominio en su término de las actividades turísticas, industriales, mineras u otras semejantes.
 
-## TÍTULO III
+## Título III
 
 **La Provincia**
 
@@ -592,13 +580,9 @@ b) Participar en la coordinación de la Administración local con la de la Comun
 
 3. El gobierno y la administración autónoma de la Provincia corresponden a la Diputación u otras Corporaciones de carácter representativo.
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
-Organización
-
-#### Artículo 32.
-
-La organización provincial responde a las siguientes reglas:
+Organización artículo 32 La organización provincial responde a las siguientes reglas:
 
 1. El Presidente, los Vicepresidentes, la Comisión de Gobierno y el Pleno existen en todas las Diputaciones.
 
@@ -684,9 +668,7 @@ b) Las atribuciones que el Presidente u otro órgano provincial le delegue o le 
 
 4. Los Vicepresidentes sustituyen, por el orden de su nombramiento y en los casos de vacante, ausencia o enfermedad, al Presidente, siendo libremente designados por éste entre los miembros de la Comisión de Gobierno.
 
-CAPÍTULO II
-
-Competencias
+## Capítulo II. Competencias.
 
 #### Artículo 36.
 
@@ -720,13 +702,11 @@ b) Asegura el acceso de la población de la Provincia al conjunto de los servici
 
 Las previsiones establecidas para la Diputación en este capítulo y en los restantes de la presente Ley serán de aplicación a aquellas otras Corporaciones de carácter representativo a las que corresponda el gobierno y la administración autónoma de la Provincia.
 
-CAPÍTULO III
+## Capítulo III. Regímenes especiales.
 
-Regímenes especiales
+#### Artículo 39. Los órganos forales de Álava, Guipúzcoa y Vizcaya conservan su régimen peculiar en el marco del Estatuto de Autonomía de la Comunidad Autónoma del País Vasco.
 
-#### Artículo 39.
-
-Los órganos forales de Álava, Guipúzcoa y Vizcaya conservan su régimen peculiar en el marco del Estatuto de Autonomía de la Comunidad Autónoma del País Vasco. No obstante, las disposiciones de la presente Ley les serán de aplicación con carácter supletorio.
+No obstante, las disposiciones de la presente Ley les serán de aplicación con carácter supletorio.
 
 #### Artículo 40.
 
@@ -740,7 +720,7 @@ Las Comunidades Autónomas uniprovinciales y la Foral de Navarra asumen las comp
 
 3. Los Consejos Insulares de las Islas Baleares, a los que son de aplicación las normas de esta Ley que regulan la organización y funcionamiento de las Diputaciones Provinciales, asumen sus competencias de acuerdo con lo dispuesto en esta Ley y las que les correspondan de conformidad con el Estatuto de Autonomía de Baleares.
 
-## TÍTULO IV
+## Título IV
 
 **Otras Entidades locales**
 
@@ -796,11 +776,11 @@ No obstante, podrá establecerse el régimen de Concejo Abierto para las Entidad
 
 c) Los acuerdos sobre disposición de bienes, operaciones de crédito y expropiación forzosa deberán ser ratificados por el Ayuntamiento.
 
-## TÍTULO V
+## Título V
 
 **Disposiciones comunes a las Entidades locales**
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
 Régimen de funcionamiento
 
@@ -916,13 +896,7 @@ Sin perjuicio de las previsiones específicas contenidas en los artículos 65, 6
 
 Las Entidades locales responderán directamente de los daños y perjuicios causados a los particulares en sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos o de la actuación de sus autoridades, funcionarios o agentes, en los términos establecidos en la legislación general sobre responsabilidad administrativa.
 
-CAPÍTULO II
-
-Relaciones interadministrativas
-
-#### Artículo 55.
-
-Para la efectividad de la coordinación y la eficacia administrativas, las Administraciones del Estado y de las Comunidades Autónomas, de un lado, y las Entidades locales, de otro, deberán en sus relaciones recíprocas:
+## Capítulo II. Relaciones interadministrativas artículo 55 Para la efectividad de la coordinación y la eficacia administrativas, las Administraciones del Estado y de las Comunidades Autónomas, de un lado, y las Entidades locales, de otro, deberán en sus relaciones recíprocas:.
 
 a) Respetar el ejercicio legítimo por las otras Administraciones de sus competencias y las consecuencias que del mismo se deriven para las propias.
 
@@ -958,7 +932,9 @@ En todo caso, las Administraciones que tengan atribuidas la formulación y aprob
 
 #### Artículo 59.
 
-1. A fin de asegurar la coherencia de la actuación de las Administraciones Públicas, en los supuestos previstos en el número 2 del artículo 10 y para el caso de que dicho fin no pueda alcanzarse por los procedimientos contemplados en los artículos anteriores o éstos resultaran manifiestamente inadecuados por razón de las características de la tarea pública de que se trate, las leyes del Estado y las de las Comunidades Autónomas, reguladoras de los distintos sectores de la acción pública, podrán atribuir al Gobierno de la Nación, o al Consejo de Gobierno, la facultad de coordinar la actividad de la Administración Local y, en especial, de las Diputaciones Provinciales en el ejercicio de sus competencias.
+1. A fin de asegurar la coherencia de la actuación de las Administraciones Públicas, en los supuestos previstos en el número 2 del artículo 10 y para.
+
+el caso de que dicho fin no pueda alcanzarse por los procedimientos contemplados en los artículos anteriores o éstos resultaran manifiestamente inadecuados por razón de las características de la tarea pública de que se trate, las leyes del Estado y las de las Comunidades Autónomas, reguladoras de los distintos sectores de la acción pública, podrán atribuir al Gobierno de la Nación, o al Consejo de Gobierno, la facultad de coordinar la actividad de la Administración Local y, en especial, de las Diputaciones Provinciales en el ejercicio de sus competencias.
 
 La coordinación se realizará mediante la definición concreta y en relación con una materia, servicio o competencia determinados de los intereses generales o comunitarios, a través de planes sectoriales para la fijación de los objetivos y la determinación de las prioridades de la acción pública en la materia correspondiente. En la tramitación de los mismos se observará lo dispuesto en el número 2 del artículo anterior.
 
@@ -982,9 +958,7 @@ En aquellos casos en que la naturaleza de la actividad de que se trate haga muy 
 
 En ningún caso estas técnicas podrán afectar a la potestad de autoorganización de los servicios que corresponde a la Entidad local.
 
-CAPÍTULO III
-
-Impugnación de actos y acuerdos y ejercicio de acciones
+## Capítulo III. Impugnación de actos y acuerdos y ejercicio de acciones.
 
 #### Artículo 63.
 
@@ -1000,7 +974,9 @@ b) Los miembros de las corporaciones que hubieran votado en contra de tales acto
 
 #### Artículo 64.
 
-La Administración del Estado y la de las Comunidades Autónomas pueden solicitar ampliación de la información a que se refiere el número 1 del artículo 56 que deberá remitirse en el plazo máximo de veinte días hábiles. En tales casos se interrumpe el cómputo del plazo a que se refiere el número 2 del artículo siguiente.
+La Administración del Estado y la de las Comunidades Autónomas pueden solicitar ampliación de la información a que se refiere el número 1 del artículo 56 que.
+
+deberá remitirse en el plazo máximo de veinte días hábiles. En tales casos se interrumpe el cómputo del plazo a que se refiere el número 2 del artículo siguiente.
 
 #### Artículo 65.
 
@@ -1030,9 +1006,7 @@ Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interé
 
 4. De prosperar la acción, el actor tendrá derecho a ser reembolsado por la Entidad de las costas procesales y a la indemnización de cuantos daños y perjuicios se le hubieran seguido.
 
-CAPÍTULO IV
-
-Información y participación ciudadanas
+## Capítulo IV. Información y participación ciudadanas.
 
 #### Artículo 69.
 
@@ -1058,9 +1032,7 @@ De conformidad con la legislación del Estado y de la Comunidad Autónoma, cuand
 
 Las Corporaciones locales favorecen el desarrollo de las asociaciones para la defensa de los intereses generales o sectoriales de los vecinos, les facilitan la más amplia información sobre sus actividades y, dentro de sus posibilidades, el uso de los medios públicos y el acceso a las ayudas económicas para la realización de sus actividades e impulsan su participación en la gestión de la Corporación en los términos del número 2 del artículo 69. A tales efectos pueden ser declaradas de utilidad pública.
 
-CAPÍTULO V
-
-Estatuto de los miembros de las Corporaciones locales
+## Capítulo V. Estatuto de los miembros de las Corporaciones locales.
 
 #### Artículo 73.
 
@@ -1114,11 +1086,11 @@ Todos los miembros de las Corporaciones locales tienen derecho a obtener del Alc
 
 4. Los Presidentes de las Corporaciones locales podrán sancionar con multa a los miembros de las mismas, por falta no justificada de asistencia a las sesiones o incumplimiento reiterado de sus obligaciones, en los términos que determine la Ley de la Comunidad Autónoma y, supletoriamente, la del Estado.
 
-## TÍTULO VI
+## Título VI
 
 **Bienes, actividades y servicios, y contratación**
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
 Bienes
 
@@ -1158,9 +1130,7 @@ b) La de deslinde, que se ajustará a lo dispuesto en la legislación del Patrim
 
 Los montes vecinales en mano común se regulan por su legislación específica.
 
-CAPÍTULO II
-
-Actividades y servicios
+## Capítulo II. Actividades y servicios.
 
 #### Artículo 84.
 
@@ -1214,13 +1184,11 @@ La efectiva ejecución de estas actividades en régimen de monopolio requiere, a
 
 Las Entidades locales pueden constituir consorcios con otras Administraciones públicas para fines de interés común o con Entidades privadas sin ánimo de lucro que persigan fines de interés público, concurrentes con los de las Administraciones Públicas.
 
-CAPÍTULO III
+## Capítulo III. Contratación.
 
-Contratación
+#### Artículo 88. Sin.
 
-#### Artículo 88.
-
-Sin perjuicio de lo dispuesto en el artículo 5, apartado C), la contratación de las Corporaciones locales se ajustará a las siguientes peculiaridades:
+perjuicio de lo dispuesto en el artículo 5, apartado C), la contratación de las Corporaciones locales se ajustará a las siguientes peculiaridades:
 
 1. La competencia para contratar de los distintos órganos se regirá por lo dispuesto en la presente Ley y en la legislación de las Comunidades Autónomas sobre régimen local.
 
@@ -1230,17 +1198,13 @@ Sin perjuicio de lo dispuesto en el artículo 5, apartado C), la contratación d
 
 4. Las fianzas deberán depositarse en la Caja de la Corporación contratante.
 
-## TÍTULO VII
+## Título VII
 
 **Personal al servicio de las Entidades locales**
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
-Disposiciones generales
-
-#### Artículo 89.
-
-El personal al servicio de las Entidades locales estará integrado por funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial.
+### Disposiciones generales artículo 89 El personal al servicio de las Entidades locales estará integrado por funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual que desempeña puestos de confianza o asesoramiento especial.
 
 #### Artículo 90.
 
@@ -1260,9 +1224,7 @@ Corresponde al Estado establecer las normas con arreglo a las cuales hayan de co
 
 2. La selección de todo el personal, sea funcionario o laboral, debe realizarse de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través del sistema de concurso-oposición o concurso-oposición libre en los que se garanticen, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, así como el de publicidad.
 
-CAPÍTULO II
-
-Disposiciones comunes a los funcionarios de carrera
+## Capítulo II. Disposiciones comunes a los funcionarios de carrera.
 
 #### Artículo 92.
 
@@ -1302,13 +1264,13 @@ El Instituto de Estudios de Administración Local desarrollará cursos de perfec
 
 #### Artículo 97.
 
-CAPÍTULO III
-
-Selección y formación de los funcionarios con habilitación de carácter nacional y sistema de provisión de plazas
+## Capítulo III. Selección y formación de los funcionarios con habilitación de carácter nacional y sistema de provisión de plazas.
 
 #### Artículo 98.
 
-1. La selección, formación y habilitación de los funcionarios a que se refiere el número 3 del artículo 92 corresponde al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente.
+1. La selección, formación y habilitación de los funcionarios a que se refiere el número 3 del artículo 92 corresponde.
+
+al Instituto de Estudios de Administración Local, conforme a las bases y programas aprobados reglamentariamente.
 
 Podrá descentralizarse territorialmente la realización de las pruebas de selección para el acceso a los cursos de formación en relación con las Corporaciones de determinado nivel de población, en los términos que establezca la Administración del Estado.
 
@@ -1332,9 +1294,7 @@ La Administración del Estado procederá al nombramiento del candidato con mejor
 
 5. En todo caso, en esta última Administración se llevará un Registro relativo a los funcionarios locales con habilitación nacional, en el que deberán inscribirse, para su efectividad, todas las incidencias y situaciones de dichos funcionarios.
 
-CAPÍTULO IV
-
-Selección de los restantes funcionarios y reglas sobre provisión de puestos de trabajo
+## Capítulo IV. Selección de los restantes funcionarios y reglas sobre provisión de puestos de trabajo.
 
 #### Artículo 100.
 
@@ -1358,13 +1318,7 @@ Serán de aplicación, en todo caso, las normas que regulen estos procedimientos
 
 2. En las pruebas selectivas, el Tribunal u órgano similar elevará la correspondiente relación de aprobados a la autoridad competente para hacer el nombramiento. Y los concursos para la provisión de puestos de trabajo serán resueltos, motivadamente, por el Pleno de la Corporación previa propuesta del Tribunal u órgano similar designado al efecto.
 
-CAPÍTULO V
-
-Del personal laboral y eventual
-
-#### Artículo 103.
-
-El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos.
+## Capítulo V. Del personal laboral y eventual artículo 103 El personal laboral será seleccionado por la propia Corporación ateniéndose, en todo caso, a lo dispuesto en el artículo 91 y con el máximo respeto al principio de igualdad de oportunidades de cuantos reúnan los requisitos exigidos.
 
 #### Artículo 104.
 
@@ -1374,7 +1328,7 @@ El personal laboral será seleccionado por la propia Corporación ateniéndose, 
 
 3. Los nombramientos de funcionarios de empleo, el régimen de sus retribuciones y su dedicación se publicarán en el «Boletín Oficial» de la Provincia y, en su caso, en el propio de la Corporación.
 
-## TÍTULO VIII
+## Título VIII
 
 **Haciendas Locales**
 
@@ -1448,7 +1402,7 @@ La fiscalización externa de las cuentas y de la gestión económica de las Enti
 
 Las cuentas anuales se someterán antes del 1 de junio a informe de la Comisión Especial de Cuentas de la Entidad local, la cual estará constituida por miembros de los distintos grupos políticos integrantes de la Corporación, y serán, asimismo, objeto de información pública antes de someterse a la aprobación del Pleno, a fin de que puedan formularse contra las mismas reclamaciones, reparos u observaciones. Todo ello sin perjuicio de que pueda denunciarse ante el Tribunal de Cuentas la existencia de irregularidades en la gestión económica y en las cuentas aprobadas.
 
-## TÍTULO IX
+## Título IX
 
 **Organizaciones para la cooperación de la Administración del Estado con la local**
 
@@ -1508,7 +1462,9 @@ El Reglamento de régimen interior regula su organización y funcionamiento, y s
 
 #### [precepto]Primera.
 
-1. Las competencias legislativas o de desarrollo de la legislación del Estado sobre régimen local asumidas, según lo dispuesto en sus respectivos Estatutos, por las Comunidades Autónomas del Principado de Asturias, Cantabria, La Rioja, Murcia, Aragón, Castilla-La Mancha, Castilla y León, Islas Baleares, Extremadura y Madrid, se ejercerán, según los casos, en el marco de lo establecido en el artículo 13 y en el título IV de esta Ley, así como, si procediere, en los términos y con el alcance previstos en los artículos 20.2, 32.2, 29 y 30 de la misma.
+1. Las competencias legislativas o de desarrollo de la legislación del Estado sobre régimen local asumidas, según lo dispuesto en sus respectivos Estatutos, por las Comunidades Autónomas del Principado de Asturias, Cantabria, La Rioja, Murcia, Aragón, Castilla-La Mancha, Castilla y León, Islas Baleares, Extremadura y Madrid, se ejercerán, según los casos, en el marco de lo establecido en el artículo 13 y en.
+
+el título IV de esta Ley, así como, si procediere, en los términos y con el alcance previstos en los artículos 20.2, 32.2, 29 y 30 de la misma.
 
 2. Las funciones administrativas que la presente Ley atribuye a las Comunidades Autónomas se entienden transferidas a las mencionadas en el número anterior, que ostentarán, asimismo, todas aquellas otras funciones de la misma índole que les transfiera la legislación estatal que ha de dictarse conforme a lo establecido en la disposición final primera de la misma.
 
@@ -1704,11 +1660,10 @@ El Presidente del Gobierno,
 
 FELIPE GONZALEZ MARQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-1995-8730**](../01_marco_normativo_general_y_organico/RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
@@ -1724,5 +1679,6 @@ FELIPE GONZALEZ MARQUEZ
 - **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)

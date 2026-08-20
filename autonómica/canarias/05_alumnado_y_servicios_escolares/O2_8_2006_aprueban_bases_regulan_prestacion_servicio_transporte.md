@@ -1,8 +1,7 @@
 ---
 id: norm-can-o-2-8-2006
 codigo_sintetizado: O2_8_2006 Regulacion del Transporte Escolar en Canarias
-titulo: Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan
-  la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
+titulo: Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -20,49 +19,44 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Transporte escolar
 tags:
-- admision-alumnado
-- atencion-diversidad
-- consejo-escolar
-- curriculo
-- ensenanzas-deportivas
-- equipos-directivos
-- evaluacion
-- gratuidad-transporte
-- neae
-- proteccion-menores
-- rutas-transporte
-- servicios-complementarios
-- transporte-escolar
+  - admision-alumnado
+  - atencion-diversidad
+  - consejo-escolar
+  - curriculo
+  - ensenanzas-deportivas
+  - equipos-directivos
+  - evaluacion
+  - gratuidad-transporte
+  - neae
+  - proteccion-menores
+  - rutas-transporte
+  - servicios-complementarios
+  - transporte-escolar
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-443-2001
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-443-2001
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '56'
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-can-l-14-1990
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-rd-443-2001
+    - '56'
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
-
-## Preámbulo
-
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
+## Preámbulo
 
 Archivo
 
@@ -80,8 +74,6 @@ Anterior
 
 Siguiente
 
-III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
-
 1202 - ORDEN de 2 de agosto de 2006, por la que se aprueban las bases que regulan el uso del transporte escolar canario en los Centros Educativos Públicos no universitarios y Residencias Escolares de la Comunidad Autónoma de Canarias.
 
 Examinado el expediente tramitado por la Dirección General de Promoción Educativa, relativo a la elaboración de las bases que regulan el uso del transporte escolar en los Centros Educativos Públicos no Universitarios y Residencias Escolares de la Comunidad Autónoma de Canarias, de acuerdo con los siguientes
@@ -98,7 +90,7 @@ Cuarto.- Asimismo, el artículo 110.2 de la citada Ley Orgánica, indica que "La
 
 Quinto.- La presente Orden se establece como un marco normativo del servicio complementario de Transporte Escolar, de apoyo a la escolarización del alumnado perteneciente a los Centros Educativos Públicos no Universitarios y de las Residencias Escolares de la Comunidad Autónoma de Canarias.
 
-Sexto.- Emitido Informe del Consejo Escolar de Canarias, de fecha 17 de julio de 2006.
+#### Sexto. Emitido Informe del Consejo Escolar de Canarias, de fecha 17 de julio de 2006.
 
 FUNDAMENTOS DE DERECHO
 
@@ -110,7 +102,7 @@ Tercero.- En aplicación de la Ley 38/2003, de 17 de noviembre, General de Subve
 
 En virtud de las competencias atribuidas por el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias; artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. nº 96, de 1.8.90); los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (B.O.C. nº 148, de 1.8.06),
 
-D I S P O N G O:
+DISPONGO:
 
 Primero.- Aprobar las bases que han de regular el uso del Transporte Escolar Canario en los Centros Educativos Públicos no universitarios y Residencias Escolares de la Comunidad Autónoma de Canarias, que se recogen en el anexo I.
 
@@ -132,19 +124,19 @@ CULTURA Y DEPORTES,
 
 Isaac Cristóbal Godoy Delgado.
 
-A N E X O
+## Anexo
 
-I
+**I**
 
 BASES QUE HAN DE REGULAR EL USO DEL TRANSPORTE ESCOLAR CANARIO EN LOS CENTROS EDUCATIVOS PÚBLICOS NO UNIVERSITARIOS Y RESIDENCIAS ESCOLARES.
 
 I. SERVICIO DE TRANSPORTE ESCOLAR DEL ALUMNADO DE CENTROS PÚBLICOS DE EDUCACIÓN PRIMARIA Y SECUNDARIA (1er Y 2º CURSO).
 
-Primera.- Garantía del uso del transporte.
+#### Primera. Garantía del uso del transporte.
 
 Se garantizará el transporte al alumnado de Educación Primaria y Educación Secundaria Obligatoria (1er y 2º curso), que tenga su domicilio en el área de influencia del centro educativo y haya de ser trasladado a dos o más kilómetros de distancia del mismo, ya sea por rutas de transporte escolar establecidas o, mediante ayudas económicas individualizadas.
 
-Segunda.- Autorización para la utilización del transporte escolar por el alumnado de Educación Infantil.
+#### Segunda. Autorización para la utilización del transporte escolar por el alumnado de Educación Infantil.
 
 La Dirección General de Promoción Educativa podrá autorizar de forma excepcional, el transporte del alumnado de Educación Infantil, previa solicitud del Centro, la cual deberá incluir necesariamente el visto bueno del Servicio de Inspección Educativa, debiendo cumplimentar el anexo IV-A.
 
@@ -154,7 +146,7 @@ Dichos alumnos, una vez autorizados a utilizar el servicio, se adaptarán a los 
 
 II. SERVICIO DE TRANSPORTE ESCOLAR DEL ALUMNADO DE CENTROS PÚBLICOS DE EDUCACIÓN SECUNDARIA.
 
-Tercera.- Requisitos para el uso de servicio de transporte escolar.
+#### Tercera. Requisitos para el uso de servicio de transporte escolar.
 
 Para garantizar el servicio de transporte escolar al alumnado que curse estudios en los Centros Públicos de Educación Secundaria, es necesario que cumpla los siguientes requisitos:
 
@@ -176,7 +168,7 @@ El centro deberá remitir a la Dirección General de Promoción Educativa el ane
 
 III. SERVICIO DE TRANSPORTE ESCOLAR DEL ALUMNADO DE CENTROS PÚBLICOS DE EDUCACIÓN PRIMARIA, SECUNDARIA Y ESPECIAL, CON NECESIDADES EDUCATIVAS ESPECIALES.
 
-Cuarta.- Garantía del uso del transporte del alumnado con necesidades educativas especiales.
+#### Cuarta. Garantía del uso del transporte del alumnado con necesidades educativas especiales.
 
 Se garantiza el uso del transporte escolar, adecuado a las necesidades del alumnado que presente discapacidad física, psíquica o plurideficiente.
 
@@ -188,13 +180,13 @@ Hasta que se definan las zonas de influencia del alumnado que deba ser escolariz
 
 IV. SERVICIO DE TRANSPORTE ESCOLAR EN LAS RESIDENCIAS ESCOLARES DEPENDIENTES DE LA DIRECCIÓN GENERAL DE PROMOCIÓN EDUCATIVA.
 
-Quinta.- Requisitos para el uso del transporte en Residencias Escolares.
+#### Quinta. Requisitos para el uso del transporte en Residencias Escolares.
 
 Tendrán derecho al transporte escolar todos los alumnos residentes de educación obligatoria que cumplan los requisitos establecidos en las bases primera y tercera de la presente Orden, para su desplazamiento entre la parada más próxima a su domicilio familiar y la Residencia Escolar, durante los fines de semana y períodos vacacionales.
 
 V. AYUDAS INDIVIDUALIZADAS.
 
-Sexta.- Requisitos necesarios para solicitar una ayuda individualizada.
+#### Sexta. Requisitos necesarios para solicitar una ayuda individualizada.
 
 El alumnado que reúna los requisitos establecidos en las bases primera, tercera y cuarta, de la presente Orden, podrá solicitar una ayuda específica individualizada al transporte cuando no exista una ruta adecuada próxima a su domicilio.
 
@@ -202,7 +194,7 @@ Teniendo en cuenta la naturaleza de estas ayudas, a los beneficiarios no les ser
 
 VI. DISPOSICIONES GENERALES
 
-Séptima.- Solicitudes.
+#### Séptima. Solicitudes.
 
 Alumnado preferente: aquellos que cumplan con los requisitos establecidos en las bases primera, tercera y cuarta.
 
@@ -218,21 +210,21 @@ No se admitirá ninguna solicitud que sea enviada fuera de plazo de matrícula o
 
 La falsificación de datos por parte del solicitante conllevará la pérdida automática del derecho al transporte escolar, sin perjuicio de las responsabilidades legales en las que pudiera incurrir.
 
-Octava.- Solicitud de bonos transporte regular de viajeros.
+#### Octava. Solicitud de bonos transporte regular de viajeros.
 
 Cuando no exista ruta de Transporte Escolar y se trate de alumnado que reúna los requisitos establecidos en la base tercera, el centro educativo podrá solicitar bonos a la Dirección General de Promoción Educativa, a través de la página web del Transporte Escolar (anexo IV-C).
 
 El centro enviará antes del 30 de septiembre de cada curso escolar, el citado anexo, debidamente cumplimentado, a la Dirección General de Promoción Educativa para la autorización y solicitud a la empresa de los mismos.
 
-Novena.- Centros con comedor escolar.
+#### Novena. Centros con comedor escolar.
 
 Los Centros Educativos que dispongan del servicio de Comedor Escolar, deberán adaptar el horario del transporte escolar exclusivamente al alumnado que haga uso del comedor y sea beneficiario del transporte.
 
-Décima.- Calendario escolar.
+#### Décima. Calendario escolar.
 
 Los Centros Educativos deberán remitir a la Dirección General de Promoción Educativa y a la empresa transportista, antes del 31 de octubre, el calendario de días no lectivos correspondiente a cada curso escolar.
 
-Undécima.- Acompañante durante la realización del transporte escolar.
+#### Undécima. Acompañante durante la realización del transporte escolar.
 
 Será obligatoria la presencia de un acompañante a bordo del vehículo durante la realización del transporte escolar.
 
@@ -248,21 +240,21 @@ Controlar que el alumnado transportado sea únicamente aquél que haya sido auto
 
 En lo no contemplado en esta Orden respecto de la figura del acompañante, se estará a lo dispuesto en el [Real Decreto 443/2001](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md), de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores.
 
-Duodécima.- Peticiones del servicio de transporte escolar.
+#### Duodécima. Peticiones del servicio de transporte escolar.
 
 Los Centros deberán realizar todas las peticiones de servicio a través de la página web de Transporte Escolar https://extranet.educacion.org/PA/Gescentros/Scripts/Default.aspp
 
 En los casos de autorizaciones excepcionales se emitirán los anexos IV-A, IV-B.
 
-Decimotercera.- Bajas de alumnos transportados.
+#### Decimotercera. Bajas de alumnos transportados.
 
 Los Centros deberán notificar trimestralmente al Servicio de Inspección Educativa las bajas de los alumnos transportados que se produzcan a lo largo del curso, sin perjuicio de los trámites a realizar a través de la página web del Transporte escolar que tienen carácter obligatorio.
 
-Decimocuarta.- Acreditación del alumnado transportado.
+#### Decimocuarta. Acreditación del alumnado transportado.
 
 La dirección de los centros educativos, entregará, en los cinco primeros días del inicio del servicio al transportista o acompañante en el transporte escolar, el anexo III, donde figura la relación nominal del alumnado autorizado, acreditándose el alumnado con el carnet de estudiante.
 
-Decimoquinta.- Cumplimentación de los certificados acreditativos de la realización del servicio.
+#### Decimoquinta. Cumplimentación de los certificados acreditativos de la realización del servicio.
 
 Los centros educativos entregarán a las empresas transportistas, en los cinco días siguientes a la finalización del mes en que se realizó el servicio, el certificado positivo y si fuera necesario, el certificado con incidencias para acreditar la realización del servicio y proceder al abono correspondiente. Los mismos se realizarán obligatoriamente a través de la web del transporte escolar.
 
@@ -288,15 +280,14 @@ En la fijación de los itinerarios se deberá tener en cuenta que sea el más co
 
 Ver anexos - páginas 19249-19266
 
-## ANEXOS COMPLEMENTARIOS (Descargados desde PDF del BOC)
+## Anexo. S COMPLEMENTARIOS (Descargados desde PDF del BOC)
 
-### Anexo Fuente: https://www.gobiernodecanarias.org/boc/2006/165/boc-2006-165-anexo-19249-19266.pdf
-
----
+## Anexo. Fuente: https://www.gobiernodecanarias.org/boc/2006/165/boc-2006-165-anexo-19249-19266.pdf
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
@@ -307,6 +298,7 @@ Ver anexos - páginas 19249-19266
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 
 ### Fundamentos de Derecho
+
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)

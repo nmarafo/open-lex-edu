@@ -4,8 +4,7 @@ codigo_sintetizado: BOE-A-2010-4518
 titulo: Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-03-18'
 boletin: BOE
@@ -16,44 +15,41 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- autonomia-centro
-- igualdad-de-g-nero-y-diversidad
-- igualdad-genero
-- neae
-- oposiciones
-- personal-no-docente
+  - autonomia-centro
+  - igualdad-de-g-nero-y-diversidad
+  - igualdad-genero
+  - neae
+  - oposiciones
+  - personal-no-docente
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-1-2004
   fundamento_de:
-  - norma_id: norm-es-2012-9282
-  - norma_id: norm-es-2021-11382
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-es-2012-9282
+    - norma_id: norm-es-2021-11382
+    - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-can-d-84-2024
+    - norma_id: norm-can-l-4-2023
+    - norma_id: norm-can-o-2013-10-09
+    - norma_id: norm-can-res-boc-2018-124-126
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-2007-6115
-- norma_id: norm-es-lo-1-2004
+    - '27'
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-lo-1-2004
 ---
+# Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 ## Preámbulo
 
-# Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
-
-# Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
-
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
-## EXPOSICIÓN DE MOTIVOS
+## Exposición de motivos
 
 La igualdad de derechos entre mujeres y hombres es un derecho fundamental en una sociedad democrática moderna que, desde todos los niveles normativos, se intenta conseguir a través de diversas medidas plasmadas en los tratados internacionales, en la normativa comunitaria, en nuestra Constitución y en la normativa legal y reglamentaria interna. También la Comunidad Autónoma de Canarias se ha comprometido con esa lucha, incluyendo la Igualdad en el Estatuto de Autonomía, y desarrollándola en la Ley de creación del Instituto Canario de la Mujer y en otras normativas sectoriales que incluían el compromiso por la consecución de la igualdad para las mujeres.
 
@@ -65,7 +61,7 @@ La presente Ley Canaria de Igualdad entre Mujeres y Hombres tiene como objetivo 
 
 Ha sido difícil que nuestra sociedad aceptase que la igualdad tenía que afectar a todos los ámbitos de la vida y desarrollo de las mujeres, no solo al ámbito laboral. Aquí nos hemos encontrado con la dificultad de concienciación del reconocimiento del derecho a una vida digna y de respeto, cuando nos referimos a la violencia de género.
 
-En el ámbito internacional, figura de forma expresa y contundente, con los pronunciamientos para la eliminación de todas las formas de discriminación hacia las mujeres, en el marco de la Organización de las Naciones Unidas, que viene conformado por la Declaración sobre la eliminación de la discriminación contra la Mujer de 1967, la Convención para la eliminación de todas las formas de discriminación contra la Mujer de 1979 y el Comité para la Eliminación de la Discriminación contra la Mujer, que tiene como función vigilar la aplicación de la Convención por los Estados que la han suscrito; entre ellos, España. En la Convención se declara que la discriminación contra las mujeres vulnera los principios de igualdad de derechos y de respeto a la dignidad humana, dificultando la plena participación de las mujeres en la vida política, social, económica y cultural.
+En el ámbito internacional, figura de forma expresa y contundente, con los pronunciamientos para la eliminación de todas las formas de discriminación hacia las mujeres, en el marco de la Organización de las Naciones Unidas, que viene conformado por la Declaración sobre la eliminación de la discriminación contra la Mujer de 1967, la Convención para la eliminación de todas las formas de discriminación contra la Mujer de 1979 y el Comité para la Eliminación de la Discriminación contra la Mujer, que tiene como función vigilar la aplicación de la Convención por los Estados que la han suscrito; entre ellos, España. En la Convención se declara que la discriminación contra las mujeres vulnera los principios de igualdad de derechos y de respeto a la dignidad humana, dificultando la plena participación de las mujeres en la vida política, social, económica y cultural.
 
 En esta línea, las cuatro conferencias mundiales sobre la mujer, celebradas en el marco de la Organización de las Naciones Unidas –la primera de ellas celebrada en México en el año 1975, y las posteriores: Copenhague 1980, Nairobi 1985 y Pekín 1995–, han contribuido a situar la causa de la igualdad de género en primera línea del debate mundial. La Declaración y la Plataforma de Acción de la IV Conferencia Mundial sobre la Mujer de 1995 han establecido las dos estrategias fundamentales para el desarrollo eficaz de las políticas de igualdad entre mujeres y hombres: una, la transversalidad de género, siendo necesaria la vinculación de la totalidad de los poderes públicos, y dos, la representación equilibrada. Si bien es cierto que en estos últimos diez años, se han producido actuaciones de continuidad en el impulso que supuso sobre todo Beijing-Pekín, como ha sido el documento de Beijing + 10.
 
@@ -77,7 +73,9 @@ La Constitución española, aunque responde a un momento en el que todavía no s
 
 Hoy contamos en España con el mejor instrumento renovador e impulsor de la igualdad de oportunidades y de resultado entre mujeres y hombres, la [Ley Orgánica 3/2007](LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igualdad efectiva de mujeres y hombres, constituyendo el marco de desarrollo del principio de igualdad de trato, ya que incorpora sustanciales modificaciones legislativas para avanzar en la igualdad real entre mujeres y hombres y en el ejercicio pleno de los derechos, e implementa medidas transversales que inciden en todos los órdenes de la vida política, jurídica y social, a fin de erradicar las discriminaciones contra las mujeres. Esta norma supone una obligación para que las administraciones asuman de una vez la protección, acompañamiento e impulso de las mujeres en todos sus ámbitos de desarrollo, en todas las relaciones y en todas las etapas de su vida.
 
-El proceso de descentralización, que a partir del texto constitucional conduce al Estado autonómico, conlleva que sean diversos los poderes públicos que tienen que proyectar y desarrollar políticas de promoción de la igualdad de oportunidades. Es el caso de Canarias y de su Comunidad Autónoma, que recoge en su Estatuto de Autonomía, dentro del título preliminar, en el artículo 5 sobre Derechos y Deberes, de forma expresa en su punto 2 a), que «Los poderes públicos canarios, en el marco de sus competencias, asumen como principios rectores de su política: a) La promoción de las condiciones necesarias para el libre ejercicio de los derechos y libertades de los ciudadanos y de la igualdad de los individuos y los grupos en que se integran». Así mismo, el artículo 30 del Estatuto de Autonomía, recoge en el punto 2, dentro de las competencias exclusivas, «régimen de sus organismos autónomos, de acuerdo con la legislación básica del Estado»; así en la creación del Instituto Canario de la Mujer se da cumplimiento a toda la materia de igualdad recogida como mandato en la Constitución española y en todos los tratados internacionales de los que participe España.
+El proceso de descentralización, que a partir del texto constitucional conduce al Estado autonómico, conlleva que sean diversos los poderes públicos que tienen que proyectar y desarrollar políticas de promoción de la igualdad de oportunidades. Es el caso de Canarias y de su Comunidad Autónoma, que recoge en su Estatuto de Autonomía, dentro del título preliminar, en el artículo 5 sobre.
+
+Derechos y Deberes, de forma expresa en su punto 2 a), que «Los poderes públicos canarios, en el marco de sus competencias, asumen como principios rectores de su política: a) La promoción de las condiciones necesarias para el libre ejercicio de los derechos y libertades de los ciudadanos y de la igualdad de los individuos y los grupos en que se integran». Así mismo, el artículo 30 del Estatuto de Autonomía, recoge en el punto 2, dentro de las competencias exclusivas, «régimen de sus organismos autónomos, de acuerdo con la legislación básica del Estado»; así en la creación del Instituto Canario de la Mujer se da cumplimiento a toda la materia de igualdad recogida como mandato en la Constitución española y en todos los tratados internacionales de los que participe España.
 
 De esta forma, la vinculación de los poderes públicos de la Comunidad Autónoma de Canarias es directa, en relación a todo lo establecido en los diferentes tratados y normas constitucionales y estatutarias relacionadas con la igualdad, para su respeto y promoción para todas las mujeres en su relación con los hombres.
 
@@ -101,7 +99,7 @@ La presente ley se estructura en un título preliminar, cuatro títulos, setenta
 
 El título preliminar establece los conceptos esenciales en materia de igualdad de género y los principios generales que han de presidir la actuación de los poderes públicos en relación con la igualdad de género.
 
-## TÍTULO PRELIMINAR
+## Título Preliminar
 
 **Disposiciones generales**
 
@@ -115,7 +113,7 @@ La presente ley tiene como objetivo hacer real y efectivo el derecho de igualdad
 
 2. En particular, en los términos establecidos en la propia ley, será de aplicación:
 
-a) A la Administración autonómica de Canarias: a sus organismos autónomos, a sus entidades públicas empresariales, a las empresas públicas de la Comunidad Autónoma de Canarias, a los consorcios, fundaciones y demás entidades con personalidad jurídica propia en los que sea mayoritaria la representación directa del Gobierno de Canarias.
+a) **A la Administración autonómica de Canarias.** A sus organismos autónomos, a sus entidades públicas empresariales, a las empresas públicas de la Comunidad Autónoma de Canarias, a los consorcios, fundaciones y demás entidades con personalidad jurídica propia en los que sea mayoritaria la representación directa del Gobierno de Canarias.
 
 b) A las entidades que integran la Administración local, tanto ayuntamientos como cabildos, sus organismos autónomos, consorcios, fundaciones y demás entidades con personalidad jurídica propia en los que sea mayoritaria la representación directa de dichas entidades.
 
@@ -167,13 +165,11 @@ Para la consecución del objeto de esta ley, serán principios generales de actu
 
 17. La coordinación, entendida como la ordenada gestión de competencias entre las administraciones públicas en materia de igualdad entre mujeres y hombres, con la finalidad de lograr una mayor eficacia tanto en las políticas a aplicar como en la ejecución del presupuesto, donde se debe tender a su optimización y evitar la duplicidad de gastos para los mismos fines.
 
-## TÍTULO I
+## Título I
 
 **Políticas públicas para la promoción de la igualdad de género**
 
-CAPÍTULO I
-
-Integración de la perspectiva de género en las políticas públicas
+## Capítulo I. Integración de la perspectiva de género en las políticas públicas.
 
 #### Artículo 5. Transversalidad de género.
 
@@ -249,9 +245,7 @@ d) En todas las estadísticas y estudios, aparte de recoger la variable de sexo 
 
 4. Se impulsarán los estudios con perspectiva de género en el ámbito juvenil, de ocio, empleo y vivienda en y para los y las jóvenes.
 
-CAPÍTULO II
-
-Promoción de la igualdad de género por parte del Gobierno de Canarias
+## Capítulo II. Promoción de la igualdad de género por parte del Gobierno de Canarias.
 
 #### Artículo 12. Representación equilibrada de los órganos directivos y colegiados.
 
@@ -275,15 +269,13 @@ b) Cada organización, institución o entidad a las que corresponda la designaci
 
 2. La Administración de la Comunidad Autónoma de Canarias no formalizará contratos cuyo objeto sean ayudas y subvenciones públicas con aquellas empresas sancionadas o condenadas por resolución administrativa firme o sentencia judicial firme por alentar o tolerar prácticas laborales consideradas discriminatorias por la legislación vigente.
 
-## TÍTULO II
+## Título II
 
 **Medidas para promover la igualdad de género**
 
-CAPÍTULO I
+## Capítulo I. Igualdad en la educación.
 
-Igualdad en la educación
-
-Sección 1.ª Enseñanza no universitaria
+#### Sección 1. ª Enseñanza no universitaria
 
 #### Artículo 15. Principio de igualdad en la educación.
 
@@ -357,7 +349,7 @@ La composición del consejo escolar respetará el equilibrio entre ambos sexos. 
 
 3. La Administración educativa canaria organizará periódicamente actividades formativas dirigidas a los servicios de inspección educativa, sobre educación para la igualdad entre mujeres y hombres, inspirada en los principios de pluralismo y diversidad.
 
-Sección 2.ª Enseñanza universitaria
+#### Sección 2. ª Enseñanza universitaria
 
 #### Artículo 22. Igualdad de oportunidades en la Educación Superior.
 
@@ -377,9 +369,7 @@ Sección 2.ª Enseñanza universitaria
 
 3. Las administraciones públicas de Canarias, en el ámbito de sus competencias, fomentarán el apoyo a la formación y a la investigación en materia de igualdad entre mujeres y hombres y promoverán y velarán por que, en los proyectos de investigación de los que se puedan extraer resultados para las personas, se tenga en cuenta la perspectiva de género.
 
-CAPÍTULO II
-
-De la igualdad en el empleo
+## Capítulo II. De la igualdad en el empleo.
 
 #### Artículo 24. Igualdad de oportunidades en el acceso al empleo.
 
@@ -387,7 +377,7 @@ De la igualdad en el empleo
 
 2. La Administración canaria desarrollará medidas de acción positiva destinadas a garantizar la igualdad de oportunidades y la superación de las situaciones de segregación profesional, tanto vertical como horizontal, así como las que supongan desigualdades retributivas.
 
-Sección 1.ª De la igualdad laboral en el sector privado y en la Función Pública canaria
+#### Sección 1. ª De la igualdad laboral en el sector privado y en la Función Pública canaria
 
 **Subsección 1.ª Igualdad en el ámbito laboral en el sector privado**
 
@@ -509,7 +499,7 @@ Igualmente, y con esta finalidad, se establecerán medidas que deberán negociar
 
 La Administración de la Comunidad Autónoma de Canarias adoptará las medidas necesarias para una protección eficaz frente al acoso sexual y el acoso por razón de sexo, tanto en el ámbito de la Administración pública como en el de las empresas privadas.
 
-Sección 2.ª Responsabilidad social y Marca de Excelencia Canaria en igualdad
+#### Sección 2. ª Responsabilidad social y Marca de Excelencia Canaria en igualdad
 
 #### Artículo 37. Actuaciones de responsabilidad social de las empresas en materia de igualdad.
 
@@ -541,9 +531,7 @@ g) La implementación de actuaciones de responsabilidad social en materia de igu
 
 2. Los criterios para la obtención, el control de la ejecución y la renovación de la marca de excelencia serán establecidos reglamentariamente.
 
-CAPÍTULO III
-
-Conciliación de la vida laboral, familiar y personal
+## Capítulo III. Conciliación de la vida laboral, familiar y personal.
 
 #### Artículo 40. Derecho y deber de la corresponsabilidad de hombres y mujeres en el ámbito público y privado.
 
@@ -563,7 +551,7 @@ Conciliación de la vida laboral, familiar y personal
 
 Las empresas podrán ofrecer al trabajador o trabajadora el derecho a optar por realizar su trabajo sin necesidad de desplazamiento, cuando las condiciones laborales lo permitan y previo informe positivo de impacto de género en relación con los efectos de dicha medida, de acuerdo con la representación sindical.
 
-Sección 1.ª De la conciliación en las empresas privadas
+#### Sección 1. ª De la conciliación en las empresas privadas
 
 #### Artículo 43. Conciliación en las empresas.
 
@@ -573,17 +561,11 @@ Sección 1.ª De la conciliación en las empresas privadas
 
 3. El Gobierno de Canarias impulsará la creación de centros infantiles en polígonos industriales y parques tecnológicos que posibiliten, a los hombres y mujeres, la conciliación de la vida laboral, familiar y personal.
 
-Sección 2.ª De la conciliación en la Función Pública canaria
+#### Sección 2. ª De la conciliación en la Función Pública canaria artículo 44 Conciliación en el empleo público. El Gobierno de Canarias impulsará medidas de flexibilización horaria y jornadas parciales, así como la creación de centros infantiles en los centros de trabajo, para facilitar la conciliación de la vida laboral y familiar de las empleadas y empleados públicos, y hacer posible un reparto equilibrado de las tareas y responsabilidades familiares domésticas.
 
-#### Artículo 44. Conciliación en el empleo público.
+## Capítulo IV. Políticas de promoción y protección de la salud y de bienestar social.
 
-El Gobierno de Canarias impulsará medidas de flexibilización horaria y jornadas parciales, así como la creación de centros infantiles en los centros de trabajo, para facilitar la conciliación de la vida laboral y familiar de las empleadas y empleados públicos, y hacer posible un reparto equilibrado de las tareas y responsabilidades familiares domésticas.
-
-CAPÍTULO IV
-
-Políticas de promoción y protección de la salud y de bienestar social
-
-Sección 1.ª Promoción y protección de la salud
+#### Sección 1. ª Promoción y protección de la salud
 
 #### Artículo 45. Perspectiva de género en el Sistema Sanitario Público de Canarias.
 
@@ -617,7 +599,7 @@ Sección 1.ª Promoción y protección de la salud
 
 2. El Plan de Salud de Canarias, como instrumento de planificación de las políticas sanitarias, incorporará la perspectiva de género en el análisis, objetivos y actuaciones sobre los problemas de salud que presente la población, con especial atención a la violencia de género, en sus múltiples manifestaciones, así como a todos aquellos factores de especial vulnerabilidad para la salud de las mujeres.
 
-Sección 2.ª Políticas de bienestar social
+#### Sección 2. ª Políticas de bienestar social
 
 #### Artículo 48. Igualdad en las políticas de bienestar social.
 
@@ -667,7 +649,7 @@ El Gobierno de Canarias reforzará los servicios de atención primaria para que 
 
 Los poderes públicos de Canarias promoverán la integración, participación y promoción de las mujeres migrantes, realizarán actuaciones para promover la interculturalidad y el valor de la diversidad dentro de un marco de derechos y de igualdad plena de las mujeres, velarán por el acceso al empleo y a los servicios de las mujeres migrantes y concederán protección a situaciones de violencia de género.
 
-Sección 3.ª Derecho al embarazo y la maternidad
+#### Sección 3. ª Derecho al embarazo y la maternidad
 
 #### Artículo 56. Derecho al embarazo y la maternidad.
 
@@ -693,9 +675,7 @@ h) Se promoverán en el ámbito educativo las acciones necesarias para fomentar 
 
 i) Todo el contenido de la presente sección se publicará y difundirá en cualesquiera medios que faciliten que la información llegue de manera eficaz a la ciudadanía. Se incluirá información a la mujer embarazada, en cualquiera de las circunstancias personales en que se encuentre a través del teléfono de información del Gobierno de Canarias 012.
 
-CAPÍTULO V
-
-Políticas de promoción y atención a las mujeres
+## Capítulo V. Políticas de promoción y atención a las mujeres.
 
 #### Artículo 57. Vivienda, urbanismo y planeamiento.
 
@@ -717,9 +697,7 @@ Políticas de promoción y atención a las mujeres
 
 2. Los poderes públicos de Canarias desarrollarán acciones dirigidas a eliminar la discriminación de las mujeres del medio rural y favorecer su incorporación al ámbito laboral, a la formación y a las nuevas tecnologías, así como su plena participación en la vida pública. Asimismo, garantizarán el ejercicio del derecho a la titularidad compartida en explotaciones agrarias.
 
-CAPÍTULO VI
-
-Participación social, política y económica
+## Capítulo VI. Participación social, política y económica.
 
 #### Artículo 60. Participación política.
 
@@ -755,9 +733,7 @@ Las candidaturas para las elecciones al Parlamento de Canarias garantizarán la 
 
 4. Las administraciones públicas competentes promoverán la presencia equilibrada de mujeres y hombres en los órganos de dirección y decisión en el ámbito social, político, económico, cultural y deportivo.
 
-CAPÍTULO VII
-
-Imagen y medios de comunicación
+## Capítulo VII. Imagen y medios de comunicación.
 
 #### Artículo 65. Imagen de las mujeres y de los hombres.
 
@@ -777,7 +753,7 @@ Los medios de comunicación social adoptarán, mediante autorregulación, códig
 
 3. La Administración canaria promoverá una presencia equilibrada de mujeres y hombres en órganos de dirección y decisión de los medios de comunicación social.
 
-## TÍTULO III
+## Título III
 
 **Organización institucional y coordinación entre las distintas administraciones públicas para la igualdad de género**
 
@@ -819,7 +795,7 @@ d) Proponer a los cabildos insulares y a los ayuntamientos, en el ámbito de sus
 
 Se creará la Comisión de coordinación de las políticas autonómicas y locales para la igualdad de género con el objeto de coordinar e impulsar la integración del enfoque de género en las políticas y programas, en materia de igualdad entre mujeres y hombres, desarrollados por las distintas administraciones públicas de la Comunidad Autónoma, y que dependerá de la Consejería competente en materia de igualdad. Dicha Comisión estará compuesta por representantes de la Administración autonómica, de los siete cabildos insulares y de los ayuntamientos. Se establecerán reglamentariamente su composición y funcionamiento.
 
-## TÍTULO IV
+## Título IV
 
 **Garantías para la igualdad de género**
 
@@ -849,9 +825,11 @@ En aplicación de lo dispuesto en la [Ley Orgánica 3/2007](./LO3_2007_igualdad_
 
 #### Disposición adicional tercera. Modificación de la Ley 1/1994, de 13 de enero, del Instituto Canario de la Mujer.
 
-Se modifica el artículo 1 y las letras a) y b) del artículo 6 de la Ley 1/1994, de 14 de enero, del Instituto Canario de la Mujer, que quedan redactados en los siguientes términos:
+Se modifica el artículo 1 y las.
 
-«Artículo 1. El Instituto Canario de la Mujer pasará a denominarse ‘Instituto Canario de Igualdad’ como organismo autónomo de carácter administrativo adscrito a la consejería competente de Bienestar Social. Funcionalmente dependerá de Presidencia de Gobierno.»
+letras a) y b) del artículo 6 de la Ley 1/1994, de 14 de enero, del Instituto Canario de la Mujer, que quedan redactados en los siguientes términos:
+
+«Artículo 1. El Instituto Canario de la Mujer pasará a denominarse 'Instituto Canario de Igualdad' como organismo autónomo de carácter administrativo adscrito a la consejería competente de Bienestar Social. Funcionalmente dependerá de Presidencia de Gobierno.»
 
 «Artículo 6. El Consejo Rector estará formado por:
 
@@ -893,7 +871,7 @@ Se autoriza al Gobierno de Canarias para dictar las disposiciones necesarias par
 
 La presente ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias.
 
-ANEXO DE LA LEY
+## Anexo D. E LA LEY
 
 En el ámbito de aplicación de esta norma, se adoptarán los siguientes conceptos:
 
@@ -1077,11 +1055,10 @@ Santa Cruz de Tenerife, 26 de febrero de 2010.–El Presidente, Paulino Rivero B
 
 (Publicada en el «Boletín Oficial de Canarias» número 45, de 5 demarzo de 2010)
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
@@ -1094,6 +1071,7 @@ Santa Cruz de Tenerife, 26 de febrero de 2010.–El Presidente, Paulino Rivero B
 - **Fundamento de**: [**Resolucion BOC 126**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)

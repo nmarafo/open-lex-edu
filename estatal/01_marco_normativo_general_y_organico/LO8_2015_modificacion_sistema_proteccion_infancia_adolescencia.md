@@ -1,12 +1,10 @@
 ---
 id: norm-es-2015-8222
 codigo_sintetizado: BOE-A-2015-8222
-titulo: Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección
-  a la infancia y a la adolescencia.
+titulo: Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-23'
 boletin: BOE
@@ -17,62 +15,65 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- bienestar-infantil
-- curriculo
-- protecci-n-jur-dica-de-menores
-- proteccion-menores
+  - bienestar-infantil
+  - curriculo
+  - protecci-n-jur-dica-de-menores
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2000-544
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-1-2004
   fundamento_de:
-  - norma_id: norm-es-2021-11382
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-es-2021-11382
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-boc-2017-132-1
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-2000-544
-- norma_id: norm-es-lo-1-1996
-- norma_id: norm-es-lo-1-2004
+    - '27'
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-1-2004
 ---
+# Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo
 
-# Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
-
-## PREÁMBULO
-
 **I**
 
-El artículo 39 de la Constitución establece la obligación de los poderes públicos de asegurar la protección social, económica y jurídica de la familia, en especial de los menores de edad, de conformidad con los acuerdos internacionales que velan por sus derechos.
+El artículo 39 de la Constitución establece la obligación de los poderes públicos de asegurar la protección social, económica y jurídica de la familia, en especial de los menores de edad, de conformidad con los acuerdos internacionales que velan por sus derechos.
 
 En cumplimiento de este mandato, el legislador estatal, en el marco de sus competencias, ha regulado las instituciones jurídico-públicas y privadas sobre las que se asienta la protección del menor.
 
-El resultado, cuyo máximo exponente es la [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, en adelante Ley Orgánica de Protección Jurídica del Menor, es un marco regulador que garantiza a los menores una protección uniforme en todo el territorio del Estado, y que ha servido de referencia a la legislación que las Comunidades Autónomas han ido aprobando de acuerdo con su competencia en materia de asistencia social, servicios sociales y protección pública de menores.
+El resultado, cuyo máximo exponente es la [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, en adelante Ley Orgánica de Protección Jurídica del Menor, es un marco regulador que garantiza a los menores una protección uniforme en todo el territorio del Estado, y que ha servido de referencia a la legislación que las Comunidades Autónomas han ido aprobando de acuerdo con su competencia en materia de asistencia social, servicios sociales y protección pública de menores.
 
-Sin embargo, transcurridos casi veinte años desde la aprobación de la citada norma, se han producido importantes cambios sociales que inciden en la situación de los menores y que demandan una mejora de sus instrumentos de protección jurídica en aras del cumplimiento efectivo del citado artículo 39 de la Constitución.
+Sin embargo, transcurridos casi veinte años desde la aprobación de la citada norma, se han producido importantes cambios sociales que inciden en la situación de los menores y que demandan una mejora de sus instrumentos de protección jurídica en aras del cumplimiento efectivo del citado artículo 39 de la Constitución.
 
-Así se constata en las Recomendaciones contenidas en el Informe sobre «Centros de Protección de Menores con Trastornos de Conducta y en situación de Dificultad Social» del año 2009 y en el «Estudio sobre la escucha y el interés superior del menor, revisión judicial de medidas de protección y procesos de familia del año 2014» del Defensor del Pueblo. En el mismo sentido se pronunció la Fiscalía General del Estado en las Recomendaciones contenidas en su Memoria del año 2010, el Comité de los Derechos del Niño en las Observaciones finales a España de 3 de noviembre de 2010, y la Comisión Especial del Senado de estudio de la problemática de la adopción nacional y otros temas afines, cuyo informe fue publicado en el «Boletín Oficial de las Cortes Generales», Senado, el día 17 de noviembre de 2010. Además, son varios los convenios internacionales que han entrado en vigor en nuestro país en este periodo y que exigen una adaptación normativa.
+Así se constata en las Recomendaciones contenidas en el Informe sobre «Centros de Protección de Menores con Trastornos de Conducta y en situación de Dificultad Social» del año 2009 y en el «Estudio sobre la escucha y el interés superior del menor, revisión judicial de medidas de protección y procesos de familia del año 2014» del Defensor del Pueblo. En el mismo sentido se pronunció la Fiscalía General del Estado en las Recomendaciones contenidas en su Memoria del año 2010, el Comité de los Derechos del Niño en las Observaciones finales a España de 3 de noviembre de 2010, y la Comisión Especial del Senado de estudio de la problemática de la adopción nacional y otros temas afines, cuyo informe fue publicado en el «Boletín Oficial de las Cortes Generales», Senado, el día 17 de noviembre de 2010. Además, son varios los convenios internacionales que han entrado en vigor en nuestro país en este periodo y que exigen una adaptación normativa.
 
-De conformidad con las propuestas y recomendaciones referidas, esta ley tiene como objeto introducir los cambios jurídicos-procesales y sustantivos necesarios en aquellos ámbitos considerados como materia orgánica, al incidir en los derechos fundamentales y libertades públicas establecidos en los artículos 14, 15, 16, 17.1, 18.2 y 24 de la Constitución. Se busca con ello la mejora de los citados instrumentos de protección, a los efectos de continuar garantizando a los menores una protección uniforme en todo el territorio del Estado, que sirva de marco a las Comunidades Autónomas en el desarrollo de su respectiva legislación de protección de menores, con independencia de su situación administrativa, en caso de extranjeros. Para ello, mediante dos artículos y tres disposiciones finales, se procede a la modificación de las principales leyes que regulan las instituciones para la protección de los menores.
+De conformidad con las propuestas y recomendaciones referidas, esta ley tiene como objeto introducir los cambios jurídicos-procesales y sustantivos necesarios en aquellos ámbitos considerados como materia orgánica, al incidir en los derechos fundamentales y libertades públicas establecidos en los artículos 14, 15, 16, 17.1, 18.2 y 24 de la Constitución. Se busca con ello la mejora de los citados instrumentos de protección, a los efectos de continuar garantizando a los menores una protección uniforme en todo el territorio del Estado, que sirva de marco a las Comunidades Autónomas en el desarrollo de su respectiva legislación de protección de menores, con independencia de su situación administrativa, en caso de extranjeros. Para ello, mediante dos artículos y tres disposiciones finales, se procede a la modificación de las principales leyes que regulan las instituciones para la protección de los menores.
 
-En el artículo primero se establecen las modificaciones de la Ley Orgánica de Protección Jurídica del Menor; en el artículo segundo se determinan las modificaciones que afectan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en lo sucesivo Ley de Enjuiciamiento Civil; en la disposición final primera se recogen las modificaciones correspondientes a la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en adelante Ley Orgánica del Poder Judicial; en la disposición final segunda se modifica la [Ley Orgánica 4/2000](LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social y en la disposición final tercera se modifica la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+En el artículo primero se establecen las modificaciones de la Ley Orgánica de Protección Jurídica del Menor; en el artículo segundo se determinan las modificaciones que afectan a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, en lo sucesivo Ley de Enjuiciamiento Civil; en la disposición final primera se recogen las modificaciones correspondientes a la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en adelante Ley Orgánica del Poder Judicial; en la disposición final segunda se modifica la [Ley Orgánica 4/2000](LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social y en la disposición final tercera se modifica la [Ley Orgánica 1/2004](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 **II**
 
-Los cambios introducidos en la Ley Orgánica de Protección Jurídica del Menor desarrollan y refuerzan el derecho del menor a que su interés superior sea prioritario, principio fundamental en esta materia, pero concepto jurídico indeterminado que ha sido objeto, a lo largo de estos años, de diversas interpretaciones. Por ello, para dotar de contenido al concepto mencionado, se modifica el artículo 2 incorporando tanto la jurisprudencia del Tribunal Supremo de los últimos años como los criterios de la Observación general n.º 14, de 29 de mayo de 2013, del Comité de Naciones Unidas de Derechos del Niño, sobre el derecho del niño a que su interés superior sea una consideración primordial. Este concepto se define desde un contenido triple. Por una parte, es un derecho sustantivo en el sentido de que el menor tiene derecho a que, cuando se adopte una medida que le concierna, sus mejores intereses hayan sido evaluados y, en el caso de que haya otros intereses en presencia, se hayan ponderado a la hora de llegar a una solución. Por otra, es un principio general de carácter interpretativo, de manera que si una disposición jurídica puede ser interpretada en más de una forma se debe optar por la interpretación que mejor responda a los intereses del menor. Pero además, en último lugar, este principio es una norma de procedimiento. En estas tres dimensiones, el interés superior del menor tiene una misma finalidad: asegurar el respeto completo y efectivo de todos los derechos del menor, así como su desarrollo integral.
+Los cambios introducidos en la Ley Orgánica de Protección Jurídica del Menor desarrollan y refuerzan el derecho del menor a que su interés superior sea prioritario, principio fundamental en esta materia, pero concepto jurídico indeterminado que ha sido objeto, a lo largo de estos años, de diversas interpretaciones. Por ello, para dotar de contenido al concepto mencionado, se modifica el artículo 2 incorporando.
+
+tanto la jurisprudencia del Tribunal Supremo de los últimos años como los criterios de la Observación general n.º 14, de 29 de mayo de 2013, del Comité de Naciones Unidas de Derechos del Niño, sobre el derecho del niño a que su interés superior sea una consideración primordial. Este concepto se define desde un contenido triple. Por una parte, es un derecho sustantivo en el sentido de que el menor tiene derecho a que, cuando se adopte una medida que le concierna, sus mejores intereses hayan sido evaluados y, en el caso de que haya otros intereses en presencia, se hayan ponderado a la hora de llegar a una solución. Por otra, es un principio general de carácter interpretativo, de manera que si una disposición jurídica puede ser interpretada en más de una forma se debe optar por la interpretación que mejor responda a los intereses del menor. Pero además, en último lugar, este principio es una norma de procedimiento. En estas tres dimensiones, el interés superior del menor tiene una misma finalidad: asegurar el respeto completo y efectivo de todos los derechos del menor, así como su desarrollo integral.
 
 A la luz de estas consideraciones, es claro que la determinación del interés superior del menor en cada caso debe basarse en una serie de criterios aceptados y valores universalmente reconocidos por el legislador que deben ser tenidos en cuenta y ponderados en función de diversos elementos y de las circunstancias del caso, y que deben explicitarse en la motivación de la decisión adoptada, a fin de conocer si ha sido correcta o no la aplicación del principio.
 
-Se modifica también el apartado 2 del artículo 10 añadiendo la posibilidad de facilitar a los menores el acceso a mecanismos adecuados y adaptados a sus necesidades para plantear sus quejas ante la figura del Defensor del Pueblo o instituciones autonómicas homólogas. Además se refuerza la tutela judicial efectiva de los menores introduciendo la posibilidad de solicitar asistencia legal y nombramiento de un defensor judicial.
+Se modifica también el apartado 2 del artículo 10 añadiendo.
 
-Se regula, como novedad importante, en el nuevo capítulo IV del título II, el ingreso de menores en centros de protección específicos para menores con problemas de conducta en los que esté prevista, como último recurso, la utilización de medidas de seguridad y de restricción de libertades o derechos fundamentales, así como las actuaciones e intervenciones que pueden realizarse en los mismos. Su regulación específica atiende a las peticiones planteadas por instituciones relevantes como el Defensor del Pueblo, la Fiscalía General del Estado y el Comité de los Derechos del Niño, entre otras, y cuya situación también fue abordada por la Comisión Especial del Senado de estudio de la problemática de la adopción nacional y otros temas afines; así como con lo indicado por el Tribunal Constitucional en sus sentencias 131 y 132/2010, de 2 de diciembre de 2010, por las que se resolvieron sendas cuestiones de inconstitucionalidad interpuestas, respectivamente, en relación con el artículo 211 del Código Civil y con la disposición final vigésima tercera de la Ley Orgánica de Protección Jurídica del Menor y con el artículo 763 de la Ley de Enjuiciamiento Civil.
+la posibilidad de facilitar a los menores el acceso a mecanismos adecuados y adaptados a sus necesidades para plantear sus quejas ante la figura del Defensor del Pueblo o instituciones autonómicas homólogas. Además se refuerza la tutela judicial efectiva de los menores introduciendo la posibilidad de solicitar asistencia legal y nombramiento de un defensor judicial.
+
+Se regula, como novedad importante, en el nuevo capítulo IV del título II, el ingreso de menores en centros de protección específicos para menores con problemas de conducta en los que esté prevista, como último recurso, la utilización de medidas de seguridad y de restricción de libertades o derechos fundamentales, así como las actuaciones e intervenciones que pueden realizarse en los mismos. Su regulación específica atiende a las peticiones planteadas por instituciones relevantes como el Defensor del Pueblo, la Fiscalía General del Estado y el Comité de los Derechos del Niño, entre otras, y cuya situación también fue abordada por la Comisión Especial del Senado de estudio de la problemática de la adopción nacional y otros temas afines; así como con lo indicado por el Tribunal Constitucional en sus sentencias 131 y 132/2010, de 2 de diciembre de 2010, por las que se resolvieron sendas cuestiones de inconstitucionalidad interpuestas, respectivamente, en relación con el artículo 211 l.
+
+Código Civil y con la disposición final vigésima tercera de la Ley Orgánica de Protección Jurídica del Menor y con el artículo 763 de la Ley de Enjuiciamiento Civil.
 
 Estos centros de protección a la infancia tienen en cuenta las especiales características, complejidad, condiciones y necesidades de estos menores, que requieren de una intervención especializada, cuando se encuentren bajo la protección de la Entidad Pública.
 
@@ -88,11 +89,15 @@ En todo caso, estos centros nunca podrán concebirse como instrumentos de defens
 
 En el artículo segundo se modifica la Ley de Enjuiciamiento Civil para introducir las reformas procesales que garanticen la efectividad de las novedades sustantivas que se han expuesto, así como para obtener de los Tribunales la tutela más efectiva posible de los derechos e intereses de los menores.
 
-Con la introducción del nuevo artículo 778 bis se incorpora un procedimiento ágil, sencillo y detallado para la obtención de la autorización judicial del ingreso de un menor en un centro de protección específico de menores con problemas de conducta, a fin de legitimar las restricciones a su libertad y derechos fundamentales que la medida pueda comportar. El ingreso de un menor en estos centros, a solicitud de la Entidad Pública o del Ministerio Fiscal, requiere del debido control judicial que se efectuará al exigir que se realice previa autorización del Juez de Primera Instancia del domicilio de la Entidad Pública, salvo en los supuestos de urgencia, en los que el ingreso será ratificado con posterioridad, con intervención del Ministerio Fiscal y del menor.
+Con la introducción del nuevo
 
-Por otra parte, se introducen modificaciones en la regulación de las autorizaciones para la entrada en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular para la ejecución forzosa de medidas de protección de un menor. La necesaria garantía de los derechos fundamentales en juego conduce a la introducción, mediante el nuevo artículo 778 ter de la Ley de Enjuiciamiento Civil, de un procedimiento especial para conocer de las solicitudes para entrar en un domicilio en ejecución de las resoluciones administrativas de protección de menores.
+#### Artículo 778 bis. se.
 
-Hasta la fecha, la competencia se ha atribuido a la jurisdicción contencioso-administrativa, no existiendo un procedimiento específico que garantice plenamente el equilibrio de los intereses en juego: de una parte, el superior interés del menor afectado por la resolución administrativa cuya ejecución exige la entrada en un domicilio; y de otra, el derecho fundamental a la inviolabilidad del domicilio consagrado en el artículo 18.2 de la Constitución. Frente a la situación existente, se ha optado por atribuir la competencia para la autorización de entrada en domicilio al Juzgado de Primera Instancia, pues es al que le corresponde el conocimiento de los recursos contra las resoluciones dictadas por las Entidades Públicas competentes en la materia, debiendo realizar una ponderación de los intereses en juego, competencia alejada de la función esencial del Juzgado de lo Contencioso-administrativo, que se centra en el control de la corrección de la actividad administrativa sometida a su conocimiento.
+incorpora un procedimiento ágil, sencillo y detallado para la obtención de la autorización judicial del ingreso de un menor en un centro de protección específico de menores con problemas de conducta, a fin de legitimar las restricciones a su libertad y derechos fundamentales que la medida pueda comportar. El ingreso de un menor en estos centros, a solicitud de la Entidad Pública o del Ministerio Fiscal, requiere del debido control judicial que se efectuará al exigir que se realice previa autorización del Juez de Primera Instancia del domicilio de la Entidad Pública, salvo en los supuestos de urgencia, en los que el ingreso será ratificado con posterioridad, con intervención del Ministerio Fiscal y del menor.
+
+Por otra parte, se introducen modificaciones en la regulación de las autorizaciones para la entrada en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular para la ejecución forzosa de medidas de protección de un menor. La necesaria garantía de los derechos fundamentales en juego conduce a la introducción, mediante el nuevo artículo 778 ter de la Ley de Enjuiciamiento Civil, de un procedimiento especial para conocer de las solicitudes para entrar en un domicilio en ejecución de las resoluciones administrativas de protección de menores.
+
+Hasta la fecha, la competencia se ha atribuido a la jurisdicción contencioso-administrativa, no existiendo un procedimiento específico que garantice plenamente el equilibrio de los intereses en juego: de una parte, el superior interés del menor afectado por la resolución administrativa cuya ejecución exige la entrada en un domicilio; y de otra, el derecho fundamental a la inviolabilidad del domicilio consagrado en el artículo 18.2 de la Constitución. Frente a la situación existente, se ha optado por atribuir la competencia para la autorización de entrada en domicilio al Juzgado de Primera Instancia, pues es al que le corresponde el conocimiento de los recursos contra las resoluciones dictadas por las Entidades Públicas competentes en la materia, debiendo realizar una ponderación de los intereses en juego, competencia alejada de la función esencial del Juzgado de lo Contencioso-administrativo, que se centra en el control de la corrección de la actividad administrativa sometida a su conocimiento.
 
 Se regula un procedimiento sumario, ágil y detallado. Es cierto que estas autorizaciones son solicitadas normalmente en circunstancias en las que las medidas de protección deben ser ejecutadas con urgencia, exigiendo celeridad en su resolución, lo que queda garantizado con la posibilidad de que el Juez adopte de forma inmediata tal resolución, siempre que se justifique esa necesidad.
 
@@ -104,21 +109,25 @@ Igualmente y de manera complementaria con las modificaciones operadas en la Ley 
 
 **V**
 
-La disposición final segunda lleva a cabo una modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para la protección de personas extranjeras en situación irregular y sus hijos, que hayan sido víctima de trata de seres humanos.
+La disposición final segunda lleva a cabo una modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para la protección de personas extranjeras en situación irregular y sus hijos, que hayan sido víctima de trata de seres humanos.
 
 **VI**
 
-Mediante la disposición final tercera se lleva a cabo la modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+Mediante la disposición final tercera se lleva a cabo la modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
 Cualquier forma de violencia ejercida sobre un menor es injustificable. Entre ellas, es singularmente atroz la violencia que sufren quienes viven y crecen en un entorno familiar donde está presente la violencia de género. Esta forma de violencia afecta a los menores de muchas formas. En primer lugar, condicionando su bienestar y su desarrollo. En segundo lugar, causándoles serios problemas de salud. En tercer lugar, convirtiéndolos en instrumento para ejercer dominio y violencia sobre la mujer. Y, finalmente, favoreciendo la transmisión intergeneracional de estas conductas violentas sobre la mujer por parte de sus parejas o ex parejas. La exposición de los menores a esta forma de violencia en el hogar, lugar en el que precisamente deberían estar más protegidos, los convierte también en víctimas de la misma.
 
-Por todo ello, resulta necesario, en primer lugar, reconocer a los menores víctimas de la violencia de género mediante su consideración en el artículo 1, con el objeto de visibilizar esta forma de violencia que se puede ejercer sobre ellos.
+Por todo ello, resulta necesario, en primer lugar, reconocer a los menores víctimas de la violencia de género mediante su consideración en el artículo 1, con el objeto de visibilizar esta forma de violencia que se puede ejercer sobre ellos.
 
-Su reconocimiento como víctimas de la violencia de género conlleva la modificación del artículo 61, para lograr una mayor claridad y hacer hincapié en la obligación de los Jueces de pronunciarse sobre las medidas cautelares y de aseguramiento, en particular, sobre las medidas civiles que afectan a los menores que dependen de la mujer sobre la que se ejerce violencia.
+Su reconocimiento como víctimas de la violencia de género conlleva la modificación del artículo 61, para lograr una mayor claridad y hacer hincapié en la obligación de los Jueces de pronunciarse sobre las medidas cautelares y de aseguramiento, en particular, sobre las medidas civiles que afectan a los menores que dependen de la mujer sobre la que se ejerce violencia.
 
-Asimismo, se modifica el artículo 65 con la finalidad de ampliar las situaciones objeto de protección en las que los menores pueden encontrarse a cargo de la mujer víctima de la violencia de género.
+Asimismo, se modifica el artículo 65 con.
 
-Por último, se mejora la redacción del artículo 66 superando la concepción del régimen de visitas y entendiéndolo de una forma global como estancias o formas de relacionarse o comunicarse con los menores.
+la finalidad de ampliar las situaciones objeto de protección en las que los menores pueden encontrarse a cargo de la mujer víctima de la violencia de género.
+
+Por último, se mejora la redacción del artículo 66 superando.
+
+la concepción del régimen de visitas y entendiéndolo de una forma global como estancias o formas de relacionarse o comunicarse con los menores.
 
 **VII**
 
@@ -126,9 +135,9 @@ Se introduce una disposición adicional primera que establece la utilización de
 
 Mediante la inclusión de una disposición derogatoria se establece una cláusula general derogatoria.
 
-#### Artículo primero. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
+#### Artículo primero. Modificación de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.
 
-La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
+La Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
 Uno. Se modifica la rúbrica del capítulo I del título I, que queda redactada como sigue:
 
@@ -136,9 +145,9 @@ Uno. Se modifica la rúbrica del capítulo I del título I, que queda redactada 
 
 Ámbito e interés superior del menor»
 
-Dos. Se modifica el artículo 2, que queda redactado como sigue:
+Dos. Se modifica el artículo 2, que queda redactado como sigue:
 
-«Artículo 2. Interés superior del menor.
+«Artículo 2. Interés superior del menor.
 
 1. Todo menor tiene derecho a que su interés superior sea valorado y considerado como primordial en todas las acciones y decisiones que le conciernan, tanto en el ámbito público como privado. En la aplicación de la presente ley y demás normas que le afecten, así como en las medidas concernientes a los menores que adopten las instituciones, públicas o privadas, los Tribunales, o los órganos legislativos primará el interés superior de los mismos sobre cualquier otro interés legítimo que pudiera concurrir.
 
@@ -180,7 +189,7 @@ Las decisiones y medidas adoptadas en interés superior del menor deberán valor
 
 a) Los derechos del menor a ser informado, oído y escuchado, y a participar en el proceso de acuerdo con la normativa vigente.
 
-b) La intervención en el proceso de profesionales cualificados o expertos. En caso necesario, estos profesionales han de contar con la formación suficiente para determinar las específicas necesidades de los niños con discapacidad. En las decisiones especialmente relevantes que afecten al menor se contará con el informe colegiado de un grupo técnico y multidisciplinar especializado en los ámbitos adecuados.
+b) **La intervención en el proceso de profesionales cualificados o expertos.** En caso necesario, estos profesionales han de contar con la formación suficiente para determinar las específicas necesidades de los niños con discapacidad. En las decisiones especialmente relevantes que afecten al menor se contará con el informe colegiado de un grupo técnico y multidisciplinar especializado en los ámbitos adecuados.
 
 c) La participación de progenitores, tutores o representantes legales del menor o de un defensor judicial si hubiera conflicto o discrepancia con ellos y del Ministerio Fiscal en el proceso en defensa de sus intereses.
 
@@ -188,9 +197,9 @@ d) La adopción de una decisión que incluya en su motivación los criterios uti
 
 e) La existencia de recursos que permitan revisar la decisión adoptada que no haya considerado el interés superior del menor como primordial o en el caso en que el propio desarrollo del menor o cambios significativos en las circunstancias que motivaron dicha decisión hagan necesario revisarla. Los menores gozarán del derecho a la asistencia jurídica gratuita en los casos legalmente previstos.»
 
-Tres. Se modifica el artículo 3, que queda redactado como sigue:
+Tres. Se modifica el artículo 3, que queda redactado como sigue:
 
-«Artículo 3. Referencia a Instrumentos Internacionales.
+«Artículo 3. Referencia a Instrumentos Internacionales.
 
 Los menores gozarán de los derechos que les reconoce la Constitución y los Tratados Internacionales de los que España sea parte, especialmente la Convención de Derechos del Niño de Naciones Unidas y la Convención de Derechos de las Personas con Discapacidad, y de los demás derechos garantizados en el ordenamiento jurídico, sin discriminación alguna por razón de nacimiento, nacionalidad, raza, sexo, discapacidad o enfermedad, religión, lengua, cultura, opinión o cualquier otra circunstancia personal, familiar o social.
 
@@ -198,9 +207,9 @@ La presente ley, sus normas de desarrollo y demás disposiciones legales relativ
 
 Los poderes públicos garantizarán el respeto de los derechos de los menores y adecuarán sus actuaciones a la presente ley y a la mencionada normativa internacional.»
 
-Cuatro. Se modifica el artículo 9, que queda redactado como sigue:
+Cuatro. Se modifica el artículo 9, que queda redactado como sigue:
 
-«Artículo 9. Derecho a ser oído y escuchado.
+«Artículo 9. Derecho a ser oído y escuchado.
 
 1. El menor tiene derecho a ser oído y escuchado sin discriminación alguna por edad, discapacidad o cualquier otra circunstancia, tanto en el ámbito familiar como en cualquier procedimiento administrativo, judicial o de mediación en que esté afectado y que conduzca a una decisión que incida en su esfera personal, familiar o social, teniéndose debidamente en cuenta sus opiniones, en función de su edad y madurez. Para ello, el menor deberá recibir la información que le permita el ejercicio de este derecho en un lenguaje comprensible, en formatos accesibles y adaptados a sus circunstancias.
 
@@ -214,19 +223,19 @@ No obstante, cuando ello no sea posible o no convenga al interés del menor se p
 
 3. Siempre que en vía administrativa o judicial se deniegue la comparecencia o audiencia de los menores directamente o por medio de persona que le represente, la resolución será motivada en el interés superior del menor y comunicada al Ministerio Fiscal, al menor y, en su caso, a su representante, indicando explícitamente los recursos existentes contra tal decisión. En las resoluciones sobre el fondo habrá de hacerse constar, en su caso, el resultado de la audiencia al menor, así como su valoración.»
 
-Cinco. Se modifica el párrafo c) y se introduce un nuevo párrafo e) en el apartado 2 del artículo 10, que quedan redactados como sigue:
+Cinco. Se modifica el párrafo c) y se introduce un nuevo párrafo e) en el apartado 2 del artículo 10, que quedan redactados como sigue:
 
 «c) Plantear sus quejas ante el Defensor del Pueblo o ante las instituciones autonómicas homólogas. A tal fin, uno de los Adjuntos del Defensor del Pueblo se hará cargo de modo permanente de los asuntos relacionados con los menores facilitándoles el acceso a mecanismos adecuados y adaptados a sus necesidades y garantizándoles la confidencialidad.»
 
 «e) Solicitar asistencia legal y el nombramiento de un defensor judicial, en su caso, para emprender las acciones judiciales y administrativas necesarias encaminadas a la protección y defensa de sus derechos e intereses. En todo caso el Ministerio Fiscal podrá actuar en defensa de los derechos de los menores.»
 
-Seis. Se introduce un capítulo IV, en el título II, comprensivo de los artículos 25 a 35, ambos inclusive, que queda redactado como sigue:
+Seis. Se introduce un capítulo IV, en el título II, comprensivo de los artículos 25 a 35, ambos inclusive, que queda redactado como sigue:
 
 «CAPÍTULO IV
 
 Centros de protección específicos de menores con problemas de conducta
 
-#### Artículo 25. Acogimiento residencial en centros de protección específicos de menores con problemas de conducta.
+#### Artículo 25. Acogimiento residencial en centros de protección específicos de menores con problemas de conducta.
 
 1. Se someterán a las disposiciones previstas en este capítulo, los ingresos, actuaciones e intervenciones en centros de protección específicos de menores con problemas de conducta dependientes de las Entidades Públicas o de entidades privadas colaboradoras de aquellas, en los que esté prevista la utilización de medidas de seguridad y de restricción de libertades o derechos fundamentales.
 
@@ -234,19 +243,19 @@ Estos centros, sometidos a estándares internacionales y a control de calidad, e
 
 2. El acogimiento residencial en estos centros se realizará exclusivamente cuando no sea posible la intervención a través de otras medidas de protección, y tendrá como finalidad proporcionar al menor un marco adecuado para su educación, la normalización de su conducta, su reintegración familiar cuando sea posible, y el libre y armónico desarrollo de su personalidad, en un contexto estructurado y con programas específicos en el marco de un proyecto educativo. Así pues, el ingreso del menor en estos centros y las medidas de seguridad que se apliquen en el mismo se utilizarán como último recurso y tendrán siempre carácter educativo.
 
-3. En los supuestos de guarda voluntaria prevista en el artículo 19, será necesario el compromiso de la familia a someterse a la intervención profesional.
+3. En los supuestos de guarda voluntaria prevista en el artículo 19, será necesario el compromiso de la familia a someterse a la intervención profesional.
 
 4. Estos centros dispondrán de una ratio adecuada entre el número de menores y el personal destinado a su atención para garantizar un tratamiento individualizado a cada menor.
 
 5. En el caso de menores con discapacidad, se continuará con los apoyos especializados que vinieran recibiendo o se adoptarán otros más adecuados, incorporando en todo caso medidas de accesibilidad en los centros de ingreso y en las actuaciones que se lleven a cabo.
 
-#### Artículo 26. Ingreso en centros de protección específicos de menores con problemas de conducta.
+#### Artículo 26. Ingreso en centros de protección específicos de menores con problemas de conducta.
 
 1. La Entidad Pública que ostente la tutela o guarda de un menor, y el Ministerio Fiscal, estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta. Esta solicitud de ingreso estará motivada y fundamentada en informes psicosociales emitidos previamente por personal especializado en protección de menores.
 
 2. No podrán ser ingresados en estos centros los menores que presenten enfermedades o trastornos mentales que requieran un tratamiento específico por parte de los servicios competentes en materia de salud mental o de atención a las personas con discapacidad.
 
-3. Para el ingreso de un menor en estos centros será necesario que la Entidad Pública o el Ministerio Fiscal recaben previamente la correspondiente autorización judicial, garantizando, en todo caso, el derecho del menor a ser oído según lo establecido en el artículo 9. Dicha autorización se otorgará tras la tramitación del procedimiento regulado en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y deberá pronunciarse sobre la posibilidad de aplicarles medidas de seguridad, así como de limitarles temporalmente el régimen de visitas, de comunicaciones y de salidas que pudieran adoptarse.
+3. Para el ingreso de un menor en estos centros será necesario que la Entidad Pública o el Ministerio Fiscal recaben previamente la correspondiente autorización judicial, garantizando, en todo caso, el derecho del menor a ser oído según lo establecido en el artículo 9. Dicha autorización se otorgará tras la tramitación del procedimiento regulado en el artículo 778 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, y deberá pronunciarse sobre la posibilidad de aplicarles medidas de seguridad, así como de limitarles temporalmente el régimen de visitas, de comunicaciones y de salidas que pudieran adoptarse.
 
 No obstante, si razones de urgencia, convenientemente motivadas, hicieren necesaria la inmediata adopción del ingreso, la Entidad Pública o el Ministerio Fiscal podrá acordarlo previamente a la autorización judicial, debiendo comunicarlo al Juzgado competente lo antes posible y, en todo caso, dentro del plazo de veinticuatro horas, a los efectos de que se proceda a la preceptiva ratificación del mismo para lo que deberá aportar la información de que disponga y justificante del ingreso inmediato. El Juzgado resolverá en el plazo máximo de setenta y dos horas desde que reciba la comunicación, dejándose de inmediato sin efecto el ingreso en caso de que no lo autorice.
 
@@ -254,7 +263,7 @@ No obstante, si razones de urgencia, convenientemente motivadas, hicieren necesa
 
 5. Los menores no permanecerán en el centro más tiempo del estrictamente necesario para atender a sus necesidades específicas. El cese será acordado por el órgano judicial que esté conociendo del ingreso, de oficio o a propuesta de la Entidad Pública o del Ministerio Fiscal. Esta propuesta estará fundamentada en un informe psicosocial.
 
-#### Artículo 27. Medidas de seguridad.
+#### Artículo 27. Medidas de seguridad.
 
 1. Las medidas de seguridad podrán consistir en la contención mecánica o en la contención física del menor, en su aislamiento o en registros personales y materiales.
 
@@ -266,7 +275,7 @@ Estas medidas tendrán una finalidad educativa y deberán responder a los princi
 
 4. Las medidas de seguridad aplicadas deberán registrarse en el Libro Registro de Incidencias, que será supervisado por parte de la dirección del centro.
 
-#### Artículo 28. Medidas de contención.
+#### Artículo 28. Medidas de contención.
 
 1. Las medidas de contención podrán ser de tipo verbal y emocional, de tipo físico y de tipo mecánico, en atención a las circunstancias en presencia.
 
@@ -276,13 +285,13 @@ Estas medidas tendrán una finalidad educativa y deberán responder a los princi
 
 4. La contención mecánica solo será admisible para evitar grave riesgo para la vida o la integridad física del menor o de terceros, y en el caso de que no sea posible reducir el nivel de estrés o de trastorno del menor por otros medios. Deberá realizarse con equipos homologados de contención mecánica, bajo un estricto protocolo.
 
-#### Artículo 29. Aislamiento del menor.
+#### Artículo 29. Aislamiento del menor.
 
 1. El aislamiento de un menor mediante su permanencia en un espacio adecuado del que se impida su salida solo podrá utilizarse en prevención de actos violentos, autolesiones, lesiones a otros menores residentes en el centro, al personal del mismo o a terceros, así como de daños graves a sus instalaciones. Se aplicará puntualmente en el momento en el que sea preciso y en ningún caso como medida disciplinaria y se cumplirá preferentemente en la propia habitación del menor, y en caso de que esto no sea posible, se cumplirá en otro espacio de similar habitabilidad y dimensiones.
 
 2. El aislamiento no podrá exceder de seis horas consecutivas sin perjuicio del derecho al descanso del menor. Durante el periodo de tiempo en que el menor permanezca en aislamiento estará acompañado o supervisado por un educador.
 
-#### Artículo 30. Registros personales y materiales.
+#### Artículo 30. Registros personales y materiales.
 
 1. Los registros personales y materiales se llevarán a cabo con el respeto debido a la dignidad, privacidad y a los derechos fundamentales de la persona.
 
@@ -292,29 +301,29 @@ Se utilizarán preferentemente medios electrónicos.
 
 3. El personal del centro podrá realizar el registro de las pertenencias del menor, pudiendo retirarle aquellos objetos que se encuentren en su posesión que pudieran ser de ilícita procedencia, resultar dañinos para sí, para otros o para las instalaciones del centro o que no estén autorizados para menores de edad. Los registros materiales se deberán comunicar previamente al menor siempre que no pudieran efectuarse en su presencia.
 
-#### Artículo 31. Régimen disciplinario.
+#### Artículo 31. Régimen disciplinario.
 
 1. El régimen disciplinario en estos centros se fundará siempre en el proyecto socio-educativo del centro y en el individualizado de cada menor, al cual se informará del mismo.
 
 2. El procedimiento disciplinario será el último recurso a utilizar, dando prioridad a los sistemas restaurativos de resolución de conflictos e interacción educativa. No podrán establecerse restricciones de igual o mayor entidad que las previstas en la legislación reguladora de la responsabilidad penal de los menores.
 
-3. En ningún caso podrán utilizarse las medidas contenidas en los artículos 27 a 30 con fines disciplinarios.
+3. En ningún caso podrán utilizarse las medidas contenidas en los artículos 27 a 30 con fines disciplinarios.
 
-4. La regulación autonómica sobre régimen disciplinario deberá ser suficiente y adecuada a los principios de la Constitución, de esta ley y del título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, garantizando al menor la asistencia legal de un abogado independiente, respetando en todo momento la dignidad y los derechos de los menores y sin que en ningún caso se les pueda privar de los mismos.
+4. La regulación autonómica sobre régimen disciplinario deberá ser suficiente y adecuada a los principios de la Constitución, de esta ley y del título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, garantizando al menor la asistencia legal de un abogado independiente, respetando en todo momento la dignidad y los derechos de los menores y sin que en ningún caso se les pueda privar de los mismos.
 
-#### Artículo 32. Supervisión y control.
+#### Artículo 32. Supervisión y control.
 
 Con independencia de las inspecciones de los centros que puedan efectuar el Defensor del Pueblo, las instituciones autonómicas equivalentes y el Ministerio Fiscal, la medida de ingreso del menor en el centro de protección específico deberá revisarse al menos trimestralmente por la Entidad Pública, debiendo remitir al órgano judicial competente que autorizó el ingreso y al Ministerio Fiscal, con esa periodicidad, el oportuno informe motivado de seguimiento que incluya las entradas del Libro de Registro de Incidencias.
 
 A los efectos de las inspecciones e informes a los que se refiere el párrafo anterior, el Libro de Registro de Incidencias deberá respetar, respecto a los cesionarios de datos, la adopción de las medidas de seguridad de nivel medio establecidas en la legislación vigente en materia de protección de datos de carácter personal.
 
-#### Artículo 33. Administración de medicamentos.
+#### Artículo 33. Administración de medicamentos.
 
-1. La administración de medicamentos a los menores, cuando sea necesario para su salud, deberá tener lugar de acuerdo con la praxis profesional sanitaria, respetando las disposiciones sobre consentimiento informado, y en los términos y condiciones previstas en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+1. La administración de medicamentos a los menores, cuando sea necesario para su salud, deberá tener lugar de acuerdo con la praxis profesional sanitaria, respetando las disposiciones sobre consentimiento informado, y en los términos y condiciones previstas en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
 2. En todo caso, deberá ser un facultativo médico autorizado quien recete medicamentos sujetos a prescripción médica y realice el seguimiento de su correcta administración y de la evolución del tratamiento. A estos efectos se llevará un registro con la historia médica de cada uno de los menores.
 
-#### Artículo 34. Régimen de visitas y permisos de salida.
+#### Artículo 34. Régimen de visitas y permisos de salida.
 
 1. Las visitas de familiares y otras personas allegadas sólo podrán ser restringidas o suspendidas en interés del menor por el Director del centro, de manera motivada, cuando su tratamiento educativo lo aconseje y conforme a los términos recogidos en la autorización judicial de ingreso.
 
@@ -326,7 +335,7 @@ El derecho de visitas no podrá ser restringido por la aplicación de medidas di
 
 Dichas medidas podrán ser recurridas por el Ministerio Fiscal y por el menor al que se garantizará asistencia legal de abogado independiente, ante el órgano judicial que esté conociendo el ingreso, el cual resolverá tras recabar informe del centro y previa audiencia de las personas interesadas, del menor y del Ministerio Fiscal.
 
-#### Artículo 35. Régimen de comunicaciones del menor.
+#### Artículo 35. Régimen de comunicaciones del menor.
 
 1. Los menores ingresados en los centros tendrán derecho a remitir quejas de forma confidencial al Ministerio Fiscal, a la autoridad judicial competente y al Defensor del Pueblo o ante las instituciones autonómicas homólogas. Este derecho no podrá ser restringido por la aplicación de medidas disciplinarias.
 
@@ -338,19 +347,23 @@ Siete. Se modifica la disposición final vigésima tercera, que queda redactada 
 
 «Disposición final vigésima tercera.
 
-Tienen carácter de ley ordinaria los artículos 1; 5, apartados 3 y 4; 7, apartado 1; 8, apartado 2, párrafo c; 9 bis; 9 ter; 9 quáter; 9 quinquies; 10, apartados 1, 2, párrafos a, b, d y f, 3, 4 y 5; 11, 12, 13, 14, 15, 16, 17, 18, 19, 19 bis, 20, 20 bis, 21, 21 bis, 22, 22 bis, 22 ter, 22 quáter, 22 quinquies, 23 y 24; las disposiciones adicionales primera, segunda y tercera; la disposición transitoria; la disposición derogatoria, y las disposiciones finales primera a vigésima segunda y vigésima cuarta.
+Tienen carácter de ley ordinaria los artículos 1; 5, apartados 3 y 4; 7, apartado 1; 8, apartado 2, párrafo c; 9 bis; 9 ter; 9 quáter; 9 quinquies; 10, apartados 1, 2, párrafos a, b, d y f, 3, 4 y 5; 11, 12, 13, 14, 15, 16, 17, 18, 19, 19 bis, 20, 20 bis, 21, 21 bis, 22, 22 bis, 22 ter, 22 quáter, 22 quinquies, 23 y 24; las disposiciones adicionales primera, segunda y tercera; la disposición transitoria; la disposición derogatoria, y las disposiciones finales primera a vigésima segunda y vigésima cuarta.
 
 Los preceptos relacionados en el párrafo anterior se aplicarán según lo previsto en la disposición final vigésima primera.»
 
-#### Artículo segundo. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+#### Artículo segundo. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
 
-La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los siguientes términos:
+La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
-Uno. Se introduce un nuevo artículo 778 bis, que queda redactado como sigue:
+Uno. Se introduce un nuevo
 
-«Artículo 778 bis. Ingreso de menores con problemas de conducta en centros de protección específicos.
+#### Artículo 778. bis,.
 
-1. La Entidad Pública, que ostente la tutela o guarda de un menor, y el Ministerio Fiscal estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta a los que se refiere el artículo 25 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, debiendo acompañar a la solicitud la valoración psicosocial que lo justifique.
+que queda redactado como sigue:
+
+«Artículo 778 bis. Ingreso de menores con problemas de conducta en centros de protección específicos.
+
+1. La Entidad Pública, que ostente la tutela o guarda de un menor, y el Ministerio Fiscal estarán legitimados para solicitar la autorización judicial para el ingreso del menor en los centros de protección específicos de menores con problemas de conducta a los que se refiere el artículo 25 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de Enjuiciamiento Civil, debiendo acompañar a la solicitud la valoración psicosocial que lo justifique.
 
 2. Serán competentes para autorizar el ingreso de un menor en dichos centros los Juzgados de Primera Instancia del lugar donde radique el centro.
 
@@ -376,9 +389,13 @@ El cese será acordado por el órgano judicial competente, de oficio o a propues
 
 8. El menor será informado de las resoluciones que se adopten.»
 
-Dos. Se introduce un artículo 778 ter, que queda redactado como sigue:
+Dos. Se introduce un
 
-«Artículo 778 ter. Entrada en domicilios y restantes lugares para la ejecución forzosa de las medidas de protección de menores.
+#### Artículo 778. ter,.
+
+que queda redactado como sigue:
+
+«Artículo 778 ter. Entrada en domicilios y restantes lugares para la ejecución forzosa de las medidas de protección de menores.
 
 1. La Entidad Pública deberá solicitar al Juzgado de Primera Instancia con competencia en el lugar donde radique su domicilio, autorización para la entrada en domicilios y restantes edificios y lugares cuyo acceso requiera el consentimiento de su titular u ocupante, cuando ello sea necesario para la ejecución forzosa de las medidas adoptadas por ella para la protección de un menor. Cuando se trate de la ejecución de un acto confirmado por una resolución judicial, la solicitud se dirigirá al órgano que la hubiera dictado.
 
@@ -392,11 +409,11 @@ c) La justificación de que se ha intentado recabar dicho consentimiento sin res
 
 d) La necesidad de dicha entrada para la ejecución de la resolución de la Entidad Pública.
 
-3. Presentada por la Entidad Pública la solicitud, el Secretario Judicial, en el mismo día, dará traslado de ella al titular u ocupante del domicilio o edificio para que en el plazo de las 24 horas siguientes alegue lo que a su derecho convenga exclusivamente sobre la procedencia de conceder la autorización.
+3. Presentada por la Entidad Pública la solicitud, el Secretario Judicial, en el mismo día, dará traslado de ella al titular u ocupante del domicilio o edificio para que en el plazo de las 24 horas siguientes alegue lo que a su derecho convenga exclusivamente sobre la procedencia de conceder la autorización.
 
-No obstante, cuando la Entidad Pública solicitante así lo pida de forma razonada y acredite que concurren razones de urgencia para acordar la entrada, bien porque la demora en la ejecución de la resolución administrativa pudiera provocar un riesgo para la seguridad del menor, o bien porque exista afectación real e inmediata de sus derechos fundamentales, el Juez podrá acordarla mediante auto dictado de forma inmediata y, en todo caso en el plazo máximo de las 24 horas siguientes a la recepción de la solicitud, previo informe del Ministerio Fiscal. En el auto dictado se razonará por separado sobre la concurrencia de los requisitos de la medida y las razones que han aconsejado acordarla sin oír al interesado.
+No obstante, cuando la Entidad Pública solicitante así lo pida de forma razonada y acredite que concurren razones de urgencia para acordar la entrada, bien porque la demora en la ejecución de la resolución administrativa pudiera provocar un riesgo para la seguridad del menor, o bien porque exista afectación real e inmediata de sus derechos fundamentales, el Juez podrá acordarla mediante auto dictado de forma inmediata y, en todo caso en el plazo máximo de las 24 horas siguientes a la recepción de la solicitud, previo informe del Ministerio Fiscal. En el auto dictado se razonará por separado sobre la concurrencia de los requisitos de la medida y las razones que han aconsejado acordarla sin oír al interesado.
 
-4. Presentado el escrito de alegaciones por el interesado o transcurrido el plazo sin hacerlo, el Juez acordará o denegará la entrada por auto en el plazo máximo de las 24 horas siguientes, previo informe del Ministerio Fiscal, tras valorar la concurrencia de los extremos mencionados en el apartado 3 de este artículo, la competencia de la Entidad Pública para dictar el acto que se pretende ejecutar y la legalidad, necesidad y proporcionalidad de la entrada solicitada para alcanzar el fin perseguido con la medida de protección.
+4. Presentado el escrito de alegaciones por el interesado o transcurrido el plazo sin hacerlo, el Juez acordará o denegará la entrada por auto en el plazo máximo de las 24 horas siguientes, previo informe del Ministerio Fiscal, tras valorar la concurrencia de los extremos mencionados en el apartado 3 de este artículo, la competencia de la Entidad Pública para dictar el acto que se pretende ejecutar y la legalidad, necesidad y proporcionalidad de la entrada solicitada para alcanzar el fin perseguido con la medida de protección.
 
 5. En el auto en el que se autorice la entrada se harán constar los límites materiales y temporales para la realización de la misma, que serán los estrictamente necesarios para la ejecución de la medida de protección.
 
@@ -412,9 +429,9 @@ Tres. Se modifica la disposición adicional primera, que queda redactada como si
 
 «Disposición adicional primera. Carácter ordinario y Título competencial.
 
-1. La presente ley es ordinaria a excepción de los artículos 763, 778 bis y 778 ter que tienen carácter orgánico y se dictan al amparo del artículo 81 de la Constitución.
+1. La presente ley es ordinaria a excepción de los artículos 763, 778 bis y 778 ter que tienen carácter orgánico y se dictan al amparo del artículo 81 de la Constitución.
 
-2. La presente Ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.6.a de la Constitución, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.»
+2. La presente Ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.6.a de la Constitución, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.»
 
 #### Disposición adicional primera. Referencias en las normas de fecha anterior.
 
@@ -432,45 +449,45 @@ Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor d
 
 Se consideran derogadas cuantas normas se opongan o sean incompatibles con lo dispuesto en la presente ley.
 
-#### Disposición final primera. Modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+#### Disposición final primera. Modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
-Se modifica el apartado 2 del artículo 91 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactado como sigue:
+Se modifica el apartado 2 del artículo 91 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactado como sigue:
 
 «2. Corresponde también a los Juzgados de lo Contencioso-administrativo autorizar, mediante auto, la entrada en los domicilios y en los restantes edificios o lugares cuyo acceso requiera el consentimiento de su titular, cuando ello proceda para la ejecución forzosa de actos de la Administración, salvo que se trate de la ejecución de medidas de protección de menores acordadas por la Entidad Pública competente en la materia.»
 
-#### Disposición final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+#### Disposición final segunda. Modificación del apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
-Se modifica el apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, que queda redactado en los siguientes términos:
+Se modifica el apartado 2 del artículo 59 bis de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, que queda redactado en los siguientes términos:
 
 «2. Los órganos administrativos competentes, cuando estimen que existen motivos razonables para creer que una persona extranjera en situación irregular ha sido víctima de trata de seres humanos, informarán a la persona interesada sobre las previsiones del presente artículo y elevarán a la autoridad competente para su resolución la oportuna propuesta sobre la concesión de un período de restablecimiento y reflexión, de acuerdo con el procedimiento previsto reglamentariamente.
 
-Dicho período de restablecimiento y reflexión tendrá una duración de, al menos, noventa días, y deberá ser suficiente para que la víctima pueda decidir si desea cooperar con las autoridades en la investigación del delito y, en su caso, en el procedimiento penal. Tanto durante la fase de identificación de las víctimas, como durante el período de restablecimiento y reflexión, no se incoará un expediente sancionador por infracción del artículo 53.1.a) y se suspenderá el expediente administrativo sancionador que se le hubiere incoado o, en su caso, la ejecución de la expulsión o devolución eventualmente acordadas. Asimismo, durante el período de restablecimiento y reflexión, se le autorizará la estancia temporal y las administraciones competentes velarán por la subsistencia y, de resultar necesario, la seguridad y protección de la víctima y de sus hijos menores de edad o con discapacidad, que se encuentren en España en el momento de la identificación, a quienes se harán extensivas las previsiones del apartado 4 del presente artículo en relación con el retorno asistido o la autorización de residencia, y en su caso trabajo, si fueren mayores de 16 años, por circunstancias excepcionales. Finalizado el período de reflexión las administraciones públicas competentes realizarán una evaluación de la situación personal de la víctima a efectos de determinar una posible ampliación del citado período.
+Dicho período de restablecimiento y reflexión tendrá una duración de, al menos, noventa días, y deberá ser suficiente para que la víctima pueda decidir si desea cooperar con las autoridades en la investigación del delito y, en su caso, en el procedimiento penal. Tanto durante la fase de identificación de las víctimas, como durante el período de restablecimiento y reflexión, no se incoará un expediente sancionador por infracción del artículo 53.1.a) y se suspenderá el expediente administrativo sancionador que se le hubiere incoado o, en su caso, la ejecución de la expulsión o devolución eventualmente acordadas. Asimismo, durante el período de restablecimiento y reflexión, se le autorizará la estancia temporal y las administraciones competentes velarán por la subsistencia y, de resultar necesario, la seguridad y protección de la víctima y de sus hijos menores de edad o con discapacidad, que se encuentren en España en el momento de la identificación, a quienes se harán extensivas las previsiones del apartado 4 del presente artículo en relación con el retorno asistido o la autorización de residencia, y en su caso trabajo, si fueren mayores de 16 años, por circunstancias excepcionales. Finalizado el período de reflexión las administraciones públicas competentes realizarán una evaluación de la situación personal de la víctima a efectos de determinar una posible ampliación del citado período.
 
 Con carácter extraordinario la Administración Pública competente velará por la seguridad y protección de aquellas otras personas, que se encuentren en España, con las que la víctima tenga vínculos familiares o de cualquier otra naturaleza, cuando se acredite que la situación de desprotección en que quedarían frente a los presuntos traficantes constituye un obstáculo insuperable para que la víctima acceda a cooperar.»
 
-#### Disposición final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+#### Disposición final tercera. Modificación de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
-La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, queda modificada en los siguientes términos:
+La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, queda modificada en los siguientes términos:
 
-Uno. Se modifica el apartado 2 del artículo 1, que queda redactado como sigue:
+Uno. Se modifica el apartado 2 del artículo 1, que queda redactado como sigue:
 
 «2. Por esta ley se establecen medidas de protección integral cuya finalidad es prevenir, sancionar y erradicar esta violencia y prestar asistencia a las mujeres, a sus hijos menores y a los menores sujetos a su tutela, o guarda y custodia, víctimas de esta violencia.»
 
-Dos. Se modifica el apartado 2 del artículo 61, que queda redactado como sigue:
+Dos. Se modifica el apartado 2 del artículo 61, que queda redactado como sigue:
 
-«2. En todos los procedimientos relacionados con la violencia de género, el Juez competente deberá pronunciarse en todo caso, de oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas o se hallen sujetas a su guarda o custodia, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención a las víctimas o su acogida, sobre la pertinencia de la adopción de las medidas cautelares y de aseguramiento contempladas en este capítulo, especialmente sobre las recogidas en los artículos 64, 65 y 66, determinando su plazo y su régimen de cumplimiento y, si procediera, las medidas complementarias a ellas que fueran precisas.»
+«2. En todos los procedimientos relacionados con la violencia de género, el Juez competente deberá pronunciarse en todo caso, de oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas o se hallen sujetas a su guarda o custodia, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención a las víctimas o su acogida, sobre la pertinencia de la adopción de las medidas cautelares y de aseguramiento contempladas en este capítulo, especialmente sobre las recogidas en los artículos 64, 65 y 66, determinando su plazo y su régimen de cumplimiento y, si procediera, las medidas complementarias a ellas que fueran precisas.»
 
-Tres. Se modifica el artículo 65, que queda redactado como sigue:
+Tres. Se modifica el artículo 65, que queda redactado como sigue:
 
-«Artículo 65. De las medidas de suspensión de la patria potestad o la custodia de menores.
+«Artículo 65. De las medidas de suspensión de la patria potestad o la custodia de menores.
 
 El Juez podrá suspender para el inculpado por violencia de género el ejercicio de la patria potestad, guarda y custodia, acogimiento, tutela, curatela o guarda de hecho, respecto de los menores que dependan de él.
 
 Si no acordara la suspensión, el Juez deberá pronunciarse en todo caso sobre la forma en la que se ejercerá la patria potestad y, en su caso, la guarda y custodia, el acogimiento, la tutela, la curatela o la guarda de hecho de lo menores. Asimismo, adoptará las medidas necesarias para garantizar la seguridad, integridad y recuperación de los menores y de la mujer, y realizará un seguimiento periódico de su evolución.»
 
-Cuatro. Se modifica el artículo 66, que queda redactado como sigue:
+Cuatro. Se modifica el artículo 66, que queda redactado como sigue:
 
-«Artículo 66. De la medida de suspensión del régimen de visitas, estancia, relación o comunicación con los menores.
+«Artículo 66. De la medida de suspensión del régimen de visitas, estancia, relación o comunicación con los menores.
 
 El Juez podrá ordenar la suspensión del régimen de visitas, estancia, relación o comunicación del inculpado por violencia de género respecto de los menores que dependan de él.
 
@@ -478,11 +495,11 @@ Si no acordara la suspensión, el Juez deberá pronunciarse en todo caso sobre l
 
 #### Disposición final cuarta. Carácter orgánico y títulos competenciales.
 
-1. La presente ley orgánica se dicta al amparo del artículo 81 de la Constitución Española, teniendo el carácter de orgánico todos sus artículos y las disposiciones finales primera, segunda y tercera
+1. La presente ley orgánica se dicta al amparo del artículo 81 de la Constitución Española, teniendo el carácter de orgánico todos sus artículos y las disposiciones finales primera, segunda y tercera
 
-2. La presente Ley Orgánica se dicta al amparo de la competencia exclusiva para dictar la legislación civil atribuida al Estado por el artículo 149.1.8.ª de la Constitución Española, salvo el artículo segundo, la disposición transitoria única, la disposición final primera y la disposición final tercera, que se dictan al amparo del artículo 149.1.6.ª de la Constitución Española que atribuye al Estado competencia exclusiva para dictar la legislación procesal.
+2. La presente Ley Orgánica se dicta al amparo de la competencia exclusiva para dictar la legislación civil atribuida al Estado por el artículo 149.1.8.ª de la Constitución Española, salvo el artículo segundo, la disposición transitoria única, la disposición final primera y la disposición final tercera, que se dictan al amparo del artículo 149.1.6.ª de la Constitución Española que atribuye al Estado competencia exclusiva para dictar la legislación procesal.
 
-3. La disposición final segunda, que modifica la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, se dicta al amparo del artículo 149.1.2.ª de la Constitución Española que atribuye al Estado competencia exclusiva en materia de extranjería.
+3. La disposición final segunda, que modifica la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, se dicta al amparo del artículo 149.1.2.ª de la Constitución Española que atribuye al Estado competencia exclusiva en materia de extranjería.
 
 #### Disposición final quinta. No incremento del gasto.
 
@@ -508,11 +525,10 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
@@ -523,6 +539,7 @@ MARIANO RAJOY BREY
 - **Fundamento de**: [**Resolucion BOC 1**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)

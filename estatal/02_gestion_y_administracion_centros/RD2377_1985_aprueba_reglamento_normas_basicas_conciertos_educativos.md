@@ -1,12 +1,10 @@
 ---
 id: norm-es-rd-2377-1985
 codigo_sintetizado: RD2377_1985 Reglamento de Conciertos Educativos
-titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento
-  de Normas Básicas sobre Conciertos Educativos.
+titulo: Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 2377/1985
 fecha_disposicion: '1985-12-18'
@@ -20,36 +18,33 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros privados concertados
 tags:
-- centros-concertados
-- centros-privados-concertados
-- conciertos-educativos
-- fp-basica
-- profesorado
-- regimen-economico
-- titulacion
+  - centros-concertados
+  - centros-privados-concertados
+  - conciertos-educativos
+  - fp-basica
+  - profesorado
+  - regimen-economico
+  - titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-lo-8-1985
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   desarrollado_por: []
   fundamento_de:
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2022-158-21
-fundamentos_derecho:
-- norma_id: norm-es-lo-8-1985
+    - norma_id: norm-can-res-juriscan-63878-20
+    - norma_id: norm-can-res-boc-2022-158-21
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-8-1985
   articulos:
-  - '47'
-- norma_id: norm-es-ce-1978
+    - '47'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 ---
-
-## Preámbulo
-
 # Real Decreto 2377/1985, de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos.
 
-# Real Decreto 2377/1985 - Reglamento de Normas Básicas sobre Conciertos Educativos
+## Preámbulo
 
 La [Ley orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md) de 3 de julio, reguladora del Derecho a la Educación, establece en su artículo 20.1 que una programación adecuada de los puestos escolares gratuitos garantizará tanto la efectividad del derecho a la educación como la posibilidad de escoger centro docente. Por otra parte, el artículo 27.3 establece que la programación específica de puestos escolares en los niveles obligatorios y gratuitos deberá tener en cuenta en todo caso la oferta existente de centros públicos y concertados. Finalmente, el artículo 47.1 señala que para el sostenimiento de centros privados con fondos públicos se establecerá un régimen de conciertos al que podrán acogerse todos aquellos que, en orden al servicio público de la educación en los términos previstos por esta ley, impartan la educación básica y reúnan los requisitos previstos en el título IV de la ley orgánica.
 
@@ -65,7 +60,9 @@ En su virtud, previo informe del Consejo Nacional de Educación, de acuerdo con 
 
 #### Artículo único.
 
-En desarrollo del artículo 47 y la disposición adicional primera, punto uno, de la ley orgánica reguladora del Derecho a la Educación, se aprueba el reglamento de normas básicas sobre conciertas educativos.
+En desarrollo del artículo 47 y la.
+
+disposición adicional primera, punto uno, de la ley orgánica reguladora del Derecho a la Educación, se aprueba el reglamento de normas básicas sobre conciertas educativos.
 
 [encabezado]REGLAMENTO DE NORMAS BASICAS SOBRE CONCIERTOS EDUCATIVOS
 
@@ -95,7 +92,7 @@ Los poderes públicos, a fin de garantizar la gratuidad de la educación básica
 
 #### Artículo 5.
 
-1. Para poder acogerse al régimen de conciertos los centros privados deberán cumplir los requisitos mínimos que se establezcan en desarrollo del articulo 14 de la ley orgánica reguladora del Derecho a la Educación, estar autorizados para impartir las enseñanzas que constituyen el objeto del concierto, someterse a las normas establecidas en el título IV de dicha ley orgánica y asumir las obligaciones derivadas del concierto en los términos establecidos en este reglamento.
+1. Para poder acogerse al régimen de conciertos los centros privados deberán cumplir los requisitos mínimos que se establezcan en desarrollo del artículo 14 de la ley orgánica reguladora del Derecho a la Educación, estar autorizados para impartir las enseñanzas que constituyen el objeto del concierto, someterse a las normas establecidas en el título IV de dicha ley orgánica y asumir las obligaciones derivadas del concierto en los términos establecidos en este reglamento.
 
 2. En todo caso, el titular deberá constituir el consejo escolar del centro y proceder a la designación de director en el plazo previsto en este reglamento.
 
@@ -179,7 +176,7 @@ b) Aquellos otros en los que de la celebración del concierto pueda preverse que
 
 **Procedimiento**
 
-CAPITULO PRIMERO
+### Capítulo PRIMERO
 
 Centros autorizados
 
@@ -251,13 +248,7 @@ e) Incumplimientos y sus efectos.
 
 f) Extinción y sus causas.
 
-CAPITULO II
-
-Centros de nueva creación
-
-#### Artículo 28.
-
-Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
+## Capítulo II. Centros de nueva creación artículo 28 Los centros privados de nueva creación que vayan a impartir enseñanzas comprendidas en la educación básica y deseen acogerse al régimen de conciertos lo solicitarán al iniciarse el procedimiento de autorización administrativa. De no solicitarlo en tal momento, no podrán acogerse a dicho régimen hasta que hayan transcurrido cinco años desde la fecha de su autorización, tal y como establece la disposición adicional quinta de la ley orgánica reguladora del Derecho a la Educación.
 
 #### Artículo 29.
 
@@ -275,7 +266,7 @@ La designación del director tendrá carácter provisional hasta que se constitu
 
 #### Artículo 32.
 
-Una vez constituido el consejo escolar del centro, se procederá a la designación definitiva del director de acuerdo con lo dispuesto en el articulo 59 de la ley 8/1985, de 3 de julio. La provisión de las vacantes del profesorado que se produzcan se realizará conforme a lo dispuesto en el artículo 60 de la citada ley orgánica.
+Una vez constituido el consejo escolar del centro, se procederá a la designación definitiva del director de acuerdo con lo dispuesto en el artículo 59 de la ley 8/1985, de 3 de julio. La provisión de las vacantes del profesorado que se produzcan se realizará conforme a lo dispuesto en el artículo 60 de la citada ley orgánica.
 
 #### Artículo 33.
 
@@ -397,7 +388,7 @@ La rescisión del concierto educativo sólo tendrá lugar cuando se produzca, un
 
 #### Artículo 52.
 
-A efectos de la determinación de posible incumplimiento por parte del titular, la Administración educativa competente, de oficio o a instancia del consejo escolar del centro, constituirá la comisión de conciliación a que se refiere el articulo 61 de la citada ley orgánica.
+A efectos de la determinación de posible incumplimiento por parte del titular, la Administración educativa competente, de oficio o a instancia del consejo escolar del centro, constituirá la comisión de conciliación a que se refiere el artículo 61 de la citada ley orgánica.
 
 #### Artículo 53.
 
@@ -535,16 +526,16 @@ El Ministro de Educación y Ciencia,
 
 JOSE MARIA MARAVALL HERRERO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**Resolucion BOC 20**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_7_2010_modifica_modelo_ha_ajustarse_certificacion_acuerdo.md)
 - **Fundamento de**: [**Resolucion BOC 21**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_7_2022_modifica_parcialmente_resolucion_aprueba_publica_normas.md)
 
 ### Fundamentos de Derecho
+
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

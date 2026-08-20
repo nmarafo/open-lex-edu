@@ -3,8 +3,7 @@ id: norm-and-l9-1999
 titulo: Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Ley
 numero_disposicion: 9/1999
 fecha_disposicion: '1999-11-18'
@@ -19,1334 +18,611 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-- solidaridad_educativa
-- neae
-- compensacion_educativa
-- andalucia
+  - solidaridad_educativa
+  - neae
+  - compensacion_educativa
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-and-l17-2007
 ---
+# Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 
 ## Preámbulo
 
-# Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
+Página núm. 15.110 Sevilla, 25 de noviembre 1999 PRESIDENCIA LEY 8/1999, de 27 de octubre, del Espacio Natural de Doñana. EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS LOS QUE LA PRESENTE VIEREN, SABED:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY DEL ESPACIO NATURAL DE DOÑANA
 
-Página núm. 15.110
-Sevilla, 25 de noviembre 1999
-PRESIDENCIA
-LEY 8/1999, de 27 de octubre, del Espacio Natural de Doñana.
-EL PRESIDENTE DE LA JUNTA DE ANDALUCIA A TODOS
-LOS QUE LA PRESENTE VIEREN, SABED:
-Que el Parlamento de Andalucía ha aprobado y yo, en
-nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la
-publicación de la siguiente
-«LEY DEL ESPACIO NATURAL DE DOÑANA
-EXPOSICION DE MOTIVOS
-Doñana, como emblemático conjunto de sistemas naturales de Andalucía, España, Europa y el resto del Mundo,
-es mucho más que un Parque Nacional; su historia lo acredita
-como reserva ecológica conocida y valorada a raíz de las cenizas de un viejo coto de caza.
-En Doñana se encuentran juntos muchos elementos valiosos en interacción: El océano, playas, dunas, marismas, bosques, matorrales, lagunas, ríos y una variadísima fauna y flora,
-formando un ecosistema único de inconmensurable riqueza.
-Su gran extensión de marismas acoge durante todo el invierno
-a numerosas especies de aves acuáticas y su sistema de dunas
-móviles es singular en Europa.
-No obstante, los recientes estudios científicos realizados
-en Doñana apuntan que la pérdida de biodiversidad desde
-la creación del Parque Nacional es de tal magnitud que pone
-al espacio en una situación sin precedentes en su historia
-y hace temer que entre en un proceso delicado o incluso irreversible. Ante esto el desarrollo socioeconómico de la zona
-se ha de ordenar de forma que, paralelamente a que se acreciente el nivel de riqueza de los andaluces del entorno, no
-se afecten de forma irrecuperable los ciclos naturales de evolución de Doñana. De esta forma, el objetivo del incremento
-neto de la calidad de vida se producirá dentro del deseado
-desarrollo integral de la persona y el disfrute de este patrimonio
-natural estará garantizado para las futuras generaciones de
-andaluces.
-Con este fin, la presente intervención pública para la protección de este Espacio Natural ha buscado sus precedentes
-en tres hitos destacados: La constitución en 1964 de la Estación Biológica de Doñana, la declaración cinco años más tarde
-del Parque Nacional de Doñana como figura de protección
-de la reserva biológica y la declaración en 1989, mediante
-Ley, del Parque Natural “Entorno de Doñana”, hoy denominado
-Parque Natural de Doñana, con el sentido de proteger el entorno del Parque Nacional.
-Ante este marco, necesariamente se ha de valorar la situación propiciada a raíz de la Sentencia del Tribunal Constitucional número 102/1995, en lo referente a los Parques
-Nacionales, especialmente lo que afecta a su gestión.
-En esta coyuntura es voluntad de la Junta de Andalucía
-establecer los instrumentos normativos necesarios para hacer
-realidad una gestión de este Espacio Natural acorde con la
-importancia intrínseca que Doñana tiene para los andaluces,
-así como hacer que dicha gestión sea consecuente con el
-reconocimiento que, de esta parte de Andalucía, se ha realizado
-desde variadas instancias internacionales, calificándola como
-Reserva de la Biosfera, Zona Húmeda de importancia internacional, Zona de Especial Protección de las Aves y Zona
-de Especial Conservación de la Unión Europea, y futura integrante del Patrimonio de la Humanidad de la Unesco.
-Todos estos antecedentes han dejado sus huellas a lo
-largo del articulado de la presente Ley, resaltándose la importancia de la investigación científica del Espacio Natural que
-se conecta con las necesidades de la gestión integral de Doñana. Se ha realzado también la participación de los municipios
-del entorno en la definición de la gestión ambiental del Espacio,
-facilitando cauces idóneos de participación en la toma de las
-decisiones sobre el desarrollo socioeconómico sostenible de
-la zona, con el fin de articularse jurídicamente, en sintonía
-con los pronunciamientos de la Conferencia Mundial sobre
-Medio Ambiente y Desarrollo celebrada en 1992 en Río de
-Janeiro.
-Se pretende generar un modelo de desarrollo que sea
-emblema y motor de la realización de los principios constitucionales, esto es, un medio ambiente adecuado para el
-desarrollo de la persona con la participación y colaboración
-de todas las Administraciones Públicas implicadas en la utilización racional de los recursos naturales y que atienda al
-binomio “calidad de vida-protección del medio ambiente”, en
-un marco territorial que resulte ser especialmente apropiado
-para que se haga patente la indispensable solidaridad colectiva.
-Del mismo modo, se ha potenciado la formulación de
-programas específicos de investigación medioambiental, educación ambiental y el uso público de las instalaciones que
-permiten el contacto, acercamiento y comprensión de los elementos que conforman este conjunto singular de sistemas
-naturales, patrimonio de todos en cuya gestión la Junta de
-Andalucía, por mandato del Estatuto de Autonomía, tiene una
-especial y directa responsabilidad.
-La presente Ley se estructura en seis Títulos, incluido
-el preliminar. En éste se destacan los ya apuntados principios
-inspiradores de la norma.
-El Título I conceptúa un nuevo modelo de protección
-ambiental de un territorio. La figura Espacio Natural Doñana
-es nueva y única. Se trata de un Espacio Natural que aglutina
-a otros dos con diferente categoría jurídica incrementando,
-desde el punto de vista de la gestión, la protección ambiental
-integral a la vez que la promoción de la llamada Area de
-Influencia Socioeconómica.
-En el Título II, se articula orgánicamente la gestión del
-Espacio Natural Doñana. Se introduce con esta Ley un innovador sistema de colaboración en la gestión autonómica de
-Doñana que unifica los órganos consultivos y de participación
-existentes en el Parque Nacional y el Parque Natural. Se crea
-un Equipo de Gestión dependiente de la Consejería de Medio
-Ambiente de la Junta de Andalucía, mediante la que ésta
-instrumentaliza la ejecución de sus competencias de gestión
-del Espacio Natural Doñana y se determina la composición
-del Consejo de Participación.
-El Título III, dedicado a los instrumentos de planificación,
-parte de los estrictamente ambientales, previendo suplir la
-carencia existente respecto al instrumento de ordenación de
-los recursos naturales del territorio que ocupa el Parque Nacional. Tras ello se regula la integración en un único plan de
-las actuales medidas de uso y gestión del parque natural y
-del nacional, para culminar con el establecimiento de un marco
-jurídico que permita la elaboración de un Plan de Desarrollo
-Sostenible, regulación pionera de esta figura en el ámbito
-nacional. También se detalla la programación educativa y científica. Se concluye el Título con la necesaria coordinación de
-todos los tipos de planificación presentes en la zona.
-En el Título IV, se hace una apuesta por posibilitar la
-gestión económica autónoma del Espacio Natural Doñana, tanto desde la perspectiva de los ingresos como la de los gastos.
-El Título V materializa medidas adicionales de protección
-al establecer un régimen sancionador acorde con la singu-
+## Exposición de motivos
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.111
-laridad y fragilidad de los valores ambientales que se protegen.
-Para ello se conceptúan las responsabilidades ambientales,
-se fijan las infracciones y sanciones y se regula la restauración
-de los daños ambientales.
-Se completa la Ley con las disposiciones transitorias y
-finales y un Anexo. En las primeras, el texto legal establece
-diversos preceptos en relación con su articulado y a la efectividad de la norma. En el Anexo se describen los límites territoriales del Espacio Natural.
-Finalmente, la presente disposición legislativa está justificada en las competencias exclusivas de la Comunidad Autónoma en materia de espacios naturales protegidos y de estructura de sus instituciones de autogobierno y en las de desarrollo
-de las bases estatales en materia de medio ambiente que,
-respectivamente, se establecen en los artículos 13.7 y 15.1.7,
-ambos en relación con el artículo 13.1, todos del Estatuto
-de Autonomía para Andalucía.
-TITULO PRELIMINAR
+Doñana, como emblemático conjunto de sistemas naturales de Andalucía, España, Europa y el resto del Mundo, es mucho más que un Parque Nacional; su historia lo acredita como reserva ecológica conocida y valorada a raíz de las cenizas de un viejo coto de caza. En Doñana se encuentran juntos muchos elementos valiosos en interacción: El océano, playas, dunas, marismas, bosques, matorrales, lagunas, ríos y una variadísima fauna y flora, formando un ecosistema único de inconmensurable riqueza. Su gran extensión de marismas acoge durante todo el invierno a numerosas especies de aves acuáticas y su sistema de dunas móviles es singular en Europa. No obstante, los recientes estudios científicos realizados en Doñana apuntan que la pérdida de biodiversidad desde la creación del Parque Nacional es de tal magnitud que pone al espacio en una situación sin precedentes en su historia y hace temer que entre en un proceso delicado o incluso irreversible. Ante esto el desarrollo socioeconómico de la zona se ha de ordenar de forma que, paralelamente a que se acreciente el nivel de riqueza de los andaluces del entorno, no se afecten de forma irrecuperable los ciclos naturales de evolución de Doñana. De esta forma, el objetivo del incremento neto de la calidad de vida se producirá dentro del deseado desarrollo integral de la persona y el disfrute de este patrimonio natural estará garantizado para las futuras generaciones de andaluces. Con este fin, la presente intervención pública para la protección de este Espacio Natural ha buscado sus precedentes en tres hitos destacados: La constitución en 1964 de la Estación Biológica de Doñana, la declaración cinco años más tarde del Parque Nacional de Doñana como figura de protección de la reserva biológica y la declaración en 1989, mediante Ley, del Parque Natural "Entorno de Doñana", hoy denominado Parque Natural de Doñana, con el sentido de proteger el entorno del Parque Nacional. Ante este marco, necesariamente se ha de valorar la situación propiciada a raíz de la Sentencia del Tribunal Constitucional número 102/1995, en lo referente a los Parques Nacionales, especialmente lo que afecta a su gestión. En esta coyuntura es voluntad de la Junta de Andalucía establecer los instrumentos normativos necesarios para hacer realidad una gestión de este Espacio Natural acorde con la importancia intrínseca que Doñana tiene para los andaluces, así como hacer que dicha gestión sea consecuente con el reconocimiento que, de esta parte de Andalucía, se ha realizado desde variadas instancias internacionales, calificándola como Reserva de la Biosfera, Zona Húmeda de importancia internacional, Zona de Especial Protección de las Aves y Zona de Especial Conservación de la Unión Europea, y futura integrante del Patrimonio de la Humanidad de la Unesco. Todos estos antecedentes han dejado sus huellas a lo largo del articulado de la presente Ley, resaltándose la importancia de la investigación científica del Espacio Natural que se conecta con las necesidades de la gestión integral de Doñana. Se ha realzado también la participación de los municipios del entorno en la definición de la gestión ambiental del Espacio, facilitando cauces idóneos de participación en la toma de las decisiones sobre el desarrollo socioeconómico sostenible de la zona, con el fin de articularse jurídicamente, en sintonía con los pronunciamientos de la Conferencia Mundial sobre Medio Ambiente y Desarrollo celebrada en 1992 en Río de Janeiro. Se pretende generar un modelo de desarrollo que sea emblema y motor de la realización de los principios constitucionales, esto es, un medio ambiente adecuado para el desarrollo de la persona con la participación y colaboración de todas las Administraciones Públicas implicadas en la utilización racional de los recursos naturales y que atienda al binomio "calidad de vida-protección del medio ambiente", en un marco territorial que resulte ser especialmente apropiado para que se haga patente la indispensable solidaridad colectiva. Del mismo modo, se ha potenciado la formulación de programas específicos de investigación medioambiental, educación ambiental y el uso público de las instalaciones que permiten el contacto, acercamiento y comprensión de los elementos que conforman este conjunto singular de sistemas naturales, patrimonio de todos en cuya gestión la Junta de Andalucía, por mandato del Estatuto de Autonomía, tiene una especial y directa responsabilidad. La presente Ley se estructura en seis Títulos, incluido el preliminar. En éste se destacan los ya apuntados principios inspiradores de la norma. El Título I conceptúa un nuevo modelo de protección ambiental de un territorio. La figura Espacio Natural Doñana es nueva y única. Se trata de un Espacio Natural que aglutina a otros dos con diferente categoría jurídica incrementando, desde el punto de vista de la gestión, la protección ambiental integral a la vez que la promoción de la llamada Area de Influencia Socioeconómica. En el Título II, se articula orgánicamente la gestión del Espacio Natural Doñana. Se introduce con esta Ley un innovador sistema de colaboración en la gestión autonómica de Doñana que unifica los órganos consultivos y de participación existentes en el Parque Nacional y el Parque Natural. Se crea un Equipo de Gestión dependiente de la Consejería de Medio Ambiente de la Junta de Andalucía, mediante la que ésta instrumentaliza la ejecución de sus competencias de gestión del Espacio Natural Doñana y se determina la composición del Consejo de Participación. El Título III, dedicado a los instrumentos de planificación, parte de los estrictamente ambientales, previendo suplir la carencia existente respecto al instrumento de ordenación de los recursos naturales del territorio que ocupa el Parque Nacional. Tras ello se regula la integración en un único plan de las actuales medidas de uso y gestión del parque natural y del nacional, para culminar con el establecimiento de un marco jurídico que permita la elaboración de un Plan de Desarrollo Sostenible, regulación pionera de esta figura en el ámbito nacional. También se detalla la programación educativa y científica. Se concluye el Título con la necesaria coordinación de todos los tipos de planificación presentes en la zona. En el Título IV, se hace una apuesta por posibilitar la gestión económica autónoma del Espacio Natural Doñana, tanto desde la perspectiva de los ingresos como la de los gastos. El Título V materializa medidas adicionales de protección al establecer un régimen sancionador acorde con la singuSevilla, 25 de noviembre 1999 Página núm. 15.111 laridad y fragilidad de los valores ambientales que se protegen. Para ello se conceptúan las responsabilidades ambientales, se fijan las infracciones y sanciones y se regula la restauración de los daños ambientales. Se completa la Ley con las disposiciones transitorias y finales y un Anexo. En las primeras, el texto legal establece diversos preceptos en relación con su articulado y a la efectividad de la norma. En el Anexo se describen los límites territoriales del Espacio Natural. Finalmente, la presente disposición legislativa está justificada en las competencias exclusivas de la Comunidad Autónoma en materia de espacios naturales protegidos y de estructura de sus instituciones de autogobierno y en las de desarrollo de las bases estatales en materia de medio ambiente que, respectivamente, se establecen en los artículos 13.7 y 15.1.7, ambos en relación con el artículo 13.1, todos del Estatuto de Autonomía para Andalucía.
+
+## Título Preliminar
+
 PRINCIPIOS INSPIRADORES
 
 #### Artículo 1. Propósito y principios inspiradores.
 
-La presente Ley tiene por finalidad establecer, sin perjuicio
-de lo dispuesto en la normativa estatal de aplicación, los aspectos generales del régimen jurídico que será de aplicación al
-Espacio Natural Doñana, dentro de una adecuada política de
-conservación y desarrollo sostenible, y garantizando la plena
-realización de los siguientes principios inspiradores de dicha
-gestión unitaria:
-1.º El mantenimiento de los procesos ecológicos, la investigación científica, la preservación de la biodiversidad y, en
-especial, la protección del patrimonio ambiental presente en
-el Espacio Natural Doñana.
-2.º La potenciación económica del Espacio Natural Doñana a través de la ordenación racional de sus recursos naturales
-dentro de las pautas que conforman y definen, en el ámbito
-internacional, el concepto de desarrollo sostenible.
-3.º Abundar en la concepción unitaria de los territorios
-que constituyen el Espacio Natural Doñana como realidad física
-con repercusiones jurídicas necesitadas de un tratamiento único, uniforme y coordinado que supere cualquier limitación
-que impida la consecución del objeto de esta Ley.
+La presente Ley tiene por finalidad establecer, sin perjuicio de lo dispuesto en la normativa estatal de aplicación, los aspectos generales del régimen jurídico que será de aplicación al Espacio Natural Doñana, dentro de una adecuada política de conservación y desarrollo sostenible, y garantizando la plena realización de los siguientes principios inspiradores de dicha gestión unitaria:
+1.º El mantenimiento de los procesos ecológicos, la investigación científica, la preservación de la biodiversidad y, en especial, la protección del patrimonio ambiental presente en el Espacio Natural Doñana. 2.º La potenciación económica del Espacio Natural Doñana a través de la ordenación racional de sus recursos naturales dentro de las pautas que conforman y definen, en el ámbito internacional, el concepto de desarrollo sostenible. 3.º Abundar en la concepción unitaria de los territorios que constituyen el Espacio Natural Doñana como realidad física con repercusiones jurídicas necesitadas de un tratamiento único, uniforme y coordinado que supere cualquier limitación que impida la consecución del objeto de esta Ley.
 
 #### Artículo 2. Objeto.
 
-Es objeto de la presente Ley, de acuerdo con lo previsto
-en los artículos 13.7 y 15.1.7 del Estatuto de Autonomía
-para Andalucía, el establecimiento del régimen jurídico de gestión del Espacio Natural Doñana, en orden a adicionar la protección, conservación, restauración y mejora de la totalidad
-de sus recursos naturales establecida en la normativa de aplicación, promoviendo la investigación científica de los mismos.
+Es objeto de la presente Ley, de acuerdo con lo previsto en los artículos 13.7 y 15.1.7 del Estatuto de Autonomía para Andalucía, el establecimiento del régimen jurídico de gestión del Espacio Natural Doñana, en orden a adicionar la protección, conservación, restauración y mejora de la totalidad de sus recursos naturales establecida en la normativa de aplicación, promoviendo la investigación científica de los mismos.
 
-#### Artículo 3. Administración y gestión del Espacio Natural
+#### Artículo 3. Administración y gestión del Espacio Natural.
 
 Doñana.
-1. La administración y gestión del Espacio Natural Doñana
-corresponde a la Administración Ambiental de la Junta de
-Andalucía, en los términos previstos en la presente Ley, sin
-perjuicio de la participación que a la Administración del Estado
-corresponda en la misma, de acuerdo con lo establecido en
-las disposiciones que dicte en el ejercicio de sus competencias.
-2. Las Entidades Locales implicadas colaborarán en la
-administración y gestión del Espacio Natural Doñana a través
-de su intervención en el Consejo de Participación creado por
-la presente Ley.
+
+1. La administración y gestión del Espacio Natural Doñana corresponde a la Administración Ambiental de la Junta de Andalucía, en los términos previstos en la presente Ley, sin perjuicio de la participación que a la Administración del Estado corresponda en la misma, de acuerdo con lo establecido en las disposiciones que dicte en el ejercicio de sus competencias.
+
+2. Las Entidades Locales implicadas colaborarán en la administración y gestión del Espacio Natural Doñana a través de su intervención en el Consejo de Participación creado por la presente Ley.
 
 #### Artículo 4. Ambito de aplicación.
 
-El ámbito de aplicación de la presente Ley es el territorio
-que constituye el Espacio Natural Doñana, así como su área
-de influencia socioeconómica.
-TITULO I
-DEL ESPACIO NATURAL DOÑANA Y SU AREA
-DE INFLUENCIA SOCIOECONOMICA
+El ámbito de aplicación de la presente Ley es el territorio que constituye el Espacio Natural Doñana, así como su área de influencia socioeconómica.
 
-### CAPITULO I
+## Título I
 
-Espacio Natural Doñana
+DEL ESPACIO NATURAL DOÑANA Y SU AREA DE INFLUENCIA SOCIOECONOMICA
 
-#### Artículo 5. Definición y delimitación del Espacio Natural
+## Capítulo I. Espacio Natural Doñana.
 
-Doñana.
-1. Se declara el Espacio Natural de Doñana, cuyos límites
-territoriales se describen en el Anexo, que comprende los territorios a los que actualmente se extiende el Parque Nacional
-de Doñana, incluidas sus Zonas de Reservas, así como sus
-Zonas de Protección y el Parque Natural de Doñana.
-2. El Consejo de Gobierno de la Junta de Andalucía a
-propuesta del Consejero de Medio Ambiente podrá modificar
-el Espacio Natural Doñana incorporando al mismo terrenos
-colindantes siempre que reúnan las características ecológicas
-adecuadas para ello y sean propiedad de la Administración
-de la Junta de Andalucía o se autorice por sus propietarios
-la incorporación.
-3. Se incorporarán, igualmente, al Espacio Natural Doñana las ampliaciones que se produzcan del Parque Nacional
-de Doñana.
+#### Artículo 5. Definición y delimitación del Espacio Natural. Doñana.
 
-### CAPITULO II
+1. Se declara el Espacio Natural de Doñana, cuyos límites territoriales se describen en el Anexo, que comprende los territorios a los que actualmente se extiende el Parque Nacional de Doñana, incluidas sus Zonas de Reservas, así como sus Zonas de Protección y el Parque Natural de Doñana.
 
-Area de Influencia Socioeconómica
+2. El Consejo de Gobierno de la Junta de Andalucía a propuesta del Consejero de Medio Ambiente podrá modificar el Espacio Natural Doñana incorporando al mismo terrenos colindantes siempre que reúnan las características ecológicas adecuadas para ello y sean propiedad de la Administración de la Junta de Andalucía o se autorice por sus propietarios la incorporación.
+
+3. Se incorporarán, igualmente, al Espacio Natural Doñana las ampliaciones que se produzcan del Parque Nacional de Doñana.
+
+## Capítulo II. Area de Influencia Socioeconómica.
 
 #### Artículo 6. Delimitación del Area de Influencia Socioeconómica.
 
-Se delimita como Area de Influencia Socioeconómica a
-los efectos previstos en el artículo 18.2 de la Ley 4/1989,
-de 27 de marzo, de Conservación de los Espacios Naturales
-Protegidos y de la Fauna y Flora Silvestres, el conjunto de
-los términos de los municipios comprendidos, en todo o en
-parte, dentro de los límites del Espacio Natural Doñana.
+Se delimita como Area de Influencia Socioeconómica a los efectos previstos en el artículo 18.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales Protegidos y de la Fauna y Flora Silvestres, el conjunto de los términos de los municipios comprendidos, en todo o en parte, dentro de los límites del Espacio Natural Doñana.
 
 #### Artículo 7. Inclusiones en el Area de Influencia Socioeconómica.
 
-1. Las ampliaciones del Espacio Natural Doñana que
-supongan la incorporación, en todo o en parte, de términos
-municipales no incluidos anteriormente, determinarán su automática inclusión en el Area de Influencia Socioeconómica.
-2. Con carácter excepcional, el Consejo de Gobierno de
-la Junta de Andalucía resolverá la integración en el Area de
-Influencia Socioeconómica que sea solicitada justificadamente
-por aquellos municipios limítrofes con los pertenecientes a
-la misma.
+1. Las ampliaciones del Espacio Natural Doñana que supongan la incorporación, en todo o en parte, de términos municipales no incluidos anteriormente, determinarán su automática inclusión en el Area de Influencia Socioeconómica.
 
-#### Artículo 8. Actividad administrativa de fomento en el Area
+2. Con carácter excepcional, el Consejo de Gobierno de la Junta de Andalucía resolverá la integración en el Area de Influencia Socioeconómica que sea solicitada justificadamente por aquellos municipios limítrofes con los pertenecientes a la misma.
 
-de Influencia Económica.
-Los municipios cuyos términos municipales estén incluidos en el Area de Influencia Socioeconómica podrán acogerse
-al régimen de subvenciones, compensaciones y otras medidas
-de fomento que estén reglamentariamente establecidas. Todas
-ellas se realizarán de acuerdo con las determinaciones del
-Plan de Desarrollo Sostenible de Doñana en vigor.
+#### Artículo 8. Actividad administrativa de fomento en el Area de Influencia Económica.
+
+Los municipios cuyos términos municipales estén incluidos en el Area de Influencia Socioeconómica podrán acogerse al régimen de subvenciones, compensaciones y otras medidas de fomento que estén reglamentariamente establecidas. Todas ellas se realizarán de acuerdo con las determinaciones del Plan de Desarrollo Sostenible de Doñana en vigor.
 
 #### Artículo 9. Inversiones en el Area de Influencia Socioeconómica.
 
-1. Dentro de una adecuada política de desarrollo sostenible y su correspondiente Plan, la Administración de la Junta
-de Andalucía, previa conformidad de su Consejería de Medio
-Ambiente, participará en las actuaciones tendentes a la realización de inversiones que promuevan el necesario desarrollo
-socioeconómico del Area de Influencia Socioeconómica.
-2. La participación de la Administración de la Junta de
-Andalucía en las actuaciones a que se refiere el párrafo anterior
-se realizará preferentemente mediante la celebración de con-
+1. Dentro de una adecuada política de desarrollo sostenible y su correspondiente Plan, la Administración de la Junta de Andalucía, previa conformidad de su Consejería de Medio Ambiente, participará en las actuaciones tendentes a la realización de inversiones que promuevan el necesario desarrollo socioeconómico del Area de Influencia Socioeconómica.
 
-Página núm. 15.112
-Sevilla, 25 de noviembre 1999
-venios con las Entidades Locales, en los que se justifiquen
-la utilidad del proyecto que se presente a los fines del deseado
-desarrollo local compatible con la conservación del Espacio
-Natural Doñana.
-TITULO II
+2. La participación de la Administración de la Junta de Andalucía en las actuaciones a que se refiere el párrafo anterior se realizará preferentemente mediante la celebración de conPágina núm. 15.112 Sevilla, 25 de noviembre 1999 venios con las Entidades Locales, en los que se justifiquen la utilidad del proyecto que se presente a los fines del deseado desarrollo local compatible con la conservación del Espacio Natural Doñana.
+
+## Título II
+
 ORGANOS DE GESTION Y PARTICIPACION
 
-### CAPITULO I
-
-Del Equipo de Gestión
-
-#### Artículo 10. Concepto.
-
-La administración y gestión del Espacio Natural Doñana
-la realizará la Consejería de Medio Ambiente de la Junta de
-Andalucía a través del Equipo de Gestión.
+## Capítulo I. Del Equipo de Gestión artículo 10 Concepto. La administración y gestión del Espacio Natural Doñana la realizará la Consejería de Medio Ambiente de la Junta de Andalucía a través del Equipo de Gestión.
 
 #### Artículo 11. Composición.
 
-El Equipo de Gestión se estructurará en, al menos, dos
-áreas funcionales, una relativa a las actividades ligadas a la
-conservación del Espacio Natural, a cuyo frente estará un Conservador, y otra encargada de las tareas relacionadas con la
-gerencia del mismo, a cuyo frente estará un Gerente. Formará
-parte del mismo el Director del Espacio Natural a quien corresponderá la dirección y coordinación.
+El Equipo de Gestión se estructurará en, al menos, dos áreas funcionales, una relativa a las actividades ligadas a la conservación del Espacio Natural, a cuyo frente estará un Conservador, y otra encargada de las tareas relacionadas con la gerencia del mismo, a cuyo frente estará un Gerente. Formará parte del mismo el Director del Espacio Natural a quien corresponderá la dirección y coordinación.
 
 #### Artículo 12. Nombramiento.
 
-El nombramiento del Director del Espacio Natural Doñana
-y del resto del Equipo de Gestión se realizará de conformidad
-con lo prevenido en la normativa reguladora de la Función
-Pública de la Junta de Andalucía.
+El nombramiento del Director del Espacio Natural Doñana y del resto del Equipo de Gestión se realizará de conformidad con lo prevenido en la normativa reguladora de la Función Pública de la Junta de Andalucía.
 
 #### Artículo 13. Funciones.
 
 Son funciones del Equipo de Gestión las siguientes:
-1. Colaborar en la redacción del proyecto del Plan de
-Ordenación de los Recursos Naturales, del Plan Rector de
-Uso y Gestión, del Plan de Desarrollo Sostenible y de sus
-respectivas modificaciones y revisiones.
-2. Presentar para su aprobación por la Consejería de
-Medio Ambiente el Plan Anual de Trabajo e Inversiones, que
-contendrá el orden de prioridad de las diferentes actividades
-a realizar.
-3. Elaborar los planes sectoriales que, en su caso, desarrollen el Plan Rector de Uso y Gestión, y proponerlos al Consejo
-de Participación para su aprobación.
-4. Proponer al órgano competente de la Administración
-de la Junta de Andalucía los convenios de colaboración que
-se estimen necesarios para ejecutar el Plan Anual de Trabajos
-e Inversiones y los planes sectoriales.
-5. Proponer al órgano competente por razón de la materia
-los proyectos de obras y trabajos que se considere necesario
-realizar.
-6. Elaborar y someter a la tramitación y aprobación por
-la Consejería de Medio Ambiente los pliegos de condiciones
-técnicas relativos a concesiones de servicios, adjudicaciones
-de aprovechamientos y autorizaciones de usos a terceros.
-7. Establecer, previo informe del Consejo de Participación,
-el régimen de funcionamiento de las instalaciones y servicios
-del Espacio Natural Doñana, velando por el correcto uso de
-sus signos externos identificativos.
-8. Elaborar la memoria anual de actividades y resultados
-y someterla a la aprobación del Consejo de Participación para
-su conocimiento e informe.
-9. Dictar, en el ámbito de sus competencias, y, en su
-caso, proponer las normas de desarrollo necesarias para una
-eficaz gestión del Espacio Natural Doñana.
-10. Otorgar la autorización exigida en el artículo 13 en
-relación con el 16, ambos de la Ley 2/1989, por la que se
-aprueba el Inventario de Espacios Naturales Protegidos de
-Andalucía y se establecen medidas adicionales para su protección, para las nuevas actuaciones en suelo no urbanizable
-en el territorio del Espacio Natural Doñana.
-11. Asumir la gestión del régimen de autonomía económica del Espacio Natural Doñana, justificando la cuenta
-de gestión económica ante la Consejería de Medio Ambiente.
-12. Elaborar, en coordinación con la Estación Biológica
-de Doñana y las Universidades andaluzas presentes en el Consejo de Participación, los programas de investigación científica
-del Espacio Natural Doñana, en el marco de las previsiones
-contenidas en los instrumentos planificadores andaluces en
-materia de investigación y medio ambiente.
-13. Realizar todas aquellas actuaciones que se consideren
-necesarias para el mejor cumplimiento de los objetivos del
-Espacio Natural Doñana.
 
-### CAPITULO II
+1. Colaborar en la redacción del proyecto del Plan de Ordenación de los Recursos Naturales, del Plan Rector de Uso y Gestión, del Plan de Desarrollo Sostenible y de sus respectivas modificaciones y revisiones.
 
-El Consejo de Participación
+2. Presentar para su aprobación por la Consejería de Medio Ambiente el Plan Anual de Trabajo e Inversiones, que contendrá el orden de prioridad de las diferentes actividades a realizar.
 
-#### Artículo 14. Creación.
+3. Elaborar los planes sectoriales que, en su caso, desarrollen el Plan Rector de Uso y Gestión, y proponerlos al Consejo de Participación para su aprobación.
 
-Se crea el Consejo de Participación como órgano de colaboración y coparticipación entre las Administraciones implicadas, donde se ha de hacer efectiva la coordinación interadministrativa exigida constitucionalmente y además servir
-a la necesaria intervención de los ciudadanos en la gestión
-del Espacio Natural Doñana. Este Consejo está adscrito, a
-efectos administrativos, a la Consejería de Medio Ambiente.
+4. Proponer al órgano competente de la Administración de la Junta de Andalucía los convenios de colaboración que se estimen necesarios para ejecutar el Plan Anual de Trabajos e Inversiones y los planes sectoriales.
+
+5. Proponer al órgano competente por razón de la materia los proyectos de obras y trabajos que se considere necesario realizar.
+
+6. Elaborar y someter a la tramitación y aprobación por la Consejería de Medio Ambiente los pliegos de condiciones técnicas relativos a concesiones de servicios, adjudicaciones de aprovechamientos y autorizaciones de usos a terceros.
+
+7. Establecer, previo informe del Consejo de Participación, el régimen de funcionamiento de las instalaciones y servicios del Espacio Natural Doñana, velando por el correcto uso de sus signos externos identificativos.
+
+8. Elaborar la memoria anual de actividades y resultados y someterla a la aprobación del Consejo de Participación para su conocimiento e informe.
+
+9. Dictar, en el ámbito de sus competencias, y, en su caso, proponer las normas de desarrollo necesarias para una eficaz gestión del Espacio Natural Doñana.
+
+10. Otorgar la autorización exigida en el artículo 13 en.
+
+relación con el 16, ambos de la Ley 2/1989, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección, para las nuevas actuaciones en suelo no urbanizable en el territorio del Espacio Natural Doñana.
+
+11. Asumir la gestión del régimen de autonomía económica del Espacio Natural Doñana, justificando la cuenta de gestión económica ante la Consejería de Medio Ambiente.
+
+12. Elaborar, en coordinación con la Estación Biológica de Doñana y las Universidades andaluzas presentes en el Consejo de Participación, los programas de investigación científica del Espacio Natural Doñana, en el marco de las previsiones contenidas en los instrumentos planificadores andaluces en materia de investigación y medio ambiente.
+
+13. Realizar todas aquellas actuaciones que se consideren necesarias para el mejor cumplimiento de los objetivos del Espacio Natural Doñana.
+
+## Capítulo II. El Consejo de Participación artículo 14 Creación. Se crea el Consejo de Participación como órgano de colaboración y coparticipación entre las Administraciones implicadas, donde se ha de hacer efectiva la coordinación interadministrativa exigida constitucionalmente y además servir a la necesaria intervención de los ciudadanos en la gestión del Espacio Natural Doñana. Este Consejo está adscrito, a efectos administrativos, a la Consejería de Medio Ambiente.
 
 #### Artículo 15. Composición y funcionamiento.
 
-1. El Consejo de Participación estará compuesto por el
-Presidente, Vicepresidente, Secretario y los Vocales representantes de la Administración de la Junta de Andalucía, de la
-Administración del Estado y de la Administración Local, de
-las organizaciones y agentes sociales y económicos y de la
-comunidad científica. La forma de designación de los miembros y el número de los Vocales se determinará reglamentariamente.
-2. El régimen jurídico de funcionamiento del Consejo de
-Participación será el que se disponga en su Reglamento de
-Régimen Interno y lo establecido en los artículos 22 y siguientes, sobre los órganos colegiados, de la Ley 30/1992, de 26
-de noviembre, de Régimen Jurídico de las Administraciones
-Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999.
+1. El Consejo de Participación estará compuesto por el Presidente, Vicepresidente, Secretario y los Vocales representantes de la Administración de la Junta de Andalucía, de la Administración del Estado y de la Administración Local, de las organizaciones y agentes sociales y económicos y de la comunidad científica. La forma de designación de los miembros y el número de los Vocales se determinará reglamentariamente.
+
+2. El régimen jurídico de funcionamiento del Consejo de Participación será el que se disponga en su Reglamento de Régimen Interno y lo establecido en los artículos 22 y siguientes, sobre los órganos colegiados, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por Ley 4/1999.
 
 #### Artículo 16. Competencias.
 
-El Consejo de Participación, sin perjuicio de las demás
-competencias que legalmente le pudieran corresponder, asumirá las siguientes funciones:
+El Consejo de Participación, sin perjuicio de las demás competencias que legalmente le pudieran corresponder, asumirá las siguientes funciones:
+
 1. Colaborar en el cumplimiento de los objetivos perseguidos por la declaración del Espacio Natural.
-2. Promover el conocimiento y la difusión de los valores
-del Espacio Natural Doñana.
-3. Fomentar, facilitar y canalizar en lo posible la participación y las iniciativas de los ciudadanos en la promoción
-y conservación del Espacio Natural Doñana.
-4. Velar por el cumplimiento de las normas que afecten
-al Espacio Natural Doñana y proponer todas aquellas actuaciones o disposiciones que se consideren necesarias para el
-mejor cumplimiento de los objetivos del mismo.
-5. Informar los planes que afecten a la ordenación y gestión de los recursos naturales del Espacio Natural Doñana
-y a la conservación de la flora, la fauna y sus hábitats y cualquier instrumento de planificación que afecte al ámbito del
-mismo, particularmente el Plan de Desarrollo Sostenible, así
-como cualquier propuesta de revisión de los planes.
-6. Informar el Plan Anual de Trabajo e Inversiones del
-Espacio Natural, los planes sectoriales específicos y los programas de investigación científica.
+
+2. Promover el conocimiento y la difusión de los valores del Espacio Natural Doñana.
+
+3. Fomentar, facilitar y canalizar en lo posible la participación y las iniciativas de los ciudadanos en la promoción y conservación del Espacio Natural Doñana.
+
+4. Velar por el cumplimiento de las normas que afecten al Espacio Natural Doñana y proponer todas aquellas actuaciones o disposiciones que se consideren necesarias para el mejor cumplimiento de los objetivos del mismo.
+
+5. Informar los planes que afecten a la ordenación y gestión de los recursos naturales del Espacio Natural Doñana y a la conservación de la flora, la fauna y sus hábitats y cualquier instrumento de planificación que afecte al ámbito del mismo, particularmente el Plan de Desarrollo Sostenible, así como cualquier propuesta de revisión de los planes.
+
+6. Informar el Plan Anual de Trabajo e Inversiones del Espacio Natural, los planes sectoriales específicos y los programas de investigación científica.
+
 7. Aprobar los planes sectoriales que en su caso desarrollen el Plan Rector de Uso y Gestión.
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.113
-8. Proponer las posibles modificaciones de los límites de
-las figuras de protección que integran el Espacio Natural
-Doñana.
-9. Recabar y recibir información sobre las actuaciones
-y actividades que se desarrollen en el Espacio Natural Doñana
-relacionadas con su conservación y uso público.
-10. Aprobar la memoria anual de actividades elaborada
-por el Equipo de Gestión del Espacio Natural Doñana, proponiendo las medidas que considere necesarias para corregir
-disfunciones y mejorar la gestión.
-11. Informar los proyectos de obras y trabajos que se
-consideren necesarios realizar y no figuren en el Plan Rector
-de Uso y Gestión o en el Plan Anual de Trabajos e Inversiones.
-12. Informar el régimen de funcionamiento de las instalaciones y servicios del Espacio Natural Doñana, propuesto
-por el Equipo de Gestión.
-13. Informar sobre la propuesta de distribución de ayudas
-y subvenciones en el Area de Influencia Socioeconómica del
-Espacio Natural Doñana.
-14. Informar las propuestas de autorizaciones de actuaciones no prohibidas en la presente Ley ni contempladas en
-el Plan de Ordenación de Recursos Naturales o el Plan Rector
-de Uso y Gestión del Espacio Natural Doñana.
-15. Informar los convenios de colaboración que el Equipo
-de Gestión vaya a proponer a la administración de la Comunidad Autónoma.
+Sevilla, 25 de noviembre 1999 Página núm. 15.113
+
+8. Proponer las posibles modificaciones de los límites de las figuras de protección que integran el Espacio Natural Doñana.
+
+9. Recabar y recibir información sobre las actuaciones y actividades que se desarrollen en el Espacio Natural Doñana relacionadas con su conservación y uso público.
+
+10. Aprobar la memoria anual de actividades elaborada por el Equipo de Gestión del Espacio Natural Doñana, proponiendo las medidas que considere necesarias para corregir disfunciones y mejorar la gestión.
+
+11. Informar los proyectos de obras y trabajos que se consideren necesarios realizar y no figuren en el Plan Rector de Uso y Gestión o en el Plan Anual de Trabajos e Inversiones.
+
+12. Informar el régimen de funcionamiento de las instalaciones y servicios del Espacio Natural Doñana, propuesto por el Equipo de Gestión.
+
+13. Informar sobre la propuesta de distribución de ayudas y subvenciones en el Area de Influencia Socioeconómica del Espacio Natural Doñana.
+
+14. Informar las propuestas de autorizaciones de actuaciones no prohibidas en la presente Ley ni contempladas en el Plan de Ordenación de Recursos Naturales o el Plan Rector de Uso y Gestión del Espacio Natural Doñana.
+
+15. Informar los convenios de colaboración que el Equipo de Gestión vaya a proponer a la administración de la Comunidad Autónoma.
+
 16. Aprobar su Reglamento de Régimen Interno.
+
 17. Acordar la creación de comisiones o grupos de trabajo.
 
-### CAPITULO III
+## Capítulo III. Medios necesarios para la gestión.
 
-Medios necesarios para la gestión
+#### Artículo 17. Medios para la gestión del Espacio Natural.
 
-#### Artículo 17. Medios para la gestión del Espacio Natural
+Doñana. Los medios precisos para la gestión y administración del Espacio Natural Doñana serán aportados por las Administraciones públicas implicadas, en el marco de sus respectivas competencias.
 
-Doñana.
-Los medios precisos para la gestión y administración del
-Espacio Natural Doñana serán aportados por las Administraciones públicas implicadas, en el marco de sus respectivas
-competencias.
-TITULO III
-INSTRUMENTOS DE PLANIFICACION DEL ESPACIO
-NATURAL DOÑANA
+## Título III
 
-### CAPITULO I
+INSTRUMENTOS DE PLANIFICACION DEL ESPACIO NATURAL DOÑANA
 
-Normas generales
+## Capítulo I. Normas generales.
 
 #### Artículo 18. Disposiciones comunes.
 
-En el procedimiento de elaboración del Plan de Ordenación de los Recursos Naturales, Plan Rector de Uso y Gestión
-y Plan de Desarrollo Sostenible será preceptivo un previo acuerdo del Consejo de Gobierno de la Junta de Andalucía en el
-que se disponga la formulación del correspondiente Plan, el
-informe del Consejo de Participación y un período de información pública, sin perjuicio de cuantos otros requisitos les
-sean legalmente exigibles.
+En el procedimiento de elaboración del Plan de Ordenación de los Recursos Naturales, Plan Rector de Uso y Gestión y Plan de Desarrollo Sostenible será preceptivo un previo acuerdo del Consejo de Gobierno de la Junta de Andalucía en el que se disponga la formulación del correspondiente Plan, el informe del Consejo de Participación y un período de información pública, sin perjuicio de cuantos otros requisitos les sean legalmente exigibles.
 
-### CAPITULO II
+## Capítulo II. Plan de Ordenación de Recursos Naturales.
 
-Plan de Ordenación de Recursos Naturales
-
-#### Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 19. Finalidad y competencia.
 
-1. Es finalidad del Plan de Ordenación de los Recursos
-Naturales del Espacio Natural Doñana promover la conservación de los recursos, ecosistemas, la investigación científica
-de los mismos, ordenar el uso y aprovechamiento de los recursos naturales y establecer las directrices necesarias para una
-adecuada gestión integral del Espacio Natural.
-2. El Consejo de Gobierno de la Junta de Andalucía, a
-propuesta de la Consejería de Medio Ambiente, aprobará el
-Plan de Ordenación de los Recursos Naturales del Espacio
-Natural Doñana y cualquier revisión o modificación del mismo.
+1. Es finalidad del Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana promover la conservación de los recursos, ecosistemas, la investigación científica de los mismos, ordenar el uso y aprovechamiento de los recursos naturales y establecer las directrices necesarias para una adecuada gestión integral del Espacio Natural.
+
+2. El Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, aprobará el Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana y cualquier revisión o modificación del mismo.
 
 #### Artículo 20. Objetivos y contenidos.
 
-Los objetivos y el contenido mínimo del Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana
-son los establecidos al respecto por la legislación estatal de
-carácter básico, así como las determinaciones que se enuncian
-en los artículos 27.1 y 29.1 de la presente Ley.
+Los objetivos y el contenido mínimo del Plan de Ordenación de los Recursos Naturales del Espacio Natural Doñana son los establecidos al respecto por la legislación estatal de carácter básico, así como las determinaciones que se enuncian en los artículos 27.1 y 29.1 de la presente Ley.
 
 #### Artículo 21. Prohibiciones y autorizaciones.
 
-Cualquier actuación que se proyecte realizar en el espacio
-protegido susceptible de provocar daños o alteraciones al medio
-ambiente y que no esté prohibida en la presente Ley, el Plan
-de Ordenación de Recursos Naturales o el Plan Rector de
-Uso y Gestión requerirá una previa y expresa autorización por
-parte de la Consejería de Medio Ambiente, previo informe favorable del Consejo de Participación.
+Cualquier actuación que se proyecte realizar en el espacio protegido susceptible de provocar daños o alteraciones al medio ambiente y que no esté prohibida en la presente Ley, el Plan de Ordenación de Recursos Naturales o el Plan Rector de Uso y Gestión requerirá una previa y expresa autorización por parte de la Consejería de Medio Ambiente, previo informe favorable del Consejo de Participación.
 
 #### Artículo 22. Vías pecuarias.
 
-El Plan de Ordenación de los Recursos Naturales prestará
-especial atención al diseño y puesta en marcha de un programa
-para la recuperación y puesta en uso de la red de vías pecuarias
-del Espacio Natural de Doñana y de su Area de Influencia
-Socioeconómica, como uno de los elementos claves para el
-mantenimiento de la biodiversidad y la diversidad paisajística,
-respetando en todo caso los usos compatibles y complementarios regulados por la Ley 3/1995, de 23 de marzo, de Vías
-Pecuarias, y por el Decreto 155/1998, de 21 de julio, por
-el que se aprueba el Reglamento de Vías Pecuarias de la
-Comunidad Autónoma de Andalucía.
+El Plan de Ordenación de los Recursos Naturales prestará especial atención al diseño y puesta en marcha de un programa para la recuperación y puesta en uso de la red de vías pecuarias del Espacio Natural de Doñana y de su Area de Influencia Socioeconómica, como uno de los elementos claves para el mantenimiento de la biodiversidad y la diversidad paisajística, respetando en todo caso los usos compatibles y complementarios regulados por la Ley 3/1995, de 23 de marzo, de Vías Pecuarias, y por el Decreto 155/1998, de 21 de julio, por el que se aprueba el Reglamento de Vías Pecuarias de la Comunidad Autónoma de Andalucía.
 
 #### Artículo 23. Cauces fluviales.
 
-El Plan de Ordenación de los Recursos Naturales prestará
-especial atención al diseño y puesta en marcha de un programa
-para la recuperación y reforestación de los cauces fluviales
-públicos del Espacio Natural de Doñana y de su Area de
-Influencia Socioeconómica, como uno de los elementos claves
-para el mantenimiento de la biodiversidad y la diversidad
-paisajística.
+El Plan de Ordenación de los Recursos Naturales prestará especial atención al diseño y puesta en marcha de un programa para la recuperación y reforestación de los cauces fluviales públicos del Espacio Natural de Doñana y de su Area de Influencia Socioeconómica, como uno de los elementos claves para el mantenimiento de la biodiversidad y la diversidad paisajística.
 
-#### Sección 2.ª Recursos naturales abióticos
+#### Sección 2. ª Recursos naturales abióticos artículo 24 Recursos hídricos. Siendo prioritarios los recursos hídricos para la conservación del Espacio Natural Doñana, quedan prohibidas:
 
-#### Artículo 24. Recursos hídricos.
-
-Siendo prioritarios los recursos hídricos para la conservación del Espacio Natural Doñana, quedan prohibidas:
 1. Aquellas construcciones o actuaciones que puedan dificultar o alterar la dinámica natural o tradicional de las aguas.
-2. La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva
-autorización de la Administración ambiental de la Comunidad
-Autónoma, sin perjuicio de las competencias de otros organismos en la materia.
-3. Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos. En particular, los vertidos de
-aguas y productos residuales y cualquier tipo de sustancia
-susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros
-o sustancias de cualquier clase que constituyan un peligro
-por contaminación o degradación de las aguas o de su entorno.
-4. Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda
-ocasionar, por efecto del arrastre de materiales, la colmatación
-de las zonas húmedas del Espacio Natural.
+
+2. La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva autorización de la Administración ambiental de la Comunidad Autónoma, sin perjuicio de las competencias de otros organismos en la materia.
+
+3. Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos. En particular, los vertidos de aguas y productos residuales y cualquier tipo de sustancia susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros o sustancias de cualquier clase que constituyan un peligro por contaminación o degradación de las aguas o de su entorno.
+
+4. Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda ocasionar, por efecto del arrastre de materiales, la colmatación de las zonas húmedas del Espacio Natural.
 
 #### Artículo 25. Recursos edáficos y geológicos.
 
-Siendo prioritarios los recursos edáficos y geológicos para
-la conservación del Espacio Natural Doñana, quedan prohibidos:
+Siendo prioritarios los recursos edáficos y geológicos para la conservación del Espacio Natural Doñana, quedan prohibidos:
 
-Página núm. 15.114
-Sevilla, 25 de noviembre 1999
+Página núm. 15.114 Sevilla, 25 de noviembre 1999
+
 1. Cualquier actividad susceptible de alterar la geomorfología y, en concreto, movimientos de tierra, extracción y transporte de áridos o lodos.
-2. La acumulación y el enterramiento de residuos sólidos,
-líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
-3. Cualquier trabajo, obra, actividad o actuación que, por
-no establecer los procedimientos adecuados para su desarrollo
-ni las medidas correctoras precisas, pueda ocasionar el incremento del riesgo de erosión con la consiguiente pérdida de
-recursos edáficos.
+
+2. La acumulación y el enterramiento de residuos sólidos, líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
+
+3. Cualquier trabajo, obra, actividad o actuación que, por no establecer los procedimientos adecuados para su desarrollo ni las medidas correctoras precisas, pueda ocasionar el incremento del riesgo de erosión con la consiguiente pérdida de recursos edáficos.
 
 #### Artículo 26. Recursos atmosféricos.
 
-Queda prohibida cualquier actividad que suponga una
-degradación ambiental de las condiciones atmosféricas o que
-afecte negativamente al medio físico del Espacio Natural
-Doñana.
+Queda prohibida cualquier actividad que suponga una degradación ambiental de las condiciones atmosféricas o que afecte negativamente al medio físico del Espacio Natural Doñana.
 
 #### Artículo 27. Recursos paisajísticos.
 
 1. Son objetivos de la presente Ley en cuanto a la ordenación de los recursos paisajísticos:
-a) Evitar o minimizar los impactos paisajísticos producidos por las actividades que se desarrollen, dentro de los
-límites del Espacio Natural Doñana, mediante cualquiera de
-las formas posibles, entre otras, por intrusión o por pérdida
-de paisaje.
-b) Recuperar la calidad paisajística de las zonas tanto
-naturales como antropizadas, degradadas por el desarrollo de
-actividades perjudiciales para sus características visuales,
-sonoras u olfativas.
-c) Preservar la diversidad paisajística del Espacio Natural
-Doñana, en particular, su paisaje natural.
+a) Evitar o minimizar los impactos paisajísticos producidos por las actividades que se desarrollen, dentro de los límites del Espacio Natural Doñana, mediante cualquiera de las formas posibles, entre otras, por intrusión o por pérdida de paisaje.
+b) Recuperar la calidad paisajística de las zonas tanto naturales como antropizadas, degradadas por el desarrollo de actividades perjudiciales para sus características visuales, sonoras u olfativas.
+c) Preservar la diversidad paisajística del Espacio Natural Doñana, en particular, su paisaje natural.
+
 2. Queda prohibido, en cuanto a los recursos paisajísticos:
-a) La construcción, edificación o colocación de cualquier
-elemento artificial, temporal o permanente, que no responda
-a las necesidades propias de la gestión del Espacio Natural
-Doñana ni a criterios de integración paisajística con el medio
-natural.
-b) La instalación de carteles, inscripciones o artefactos
-de cualquier naturaleza con fines publicitarios, informativos
-o conmemorativos que pudieran menoscabar los objetivos de
-la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión
-del Espacio Natural Doñana y la seguridad vial, que, no obstante, deberán estar en consonancia con el medio natural.
-Esta adecuación paisajística de las mencionadas infraestructuras será supervisada por la Administración ambiental de la
-Junta de Andalucía.
-c) Todos los usos y actividades que sean incompatibles
-o alteren los objetivos respecto a la ordenación de los recursos
-paisajísticos del Espacio Natural Doñana.
+a) La construcción, edificación o colocación de cualquier elemento artificial, temporal o permanente, que no responda a las necesidades propias de la gestión del Espacio Natural Doñana ni a criterios de integración paisajística con el medio natural.
+b) La instalación de carteles, inscripciones o artefactos de cualquier naturaleza con fines publicitarios, informativos o conmemorativos que pudieran menoscabar los objetivos de la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión del Espacio Natural Doñana y la seguridad vial, que, no obstante, deberán estar en consonancia con el medio natural. Esta adecuación paisajística de las mencionadas infraestructuras será supervisada por la Administración ambiental de la Junta de Andalucía.
+c) Todos los usos y actividades que sean incompatibles o alteren los objetivos respecto a la ordenación de los recursos paisajísticos del Espacio Natural Doñana.
 
 #### Artículo 28. Patrimonio cultural.
 
-Con el fin de armonizar los diversos intereses de las Administraciones Públicas implicadas en el fomento, conservación
-y uso público de los bienes del patrimonio cultural, la utilización
-de dichos bienes sitos en el territorio del Espacio Natural Doñana se llevará a cabo con las cautelas que reglamentariamente
-se establezcan.
+Con el fin de armonizar los diversos intereses de las Administraciones Públicas implicadas en el fomento, conservación y uso público de los bienes del patrimonio cultural, la utilización de dichos bienes sitos en el territorio del Espacio Natural Doñana se llevará a cabo con las cautelas que reglamentariamente se establezcan.
 
-#### Sección 3.ª Recursos naturales bióticos
+#### Sección 3. ª Recursos naturales bióticos
 
 #### Artículo 29. Flora y fauna.
 
 1. Respecto de la ordenación de la flora y fauna del Espacio Natural Doñana, son objetivos específicos de esta Ley:
-a) Recuperar las especies de flora y fauna amenazadas
-y sus hábitats.
+a) Recuperar las especies de flora y fauna amenazadas y sus hábitats.
 b) Preservar la diversidad genética, garantizando la conservación de la flora y la fauna silvestre.
 c) Conservar los hábitats naturales y ecosistemas.
-d) Favorecer el desarrollo y equilibrio de los sistemas
-naturales.
-e) Fomentar la gestión de los ecosistemas forestales procurando la conservación de los mismos de acuerdo con criterios
-de sostenibilidad.
-2. Siendo prioritaria la conservación del Espacio Natural
-Doñana, quedan prohibidos:
-a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro
-de extinción, sensibles, vulnerables o de interés especial.
-b) Las actividades que atenten contra la conservación
-de los hábitats naturales o alteren el normal desenvolvimiento
-de la fauna.
-c) La alimentación no autorizada de la fauna o la realizada
-fuera del ejercicio de actividad autorizada que conlleve el suministro de alimentos a animales.
-d) La extracción o recolección no autorizada de plantas
-y animales muertos, huevos, y cualquier fragmento y resto
-propio de la actividad de la flora y fauna del Espacio Natural
-Doñana.
-e) El maltrato, muerte, destrucción, captura de especies
-de fauna silvestres no catalogadas y la recolección, arranque
-y corta de plantas, para aquellos casos en que sea precisa
-la previa autorización administrativa y ésta no se haya
-otorgado.
+d) Favorecer el desarrollo y equilibrio de los sistemas naturales.
+e) Fomentar la gestión de los ecosistemas forestales procurando la conservación de los mismos de acuerdo con criterios de sostenibilidad.
+
+2. Siendo prioritaria la conservación del Espacio Natural Doñana, quedan prohibidos:
+a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro de extinción, sensibles, vulnerables o de interés especial.
+b) Las actividades que atenten contra la conservación de los hábitats naturales o alteren el normal desenvolvimiento de la fauna.
+c) La alimentación no autorizada de la fauna o la realizada fuera del ejercicio de actividad autorizada que conlleve el suministro de alimentos a animales.
+d) La extracción o recolección no autorizada de plantas y animales muertos, huevos, y cualquier fragmento y resto propio de la actividad de la flora y fauna del Espacio Natural Doñana.
+e) El maltrato, muerte, destrucción, captura de especies de fauna silvestres no catalogadas y la recolección, arranque y corta de plantas, para aquellos casos en que sea precisa la previa autorización administrativa y ésta no se haya otorgado.
 f) La introducción en el medio natural de cualquier especie biótica no autóctona.
 
-### CAPITULO III
-
-Plan Rector de Uso y Gestión
-
-#### Artículo 30. Competencias.
-
-Corresponde al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, la
-aprobación del Plan Rector de Uso y Gestión, así como la
-de sus modificaciones y revisiones.
+## Capítulo III. Plan Rector de Uso y Gestión artículo 30 Competencias. Corresponde al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente, la aprobación del Plan Rector de Uso y Gestión, así como la de sus modificaciones y revisiones.
 
 #### Artículo 31. Objetivos y contenidos.
 
-1. Constituye el objetivo principal del Plan Rector de Uso
-y Gestión del Espacio Natural Doñana garantizar la administración y gestión del mismo, en el marco de las directrices
-establecidas en el Plan de Ordenación de los Recursos Naturales y en el Plan Director de la Red de Parques.
-2. El contenido mínimo del Plan Rector de Uso y Gestión
-del Espacio Natural Doñana es el previsto en el artículo 19.4
-de la Ley de Conservación de los Espacios Naturales y de
-la Flora y Fauna Silvestres. Además, tendrá el siguiente contenido y objetivos concretos:
-a) Recoger la zonificación establecida en el Plan de Ordenación de Recursos Naturales detallando los diferentes usos
-y actividades compatibles e incompatibles en la misma.
-b) Determinar las actuaciones de gestión necesarias para
-la conservación y restauración de los ecosistemas y equilibrios
-biológicos existentes.
-c) Establecer medidas tendentes a potenciar un aprovechamiento racional de los recursos naturales del Espacio Natural Doñana, potenciando aquellas actividades que el Plan de
-Desarrollo Sostenible considere necesarias para mantener las
-características del Espacio Natural.
-d) Favorecer la investigación científica en coordinación
-con las previsiones que sobre la misma se hacen en el Plan
-Andaluz de Investigación y Plan de Medio Ambiente en Andalucía, establecer las prioridades y las bases de los programas
-específicos de investigación, así como fijar los criterios para
+1. Constituye el objetivo principal del Plan Rector de Uso y Gestión del Espacio Natural Doñana garantizar la administración y gestión del mismo, en el marco de las directrices establecidas en el Plan de Ordenación de los Recursos Naturales y en el Plan Director de la Red de Parques.
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.115
-la coordinación de los distintos instrumentos prospectivos respecto a la investigación científica en el Espacio Natural Doñana, todo ello para un conocimiento más amplio de este espacio
-protegido.
-e) Promover el desarrollo de las actividades turísticas,
-recreativas y culturales compatibles con los objetivos de conservación del Espacio Natural Doñana, identificando, expresamente, aquéllas que no lo sean, y estableciendo, para las
-primeras, la documentación y requisitos necesarios para su
-ejercicio.
-f) Regular y promover la coordinación normativa de los
-diferentes servicios de uso público relacionados con el Espacio
-Natural Doñana que se desarrollen en el mismo.
-g) Establecer un régimen general para la concesión de
-las distintas autorizaciones previstas en la normativa ambiental
-vigente.
-h) Establecer de acuerdo con la presente Ley y el Plan
-de Ordenación de Recursos Naturales el régimen de prohibiciones y limitaciones de actividades.
-i) Las bases de los distintos planes sectoriales que
-desarrollen el Plan Rector de Uso y Gestión.
+2. El contenido mínimo del Plan Rector de Uso y Gestión del Espacio Natural Doñana es el previsto en el artículo 19.4 de la Ley de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres. Además, tendrá el siguiente contenido y objetivos concretos:
+a) Recoger la zonificación establecida en el Plan de Ordenación de Recursos Naturales detallando los diferentes usos y actividades compatibles e incompatibles en la misma.
+b) Determinar las actuaciones de gestión necesarias para la conservación y restauración de los ecosistemas y equilibrios biológicos existentes.
+c) Establecer medidas tendentes a potenciar un aprovechamiento racional de los recursos naturales del Espacio Natural Doñana, potenciando aquellas actividades que el Plan de Desarrollo Sostenible considere necesarias para mantener las características del Espacio Natural.
+d) Favorecer la investigación científica en coordinación con las previsiones que sobre la misma se hacen en el Plan Andaluz de Investigación y Plan de Medio Ambiente en Andalucía, establecer las prioridades y las bases de los programas específicos de investigación, así como fijar los criterios para
 
-#### Artículo 32. Duración, modificaciones y revisiones del
+Sevilla, 25 de noviembre 1999 Página núm. 15.115 la coordinación de los distintos instrumentos prospectivos respecto a la investigación científica en el Espacio Natural Doñana, todo ello para un conocimiento más amplio de este espacio protegido.
+e) Promover el desarrollo de las actividades turísticas, recreativas y culturales compatibles con los objetivos de conservación del Espacio Natural Doñana, identificando, expresamente, aquéllas que no lo sean, y estableciendo, para las primeras, la documentación y requisitos necesarios para su ejercicio.
+f) Regular y promover la coordinación normativa de los diferentes servicios de uso público relacionados con el Espacio Natural Doñana que se desarrollen en el mismo.
+g) Establecer un régimen general para la concesión de las distintas autorizaciones previstas en la normativa ambiental vigente.
+h) Establecer de acuerdo con la presente Ley y el Plan de Ordenación de Recursos Naturales el régimen de prohibiciones y limitaciones de actividades.
+i) Las bases de los distintos planes sectoriales que desarrollen el Plan Rector de Uso y Gestión.
 
-Plan Rector de Uso y Gestión.
-La vigencia temporal del Plan Rector de Uso y Gestión
-del Espacio Natural Doñana será de un mínimo de cuatro
-años, prorrogables por el Consejero de Medio Ambiente hasta
-un máximo de seis años, debiendo revisarse al final del período,
-tras la evaluación del Plan Rector de Uso y Gestión o antes
-si fuera necesario.
+#### Artículo 32. Duración, modificaciones y revisiones del Plan.
 
-### CAPITULO IV
+Rector de Uso y Gestión. La vigencia temporal del Plan Rector de Uso y Gestión del Espacio Natural Doñana será de un mínimo de cuatro años, prorrogables por el Consejero de Medio Ambiente hasta un máximo de seis años, debiendo revisarse al final del período, tras la evaluación del Plan Rector de Uso y Gestión o antes si fuera necesario.
 
-Plan de Desarrollo Sostenible
+## Capítulo IV. Plan de Desarrollo Sostenible.
 
-#### Artículo 33. Concepto y finalidad del Plan de Desarrollo
+#### Artículo 33. Concepto y finalidad del Plan de Desarrollo.
 
-Sostenible del Espacio Natural Doñana.
-El Plan de Desarrollo Sostenible del Espacio Natural Doñana es el instrumento para la promoción del desarrollo en el
-Espacio Natural Doñana y su área de influencia socioeconómica en el marco de la conservación y protección de los recursos naturales de dicho ámbito, correspondiendo su aprobación
-al Consejo de Gobierno de la Junta de Andalucía, a propuesta
-de la Consejería de Medio Ambiente.
-El Plan de Desarrollo Sostenible se elaborará teniendo
-presente los siguientes principios inspiradores:
-1. El desarrollo socioeconómico debe promoverse de forma que queden garantizadas las necesidades socioeconómicas
-y ambientales de las generaciones presentes y futuras.
-2. La protección del medio ambiente debe presidir todo
-el proceso de desarrollo socioeconómico.
+Sostenible del Espacio Natural Doñana. El Plan de Desarrollo Sostenible del Espacio Natural Doñana es el instrumento para la promoción del desarrollo en el Espacio Natural Doñana y su área de influencia socioeconómica en el marco de la conservación y protección de los recursos naturales de dicho ámbito, correspondiendo su aprobación al Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente. El Plan de Desarrollo Sostenible se elaborará teniendo presente los siguientes principios inspiradores:
+
+1. El desarrollo socioeconómico debe promoverse de forma que queden garantizadas las necesidades socioeconómicas y ambientales de las generaciones presentes y futuras.
+
+2. La protección del medio ambiente debe presidir todo el proceso de desarrollo socioeconómico.
 
 #### Artículo 34. Competencia.
 
-La formulación inicial y aprobación definitiva del Plan
-de Desarrollo Sostenible, así como sus revisiones y modificaciones, es competencia del Consejo de Gobierno de la Junta
-de Andalucía, a propuesta de la Consejería de Medio Ambiente.
+La formulación inicial y aprobación definitiva del Plan de Desarrollo Sostenible, así como sus revisiones y modificaciones, es competencia del Consejo de Gobierno de la Junta de Andalucía, a propuesta de la Consejería de Medio Ambiente.
 
 #### Artículo 35. Contenido.
 
-El Plan de Desarrollo Sostenible, con el fin de favorecer
-la articulación de los objetivos de desarrollo socioeconómico
-con los objetivos que establezca el Plan de Ordenación de
-los Recursos Naturales y Plan Rector de Uso y Gestión del
-Espacio Natural Doñana, deberá especificar como mínimo lo
-siguiente:
-1. Las propuestas de actuaciones que deben desarrollar
-las distintas Administraciones Públicas implicadas.
-2. El establecimiento de las líneas de fomento necesarias
-para promover y canalizar las actuaciones privadas y públicas
-hacia los objetivos establecidos.
+El Plan de Desarrollo Sostenible, con el fin de favorecer la articulación de los objetivos de desarrollo socioeconómico con los objetivos que establezca el Plan de Ordenación de los Recursos Naturales y Plan Rector de Uso y Gestión del Espacio Natural Doñana, deberá especificar como mínimo lo siguiente:
 
-### CAPITULO V
+1. Las propuestas de actuaciones que deben desarrollar las distintas Administraciones Públicas implicadas.
 
-Programas educativos y científicos
+2. El establecimiento de las líneas de fomento necesarias para promover y canalizar las actuaciones privadas y públicas hacia los objetivos establecidos.
+
+## Capítulo V. Programas educativos y científicos.
 
 #### Artículo 36. Educación e investigación ambiental.
 
-El Consejo de Participación solicitará de las distintas Administraciones con competencias en educación y ciencia, trabajo,
-cultura y medio ambiente el desarrollo de programas de educación e investigación ambiental en los que se incluyan temas
-específicos para la sensibilización, divulgación y formación
-e investigación científica aplicada al Espacio Natural Doñana.
+El Consejo de Participación solicitará de las distintas Administraciones con competencias en educación y ciencia, trabajo, cultura y medio ambiente el desarrollo de programas de educación e investigación ambiental en los que se incluyan temas específicos para la sensibilización, divulgación y formación e investigación científica aplicada al Espacio Natural Doñana.
 
-### CAPITULO VI
-
-Coordinación de la planificación ambiental, territorial y sectorial
+## Capítulo VI. Coordinación de la planificación ambiental, territorial y sectorial.
 
 #### Artículo 37. Relaciones entre planes.
 
-Los objetivos de los planes recogidos en los Capítulos II y III de este Título constituirán una limitación, en las
-materias que les son propias, para las planificaciones territoriales y físicas y tendrán carácter indicativo respecto de otras
-actuaciones, planes o programas de carácter sectorial.
-TITULO IV
+Los objetivos de los planes recogidos en los Capítulos II y III de este Título constituirán una limitación, en las materias que les son propias, para las planificaciones territoriales y físicas y tendrán carácter indicativo respecto de otras actuaciones, planes o programas de carácter sectorial.
+
+## Título IV
+
 REGIMEN ECONOMICO
 
 #### Artículo 38. Régimen de autonomía económica del Espacio Natural Doñana.
 
-1. Con objeto de facilitar la gestión y administración del
-Espacio Natural Doñana, se establece el régimen de autonomía
-económica de dicho Espacio Natural.
-2. Las Leyes de Presupuesto de la Comunidad Autónoma
-establecerán créditos en partidas específicas destinados a los
-gastos de funcionamiento necesarios para la gestión del Espacio Natural Doñana, correspondiendo al Equipo de Gestión,
-como órgano responsable del régimen de autonomía económica, su administración.
+1. Con objeto de facilitar la gestión y administración del Espacio Natural Doñana, se establece el régimen de autonomía económica de dicho Espacio Natural.
+
+2. Las Leyes de Presupuesto de la Comunidad Autónoma establecerán créditos en partidas específicas destinados a los gastos de funcionamiento necesarios para la gestión del Espacio Natural Doñana, correspondiendo al Equipo de Gestión, como órgano responsable del régimen de autonomía económica, su administración.
 
 #### Artículo 39. Afectación de ingresos.
 
-Los ingresos derivados del servicio o actividad que preste
-el Espacio Natural, aprovechamientos o cualesquier otros derivados de la gestión de dicho Espacio, así como las subvenciones o aportaciones de carácter público o privado, se afectarán íntegramente a la cobertura de sus propios gastos.
-TITULO V
+Los ingresos derivados del servicio o actividad que preste el Espacio Natural, aprovechamientos o cualesquier otros derivados de la gestión de dicho Espacio, así como las subvenciones o aportaciones de carácter público o privado, se afectarán íntegramente a la cobertura de sus propios gastos.
+
+## Título V
+
 REGIMEN SANCIONADOR
 
-### CAPITULO I
+## Capítulo I. De las medidas precautorias e infracciones ambientales en el Espacio Natural Doñana.
 
-De las medidas precautorias e infracciones ambientales en
-el Espacio Natural Doñana
-
-#### Sección 1.ª Medidas provisionales y cautelares
+#### Sección 1. ª Medidas provisionales y cautelares
 
 #### Artículo 40. Medidas provisionales y cautelares.
 
-1. Tanto en el acuerdo de iniciación del procedimiento,
-como en cualquier momento del mismo, el órgano competente
-para la incoación o el instructor, respectivamente, podrán establecer, mediante acuerdo motivado, las medidas provisionales
-que deban adoptarse por razones de urgencia inaplazable para
-asegurar la eficacia de la resolución final que pudiera recaer
-en el procedimiento sancionador. Dichas medidas, entre otras
-análogas, pueden ser la suspensión de actividades o servicios,
-retirada de productos, materiales, armas o herramientas, precintado de máquinas y prestación de fianza.
-2. Se entenderá, además, que existen circunstancias de
-urgencia inaplazable siempre que puedan producirse daños
-de carácter irreparable en especies o ecosistemas del Espacio
-Natural Doñana.
+1. Tanto en el acuerdo de iniciación del procedimiento, como en cualquier momento del mismo, el órgano competente para la incoación o el instructor, respectivamente, podrán establecer, mediante acuerdo motivado, las medidas provisionales que deban adoptarse por razones de urgencia inaplazable para asegurar la eficacia de la resolución final que pudiera recaer en el procedimiento sancionador. Dichas medidas, entre otras análogas, pueden ser la suspensión de actividades o servicios, retirada de productos, materiales, armas o herramientas, precintado de máquinas y prestación de fianza.
 
-Página núm. 15.116
-Sevilla, 25 de noviembre 1999
-3. También se adoptarán, de forma motivada, las medidas
-cautelares que resulten precisas para garantizar la eficacia
-de la resolución que ponga fin al procedimiento sancionador.
+2. Se entenderá, además, que existen circunstancias de urgencia inaplazable siempre que puedan producirse daños de carácter irreparable en especies o ecosistemas del Espacio Natural Doñana.
 
-#### Sección 2.ª Tipificación de las infracciones ambientales
+Página núm. 15.116 Sevilla, 25 de noviembre 1999
 
-#### Artículo 41. Infracciones administrativas respecto de la
+3. También se adoptarán, de forma motivada, las medidas cautelares que resulten precisas para garantizar la eficacia de la resolución que ponga fin al procedimiento sancionador.
 
-flora y fauna del Espacio Natural Doñana.
-Son infracciones administrativas respecto de la flora y
-fauna del Espacio Natural Doñana las siguientes acciones u
-omisiones:
-a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro
-de extinción, sensibles, vulnerables o de interés especial, así
-como la de sus propágulos, fragmentos o restos.
-b) El uso de medios no selectivos o de sustancias tóxicas
-que tengan como objeto el ocasionar la muerte o la captura
-de animales independientemente de su grado de protección.
-c) La destrucción del hábitat de especies en peligro de
-extinción o vulnerables a la alteración de su hábitat, especialmente del lugar de reproducción, invernada, reposo, campo
-o alimentación.
-d) El arranque, extracción, recolección o destrucción no
-autorizada de plantas y animales muertos, huevos y cualquier
-fragmento y resto propios de la actividad de la flora y fauna
-del Espacio Natural Doñana, no incluida en la letra a) de
-este artículo.
+#### Sección 2. ª Tipificación de las infracciones ambientales artículo 41 Infracciones administrativas respecto de la. flora y fauna del Espacio Natural Doñana.
+
+Son infracciones administrativas respecto de la flora y fauna del Espacio Natural Doñana las siguientes acciones u omisiones:
+a) El maltrato, muerte, destrucción, extracción, recolección, comercio, captura y exposición para comercio o naturalización no autorizadas de especies de flora y fauna en peligro de extinción, sensibles, vulnerables o de interés especial, así como la de sus propágulos, fragmentos o restos.
+b) El uso de medios no selectivos o de sustancias tóxicas que tengan como objeto el ocasionar la muerte o la captura de animales independientemente de su grado de protección.
+c) La destrucción del hábitat de especies en peligro de extinción o vulnerables a la alteración de su hábitat, especialmente del lugar de reproducción, invernada, reposo, campo o alimentación.
+d) El arranque, extracción, recolección o destrucción no autorizada de plantas y animales muertos, huevos y cualquier fragmento y resto propios de la actividad de la flora y fauna del Espacio Natural Doñana, no incluida en la letra a) de este artículo.
 e) La introducción en el medio natural de cualquier especie no autóctona de fauna y flora.
 f) La alimentación no autorizada de la fauna.
 
-#### Artículo 42. Infracciones administrativas respecto de los
+#### Artículo 42. Infracciones administrativas respecto de los recursos naturales abióticos en el Espacio Natural Doñana.
 
-recursos naturales abióticos en el Espacio Natural Doñana.
-Son infracciones administrativas respecto de los recursos
-naturales abióticos del Espacio Natural Doñana las siguientes
-acciones u omisiones:
+Son infracciones administrativas respecto de los recursos naturales abióticos del Espacio Natural Doñana las siguientes acciones u omisiones:
 a) Obras, construcciones o actuaciones que puedan dificultar o alterar la dinámica natural o tradicional de las aguas.
-b) La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva
-autorización de la Administración ambiental.
-c) Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos, especialmente, los vertidos de
-aguas y productos residuales y cualquier tipo de sustancia
-susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros
-o sustancias de cualquier clase que constituyan un peligro
-por contaminación y/o degradación de las aguas o de su
-entorno.
-d) Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda
-ocasionar, por efecto del arrastre de materiales, la colmatación
-de las zonas húmedas del Espacio Natural.
+b) La utilización o aprovechamiento de los recursos hídricos por particulares o por entidades públicas sin la preceptiva autorización de la Administración ambiental.
+c) Cualquier actividad susceptible de provocar contaminación, eutrofización o degradación de las propiedades naturales de los recursos hídricos, especialmente, los vertidos de aguas y productos residuales y cualquier tipo de sustancia susceptibles de contaminar el agua del Espacio Natural Doñana, así como la acumulación de residuos sólidos, escombros o sustancias de cualquier clase que constituyan un peligro por contaminación y/o degradación de las aguas o de su entorno.
+d) Cualquier actividad o uso del suelo que, por no establecer las medidas preventivas o correctoras necesarias, pueda ocasionar, por efecto del arrastre de materiales, la colmatación de las zonas húmedas del Espacio Natural.
 e) Cualquier actividad susceptible de alterar la geomorfología del Espacio Natural Doñana y, especialmente, movimientos de tierra, extracción y transporte de áridos o lodos.
-f) La acumulación y el enterramiento de residuos sólidos,
-líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
-g) Cualquier actividad que por intrusión o emisión suponga una degradación ambiental de las condiciones atmosféricas
-de la zona y que afecte negativamente al medio físico del
-Espacio Natural Doñana.
-h) La construcción, edificación o colocación de cualquier
-elemento artificial, temporal o permanente no autorizado, que
-no respondan a las necesidades propias de la gestión del Espacio Natural Doñana ni a criterios de integración paisajística
-con el medio natural.
-i) La instalación de carteles, inscripciones o artefactos
-de cualquier naturaleza con fines publicitarios, informativos
-o conmemorativos que pudieran menoscabar los objetivos de
-la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión
-del Espacio Natural Doñana y la seguridad vial.
-j) Todos los usos, actividades o elementos instalados en
-áreas de singular valor paisajístico que sean incompatibles
-o alteren los objetivos respecto a la ordenación de los recursos
-paisajísticos del Espacio Natural Doñana.
-k) Cualquier actividad de las descritas en las letras a),
-b), c), d), e) y f) de este artículo que alteren las condiciones
-de habitabilidad de los espacios naturales con daño para los
-ecosistemas.
+f) La acumulación y el enterramiento de residuos sólidos, líquidos, gaseosos, escombros o cualquier sustancia susceptible de contaminar los suelos.
+g) Cualquier actividad que por intrusión o emisión suponga una degradación ambiental de las condiciones atmosféricas de la zona y que afecte negativamente al medio físico del Espacio Natural Doñana.
+h) La construcción, edificación o colocación de cualquier elemento artificial, temporal o permanente no autorizado, que no respondan a las necesidades propias de la gestión del Espacio Natural Doñana ni a criterios de integración paisajística con el medio natural.
+i) La instalación de carteles, inscripciones o artefactos de cualquier naturaleza con fines publicitarios, informativos o conmemorativos que pudieran menoscabar los objetivos de la ordenación de los recursos paisajísticos, excepto los necesarios para el buen funcionamiento del uso público, la gestión del Espacio Natural Doñana y la seguridad vial.
+j) Todos los usos, actividades o elementos instalados en áreas de singular valor paisajístico que sean incompatibles o alteren los objetivos respecto a la ordenación de los recursos paisajísticos del Espacio Natural Doñana.
+k) Cualquier actividad de las descritas en las letras a), b), c), d), e) y f) de este artículo que alteren las condiciones de habitabilidad de los espacios naturales con daño para los ecosistemas.
 
-#### Artículo 43. Infracciones administrativas respecto de los
+#### Artículo 43. Infracciones administrativas respecto de los elementos culturales del Espacio Natural Doñana.
 
-elementos culturales del Espacio Natural Doñana.
-Las infracciones que se puedan producir respecto de los
-elementos culturales del Espacio Natural Doñana se sancionarán de acuerdo con la normativa específica que sea de
-aplicación.
+Las infracciones que se puedan producir respecto de los elementos culturales del Espacio Natural Doñana se sancionarán de acuerdo con la normativa específica que sea de aplicación.
 
-#### Artículo 44. Infracciones administrativas respecto de otras
+#### Artículo 44. Infracciones administrativas respecto de otras actividades humanas en el Espacio Natural Doñana.
 
-actividades humanas en el Espacio Natural Doñana.
-Son infracciones administrativas respecto a otras actividades humanas no enunciadas en los artículos precedentes
-y que se lleven a efecto en el territorio del Espacio Natural
-Doñana las siguientes acciones u omisiones:
-a) El portar o usar en el Espacio Natural Doñana armas
-de fuego o cualquier otro tipo de arma o utensilio susceptible
-de causar daño a los recursos naturales vivos, a excepción
-del personal que deba portar o usar las armas o utensilios
-por razón de las funciones que desempeñe, o se encuentre
-expresamente autorizado para ello.
-b) La circulación a pie, con tracción animal o con medios
-motorizados fuera de los lugares habilitados para ello en el
-PRUG, y que se realice sin la autorización expedida por el
-órgano administrativo competente del Espacio Natural Doñana.
+Son infracciones administrativas respecto a otras actividades humanas no enunciadas en los artículos precedentes y que se lleven a efecto en el territorio del Espacio Natural Doñana las siguientes acciones u omisiones:
+a) El portar o usar en el Espacio Natural Doñana armas de fuego o cualquier otro tipo de arma o utensilio susceptible de causar daño a los recursos naturales vivos, a excepción del personal que deba portar o usar las armas o utensilios por razón de las funciones que desempeñe, o se encuentre expresamente autorizado para ello.
+b) La circulación a pie, con tracción animal o con medios motorizados fuera de los lugares habilitados para ello en el PRUG, y que se realice sin la autorización expedida por el órgano administrativo competente del Espacio Natural Doñana.
 c) La acampada y pernocta al aire libre, excepto las autorizadas para eventos científicos, divulgativos o culturales.
-d) Hacer fuego al aire libre, sin la previa autorización
-administrativa.
-e) La producción de cualquier ruido o reclamo de atracción para fauna no autorizado y que altere el normal desenvolvimiento de las especies que habitan en el Espacio Natural
-Doñana.
-f) La utilización de medios de reproducción fotográfica,
-vídeo u otros para la filmación de imágenes en las zonas de
-protección especial indicadas en el PORN del Espacio Natural
-Doñana siempre que se realicen sin autorización administrativa
-y estando señalizada la correspondiente prohibición.
-g) El incumplimiento de las condiciones de las autorizaciones para aprovechamientos tradicionales de los recursos
-naturales.
-h) La edificación, instalación o colocación no autorizada
-de elementos artificiales de carácter temporal.
-i) La ejecución de obras sin la debida autorización
-administrativa.
-j) El incumplimiento de las condiciones impuestas en
-las autorizaciones administrativas a que se refiere esta Ley.
+d) Hacer fuego al aire libre, sin la previa autorización administrativa.
+e) La producción de cualquier ruido o reclamo de atracción para fauna no autorizado y que altere el normal desenvolvimiento de las especies que habitan en el Espacio Natural Doñana.
+f) La utilización de medios de reproducción fotográfica, vídeo u otros para la filmación de imágenes en las zonas de protección especial indicadas en el PORN del Espacio Natural Doñana siempre que se realicen sin autorización administrativa y estando señalizada la correspondiente prohibición.
+g) El incumplimiento de las condiciones de las autorizaciones para aprovechamientos tradicionales de los recursos naturales.
+h) La edificación, instalación o colocación no autorizada de elementos artificiales de carácter temporal.
+i) La ejecución de obras sin la debida autorización administrativa.
+j) El incumplimiento de las condiciones impuestas en las autorizaciones administrativas a que se refiere esta Ley.
 
-#### Sección 3.ª Calificación de las infracciones
+#### Sección 3. ª Calificación de las infracciones artículo 45 Calificación de las infracciones. Sin perjuicio de la calificación establecida con carácter
 
-#### Artículo 45. Calificación de las infracciones.
+general en el artículo 39.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
 
-Sin perjuicio de la calificación establecida con carácter
-general en el artículo 39.2 de la Ley 4/1989, de 27 de marzo,
-de Conservación de los Espacios Naturales y de la Flora y
-Fauna Silvestres:
-1. Son infracciones muy graves las descritas en los
-artículos siguientes: Artículo 41, letras a), b) y c); artículo 42, letras d) y k).
+1. Son infracciones muy graves las descritas en los artículos siguientes: Artículo 41, letras a), b) y c); artículo 42, letras d) y k).
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.117
-2. Son infracciones graves las descritas en los artículos
-siguientes: Artículo 41, letras d), e) y f); artículo 42, letras
-a), b), c), e), f), h) y j); artículo 44, letras a), b), d), g),
-i) y j).
-3. Son infracciones leves las descritas en los artículos
-siguientes: Artículo 42, letras g) e i); artículo 44, letras c),
-e), f) y h).
+Sevilla, 25 de noviembre 1999 Página núm. 15.117
 
-### CAPITULO II
+2. Son infracciones graves las descritas en los artículos siguientes: Artículo 41, letras d), e) y f); artículo 42, letras a), b), c), e), f), h) y j); artículo 44, letras a), b), d), g),
+i) Y j).
 
-Circunstancias modificativas de la responsabilidad
+3. Son infracciones leves las descritas en los artículos siguientes: Artículo 42, letras g) e i); artículo 44, letras c), e), f) y h).
+
+## Capítulo II. Circunstancias modificativas de la responsabilidad.
 
 #### Artículo 46. Circunstancias agravantes.
 
 Se consideran circunstancias agravantes de la responsabilidad administrativa las siguientes:
-1. La generación de riesgo o daño para la seguridad o
-salud de las personas.
+
+1. La generación de riesgo o daño para la seguridad o salud de las personas.
+
 2. La existencia de intencionalidad o reiteración.
-3. La reincidencia, por comisión en el término de un
-año de más de una infracción de la misma naturaleza cuando
-así haya sido declarado por resolución firme.
-4. La irreversibilidad del deterioro producido en el bien
-protegido.
-5. La grave repercusión del daño en el mantenimiento
-de los equilibrios ecológicos del sistema natural agredido.
+
+3. La reincidencia, por comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.
+
+4. La irreversibilidad del deterioro producido en el bien protegido.
+
+5. La grave repercusión del daño en el mantenimiento de los equilibrios ecológicos del sistema natural agredido.
+
 6. La necesidad de realizar especiales actuaciones ulteriores para la reparación del daño producido.
+
 7. La alteración o destrucción del hábitat.
-8. La obtención de beneficio mediante la comisión de
-la infracción.
-9. Que unas infracciones hayan servido para ocultar otras
-posibles.
-10. El incumplimiento de los controles exigibles en la
-actuación que genera la infracción.
-11. La obstrucción a las actuaciones de la Administración
-ambiental para el conocimiento de la realización de la infracción o la instrucción del procedimiento sancionador.
-12. Ejecutar el hecho constitutivo de infracción aprovechando las circunstancias de lugar, tiempo o auxilio de otra
-persona que faciliten la impunidad.
-13. Aumentar deliberadamente el daño originado por la
-conducta infractora, causando otros innecesarios para la
-ejecución.
-14. Cometer la infracción mediante precio, recompensa
-o promesa.
+
+8. La obtención de beneficio mediante la comisión de la infracción.
+
+9. Que unas infracciones hayan servido para ocultar otras posibles.
+
+10. El incumplimiento de los controles exigibles en la actuación que genera la infracción.
+
+11. La obstrucción a las actuaciones de la Administración ambiental para el conocimiento de la realización de la infracción o la instrucción del procedimiento sancionador.
+
+12. Ejecutar el hecho constitutivo de infracción aprovechando las circunstancias de lugar, tiempo o auxilio de otra persona que faciliten la impunidad.
+
+13. Aumentar deliberadamente el daño originado por la conducta infractora, causando otros innecesarios para la ejecución.
+
+14. Cometer la infracción mediante precio, recompensa o promesa.
 
 #### Artículo 47. Circunstancias atenuantes.
 
 Se consideran circunstancias atenuantes de la responsabilidad administrativa:
-1. La adopción espontánea por parte del infractor de medidas que corrijan, atenúen o minimicen el daño o riesgo
-provocado.
+
+1. La adopción espontánea por parte del infractor de medidas que corrijan, atenúen o minimicen el daño o riesgo provocado.
+
 2. Un grado de participación distinto a la autoría material.
-3. La colaboración eficaz con la Administración ambiental
-en las actuaciones que se deriven del procedimiento sancionador.
+
+3. La colaboración eficaz con la Administración ambiental en las actuaciones que se deriven del procedimiento sancionador.
+
 4. La reversibilidad del daño o deterioro producido.
-5. La no alteración significativa con el daño infligido de
-los sistemas naturales agredidos.
+
+5. La no alteración significativa con el daño infligido de los sistemas naturales agredidos.
+
 6. El no haber sido sancionado previamente por la comisión de infracción tipificada en la presente Ley.
-7. La inexistencia o escasa importancia de las actuaciones
-reparadoras del daño ambiental debido a la capacidad autorregenerativa del medio agredido.
 
-### CAPITULO III
+7. La inexistencia o escasa importancia de las actuaciones reparadoras del daño ambiental debido a la capacidad autorregenerativa del medio agredido.
 
-De las sanciones administrativas
+## Capítulo III. De las sanciones administrativas.
 
-#### Sección 1.ª Cuantificación de las sanciones
+#### Sección 1. ª Cuantificación de las sanciones
 
 #### Artículo 48. Sanciones.
 
 1. Las infracciones tipificadas en la presente Ley se sancionarán con las siguientes multas:
-a) Infracciones leves, multa desde la quinta parte hasta
-10 veces el salario mínimo interprofesional mensual.
-b) Infracciones graves, multas desde 10 veces más una
-peseta hasta 150 veces el salario mínimo interprofesional
-mensual.
-c) Infracciones muy graves, multas desde 150 veces más
-una peseta hasta 1.000 veces el salario mínimo interprofesional mensual.
-d) El salario mínimo interprofesional de referencia será
-el vigente en el momento de la incoación del procedimiento
-sancionador.
-2. A los efectos de la presente Ley se considerará salario
-mínimo interprofesional el que se establezca en cada momento
-por la normativa vigente.
+a) Infracciones leves, multa desde la quinta parte hasta 10 veces el salario mínimo interprofesional mensual.
+b) Infracciones graves, multas desde 10 veces más una peseta hasta 150 veces el salario mínimo interprofesional mensual.
+c) Infracciones muy graves, multas desde 150 veces más una peseta hasta 1.000 veces el salario mínimo interprofesional mensual.
+d) El salario mínimo interprofesional de referencia será el vigente en el momento de la incoación del procedimiento sancionador.
+
+2. A los efectos de la presente Ley se considerará salario mínimo interprofesional el que se establezca en cada momento por la normativa vigente.
 
 #### Artículo 49. Sanciones accesorias.
 
-1. La Administración ambiental acordará, como sanciones
-accesorias, el decomiso de los productos o elementos naturales
-ilegalmente obtenidos y los medios utilizados para su obtención
-en los supuestos de faltas graves y muy graves que, asimismo,
-conllevarán la prohibición de cazar o pescar durante un plazo
-máximo de diez años.
-2. Los productos, elementos, medios y ganancias serán
-decomisados a no ser que pertenezcan a un tercero de buena
-fe no responsable de la infracción que los haya adquirido
-legalmente.
+1. La Administración ambiental acordará, como sanciones accesorias, el decomiso de los productos o elementos naturales ilegalmente obtenidos y los medios utilizados para su obtención en los supuestos de faltas graves y muy graves que, asimismo, conllevarán la prohibición de cazar o pescar durante un plazo máximo de diez años.
 
-#### Sección 2.ª Graduación de las sanciones
+2. Los productos, elementos, medios y ganancias serán decomisados a no ser que pertenezcan a un tercero de buena fe no responsable de la infracción que los haya adquirido legalmente.
 
-#### Artículo 50. Graduación.
+#### Sección 2. ª Graduación de las sanciones artículo 50 Graduación. La graduación de las sanciones se determinará en función
 
-La graduación de las sanciones se determinará en función
 de la concurrencia de las circunstancias agravantes y atenuantes previstas en los artículos precedentes.
 
 #### Artículo 51. Incremento de la sanción por beneficio ilícito.
 
-La sanción establecida se incrementará con la adición
-del importe total del beneficio reportado por la actuación ilícita.
+La sanción establecida se incrementará con la adición del importe total del beneficio reportado por la actuación ilícita.
 
-### CAPITULO IV
+## Capítulo IV. Competencias.
 
-Competencias
+#### Artículo 52. Organos.
 
-#### Artículo 52. Organos competentes para la imposición de
+competentes para la imposición de. las sanciones. La resolución de los expedientes sancionadores corresponderá a los siguientes órganos:
+a) El Director del Equipo de Gestión del Espacio Natural Doñana, los correspondientes a infracciones leves.
+b) El Director General de Participación y Servicios Ambientales de la Consejería de Medio Ambiente, o, en su defecto, el centro directivo competente en materia de gestión de espacios naturales protegidos, los correspondientes a infracciones graves.
+c) El Consejero de Medio Ambiente, los correspondientes a infracciones muy graves.
 
-las sanciones.
-La resolución de los expedientes sancionadores corresponderá a los siguientes órganos:
-a) El Director del Equipo de Gestión del Espacio Natural
-Doñana, los correspondientes a infracciones leves.
-b) El Director General de Participación y Servicios
-Ambientales de la Consejería de Medio Ambiente, o, en su
-defecto, el centro directivo competente en materia de gestión
-de espacios naturales protegidos, los correspondientes a infracciones graves.
-c) El Consejero de Medio Ambiente, los correspondientes
-a infracciones muy graves.
-
-### CAPITULO V
-
-De la restauración del daño ambiental
+## Capítulo V. De la restauración del daño ambiental.
 
 #### Artículo 53. Restauración del daño causado.
 
-El deber de reparar el daño causado se llevará a cabo
-en los términos que se establecen en el artículo 37.2 de la
-Ley 4/1989, de 27 de marzo, de Conservación de los Espacios
-Naturales y de la Flora y Fauna Silvestres.
+El deber de reparar el daño causado se llevará a cabo en los términos que se establecen en el artículo 37.2 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres.
 
-Página núm. 15.118
-Sevilla, 25 de noviembre 1999
+Página núm. 15.118 Sevilla, 25 de noviembre 1999
 
-#### Artículo 54. Multas coercitivas y ejecución subsidiaria.
+#### Artículo 54. Multas coercitivas y ejecución subsidiaria De conformidad con lo establecido en el Capítulo V del.
 
-De conformidad con lo establecido en el Capítulo V del
-Título VI de la Ley 30/1992, de 26 de noviembre, de Régimen
-Jurídico de las Administraciones Públicas y del Procedimiento
-Administrativo Común, la Administración ambiental podrá
-imponer, sin perjuicio de las facultades de ejecución subsidiaria, multas coercitivas al responsable con la finalidad de
-que éste proceda a la reparación del daño.
-A tal efecto, se establecen las siguientes multas coercitivas, todas ellas con la limitación establecida respecto a
-la cuantía máxima de 500.000 pesetas, según lo dispuesto
-en el artículo 39.4 de la Ley 4/1989, de 27 de marzo, de
-Conservación de los Espacios Naturales y de la Flora y Fauna
-Silvestres:
-1. Para el incumplimiento durante tres meses del inicio
-de las actuaciones ordenadas, la cuantía será una vez el salario
-mínimo interprofesional.
-2. Para el incumplimiento durante seis meses del inicio
-de las actuaciones ordenadas, o por transcurso del plazo concedido en el primer requerimiento, la cuantía será tres veces
-el salario mínimo interprofesional.
-3. Para el incumplimiento de los sucesivos plazos a los
-anteriores para el inicio de las actuaciones ordenadas, la cuantía será un múltiplo de dos veces el salario mínimo interprofesional por cada mes transcurrido.
-4. Por incumplimiento del plazo de finalización de las
-actuaciones ordenadas, la cuantía será un múltiplo de dos
-veces el salario mínimo interprofesional por cada mes transcurrido.
-5. Por no atender los requerimientos posteriores que se
-realicen por incumplimiento de plazos concedidos para finalizar
-las actuaciones ordenadas, la cuantía será un múltiplo de tres
-veces el salario mínimo interprofesional por cada mes transcurrido.
+Título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración ambiental podrá imponer, sin perjuicio de las facultades de ejecución subsidiaria, multas coercitivas al responsable con la finalidad de que éste proceda a la reparación del daño. A tal efecto, se establecen las siguientes multas coercitivas, todas ellas con la limitación establecida respecto a la cuantía máxima de 500.000 pesetas, según lo dispuesto en el artículo 39.4 de la Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestres:
 
-### CAPITULO VI
+1. Para el incumplimiento durante tres meses del inicio de las actuaciones ordenadas, la cuantía será una vez el salario mínimo interprofesional.
 
-Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental
+2. Para el incumplimiento durante seis meses del inicio de las actuaciones ordenadas, o por transcurso del plazo concedido en el primer requerimiento, la cuantía será tres veces el salario mínimo interprofesional.
+
+3. Para el incumplimiento de los sucesivos plazos a los anteriores para el inicio de las actuaciones ordenadas, la cuantía será un múltiplo de dos veces el salario mínimo interprofesional por cada mes transcurrido.
+
+4. Por incumplimiento del plazo de finalización de las actuaciones ordenadas, la cuantía será un múltiplo de dos veces el salario mínimo interprofesional por cada mes transcurrido.
+
+5. Por no atender los requerimientos posteriores que se realicen por incumplimiento de plazos concedidos para finalizar las actuaciones ordenadas, la cuantía será un múltiplo de tres veces el salario mínimo interprofesional por cada mes transcurrido.
+
+## Capítulo VI. Influencia del tiempo en las infracciones, sanciones y obligaciones de restauración del daño ambiental.
 
 #### Artículo 55. Plazo de resolución.
 
-El plazo máximo para resolver los expedientes sancionadores iniciados al amparo de lo prevenido en esta Ley será
-de un año computado desde la fecha del acuerdo de iniciación
-del correspondiente procedimiento, sin perjuicio de lo establecido en el artículo 43.4 de la Ley 30/1992, de 26 de
-noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común.
+El plazo máximo para resolver los expedientes sancionadores iniciados al amparo de lo prevenido en esta Ley será de un año computado desde la fecha del acuerdo de iniciación del correspondiente procedimiento, sin perjuicio de lo establecido en el artículo 43.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y de Procedimiento Administrativo Común.
 
 #### Artículo 56. Prescripción de las infracciones y sanciones.
 
-1. Las infracciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de cuatro años, las graves
-en el de dos años y las leves en el de dos meses.
-2. Las sanciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de tres años, las graves
-en el de dos años y las leves en el de un año.
-3. El plazo para la prescripción de las infracciones se
-computará desde el día en que se haya cometido; cuando
-se trate de infracción continuada, desde el día en que se realizó
-la última infracción; en caso de tratarse de infracción permanente, desde que se eliminó la situación ilícita.
-Interrumpirá la prescripción de la infracción, la iniciación,
-con conocimiento del interesado, del procedimiento sancionador. Si el expediente sancionador estuviese paralizado
-durante un tiempo superior a un mes por causa no imputable
-al inculpado, comenzará a correr de nuevo el cómputo de
-la totalidad del plazo prescriptivo de la correspondiente
-infracción.
-4. El plazo de prescripción de las sanciones comenzará
-a contarse desde el día siguiente a aquél en que adquiera
-firmeza la resolución por la que se impone la sanción.
-Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo
-a transcurrir el plazo si aquél está paralizado durante más
-de un mes por causa no imputable al infractor.
-5. Las obligaciones de restauración que hayan sido declaradas mediante resolución firme prescribirán, conforme a los
-plazos siguientes:
-a) A los diez años las derivadas de infracciones muy
-graves.
-b) A los cinco años las correspondientes a daños por
-la comisión de infracciones graves.
+1. Las infracciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de cuatro años, las graves en el de dos años y las leves en el de dos meses.
+
+2. Las sanciones a que se refiere la presente Ley prescribirán: Las muy graves en el plazo de tres años, las graves en el de dos años y las leves en el de un año.
+
+3. El plazo para la prescripción de las infracciones se computará desde el día en que se haya cometido; cuando se trate de infracción continuada, desde el día en que se realizó la última infracción; en caso de tratarse de infracción permanente, desde que se eliminó la situación ilícita. Interrumpirá la prescripción de la infracción, la iniciación, con conocimiento del interesado, del procedimiento sancionador. Si el expediente sancionador estuviese paralizado durante un tiempo superior a un mes por causa no imputable al inculpado, comenzará a correr de nuevo el cómputo de la totalidad del plazo prescriptivo de la correspondiente infracción.
+
+4. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción. Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
+
+5. Las obligaciones de restauración que hayan sido declaradas mediante resolución firme prescribirán, conforme a los plazos siguientes:
+a) A los diez años las derivadas de infracciones muy graves.
+b) A los cinco años las correspondientes a daños por la comisión de infracciones graves.
 c) A los dos años las relativas a infracciones leves.
-DISPOSICIONES TRANSITORIAS
-Primera. Organos de gestión y de participación.
-Hasta el momento de la constitución y efectivo funcionamiento del Equipo de Gestión del Espacio Natural Doñana
-y del Consejo de Participación, las funciones de gestión y
-de participación del Parque Nacional y del Parque Natural
-continuarán siendo desempeñadas por los órganos que las
-tuvieran a su cargo.
-Segunda. Plan de Desarrollo Sostenible del Entorno de
-Doñana y Planes de Ordenación y de Uso.
-1. La coordinación, el seguimiento y la evaluación del
-conjunto de acciones incluidas en el Plan de Desarrollo Sostenible del Entorno de Doñana continuarán siendo desempeñadas, conforme a lo establecido en el Decreto 478/1996,
-de 22 de octubre, hasta el desarrollo reglamentario de lo dispuesto en el Capítulo IV del Título III de la presente Ley.
-2. En tanto no sean aprobados por el Consejo de Gobierno
-de la Junta de Andalucía los Planes de Ordenación de los
-Recursos Naturales y de Uso y Gestión del Espacio Natural
-Doñana, serán de aplicación en sus ámbitos territoriales respectivos el Plan de Ordenación de los Recursos Naturales y
-el Plan Rector de Uso y Gestión del Parque Natural Doñana,
-aprobados por Decreto 2/1997, de 7 de enero, y el Plan Rector
-de Uso y Gestión del Parque Nacional aprobado por Real Decreto 1772/1991, de 16 de diciembre de 1991, y prorrogado
-por Orden de 29 de febrero de 1996 del Ministerio de Agricultura, Pesca y Alimentación.
 
-#### DISPOSICION DEROGATORIA
-Quedan derogados: El Anexo 10 del Decreto 239/1997,
+### Disposiciones transitorias
 
-de 15 de octubre, por el que se regula la constitución, composición y funciones de las Juntas Rectoras; el Anexo II y
-el Anexo III del Decreto 2/1997, de 7 de enero, por los que
-se modifican la denominación y límites del Parque Natural
-del Entorno de Doñana, que pasa a denominarse Parque Natural de Doñana, y aprueban el Plan de Ordenación de los Recursos y el Plan Rector de Uso y Gestión, y el Decreto 478/1996,
-de 22 de octubre, de coordinación, seguimiento y evaluación
-del Plan de Desarrollo Sostenible del Entorno de Doñana, así
-como cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en la presente Ley.
-La vigencia de la presente disposición queda condicionada
-a la efectiva constitución y funcionamiento del órgano de participación y a la aprobación de los instrumentos de planificación que se establecen en la presente Ley para el Espacio
-Natural Doñana.
+#### Primera. Organos de gestión y de participación.
 
-#### DISPOSICION FINAL
+Hasta el momento de la constitución y efectivo funcionamiento del Equipo de Gestión del Espacio Natural Doñana y del Consejo de Participación, las funciones de gestión y de participación del Parque Nacional y del Parque Natural continuarán siendo desempeñadas por los órganos que las tuvieran a su cargo.
+
+#### Segunda. Plan de Desarrollo Sostenible del Entorno de Doñana y Planes de Ordenación y de Uso.
+
+1. La coordinación, el seguimiento y la evaluación del conjunto de acciones incluidas en el Plan de Desarrollo Sostenible del Entorno de Doñana continuarán siendo desempeñadas, conforme a lo establecido en el Decreto 478/1996, de 22 de octubre, hasta el desarrollo reglamentario de lo dispuesto en el Capítulo IV del Título III de la presente Ley.
+
+2. En tanto no sean aprobados por el Consejo de Gobierno de la Junta de Andalucía los Planes de Ordenación de los Recursos Naturales y de Uso y Gestión del Espacio Natural Doñana, serán de aplicación en sus ámbitos territoriales respectivos el Plan de Ordenación de los Recursos Naturales y el Plan Rector de Uso y Gestión del Parque Natural Doñana, aprobados por Decreto 2/1997, de 7 de enero, y el Plan Rector de Uso y Gestión del Parque Nacional aprobado por Real Decreto 1772/1991, de 16 de diciembre de 1991, y prorrogado por Orden de 29 de febrero de 1996 del Ministerio de Agricultura, Pesca y Alimentación.
+
+#### Disposición derogatoria . Quedan derogados: El Anexo 10 del Decreto 239/1997,.
+
+de 15 de octubre, por el que se regula la constitución, composición y funciones de las Juntas Rectoras; el Anexo II y el Anexo III del Decreto 2/1997, de 7 de enero, por los que se modifican la denominación y límites del Parque Natural del Entorno de Doñana, que pasa a denominarse Parque Natural de Doñana, y aprueban el Plan de Ordenación de los Recursos y el Plan Rector de Uso y Gestión, y el Decreto 478/1996, de 22 de octubre, de coordinación, seguimiento y evaluación del Plan de Desarrollo Sostenible del Entorno de Doñana, así como cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en la presente Ley. La vigencia de la presente disposición queda condicionada a la efectiva constitución y funcionamiento del órgano de participación y a la aprobación de los instrumentos de planificación que se establecen en la presente Ley para el Espacio Natural Doñana.
+
+#### Disposición final ....
+
 Se autoriza al Consejo de Gobierno para dictar las disposiciones que resulten necesarias para la ejecución y desarrollo de esta Ley.
 
-Sevilla, 27 de octubre de 1999
-MANUEL CHAVES GONZALEZ
-Presidente de la Junta de Andalucía
+Sevilla, 27 de octubre de 1999 MANUEL CHAVES GONZALEZ Presidente de la Junta de Andalucía
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.119
-A N E X O
-Límites del Espacio Natural Doñana
-Sector 1.º
-Tomando como punto de partida el punto kilométrico
-34,400 de la carretera Almonte-Torre de la Higuera, continúa
-en línea recta hasta la laguna del Arrecife, y desde la misma,
-en línea recta, en dirección norte, hasta su encuentro con
-el puente de la Canariega, en la margen derecha del arroyo
-de la Rocina, continúa 460 metros en dirección sur por la
-carretera Almonte-Torre de la Higuera para, a partir de aquí,
-remontar aguas arriba el arroyo de la Rocina, en paralelo a
-su cauce y a 500 metros del mismo, hasta la casa del Rincón,
-desde la que inicia el descenso del mencionado arroyo, en
-paralelo a su cauce y a 500 metros del mismo, hasta intersectar
-de nuevo con la carretera Almonte-Torre de la Higuera, para
-seguir en dirección este por la margen izquierda hasta la confluencia con el caño de los Garzos-arroyo del Partido, siguiendo
-por la margen derecha de este último, en dirección norte,
-hasta el puente del Ajonjolí.
-Continúa en dirección norte por el límite municipal entre
-Almonte e Hinojos hasta su enlace con el regajo de Vallehondo.
-Desde el punto anterior sigue en dirección este por la
-senda que conduce a las casas de la Calera y desde aquí
-con rumbo norte a la carretera de Hinojos, la cual abandona
-al enlazar con el arroyo de La Mayor. Sigue dicho arroyo aguas
-abajo hasta el pozo de Melo, para continuar posteriormente
-por la senda en dirección este hacia el límite provincial entre
-Sevilla y Huelva, por el cual avanza hasta intersectar con la
-carretera Hinojos-Villamanrique de la Condesa, por la cual
-continúa en dirección sur hasta 100 metros antes de su intersección con el arroyo de Pilas, sube aguas arriba paralelo
-al cauce de dicho arroyo hasta llegar al límite del término
-municipal de Chucena, en este punto cruza perpendicularmente el cauce del arroyo de Pilas hasta 100 metros de la
-margen derecha. Desde aquí continúa aguas abajo paralelo
-al cauce hasta intersectar de nuevo con la carretera Hinojos-Villamanrique de la Condesa.
-Continúa por dicha carretera hacia el último municipio
-mencionado, para seguir posteriormente por la misma en dirección suroeste hasta el límite provincial entre Sevilla y Huelva,
-por el que continúa en dirección sur hasta intersectar con
-el límite norte del monte público La Juncosilla. Continúa en
-dirección este bordeando dicho monte público, hasta encontrar
-de nuevo el límite provincial. Sigue en dirección sur hasta
-intersectar con el límite municipal entre Villamanrique de la
-Condesa y Aznalcázar. Desde aquí toma dirección noreste hasta intersectar con el camino del Bujeo, por el cual continúa
-en dirección sureste hasta su cruce con el camino de la Cigüeña
-y por éste, en dirección noreste, hasta enlazar con el camino
-más oriental de la finca Hato Ratón. Continúa por este camino
-en dirección sureste hasta su intersección con el encauzamiento del caño Guadiamar, siguiendo por la margen izquierda
-del mismo hasta llegar al muro de la Confederación.
-Continúa por dicho muro en dirección este hasta llegar
-al predio propiedad de ADENA, continuando por la linde del
-mismo hasta intersectar con el muro derecho de Entremuros,
-por el cual continúa en dirección norte hasta intersectar con
-el camino que conduce a la casa del Cerrado, continuando
-por la margen izquierda del caño de Juncal en dirección sureste, hasta el muro de la margen izquierda del nuevo encauzamiento del Brazo de la Torre.
-Sigue en dirección sur por el muro izquierdo hasta la
-salida del Brazo de la Torre de su encauzamiento de Entremuros. Continúa por la margen izquierda del cauce del Brazo
-de la Torre hasta encontrar el colector de la Veta de la Palma
-(Bomba del Italiano). Desde este colector, en línea recta, va
-hasta el cortijo de Veta de la Palma y desde aquí, en línea
-recta, hasta la caseta de bombeo situada en el camino sur
-de la finca Reina Victoria, a partir de la cual sigue por la
-margen derecha del río Guadalquivir hasta la Punta de Malandar, a la altura de la casa cuartel de la Guardia Civil.
-Desde la casa cuartel continúa en dirección sur hasta
-alcanzar el límite interprovincial de Cádiz y Huelva, por el
-que avanza hasta situarse a una distancia de una milla marina
-de la línea de costa, extendiéndose, a partir de aquí, en paralelo
-a la misma, hasta intersectar con la línea imaginaria que,
-perpendicular a la línea de costa, pasa por el punto situado
-a 4.100 metros de la torre vigía, en ruinas, denominada Torre
-de la Higuera.
-Continúa por la mencionada línea imaginaria hacia la costa hasta la cerca de la Estación Biológica de Doñana, por
-la que sigue en dirección noroeste hasta confluir con la carretera Almonte-Torre la Higuera, frente al punto kilométrico
-39,000.
-A partir del punto anterior continúa por la carretera Torre
-la Higuera-Mazagón hasta el punto kilométrico 45,100 de
-la misma, desde el que continúa en dirección sur por el límite
-occidental del Parque Dunar de Matalascañas hasta la línea
-de costa.
-Desde este punto en dirección oeste continúa hasta encontrar el límite municipal entre Lucena y Almonte. Desde aquí
-pasa a la margen derecha del arroyo del Loro y desde este
-punto asciende por el cauce hasta la carretera Torre la Higuera-Mazagón en el punto kilométrico 29,000, dirigiéndose por
-la margen izquierda de la misma hasta el punto kilométrico
-22,055.
-Desde el punto anterior asciende por la pista de la Linde
-hasta el caserío de Pino Galés.
-Desde el mencionado caserío continúa en dirección noreste por el camino de la Portuguesa, hasta encontrar el carril
-del Sevillano. Continúa por dicho carril en dirección sur hasta
-la casa forestal del Coto Tres Rayas, desde donde sigue en
-dirección este y línea recta hasta el poblado de La Mediana
-en su extremo sur. Desde este punto continúa en línea recta
-hasta el cortijo San Vicente y desde aquí hasta la línea del
-Alamillo.
-Por último, en paralelo a la carretera Almonte-Torre la
-Higuera, continúa hasta el punto distante 1.000 m en perpendicular del punto kilométrico 34,400 de aquélla, desde
-el que continúa en línea recta hasta alcanzar el mencionado
-punto kilométrico 34,400, punto de partida.
-Sector 2.º
-Partiendo desde la Punta de los Cepillos, en la margen
-izquierda del río Guadalquivir, continúa hasta la desembocadura del caño de Martín Ruiz.
-Desde el punto anterior sigue en dirección sureste por
-el citado caño hasta la ermita de Nuestra Señora del Carmen,
-y desde aquí en dirección sur por el camino de separación
-del Pinar de la Algaida y las marismas transformadas hasta
-el límite de la finca denominada de los Prados.
-Continúa bordeando el Pinar de la Algaida por el límite
-sur, dirección oeste, hasta llegar a la laguna del Tarelo, la
-bordea por su orilla sur, incluyéndola, y continúa hasta encontrar el borde del Pinar de la Algaida, hasta su contacto con
-el camino vecinal que transcurre al este de la Marisma de
-Henares y Salinas de Nuestra Señora del Rocío y Marismas
-de la Dehesilla, siguiendo este camino en dirección sur hasta
-su cruce por la carretera que desde el Faro va a la colonia
-de la Algaida, y desde aquí en línea recta en dirección oeste
-hasta la margen izquierda del río Guadalquivir.
-Continúa por dicha margen hasta el punto inicial».
+Sevilla, 25 de noviembre 1999 Página núm. 15.119
 
-Página núm. 15.120
-Sevilla, 25 de noviembre 1999
+## Anexo
 
-Sevilla, 25 de noviembre 1999
-Página núm. 15.121
-CONSEJERIA DE GOBERNACION Y JUSTICIA
-ORDEN de 4 de noviembre de 1999, por la que
-se adoptan medidas para reparar daños causados por
-inundaciones en los municipios de la provincia de Sevilla que se citan.
-El Real Decreto-Ley 2/1998, de 17 de abril, sobre medidas urgentes para reparar los daños causados por las inundaciones y temporales acaecidos entre noviembre de 1997
-y febrero de 1998 (BOE núm. 93, de 18 de abril de 1998),
-estableció acciones tendentes a reparar los desperfectos ocasionados en producciones, infraestructuras y servicios públicos
-y privados, viviendas, industrias y comercios durante las fechas
-indicadas, tanto en la Comunidad Autónoma de Andalucía
-como en el resto del territorio nacional. Tales medidas comprendían, básicamente, la disminución de las cargas tributarias
-y la concesión de créditos privilegiados y de ayudas a los
-Ayuntamientos y particulares.
-Asimismo, en la referida norma se establecen precisiones
-para lograr que la aplicación de las medidas adoptadas se
-lleve a cabo mediante la debida coordinación de actuaciones
-entre los órganos de la Administración General del Estado,
-de las Comunidades Autónomas y de las Administraciones
-Locales afectadas, todo ello sin perjuicio de las competencias
-que corresponden a la Comunidad Autónoma de Andalucía,
-en particular, al amparo de su Estatuto de Autonomía.
-Dando cumplimiento a dicho compromiso, y en uso de
-las atribuciones que me confiere el art. 104 de la Ley 5/1983,
-de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, así como el artículo 44.4 de
-la Ley 6/1983, de 21 de julio, del Gobierno y la Administración
-de la Comunidad Autónoma de Andalucía,
-D I S P O N G O
+Límites del Espacio Natural Doñana Sector 1.º Tomando como punto de partida el punto kilométrico 34,400 de la carretera Almonte-Torre de la Higuera, continúa en línea recta hasta la laguna del Arrecife, y desde la misma, en línea recta, en dirección norte, hasta su encuentro con el puente de la Canariega, en la margen derecha del arroyo de la Rocina, continúa 460 metros en dirección sur por la carretera Almonte-Torre de la Higuera para, a partir de aquí, remontar aguas arriba el arroyo de la Rocina, en paralelo a su cauce y a 500 metros del mismo, hasta la casa del Rincón, desde la que inicia el descenso del mencionado arroyo, en paralelo a su cauce y a 500 metros del mismo, hasta intersectar de nuevo con la carretera Almonte-Torre de la Higuera, para seguir en dirección este por la margen izquierda hasta la confluencia con el caño de los Garzos-arroyo del Partido, siguiendo por la margen derecha de este último, en dirección norte, hasta el puente del Ajonjolí. Continúa en dirección norte por el límite municipal entre Almonte e Hinojos hasta su enlace con el regajo de Vallehondo. Desde el punto anterior sigue en dirección este por la senda que conduce a las casas de la Calera y desde aquí con rumbo norte a la carretera de Hinojos, la cual abandona al enlazar con el arroyo de La Mayor. Sigue dicho arroyo aguas abajo hasta el pozo de Melo, para continuar posteriormente por la senda en dirección este hacia el límite provincial entre Sevilla y Huelva, por el cual avanza hasta intersectar con la carretera Hinojos-Villamanrique de la Condesa, por la cual continúa en dirección sur hasta 100 metros antes de su intersección con el arroyo de Pilas, sube aguas arriba paralelo al cauce de dicho arroyo hasta llegar al límite del término municipal de Chucena, en este punto cruza perpendicularmente el cauce del arroyo de Pilas hasta 100 metros de la margen derecha. Desde aquí continúa aguas abajo paralelo al cauce hasta intersectar de nuevo con la carretera Hinojos-Villamanrique de la Condesa. Continúa por dicha carretera hacia el último municipio mencionado, para seguir posteriormente por la misma en dirección suroeste hasta el límite provincial entre Sevilla y Huelva, por el que continúa en dirección sur hasta intersectar con el límite norte del monte público La Juncosilla. Continúa en dirección este bordeando dicho monte público, hasta encontrar de nuevo el límite provincial. Sigue en dirección sur hasta intersectar con el límite municipal entre Villamanrique de la Condesa y Aznalcázar. Desde aquí toma dirección noreste hasta intersectar con el camino del Bujeo, por el cual continúa en dirección sureste hasta su cruce con el camino de la Cigüeña y por éste, en dirección noreste, hasta enlazar con el camino más oriental de la finca Hato Ratón. Continúa por este camino en dirección sureste hasta su intersección con el encauzamiento del caño Guadiamar, siguiendo por la margen izquierda del mismo hasta llegar al muro de la Confederación. Continúa por dicho muro en dirección este hasta llegar al predio propiedad de ADENA, continuando por la linde del mismo hasta intersectar con el muro derecho de Entremuros, por el cual continúa en dirección norte hasta intersectar con el camino que conduce a la casa del Cerrado, continuando por la margen izquierda del caño de Juncal en dirección sureste, hasta el muro de la margen izquierda del nuevo encauzamiento del Brazo de la Torre. Sigue en dirección sur por el muro izquierdo hasta la salida del Brazo de la Torre de su encauzamiento de Entremuros. Continúa por la margen izquierda del cauce del Brazo de la Torre hasta encontrar el colector de la Veta de la Palma (Bomba del Italiano). Desde este colector, en línea recta, va hasta el cortijo de Veta de la Palma y desde aquí, en línea recta, hasta la caseta de bombeo situada en el camino sur de la finca Reina Victoria, a partir de la cual sigue por la margen derecha del río Guadalquivir hasta la Punta de Malandar, a la altura de la casa cuartel de la Guardia Civil. Desde la casa cuartel continúa en dirección sur hasta alcanzar el límite interprovincial de Cádiz y Huelva, por el que avanza hasta situarse a una distancia de una milla marina de la línea de costa, extendiéndose, a partir de aquí, en paralelo a la misma, hasta intersectar con la línea imaginaria que, perpendicular a la línea de costa, pasa por el punto situado a 4.100 metros de la torre vigía, en ruinas, denominada Torre de la Higuera. Continúa por la mencionada línea imaginaria hacia la costa hasta la cerca de la Estación Biológica de Doñana, por la que sigue en dirección noroeste hasta confluir con la carretera Almonte-Torre la Higuera, frente al punto kilométrico 39,000. A partir del punto anterior continúa por la carretera Torre la Higuera-Mazagón hasta el punto kilométrico 45,100 de la misma, desde el que continúa en dirección sur por el límite occidental del Parque Dunar de Matalascañas hasta la línea de costa. Desde este punto en dirección oeste continúa hasta encontrar el límite municipal entre Lucena y Almonte. Desde aquí pasa a la margen derecha del arroyo del Loro y desde este punto asciende por el cauce hasta la carretera Torre la Higuera-Mazagón en el punto kilométrico 29,000, dirigiéndose por la margen izquierda de la misma hasta el punto kilométrico 22,055. Desde el punto anterior asciende por la pista de la Linde hasta el caserío de Pino Galés. Desde el mencionado caserío continúa en dirección noreste por el camino de la Portuguesa, hasta encontrar el carril del Sevillano. Continúa por dicho carril en dirección sur hasta la casa forestal del Coto Tres Rayas, desde donde sigue en dirección este y línea recta hasta el poblado de La Mediana en su extremo sur. Desde este punto continúa en línea recta hasta el cortijo San Vicente y desde aquí hasta la línea del Alamillo. Por último, en paralelo a la carretera Almonte-Torre la Higuera, continúa hasta el punto distante 1.000 m en perpendicular del punto kilométrico 34,400 de aquélla, desde el que continúa en línea recta hasta alcanzar el mencionado punto kilométrico 34,400, punto de partida. Sector 2.º Partiendo desde la Punta de los Cepillos, en la margen izquierda del río Guadalquivir, continúa hasta la desembocadura del caño de Martín Ruiz. Desde el punto anterior sigue en dirección sureste por el citado caño hasta la ermita de Nuestra Señora del Carmen, y desde aquí en dirección sur por el camino de separación del Pinar de la Algaida y las marismas transformadas hasta el límite de la finca denominada de los Prados. Continúa bordeando el Pinar de la Algaida por el límite sur, dirección oeste, hasta llegar a la laguna del Tarelo, la bordea por su orilla sur, incluyéndola, y continúa hasta encontrar el borde del Pinar de la Algaida, hasta su contacto con el camino vecinal que transcurre al este de la Marisma de Henares y Salinas de Nuestra Señora del Rocío y Marismas de la Dehesilla, siguiendo este camino en dirección sur hasta su cruce por la carretera que desde el Faro va a la colonia de la Algaida, y desde aquí en línea recta en dirección oeste hasta la margen izquierda del río Guadalquivir. Continúa por dicha margen hasta el punto inicial».
 
-#### Artículo 1. Objeto.
+Página núm. 15.120 Sevilla, 25 de noviembre 1999
 
-La presente Orden tiene por objeto destinar a los Ayuntamientos de la provincia de Sevilla que se citan en el Anexo
-la cantidad de sesenta millones quinientas setenta y una mil
-seiscientas cuarenta y siete pesetas (60.571.647 ptas.), por
-los importes que en el mismo figuran para cada uno de ellos
-y con destino a financiar las obras de reparación en pavimento
-de calles, espacios públicos, redes de agua y saneamiento
-y alumbrado, acaecidos con ocasión de las inundaciones y
-temporales a que se refiere el Real Decreto-Ley 2/1998, de
-17 de abril.
+Sevilla, 25 de noviembre 1999 Página núm. 15.121 CONSEJERIA DE GOBERNACION Y JUSTICIA ORDEN de 4 de noviembre de 1999, por la que se adoptan medidas para reparar daños causados por inundaciones en los municipios de la provincia de Sevilla que se citan. El Real Decreto-Ley 2/1998, de 17 de abril, sobre medidas urgentes para reparar los daños causados por las inundaciones y temporales acaecidos entre noviembre de 1997 y febrero de 1998 (BOE núm. 93, de 18 de abril de 1998), estableció acciones tendentes a reparar los desperfectos ocasionados en producciones, infraestructuras y servicios públicos y privados, viviendas, industrias y comercios durante las fechas indicadas, tanto en la Comunidad Autónoma de Andalucía como en el resto del territorio nacional. Tales medidas comprendían, básicamente, la disminución de las cargas tributarias y la concesión de créditos privilegiados y de ayudas a los Ayuntamientos y particulares. Asimismo, en la referida norma se establecen precisiones para lograr que la aplicación de las medidas adoptadas se lleve a cabo mediante la debida coordinación de actuaciones entre los órganos de la Administración General del Estado, de las Comunidades Autónomas y de las Administraciones Locales afectadas, todo ello sin perjuicio de las competencias que corresponden a la Comunidad Autónoma de Andalucía, en particular, al amparo de su Estatuto de Autonomía. Dando cumplimiento a dicho compromiso, y en uso de las atribuciones que me confiere el art. 104 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, así como el artículo 44.4 de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma de Andalucía, D I S P O N G O artículo 1 Objeto. La presente Orden tiene por objeto destinar a los Ayuntamientos de la provincia de Sevilla que se citan en el Anexo la cantidad de sesenta millones quinientas setenta y una mil seiscientas cuarenta y siete pesetas (60.571.647 ptas.), por los importes que en el mismo figuran para cada uno de ellos y con destino a financiar las obras de reparación en pavimento de calles, espacios públicos, redes de agua y saneamiento y alumbrado, acaecidos con ocasión de las inundaciones y temporales a que se refiere el Real Decreto-Ley 2/1998, de 17 de abril.
 
 #### Artículo 2. Carácter de las subvenciones.
 
-En virtud de lo dispuesto en el párrafo tercero del artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, se declara el carácter excepcional de dichas subvenciones, quedando
-acreditada su finalidad pública e interés social.
+En virtud de lo dispuesto en el párrafo tercero del artículo 107 de la Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía, se declara el carácter excepcional de dichas subvenciones, quedando acreditada su finalidad pública e interés social.
 
 #### Artículo 3. Financiación y forma de pago.
 
-Las subvenciones se financiarán con cargo a los créditos
-c o n s i g n a d o s e n l a a p l i c a c i ó n p r e s u p u e s t a r i a
-01.10.00.01.00.765.00.81A («Para Servicios y Obras») del
-presupuesto de la Consejería de Gobernación y Justicia y se
-harán efectivas sin justificación previa y mediante un solo
-pago por el importe total, conforme a lo dispuesto en el apartado 9 del artículo 18 de la Ley 10/1998, de 28 de diciembre,
-del Presupuesto de la Comunidad Autónoma de Andalucía
-para 1999, por tratarse de programas relacionados con Fondos
-de Emergencia.
+Las subvenciones se financiarán con cargo a los créditos c o n s i g n a d o s e n l a a p l i c a c i ó n p r e s u p u e s t a r i a 01.10.00.01.00.765.00.81A («Para Servicios y Obras») del presupuesto de la Consejería de Gobernación y Justicia y se harán efectivas sin justificación previa y mediante un solo pago por el importe total, conforme a lo dispuesto en el apartado 9 del artículo 18 de la Ley 10/1998, de 28 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para 1999, por tratarse de programas relacionados con Fondos de Emergencia.
 
 #### Artículo 4. Delegación de competencias.
 
-Se delega en el Delegado del Gobierno de la Junta de
-Andalucía en Sevilla la facultad de otorgar las subvenciones
-citadas al amparo de la presente Orden, mediante la correspondiente Resolución, en la que se hará constar esta circunstancia.
+Se delega en el Delegado del Gobierno de la Junta de Andalucía en Sevilla la facultad de otorgar las subvenciones citadas al amparo de la presente Orden, mediante la correspondiente Resolución, en la que se hará constar esta circunstancia.
 
-#### Disposición Final Unica. Eficacia.
+#### Disposición final única. Eficacia.
 
-A tenor de lo dispuesto en el artículo 57 de la Ley
-30/1992, de 26 de noviembre, del Régimen Jurídico de las
-Administraciones Públicas y del Procedimiento Administrativo
-Común, la presente Orden produce efectos desde el momento
-en que ha sido dictada, sin perjuicio de su publicación en
-el Boletín Oficial de la Junta de Andalucía.
-Sevilla, 4 de noviembre de 1999
-CARMEN HERMOSIN BONO
-Consejera de Gobernación y Justicia
+A tenor de lo dispuesto en el artículo 57 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la presente Orden produce efectos desde el momento en que ha sido dictada, sin perjuicio de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 4 de noviembre de 1999 CARMEN HERMOSIN BONO Consejera de Gobernación y Justicia

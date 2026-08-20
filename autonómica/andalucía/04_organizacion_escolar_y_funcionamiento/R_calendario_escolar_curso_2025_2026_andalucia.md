@@ -1,12 +1,10 @@
 ---
 id: norm-and-r-calendario-escolar-2025-2026
 codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Andalucia
-titulo: Resolución por la que se aprueban los calendarios escolares provinciales para
-  el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
+titulo: Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Resolución
 numero_disposicion: Calendario 2025-2026
 fecha_disposicion: '2025-05-20'
@@ -20,24 +18,23 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
 tags:
-- calendario_escolar
-- curso_2025_2026
-- dias_lectivos
-- vacaciones
-- andalucia
+  - calendario_escolar
+  - curso_2025_2026
+  - dias_lectivos
+  - vacaciones
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
 ---
+# Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
-
-# Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
 
 Calendario escolar - Educación
 
@@ -311,9 +308,7 @@ El Consejo Escolar de un centro puede iniciar el procedimiento para el cambio de
 
 ### Jornada escolar en los centros docentes públicos
 
-Los centros podrán abrir sus instalaciones a las 7:30h, previa autorización de la Administración educativa. El tiempo comprendido entre las 7:30h y la hora de comienzo del horario lectivo será considerado como aula matinal, sin actividad reglada. El centro habrá de establecer las medidas de vigilancia y atención educativa que necesiten los menores en función de su edad.
-Las instalaciones del centro podrán mantenerse abiertas hasta las 18h todos los días para programar actividades de refuerzo y apoyo o actividades extraescolares. Los viernes, el cierre se realizará a las 16h.
-Las instalaciones deportivas y recreativas, así como otras que lo permitan en tanto que no perjudiquen el normal funcionamiento y la seguridad de los centros, podrán permanecer abiertas para su uso público fuera del horario establecido en el apartado anterior, hasta las 20h en los días lectivos, y desde las 8h hasta las 20h durante todos los días no lectivos del año, a excepción del mes de agosto. Para ello, será necesario un proyecto elaborado por el centro docente, por la asociación de madres y padres del alumnado del centro o, en su caso, por el Ayuntamiento del municipio u otras administraciones locales.
+Los centros podrán abrir sus instalaciones a las 7:30h, previa autorización de la Administración educativa. El tiempo comprendido entre las 7:30h y la hora de comienzo del horario lectivo será considerado como aula matinal, sin actividad reglada. El centro habrá de establecer las medidas de vigilancia y atención educativa que necesiten los menores en función de su edad. Las instalaciones del centro podrán mantenerse abiertas hasta las 18h todos los días para programar actividades de refuerzo y apoyo o actividades extraescolares. Los viernes, el cierre se realizará a las 16h. Las instalaciones deportivas y recreativas, así como otras que lo permitan en tanto que no perjudiquen el normal funcionamiento y la seguridad de los centros, podrán permanecer abiertas para su uso público fuera del horario establecido en el apartado anterior, hasta las 20h en los días lectivos, y desde las 8h hasta las 20h durante todos los días no lectivos del año, a excepción del mes de agosto. Para ello, será necesario un proyecto elaborado por el centro docente, por la asociación de madres y padres del alumnado del centro o, en su caso, por el Ayuntamiento del municipio u otras administraciones locales.
 
 Para consultar el calendario escolar del curso actual de las diferentes Delegaciones Territoriales de la Consejería de Educación, seleccione una provincia del listado.
 
@@ -325,16 +320,7 @@ Calendario de días inhábiles
 
 ### Calendario escolar
 
-Novedades, enlaces y actualidad
-Educación Infantil
-Educación Primaria
-Educación Secundaria Obligatoria
-Pruebas de acceso a la Universidad
-Educación Especial
-Artísticas
-Enseñanzas Deportivas
-Educación para personas adultas
-Idiomas
+Novedades, enlaces y actualidad Educación Infantil Educación Primaria Educación Secundaria Obligatoria Pruebas de acceso a la Universidad Educación Especial Artísticas Enseñanzas Deportivas Educación para personas adultas Idiomas
 
 Nodo: sv0665:8080Oculto
 

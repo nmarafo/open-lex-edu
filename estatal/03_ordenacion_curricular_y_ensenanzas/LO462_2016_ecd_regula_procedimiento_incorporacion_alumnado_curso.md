@@ -1,15 +1,10 @@
 ---
 id: norm-es-2016-3229
 codigo_sintetizado: BOE-A-2016-3229
-titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento
-  de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de
-  Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de
-  diciembre, para la mejora de la calidad educativa, con materias no superadas del
-  currículo anterior a su implantación.
+titulo: Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2016-04-05'
 boletin: BOE
@@ -20,67 +15,64 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-- bachillerato
-- consejo-escolar
-- curriculo
-- educaci-n-secundaria-obligatoria-eso
-- ensenanzas-deportivas
-- eso
-- evaluacion
-- igualdad-genero
+  - bachillerato
+  - consejo-escolar
+  - curriculo
+  - educaci-n-secundaria-obligatoria-eso
+  - ensenanzas-deportivas
+  - eso
+  - evaluacion
+  - igualdad-genero
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2014-2222
-  - norma_id: norm-es-2014-5591
-  - norma_id: norm-es-2014-6008
-  - norma_id: norm-es-2015-738
-  - norma_id: norm-es-2015-8043
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-2015-8702
-  - norma_id: norm-es-2015-9462
-  - norma_id: norm-es-2018-4480
-  - norma_id: norm-es-2018-6348
-  - norma_id: norm-es-2022-15953
-  - norma_id: norm-es-2023-3846
-  - norma_id: norm-es-2023-9553
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-rd-243-2022
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-boc-2026-077-49
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2014-5591
+    - norma_id: norm-es-2014-6008
+    - norma_id: norm-es-2015-738
+    - norma_id: norm-es-2015-8043
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-2015-8702
+    - norma_id: norm-es-2015-9462
+    - norma_id: norm-es-2018-4480
+    - norma_id: norm-es-2018-6348
+    - norma_id: norm-es-2022-15953
+    - norma_id: norm-es-2023-3846
+    - norma_id: norm-es-2023-9553
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-boc-2018-048-56
+    - norma_id: norm-can-d-25-2018
+    - norma_id: norm-can-res-boc-2019-234-52
+    - norma_id: norm-can-res-juriscan-72176-78
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-res-boc-2020-236-82
+    - norma_id: norm-can-res-boc-2026-077-62
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-014
+    - norma_id: norm-can-res-boc-2026-077-49
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 ## Preámbulo
-
-# Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
-
-# Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, establece una nueva ordenación de las enseñanzas del sistema educativo español cuyo calendario de implantación se recoge en su disposición final quinta. De acuerdo con el mismo, se prevé que la nueva ordenación sustituya de manera progresiva a la definida por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción original.
 
@@ -98,13 +90,15 @@ Esta orden tiene por objeto establecer el procedimiento de incorporación del al
 
 #### Artículo 2. Educación Secundaria Obligatoria.
 
-1. La promoción de curso sin haber superado todas las materias cursadas en la Educación Secundaria Obligatoria, se hará en las condiciones establecidas en el artículo 22.2 del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato. A estos efectos se tendrá en cuenta el cuadro que figura en el anexo, así como el bloque de asignaturas al que pertenece la materia correspondiente.
+1. La promoción de curso sin haber superado todas las materias cursadas en la Educación Secundaria Obligatoria, se hará en las condiciones establecidas en el artículo 22.2 del Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato. A estos efectos se tendrá en cuenta el cuadro que figura en el anexo, así como el bloque de asignaturas al que pertenece la materia correspondiente.
 
 El alumnado deberá recuperar las materias cursadas y no superadas de los cursos anteriores si continúan formando parte de la organización del curso correspondiente en la nueva ordenación de la Educación Secundaria Obligatoria dentro de la programación de la oferta educativa establecida por cada Administración educativa. Para la recuperación de estas materias será de aplicación el currículo derivado del citado Real Decreto 1105/2014, de 26 de diciembre. En el caso del alumnado con necesidades específicas de apoyo educativo, deberá tenerse en cuenta para ello las adaptaciones curriculares de acceso, metodológicas y de evaluación realizadas con anterioridad y a lo largo de la etapa.
 
 En el caso de que las materias cursadas y no superadas, conforme al citado anexo, formen parte del bloque de asignaturas específicas, el alumno o alumna podrá optar, bien por cursarlas de nuevo, bien por sustituirlas por cualquier otra de su elección dentro de las pertenecientes al mismo bloque, con arreglo a la regulación establecida por las Administraciones educativas.
 
-2. Para obtener el título de Graduado en Educación Secundaria Obligatoria se deberán cumplir los requisitos establecidos en el artículo 23 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alumnado que no haya obtenido el título de Graduado en Educación Secundaria podrá optar por presentarse a las pruebas anuales previstas en el artículo 68.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Graduado en Educación Secundaria Obligatoria, siempre que reúna los requisitos establecidos. Las Administraciones educativas determinarán las partes que se consideran superadas de dichas pruebas, en función de las materias o ámbitos cursados y las calificaciones obtenidas en los años que el alumno o alumna haya permanecido escolarizado en la Educación Secundaria Obligatoria.
+2. Para obtener el título de Graduado en Educación Secundaria Obligatoria se deberán cumplir los requisitos establecidos en el artículo 23 l.
+
+Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior, el alumnado que no haya obtenido el título de Graduado en Educación Secundaria podrá optar por presentarse a las pruebas anuales previstas en el artículo 68.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Graduado en Educación Secundaria Obligatoria, siempre que reúna los requisitos establecidos. Las Administraciones educativas determinarán las partes que se consideran superadas de dichas pruebas, en función de las materias o ámbitos cursados y las calificaciones obtenidas en los años que el alumno o alumna haya permanecido escolarizado en la Educación Secundaria Obligatoria.
 
 #### Artículo 3. Bachillerato.
 
@@ -122,7 +116,9 @@ En el caso de que las materias cursadas y no superadas, conforme al citado anexo
 
 4. Para la recuperación de las materias no superadas será de aplicación el currículo derivado del citado Real Decreto 1105/2014, de 26 de diciembre.
 
-5. Para obtener el título de Bachiller se deberán cumplir los requisitos establecidos en el artículo 34 del Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior el alumnado que no haya obtenido el título de Bachiller podrá optar por presentarse a las pruebas anuales previstas en el artículo 69.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Bachiller, siempre que reúna los requisitos establecidos.
+5. Para obtener el título de Bachiller se deberán cumplir los requisitos establecidos en el artículo 34 l.
+
+Real Decreto 1105/2014, de 26 de diciembre. Sin perjuicio de lo anterior el alumnado que no haya obtenido el título de Bachiller podrá optar por presentarse a las pruebas anuales previstas en el artículo 69.4 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, para la obtención del título de Bachiller, siempre que reúna los requisitos establecidos.
 
 6. A todos los efectos, habrá de considerarse en los apartados anteriores que el alumnado que con anterioridad al curso 2015-2016, en el caso de primero de Bachillerato y del curso 2016-2017, en el caso de segundo, cursaba la modalidad de Ciencias y Tecnología le corresponderá la nueva modalidad de Ciencias.
 
@@ -146,7 +142,7 @@ Esta orden se dicta al amparo del artículo 149.1.30.ª de la Constitución, que
 
 Madrid, 31 de marzo de 2016.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
 
-ANEXO
+## Anexo
 
 Correspondencia entre determinadas materias que han cambiado de denominación como consecuencia de la implantación de la Ley Orgánica 8/2013, de 9 de diciembre, y las derivadas de las modificaciones introducidas tras su aplicación
 
@@ -178,7 +174,7 @@ Geografía e Historia.
 
 Lengua extranjera.
 
-Primera Lengua Extranjera.
+#### Primera. Lengua Extranjera.
 
 Matemáticas (3.º ESO).
 
@@ -222,11 +218,11 @@ Filosofía.
 
 Lengua extranjera I.
 
-Primera Lengua Extranjera I.
+#### Primera. Lengua Extranjera I.
 
 Lengua extranjera II.
 
-Primera Lengua Extranjera II.
+#### Primera. Lengua Extranjera II.
 
 Específicas
 
@@ -242,11 +238,10 @@ Tecnologías de la Información y la Comunicación.
 
 Tecnologías de la Información y la Comunicación I.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -281,6 +276,7 @@ Tecnologías de la Información y la Comunicación I.
 - **Fundamento de**: [**Resolucion BOC 49**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)

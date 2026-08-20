@@ -1,12 +1,10 @@
 ---
 id: norm-es-1998-10720
 codigo_sintetizado: BOE-A-1998-10720
-titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados
-  aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
+titulo: Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1998-05-08'
 boletin: BOE
@@ -17,44 +15,41 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-- admision-alumnado
-- curriculo
-- ensenanzas-artisticas
-- especialidades-y-habilitaciones
-- evaluacion
-- formacion-profesional
-- oposiciones
-- profesorado
-- titulacion
+  - admision-alumnado
+  - curriculo
+  - ensenanzas-artisticas
+  - especialidades-y-habilitaciones
+  - evaluacion
+  - formacion-profesional
+  - oposiciones
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1993-23257
-  - norma_id: norm-es-1995-22212
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-lo-8-1985
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1993-23257
+    - norma_id: norm-es-1995-22212
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-rd-1364-2010
-  - norma_id: norm-es-rd-276-2007
-fundamentos_derecho:
-- norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rd-1364-2010
+    - norma_id: norm-es-rd-276-2007
+  fundamentos_derecho:
+    - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-lo-8-1985
-- norma_id: norm-es-1993-23257
-- norma_id: norm-es-1995-22212
+    - '1'
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1993-23257
+    - norma_id: norm-es-1995-22212
 ---
+# Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 ## Preámbulo
-
-# Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
-
-# Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.
 
@@ -84,9 +79,7 @@ En su virtud, a propuesta de la Ministra de Educación y Cultura, de acuerdo con
 
 **DISPONGO:**
 
-CAPÍTULO I
-
-Sistemas de acceso, admisión y matriculación en ciclos formativos
+## Capítulo I. Sistemas de acceso, admisión y matriculación en ciclos formativos.
 
 #### Artículo 1. Acceso a la formación profesional específica.
 
@@ -100,7 +93,9 @@ El acceso a la formación profesional específica se realizará de forma directa
 
 #### Artículo 3. Acceso mediante prueba.
 
-1. El acceso mediante prueba a los ciclos formativos de grado medio y grado superior se efectuará con arreglo a lo dispuesto en el artículo 6 del Real Decreto 676/1993, de 7 de mayo.
+1. El acceso mediante prueba a los ciclos formativos de grado medio y grado superior se efectuará con arreglo a lo dispuesto en el artículo 6 l.
+
+Real Decreto 676/1993, de 7 de mayo.
 
 2. La prueba será regulada por las Administraciones educativas y tendrá por objeto comprobar que el aspirante tiene los conocimientos y habilidades suficientes para cursar con aprovechamiento las enseñanzas del ciclo formativo de grado medio, y la madurez en relación con los objetivos del bachillerato y sus capacidades respecto al campo profesional correspondiente al ciclo formativo de grado superior; para el desarrollo de la prueba se podrá contar, a efectos de asesoramiento, con la participación de los agentes sociales. De la última parte podrán quedar exentos quienes acrediten una experiencia laboral que se corresponda con los estudios profesionales que se desee cursar.
 
@@ -132,9 +127,7 @@ En el Libro de Calificaciones de Formación Profesional quedarán reflejados los
 
 Para dar cumplimiento al artículo 30.5 de la Ley Orgánica de Ordenación General del Sistema Educativo, las Administraciones educativas podrán establecer las condiciones para que los solicitantes que cumplan los requisitos de acceso a un ciclo formativo, en los casos que sea necesario se matriculen únicamente en determinados módulos profesionales del mismo.
 
-CAPÍTULO II
-
-Efectos académicos y profesionales de los títulos de Formación Profesional
+## Capítulo II. Efectos académicos y profesionales de los títulos de Formación Profesional.
 
 #### Artículo 9. Efectos profesionales del título de Técnico Auxiliar.
 
@@ -148,9 +141,7 @@ El título de Técnico Especialista en la correspondiente especialidad tiene los
 
 En cumplimiento de lo dispuesto en el artículo 35.3 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, quienes estén en posesión del título de Técnico, por haber superado la formación profesional específica de grado medio según lo dispuesto en el artículo 32.1 de la citada Ley Orgánica, tienen acceso directo a las distintas modalidades del bachillerato.
 
-CAPÍTULO III
-
-Sistemas de convalidaciones y correspondencias
+## Capítulo III. Sistemas de convalidaciones y correspondencias.
 
 #### Artículo 12. Convalidaciones de módulos profesionales entre ciclos formativos.
 
@@ -204,9 +195,7 @@ b) Exento, en aquellos módulos profesionales que hayan sido objeto de correspon
 
 4. En el ámbito de este Real Decreto, las convalidaciones no contempladas en los artículos anteriores serán objeto, necesariamente, de solicitud ante el Ministerio de Educación y Cultura, que dará lugar a resolución individualizada de la Dirección General de Formación Profesional y Promoción Educativa en el marco de sus competencias.
 
-CAPÍTULO IV
-
-Requisitos mínimos de espacios formativos e instalaciones para impartir formación profesional específica
+## Capítulo IV. Requisitos mínimos de espacios formativos e instalaciones para impartir formación profesional específica.
 
 #### Artículo 18. Centros en los que se puede impartir las enseñanzas de formación profesional.
 
@@ -222,7 +211,9 @@ b) En centros dedicados exclusivamente a impartir formación profesional especí
 
 1. Los requisitos mínimos de espacios formativos para la impartición de los ciclos formativos de formación profesional específica son los que se indican en la columna tercera del anexo V del presente Real Decreto.
 
-2. La superficie indicada en la columna cuarta del anexo V corresponde al número de puestos escolares establecido en el artículo 35 del Real Decreto 1004/1991, de 14 de junio. Podrán autorizarse unidades para menos de 30 puestos escolares, en cuyo caso podrán reducirse los espacios formativos proporcionalmente al número de alumnos, tomando como referencia para la determinación de las superficies necesarias las cifras indicadas en las columnas cuarta y quinta del anexo V del presente Real Decreto.
+2. La superficie indicada en la columna cuarta del anexo V corresponde al número de puestos escolares establecido en el artículo 35 l.
+
+Real Decreto 1004/1991, de 14 de junio. Podrán autorizarse unidades para menos de 30 puestos escolares, en cuyo caso podrán reducirse los espacios formativos proporcionalmente al número de alumnos, tomando como referencia para la determinación de las superficies necesarias las cifras indicadas en las columnas cuarta y quinta del anexo V del presente Real Decreto.
 
 3. Se modifica el artículo 32.2 del Real Decreto 1004/1991, de 14 de junio, que quedará redactado como sigue:
 
@@ -246,15 +237,15 @@ d) Aseos y servicios higiénico-sanitarios adecuados al número de puestos escol
 
 #### Artículo 20. Ubicación en edificios de uso no exclusivo escolar.
 
-Los centros autorizados a impartir formación profesional específica podrán ubicar estas enseñanzas en edificios que no sean de uso exclusivo escolar, siempre que cumplan los requisitos de espacios formativos y equipamientos determinados por las Administraciones educativas y reúnan las condiciones establecidas en el artículo 5 del Real Decreto 1004/1991, de 14 de junio.
+Los centros autorizados a impartir formación profesional específica podrán ubicar estas enseñanzas en edificios que no sean de uso exclusivo escolar, siempre que cumplan los requisitos de espacios formativos y equipamientos determinados por las Administraciones educativas y reúnan las condiciones establecidas en el artículo 5 l.
+
+Real Decreto 1004/1991, de 14 de junio.
 
 #### Artículo 21. Autorización administrativa de los centros docentes privados.
 
 La apertura y funcionamiento de los centros docentes privados se someterá al principio de autorización administrativa, según dispone el artículo 1.2 del Real Decreto 1004/1991. La Orden de autorización establecerá el número de puestos escolares correspondientes a cada ciclo formativo de formación profesional específica, debiendo constar expresamente cuando este número sea inferior a 30 alumnos por unidad educativa. En todos los casos, los espacios formativos se atendrán a lo que se indica en el artículo 19.1 del presente Real Decreto.
 
-CAPÍTULO V
-
-Profesorado
+## Capítulo V. Profesorado.
 
 #### Artículo 22. Titulaciones declaradas equivalentes a efectos de docencia.
 
@@ -268,7 +259,9 @@ Las Administraciones educativas podrán autorizar para impartir los módulos pro
 
 #### Disposición adicional primera. Otros accesos directos a las enseñanzas de formación profesional específica.
 
-No obstante lo dispuesto en el artículo 2 del presente Real Decreto, tendrán acceso directo a las enseñanzas de formación profesional específica quienes posean alguna de las acreditaciones académicas siguientes:
+No obstante lo dispuesto en el artículo 2 l.
+
+presente Real Decreto, tendrán acceso directo a las enseñanzas de formación profesional específica quienes posean alguna de las acreditaciones académicas siguientes:
 
 1. Ciclos formativos de grado medio:
 
@@ -296,7 +289,9 @@ d) Estar en posesión de una titulación universitaria o equivalente.
 
 #### Disposición adicional segunda. Correspondencia entre modalidades del bachillerato y opciones del Curso de Orientación Universitaria.
 
-1. A los efectos previstos en el artículo 5 del presente Real Decreto, a los alumnos que hubieran realizado el Curso de Orientación Universitaria les será de aplicación la siguiente correspondencia:
+1. A los efectos previstos en el artículo 5 l.
+
+presente Real Decreto, a los alumnos que hubieran realizado el Curso de Orientación Universitaria les será de aplicación la siguiente correspondencia:
 
 a) Para las modalidades del bachillerato de Ciencias de la Naturaleza y de la Salud y del bachillerato de Tecnología las opciones A o B del Curso de Orientación Universitaria.
 
@@ -304,7 +299,9 @@ b) Para la modalidad del bachillerato de Humanidades y Ciencias Sociales las opc
 
 c) Para la modalidad del bachillerato de Artes todas las opciones del Curso de Orientación Universitaria.
 
-2. Asimismo, a los efectos previstos en el artículo 5 del presente Real Decreto, para el cálculo de la nota media del expediente académico del alumnado referido en el apartado anterior, deberán considerarse las calificaciones del Bachillerato Unificado y Polivalente y del Curso de Orientación Universitaria.
+2. Asimismo, a los efectos previstos en el artículo 5 l.
+
+presente Real Decreto, para el cálculo de la nota media del expediente académico del alumnado referido en el apartado anterior, deberán considerarse las calificaciones del Bachillerato Unificado y Polivalente y del Curso de Orientación Universitaria.
 
 #### Disposición adicional tercera. Ámbito de validez de la certificación de la prueba de acceso.
 
@@ -1076,7 +1073,7 @@ Fabricación y Transformación de Productos de Vidrio.
 
 – Tecnología.
 
-ANEXO II
+## Anexo II
 
 EFECTOS PROFESIONALES DE LOS TÍTULOS DE TÉCNICO AUXILIAR
 
@@ -1454,7 +1451,7 @@ JOYERÍA DEL ARTE
 
 – Engastador (Metal).
 
-ANEXO III
+## Anexo III
 
 EFECTOS ACADÉMICOS Y PROFESIONALES DE LOS TÍTULOS DE TÉCNICO ESPECIALISA
 
@@ -2076,7 +2073,7 @@ JOYERÍA DEL ARTE
 
 – Artes Plásticas y Diseño en Joyería Artística.
 
-ANEXO IV
+## Anexo IV
 
 CONVALIDACIONES DE MÓDULOS PROFESIONALES CON MATERIAS DE BACHILLERATO
 
@@ -2138,7 +2135,7 @@ Química Textil.
 
 Química.
 
-ANEXO V
+## Anexo V
 
 REQUISITOS MÍNIMOS DE ESPACIOS FORMATIVOS
 
@@ -2348,8 +2345,6 @@ Cuadras (1).
 
 Baja y media montaña (1).
 
--
-
 Animación de Actividades Físicas y Deportivas.
 
 Aula polivalente.
@@ -2450,10 +2445,6 @@ Taller de seguridad y supervivencia.
 
 Buque de prácticas (1).
 
--
-
--
-
 Navegación, Pesca y Transporte Marítimo.
 
 Aula polivalente.
@@ -2475,10 +2466,6 @@ Taller de seguridad y supervivencia.
 90
 
 Buque de prácticas (1).
-
--
-
--
 
 Producción Acuícola.
 
@@ -2630,8 +2617,6 @@ Laboratorio de ensayos.
 
 Taller de preimpresión.
 
-1 80
-
 COMERCIO Y MARKETING.
 
 Diseño y Producción Editorial.
@@ -2685,10 +2670,6 @@ Aula polivalente.
 40
 
 Aula de gestión.
-
-, 90
-
--60
 
 Taller de comercio.
 
@@ -2765,8 +2746,6 @@ Aula polivalente.
 Aula técnica.
 
 90
-
-.
 
 Laboratorio fotoquímico.
 
@@ -3361,8 +3340,6 @@ Aula polivalente.
 Aula de gestión.
 
 90
-
-.
 
 Taller de hostelería.
 
@@ -4648,7 +4625,7 @@ Taller de fabricación y transformación de vidrio.
 
 (1) Espacio singular no necesariamente ubicado en el centro docente.
 
-ANEXO VI.A)
+## Anexo VI. A)
 
 TITULACIONES DECLARADAS EQUIVALENTES, A EFECTOS DE DOCENCIA, PARA LAS ESPECIALIDADES DE FORMACIÓN PROFESIONAL ESPECÍFICA DEL CUERPO DE PROFESORES DE ENSEÑANZA SECUNDARIA
 
@@ -4844,7 +4821,7 @@ Ingeniero Técnico de Telecomunicación, en todas sus especialidades.
 
 Nota.–Las titulaciones indicadas corresponden al Catálogo de Títulos Universitarios Oficiales y a las sucesivas incorporaciones al mismo. También son equivalentes a efectos de docencia bis titulaciones homólogas a las especificadas, según el La 195111994 de 30 de septiembre (BOE del 17 de noviembre).
 
-ANEXO VI 13)
+## Anexo VI. 13)
 
 TITULACIONES DECLARADAS EQUIVALENTES, A EFECTOS DE DOCENCIA, PARA LAS ESPECIALIDADES DE FORMACIÓN PROFESIONAL ESPECÍFICA DEL CUERPO DE PROFESORES TÉCNICOS DE FORMACIÓN PROFESIONAL
 
@@ -4908,11 +4885,11 @@ Técnico Especialista en Fabricación Soldada.
 
 Técnico Especialista en Calderería en Chapa Estructural.
 
-ANEXO VII
+## Anexo VII
 
 MODIFICACIÓN DEL REAL DECRETO 1653/1994 DE 22 DE JULIO POR EL QUE SE ESTABLECE EL TÍTULO DE TÉCNICO SUPERIOR EN COMERCIO INTERNACIONAL Y LAS CORRESPONDIENTES ENSEÑANZAS MÍNIMAS
 
-ANEXO
+## Anexo
 
 3. Enseñanzas mínimas
 
@@ -5618,8 +5595,6 @@ Profesor Técnico de F.P.
 
 9. Lengua extranjera en comercio.
 
-(1).
-
 Profesor de Enseñanza Secundaria internacional.
 
 10. Formación y orientación laboral.
@@ -5630,7 +5605,7 @@ Profesor de Enseñanza Secundaria.
 
 (1) Alemán, francés, inglés, italiano o portugués, un función del idioma elegido.
 
-ANEXO VIII
+## Anexo VIII
 
 MODIFICACIÓN Y AMPLIACIÓN DEL [REAL DECRETO 1635/1995](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md) DE 6 DE OCTUBRE
 
@@ -5874,8 +5849,7 @@ Grabaciones musicales.
 
 Sonido.
 
-**VIII c)
-Ampliación y modificación del Anexo II c) sobre atribución de competencia docente a los Profesores de las nuevas especialidades de secundaria para la docencia en el bachillerato**
+**VIII c) Ampliación y modificación del Anexo II c) sobre atribución de competencia docente a los Profesores de las nuevas especialidades de secundaria para la docencia en el bachillerato**
 
 ESPECIALIDAD PROFESORADO
 
@@ -5885,8 +5859,7 @@ ASESORÍA Y PROCESOS DE IMAGEN PERSONAL.
 
 Biología.
 
-**VIII d)
-Ampliación de adscripción de los Anexos IId) y IV c)**
+**VIII d) Ampliación de adscripción de los Anexos IId) y IV c)**
 
 Profesores de Enseñanza Secundaria.
 
@@ -5952,7 +5925,7 @@ Proyectos de instalaciones térmicas y de fluidos.
 
 (3) Título de: Arquitecto, Ingeniero, Arquitecto Técnico o Ingeniero Técnico.
 
-ANEXO IX
+## Anexo IX
 
 AUTORIZACIÓN PARA IMPARTIR ENSEÑANZAS DE CICLOS FORMATIVOS DE GRADO MEDIO A LOS CENTROS PRIVADOS AUTORIZADOS PARA IMPARTIR FORMACIÓN PROFESIONAL DE PRIMER GRADO Y CENTROS PRIVADOS HOMOLOGADOS PARA IMPARTIR FORMACIÓN PROFESIONAL DE SEGUNDO GRADO
 
@@ -6300,7 +6273,7 @@ VIDRIO Y CERÁMICA
 
 – Operaciones de Fabricación de Vidrio y Transformados.
 
-ANEXO X
+## Anexo X
 
 ACCESO A ESTUDIOS UNIVERSITARIOS DESDE LOS CICLOS FORMATIVOS DE GRADO SUPERIOR
 
@@ -6386,7 +6359,7 @@ Ingeniero Técnico Aeronáutico (todas las especialidades).
 
 Ingeniero Técnico Industrial (todas las especialidades).
 
-Ingeniero Técnico Nava’ (todas las especialidades).
+Ingeniero Técnico Nava' (todas las especialidades).
 
 Ingeniero Técnico de Telecomunicación (todas las especialidades).
 
@@ -7176,7 +7149,7 @@ Fabricación y Transformación de Productos de Vidrio.
 
 Ingeniero Técnico Industrial (todas las especialidades).
 
-ANEXO XI
+## Anexo XI
 
 TITULACIONES REQUERIDAS PARA OCUPAR PLAZAS DE ESPECIALIDADES DEL PROFESORADO POR FUNCIONARIOS DE OTRAS ESPECIALIDADES EN LAS CONVOCATORIAS DE PROVISIÓN DE VACANTES, SEGÚN LA DISPOSICIÓN TRANSITORIA TERCERA DEL PRESENTE REAL DECRETO
 
@@ -7568,11 +7541,10 @@ Licenciado en: Física; Química.
 
 Ingeniero: Químico; Industrial; de Materiales; en Automática y Electrónica Industrial.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - **Fundamentado en**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
@@ -7583,6 +7555,7 @@ Ingeniero: Químico; Industrial; de Materiales; en Automática y Electrónica In
 - **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 
 ### Fundamentos de Derecho
+
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

@@ -1,14 +1,10 @@
 ---
 id: norm-es-2007-22450
 codigo_sintetizado: BOE-A-2007-22450
-titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos
-  para la verificación de los títulos universitarios oficiales que habiliten para
-  el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria
-  y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+titulo: Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-12-29'
 boletin: BOE
@@ -19,30 +15,27 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- bachillerato
-- ensenanzas-universitarias
-- eoi
-- equipos-directivos
-- eso
-- formacion-del-profesorado
-- formacion-profesional
-- profesorado
-- titulacion
+  - bachillerato
+  - ensenanzas-universitarias
+  - eoi
+  - equipos-directivos
+  - eso
+  - formacion-del-profesorado
+  - formacion-profesional
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
+    - '1'
+    - '2'
 ---
+# Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 ## Preámbulo
-
-# Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
-
-# Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 La disposición adicional novena del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, establece que el Ministerio de Educación y Ciencia precisará los contenidos de su anexo I a los que habrán de ajustarse las solicitudes presentadas por las universidades para la obtención de la verificación de los planes de estudios conducentes a la obtención de títulos oficiales de Grado o de Máster, prevista en su artículo 24, que habiliten para el ejercicio de profesiones reguladas.
 
@@ -64,9 +57,9 @@ Se autoriza a la Dirección General de Universidades para dictar las resolucione
 
 Madrid, 27 de diciembre de 2007.–La Ministra de Educación y Ciencia, Mercedes Cabrera Calvo-Sotelo.
 
-ANEXO
+## Anexo
 
-Establecimiento de requisitos respecto a determinados apartados del anexo I del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, relativo a la memoria para la solicitud de verificación de títulos oficiales
+Establecimiento de requisitos respecto a determinados apartados del anexo I del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, relativo a la memoria para la solicitud de verificación de títulos oficiales
 
 Apartado 1.1 Denominación:
 
@@ -108,7 +101,9 @@ Asimismo, habrá de acreditarse el dominio de una lengua extranjera equivalente 
 
 Apartado 5. Planificación de las enseñanzas.
 
-Los títulos a que se refiere el presente acuerdo son enseñanzas universitarias oficiales de Máster, y sus planes de estudios tendrán una duración de 60 créditos europeos a los que se refiere el artículo 5 del mencionado Real Decreto 1393/2007, de 29 de octubre.
+Los títulos a que se refiere el presente acuerdo son enseñanzas universitarias oficiales de Máster, y sus planes de estudios tendrán una duración de 60 créditos europeos a los que se refiere el artículo 5 l.
+
+mencionado Real Decreto 1393/2007, de 29 de octubre.
 
 Estas enseñanzas se estructurarán teniendo en cuenta las materias y ámbitos docentes en educación secundaria obligatoria y bachillerato, formación profesional, enseñanzas artísticas, enseñanzas de idiomas y enseñanzas deportivas. Con carácter general, han de ser presenciales, al menos, en el 80% de los créditos totales del Máster, incluido necesariamente el Practicum. Las Universidades que por su especificidad diseñan, programan y desarrollan las enseñanzas exclusivamente a distancia, han de garantizar que el Practicum tenga carácter presencial. El Practicum se realizará en colaboración con las instituciones educativas establecidas mediante convenios entre Universidades y Administraciones Educativas. Las instituciones educativas participantes en la realización del Practicum habrán de estar reconocidas como centros de prácticas, así como los tutores encargados de la orientación y tutela de los estudiantes.
 
@@ -182,12 +177,12 @@ especialización, incluyendo el Trabajo fin de Máster.
 
 Adquirir experiencia en la planificación, la docencia y la evaluación de las materias correspondientes a la especialización. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Para la formación profesional, conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas. Respecto a la orientación, ejercitarse en la evaluación psicopedagógica, el asesoramiento a otros profesionales de la educación, a los estudiantes y a las familias. Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo fin de Máster que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

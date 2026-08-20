@@ -1,13 +1,10 @@
 ---
 id: norm-es-2022-12014
 codigo_sintetizado: BOE-A-2022-12014
-titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades
-  docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas
-  vinculadas a las enseñanzas de Arte Dramático.
+titulo: Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2022-07-20'
 boletin: BOE
@@ -18,118 +15,115 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- bachillerato
-- curriculo
-- ebep
-- ense-anzas-art-sticas
-- ensenanzas-artisticas
-- evaluacion
-- profesorado
-- titulacion
+  - bachillerato
+  - curriculo
+  - ebep
+  - ense-anzas-art-sticas
+  - ensenanzas-artisticas
+  - evaluacion
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
 ## Preámbulo
 
-# Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su artículo 58 que corresponde al Gobierno, previa consulta a las Comunidades Autónomas y al Consejo Superior de Enseñanzas Artísticas, definir la estructura y el contenido básicos de los diferentes estudios de enseñanzas artísticas superiores regulados en ella.
 
-# Real Decreto 588/2022, de 19 de julio, por el que se establecen las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
+De conformidad con lo anterior se dictan el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el Real Decreto 630/2010, de 14 de mayo, por el que se regula el contenido básico de las enseñanzas artísticas superiores de Grado en Arte Dramático establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. De acuerdo con este último, las Administraciones educativas, vista la propuesta de los centros, establecerán el plan de estudios, organizando cada una de las materias establecidas en una o varias asignaturas. El plan de estudios se podrá completar con otras materias, además de las establecidas en dicho real decreto, que se concretarán, asimismo, en asignaturas. También se podrán establecer asignaturas optativas.
 
-La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su artículo 58 que corresponde al Gobierno, previa consulta a las Comunidades Autónomas y al Consejo Superior de Enseñanzas Artísticas, definir la estructura y el contenido básicos de los diferentes estudios de enseñanzas artísticas superiores regulados en ella.
+Por otra parte, en los artículos comprendidos entre el 91 y el 99, la Ley Orgánica 2/2006, de 3 de mayo, establece las funciones del profesorado, así como las condiciones de titulación y otros requisitos que se precisarán para impartir cada una de las distintas enseñanzas que se regulan en ella. Asimismo, en su disposición adicional séptima, en la que se regula la ordenación de la función pública docente y se establecen las funciones de los distintos cuerpos, determina que el Cuerpo de Profesores de Música y Artes Escénicas desempeñará sus funciones en las enseñanzas elementales y profesionales de Música y de Danza, en las enseñanzas de Arte Dramático y, en su caso, en aquellas materias de las enseñanzas superiores de Música y de Danza o de la modalidad de Artes del Bachillerato que se determinen, en tanto que el Cuerpo de Catedráticos de Música y Artes Escénicas lo hará en las enseñanzas superiores de Música y de Danza y en las de Arte Dramático. Esta misma disposición añade además que corresponde al Gobierno, previa consulta a las Comunidades Autónomas, la creación o supresión de las especialidades docentes de estos cuerpos.
 
-De conformidad con lo anterior se dictan el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el Real Decreto 630/2010, de 14 de mayo, por el que se regula el contenido básico de las enseñanzas artísticas superiores de Grado en Arte Dramático establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. De acuerdo con este último, las Administraciones educativas, vista la propuesta de los centros, establecerán el plan de estudios, organizando cada una de las materias establecidas en una o varias asignaturas. El plan de estudios se podrá completar con otras materias, además de las establecidas en dicho real decreto, que se concretarán, asimismo, en asignaturas. También se podrán establecer asignaturas optativas.
+En desarrollo de la normativa citada en el párrafo anterior, se promulgan el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, y el Real Decreto 427/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas superiores de Música y Danza.
 
-Por otra parte, en los artículos comprendidos entre el 91 y el 99, la Ley Orgánica 2/2006, de 3 de mayo, establece las funciones del profesorado, así como las condiciones de titulación y otros requisitos que se precisarán para impartir cada una de las distintas enseñanzas que se regulan en ella. Asimismo, en su disposición adicional séptima, en la que se regula la ordenación de la función pública docente y se establecen las funciones de los distintos cuerpos, determina que el Cuerpo de Profesores de Música y Artes Escénicas desempeñará sus funciones en las enseñanzas elementales y profesionales de Música y de Danza, en las enseñanzas de Arte Dramático y, en su caso, en aquellas materias de las enseñanzas superiores de Música y de Danza o de la modalidad de Artes del Bachillerato que se determinen, en tanto que el Cuerpo de Catedráticos de Música y Artes Escénicas lo hará en las enseñanzas superiores de Música y de Danza y en las de Arte Dramático. Esta misma disposición añade además que corresponde al Gobierno, previa consulta a las Comunidades Autónomas, la creación o supresión de las especialidades docentes de estos cuerpos.
+En coherencia con el contexto normativo en que se encuadran las enseñanzas artísticas superiores y con lo previamente indicado en la parte expositiva de los Reales Decretos 428/2013 y 427/2013, de 14 de junio, citados en el párrafo anterior, sobre la conveniencia de establecer en distintas normas las diferentes especialidades del Cuerpo de Profesores de Música y Artes Escénicas y del Cuerpo de Catedráticos de Música y Artes Escénicas, se establecen en el presente real decreto tanto las especialidades de los mencionados cuerpos que están vinculadas exclusivamente a las enseñanzas de Arte Dramático como aquellas que, de acuerdo con la normativa ya existente, se vinculan además a las enseñanzas de Música y Danza. En este último caso se encuentran, dentro del primero de los cuerpos citados, las especialidades de Lenguaje musical y Piano, y, dentro del segundo, la de Producción y gestión de música y artes escénicas.
 
-En desarrollo de la normativa citada en el párrafo anterior, se promulgan el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, y el Real Decreto 427/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas superiores de Música y Danza.
+Así pues, en virtud de la competencia estatal reconocida por el artículo 149.1.18.ª y 30.ª de la Constitución Española para establecer las bases del régimen jurídico de las Administraciones públicas y el régimen estatutario de los funcionarios, para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y para establecer normas básicas para el desarrollo del artículo 27 de la Constitución, de acuerdo con la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, que atribuye al Gobierno la creación o supresión de las especialidades de los cuerpos docentes, y con el fin de garantizar una enseñanza común de calidad impartida por el profesorado más idóneo, procede establecer las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y definir la asignación de materias que deberá impartir dicho profesorado en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo. Asimismo, teniendo en cuenta que, conforme a lo establecido en la disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las modificaciones introducidas en el currículo y la organización de Bachillerato deberán implantarse para el primer curso de la etapa en el curso escolar 2022-2023 y, para el segundo, en el curso siguiente, procede determinar la normativa en la que deberán recogerse las materias de la nueva ordenación que podrán ser impartidas en la modalidad de Artes del Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático, estableciendo al mismo tiempo con carácter transitorio las que, conforme al currículo aún en vigor, corresponderán hasta ese momento a alguna de las especialidades establecidas en este real decreto.
 
-En coherencia con el contexto normativo en que se encuadran las enseñanzas artísticas superiores y con lo previamente indicado en la parte expositiva de los Reales Decretos 428/2013 y 427/2013, de 14 de junio, citados en el párrafo anterior, sobre la conveniencia de establecer en distintas normas las diferentes especialidades del Cuerpo de Profesores de Música y Artes Escénicas y del Cuerpo de Catedráticos de Música y Artes Escénicas, se establecen en el presente real decreto tanto las especialidades de los mencionados cuerpos que están vinculadas exclusivamente a las enseñanzas de Arte Dramático como aquellas que, de acuerdo con la normativa ya existente, se vinculan además a las enseñanzas de Música y Danza. En este último caso se encuentran, dentro del primero de los cuerpos citados, las especialidades de Lenguaje musical y Piano, y, dentro del segundo, la de Producción y gestión de música y artes escénicas.
-
-Así pues, en virtud de la competencia estatal reconocida por el artículo 149.1.18.ª y 30.ª de la Constitución Española para establecer las bases del régimen jurídico de las Administraciones públicas y el régimen estatutario de los funcionarios, para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y para establecer normas básicas para el desarrollo del artículo 27 de la Constitución, de acuerdo con la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, que atribuye al Gobierno la creación o supresión de las especialidades de los cuerpos docentes, y con el fin de garantizar una enseñanza común de calidad impartida por el profesorado más idóneo, procede establecer las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y definir la asignación de materias que deberá impartir dicho profesorado en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo. Asimismo, teniendo en cuenta que, conforme a lo establecido en la disposición final quinta de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, las modificaciones introducidas en el currículo y la organización de Bachillerato deberán implantarse para el primer curso de la etapa en el curso escolar 2022-2023 y, para el segundo, en el curso siguiente, procede determinar la normativa en la que deberán recogerse las materias de la nueva ordenación que podrán ser impartidas en la modalidad de Artes del Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático, estableciendo al mismo tiempo con carácter transitorio las que, conforme al currículo aún en vigor, corresponderán hasta ese momento a alguna de las especialidades establecidas en este real decreto.
-
-El presente real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático, y pretende garantizar la calidad de la enseñanza a través del profesorado más idóneo. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático, y pretende garantizar la calidad de la enseñanza a través del profesorado más idóneo. De acuerdo con el principio de proporcionalidad contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación, y han emitido informe el Ministerio de Hacienda y Función Pública y el Ministerio de Política Territorial. Asimismo, cuenta con el informe de la Comisión Superior de Personal del Ministerio de Hacienda y Función Pública y con los dictámenes del Consejo Escolar del Estado y del Consejo Superior de Enseñanzas Artísticas.
 
-En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 19 de julio de 2022,
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, con la aprobación previa de la Ministra de Hacienda y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 19 de julio de 2022,
 
 **DISPONGO:**
 
-#### Artículo 1. Objeto.
+#### Artículo 1. Objeto.
 
 1. Este real decreto tiene por objeto establecer las especialidades docentes de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y definir la asignación de materias que deberán impartir en las enseñanzas de Arte Dramático.
 
-2. Asimismo, el real decreto tiene por objeto establecer las materias que podrán ser impartidas en la modalidad de Artes de Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas de las especialidades correspondientes, hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre.
+2. Asimismo, el real decreto tiene por objeto establecer las materias que podrán ser impartidas en la modalidad de Artes de Bachillerato por el Cuerpo de Profesores de Música y Artes Escénicas de las especialidades correspondientes, hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre.
 
-#### Artículo 2. Especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas y del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
+#### Artículo 2. Especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas y del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático.
 
 1. Las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo I.
 
 2. Las especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático son las que se relacionan en el anexo II.
 
-#### Artículo 3. Adscripción del profesorado actual.
+#### Artículo 3. Adscripción del profesorado actual.
 
-Los funcionarios y funcionarias de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas que imparten enseñanzas de Arte Dramático quedan adscritos a las especialidades a que se refiere el artículo 2, de acuerdo con las especialidades de las que fueran titulares, y según las correspondencias que se establecen para cada uno de dichos cuerpos en los anexos III y IV, respectivamente.
+Los funcionarios y funcionarias de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas que imparten enseñanzas de Arte Dramático quedan adscritos a las especialidades a que se refiere el artículo 2, de acuerdo con las especialidades de las que fueran titulares, y según las correspondencias que se establecen para cada uno de dichos cuerpos en los anexos III y IV, respectivamente.
 
 Quienes fueran titulares de alguna de las antiguas especialidades para las que, conforme a los citados anexos, se hubiera establecido más de una correspondencia, quedarán adscritos a todas ellas y podrán acceder indistintamente a las plazas correspondientes a las mismas a través de los mecanismos establecidos para la provisión de puestos de trabajo del personal funcionario docente.
 
-#### Artículo 4. Asignación de materias en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de Educación.
+#### Artículo 4. Asignación de materias en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de Educación.
 
-El personal funcionario de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas de las especialidades establecidas en el presente real decreto impartirá las materias correspondientes a las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de acuerdo con los anexos V y VI.
+El personal funcionario de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas de las especialidades establecidas en el presente real decreto impartirá las materias correspondientes a las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de acuerdo con los anexos V y VI.
 
-#### Artículo 5. Asignación del trabajo de fin de estudios.
+#### Artículo 5. Asignación del trabajo de fin de estudios.
 
 El trabajo de fin de estudios podrá ser dirigido por personal funcionario de los Cuerpos de Profesores y de Catedráticos de Música y Artes Escénicas de cualquiera de las especialidades a las que se refieren los anexos I y II, así como, en su caso, por los catedráticos a los que se refiere la disposición transitoria primera.
 
-#### Artículo 6. Atribución docente.
+#### Artículo 6. Atribución docente.
 
 Las Administraciones educativas, en su desarrollo curricular, determinarán la atribución docente de las materias y asignaturas específicas de sus planes de estudios a los profesores y catedráticos de las diferentes especialidades docentes.
 
-#### Artículo 7. Docencia en el Bachillerato.
+#### Artículo 7. Docencia en el Bachillerato.
 
-Tras la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre, y en aplicación de lo previsto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas podrá impartir las materias de la modalidad de Artes del Bachillerato conforme a lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa. Las Administraciones educativas, en el ámbito de sus competencias, conforme a sus necesidades y en uso de su facultad de organización de centros docentes, podrán determinar la conveniencia de aplicar dicha asignación, sin que esta posibilidad tenga efectos en las plantillas orgánicas de los centros.
+Tras la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre, y en aplicación de lo previsto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas podrá impartir las materias de la modalidad de Artes del Bachillerato conforme a lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa. Las Administraciones educativas, en el ámbito de sus competencias, conforme a sus necesidades y en uso de su facultad de organización de centros docentes, podrán determinar la conveniencia de aplicar dicha asignación, sin que esta posibilidad tenga efectos en las plantillas orgánicas de los centros.
 
-#### Disposición adicional única. Creación de nuevas especialidades.
+#### Disposición adicional única. Creación de nuevas especialidades.
 
 Las Administraciones educativas que tengan previsto establecer en sus currículos materias o asignaturas que puedan suponer la creación de nuevas especialidades, deberán elevar una propuesta al Ministerio de Educación y Formación Profesional, para que el Gobierno, previa consulta a las comunidades autónomas, proceda, en su caso, a su creación.
 
-#### Disposición transitoria primera. Antiguas especialidades no adscritas a las nuevas.
+#### Disposición transitoria primera. Antiguas especialidades no adscritas a las nuevas.
 
-En el caso de que a la entrada en vigor del presente real decreto permaneciesen en ejercicio catedráticos de alguna antigua especialidad para la que no se hubiera establecido correspondencia en el anexo IV, estos continuarán desempeñando las mismas funciones que tenían asignadas, sin perjuicio de que las Administraciones educativas, oídos los interesados, puedan atribuirles temporalmente otras funciones, teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes. Estas atribuciones temporales de funciones no implicarán la adquisición de ninguna nueva especialidad. Asimismo, los catedráticos que se encuentren en esta situación podrán dirigir el trabajo fin de estudios que se realizará en la fase final de las enseñanzas artísticas superiores de Arte Dramático, según se refiere en el artículo 9.4 del Real Decreto 630/2010, de 14 de mayo.
+En el caso de que a la entrada en vigor del presente real decreto permaneciesen en ejercicio catedráticos de alguna antigua especialidad para la que no se hubiera establecido correspondencia en el anexo IV, estos continuarán desempeñando las mismas funciones que tenían asignadas, sin perjuicio de que las Administraciones educativas, oídos los interesados, puedan atribuirles temporalmente otras funciones, teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes. Estas atribuciones temporales de funciones no implicarán la adquisición de ninguna nueva especialidad. Asimismo, los catedráticos que se encuentren en esta situación podrán dirigir el trabajo fin de estudios que se realizará en la fase final de las enseñanzas artísticas superiores de Arte Dramático, según se refiere en el artículo 9.4 del Real Decreto 630/2010, de 14 de mayo.
 
-#### Disposición transitoria segunda. Docencia en las materias de Bachillerato de la modalidad de Artes establecida en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
+#### Disposición transitoria segunda. Docencia en las materias de Bachillerato de la modalidad de Artes establecida en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria Obligatoria y del Bachillerato.
 
-Hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Arte Dramático podrá seguir impartiendo las materias de Artes escénicas, Cultura audiovisual y Fundamentos del arte de la modalidad de Artes del Bachillerato, de acuerdo con la asignación que se establece en el anexo VII, en el marco de lo que hubieran dispuesto al efecto las correspondientes Administraciones educativas.
+Hasta la implantación de la nueva ordenación establecida por la Ley Orgánica 3/2020, de 29 de diciembre, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Arte Dramático podrá seguir impartiendo las materias de Artes escénicas, Cultura audiovisual y Fundamentos del arte de la modalidad de Artes del Bachillerato, de acuerdo con la asignación que se establece en el anexo VII, en el marco de lo que hubieran dispuesto al efecto las correspondientes Administraciones educativas.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
-Queda derogada la disposición transitoria primera del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
+Queda derogada la disposición transitoria primera del Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente real decreto.
 
-#### Disposición final primera. Título competencial.
+#### Disposición final primera. Título competencial.
 
-Este real decreto se dicta al amparo del artículo 149.1.18.ª y 30.ª de la Constitución Española, que reserva al Estado la competencia para establecer las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de los funcionarios, la competencia de regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y la competencia para establecer normas básicas para el desarrollo del artículo 27 de la Constitución.
+Este real decreto se dicta al amparo del artículo 149.1.18.ª y 30.ª de la Constitución Española, que reserva al Estado la competencia para establecer las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de los funcionarios, la competencia de regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y la competencia para establecer normas básicas para el desarrollo del artículo 27 de la Constitución.
 
-#### Disposición final segunda. Entrada en vigor.
+#### Disposición final segunda. Entrada en vigor.
 
-Dado en Madrid, el 19 de julio de 2022.
+Dado en Madrid, el 19 de julio de 2022.
 
 FELIPE R.
 
@@ -137,7 +131,7 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA DEL PILAR ALEGRÍA CONTINENTE
 
-ANEXO I
+## Anexo I
 
 Especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
 
@@ -199,7 +193,7 @@ Especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas v
 
 – Teoría de las artes del espectáculo.
 
-ANEXO II
+## Anexo II
 
 Especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
 
@@ -259,13 +253,13 @@ Especialidades docentes del Cuerpo de Catedráticos de Música y Artes Escénica
 
 – Teoría de las artes del espectáculo.
 
-ANEXO III
+## Anexo III
 
-Adscripción a las nuevas especialidades del profesorado titular de especialidades antiguas del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
+Adscripción a las nuevas especialidades del profesorado titular de especialidades antiguas del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
 
-ANEXO IV
+## Anexo IV
 
-Adscripción a las nuevas especialidades del profesorado titular de especialidades antiguas del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
+Adscripción a las nuevas especialidades del profesorado titular de especialidades antiguas del Cuerpo de Catedráticos de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
 
 Dicción y lectura expresiva.
 
@@ -277,9 +271,9 @@ Teatro infantil.
 
 Sociología del teatro.
 
-ANEXO V
+## Anexo V
 
-Materias que impartirá el Cuerpo de Profesores de Música y Artes Escénicas en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Materias que impartirá el Cuerpo de Profesores de Música y Artes Escénicas en las enseñanzas de Arte Dramático establecidas en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
 Diseño del personaje.
 
@@ -383,9 +377,9 @@ Teorías del espectáculo y la comunicación.
 
 Historia de las artes del espectáculo.
 
-ANEXO VI
+## Anexo VI
 
-Materias que impartirá el Cuerpo de Catedráticos de Música y Artes Escénicas en las enseñanzas de Arte Dramático establecidos en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+Materias que impartirá el Cuerpo de Catedráticos de Música y Artes Escénicas en las enseñanzas de Arte Dramático establecidos en el artículo 55 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación
 
 Diseño del personaje.
 
@@ -483,15 +477,14 @@ Historia de las artes del espectáculo.
 
 Teorías del espectáculo y la comunicación.
 
-ANEXO VII
+## Anexo VII
 
-Asignación de materias de la modalidad de Artes del Bachillerato establecida en el Real Decreto 1105/2014, de 26 de diciembre, a especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
-
----
+Asignación de materias de la modalidad de Artes del Bachillerato establecida en el Real Decreto 1105/2014, de 26 de diciembre, a especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -499,6 +492,7 @@ Asignación de materias de la modalidad de Artes del Bachillerato establecida en
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

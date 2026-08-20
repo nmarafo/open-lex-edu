@@ -1,8 +1,7 @@
 ---
 id: norm-es-lo-1-1982
 codigo_sintetizado: LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad
-titulo: Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor,
-  a la intimidad personal y familiar y a la propia imagen.
+titulo: Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,31 +18,28 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- derecho-honor
-- evaluacion
-- igualdad-genero
-- intimidad-imagen
-- protecci-n-jur-dica-de-menores
-- proteccion-menores
-- titulacion
+  - derecho-honor
+  - evaluacion
+  - igualdad-genero
+  - intimidad-imagen
+  - protecci-n-jur-dica-de-menores
+  - proteccion-menores
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-1995-25444
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-rdl-2-2015
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1995-25444
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-rdl-2-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '18'
+    - '18'
 ---
-
-## Preámbulo
-
 # Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 
-# Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
+## Preámbulo
 
 **DON JUAN CARLOS I, REY DE ESPAÑA**
 
@@ -71,9 +67,9 @@ La definición de las intromisiones o injerencias ilegítimas en el ámbito prot
 
 Por último, la ley fija, en su artículo noveno, de acuerdo con lo prevenido en el artículo cincuenta y tres, dos, de la Constitución, el cauce legal para la defensa frente a las injerencias o intromisiones ilegítimas, así como las pretensiones que podrá deducir el perjudicado. En lo que respecta a la indemnización de perjuicios, se presume que éstos existen en todo caso de injerencias o intromisiones acreditadas, y comprenderán no sólo la de los perjuicios materiales, sino también la de los morales, de especial relevancia en este tipo de actos ilícitos. En tanto no sea regulado el amparo judicial, se considera de aplicación al efecto la Ley de Protección Jurisdiccional de los derechos de la persona de veintiséis de diciembre de mil novecientos setenta y ocho, a cuyo ámbito de protección han quedado incorporados los derechos al honor, a la intimidad personal y familiar y a la propia imagen por la disposición transitoria segunda, dos, de la Ley Orgánica dos/mil novecientos setenta y nueve, de tres de octubre, del Tribunal Constitucional.
 
-CAPITULO PRIMERO
+### Capítulo PRIMERO
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo primero
 
@@ -117,9 +113,7 @@ Uno. Cuando el titular del derecho lesionado fallezca sin haber podido ejercitar
 
 Dos. Las mismas personas podrán continuar la acción ya entablada por el titular del derecho lesionado cuando falleciere.
 
-CAPITULO II
-
-De la protección civil del honor, de la intimidad y de la propia imagen
+## Capítulo II. De la protección civil del honor, de la intimidad y de la propia imagen.
 
 #### Artículo séptimo
 
@@ -165,7 +159,7 @@ Cuatro. El importe de la indemnización por el daño moral, en el caso del artí
 
 Cinco. Las acciones de protección frente a las intromisiones ilegítimas caducarán transcurridos cuatro años desde que el legitimado pudo ejercitarlas.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente Ley Orgánica.
 
@@ -191,15 +185,15 @@ El Presidente del Gobierno,
 
 LEOPOLDO CALVO-SOTELO Y BUSTELO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
 - **Fundamento de**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)

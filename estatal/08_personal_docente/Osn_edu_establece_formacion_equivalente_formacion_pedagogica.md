@@ -1,14 +1,10 @@
 ---
 id: norm-es-2011-15628
 codigo_sintetizado: BOE-A-2011-15628
-titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación
-  equivalente a la formación pedagógica y didáctica exigida para aquellas personas
-  que estando en posesión de una titulación declarada equivalente a efectos de docencia
-  no pueden realizar los estudios de máster.
+titulo: Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2011-10-05'
 boletin: BOE
@@ -19,45 +15,42 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
 tags:
-- bachillerato
-- curriculo
-- ensenanzas-deportivas
-- eso
-- evaluacion
-- formacion-del-profesorado
-- formacion-profesional
-- oposiciones
-- profesorado
-- titulacion
+  - bachillerato
+  - curriculo
+  - ensenanzas-deportivas
+  - eso
+  - evaluacion
+  - formacion-del-profesorado
+  - formacion-profesional
+  - oposiciones
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2002-4371
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-1834-2008
-  - norma_id: norm-es-rd-276-2007
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2002-4371
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-rd-276-2007
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-rd-1834-2008
-- norma_id: norm-es-2002-4371
-- norma_id: norm-es-2007-19326
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2007-5478
-- norma_id: norm-es-rd-276-2007
+    - '1'
+    - '2'
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-2002-4371
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-rd-276-2007
 ---
+# Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
 ## Preámbulo
-
-# Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
-
-# Orden EDU/2645/2011, de 23 de septiembre, por la que se establece la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el artículo 95.1, especifica que para impartir enseñanzas de formación profesional se exigirán los mismos requisitos de titulación y formación establecidos para la educación secundaria obligatoria y el bachillerato, es decir, será necesario tener el título de Licenciado, Ingeniero o Arquitecto, o el título de Grado equivalente, además de la formación pedagógica y didáctica de nivel de Postgrado, de acuerdo con lo dispuesto en el artículo 100 de la citada Ley, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecer el Gobierno para determinados módulos, previa consulta a las Comunidades Autónomas.
 
@@ -65,11 +58,15 @@ Asimismo en el artículo 98.1 se establece que para ejercer la docencia en las e
 
 Por otra parte en la regulación posterior de la formación profesional, en la Disposición adicional décima del Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo, se especifica que en la norma por la que se regule cada título de formación profesional se establecerá a qué especialidades del profesorado del sector público se atribuye la impartición de los módulos profesionales correspondientes, así como las equivalencias a efectos de docencia que en cada caso procedan.
 
-Igualmente para las enseñanzas deportivas, en el artículo 49 del [Real Decreto 1363/2007](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, se regulan los requisitos de titulación del profesorado para los módulos de enseñanza deportiva del bloque común y del bloque específico, considerando las titulaciones que, a efectos de esta docencia, se declaren equivalentes. Junto con la regulación de las correspondientes enseñanzas mínimas de cada modalidad y, en su caso, especialidad deportiva, se indicará la concordancia de titulación del profesorado con el módulo que vaya a impartir, entendiéndose a tales efectos la relación existente entre la titulación que se requiera al profesorado y los contenidos del módulo. Asimismo, se establecerán las titulaciones que a estos efectos se declaren equivalentes.
+Igualmente para las enseñanzas deportivas, en el artículo 49 l [Real.
+
+Decreto 1363/2007](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial, se regulan los requisitos de titulación del profesorado para los módulos de enseñanza deportiva del bloque común y del bloque específico, considerando las titulaciones que, a efectos de esta docencia, se declaren equivalentes. Junto con la regulación de las correspondientes enseñanzas mínimas de cada modalidad y, en su caso, especialidad deportiva, se indicará la concordancia de titulación del profesorado con el módulo que vaya a impartir, entendiéndose a tales efectos la relación existente entre la titulación que se requiera al profesorado y los contenidos del módulo. Asimismo, se establecerán las titulaciones que a estos efectos se declaren equivalentes.
 
 Además en la disposición adicional única del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos de funcionarios docentes a los que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley se especifican las titulaciones declaradas equivalentes a efectos de docencia para el ingreso en determinados cuerpos para las especialidades que se detallan en el anexo VI del citado Real Decreto.
 
-Finalmente en el artículo 9 del [Real Decreto 1834/2008](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, se especifica que para ejercer la docencia en la educación secundara obligatoria, el bachillerato, la formación profesional y la enseñanza de idiomas, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la citada Ley Orgánica, y en la disposición adicional primera se establece que la formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere dicho real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en las condiciones que establezca el Ministerio de Educación. Asimismo en la disposición adicional séptima se establece que los títulos universitarios oficiales de Máster a los que se refiere el artículo 9, acreditan asimismo la formación pedagógica y didáctica que en el artículo 98 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se exige para ejercer la docencia en las enseñanzas deportivas.
+Finalmente en el artículo 9 l [Real.
+
+Decreto 1834/2008](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, se especifica que para ejercer la docencia en la educación secundara obligatoria, el bachillerato, la formación profesional y la enseñanza de idiomas, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por los artículos 94, 95 y 97 de la citada Ley Orgánica, y en la disposición adicional primera se establece que la formación pedagógica y didáctica del profesorado que, por razones derivadas de su titulación, no pueda acceder a los estudios de máster a los que se refiere dicho real decreto, se acreditará mediante una formación equivalente a la exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en las condiciones que establezca el Ministerio de Educación. Asimismo en la disposición adicional séptima se establece que los títulos universitarios oficiales de Máster a los que se refiere el artículo 9, acreditan asimismo la formación pedagógica y didáctica que en el artículo 98 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se exige para ejercer la docencia en las enseñanzas deportivas.
 
 Por todo ello, resulta procedente establecer los requisitos a los que deberán adecuarse los estudios conducentes a la obtención de una certificación oficial que acredite poseer la formación pedagógica y didáctica a la que se refiere el artículo 100.2 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación para aquellas personas que, por razones derivadas de su titulación, no puedan acceder a los estudios de Máster.
 
@@ -77,7 +74,7 @@ En su virtud, previo informe del Consejo Escolar del Estado y de la Conferencia 
 
 #### Artículo 1. Objeto.
 
-Esta orden tiene por objeto establecer la formación equivalente a la formación pedagógica y didáctica exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para aquellas personas que por razones derivadas de su titulación, no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
+Esta orden tiene por objeto establecer la formación equivalente a la formación pedagógica y didáctica exigida en el artículo 100 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para aquellas personas que por razones derivadas de su titulación, no puedan acceder a los estudios de Máster regulados por la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 #### Artículo 2. Certificación oficial de la formación pedagógica y didáctica que habilite para el ejercicio de la docencia.
 
@@ -87,7 +84,7 @@ Esta orden tiene por objeto establecer la formación equivalente a la formación
 
 3. Las Administraciones educativas determinarán las instituciones educativas que pueden ofertar estos estudios.
 
-4. Al superar dichos estudios la Administración educativa correspondiente emitirá un certificado oficial, con validez en todo el territorio nacional, según las especificaciones indicadas en el Anexo I, en el que conste expresamente la posesión de la formación pedagógica y didáctica equivalente a la exigida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+4. Al superar dichos estudios la Administración educativa correspondiente emitirá un certificado oficial, con validez en todo el territorio nacional, según las especificaciones indicadas en el Anexo I, en el que conste expresamente la posesión de la formación pedagógica y didáctica equivalente a la exigida en el artículo 100.2 de la Ley Orgánica 2/2006, de 3 de mayo.
 
 #### Artículo 3. Objetivos.
 
@@ -127,7 +124,9 @@ m) Identificar y ser capaz de dar respuesta a las necesidades del alumnado con d
 
 #### Artículo 5. Planificación de las enseñanzas.
 
-1. Los estudios conducentes a la obtención de esta acreditación tendrán una duración de 60 créditos europeos a los que se refiere el artículo 5 del Real Decreto 1393/2007, de 29 de octubre y será concretada para cada ámbito territorial por la correspondiente Administración educativa, incluyendo los módulos especificados en el Anexo II de la presente Orden.
+1. Los estudios conducentes a la obtención de esta acreditación tendrán una duración de 60 créditos europeos a los que se refiere el artículo 5 l.
+
+Real Decreto 1393/2007, de 29 de octubre y será concretada para cada ámbito territorial por la correspondiente Administración educativa, incluyendo los módulos especificados en el Anexo II de la presente Orden.
 
 2. Los estudios a que se refiere esta Orden se podrán impartir en modalidad presencial o a distancia. En el primero de los supuestos han de ser presenciales los correspondientes al Practicum y al menos el 80 por ciento de los créditos totales. Cuando la formación se imparta a distancia, en todo caso los créditos correspondientes al Practicum habrán de ser presenciales.
 
@@ -161,7 +160,7 @@ Esta orden tiene carácter de norma básica y se dicta al amparo de lo dispuesto
 
 Madrid, 23 de septiembre de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
-ANEXO I
+## Anexo I
 
 Modelo de certificado
 
@@ -191,7 +190,7 @@ ha realizado los estudios correspondientes al programa que figura al dorso, con 
 
 – Firmas del Consejero y del Director de los estudios.
 
-ANEXO II
+## Anexo II
 
 **Módulos para las enseñanzas de Formación Profesional**
 
@@ -349,11 +348,10 @@ Trabajo final de estudios
 
 Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo final de estudios que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
 - **Fundamentado en**: [**BOE-A-2007-19326**](../03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md)
 - **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
@@ -364,6 +362,7 @@ Estas competencias, junto con las propias del resto de materias, quedarán refle
 - **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
 - [**BOE-A-2002-4371**](../03_ordenacion_curricular_y_ensenanzas/RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)

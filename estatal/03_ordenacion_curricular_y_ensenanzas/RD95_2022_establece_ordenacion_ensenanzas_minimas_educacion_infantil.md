@@ -1,12 +1,10 @@
 ---
 id: norm-es-rd-95-2022
 codigo_sintetizado: RD95_2022 Ensenanzas Minimas de Educacion Infantil
-titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación
-  y las enseñanzas mínimas de la Educación Infantil.
+titulo: Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 95/2022
 fecha_disposicion: '2022-02-01'
@@ -20,54 +18,51 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- curriculo
-- educaci-n-infantil
-- educacion-infantil
-- ensenanzas-artisticas
-- ensenanzas-minimas
-- evaluacion
-- inclusiva
-- neae
-- oposiciones
-- ordenacion-infantil
-- proteccion-menores
-- titulacion
+  - curriculo
+  - educaci-n-infantil
+  - educacion-infantil
+  - ensenanzas-artisticas
+  - ensenanzas-minimas
+  - evaluacion
+  - inclusiva
+  - neae
+  - oposiciones
+  - ordenacion-infantil
+  - proteccion-menores
+  - titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
   desarrollado_por:
-  - norma_id: norm-can-d-196-2022
+    - norma_id: norm-can-d-196-2022
   fundamento_de: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '6.2'
-  - '14'
-  - '15'
-- norma_id: norm-es-ce-1978
+    - '6.2'
+    - '14'
+    - '15'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
 
 ## Preámbulo
 
-# Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
-# Real Decreto 95/2022 - Ordenación y Enseñanzas Mínimas de la Educación Infantil
-
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
-
-Atendiendo a este enfoque, el título preliminar del nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye, entre los principios y fines de la educación, el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
+Atendiendo a este enfoque, el título preliminar del nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incluye, entre los principios y fines de la educación, el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
 Al mismo tiempo, la ley reformula, en primer lugar, la definición de currículo, enumerando los elementos que lo integran y señalando a continuación que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándolos para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso esta configuración pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación. En consonancia con esta visión, la ley, manteniendo el enfoque competencial que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.
 
@@ -75,63 +70,61 @@ Asimismo, se modifica la anterior distribución de competencias entre el Estado 
 
 Con relación a la Educación Infantil, el nuevo texto incorpora a la ordenación y a los principios pedagógicos de la etapa el respeto a la específica cultura de la infancia que definen la Convención sobre los Derechos del Niño y las Observaciones Generales de su Comité.
 
-En desarrollo de lo anteriormente expuesto, el objeto de este real decreto es establecer las enseñanzas mínimas de la Educación Infantil, entendida como una etapa educativa única, con identidad propia y organizada en dos ciclos que responden ambos a una misma intencionalidad educativa. Partiendo de esta visión de conjunto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, y recogiendo al mismo tiempo el mandato del artículo 14.7, que por primera vez encomienda al Gobierno, en colaboración con las comunidades autónomas, la definición de los contenidos educativos del currículo del primer ciclo, este real decreto define los objetivos, fines y principios generales y pedagógicos del conjunto de la etapa, así como las competencias clave cuyo desarrollo deberá iniciarse desde el comienzo mismo de la escolarización. Además, para cada una de las áreas, se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los saberes básicos establecidos para cada ciclo.
+En desarrollo de lo anteriormente expuesto, el objeto de este real decreto es establecer las enseñanzas mínimas de la Educación Infantil, entendida como una etapa educativa única, con identidad propia y organizada en dos ciclos que responden ambos a una misma intencionalidad educativa. Partiendo de esta visión de conjunto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, y recogiendo al mismo tiempo el mandato del artículo 14.7, que por primera vez encomienda al Gobierno, en colaboración con las comunidades autónomas, la definición de los contenidos educativos del currículo del primer ciclo, este real decreto define los objetivos, fines y principios generales y pedagógicos del conjunto de la etapa, así como las competencias clave cuyo desarrollo deberá iniciarse desde el comienzo mismo de la escolarización. Además, para cada una de las áreas, se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los saberes básicos establecidos para cada ciclo.
 
 Por otra parte, con carácter meramente orientativo y con el fin de facilitar al profesorado su propia práctica, se propone una definición de situación de aprendizaje y se establecen principios para su diseño.
 
 Por último, se incluyen en esta norma otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la evaluación, la atención a las diferencias individuales y la autonomía de los centros.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Infantil conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Infantil conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
-El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. De acuerdo con la jurisprudencia constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la jurisprudencia del Tribunal constitucional, es posible la intervención excepcional del reglamento en la delimitación de lo básico, entre otros supuestos, cuando la utilización del reglamento resulte justificada por el carácter marcadamente técnico de la materia.
+El presente real decreto tiene carácter de norma básica y se dicta, al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución, para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. De acuerdo con la jurisprudencia constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la jurisprudencia del Tribunal constitucional, es posible la intervención excepcional del reglamento en la delimitación de lo básico, entre otros supuestos, cuando la utilización del reglamento resulte justificada por el carácter marcadamente técnico de la materia.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
-En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de febrero de 2022,
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de febrero de 2022,
 
 **DISPONGO:**
 
-#### Artículo 1. Objeto.
+#### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Educación Infantil.
 
-#### Artículo 2. Definiciones.
+#### Artículo 2. Definiciones A efectos de este real decreto, se entenderá por:.
 
-A efectos de este real decreto, se entenderá por:
+a) **Objetivos.** Logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 
-a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
+b) **Competencias clave.** Desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente.
 
-b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente.
+c) **Competencias específicas.** Desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave y, por otra, los saberes básicos de las áreas y los criterios de evaluación.
 
-c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave y, por otra, los saberes básicos de las áreas y los criterios de evaluación.
+d) **Criterios de evaluación.** Referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
 
-d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
+e) **Saberes básicos.** Conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
 
-e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+f) **Situaciones de aprendizaje.** Situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
 
-f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
-
-#### Artículo 3. La etapa de Educación Infantil en el marco del sistema educativo.
+#### Artículo 3. La etapa de Educación Infantil en el marco del sistema educativo.
 
 1. La Educación Infantil constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el nacimiento hasta los seis años de edad.
 
 2. Esta etapa se ordena en dos ciclos. El primero comprende hasta los tres años y el segundo, desde los tres a los seis años de edad.
 
-#### Artículo 4. Fines.
+#### Artículo 4. Fines.
 
 La finalidad de la Educación Infantil es contribuir al desarrollo integral y armónico del alumnado en todas sus dimensiones: física, emocional, sexual, afectiva, social, cognitiva y artística, potenciando la autonomía personal y la creación progresiva de una imagen positiva y equilibrada de sí mismos, así como a la educación en valores cívicos para la convivencia.
 
-#### Artículo 5. Principios generales.
+#### Artículo 5. Principios generales.
 
 1. La Educación Infantil tiene carácter voluntario.
 
-2. El segundo ciclo de esta etapa educativa será gratuito. En el marco del plan que, conforme a lo previsto en la disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deberá establecer el Gobierno en colaboración con las administraciones educativas, se tenderá a la progresiva implantación del primer ciclo mediante una oferta pública suficiente y a la extensión de su gratuidad, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social y la situación de baja tasa de escolarización.
+2. El segundo ciclo de esta etapa educativa será gratuito. En el marco del plan que, conforme a lo previsto en la disposición adicional tercera de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, deberá establecer el Gobierno en colaboración con las administraciones educativas, se tenderá a la progresiva implantación del primer ciclo mediante una oferta pública suficiente y a la extensión de su gratuidad, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social y la situación de baja tasa de escolarización.
 
 3. Con el objetivo de garantizar los principios de equidad e inclusión, la programación, la gestión y el desarrollo de la Educación Infantil atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo.
 
 4. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje.
 
-#### Artículo 6. Principios pedagógicos.
+#### Artículo 6. Principios pedagógicos.
 
 1. La práctica educativa en esta etapa buscará desarrollar y asentar progresivamente las bases que faciliten el máximo desarrollo de cada niño y de cada niña.
 
@@ -149,27 +142,27 @@ La finalidad de la Educación Infantil es contribuir al desarrollo integral y ar
 
 8. Corresponde a las administraciones educativas fomentar una primera aproximación a la lengua extranjera en los aprendizajes del segundo ciclo de la Educación Infantil, especialmente en el último año.
 
-#### Artículo 7. Objetivos.
+#### Artículo 7. Objetivos.
 
 La Educación Infantil contribuirá a desarrollar en los niños y las niñas las capacidades que les permitan:
 
-a) Conocer su propio cuerpo y el de los otros, así como sus posibilidades de acción y aprender a respetar las diferencias.
+a) Conocer su propio cuerpo y el de los otros, así como sus posibilidades de acción y aprender a respetar las diferencias.
 
-b) Observar y explorar su entorno familiar, natural y social.
+b) Observar y explorar su entorno familiar, natural y social.
 
-c) Adquirir progresivamente autonomía en sus actividades habituales.
+c) Adquirir progresivamente autonomía en sus actividades habituales.
 
-d) Desarrollar sus capacidades emocionales y afectivas.
+d) Desarrollar sus capacidades emocionales y afectivas.
 
-e) Relacionarse con los demás en igualdad y adquirir progresivamente pautas elementales de convivencia y relación social, así como ejercitarse en el uso de la empatía y la resolución pacífica de conflictos, evitando cualquier tipo de violencia.
+e) Relacionarse con los demás en igualdad y adquirir progresivamente pautas elementales de convivencia y relación social, así como ejercitarse en el uso de la empatía y la resolución pacífica de conflictos, evitando cualquier tipo de violencia.
 
-f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de expresión.
+f) Desarrollar habilidades comunicativas en diferentes lenguajes y formas de expresión.
 
-g) Iniciarse en las habilidades lógico-matemáticas, en la lectura y la escritura, y en el movimiento, el gesto y el ritmo.
+g) Iniciarse en las habilidades lógico-matemáticas, en la lectura y la escritura, y en el movimiento, el gesto y el ritmo.
 
-h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres.
+h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres.
 
-#### Artículo 8. Áreas.
+#### Artículo 8. Áreas.
 
 1. Los contenidos educativos de la Educación Infantil se organizan en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil y se abordarán por medio de propuestas globalizadas de aprendizaje que tengan interés y significado para los niños y las niñas.
 
@@ -183,7 +176,7 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 3. Estas áreas deben entenderse como ámbitos de experiencia intrínsecamente relacionados entre sí, por lo que se requerirá un planteamiento educativo que promueva la configuración de situaciones de aprendizaje globales, significativas y estimulantes que ayuden a establecer relaciones entre todos los elementos que las conforman.
 
-#### Artículo 9. Competencias, criterios de evaluación y saberes básicos.
+#### Artículo 9. Competencias, criterios de evaluación y saberes básicos.
 
 1. En el anexo I de este real decreto se establecen las competencias clave de la etapa.
 
@@ -191,7 +184,7 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 3. Para la adquisición y desarrollo de las competencias a las que se refieren los apartados anteriores, el equipo educativo diseñará situaciones de aprendizaje, de acuerdo a los principios que, con carácter orientativo, se establecen en el anexo III y en los términos que dispongan las administraciones educativas.
 
-#### Artículo 10. Currículo.
+#### Artículo 10. Currículo.
 
 1. Las administraciones educativas establecerán el currículo de toda la etapa de Educación Infantil, del que formarán parte, en todo caso, las enseñanzas mínimas fijadas en este real decreto para el segundo ciclo de la etapa.
 
@@ -199,13 +192,13 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 3. El profesorado y el resto de profesionales que atienden a los niños y las niñas adaptarán a dichas concreciones su propia práctica educativa, basándose en el Diseño Universal para el Aprendizaje y de acuerdo con las características de esta etapa educativa y las necesidades colectivas e individuales de su alumnado.
 
-#### Artículo 11. Horario.
+#### Artículo 11. Horario.
 
 1. El horario en la etapa de Educación Infantil se entenderá como la distribución en secuencias temporales de las actividades que se realizan en los distintos días de la semana, teniendo en cuenta que todos los momentos de la jornada tienen carácter educativo.
 
 2. El horario escolar se organizará desde un enfoque globalizador e incluirá propuestas de aprendizaje que permitan alternar diferentes tipos y ritmos de actividad con periodos de descanso en función de las necesidades del alumnado.
 
-#### Artículo 12. Evaluación.
+#### Artículo 12. Evaluación.
 
 1. La evaluación será global, continua y formativa. La observación directa y sistemática constituirá la técnica principal del proceso de evaluación.
 
@@ -215,7 +208,7 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 4. Los padres, las madres, los tutores y las tutoras legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, así como conocer las decisiones relativas a la evaluación y colaborar en las medidas que adopten los centros para facilitar su progreso educativo.
 
-#### Artículo 13. Atención a las diferencias individuales.
+#### Artículo 13. Atención a las diferencias individuales.
 
 1. La atención individualizada constituirá la pauta ordinaria de la acción educativa del profesorado y demás profesionales de la educación.
 
@@ -229,11 +222,11 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 6. Las administraciones educativas podrán incorporar a su oferta educativa las lenguas de signos españolas.
 
-#### Artículo 14. Autonomía de los centros.
+#### Artículo 14. Autonomía de los centros.
 
 1. Las administraciones educativas fomentarán la autonomía pedagógica y organizativa de los centros, favorecerán el trabajo en equipo del profesorado y su actividad investigadora a partir de la práctica educativa.
 
-2. En el marco de lo que dispongan las administraciones educativas, todos los centros que impartan Educación Infantil deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el artículo 10.2, que recogerá el carácter educativo de uno y otro ciclo.
+2. En el marco de lo que dispongan las administraciones educativas, todos los centros que impartan Educación Infantil deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el artículo 10.2, que recogerá el carácter educativo de uno y otro ciclo.
 
 3. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas de todo el alumnado, se reflejará en el desarrollo curricular la necesaria continuidad entre esta etapa y la Educación Primaria, lo que requerirá la estrecha coordinación entre el profesorado de ambas etapas. A tal fin, al finalizar la etapa, el tutor o la tutora emitirá un informe sobre el desarrollo y las necesidades de cada alumno o alumna.
 
@@ -241,9 +234,9 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 5. Con objeto de respetar la responsabilidad fundamental de las madres, padres, tutoras o tutores legales, en esta etapa, los centros de Educación Infantil cooperarán estrechamente con ellos, para lo cual arbitrarán las medidas correspondientes.
 
-#### Disposición adicional primera. Enseñanzas de religión.
+#### Disposición adicional primera. Enseñanzas de religión.
 
-1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+1. Las enseñanzas de religión se incluirán en el segundo ciclo de la Educación Infantil, de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 2. Las administraciones educativas garantizarán que, al inicio del curso, los padres, las madres, los tutores o las tutoras de los alumnos y las alumnas puedan manifestar su voluntad de que reciban o no enseñanzas de religión.
 
@@ -251,41 +244,41 @@ h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualda
 
 4. La determinación del currículo de las enseñanzas de religión católica y de las diferentes confesiones religiosas con las que el Estado ha suscrito acuerdos de cooperación en materia educativa será competencia, respectivamente, de la jerarquía eclesiástica y de las correspondientes autoridades religiosas.
 
-#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
+#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán establecer el uso de metodologías de aprendizaje integrado de contenidos y lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado desarrolle de manera equilibrada su competencia en las distintas lenguas.
 
-2. El hecho de que los centros impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
+2. El hecho de que los centros impartan sus enseñanzas conforme a lo previsto en el apartado anterior en ningún caso podrá suponer modificación de los criterios para la admisión del alumnado establecidos en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-#### Disposición transitoria única. Aplicación del Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil.
+#### Disposición transitoria única. Aplicación del Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil.
 
-El Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022.
+El Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, mantendrá sus efectos y será de aplicación hasta el fin del curso escolar 2021-2022.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, sin perjuicio de lo establecido en la disposición transitoria única de este real decreto.
+1. Queda derogado el Real Decreto 1630/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas del segundo ciclo de Educación infantil, sin perjuicio de lo establecido en la disposición transitoria única de este real decreto.
 
 2. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-#### Disposición final primera. Título competencial.
+#### Disposición final primera. Título competencial.
 
-El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 Los criterios de evaluación y los saberes básicos del primer ciclo, recogidos en el anexo II, carecen de carácter de normativa básica y son orientativos para el logro de las competencias de la etapa.
 
 El anexo III carece del carácter de normativa básica.
 
-#### Disposición final segunda. Aplicación.
+#### Disposición final segunda. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
 
-#### Disposición final tercera. Calendario de implantación.
+#### Disposición final tercera. Calendario de implantación.
 
-El contenido del presente real decreto se implantará en el curso escolar 2022-2023.
+El contenido del presente real decreto se implantará en el curso escolar 2022-2023.
 
-#### Disposición final cuarta. Entrada en vigor.
+#### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 1 de febrero de 2022.
+Dado en Madrid, el 1 de febrero de 2022.
 
 FELIPE R.
 
@@ -293,11 +286,11 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA DEL PILAR ALEGRÍA CONTINENTE
 
-ANEXO I
+## Anexo I
 
 Competencias clave de la Educación Infantil
 
-La etapa de Educación Infantil supone el inicio del proceso de adquisición de las competencias clave para el aprendizaje permanente que aparecen recogidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018. En este real decreto, estas competencias clave han sido adaptadas al contexto escolar, así como a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Dichas competencias son las siguientes:
+La etapa de Educación Infantil supone el inicio del proceso de adquisición de las competencias clave para el aprendizaje permanente que aparecen recogidas en la Recomendación del Consejo de la Unión Europea de 22 de mayo de 2018. En este real decreto, estas competencias clave han sido adaptadas al contexto escolar, así como a los principios y fines del sistema educativo establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Dichas competencias son las siguientes:
 
 – Competencia en comunicación lingüística.
 
@@ -317,9 +310,9 @@ La etapa de Educación Infantil supone el inicio del proceso de adquisición de 
 
 De acuerdo con lo expresado en la Recomendación, no existe jerarquía entre las distintas competencias, ya que se consideran todas igualmente importantes. Tampoco se establecen entre ellas límites diferenciados, sino que se solapan y entrelazan. Tienen, por tanto, carácter transversal: ninguna se corresponde directa y unívocamente con una única área; y todas se adquieren y desarrollan a partir de los aprendizajes que se producen en las distintas áreas. Este carácter transversal de las competencias favorece el enfoque globalizado propio de la etapa de Educación Infantil.
 
-Se espera que la adquisición de estas competencias a lo largo de su escolarización permita al alumnado prepararse para afrontar con éxito los principales retos del siglo XXI: planificar hábitos de vida saludables, proteger el medioambiente, resolver conflictos de forma pacífica, actuar como consumidores responsables, usar de manera ética y eficaz las tecnologías, promover la igualdad de género, manejar la ansiedad que genera la incertidumbre, identificar situaciones de inequidad y desarrollar sentimientos de empatía, cooperar y convivir en sociedades abiertas y cambiantes, aceptar la discapacidad, apreciar el valor de la diversidad, formar parte de un proyecto colectivo y adquirir confianza en el conocimiento como motor del desarrollo. La respuesta a estos y otros desafíos –entre los que existe una absoluta interdependencia– necesita de los conocimientos, destrezas y actitudes que subyacen a las competencias clave y son abordados de manera global desde todas las áreas que conforman la etapa.
+Se espera que la adquisición de estas competencias a lo largo de su escolarización permita al alumnado prepararse para afrontar con éxito los principales retos del siglo XXI: planificar hábitos de vida saludables, proteger el medioambiente, resolver conflictos de forma pacífica, actuar como consumidores responsables, usar de manera ética y eficaz las tecnologías, promover la igualdad de género, manejar la ansiedad que genera la incertidumbre, identificar situaciones de inequidad y desarrollar sentimientos de empatía, cooperar y convivir en sociedades abiertas y cambiantes, aceptar la discapacidad, apreciar el valor de la diversidad, formar parte de un proyecto colectivo y adquirir confianza en el conocimiento como motor del desarrollo. La respuesta a estos y otros desafíos –entre los que existe una absoluta interdependencia– necesita de los conocimientos, destrezas y actitudes que subyacen a las competencias clave y son abordados de manera global desde todas las áreas que conforman la etapa.
 
-Por esta razón, en la elaboración de las enseñanzas mínimas de la Educación Infantil, se ha adoptado una visión estructural y funcional de las competencias clave, en la que sus tres dimensiones –la cognitiva o conocimientos, la instrumental o destrezas y la actitudinal o actitudes– se integran en acciones concretas para resolver de manera eficaz una tarea significativa y contextualizada orientada al desarrollo integral de niños y niñas, respondiendo así al objetivo establecido para la etapa en la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+Por esta razón, en la elaboración de las enseñanzas mínimas de la Educación Infantil, se ha adoptado una visión estructural y funcional de las competencias clave, en la que sus tres dimensiones –la cognitiva o conocimientos, la instrumental o destrezas y la actitudinal o actitudes– se integran en acciones concretas para resolver de manera eficaz una tarea significativa y contextualizada orientada al desarrollo integral de niños y niñas, respondiendo así al objetivo establecido para la etapa en la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
 Con este mismo objetivo, entre las competencias se han incorporado destrezas esenciales, como el pensamiento crítico, la resolución de problemas, el trabajo en equipo, las destrezas de comunicación y negociación, las destrezas analíticas, la creatividad y las destrezas interculturales. Estas facilitan a niños y niñas el descubrimiento, el conocimiento y la comprensión de su realidad, que abarca, entre otros, el entorno y los objetos, las organizaciones y relaciones sociales, los distintos lenguajes para comunicar de una manera respetuosa y creativa sus ideas, intenciones o vivencias.
 
@@ -367,13 +360,13 @@ Competencia en conciencia y expresión culturales
 
 Para que los niños y las niñas construyan y enriquezcan su identidad, se fomenta en esta etapa la expresión creativa de ideas, sentimientos y emociones a través de diversos lenguajes y distintas formas artísticas. Asimismo, se ayuda al desarrollo de la conciencia cultural y del sentido de pertenencia a la sociedad a través de un primer acercamiento a las manifestaciones culturales y artísticas.
 
-ANEXO II
+## Anexo II
 
 Áreas de la Educación Infantil
 
 La necesidad de sistematizar y planificar la actividad educativa aconseja la organización del currículo de la etapa en tres áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil: Crecimiento en Armonía; Descubrimiento y Exploración del Entorno, y Comunicación y Representación de la Realidad. Estas tres áreas participan en todos los aprendizajes y contribuyen al desarrollo de todas las competencias clave establecidas en el anexo I de este real decreto, así como a la consecución de los objetivos de la etapa.
 
-En cada área se proponen unas competencias específicas comunes para los dos ciclos de la etapa. Para la formulación de estas competencias específicas se han tenido en cuenta las competencias clave de la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente en su vinculación con los retos y desafíos del siglo XXI, lo que conecta con el enfoque competencial del currículo: la meta no es la mera adquisición de saberes, sino el desarrollo integral de niños y niñas, que deben aprender a movilizar lo aprendido para solucionar necesidades reales.
+En cada área se proponen unas competencias específicas comunes para los dos ciclos de la etapa. Para la formulación de estas competencias específicas se han tenido en cuenta las competencias clave de la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente en su vinculación con los retos y desafíos del siglo XXI, lo que conecta con el enfoque competencial del currículo: la meta no es la mera adquisición de saberes, sino el desarrollo integral de niños y niñas, que deben aprender a movilizar lo aprendido para solucionar necesidades reales.
 
 Para cada área y ciclo se establecen también los criterios de evaluación. Dado el propio carácter de la etapa, estos criterios de evaluación no tienen valor acreditativo, pero sirven como referentes para identificar el ritmo y las características del progreso que se va produciendo, y proporcionan una valiosa información para desarrollar la labor de prevención, detección e intervención, determinante en edades tempranas. Asimismo, en cada área se incluyen los saberes básicos que los niños y las niñas deben integrar y movilizar al finalizar cada ciclo, para poder desplegar las actuaciones a las que refieren las competencias específicas en el grado de adquisición esperado en los mencionados criterios de evaluación.
 
@@ -381,7 +374,7 @@ La división en áreas no implica que la realidad se presente en el aula de mane
 
 La inclusión en el aula de alumnado con necesidades específicas de apoyo educativo acerca a los niños y niñas a la diversidad de formas de ser y estar en el mundo y les ayuda a observar cómo actúan las personas que deben desenvolverse de un modo diferente al que ellos consideran habitual. Un aula inclusiva da cabida a diferentes posibilidades y limitaciones, a distintos modos de lenguaje y comunicación, a diversas formas de movilidad y a múltiples maneras de acercarse y comprender el entorno. La convivencia mutua enriquece a todas las personas, desarrolla una sociedad más justa y tolerante en la que las diferencias no se conciben como un impedimento, sino como una oportunidad de crecimiento personal y social para toda la comunidad educativa.
 
-Área 1. Crecimiento en Armonía
+Área 1. Crecimiento en Armonía
 
 El área Crecimiento en Armonía se centra en las dimensiones personal y social del niño o la niña, entendidas como inseparables y complementarias, que se desarrollan y regulan de manera progresiva, conjunta y armónica, aunque solo adquiere sentido desde la complementariedad con las otras dos, ya que se produce en un entorno físico y natural determinado y precisa de la utilización de distintos lenguajes y representaciones de la realidad.
 
@@ -443,7 +436,7 @@ El reconocimiento y aprecio hacia la pluralidad sociocultural del aula se debe f
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Adecuar sus acciones y reacciones a cada situación, en una interacción lúdica y espontánea con el entorno, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad.
 
@@ -453,7 +446,7 @@ Competencia específica 1.
 
 1.4 Adquirir nociones temporales básicas para ubicarse en el tiempo a través de las actividades y rutinas de la vida cotidiana, así como de otros acontecimientos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar emociones y sentimientos desarrollando de manera progresiva la conciencia emocional y estrategias de regulación emocional.
 
@@ -461,13 +454,13 @@ Competencia específica 2.
 
 2.3 Afrontar pequeñas adversidades manifestando actitudes de superación, así como solicitando y prestando ayuda.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Incorporar estrategias y hábitos relacionados con el cuidado del entorno y el autocuidado, manifestando satisfacción por los beneficios que le aportan.
 
 3.2 Reconocer y anticipar la sucesión temporal de actividades, ritmos biológicos y pautas socioculturales que estructuran la dinámica cotidiana, asociándola a elementos, procedimientos y actitudes concretas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Establecer vínculos y relaciones de apego saludables, demostrando actitudes de afecto y empatía hacia las demás personas y respetando los distintos ritmos individuales.
 
@@ -543,7 +536,7 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento.
 
@@ -553,7 +546,7 @@ Competencia específica 1.
 
 1.4 Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Identificar y expresar sus necesidades y sentimientos, ajustando progresivamente el control de sus emociones.
 
@@ -561,13 +554,13 @@ Competencia específica 2.
 
 2.3 Expresar inquietudes, gustos y preferencias, mostrando satisfacción y seguridad sobre los logros conseguidos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
 
 3.2 Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y de empatía, respetando los distintos ritmos individuales y evitando todo tipo de discriminación.
 
@@ -651,7 +644,7 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 – Celebraciones, costumbres y tradiciones. Herramientas para el aprecio de las señas de identidad étnico-cultural presentes en su entorno.
 
-Área 2. Descubrimiento y Exploración del Entorno
+Área 2. Descubrimiento y Exploración del Entorno
 
 Con esta área se pretende favorecer el proceso de descubrimiento, observación y exploración de los elementos físicos y naturales del entorno, concibiendo este como un elemento provocador de emociones y sorpresas, y tratando de que, junto con su progresivo conocimiento, niños y niñas vayan adoptando y desarrollando actitudes de respeto y valoración sobre la necesidad de cuidarlo y protegerlo.
 
@@ -693,7 +686,7 @@ Este proceso de descubrimiento y conocimiento progresivo del entorno deberá ori
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Relacionar objetos a partir de sus cualidades o atributos básicos, mostrando curiosidad e interés.
 
@@ -701,13 +694,13 @@ Competencia específica 1.
 
 1.3 Aplicar sus conocimientos acerca de las nociones espaciales básicas para ubicarse en los espacios, tanto en reposo como en movimiento, jugando con el propio cuerpo y con los objetos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Gestionar las dificultades, retos y problemas con interés e iniciativa, mediante su división en secuencias de actividades más sencillas.
 
 2.2 Proponer soluciones y alternativas a través de distintas estrategias, escuchando y respetando las de los demás.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Interesarse por las actividades en contacto con la naturaleza y las características de los elementos naturales del entorno, mostrando respeto hacia ellos y hacia los animales que lo habitan.
 
@@ -755,7 +748,7 @@ C. Indagación en el medio físico y natural: cuidado, valoración y respeto.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.
 
@@ -767,7 +760,7 @@ Competencia específica 1.
 
 1.5 Organizar su actividad, ordenando las secuencias y utilizando las nociones temporales básicas.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y la cooperación con sus iguales.
 
@@ -781,7 +774,7 @@ Competencia específica 2.
 
 2.6 Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
 
@@ -835,7 +828,7 @@ C. Indagación en el medio físico y natural. Cuidado, valoración y respeto.
 
 – Respeto por el patrimonio cultural presente en el medio físico.
 
-Área 3. Comunicación y Representación de la Realidad
+Área 3. Comunicación y Representación de la Realidad
 
 Los diferentes lenguajes y formas de expresión que se recogen en esta área contribuyen al desarrollo integral y armónico de niños y niñas, y deben abordarse de manera global e integrada con las otras dos áreas, mediante el diseño de situaciones de aprendizaje en las que puedan utilizar diferentes formas de comunicación y representación en contextos significativos y funcionales. Se pretende desarrollar en niños y niñas las capacidades que les permitan comunicarse a través de diferentes lenguajes y formas de expresión como medio para construir su identidad, representar la realidad y relacionarse con las demás personas.
 
@@ -877,7 +870,7 @@ Estas interacciones comunicativas fomentarán también la adquisición progresiv
 
 2. Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.
 
-La comprensión supone recibir y procesar información en distintos ámbitos y formatos, expresada a través de mensajes variados (orales, escritos, multimodales…), representaciones y manifestaciones personales, sociales, culturales y artísticas próximas al interés o a la necesidad personal.
+La comprensión supone recibir y procesar información en distintos ámbitos y formatos, expresada a través de mensajes variados (orales, escritos, multimodales…), representaciones y manifestaciones personales, sociales, culturales y artísticas próximas al interés o a la necesidad personal.
 
 La comprensión implica interpretar mensajes, analizarlos y dar respuesta a los estímulos percibidos. Para ello, el alumnado de esta etapa irá adquiriendo y activando distintas estrategias para desarrollar la capacidad de realizar anticipaciones, aproximaciones e inferencias de una manera cada vez más personal y creativa. De esta forma, podrá comprender los mensajes y las intenciones comunicativas de otras personas e irá construyendo nuevos significados y aprendizajes, progresando desde el acompañamiento y la mediación hacia un determinado grado de autonomía y conocimiento del mundo.
 
@@ -903,7 +896,7 @@ De todo ello se espera que surja un diálogo lleno de matices entre las diferent
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Participar con interés en interacciones cotidianas, utilizando diferentes sistemas comunicativos.
 
@@ -915,13 +908,13 @@ Competencia específica 1.
 
 1.5 Participar en situaciones de uso de diferentes lenguas, manifestando interés y curiosidad hacia la diversidad de perfiles lingüísticos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Interpretar los estímulos y mensajes del entorno, reaccionando de manera adecuada.
 
 2.2 Expresar sensaciones, sentimientos y emociones a partir de distintas representaciones y manifestaciones artísticas y culturales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Utilizar el lenguaje oral para expresar y compartir necesidades, sentimientos, deseos, emociones, vivencias, regulando las acciones e interactuando en diferentes situaciones y contextos.
 
@@ -929,13 +922,13 @@ Competencia específica 3.
 
 3.3 Producir mensajes, ampliando y enriqueciendo su repertorio comunicativo con seguridad y confianza.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar en actividades lúdicas de aproximación al lenguaje escrito, mostrando una actitud activa.
 
 4.2 Recurrir a escrituras indeterminadas, espontáneas y no convencionales, incorporándolas a sus producciones con intención comunicativa.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Relacionarse con naturalidad en la realidad lingüística y cultural del aula.
 
@@ -1025,7 +1018,7 @@ H. El lenguaje y la expresión corporales.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.
 
@@ -1035,13 +1028,13 @@ Competencia específica 1.
 
 1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás.
 
 2.2 Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.
 
@@ -1057,7 +1050,7 @@ Competencia específica 3.
 
 3.7 Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa.
 
@@ -1065,7 +1058,7 @@ Competencia específica 4.
 
 4.3 Recurrir a la biblioteca como fuente de información y disfrute, respetando sus normas de uso.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Relacionarse de forma respetuosa en la pluralidad lingüística y cultural de su entorno, manifestando interés por otras lenguas, etnias y culturas.
 
@@ -1135,7 +1128,7 @@ E. Aproximación a la educación literaria.
 
 F. El lenguaje y la expresión musicales.
 
-– Posibilidades sonoras, expresivas y creativas de la voz, el cuerpo, los objetos cotidianos de su entorno y los instrumentos.
+– Posibilidades sonoras, expresivas y creativas de la voz, el cuerpo, los objetos cotidianos de su entorno y los instrumentos.
 
 – Propuestas musicales en distintos formatos.
 
@@ -1167,9 +1160,9 @@ I. Alfabetización digital.
 
 – Lectura e interpretación crítica de imágenes e información recibida a través de medios digitales.
 
-– Función educativa de los dispositivos y elementos tecnológicos de su entorno.
+– Función educativa de los dispositivos y elementos tecnológicos de su entorno.
 
-ANEXO III
+## Anexo III
 
 Situaciones de aprendizaje
 
@@ -1179,11 +1172,10 @@ Las situaciones de aprendizaje deben plantear un reto o problema de cierta compl
 
 Estas situaciones favorecerán la transferencia de los aprendizajes adquiridos a la resolución de un problema de la realidad cotidiana del niño o la niña, en función de su progreso madurativo. En su diseño, se debe favorecer el desarrollo progresivo de un enfoque crítico y reflexivo, así como el abordaje de aspectos relacionados con el interés común, la sostenibilidad, el respeto a la diferencia o la convivencia, iniciándose en la gestión de las posibles situaciones de conflicto mediante el diálogo y el consenso. De igual modo, se deben tener en cuenta las condiciones personales, sociales o culturales de niños y niñas, para detectar y dar respuesta a los elementos que pudieran generar exclusión.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -1192,6 +1184,7 @@ Estas situaciones favorecerán la transferencia de los aprendizajes adquiridos a
 - **Desarrollado por**: [**D196_2022 Ordenacion y Curriculo de Educacion Infantil en Canarias**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_establece_ordenacion_curriculo_educacion_infantil_comunidad.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2007-6115
 codigo_sintetizado: BOE-A-2007-6115
-titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
-  y hombres.
+titulo: Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2007-03-23'
 boletin: BOE
@@ -17,44 +15,43 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- equipos-directivos
-- evaluacion
-- igualdad-de-g-nero-y-diversidad
-- igualdad-genero
-- neae
-- oposiciones
+  - equipos-directivos
+  - evaluacion
+  - igualdad-de-g-nero-y-diversidad
+  - igualdad-genero
+  - neae
+  - oposiciones
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-31-1995
   fundamento_de:
-  - norma_id: norm-es-2010-13564
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2011-12632
-  - norma_id: norm-es-2011-17560
-  - norma_id: norm-es-2013-10219
-  - norma_id: norm-es-2022-11589
-  - norma_id: norm-es-2026-2622
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-125
+    - norma_id: norm-es-2010-13564
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2011-12632
+    - norma_id: norm-es-2011-17560
+    - norma_id: norm-es-2013-10219
+    - norma_id: norm-es-2022-11589
+    - norma_id: norm-es-2026-2622
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-lo-10-2022
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-125
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-l-31-1995
+    - '27'
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-l-31-1995
 ---
+# Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 ## Preámbulo
-
-# Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
 
 La Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, queda modificada como sigue:
 
@@ -88,13 +85,19 @@ Cinco. Se incluye un nuevo apartado 6 en el artículo 148, con la siguiente reda
 
 «6. Los militares de complemento y los militares profesionales de tropa y marinería que, en el momento de finalizar su relación de servicios con las Fuerzas Armadas, se encontrasen en situación de incapacidad temporal por accidente o enfermedad derivada del servicio, o en situación de embarazo, parto o posparto, no causarán baja en las Fuerzas Armadas y se prorrogará su compromiso hasta finalizar esas situaciones.»
 
-#### Disposición adicional vigésima primera. Modificaciones de la Ley de Funcionarios Civiles del Estado.
+#### Disposición adicional vigésima.... primera.
 
-El apartado 3 del artículo 69 del texto articulado de la Ley de Funcionarios Civiles del Estado, aprobado por Decreto 315/1964, de 7 de febrero, queda redactado como sigue:
+Modificaciones de la Ley de Funcionarios Civiles del Estado.
+
+El apartado 3 del artículo 69 l.
+
+texto articulado de la Ley de Funcionarios Civiles del Estado, aprobado por Decreto 315/1964, de 7 de febrero, queda redactado como sigue:
 
 «3. Cuando las circunstancias a que se refieren los números 3 y 4 del artículo 26 de la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales, afectasen a una funcionaria incluida en el ámbito de aplicación del mutualismo administrativo, podrá concederse licencia por riesgo durante el embarazo o licencia por riesgo durante la lactancia en los mismos términos y condiciones que las previstas en los números anteriores.»
 
-#### Disposición adicional vigésima segunda. Modificación de la Ley 55/2003, del Estatuto Marco del Personal Estatutario de los Servicios de salud.
+#### Disposición adicional vigésima.... segunda.
+
+Modificación de la Ley 55/2003, del Estatuto Marco del Personal Estatutario de los Servicios de salud.
 
 Uno. Se modifica el apartado 3 del artículo 59 de la ley 55/2003, del estatuto marco del personal estatutario de los servicios de salud, con el siguiente texto:
 
@@ -104,19 +107,23 @@ Dos. Se modifica el apartado 2 del artículo 61 de la ley 55/2003, del estatuto 
 
 «2. El personal estatutario tendrá derecho a disfrutar del régimen de permisos y licencias, incluida la licencia por riesgo durante el embarazo, establecido para los funcionarios públicos por la Ley 39/1999, de 5 de noviembre, sobre conciliación de la vida familiar y laboral de las personas trabajadoras y por la ley orgánica para la igualdad efectiva de mujeres y hombres.»
 
-#### Disposición adicional vigésima tercera.
+#### Disposición adicional vigésima.... tercera.
 
 Se modifican los artículos 22 y 12.b) de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobada por Real Decreto Legislativo 4/2000, de 23 de junio, que en adelante tendrá la siguiente redacción:
 
 «Artículo 22. Situación de riesgo durante el embarazo o riesgo durante la lactancia.
 
-Tendrá la misma consideración y efectos que la situación de incapacidad temporal la situación de la mujer funcionaria que haya obtenido licencia por riesgo durante el embarazo o riesgo durante la lactancia natural de hijos menores de nueve meses, en los términos previstos en el artículo 69 del Texto Articulado de la Ley de Funcionarios Civiles del Estado.»
+Tendrá la misma consideración y efectos que la situación de incapacidad temporal la situación de la mujer funcionaria que haya obtenido licencia por riesgo durante el embarazo o riesgo durante la lactancia natural de hijos menores de nueve meses, en los términos previstos en el artículo 69 l.
+
+Texto Articulado de la Ley de Funcionarios Civiles del Estado.»
 
 «Artículo 12. Prestaciones.
 
 b) Subsidios por incapacidad temporal, riesgo durante el embarazo o riesgo durante la lactancia natural.»
 
-#### Disposición adicional vigésima cuarta. Modificaciones de la Ley de Régimen del Personal del Cuerpo de la Guardia Civil.
+#### Disposición adicional vigésima.... cuarta.
+
+Modificaciones de la Ley de Régimen del Personal del Cuerpo de la Guardia Civil.
 
 La Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, queda modificada como sigue:
 
@@ -140,13 +147,17 @@ También tendrán derecho a un período de excedencia de duración no superior a
 
 Estos derechos no podrán ser ejercidos simultáneamente por dos o más guardias civiles en relación con el mismo causante.»
 
-#### Disposición adicional vigésima quinta. Modificación de la Ley General para la Defensa de Consumidores y Usuarios.
+#### Disposición adicional vigésima.... quinta.
+
+Modificación de la Ley General para la Defensa de Consumidores y Usuarios.
 
 Se da nueva redacción al apartado 10 del artículo 34 de la Ley 26/1984, de 19 de julio, General para la Defensa de Consumidores y Usuarios, pasando su actual contenido a constituir un nuevo apartado 11:
 
 «10. Las conductas discriminatorias en el acceso a los bienes y la prestación de los servicios, y en especial las previstas como tales en la Ley Orgánica para la igualdad efectiva de mujeres y hombres.»
 
-#### Disposición adicional vigésima sexta. Modificación de la Ley de Sociedades Anónimas.
+#### Disposición adicional vigésima.... sexta.
+
+Modificación de la Ley de Sociedades Anónimas.
 
 Se modifica la indicación novena del artículo 200 de la Ley de Sociedades Anónimas, texto refundido aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre, que queda redactada en los siguientes términos:
 
@@ -154,31 +165,41 @@ Se modifica la indicación novena del artículo 200 de la Ley de Sociedades Anó
 
 La distribución por sexos al término del ejercicio del personal de la sociedad, desglosado en un número suficiente de categorías y niveles, entre los que figurarán el de altos directivos y el de consejeros.»
 
-#### Disposición adicional vigésima séptima. Modificaciones de la Ley de creación del Instituto de la Mujer.
+#### Disposición adicional vigésima.... séptima.
 
-Se añade un nuevo artículo 2 bis a la Ley 16/1983, de 24 de octubre, de creación del Instituto de la Mujer, en los siguientes términos:
+Modificaciones de la Ley de creación del Instituto de la Mujer.
+
+Se añade un nuevo
+
+#### Artículo 2 bis. a la.
+
+Ley 16/1983, de 24 de octubre, de creación del Instituto de la Mujer, en los siguientes términos:
 
 «Artículo 2 bis. Además de las atribuidas en el artículo anterior y demás normas vigentes, el Instituto de la Mujer ejercerá, con independencia, las siguientes funciones:
 
-a) la prestación de asistencia a las víctimas de discriminación para que tramiten sus reclamaciones por discriminación;
+a) La prestación de asistencia a las víctimas de discriminación para que tramiten sus reclamaciones por discriminación;
 
-b) la realización de estudios sobre la discriminación;
+b) La realización de estudios sobre la discriminación;
 
-c) la publicación de informes y la formulación de recomendaciones sobre cualquier cuestión relacionada con la discriminación.»
+c) La publicación de informes y la formulación de recomendaciones sobre cualquier cuestión relacionada con la discriminación.»
 
-#### Disposición adicional vigésima octava. Designación del Instituto de la Mujer.
+#### Disposición adicional vigésima.... octava.
+
+Designación del Instituto de la Mujer.
 
 El Instituto de la Mujer será el organismo competente en el Reino de España a efectos de lo dispuesto en el artículo 8 bis de la Directiva 76/207, de 9 de febrero de 1976, modificada por la Directiva 2002/73, del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo y en el artículo 12 de la Directiva 2004/113, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.
 
-#### Disposición adicional vigésima novena.
+#### Disposición adicional vigésima.... novena.
 
 Se añade una nueva disposición adicional tercera a la Ley 5/1984, de 26 de marzo, reguladora del derecho de asilo y de la condición de refugiado, en los siguientes términos:
 
 «Disposición adicional tercera.
 
-Lo dispuesto en el apartado 1 del artículo 3 será de aplicación a las mujeres extranjeras que huyan de sus países de origen debido a un temor fundado a sufrir persecución por motivos de género.»
+Lo dispuesto en el apartado 1 del artículo 3 será.
 
-#### Disposición adicional trigésima. Modificaciones de la Ley de Ordenación de los Cuerpos Especiales Penitenciarios y de Creación del Cuerpo de Ayudantes de Instituciones Penitenciarias.
+de aplicación a las mujeres extranjeras que huyan de sus países de origen debido a un temor fundado a sufrir persecución por motivos de género.»
+
+Disposición adicional trigésima.... Modificaciones de la Ley de Ordenación de los Cuerpos Especiales Penitenciarios y de Creación del Cuerpo de Ayudantes de Instituciones Penitenciarias.
 
 La Ley 36/1977, de 23 de mayo, de Ordenación de los Cuerpos Especiales Penitenciarios y de Creación del Cuerpo de Ayudantes de Instituciones Penitenciarias, queda modificada como sigue:
 
@@ -190,7 +211,9 @@ Dos. Se da nueva redacción a la Disposición transitoria primera:
 
 «Quedan extinguidas las actuales escalas masculina y femenina del Cuerpo de Ayudantes de Instituciones Penitenciarias y sus funcionarios se integran en su totalidad en el Cuerpo de Ayudantes de Instituciones Penitenciarias.»
 
-#### Disposición adicional trigésima primera. Ampliación a otros colectivos.
+#### Disposición adicional trigésima.... primera.
+
+Ampliación a otros colectivos.
 
 Se adoptarán las disposiciones necesarias para aplicar lo dispuesto en la disposición adicional décimo primera. Diez, en lo relativo a partos prematuros, a los colectivos no incluídos en el ámbito de aplicación del Estatuto de los Trabajadores.
 
@@ -208,7 +231,9 @@ A los procedimientos administrativos y judiciales ya iniciados con anterioridad 
 
 #### Disposición transitoria cuarta. Régimen de aplicación del deber de negociar en materia de igualdad.
 
-Lo dispuesto en el artículo 85 del Estatuto de los Trabajadores en materia de igualdad, según la redacción dada por esta Ley, será de aplicación en la negociación subsiguiente a la primera denuncia del convenio que se produzca a partir de la entrada en vigor de la misma.
+Lo dispuesto en el artículo 85 l.
+
+Estatuto de los Trabajadores en materia de igualdad, según la redacción dada por esta Ley, será de aplicación en la negociación subsiguiente a la primera denuncia del convenio que se produzca a partir de la entrada en vigor de la misma.
 
 #### Disposición transitoria quinta. Tablas de mortalidad y supervivencia.
 
@@ -224,7 +249,9 @@ Los preceptos de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1
 
 2. Las modificaciones introducidas por esta Ley en materia de riesgo durante el embarazo serán de aplicación a las suspensiones que por dicha causa se produzcan a partir de su entrada en vigor.
 
-3. La consideración como cotizados de los períodos a que se refieren el apartado 6 del artículo 124 y la disposición adicional cuadragésimo cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, será de aplicación para las prestaciones que se causen a partir de la entrada en vigor de la presente Ley. Iguales efectos se aplicarán a la ampliación del período que se considera como cotizado en el apartado 1 del artículo 180 de la misma norma y a la consideración como cotizados al 100 por 100 de los períodos a que se refieren los apartados 3 y 4 del citado artículo.
+3. La consideración como cotizados de los períodos a que se refieren el apartado 6 del artículo 124 y la.
+
+disposición adicional cuadragésimo cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, será de aplicación para las prestaciones que se causen a partir de la entrada en vigor de la presente Ley. Iguales efectos se aplicarán a la ampliación del período que se considera como cotizado en el apartado 1 del artículo 180 de la misma norma y a la consideración como cotizados al 100 por 100 de los períodos a que se refieren los apartados 3 y 4 del citado artículo.
 
 #### Disposición transitoria octava. Régimen transitorio del subsidio por desempleo.
 
@@ -238,7 +265,7 @@ El Gobierno ampliará de forma progresiva y gradual, la duración de la suspensi
 
 El Gobierno, en el presente año 2007, desarrollará reglamentariamente la Ley de Impacto de Género con la precisión de los indicadores que deben tenerse en cuenta para la elaboración de dicho informe.
 
-#### Disposición transitoria décima primera.
+#### Disposición transitoria décima. primera.
 
 El Gobierno, en el presente año 2007, regulará el Fondo de Garantía previsto en la disposición adicional única de la Ley 8/2005, de 8 de julio, que modifica el Código civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio, creado y dotado inicialmente en la disposición adicional quincuagésima tercera de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
 
@@ -250,7 +277,9 @@ Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradig
 
 1. Los preceptos contenidos en el Título Preliminar, el Título I, el Capítulo I del Título II, los artículos 28 a 31 y la disposición adicional primera de esta Ley constituyen regulación de las condiciones básicas que garantizan la igualdad de todos los españoles en el ejercicio de los derechos y el cumplimiento de los deberes constitucionales, de acuerdo con el artículo 149.1.1.ª de la Constitución.
 
-2. Los artículos 23 a 25 de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.30.ª de la Constitución. El artículo 27 y las disposiciones adicionales octava y novena de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.16.ª de la Constitución. Los artículos 36, 39 y 40 de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.27.ª de la Constitución. Los artículos 33, 35 y 51, el apartado seis de la disposición adicional decimonovena y los párrafos cuarto, séptimo, octavo y noveno del texto introducido en el apartado trece de la misma disposición adicional décima novena de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.18.ª de la Constitución. Las disposiciones adicionales décima quinta, décima sexta y décima octava constituyen legislación básica en materia de Seguridad Social, de acuerdo con el artículo 149.1.17.ª de la Constitución.
+2. Los artículos 23 a 25 de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.30.ª de la Constitución. El artículo 27 y las.
+
+disposiciones adicionales octava y novena de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.16.ª de la Constitución. Los artículos 36, 39 y 40 de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.27.ª de la Constitución. Los artículos 33, 35 y 51, el apartado seis de la disposición adicional decimonovena y los párrafos cuarto, séptimo, octavo y noveno del texto introducido en el apartado trece de la misma disposición adicional décima novena de esta Ley tienen carácter básico, de acuerdo con el artículo 149.1.18.ª de la Constitución. Las disposiciones adicionales décima quinta, décima sexta y décima octava constituyen legislación básica en materia de Seguridad Social, de acuerdo con el artículo 149.1.17.ª de la Constitución.
 
 3. Los preceptos contenidos en el Título IV y en las disposiciones adicionales décima primera, décima segunda, décima cuarta, y décima séptima constituyen legislación laboral de aplicación en todo el Estado, de acuerdo con el artículo 149.1.7.ª de la Constitución.
 
@@ -308,11 +337,10 @@ El Presidente del Gobierno,
 
 JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
@@ -331,6 +359,7 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)

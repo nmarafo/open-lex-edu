@@ -1,12 +1,10 @@
 ---
 id: norm-es-1986-1216
 codigo_sintetizado: BOE-A-1986-1216
-titulo: Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento
-  de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
+titulo: Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1986-01-17'
 boletin: BOE
@@ -17,24 +15,21 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- ebep
-- empleados-p-blicos
+  - ebep
+  - empleados-p-blicos
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-ce-1978
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-1984-17387
+    - '27'
+    - norma_id: norm-es-1984-17387
 ---
+# Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 
 ## Preámbulo
-
-# Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
-
-# Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.
 
 El artículo 31 de la [Ley 30/1984](L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, vino a modificar el número y la tipificación de las faltas consideradas como muy graves cometidas por los funcionarios en el ejercicio de sus cargos, derogando así, en este punto, la regulación del Régimen Disciplinario de los Funcionarios, contenida en la Ley articulada de 7 de febrero de 1964.
 
@@ -66,13 +61,9 @@ REGLAMENTO DE REGIMEN DISCIPLINARIO DE LOS FUNCIONARIOS DE LA ADMINISTRACION DEL
 
 **Régimen Disciplinario**
 
-CAPITULO PRIMERO
+### Capítulo PRIMERO
 
-Disposiciones generales
-
-#### Artículo 1.
-
-El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
+### Disposiciones generales artículo 1 El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública.
 
 #### Artículo 2.
 
@@ -86,13 +77,7 @@ Las disposiciones del presente Reglamento tendrán carácter supletorio para los
 
 El Régimen Disciplinario establecido en este Reglamento se entiende sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determine de Ley.
 
-CAPITULO II
-
-Faltas disciplinarias
-
-#### Artículo 5.
-
-Las faltas cometidas por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves y leves.
+## Capítulo II. Faltas disciplinarias artículo 5 Las faltas cometidas por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves y leves.
 
 #### Artículo 6.
 
@@ -180,13 +165,7 @@ d) El descuido o negligencia en el ejercicio de sus funciones.
 
 e) El incumplimiento de los deberes y obligaciones del funcionario, siempre que no deban ser calificados como falta muy grave o grave.
 
-CAPITULO III
-
-Personas responsables
-
-#### Artículo 9.
-
-Los funcionarios incurrirán en responsabilidad disciplinaria en los supuestos y circunstancias establecidos por este Reglamento.
+## Capítulo III. Personas responsables artículo 9 Los funcionarios incurrirán en responsabilidad disciplinaria en los supuestos y circunstancias establecidos por este Reglamento.
 
 #### Artículo 10.
 
@@ -206,13 +185,7 @@ Los funcionarios que indujeren a otros a la realización de actos o conducta con
 
 Igualmente incurrirán en responsabilidad los funcionarios que encubrieren las faltas consumadas muy graves y graves cuando de dicho acto se deriven graves daños para la Administración o los ciudadanos y serán sancionados de acuerdo con los criterios previstos en el artículo anterior.
 
-CAPITULO IV
-
-Sanciones disciplinarias
-
-#### Artículo 14.
-
-Por razón de las faltas a que se refiere este Reglamento, podrán imponerse las siguientes sanciones:
+## Capítulo IV. Sanciones disciplinarias artículo 14 Por razón de las faltas a que se refiere este Reglamento, podrán imponerse las siguientes sanciones:.
 
 a) Separación del servicio.
 
@@ -230,7 +203,9 @@ La sanción de separación de servicio, únicamente podrá imponerse por faltas 
 
 #### Artículo 16.
 
-Las sanciones de los apartados b) o c) del artículo 14 podrán imponerse por la comisión de faltas graves o muy graves.
+Las sanciones de los apartados b) o c) del artículo 14 podrán.
+
+imponerse por la comisión de faltas graves o muy graves.
 
 La sanción de suspensión de funciones impuesta por comisión de falta muy grave, no podrá ser superior a seis años ni inferior a tres. Si se impone por falta grave, no excederá de tres años.
 
@@ -250,9 +225,7 @@ En la deducción proporcional de las retribuciones, se tomará como base la tota
 
 2. Para la imposición de sanciones por faltas leves no será preceptiva la previa instrucción del expediente al que se refiere el apartado anterior, salvo el trámite de audiencia al inculpado que deberá evacuarse en todo caso.
 
-CAPITULO V
-
-Extinción de la responsabilidad disciplinaria
+## Capítulo V. Extinción de la responsabilidad disciplinaria.
 
 #### Artículo 19.
 
@@ -280,13 +253,9 @@ La amplitud y efectos de los indultos de sanciones disciplinarias se regularán 
 
 **Tramitación**
 
-CAPITULO PRIMERO
+### Capítulo PRIMERO
 
-Disposiciones generales
-
-#### Artículo 23.
-
-En cualquier momento del procedimiento en que el instructor aprecie que la presunta falta puede ser constitutiva de delito o falta penal, lo pondrá en conocimiento de la autoridad que hubiere ordenado la incoación del expediente para su oportuna comunicación al Ministerio Fiscal. Ello no será obstáculo para que continúe la tramitación del expediente disciplinario hasta su resolución e imposición de la sanción si procediera.
+### Disposiciones generales artículo 23 En cualquier momento del procedimiento en que el instructor aprecie que la presunta falta puede ser constitutiva de delito o falta penal, lo pondrá en conocimiento de la autoridad que hubiere ordenado la incoación del expediente para su oportuna comunicación al Ministerio Fiscal. Ello no será obstáculo para que continúe la tramitación del expediente disciplinario hasta su resolución e imposición de la sanción si procediera.
 
 No obstante, cuándo se trate de hechos que pudieran ser constitutivos de algunos de los delitos cometidos por los funcionarios públicos, contra el ejercicio de los derechos de la persona reconocidos por las Leyes y de los delitos de los funcionarios públicos, en el ejercicio de sus cargos, tipificados en los títulos II y VII del Libro segundo del Código Penal, deberá suspenderse la tramitación del expediente disciplinario hasta tanto recaiga resolución judicial.
 
@@ -296,25 +265,13 @@ El Subsecretario del Departamento podrá acordar como medida preventiva la suspe
 
 Esta suspensión cuando sea declarada por la autoridad administrativa, se regulará por lo dispuesto en los artículos 47, 48 y 49 de la Ley de Funcionarios Civiles del Estado, y podrá prolongarse durante todo el procesamiento.
 
-CAPITULO Il
-
-Ordenación
-
-#### Artículo 25.
-
-El procedimiento para la sanción de faltas disciplinarias se impulsará de oficio en todos sus trámites.
+## Capítulo IL. Ordenación artículo 25 El procedimiento para la sanción de faltas disciplinarias se impulsará de oficio en todos sus trámites.
 
 #### Artículo 26.
 
 La tramitación, comunicaciones y notificaciones se ajustarán en todo a lo dispuesto en el título IV, capítulo Il, secciones primera y segunda de la Ley de Procedimiento Administrativo.
 
-CAPITULO III
-
-Iniciación
-
-#### Artículo 27.
-
-El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada de los subordinados o denuncia.
+## Capítulo III. Iniciación artículo 27 El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada de los subordinados o denuncia.
 
 De iniciarse el procedimiento como consecuencia de denuncia, deberá comunicarse dicho acuerdo al firmante de la misma.
 
@@ -354,9 +311,7 @@ La incoación del procedimiento con el nombramiento del Instructor y Secretario,
 
 3. No se podrán dictar medidas provisionales que puedan causar perjuicios irreparables o impliquen violación de derechos amparados por las Leyes.
 
-CAPITULO IV
-
-Desarrollo
+## Capítulo IV. Desarrollo.
 
 #### Artículo 34.
 
@@ -368,7 +323,9 @@ Todos los Organismos y dependencias de la Administración están obligados a fac
 
 #### Artículo 35.
 
-1. A la vista de las actuaciones practicadas y en un plazo no superior a un mes, contados a partir de la incoación del procedimiento, el Instructor formulará el correspondiente pliego de cargos, comprendiendo en el mismo los hechos imputados, con expresión, en su caso, de la falta presuntamente cometida, y de las sanciones que puedan ser de aplicación, de acuerdo con lo previsto en el artículo 14 del presente Reglamento. El Instructor podrá por causas justificadas, solicitar la ampliación del plazo referido en el párrafo anterior.
+1. A la vista de las actuaciones practicadas y en un plazo no superior a un mes, contados a partir de la incoación del procedimiento, el Instructor formulará el correspondiente pliego de cargos, comprendiendo en el mismo los hechos imputados, con expresión, en su caso, de la falta presuntamente cometida, y de las sanciones que puedan ser de aplicación, de acuerdo con lo previsto en el artículo 14 l.
+
+presente Reglamento. El Instructor podrá por causas justificadas, solicitar la ampliación del plazo referido en el párrafo anterior.
 
 2. El pliego de cargos deberá redactarse de modo claro y preciso en párrafos separados y numerados por cada uno de los hechos imputados al funcionario.
 
@@ -412,9 +369,7 @@ La propuesta de resolución se notificará por el Instructor al interesado para 
 
 Oído el inculpado o transcurrido el plazo sin alegación alguna, se remitirá con carácter inmediato el expediente completo al órgano que haya acordado la incoación del procedimiento, el cual lo remitirá al órgano competente para que proceda a dictar la decisión que corresponda o, en su caso, ordenará al Instructor la práctica de las diligencias que considere necesarias.
 
-CAPITULO V
-
-Terminación
+## Capítulo V. Terminación.
 
 #### Artículo 45.
 
@@ -494,18 +449,18 @@ Los expedientes disciplinarios que se encuentren en tramitación en el momento d
 
 Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional cuarta de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, el presente Reglamento será de aplicación al personal que hubiera sido contratado en régimen de colaboración temporal al amparo de lo dispuesto en el artículo 6 de la Ley Articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, y al personal con contrato eventual de la Administración de la Seguridad Social que continúe prestando servicios bajo dicha condición.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 Quedan derogados los Decretos de 23 de diciembre de 1957 sobre situación de los funcionarios públicos procesados y 2088/1969, del 16 de agosto, por el que se aprueba el Reglamento de Régimen Disciplinario de los funcionarios de la Administración Civil del Estado, así como cuantas disposiciones de igual o inferior rango se hubieren dictado para regular el Régimen Disciplinario del personal incluido en el ámbito de aplicación del presente Real Decreto, con exclusión del Real Decreto 898/1985, de 30 de abril, sobre Régimen del Profesorado Universitario.
-
----
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)

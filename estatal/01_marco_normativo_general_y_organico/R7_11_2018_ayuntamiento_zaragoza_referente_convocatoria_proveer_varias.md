@@ -1,12 +1,10 @@
 ---
 id: norm-es-2018-16287
 codigo_sintetizado: BOE-A-2018-16287
-titulo: Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente
-  a la convocatoria para proveer varias plazas.
+titulo: Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2018-11-29'
 boletin: BOE
@@ -18,30 +16,28 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- admision-alumnado
-- evaluacion
-- marco-normativo-general
-- oposiciones
+  - admision-alumnado
+  - evaluacion
+  - marco-normativo-general
+  - oposiciones
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
+    - '1'
+    - '2.1'
 ---
+# Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
 ## Preámbulo
-
-# Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
 
 BOE-A-2018-15138 Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 ## Agencia Estatal Boletín Oficial del Estado
 
-Ir a contenido
-Consultar el diario oficial BOE
+Ir a contenido Consultar el diario oficial BOE
 
 Idioma actual:
 
@@ -49,41 +45,28 @@ Castellano / es
 
 Puede seleccionar otro idioma:
 
-es / Castellano
-ca / Català
-gl / Galego
-eu / Euskara
-va / Valencià
-en / English
-fr / Français
+es / Castellano ca / Català gl / Galego eu / Euskara va / Valencià en / English fr / Français
 
-Mi BOE Desconectado.
-Pulse para acceder al servicio 'Mi BOE'
+Mi BOE Desconectado. Pulse para acceder al servicio 'Mi BOE'
 
 Diarios Oficiales
 
-BOE
-BORME
-Otros diarios oficiales
+BOE BORME Otros diarios oficiales
 
 Información Jurídica
 
-Todo el Derecho
-Biblioteca Jurídica Digital
+Todo el Derecho Biblioteca Jurídica Digital
 
 Otros servicios
 
-Notificaciones
-Edictos judiciales
-Portal de subastas
-Anunciantes
-Datos abiertos
+Notificaciones Edictos judiciales Portal de subastas Anunciantes Datos abiertos
 
 Está Vd. en
 
 Documento consolidado BOE-A-2018-15138
 
 ## Legislación consolidadaEste texto consolidado es de carácter informativo y no tiene valor jurídico.
+
 La consolidación consiste en integrar en un solo texto, sin valor oficial, las modificaciones, correcciones y derogaciones de carácter expreso que una norma ha tenido desde su origen, con el objetivo de facilitar el acceso al Derecho vigente. Para fines jurídicos, debe consultarse la publicación oficial.
 
 Ayuda
@@ -91,12 +74,9 @@ Ayuda
 ### Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 Publicado en:
-«BOE» núm. 268, de 06/11/2018.
-Entrada en vigor:
-06/11/2018
-Departamento:
-Jefatura del Estado
-Referencia:
+«BOE» núm. 268, de 06/11/2018. Entrada en vigor:
+06/11/2018 Departamento:
+Jefatura del Estado Referencia:
 
 BOE-A-2018-15138
 
@@ -118,20 +98,12 @@ PDF
 
 ePUB
 
-Vídeo tutorial sobre Diccionario panhispánico del español jurídico de la Real Academia Española
-Ir a la web del Diccionario Panhispánico del Español Jurídico (DPEJ)
-Introducir término a buscar en el
-Diccionario Panhispánico del Español Jurídico
+Vídeo tutorial sobre Diccionario panhispánico del español jurídico de la Real Academia Española Ir a la web del Diccionario Panhispánico del Español Jurídico (DPEJ) Introducir término a buscar en el Diccionario Panhispánico del Español Jurídico
 
-Completo
-Completo
-Solo Texto
-Texto
+Completo Completo Solo Texto Texto
 Índice
 Índice
-Análisis
-Análisis
-Recibir alerta
+Análisis Análisis Recibir alerta
 
 ### Texto consolidado: «Última actualización, publicada el 28/12/2022»
 
@@ -140,266 +112,516 @@ Ir a:
 Seleccionar apartado
 
 [Preámbulo]
-TÍTULO PRELIMINAR
-Artículo 1
-Artículo 2
-Artículo 3
-Artículo 4
-Artículo 5
-Artículo 6
-Artículo 7
-Artículo 8
-TÍTULO I
-CAPÍTULO I
-Artículo 9
-Artículo 10
-Artículo 11
-CAPÍTULO II
-Artículo 12
-Artículo 13
-Artículo 14
-Artículo 15
-Artículo 16
-Artículo 17
-Artículo 18
-Artículo 19
-Artículo 20
-Artículo 21
-Artículo 22
-Artículo 23
-Artículo 24
-Artículo 25
-Artículo 26
-Artículo 27
-Artículo 28
-Artículo 29
-Artículo 30
-Artículo 31
-Artículo 32
-Artículo 33
-Artículo 34
-Artículo 35
-Artículo 36
-CAPÍTULO III
-Artículo 37
-TÍTULO II
-CAPÍTULO I
-Artículo 38
-Artículo 39
-Artículo 40
-Artículo 41
-Artículo 42
-Artículo 43
-CAPÍTULO II
-Artículo 44
-Artículo 45
-Artículo 46
-Artículo 47
-CAPÍTULO III
-Artículo 48
-Artículo 49
-CAPÍTULO IV
-Artículo 50
-Artículo 51
-Artículo 52
-CAPÍTULO V
-Artículo 53
-Artículo 54
-Artículo 55
-Artículo 56
-CAPÍTULO VI
-Artículo 57
-Artículo 58
-Artículo 59
-Artículo 60
-CAPÍTULO VII
-Artículo 61
-Artículo 62
-Artículo 63
-TÍTULO III
-Artículo 64
-CAPÍTULO I
-Artículo 65
-Artículo 66
-Artículo 67
-Artículo 68
-Artículo 69
-Artículo 70
-Artículo 71
-Artículo 72
-Artículo 73
-Artículo 74
-CAPÍTULO II
-Artículo 75
-Artículo 76
-TÍTULO IV
-Artículo 77
-CAPÍTULO I
-Artículo 78
-Artículo 79
-Artículo 80
-Artículo 81
-CAPÍTULO II
-Artículo 82
-Artículo 83
-Artículo 84
-CAPÍTULO III
-Artículo 85
-Artículo 86
-Artículo 87
-Artículo 88
-Artículo 89
-Artículo 90
-Artículo 91
-Artículo 92
-Artículo 93
-TÍTULO V
-CAPÍTULO I
-Artículo 94
-Artículo 95
-Artículo 96
-Artículo 97
-Artículo 98
-Artículo 99
-Artículo 100
-Artículo 101
-Artículo 102
-CAPÍTULO II
-Artículo 103
-Artículo 104
-Artículo 105
-Artículo 106
-Artículo 107
-Artículo 108
-Artículo 109
-Artículo 110
-Artículo 111
-Artículo 112
-Artículo 113
-CAPÍTULO III
-Artículo 114
-Artículo 115
-Artículo 116
-Artículo 117
-Artículo 118
-Artículo 119
-Artículo 120
-Artículo 121
-Artículo 122
-Artículo 123
-CAPÍTULO IV
-Artículo 124
-Artículo 125
-Artículo 126
-Artículo 127
-Artículo 128
-Artículo 129
-CAPÍTULO V
-Artículo 130
-Artículo 131
-Artículo 132
-CAPÍTULO VI
-Artículo 133
-Artículo 134
-Artículo 135
-Artículo 136
-Artículo 137
-Artículo 138
-CAPÍTULO VII
-Artículo 139
-Artículo 140
-Artículo 141
-Artículo 142
-Artículo 143
-Artículo 144
-Artículo 145
-Artículo 146
-Artículo 147
-CAPÍTULO VIII
-Artículo 148
-Artículo 149
-Artículo 150
-Artículo 151
-CAPÍTULO IX
-Artículo 152
-Artículo 153
-Artículo 154
-Artículo 155
-Artículo 156
-Artículo 157
-Artículo 158
-CAPÍTULO X
-Artículo 159
-Artículo 160
-Artículo 161
-Artículo 162
-Artículo 163
-Artículo 164
-TÍTULO VI
-CAPÍTULO I
-Artículo 165
-Artículo 166
-Artículo 167
-Artículo 168
-CAPÍTULO II
-Artículo 169
-Artículo 170
-Artículo 171
-Artículo 172
-Artículo 173
-Artículo 174
-Artículo 175
-Artículo 176
-Artículo 177
-Artículo 178
-Artículo 179
-Artículo 180
-Artículo 181
-Artículo 182
-Artículo 183
-Artículo 184
-Artículo 185
-Artículo 186
-Artículo 187
-Artículo 188
-CAPÍTULO III
-Artículo 189
-Artículo 190
-TÍTULO VII
-CAPÍTULO I
-Artículo 191
-Artículo 192
-Artículo 193
-Artículo 194
-CAPÍTULO II
-Artículo 195
-Artículo 196
-Artículo 197
-Artículo 198
-Artículo 199
-TÍTULO VIII
-Artículo 200
-Artículo 201
-Artículo 202
-Disposición adicional primera
-Disposición adicional segunda
-Disposición adicional tercera
-Disposición adicional cuarta
-Disposición adicional quinta
-Disposición adicional sexta
-Disposición transitoria primera
-Disposición transitoria segunda
-Disposición derogatoria
-Disposición final
-[Firma]
-Anexo I
-Anexo II
+
+## Título Preliminar
+
+#### Artículo 1.
+
+#### Artículo 2.
+
+#### Artículo 3.
+
+#### Artículo 4.
+
+#### Artículo 5.
+
+#### Artículo 6.
+
+#### Artículo 7.
+
+#### Artículo 8.
+
+## Título I
+
+### Capítulo I
+
+#### Artículo 9.
+
+#### Artículo 10.
+
+#### Artículo 11.
+
+### Capítulo II
+
+#### Artículo 12.
+
+#### Artículo 13.
+
+#### Artículo 14.
+
+#### Artículo 15.
+
+#### Artículo 16.
+
+#### Artículo 17.
+
+#### Artículo 18.
+
+#### Artículo 19.
+
+#### Artículo 20.
+
+#### Artículo 21.
+
+#### Artículo 22.
+
+#### Artículo 23.
+
+#### Artículo 24.
+
+#### Artículo 25.
+
+#### Artículo 26.
+
+#### Artículo 27.
+
+#### Artículo 28.
+
+#### Artículo 29.
+
+#### Artículo 30.
+
+#### Artículo 31.
+
+#### Artículo 32.
+
+#### Artículo 33.
+
+#### Artículo 34.
+
+#### Artículo 35.
+
+#### Artículo 36.
+
+### Capítulo III
+
+#### Artículo 37.
+
+## Título II
+
+### Capítulo I
+
+#### Artículo 38.
+
+#### Artículo 39.
+
+#### Artículo 40.
+
+#### Artículo 41.
+
+#### Artículo 42.
+
+#### Artículo 43.
+
+### Capítulo II
+
+#### Artículo 44.
+
+#### Artículo 45.
+
+#### Artículo 46.
+
+#### Artículo 47.
+
+### Capítulo III
+
+#### Artículo 48.
+
+#### Artículo 49.
+
+### Capítulo IV
+
+#### Artículo 50.
+
+#### Artículo 51.
+
+#### Artículo 52.
+
+### Capítulo V
+
+#### Artículo 53.
+
+#### Artículo 54.
+
+#### Artículo 55.
+
+#### Artículo 56.
+
+### Capítulo VI
+
+#### Artículo 57.
+
+#### Artículo 58.
+
+#### Artículo 59.
+
+#### Artículo 60.
+
+### Capítulo VII
+
+#### Artículo 61.
+
+#### Artículo 62.
+
+#### Artículo 63.
+
+## Título III
+
+#### Artículo 64.
+
+### Capítulo I
+
+#### Artículo 65.
+
+#### Artículo 66.
+
+#### Artículo 67.
+
+#### Artículo 68.
+
+#### Artículo 69.
+
+#### Artículo 70.
+
+#### Artículo 71.
+
+#### Artículo 72.
+
+#### Artículo 73.
+
+#### Artículo 74.
+
+### Capítulo II
+
+#### Artículo 75.
+
+#### Artículo 76.
+
+## Título IV
+
+#### Artículo 77.
+
+### Capítulo I
+
+#### Artículo 78.
+
+#### Artículo 79.
+
+#### Artículo 80.
+
+#### Artículo 81.
+
+### Capítulo II
+
+#### Artículo 82.
+
+#### Artículo 83.
+
+#### Artículo 84.
+
+### Capítulo III
+
+#### Artículo 85.
+
+#### Artículo 86.
+
+#### Artículo 87.
+
+#### Artículo 88.
+
+#### Artículo 89.
+
+#### Artículo 90.
+
+#### Artículo 91.
+
+#### Artículo 92.
+
+#### Artículo 93.
+
+## Título V
+
+### Capítulo I
+
+#### Artículo 94.
+
+#### Artículo 95.
+
+#### Artículo 96.
+
+#### Artículo 97.
+
+#### Artículo 98.
+
+#### Artículo 99.
+
+#### Artículo 100.
+
+#### Artículo 101.
+
+#### Artículo 102.
+
+### Capítulo II
+
+#### Artículo 103.
+
+#### Artículo 104.
+
+#### Artículo 105.
+
+#### Artículo 106.
+
+#### Artículo 107.
+
+#### Artículo 108.
+
+#### Artículo 109.
+
+#### Artículo 110.
+
+#### Artículo 111.
+
+#### Artículo 112.
+
+#### Artículo 113.
+
+### Capítulo III
+
+#### Artículo 114.
+
+#### Artículo 115.
+
+#### Artículo 116.
+
+#### Artículo 117.
+
+#### Artículo 118.
+
+#### Artículo 119.
+
+#### Artículo 120.
+
+#### Artículo 121.
+
+#### Artículo 122.
+
+#### Artículo 123.
+
+### Capítulo IV
+
+#### Artículo 124.
+
+#### Artículo 125.
+
+#### Artículo 126.
+
+#### Artículo 127.
+
+#### Artículo 128.
+
+#### Artículo 129.
+
+### Capítulo V
+
+#### Artículo 130.
+
+#### Artículo 131.
+
+#### Artículo 132.
+
+### Capítulo VI
+
+#### Artículo 133.
+
+#### Artículo 134.
+
+#### Artículo 135.
+
+#### Artículo 136.
+
+#### Artículo 137.
+
+#### Artículo 138.
+
+### Capítulo VII
+
+#### Artículo 139.
+
+#### Artículo 140.
+
+#### Artículo 141.
+
+#### Artículo 142.
+
+#### Artículo 143.
+
+#### Artículo 144.
+
+#### Artículo 145.
+
+#### Artículo 146.
+
+#### Artículo 147.
+
+### Capítulo VIII
+
+#### Artículo 148.
+
+#### Artículo 149.
+
+#### Artículo 150.
+
+#### Artículo 151.
+
+### Capítulo IX
+
+#### Artículo 152.
+
+#### Artículo 153.
+
+#### Artículo 154.
+
+#### Artículo 155.
+
+#### Artículo 156.
+
+#### Artículo 157.
+
+#### Artículo 158.
+
+### Capítulo X
+
+#### Artículo 159.
+
+#### Artículo 160.
+
+#### Artículo 161.
+
+#### Artículo 162.
+
+#### Artículo 163.
+
+#### Artículo 164.
+
+## Título VI
+
+### Capítulo I
+
+#### Artículo 165.
+
+#### Artículo 166.
+
+#### Artículo 167.
+
+#### Artículo 168.
+
+### Capítulo II
+
+#### Artículo 169.
+
+#### Artículo 170.
+
+#### Artículo 171.
+
+#### Artículo 172.
+
+#### Artículo 173.
+
+#### Artículo 174.
+
+#### Artículo 175.
+
+#### Artículo 176.
+
+#### Artículo 177.
+
+#### Artículo 178.
+
+#### Artículo 179.
+
+#### Artículo 180.
+
+#### Artículo 181.
+
+#### Artículo 182.
+
+#### Artículo 183.
+
+#### Artículo 184.
+
+#### Artículo 185.
+
+#### Artículo 186.
+
+#### Artículo 187.
+
+#### Artículo 188.
+
+### Capítulo III
+
+#### Artículo 189.
+
+#### Artículo 190.
+
+## Título VII
+
+### Capítulo I
+
+#### Artículo 191.
+
+#### Artículo 192.
+
+#### Artículo 193.
+
+#### Artículo 194.
+
+### Capítulo II
+
+#### Artículo 195.
+
+#### Artículo 196.
+
+#### Artículo 197.
+
+#### Artículo 198.
+
+#### Artículo 199.
+
+## Título VIII
+
+#### Artículo 200.
+
+#### Artículo 201.
+
+#### Artículo 202.
+
+#### Disposición adicional primera.
+
+#### Disposición adicional segunda.
+
+#### Disposición adicional tercera.
+
+#### Disposición adicional cuarta.
+
+#### Disposición adicional quinta.
+
+#### Disposición adicional sexta.
+
+#### Disposición transitoria primera.
+
+#### Disposición transitoria segunda.
+
+#### Disposición derogatoria ....
+
+#### Disposición final . [Firma].
+
+## Anexo I
+
+## Anexo II
 
 Incluye las correcciones de errores publicadas en BOE núm. 274, de 13 de noviembre de 2018, Ref. BOE-A-2018-15454, núm. 26, de 30 de enero de 2019. Ref. BOE-A-2019-1102 y núm. 134, de 5 de junio de 2019. Ref. BOE-A-2019-8316
 
 Subir
-
-[Bloque 2: #pr]
 
 FELIPE VI
 
@@ -409,15 +631,13 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:
 
-PREÁMBULO
-
-El reconocimiento que la Constitución de 1978 realiza del Estado de las Autonomías en España viene a suponer para Canarias el respaldo constitucional de sus peculiaridades económicas, políticas y administrativas acumuladas desde su incorporación a la Corona de Castilla al señalar sus singularidades de su orden político y de su régimen económico. Es, por tanto, una respuesta a una realidad isleña que se ha forjado a lo largo de siglos.
+El reconocimiento que la Constitución de 1978 realiza del Estado de las Autonomías en España viene a suponer para Canarias el respaldo constitucional de sus peculiaridades económicas, políticas y administrativas acumuladas desde su incorporación a la Corona de Castilla al señalar sus singularidades de su orden político y de su régimen económico. Es, por tanto, una respuesta a una realidad isleña que se ha forjado a lo largo de siglos.
 
 Como consecuencia de su incorporación a la Corona de Castilla, Canarias experimentó una profunda transformación en sus estructuras económicas, políticas y sociales a la que los isleños se adaptaron con rapidez asimilando su cultura y su religión.
 
 La necesidad de dotar a las islas de un régimen administrativo hasta entonces existente no fue, sin embargo, homogéneo, sino que revistió distintas formas en cada una de ellas según la manera en la que se realizó la conquista. Así, para las islas realengas (Gran Canaria, Tenerife y La Palma), el régimen municipal que se estableció fue el propio de la política centralizadora de los Reyes Católicos. En cambio, para las islas del señorío (Lanzarote, Fuerteventura, La Gomera y El Hierro), permanecieron sujetas a un régimen patrimonial hasta principios del siglo XIX, si bien con escasas diferencias respecto a las anteriores en lo que respecta a Administración local.
 
-Hasta principios del siglo XIX, cada isla constituye un solo municipio, con su cabildo respectivo, de manera que el archipiélago estaba configurado en siete términos municipales perfectamente diferenciados. Eran los cabildos, precisamente, el núcleo central de la Administración local en Canarias que, ya desde entonces, revistieron características en las que se asientan, sin duda, el claro carácter y matiz autonómico que, desde 1913, y a lo largo del siglo XX y hasta la actualidad, han venido teniendo también como gobiernos insulares.
+Hasta principios del siglo XIX, cada isla constituye un solo municipio, con su cabildo respectivo, de manera que el archipiélago estaba configurado en siete términos municipales perfectamente diferenciados. Eran los cabildos, precisamente, el núcleo central de la Administración local en Canarias que, ya desde entonces, revistieron características en las que se asientan, sin duda, el claro carácter y matiz autonómico que, desde 1913, y a lo largo del siglo XX y hasta la actualidad, han venido teniendo también como gobiernos insulares.
 
 Al estar el archipiélago organizado en islas, cada una de las cuales estaba, a su vez, regida por su respectivo cabildo, y al no existir un ente político que extendiera su jurisdicción al conjunto de las islas, la historia política de Canarias entre los siglos XVI al XVIII fue la historia de siete unidades administrativas, donde los únicos órganos con competencias en todo el archipiélago eran la Audiencia, el Obispado y la Comandancia o Capitanía General.
 
@@ -427,9 +647,9 @@ Desde el primer momento, la Corona admitió la libre asignación de los recursos
 
 Los isleños aprovecharon las particularidades de su régimen económico e institucional para estrechar vínculos de todo orden con Europa y enriquecieron, con su trabajo y mestizaje, las sociedades coloniales de América, sobre todo, de Cuba, Venezuela, Uruguay y Tejas, generando, desde entonces, un constante intercambio de valores materiales y culturales entre ambos lados del Atlántico.
 
-Multitud de disposiciones legales fueron conformando a lo largo de la historia un «corpus» normativo propio que moldeó la especificidad del régimen canario. Así aconteció con el Decreto de Puertos Francos de 1852. En 1870, las Cortes Constituyentes del Sexenio Democrático (1868-1874) dieron al mismo carácter de ley. Y también fue el caso de la ley de 1900 que amplió las ventajas fiscales. Desde ese momento, y hasta la actualidad, el régimen de franquicias fiscales y mercantiles ha generado la modernización socioeconómica y cultural de profunda imbricación de Canarias con la economía internacional y con la de una Europa cuyas vanguardias culturales siempre han reconocido el carácter atlántico de las islas.
+Multitud de disposiciones legales fueron conformando a lo largo de la historia un «corpus» normativo propio que moldeó la especificidad del régimen canario. Así aconteció con el Decreto de Puertos Francos de 1852. En 1870, las Cortes Constituyentes del Sexenio Democrático (1868-1874) dieron al mismo carácter de ley. Y también fue el caso de la ley de 1900 que amplió las ventajas fiscales. Desde ese momento, y hasta la actualidad, el régimen de franquicias fiscales y mercantiles ha generado la modernización socioeconómica y cultural de profunda imbricación de Canarias con la economía internacional y con la de una Europa cuyas vanguardias culturales siempre han reconocido el carácter atlántico de las islas.
 
-La Ley del Régimen Económico y Fiscal de 1972 constituyó un nuevo hito en la evolución de la norma básica que siempre ha influido en el modelo económico de Canarias, pero su traducción política debió esperar a la llegada de la democracia a través de la Constitución de 1978 y al primer Estatuto de 1982.
+La Ley del Régimen Económico y Fiscal de 1972 constituyó un nuevo hito en la evolución de la norma básica que siempre ha influido en el modelo económico de Canarias, pero su traducción política debió esperar a la llegada de la democracia a través de la Constitución de 1978 y al primer Estatuto de 1982.
 
 Con el régimen económico y fiscal, amparado por la Constitución española, y con la aprobación del Estatuto de Autonomía, las Islas Canarias recuperan un «status» político y económico en el seno de la España democrática, que es reconocido por las instituciones de la Comunidad Europea y reafirmado en sus Tratados, al definirse su condición de región ultraperiférica, por las mismas razones que justificaron aquel «status» a lo largo de la historia.
 
@@ -451,17 +671,13 @@ Pero la sociedad del siglo XXI reclama nuevas acciones. Una sociedad democrátic
 
 Subir
 
-[Bloque 3: #tp]
-
-### TÍTULO PRELIMINAR
+## Título Preliminar
 
 ### Disposiciones generales
 
 Subir
 
-[Bloque 4: #ar]
-
-### Artículo 1. Archipiélago atlántico.
+#### Artículo 1. Archipiélago atlántico.
 
 1. Canarias es un archipiélago atlántico que, como expresión de su identidad singular basada en sus circunstancias geográficas, históricas y culturales, ejerce el derecho al autogobierno como nacionalidad, constituyéndose en Comunidad Autónoma en el marco del Estado español.
 
@@ -473,7 +689,7 @@ Subir
 
 [Bloque 5: #ar-2]
 
-### Artículo 2. Los poderes de Canarias.
+#### Artículo 2. Los poderes de Canarias.
 
 1. Los poderes de la Comunidad Autónoma de Canarias emanan de la Constitución y del pueblo canario, en los términos del presente Estatuto de Autonomía, que es su norma institucional básica.
 
@@ -485,7 +701,7 @@ Subir
 
 [Bloque 6: #ar-3]
 
-### Artículo 3. Lejanía, insularidad y ultraperiferia.
+#### Artículo 3. Lejanía, insularidad y ultraperiferia.
 
 Dada la lejanía, la insularidad y la condición ultraperiférica de Canarias, reconocidas por los Tratados constitutivos de la Unión Europea, la Constitución y el presente Estatuto, los poderes públicos, en el ámbito de sus respectivas competencias, tendrán en cuenta estas circunstancias cuando sea preciso adaptar sus políticas y actuaciones legislativas y reglamentarias, así como sus decisiones financieras y presupuestarias, cuando dichas circunstancias incidan de manera determinante en tales competencias, fijando las condiciones específicas para su aplicación en el Archipiélago. Especialmente, esta adaptación se producirá en materia de transportes y telecomunicaciones y sus infraestructuras; mercado interior; energía; medio ambiente; puertos; aeropuertos; inmigración; fiscalidad; comercio exterior; y, en especial, en el abastecimiento de materias primas y líneas de consumo esenciales y cooperación al desarrollo de países vecinos.
 
@@ -493,7 +709,7 @@ Subir
 
 [Bloque 7: #ar-4]
 
-### Artículo 4. Ámbito espacial.
+#### Artículo 4. Ámbito espacial.
 
 1. El ámbito espacial de la Comunidad Autónoma de Canarias comprende el archipiélago canario, integrado por el mar y las siete islas con administración propia de El Hierro, Fuerteventura, Gran Canaria, La Gomera, Lanzarote, La Palma y Tenerife, así como por la isla de La Graciosa y por los islotes de Alegranza, Lobos, Montaña Clara, Roque del Este y Roque del Oeste.
 
@@ -509,7 +725,7 @@ Subir
 
 [Bloque 8: #ar-5]
 
-### Artículo 5. Capitalidad y sede de la Presidencia.
+#### Artículo 5. Capitalidad y sede de la Presidencia.
 
 1. La capitalidad de Canarias se fija compartidamente en las ciudades de Las Palmas de Gran Canaria y Santa Cruz de Tenerife, regulándose el estatuto de capitalidad por ley del Parlamento de Canarias.
 
@@ -523,7 +739,7 @@ Subir
 
 [Bloque 9: #ar-6]
 
-### Artículo 6. Condición política de canarios.
+#### Artículo 6. Condición política de canarios.
 
 1. A los efectos del presente Estatuto, gozan de la condición política de canarios las personas con nacionalidad española que, de acuerdo con las leyes del Estado, tengan vecindad administrativa en cualquiera de los municipios de Canarias.
 
@@ -535,7 +751,7 @@ Subir
 
 [Bloque 10: #ar-7]
 
-### Artículo 7. Símbolos.
+#### Artículo 7. Símbolos.
 
 1. La bandera de Canarias está formada por tres franjas iguales en sentido vertical, cuyos colores son, a partir del asta, blanco, azul y amarillo.
 
@@ -543,29 +759,25 @@ Subir
 
 3. Canarias tendrá himno propio en los términos establecidos en una ley del Parlamento de Canarias.
 
-4. La Comunidad Autónoma de Canarias celebrará su festividad institucional el día 30 de mayo.
+4. La Comunidad Autónoma de Canarias celebrará su festividad institucional el día 30 de mayo.
 
 Subir
 
 [Bloque 11: #ar-8]
 
-### Artículo 8. Las comunidades canarias en el exterior.
+#### Artículo 8. Las comunidades canarias en el exterior.
 
 Las comunidades constituidas por personas de origen canario establecidas fuera del territorio de la Comunidad Autónoma de Canarias podrán solicitar el reconocimiento de su identidad de origen, entendida como el derecho a colaborar y compartir la vida social y cultural de las islas. Una ley del Parlamento de Canarias regulará el alcance y contenido del reconocimiento mencionado, así como la especial consideración a los canarios emigrados y a sus descendientes, sin perjuicio de las competencias del Estado.
 
 Subir
 
-[Bloque 12: #ti]
-
-### TÍTULO I
+## Título I
 
 ### De los derechos, deberes y principios rectores
 
 Subir
 
-[Bloque 13: #ci]
-
-### CAPÍTULO I
+### Capítulo I
 
 ### Disposiciones generales
 
@@ -573,7 +785,7 @@ Subir
 
 [Bloque 14: #ar-9]
 
-### Artículo 9. Titulares.
+#### Artículo 9. Titulares.
 
 1. Las personas que ostentan la condición política de canarios son titulares de los derechos, deberes y libertades reconocidos en la Constitución española y en el presente Estatuto, así como en el Derecho de la Unión Europea y en los instrumentos internacionales de protección de los derechos humanos, individuales y colectivos, en particular, en la Declaración Universal de Derechos Humanos.
 
@@ -585,7 +797,7 @@ Subir
 
 [Bloque 15: #ar-10]
 
-### Artículo 10. Aplicación e interpretación.
+#### Artículo 10. Aplicación e interpretación.
 
 1. Ninguna de las disposiciones de este título puede ser desarrollada, aplicada o interpretada de forma que reduzca o limite los derechos fundamentales reconocidos por la Constitución y por los tratados y convenios internacionales ratificados por el Estado español.
 
@@ -595,7 +807,7 @@ Subir
 
 [Bloque 16: #ar-11]
 
-### Artículo 11. Derecho de igualdad y cooperación.
+#### Artículo 11. Derecho de igualdad y cooperación.
 
 1. Los poderes públicos canarios garantizarán las medidas necesarias para hacer efectivos los derechos de las personas a la igualdad, la no discriminación, la participación en la vida pública, al desarrollo económico, la libertad y el respeto a los derechos humanos.
 
@@ -607,7 +819,7 @@ Subir
 
 [Bloque 17: #ci-2]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### Derechos y deberes
 
@@ -615,7 +827,7 @@ Subir
 
 [Bloque 18: #ar-12]
 
-### Artículo 12. Familia.
+#### Artículo 12. Familia.
 
 1. Todas las personas tienen derecho a la protección social, jurídica y económica para atender a las situaciones familiares, en las diferentes modalidades de familias. Por ley se determinarán las formas y condiciones de acceso a dichas ayudas conforme al criterio de igualdad.
 
@@ -625,7 +837,7 @@ Subir
 
 [Bloque 19: #ar-13]
 
-### Artículo 13. Derechos de las personas menores de edad.
+#### Artículo 13. Derechos de las personas menores de edad.
 
 1. Las personas menores de edad tienen derecho a recibir la atención integral necesaria para el desarrollo de su personalidad y su bienestar en el contexto familiar y social.
 
@@ -635,7 +847,7 @@ Subir
 
 [Bloque 20: #ar-14]
 
-### Artículo 14. Derechos de las personas jóvenes.
+#### Artículo 14. Derechos de las personas jóvenes.
 
 Las Administraciones deben promover políticas públicas que favorezcan la emancipación de los jóvenes, facilitándoles el acceso a la formación, la educación, la sanidad, la cultura, al asociacionismo, al mundo laboral y a la vivienda para que puedan desarrollar su propio proyecto de vida y participar en igualdad de derechos y deberes en la vida social y cultural, en los términos que establezcan las leyes.
 
@@ -643,7 +855,7 @@ Subir
 
 [Bloque 21: #ar-15]
 
-### Artículo 15. Derechos de las personas mayores.
+#### Artículo 15. Derechos de las personas mayores.
 
 Los poderes públicos canarios garantizarán a las personas mayores una vida digna e independiente, una atención integral para la promoción de su autonomía personal y del envejecimiento activo y el derecho a un atención sanitaria, social y asistencial, promoviendo y asegurando las acciones y medidas necesarias para su bienestar social, económico y personal, así como a percibir prestaciones en los términos que se establezca en las leyes.
 
@@ -651,7 +863,7 @@ Subir
 
 [Bloque 22: #ar-16]
 
-### Artículo 16. Derechos de las personas en situación de discapacidad y de dependencia.
+#### Artículo 16. Derechos de las personas en situación de discapacidad y de dependencia.
 
 1. Se garantiza el derecho a una vida digna e independiente de todas las personas que se encuentren en situación de discapacidad o de dependencia.
 
@@ -665,7 +877,7 @@ Subir
 
 [Bloque 23: #ar-17]
 
-### Artículo 17. Derecho a la igualdad entre mujeres y hombres.
+#### Artículo 17. Derecho a la igualdad entre mujeres y hombres.
 
 1. Los poderes públicos canarios garantizarán la igualdad efectiva entre mujeres y hombres en el ámbito público y privado, y velarán por la conciliación de la vida familiar y profesional.
 
@@ -675,7 +887,7 @@ Subir
 
 [Bloque 24: #ar-18]
 
-### Artículo 18. Derecho a la orientación sexual.
+#### Artículo 18. Derecho a la orientación sexual.
 
 Los poderes públicos canarios reconocerán, de acuerdo con la ley, el derecho de las personas a su identidad de género y garantizarán la no discriminación por este motivo o por su orientación sexual.
 
@@ -683,7 +895,7 @@ Subir
 
 [Bloque 25: #ar-19]
 
-### Artículo 19. Derechos en el ámbito de la salud.
+#### Artículo 19. Derechos en el ámbito de la salud.
 
 1. Todas las personas tienen derecho a la protección de la salud y al acceso en condiciones de igualdad y gratuidad al servicio sanitario de responsabilidad pública, en los términos establecidos por las leyes.
 
@@ -715,7 +927,7 @@ Subir
 
 [Bloque 26: #ar-20]
 
-### Artículo 20. Derecho a formular instrucciones previas.
+#### Artículo 20. Derecho a formular instrucciones previas.
 
 Todas las personas mayores de edad y capaces, en los términos que establezcan las leyes, tienen derecho a declarar libremente de forma anticipada y expresa su voluntad sobre los cuidados y los tratamientos y, en su caso, sobre el destino de su cuerpo y los órganos del mismo, con el objeto de que esta se cumpla si, cuando llegue el momento, la persona no se encuentra en condiciones de expresarla personalmente.
 
@@ -723,7 +935,7 @@ Subir
 
 [Bloque 27: #ar-21]
 
-### Artículo 21. Derechos en el ámbito de la educación.
+#### Artículo 21. Derechos en el ámbito de la educación.
 
 1. Todas las personas tienen derecho a una educación pública, gratuita, aconfesional y de calidad, prestando especial atención a la educación infantil, en los términos de la ley.
 
@@ -749,7 +961,7 @@ Subir
 
 [Bloque 28: #ar-22]
 
-### Artículo 22. Derecho de acceso a la vivienda.
+#### Artículo 22. Derecho de acceso a la vivienda.
 
 Los poderes públicos canarios deberán garantizar el derecho de todas las personas a una vivienda digna y regular su función social, mediante un sistema de promoción pública, en condiciones de igualdad y en los términos que establezcan las leyes, poniendo especial atención sobre aquellos colectivos sociales más vulnerables. Se regulará el uso del suelo de acuerdo con el interés general para evitar la especulación.
 
@@ -757,7 +969,7 @@ Subir
 
 [Bloque 29: #ar-23]
 
-### Artículo 23. Derechos en el ámbito laboral y profesional.
+#### Artículo 23. Derechos en el ámbito laboral y profesional.
 
 1. Los poderes públicos canarios promoverán cuantas políticas activas y medidas sean necesarias para garantizar el derecho de todas las personas al trabajo.
 
@@ -781,7 +993,7 @@ Subir
 
 [Bloque 30: #ar-24]
 
-### Artículo 24. Derecho a una renta de ciudadanía.
+#### Artículo 24. Derecho a una renta de ciudadanía.
 
 1. Las personas que se encuentren en situación de exclusión social tienen derecho a acceder a una renta de ciudadanía en los términos que establezcan las leyes.
 
@@ -791,7 +1003,7 @@ Subir
 
 [Bloque 31: #ar-25]
 
-### Artículo 25. Derechos de consumidores y usuarios.
+#### Artículo 25. Derechos de consumidores y usuarios.
 
 Las personas, en su condición de consumidoras y usuarias de bienes y de servicios, tienen derecho, en los términos que se establece por ley:
 
@@ -805,7 +1017,7 @@ Subir
 
 [Bloque 32: #ar-26]
 
-### Artículo 26. Derechos en el ámbito del medio ambiente.
+#### Artículo 26. Derechos en el ámbito del medio ambiente.
 
 1. Todas las personas tienen derecho a vivir en un medio ambiente equilibrado, sostenible, sin contaminación y respetuoso hacia la salud, y a gozar de los recursos naturales y del paisaje terrestre y marino en condiciones de igualdad, realizando un uso responsable de los mismos. Asimismo, en los términos que determinen las leyes, tienen el correlativo deber de protegerlo y mejorarlo para las generaciones presentes y futuras, así como soportar las limitaciones que tal protección puedan afectar a sus intereses.
 
@@ -817,7 +1029,7 @@ Subir
 
 [Bloque 33: #ar-27]
 
-### Artículo 27. Derecho en el ámbito cultural.
+#### Artículo 27. Derecho en el ámbito cultural.
 
 1. Todos los ciudadanos y ciudadanas de Canarias tienen derecho a acceder en condiciones de igualdad a la cultura y al desarrollo de sus capacidades creativas individuales y colectivas.
 
@@ -831,7 +1043,7 @@ Subir
 
 [Bloque 34: #ar-28]
 
-### Artículo 28. Derecho de acceso a las tecnologías de la información y de la comunicación.
+#### Artículo 28. Derecho de acceso a las tecnologías de la información y de la comunicación.
 
 Los poderes públicos canarios fomentarán la formación y el acceso a las nuevas tecnologías, participando activamente en la sociedad del conocimiento, la información y la comunicación.
 
@@ -839,19 +1051,19 @@ Subir
 
 [Bloque 35: #ar-29]
 
-### Artículo 29. Derechos en el ámbito de los servicios sociales.
+#### Artículo 29. Derechos en el ámbito de los servicios sociales.
 
 1. Todas las personas tienen derecho a acceder en condiciones de igualdad a las prestaciones y servicios del sistema público de servicios sociales de responsabilidad pública.
 
 2. Se garantiza por los poderes públicos canarios el deber de información integral de los servicios y prestaciones a su cargo.
 
-3. Los poderes públicos canarios establecerán, en la forma que determine la ley, planes especializados de atención para las personas que garanticen los derechos dispuestos en los artículos 16 y 24 del presente Estatuto.
+3. Los poderes públicos canarios establecerán, en la forma que determine la ley, planes especializados de atención para las personas que garanticen los derechos dispuestos en los artículos 16 y 24 del presente Estatuto.
 
 Subir
 
 [Bloque 36: #ar-30]
 
-### Artículo 30. Derecho a la protección de los datos personales.
+#### Artículo 30. Derecho a la protección de los datos personales.
 
 Se garantiza el derecho efectivo de todas las personas a la privacidad y protección de sus datos personales contenidos en los archivos y ficheros que son competencia de las administraciones públicas canarias, así como el derecho a acceder a los mismos, a su examen, corrección y cancelación.
 
@@ -859,7 +1071,7 @@ Subir
 
 [Bloque 37: #ar-31]
 
-### Artículo 31. Derechos de participación.
+#### Artículo 31. Derechos de participación.
 
 En el ámbito de la participación política, las personas que ostenten la condición política de canarios, conforme lo establecido en el presente Estatuto y en las leyes, tienen derecho:
 
@@ -877,7 +1089,7 @@ Subir
 
 [Bloque 38: #ar-32]
 
-### Artículo 32. Derecho a una buena administración.
+#### Artículo 32. Derecho a una buena administración.
 
 La actuación de las administraciones públicas canarias se deberá ajustar a los principios de igualdad, no discriminación y respeto, así como de máxima calidad en la prestación de los servicios, debiendo además garantizarse, en los términos de la ley, los siguientes derechos:
 
@@ -895,7 +1107,7 @@ Subir
 
 [Bloque 39: #ar-33]
 
-### Artículo 33. Derechos en el ámbito de la justicia.
+#### Artículo 33. Derechos en el ámbito de la justicia.
 
 1. Los poderes públicos canarios garantizarán, en el ámbito de sus competencias, la calidad de los servicios de la Administración de Justicia, la atención a las víctimas y el acceso a la justicia gratuita.
 
@@ -905,7 +1117,7 @@ Subir
 
 [Bloque 40: #ar-34]
 
-### Artículo 34. Derecho a la memoria histórica.
+#### Artículo 34. Derecho a la memoria histórica.
 
 1. Los poderes públicos canarios velarán por el conocimiento y el mantenimiento de la memoria histórica de Canarias como patrimonio colectivo que atestigua la defensa de la identidad y la cultura del pueblo canario y la resistencia y la lucha por los derechos y las libertades democráticas. A tal fin, deberán adoptar las iniciativas institucionales necesarias para el reconocimiento y la rehabilitación de todos los ciudadanos que han sufrido persecución como consecuencia de la defensa de su identidad cultural, de la democracia y del autogobierno de Canarias.
 
@@ -915,7 +1127,7 @@ Subir
 
 [Bloque 41: #ar-35]
 
-### Artículo 35. Derechos de los animales
+#### Artículo 35. Derechos de los animales.
 
 En los términos que se fijen por ley, de acuerdo con la Constitución y el Tratado de Funcionamiento de la Unión Europea, las administraciones públicas canarias velarán por el mantenimiento y la salvaguarda de los animales, además de reconocerlos como seres que sienten y con derecho a no ser utilizados en actividades que conlleven maltrato o crueldad. Asimismo, se fijará el régimen de infracciones y sanciones.
 
@@ -923,7 +1135,7 @@ Subir
 
 [Bloque 42: #ar-36]
 
-### Artículo 36. Garantía de los derechos.
+#### Artículo 36. Garantía de los derechos.
 
 1. Los derechos reconocidos en el presente capítulo se deben aplicar en su interpretación y sentido más favorable para su plena eficacia.
 
@@ -937,7 +1149,7 @@ Subir
 
 [Bloque 43: #ci-3]
 
-### CAPÍTULO III
+### Capítulo III
 
 ### Principios rectores
 
@@ -945,7 +1157,7 @@ Subir
 
 [Bloque 44: #ar-37]
 
-### Artículo 37. Principios rectores.
+#### Artículo 37. Principios rectores.
 
 Los poderes públicos canarios asumen como principios rectores de su política:
 
@@ -971,7 +1183,7 @@ Los poderes públicos canarios asumen como principios rectores de su política:
 
 11. La promoción de Canarias como plataforma de paz y solidaridad.
 
-12. La solidaridad consagrada en el artículo 138 de la Constitución, velando por la efectividad de la atención particular a las específicas circunstancias en Canarias de la ultraperificidad y de la doble insularidad.
+12. La solidaridad consagrada en el artículo 138 de la Constitución, velando por la efectividad de la atención particular a las específicas circunstancias en Canarias de la ultraperificidad y de la doble insularidad.
 
 13. La promoción de políticas de transporte y de comunicación basadas en criterios de sostenibilidad, que fomenten la utilización del transporte público y la mejora de la movilidad y de la seguridad viaria. Las Administraciones públicas velarán mediante la acción institucional por facilitar la accesibilidad universal a las personas con discapacidad en el archipiélago en sus distintos medios de transporte, así como en las infraestructuras e instalaciones de carácter tanto público como privado, conforme a lo establecido en las leyes.
 
@@ -1013,7 +1225,7 @@ Subir
 
 [Bloque 45: #ti-2]
 
-### TÍTULO II
+## Título II
 
 ### De las instituciones de la Comunidad Autónoma de Canarias
 
@@ -1021,7 +1233,7 @@ Subir
 
 [Bloque 46: #ci-4]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### Del Parlamento
 
@@ -1029,7 +1241,7 @@ Subir
 
 [Bloque 47: #ar-38]
 
-### Artículo 38. Naturaleza.
+#### Artículo 38. Naturaleza.
 
 1. El Parlamento de Canarias, órgano representativo del pueblo canario, es elegido mediante sufragio universal, directo, igual, libre y secreto.
 
@@ -1041,7 +1253,7 @@ Subir
 
 [Bloque 48: #ar-39]
 
-### Artículo 39. Régimen electoral.
+#### Artículo 39. Régimen electoral.
 
 1. Serán electores y elegibles las personas mayores de edad inscritas en el censo que gocen de la condición política de canarios, según el presente Estatuto, y se encuentren en pleno disfrute de sus derechos civiles y políticos, sin perjuicio de las causas de inelegibilidad establecidas por la ley.
 
@@ -1061,7 +1273,7 @@ Subir
 
 [Bloque 49: #ar-40]
 
-### Artículo 40. Estatuto de los diputados.
+#### Artículo 40. Estatuto de los diputados.
 
 1. Los diputados no estarán sujetos a mandato imperativo.
 
@@ -1073,7 +1285,7 @@ Subir
 
 [Bloque 50: #ar-41]
 
-### Artículo 41. Organización y funcionamiento.
+#### Artículo 41. Organización y funcionamiento.
 
 1. El Parlamento, en la primera reunión de cada legislatura, elegirá una Mesa formada por una presidencia, dos vicepresidencias y dos secretarías. El Reglamento del Parlamento regulará tanto el procedimiento para su elección como sus funciones.
 
@@ -1095,7 +1307,7 @@ Subir
 
 [Bloque 51: #ar-42]
 
-### Artículo 42. Comisiones de investigación.
+#### Artículo 42. Comisiones de investigación.
 
 1. El Parlamento podrá nombrar, en los términos establecidos en el Reglamento de la Cámara, comisiones de investigación sobre cualquier asunto de interés público. Sus conclusiones no serán vinculantes para los tribunales ni afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.
 
@@ -1105,7 +1317,7 @@ Subir
 
 [Bloque 52: #ar-43]
 
-### Artículo 43. Funciones.
+#### Artículo 43. Funciones.
 
 Son funciones del Parlamento:
 
@@ -1119,7 +1331,7 @@ d) Designar, para cada legislatura del Parlamento, a los senadores representante
 
 Los senadores designados por el Parlamento de Canarias podrán comparecer ante el mismo, en la forma que determine el Reglamento, para informar de su actividad en el Senado.
 
-e) Solicitar del Gobierno del Estado la adopción y presentación de proyectos de ley, y presentar directamente proposiciones de ley ante las Cortes Generales, de acuerdo con el artículo 87.2 de la Constitución.
+e) Solicitar del Gobierno del Estado la adopción y presentación de proyectos de ley, y presentar directamente proposiciones de ley ante las Cortes Generales, de acuerdo con el artículo 87.2 de la Constitución.
 
 f) Interponer recursos de inconstitucionalidad y personarse ante el Tribunal Constitucional en los supuestos y en los términos previstos en la Constitución y en su ley orgánica.
 
@@ -1129,7 +1341,7 @@ Subir
 
 [Bloque 53: #ci-5]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### De las leyes y demás normas con fuerza de ley
 
@@ -1137,7 +1349,7 @@ Subir
 
 [Bloque 54: #ar-44]
 
-### Artículo 44. Iniciativa legislativa.
+#### Artículo 44. Iniciativa legislativa.
 
 1. La iniciativa legislativa corresponde al Gobierno de Canarias y a los diputados, en los términos que establezca el Reglamento del Parlamento.
 
@@ -1145,13 +1357,13 @@ Subir
 
 3. Los ayuntamientos canarios, cuando actúen agrupados especialmente con este fin y representando el porcentaje de población y el número de municipios que se determinen en el Reglamento del Parlamento, podrán ejercer la iniciativa legislativa.
 
-4. La iniciativa legislativa popular, como expresión del derecho de participación reconocido en el artículo 31 de este Estatuto, se regulará por ley del Parlamento.
+4. La iniciativa legislativa popular, como expresión del derecho de participación reconocido en el artículo 31 de este Estatuto, se regulará por ley del Parlamento.
 
 Subir
 
 [Bloque 55: #ar-45]
 
-### Artículo 45. Delegación legislativa.
+#### Artículo 45. Delegación legislativa.
 
 1. El Parlamento de Canarias podrá delegar en el Gobierno la potestad de dictar normas con rango de ley, excepto en los siguientes supuestos:
 
@@ -1175,7 +1387,7 @@ Subir
 
 [Bloque 56: #ar-46]
 
-### Artículo 46. Decretos-leyes.
+#### Artículo 46. Decretos-leyes.
 
 1. En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar normas con rango de ley, que recibirán el nombre de decretos-leyes.
 
@@ -1189,9 +1401,9 @@ Subir
 
 [Bloque 57: #ar-47]
 
-### Artículo 47. Promulgación y publicación.
+#### Artículo 47. Promulgación y publicación.
 
-1. Las leyes del Parlamento de Canarias y demás normas con fuerza de ley serán promulgadas en nombre del Rey por el Presidente o Presidenta de la Comunidad Autónoma y publicadas en el «Boletín Oficial de Canarias» en el plazo de 15 días desde su aprobación y en el «Boletín Oficial del Estado». A efectos de su entrada en vigor, regirá la fecha de su publicación en el «Boletín Oficial de Canarias».
+1. Las leyes del Parlamento de Canarias y demás normas con fuerza de ley serán promulgadas en nombre del Rey por el Presidente o Presidenta de la Comunidad Autónoma y publicadas en el «Boletín Oficial de Canarias» en el plazo de 15 días desde su aprobación y en el «Boletín Oficial del Estado». A efectos de su entrada en vigor, regirá la fecha de su publicación en el «Boletín Oficial de Canarias».
 
 2. El control de la constitucionalidad de las leyes del Parlamento de Canarias y demás normas con fuerza de ley corresponderá al Tribunal Constitucional.
 
@@ -1199,7 +1411,7 @@ Subir
 
 [Bloque 58: #ci-6]
 
-### CAPÍTULO III
+### Capítulo III
 
 ### De la Presidencia de Canarias
 
@@ -1207,13 +1419,13 @@ Subir
 
 [Bloque 59: #ar-48]
 
-### Artículo 48. Elección.
+#### Artículo 48. Elección.
 
 1. El Parlamento elegirá de entre sus miembros a la persona titular de la Presidencia.
 
 2. La Presidencia del Parlamento, previa consulta con las fuerzas políticas representadas en el mismo, y oída la Mesa, propondrá una candidatura a la Presidencia de Canarias.
 
-3. La persona propuesta presentará su programa de gobierno al Parlamento. Para ser elegida, deberá obtener en primera votación mayoría absoluta; de no obtenerla, se procederá a una nueva votación pasadas 48 horas, y la confianza se entenderá otorgada si obtuviera mayoría simple.
+3. La persona propuesta presentará su programa de gobierno al Parlamento. Para ser elegida, deberá obtener en primera votación mayoría absoluta; de no obtenerla, se procederá a una nueva votación pasadas 48 horas, y la confianza se entenderá otorgada si obtuviera mayoría simple.
 
 4. Caso de no conseguirse dicha mayoría, se tramitarán sucesivas propuestas en la forma prevista anteriormente. Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ninguna candidatura hubiera obtenido la confianza del Parlamento, éste quedará automáticamente disuelto, procediéndose a la convocatoria de nuevas elecciones para el mismo.
 
@@ -1223,7 +1435,7 @@ Subir
 
 [Bloque 60: #ar-49]
 
-### Artículo 49. Estatuto personal.
+#### Artículo 49. Estatuto personal.
 
 1. La Presidencia designa y separa libremente a la persona titular de la Vicepresidencia y a los restantes miembros del Gobierno, dirige y coordina su actuación y, como titular de la Presidencia de la Comunidad Autónoma de Canarias, ostenta la más alta representación de Canarias y la ordinaria del Estado en la Comunidad Autónoma.
 
@@ -1239,7 +1451,7 @@ Subir
 
 [Bloque 61: #ci-7]
 
-### CAPÍTULO IV
+### Capítulo IV
 
 ### Del Gobierno
 
@@ -1247,7 +1459,7 @@ Subir
 
 [Bloque 62: #ar-50]
 
-### Artículo 50. Funciones.
+#### Artículo 50. Funciones.
 
 Corresponde al Gobierno de Canarias:
 
@@ -1267,7 +1479,7 @@ Subir
 
 [Bloque 63: #ar-51]
 
-### Artículo 51. Composición.
+#### Artículo 51. Composición.
 
 1. El Gobierno de Canarias está compuesto por las personas titulares de la Presidencia y de la Vicepresidencia y por los consejeros o consejeras.
 
@@ -1279,7 +1491,7 @@ Subir
 
 [Bloque 64: #ar-52]
 
-### Artículo 52. Cese.
+#### Artículo 52. Cese.
 
 1. El Gobierno cesará:
 
@@ -1295,9 +1507,7 @@ d) Al producirse el fallecimiento de quien ostente la Presidencia.
 
 Subir
 
-[Bloque 65: #cv]
-
-### CAPÍTULO V
+### Capítulo V
 
 ### De las relaciones entre el Parlamento y el Gobierno
 
@@ -1305,7 +1515,7 @@ Subir
 
 [Bloque 66: #ar-53]
 
-### Artículo 53. Responsabilidad política.
+#### Artículo 53. Responsabilidad política.
 
 El Gobierno responde solidariamente de su gestión política ante el Parlamento de Canarias.
 
@@ -1315,19 +1525,21 @@ Subir
 
 [Bloque 67: #ar-54]
 
-### Artículo 54. Cuestión de confianza.
+#### Artículo 54. Cuestión de confianza.
 
 La persona titular de la Presidencia del Gobierno, previa deliberación del Gobierno, puede plantear ante el Parlamento una cuestión de confianza sobre su programa o sobre una declaración de política general.
 
 La confianza se entenderá otorgada cuando el presidente obtenga la mayoría simple de los votos emitidos.
 
-La persona titular de la Presidencia, junto con su Gobierno, cesará si el Parlamento le niega la confianza, en cuyo caso se procederá a la elección de un nuevo presidente en la forma indicada por el artículo 48 del presente Estatuto.
+La persona titular de la Presidencia, junto con su Gobierno, cesará si el Parlamento le niega la confianza, en cuyo caso se procederá a la elección de un nuevo presidente en la forma indicada por el artículo 48 l.
+
+presente Estatuto.
 
 Subir
 
 [Bloque 68: #ar-55]
 
-### Artículo 55. Moción de censura.
+#### Artículo 55. Moción de censura.
 
 El Parlamento puede exigir la responsabilidad política solidaria del Gobierno mediante la adopción, por mayoría absoluta, de la moción de censura. Toda moción de censura debe incluir el nombre del candidato o candidata a la Presidencia y ser presentada, al menos, por el quince por ciento de los miembros del Parlamento.
 
@@ -1337,7 +1549,7 @@ Subir
 
 [Bloque 69: #ar-56]
 
-### Artículo 56. Disolución anticipada del Parlamento.
+#### Artículo 56. Disolución anticipada del Parlamento.
 
 1. La persona titular de la Presidencia, previa deliberación del Gobierno, y bajo su exclusiva responsabilidad, podrá disolver el Parlamento. La disolución se acordará por Decreto, en el que se convocarán, a su vez, elecciones, conteniéndose en el mismo cuantos requisitos exija la legislación electoral aplicable.
 
@@ -1347,7 +1559,7 @@ Subir
 
 [Bloque 70: #cv-2]
 
-### CAPÍTULO VI
+### Capítulo VI
 
 ### Órganos de relevancia estatutaria
 
@@ -1355,7 +1567,7 @@ Subir
 
 [Bloque 71: #ar-57]
 
-### Artículo 57. Diputación del Común.
+#### Artículo 57. Diputación del Común.
 
 1. La Diputación del Común es la alta instancia comisionada del Parlamento de Canarias para la defensa de los derechos fundamentales y las libertades públicas y supervisará las actividades de las administraciones públicas canarias, de acuerdo con lo que establezca la ley.
 
@@ -1371,7 +1583,7 @@ Subir
 
 [Bloque 72: #ar-58]
 
-### Artículo 58. Consejo Consultivo de Canarias.
+#### Artículo 58. Consejo Consultivo de Canarias.
 
 1. El Consejo Consultivo de Canarias es el supremo órgano consultivo de la Comunidad Autónoma de Canarias encargado de dictaminar sobre la adecuación a la Constitución y al Estatuto de Autonomía de:
 
@@ -1391,7 +1603,7 @@ Subir
 
 [Bloque 73: #ar-59]
 
-### Artículo 59. Audiencia de Cuentas.
+#### Artículo 59. Audiencia de Cuentas.
 
 1. La Audiencia de Cuentas, dependiente del Parlamento de Canarias, realizará las funciones de fiscalización externa de la gestión económica, financiera y contable del sector público de la Comunidad Autónoma y demás entes públicos de Canarias, sin perjuicio de las competencias que corresponden al Tribunal de Cuentas, de acuerdo con la Constitución.
 
@@ -1403,7 +1615,7 @@ Subir
 
 [Bloque 74: #ar-60]
 
-### Artículo 60. Comisionado de Transparencia y Acceso a la Información Pública.
+#### Artículo 60. Comisionado de Transparencia y Acceso a la Información Pública.
 
 1. El Comisionado de Transparencia y Acceso a la Información Pública es el órgano de fomento, análisis, control y protección de la transparencia pública y del derecho de acceso a la información pública en el ámbito de la Comunidad Autónoma de Canarias, de acuerdo con lo que establezca la ley.
 
@@ -1415,7 +1627,7 @@ Subir
 
 [Bloque 75: #cv-3]
 
-### CAPÍTULO VII
+### Capítulo VII
 
 ### De la Administración de la Comunidad Autónoma de Canarias
 
@@ -1423,7 +1635,7 @@ Subir
 
 [Bloque 76: #ar-61]
 
-### Artículo 61. Organización de la Administración.
+#### Artículo 61. Organización de la Administración.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la organización de su propia Administración Pública, de conformidad con el presente Estatuto y las leyes, que responderá a los principios de eficacia, economía, máxima proximidad a los ciudadanos y atención al hecho insular.
 
@@ -1433,7 +1645,7 @@ Subir
 
 [Bloque 77: #ar-62]
 
-### Artículo 62. Régimen jurídico.
+#### Artículo 62. Régimen jurídico.
 
 1. En el ejercicio de sus competencias, la Administración Pública de la Comunidad Autónoma de Canarias gozará de las siguientes potestades y privilegios:
 
@@ -1459,9 +1671,9 @@ Subir
 
 [Bloque 78: #ar-63]
 
-### Artículo 63. Control de normas, actos y acuerdos.
+#### Artículo 63. Control de normas, actos y acuerdos.
 
-1. Las normas sin rango de ley, los actos y acuerdos emanados de los órganos ejecutivos y administrativos de la Comunidad Autónoma de Canarias serán recurribles en la vía contencioso-administrativa, sin perjuicio de los recursos administrativos y económico-administrativos que procedan y de lo establecido en el artículo 153.b) de la Constitución.
+1. Las normas sin rango de ley, los actos y acuerdos emanados de los órganos ejecutivos y administrativos de la Comunidad Autónoma de Canarias serán recurribles en la vía contencioso-administrativa, sin perjuicio de los recursos administrativos y económico-administrativos que procedan y de lo establecido en el artículo 153.b) de la Constitución.
 
 2. Las normas sin rango de ley de los órganos de la Comunidad Autónoma de Canarias se publicarán, para su plena validez, en el «Boletín Oficial de Canarias».
 
@@ -1469,7 +1681,7 @@ Subir
 
 [Bloque 79: #ti-3]
 
-### TÍTULO III
+## Título III
 
 ### Organización territorial de Canarias
 
@@ -1477,7 +1689,7 @@ Subir
 
 [Bloque 80: #ar-64]
 
-### Artículo 64. Disposición general.
+#### Artículo 64. Disposición general.
 
 1. Canarias articula su organización territorial en islas y municipios, que gozan de plena autonomía para la gestión de sus respectivos intereses y para el ejercicio de sus competencias, en el marco de lo que establece la Constitución, el presente Estatuto y las leyes.
 
@@ -1501,7 +1713,7 @@ Subir
 
 [Bloque 81: #ci-8]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### De las islas y los cabildos insulares
 
@@ -1509,7 +1721,7 @@ Subir
 
 [Bloque 82: #ar-65]
 
-### Artículo 65. Islas y territorios insulares.
+#### Artículo 65. Islas y territorios insulares.
 
 1. La organización territorial de Canarias se integra por las islas de El Hierro, Fuerteventura, Gran Canaria, La Gomera, Lanzarote, La Palma y Tenerife. La isla de La Graciosa estará agregada administrativamente a Lanzarote, así como los islotes de Alegranza, Montaña Clara, Roque del Este y Roque del Oeste y el de Lobos a Fuerteventura.
 
@@ -1523,7 +1735,7 @@ Subir
 
 [Bloque 83: #ar-66]
 
-### Artículo 66. Capitales insulares.
+#### Artículo 66. Capitales insulares.
 
 La capital de cada isla se fija donde se encuentra la sede de los cabildos insulares: la de El Hierro en Valverde, la de Fuerteventura en Puerto del Rosario, la de Gran Canaria en Las Palmas de Gran Canaria, la de La Gomera en San Sebastián de La Gomera, la de Lanzarote en Arrecife, la de La Palma en Santa Cruz de La Palma y la de Tenerife en Santa Cruz de Tenerife.
 
@@ -1531,7 +1743,7 @@ Subir
 
 [Bloque 84: #ar-67]
 
-### Artículo 67. Organización.
+#### Artículo 67. Organización.
 
 1. Una ley del Parlamento de Canarias, aprobada por mayoría absoluta, regulará la organización de los cabildos insulares de acuerdo con la Constitución, con este Estatuto y las leyes.
 
@@ -1545,7 +1757,7 @@ Subir
 
 [Bloque 85: #ar-68]
 
-### Artículo 68. Composición y régimen electoral.
+#### Artículo 68. Composición y régimen electoral.
 
 1. Los plenos de los cabildos insulares estarán compuestos por los miembros elegidos por sufragio universal, igual, libre, directo y secreto mediante un sistema de representación proporcional en los términos que establezca la ley.
 
@@ -1557,7 +1769,7 @@ Subir
 
 [Bloque 86: #ar-69]
 
-### Artículo 69. Funcionamiento y régimen jurídico.
+#### Artículo 69. Funcionamiento y régimen jurídico.
 
 La ley y los reglamentos orgánicos de los respectivos cabildos insulares determinarán las reglas de funcionamiento y el régimen jurídico de la actuación de los mismos y de sus órganos, así como el régimen de sus funciones y competencias respetando la legislación básica estatal.
 
@@ -1565,7 +1777,7 @@ Subir
 
 [Bloque 87: #ar-70]
 
-### Artículo 70. Competencias insulares.
+#### Artículo 70. Competencias insulares.
 
 1. A las islas les corresponde el ejercicio de las competencias que les son reconocidas como propias; las que se les transfieran o deleguen, y la colaboración en el desarrollo y la ejecución de los acuerdos adoptados por el Gobierno de Canarias, en los términos que establezcan las leyes del Parlamento. Las transferencias y delegaciones llevarán incorporadas los medios económicos, materiales y personales que correspondan.
 
@@ -1589,9 +1801,9 @@ h) Defensa del consumidor.
 
 i) Asistencia social y servicios sociales.
 
-j) Policía de vivienda. Conservación y administración del parque público de viviendas.
+j) **Policía de vivienda.** Conservación y administración del parque público de viviendas.
 
-k) Las funciones propias de la Agencia de Extensión Agraria. Infraestructura rural de carácter insular. Granjas experimentales.
+k) **Las funciones propias de la Agencia de Extensión Agraria.** Infraestructura rural de carácter insular. Granjas experimentales.
 
 l) Campañas de saneamiento zoosanitario.
 
@@ -1603,7 +1815,7 @@ n) Protección del medio ambiente.
 
 o) Artesanía.
 
-p) Cultura, deportes, ocio y esparcimiento. Patrimonio histórico-artístico insular. Museos, bibliotecas y archivos que no se reserve la Comunidad Autónoma.
+p) **Cultura, deportes, ocio y esparcimiento.** Patrimonio histórico-artístico insular. Museos, bibliotecas y archivos que no se reserve la Comunidad Autónoma.
 
 q) Caza.
 
@@ -1619,7 +1831,7 @@ Subir
 
 [Bloque 88: #ar-71]
 
-### Artículo 71. Transferencia y delegación de funciones.
+#### Artículo 71. Transferencia y delegación de funciones.
 
 Los cabildos insulares, como instituciones de la Comunidad Autónoma, podrán transferir o delegar en los ayuntamientos el ejercicio de sus funciones administrativas propias, cuando así lo justifiquen los principios de subsidiariedad, descentralización y eficiencia.
 
@@ -1627,7 +1839,7 @@ Subir
 
 [Bloque 89: #ar-72]
 
-### Artículo 72. Actividad de fomento y fijación de políticas propias de los cabildos insulares.
+#### Artículo 72. Actividad de fomento y fijación de políticas propias de los cabildos insulares.
 
 Corresponde a los cabildos insulares el ejercicio de la actividad de fomento, sin perjuicio de la actividad que corresponda a la Comunidad Autónoma, y la fijación de políticas propias. Asimismo, cuando así lo decidan, la fijación de políticas comunes con otras islas, comunidades o con el Estado, de acuerdo con el Gobierno de Canarias.
 
@@ -1635,7 +1847,7 @@ Subir
 
 [Bloque 90: #ar-73]
 
-### Artículo 73. Coordinación de la actividad de los cabildos insulares.
+#### Artículo 73. Coordinación de la actividad de los cabildos insulares.
 
 El Gobierno de Canarias coordinará la actividad de los cabildos insulares en cuanto afecte directamente al interés general de la Comunidad Autónoma de Canarias. Para ello podrá requerirles información, documentación y, en los términos que disponga la ley, establecer objetivos y prioridades de la acción pública, así como utilizar otros mecanismos de coordinación previstos en la legislación básica del Estado.
 
@@ -1645,7 +1857,7 @@ Subir
 
 [Bloque 91: #ar-74]
 
-### Artículo 74. Conferencia de Presidentes.
+#### Artículo 74. Conferencia de Presidentes.
 
 1. La Conferencia de Presidentes es un foro institucional de colaboración del Gobierno de Canarias y los cabildos insulares que tiene la función de servir de encuentro y debate de los grandes asuntos de interés común, la coordinación de las políticas de actuación de interés concurrente y la búsqueda de los acuerdos que deban incorporarse a los correspondientes ámbitos institucionales de la Comunidad Autónoma de Canarias y de las islas.
 
@@ -1655,7 +1867,7 @@ Subir
 
 [Bloque 92: #ci-9]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### De los municipios canarios
 
@@ -1663,7 +1875,7 @@ Subir
 
 [Bloque 93: #ar-75]
 
-### Artículo 75. Los municipios.
+#### Artículo 75. Los municipios.
 
 1. Los municipios, como entidades locales básicas de Canarias, gozan de personalidad jurídica propia y de autonomía plena para el ejercicio de sus competencias. Su gobierno, representación y administración corresponde a los ayuntamientos.
 
@@ -1711,7 +1923,7 @@ Subir
 
 [Bloque 94: #ar-76]
 
-### Artículo 76. Consejo Municipal de Canarias.
+#### Artículo 76. Consejo Municipal de Canarias.
 
 El Consejo Municipal de Canarias es el órgano de participación y colaboración de la Administración de la Comunidad Autónoma de Canarias y los ayuntamientos canarios, y particularmente el encargado de canalizar el parecer de los ayuntamientos en las iniciativas legislativas que afecten de forma específica a su organización y competencias. Su composición, organización y funciones serán determinadas por ley del Parlamento de Canarias.
 
@@ -1719,7 +1931,7 @@ Subir
 
 [Bloque 95: #ti-4]
 
-### TÍTULO IV
+## Título IV
 
 ### De la Administración de Justicia en Canarias
 
@@ -1727,7 +1939,7 @@ Subir
 
 [Bloque 96: #ar-77]
 
-### Artículo 77. Competencia de los órganos judiciales.
+#### Artículo 77. Competencia de los órganos judiciales.
 
 1. La competencia de los órganos judiciales en Canarias se extiende en todos los órdenes jurisdiccionales e instancias que establece la Ley Orgánica del Poder Judicial y las leyes procesales del Estado.
 
@@ -1737,7 +1949,7 @@ Subir
 
 [Bloque 97: #ci-10]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### Del Tribunal Superior de Justicia y del Fiscal del Tribunal Superior de Canarias
 
@@ -1745,7 +1957,7 @@ Subir
 
 [Bloque 98: #ar-78]
 
-### Artículo 78. El Tribunal Superior de Justicia.
+#### Artículo 78. El Tribunal Superior de Justicia.
 
 1. El Tribunal Superior de Justicia de Canarias es el órgano judicial en que culmina la organización judicial en Canarias sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, y es competente, en los términos establecidos por la Ley Orgánica del Poder Judicial, para conocer de los recursos y de los procedimientos en los distintos órdenes jurisdiccionales civil, penal, contencioso-administrativo, social, y para tutelar los derechos reconocidos por el presente Estatuto.
 
@@ -1761,7 +1973,7 @@ Subir
 
 [Bloque 99: #ar-79]
 
-### Artículo 79. El Presidente del Tribunal Superior de Justicia.
+#### Artículo 79. El Presidente del Tribunal Superior de Justicia.
 
 1. El presidente del Tribunal Superior de Justicia de Canarias es el representante del Poder Judicial en Canarias. Es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial en los términos que establezca la Ley Orgánica del Poder Judicial. El presidente del Gobierno de Canarias ordenará la publicación de dicho nombramiento en el «Boletín Oficial de Canarias».
 
@@ -1771,9 +1983,7 @@ Subir
 
 [Bloque 100: #ar-80]
 
-### Artículo 80. Competencias del Tribunal Superior de Justicia.
-
-En todo caso, corresponde al Tribunal Superior de Justicia de Canarias:
+#### Artículo 80. Competencias del Tribunal Superior de Justicia En todo caso, corresponde al Tribunal Superior de Justicia de Canarias:.
 
 1. Conocer de los recursos relacionados con los procesos electorales de la Comunidad Autónoma con arreglo a las leyes.
 
@@ -1783,7 +1993,7 @@ Subir
 
 [Bloque 101: #ar-81]
 
-### Artículo 81. El Fiscal Superior de Canarias.
+#### Artículo 81. El Fiscal Superior de Canarias.
 
 1. El Fiscal Superior de Canarias es el fiscal jefe del Tribunal Superior de Justicia, representa al Ministerio Fiscal en el ámbito de la Comunidad Autónoma de Canarias, y será designado en los términos que establezca su Estatuto Orgánico.
 
@@ -1797,7 +2007,7 @@ Subir
 
 [Bloque 102: #ci-11]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### Del Consejo de Justicia de Canarias
 
@@ -1805,7 +2015,7 @@ Subir
 
 [Bloque 103: #ar-82]
 
-### Artículo 82. Naturaleza del Consejo.
+#### Artículo 82. Naturaleza del Consejo.
 
 El Consejo de Justicia de Canarias colabora con la Administración de Justicia en Canarias, de acuerdo con lo previsto en la Ley Orgánica del Poder Judicial.
 
@@ -1813,7 +2023,7 @@ Subir
 
 [Bloque 104: #ar-83]
 
-### Artículo 83. Composición y atribuciones.
+#### Artículo 83. Composición y atribuciones.
 
 1. El Consejo de Justicia de Canarias está integrado por los miembros previstos por la Ley Orgánica del Poder Judicial. El Parlamento de Canarias designa a los miembros del consejo que determine dicha ley.
 
@@ -1839,7 +2049,7 @@ Subir
 
 [Bloque 105: #ar-84]
 
-### Artículo 84. Control de los actos del Consejo de Justicia.
+#### Artículo 84. Control de los actos del Consejo de Justicia.
 
 Los actos del Consejo de Justicia de Canarias que no sean impugnables en alzada ante el Consejo General del Poder Judicial pueden impugnarse jurisdiccionalmente en los términos establecidos en las leyes.
 
@@ -1847,7 +2057,7 @@ Subir
 
 [Bloque 106: #ci-12]
 
-### CAPÍTULO III
+### Capítulo III
 
 ### Competencias de la Comunidad Autónoma de Canarias sobre la Administración de Justicia
 
@@ -1855,7 +2065,7 @@ Subir
 
 [Bloque 107: #ar-85]
 
-### Artículo 85. Atribuciones.
+#### Artículo 85. Atribuciones.
 
 En relación con la Administración de Justicia, exceptuada la jurisdicción militar, y en los términos que establezca la Ley Orgánica del Poder Judicial, corresponde a la Comunidad Autónoma de Canarias:
 
@@ -1871,7 +2081,7 @@ Subir
 
 [Bloque 108: #ar-86]
 
-### Artículo 86. Oposiciones y concursos.
+#### Artículo 86. Oposiciones y concursos.
 
 El Gobierno de Canarias propone al Gobierno del Estado o al Consejo General del Poder Judicial, según corresponda, la convocatoria de oposiciones y concursos para cubrir las plazas vacantes de magistrados, jueces y fiscales en Canarias.
 
@@ -1879,7 +2089,7 @@ Subir
 
 [Bloque 109: #ar-87]
 
-### Artículo 87. Personal no judicial.
+#### Artículo 87. Personal no judicial.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la regulación del régimen del personal no judicial al servicio de la Administración de Justicia, respetando el estatuto jurídico de ese personal establecido por la Ley Orgánica del Poder Judicial. En dichos términos, esta competencia de la Comunidad Autónoma de Canarias incluye la regulación de:
 
@@ -1917,7 +2127,7 @@ Subir
 
 [Bloque 110: #ar-88]
 
-### Artículo 88. Medios materiales.
+#### Artículo 88. Medios materiales.
 
 Corresponden a la Comunidad Autónoma de Canarias los medios materiales de la Administración de Justicia en Canarias. Esta competencia incluye, en todo caso:
 
@@ -1937,7 +2147,7 @@ Subir
 
 [Bloque 111: #ar-89]
 
-### Artículo 89. Oficina judicial.
+#### Artículo 89. Oficina judicial.
 
 Corresponde a la Comunidad Autónoma de Canarias, de acuerdo con la Ley Orgánica del Poder Judicial, determinar la creación, el diseño, la organización, la dotación y la gestión de las oficinas judiciales y de los órganos y servicios de apoyo a los órganos judiciales, incluyendo la regulación de las instituciones, los institutos y los servicios de medicina forense y de toxicología.
 
@@ -1945,7 +2155,7 @@ Subir
 
 [Bloque 112: #ar-90]
 
-### Artículo 90. Justicia gratuita.
+#### Artículo 90. Justicia gratuita.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia para ordenar los servicios de justicia gratuita y de orientación jurídica gratuita.
 
@@ -1953,7 +2163,7 @@ Subir
 
 [Bloque 113: #ar-91]
 
-### Artículo 91. Demarcación y planta judiciales.
+#### Artículo 91. Demarcación y planta judiciales.
 
 1. El Gobierno de la Comunidad Autónoma de Canarias, al menos cada cinco años, previo informe del Consejo de Justicia de Canarias, podrá proponer al Gobierno del Estado la determinación y la revisión de la demarcación y la planta judiciales en Canarias. Esta propuesta, que es preceptiva, deberá acompañar al proyecto de ley que el Gobierno envíe a las Cortes Generales. Igualmente, informará sobre la delimitación de las demarcaciones territoriales de los órganos judiciales, así como de su capitalidad, en los términos establecidos en la legislación del Estado.
 
@@ -1965,7 +2175,7 @@ Subir
 
 [Bloque 114: #ar-92]
 
-### Artículo 92. Justicia de paz y de proximidad.
+#### Artículo 92. Justicia de paz y de proximidad.
 
 1. La Comunidad Autónoma de Canarias tiene competencia sobre la justicia de paz en los términos que establezca la Ley Orgánica del Poder Judicial. La Comunidad Autónoma de Canarias también se hace cargo de sus indemnizaciones y es la competente para la provisión de los medios necesarios para el ejercicio de sus funciones. Le corresponde también la creación de las secretarías y su provisión.
 
@@ -1975,15 +2185,13 @@ Subir
 
 [Bloque 115: #ar-93]
 
-### Artículo 93. Solución extrajudicial de conflictos.
+#### Artículo 93. Solución extrajudicial de conflictos.
 
 La Comunidad Autónoma de Canarias impulsará los instrumentos y procedimientos de mediación, arbitraje y conciliación en la resolución de conflictos en las materias de su competencia.
 
 Subir
 
-[Bloque 116: #tv]
-
-### TÍTULO V
+## Título V
 
 ### De las competencias
 
@@ -1991,7 +2199,7 @@ Subir
 
 [Bloque 117: #ci-13]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### Disposiciones generales
 
@@ -1999,7 +2207,7 @@ Subir
 
 [Bloque 118: #ar-94]
 
-### Artículo 94. Clases de competencias.
+#### Artículo 94. Clases de competencias.
 
 1. La Comunidad Autónoma de Canarias ejercerá las competencias exclusivas, las competencias de desarrollo legislativo y de ejecución y las competencias ejecutivas previstas en el presente título, respetando lo dispuesto en la Constitución española y en el presente Estatuto de Autonomía.
 
@@ -2009,7 +2217,7 @@ Subir
 
 [Bloque 119: #ar-95]
 
-### Artículo 95. Competencias exclusivas.
+#### Artículo 95. Competencias exclusivas.
 
 1. En el ámbito de sus competencias exclusivas, la Comunidad Autónoma de Canarias ejerce, de forma íntegra, la potestad legislativa, la potestad reglamentaria y la función ejecutiva, sin perjuicio de la concurrencia de otros títulos competenciales del Estado.
 
@@ -2019,7 +2227,7 @@ Subir
 
 [Bloque 120: #ar-96]
 
-### Artículo 96. Competencias de desarrollo legislativo y de ejecución.
+#### Artículo 96. Competencias de desarrollo legislativo y de ejecución.
 
 1. En las competencias de desarrollo legislativo y de ejecución, corresponde a la Comunidad Autónoma de Canarias la potestad legislativa, la potestad reglamentaria y la función ejecutiva, en el marco de las bases que fije el Estado.
 
@@ -2029,9 +2237,7 @@ Subir
 
 [Bloque 121: #ar-97]
 
-### Artículo 97. Competencias ejecutivas.
-
-En el ámbito de sus competencias ejecutivas, corresponde a la Comunidad Autónoma de Canarias:
+#### Artículo 97. Competencias ejecutivas En el ámbito de sus competencias ejecutivas, corresponde a la Comunidad Autónoma de Canarias:.
 
 a) La función ejecutiva, que incluye, en todo caso, la potestad de organización de su propia administración, así como las potestades de inspección y de sanción y, en general, todas aquellas funciones y actividades que el ordenamiento atribuye a la Administración Pública.
 
@@ -2041,7 +2247,7 @@ Subir
 
 [Bloque 122: #ar-98]
 
-### Artículo 98. Principio de prevalencia.
+#### Artículo 98. Principio de prevalencia.
 
 El derecho propio de Canarias en materia de competencia exclusiva de la Comunidad Autónoma es aplicable en su territorio con preferencia a cualquier otro.
 
@@ -2049,7 +2255,7 @@ Subir
 
 [Bloque 123: #ar-99]
 
-### Artículo 99. Principio de territorialidad.
+#### Artículo 99. Principio de territorialidad.
 
 El ejercicio de las competencias autonómicas desplegará su eficacia en el territorio de Canarias, sin perjuicio, en su caso, de los eventuales efectos que por razón de la competencia ejercida pueda tener fuera de su territorio.
 
@@ -2057,7 +2263,7 @@ Subir
 
 [Bloque 124: #ar-100]
 
-### Artículo 100. Atribución de materias de competencia estatal.
+#### Artículo 100. Atribución de materias de competencia estatal.
 
 1. La Comunidad Autónoma de Canarias ejercerá las competencias no contempladas expresamente en este Estatuto en las materias que le sean transferidas o delegadas por el Estado.
 
@@ -2067,7 +2273,7 @@ Subir
 
 [Bloque 125: #ar-101]
 
-### Artículo 101. Modulación de la normativa estatal por razón de la condición ultraperiférica de Canarias.
+#### Artículo 101. Modulación de la normativa estatal por razón de la condición ultraperiférica de Canarias.
 
 La normativa que dicte el Estado en el ejercicio de sus competencias, sean exclusivas o compartidas, tendrá en cuenta las singularidades derivadas del carácter ultraperiférico de Canarias reconocidas por la Unión Europea.
 
@@ -2075,7 +2281,7 @@ Subir
 
 [Bloque 126: #ar-102]
 
-### Artículo 102. Fomento.
+#### Artículo 102. Fomento.
 
 1. En las materias de su competencia, corresponde a la Comunidad Autónoma el ejercicio de la actividad de fomento, a cuyos efectos podrá otorgar subvenciones con cargo a fondos propios, regulando o, en su caso, desarrollando los objetivos y requisitos de otorgamiento y gestionando su tramitación y concesión.
 
@@ -2087,7 +2293,7 @@ Subir
 
 [Bloque 127: #ci-14]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### Materias institucionales y administrativas
 
@@ -2095,23 +2301,23 @@ Subir
 
 [Bloque 128: #ar-103]
 
-### Artículo 103. Organización territorial.
+#### Artículo 103. Organización territorial.
 
-En el marco de la legislación básica estatal, corresponde a la Comunidad Autónoma de Canarias la competencia sobre la determinación, creación, modificación y supresión de las entidades locales que configuran la organización territorial de Canarias, así como el desarrollo de las previsiones del título III del presente Estatuto, respetando la garantía institucional establecida en los artículos 140 y 141 de la Constitución.
+En el marco de la legislación básica estatal, corresponde a la Comunidad Autónoma de Canarias la competencia sobre la determinación, creación, modificación y supresión de las entidades locales que configuran la organización territorial de Canarias, así como el desarrollo de las previsiones del título III del presente Estatuto, respetando la garantía institucional establecida en los artículos 140 y 141 de la Constitución.
 
 Subir
 
 [Bloque 129: #ar-104]
 
-### Artículo 104. Organización de la Administración de la Comunidad Autónoma de Canarias.
+#### Artículo 104. Organización de la Administración de la Comunidad Autónoma de Canarias.
 
-Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva para establecer la organización y el régimen de funcionamiento de su Administración, sin perjuicio de lo dispuesto en el artículo 149.1.18 de la Constitución. Esta competencia incluye, en todo caso, la facultad para crear, modificar y suprimir los órganos, unidades administrativas y las entidades que la configuran o que dependen de ella.
+Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva para establecer la organización y el régimen de funcionamiento de su Administración, sin perjuicio de lo dispuesto en el artículo 149.1.18 de la Constitución. Esta competencia incluye, en todo caso, la facultad para crear, modificar y suprimir los órganos, unidades administrativas y las entidades que la configuran o que dependen de ella.
 
 Subir
 
 [Bloque 130: #ar-105]
 
-### Artículo 105. Régimen territorial.
+#### Artículo 105. Régimen territorial.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución en materia de régimen local, que incluye, en todo caso:
 
@@ -2137,9 +2343,9 @@ Subir
 
 [Bloque 131: #ar-106]
 
-### Artículo 106. Régimen jurídico, procedimiento, contratación, expropiación y responsabilidad de las administraciones públicas canarias.
+#### Artículo 106. Régimen jurídico, procedimiento, contratación, expropiación y responsabilidad de las administraciones públicas canarias.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia en materia de régimen jurídico y procedimiento de las administraciones públicas canarias, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia en materia de régimen jurídico y procedimiento de las administraciones públicas canarias, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª de la Constitución. Esta competencia incluye, en todo caso:
 
 a) El establecimiento de los medios necesarios para ejercer las funciones administrativas, incluyendo la regulación del régimen de los bienes de dominio público y los patrimoniales de su titularidad.
 
@@ -2149,7 +2355,7 @@ c) La aprobación de las normas de procedimiento administrativo que deriven de l
 
 d) El establecimiento del régimen de precedencias y protocolo de sus propias autoridades y órganos.
 
-2. Corresponde a la Comunidad Autónoma de Canarias con respeto a lo dispuesto en el artículo 149.1.18.ª de la Constitución el ejercicio de sus competencias en materia de:
+2. Corresponde a la Comunidad Autónoma de Canarias con respeto a lo dispuesto en el artículo 149.1.18.ª de la Constitución el ejercicio de sus competencias en materia de:
 
 a) Procedimiento administrativo común.
 
@@ -2165,7 +2371,7 @@ Subir
 
 [Bloque 132: #ar-107]
 
-### Artículo 107. Función pública y personal al servicio de las administraciones públicas de Canarias.
+#### Artículo 107. Función pública y personal al servicio de las administraciones públicas de Canarias.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución en materia de función pública y personal al servicio de las administraciones públicas canarias, con el objetivo de garantizar la plenitud de los principios de mérito y capacidad en el ingreso y la provisión de plazas y empleos. Esta competencia incluye, en todo caso:
 
@@ -2179,7 +2385,7 @@ Subir
 
 [Bloque 133: #ar-108]
 
-### Artículo 108. Participación ciudadana.
+#### Artículo 108. Participación ciudadana.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva para regular:
 
@@ -2191,9 +2397,9 @@ Subir
 
 [Bloque 134: #ar-109]
 
-### Artículo 109. Corporaciones de Derecho público.
+#### Artículo 109. Corporaciones de Derecho público.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de colegios profesionales, cámaras oficiales, academias para el fomento y difusión de las artes, las ciencias y las letras, consejos reguladores, cofradías de pescadores y demás corporaciones de Derecho público que radiquen en Canarias, respetando lo dispuesto en los artículos 36, 52, 139 y 149.1. 18.ª de la Constitución. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de colegios profesionales, cámaras oficiales, academias para el fomento y difusión de las artes, las ciencias y las letras, consejos reguladores, cofradías de pescadores y demás corporaciones de Derecho público que radiquen en Canarias, respetando lo dispuesto en los artículos 36, 52, 139 y 149.1. 18.ª de la Constitución. Esta competencia incluye, en todo caso:
 
 a) La regulación de su constitución, agrupación y extinción, organización y funcionamiento, atribuciones, régimen económico, financiero y presupuestario, derechos y deberes, régimen electoral y régimen disciplinario.
 
@@ -2205,9 +2411,9 @@ Subir
 
 [Bloque 135: #ar-110]
 
-### Artículo 110. Asociaciones y fundaciones.
+#### Artículo 110. Asociaciones y fundaciones.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de asociaciones que desarrollen, mayoritariamente, sus funciones en el territorio de Canarias, respetando lo dispuesto en los artículos 149.1.1.ª y 149.1.8.ª de la Constitución española. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de asociaciones que desarrollen, mayoritariamente, sus funciones en el territorio de Canarias, respetando lo dispuesto en los artículos 149.1.1.ª y 149.1.8.ª de la Constitución española. Esta competencia incluye, en todo caso:
 
 a) La regulación de la constitución, régimen de responsabilidad, extinción y disolución, organización y funcionamiento interno, así como derechos y deberes de los asociados.
 
@@ -2231,7 +2437,7 @@ Subir
 
 [Bloque 136: #ar-111]
 
-### Artículo 111. Notariado y registros públicos.
+#### Artículo 111. Notariado y registros públicos.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia ejecutiva sobre:
 
@@ -2245,7 +2451,7 @@ Subir
 
 [Bloque 137: #ar-112]
 
-### Artículo 112. Relaciones con entidades religiosas.
+#### Artículo 112. Relaciones con entidades religiosas.
 
 1. La Comunidad Autónoma de Canarias podrá establecer mecanismos de colaboración y cooperación con las entidades religiosas legalmente reconocidas, que lleven a cabo su actividad en el ámbito territorial de Canarias, en el marco establecido por la legislación estatal.
 
@@ -2255,15 +2461,15 @@ Subir
 
 [Bloque 138: #ar-113]
 
-### Artículo 113. Protección de datos.
+#### Artículo 113. Protección de datos.
 
-Corresponde a la Comunidad Autónoma de Canarias la competencia sobre protección de datos de carácter personal en aquellas materias en las que ostenta un título competencial, respetando la reserva de ley orgánica y el artículo 149.1.1.ª de la Constitución.
+Corresponde a la Comunidad Autónoma de Canarias la competencia sobre protección de datos de carácter personal en aquellas materias en las que ostenta un título competencial, respetando la reserva de ley orgánica y el artículo 149.1.1.ª de la Constitución.
 
 Subir
 
 [Bloque 139: #ci-15]
 
-### CAPÍTULO III
+### Capítulo III
 
 ### Económico-financieras
 
@@ -2271,9 +2477,9 @@ Subir
 
 [Bloque 140: #ar-114]
 
-### Artículo 114. Planificación, ordenación y promoción de la actividad económica.
+#### Artículo 114. Planificación, ordenación y promoción de la actividad económica.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de planificación y promoción de la actividad económica en Canarias, sin perjuicio de lo establecido en los artículos 149.1.11.ª y 13.ª de la Constitución.
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de planificación y promoción de la actividad económica en Canarias, sin perjuicio de lo establecido en los artículos 149.1.11.ª y 13.ª de la Constitución.
 
 2. Corresponde a la Comunidad Autónoma de Canarias las competencias de desarrollo legislativo y de ejecución en materia de ordenación de la actividad económica en Canarias.
 
@@ -2289,7 +2495,7 @@ Subir
 
 [Bloque 141: #ar-115]
 
-### Artículo 115. Atribución a la Comunidad Autónoma de Canarias de competencias normativas en el Impuesto General Indirecto Canario y en el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
+#### Artículo 115. Atribución a la Comunidad Autónoma de Canarias de competencias normativas en el Impuesto General Indirecto Canario y en el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.
 
 La Comunidad Autónoma de Canarias dispondrá de competencias normativas en el Impuesto General Indirecto Canario y en el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias con el alcance y condiciones establecidas en la legislación aplicable y su normativa de desarrollo.
 
@@ -2297,9 +2503,9 @@ Subir
 
 [Bloque 142: #ar-116]
 
-### Artículo 116. Cajas de ahorro y entidades cooperativas de créditos.
+#### Artículo 116. Cajas de ahorro y entidades cooperativas de créditos.
 
-1. Corresponde a la Comunidad Autónoma de Canarias, en materia de cajas de ahorro y entidades cooperativas de crédito con domicilio en Canarias, la competencia exclusiva sobre la regulación de su organización, respetando lo establecido por el Estado en el ejercicio de las competencias que le atribuyen los artículos 149.1.11.ª y 149.1.13.ª de la Constitución. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias, en materia de cajas de ahorro y entidades cooperativas de crédito con domicilio en Canarias, la competencia exclusiva sobre la regulación de su organización, respetando lo establecido por el Estado en el ejercicio de las competencias que le atribuyen los artículos 149.1.11.ª y 149.1.13.ª de la Constitución. Esta competencia incluye, en todo caso:
 
 a) La determinación de sus órganos rectores y de la forma en que los distintos intereses sociales deben estar representados.
 
@@ -2321,13 +2527,13 @@ Subir
 
 [Bloque 143: #ar-117]
 
-### Artículo 117. Crédito, banca, seguros y mutualidades no integradas en el sistema de Seguridad Social.
+#### Artículo 117. Crédito, banca, seguros y mutualidades no integradas en el sistema de Seguridad Social.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución en materia de ordenación del crédito, banca, seguros, mutualidades y gestoras de planes de pensiones no integradas en la Seguridad Social.
 
 2. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre la estructura, la organización y el funcionamiento de las mutualidades de previsión social no integradas en el sistema de Seguridad Social.
 
-3. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y ejecución sobre la estructura, la organización, el funcionamiento y la actividad de las entidades de crédito distintas de las cajas de ahorro y entidades cooperativas de crédito, de las entidades gestoras de planes y fondos de pensiones, de los operadores y entidades que actúan en el mercado asegurador a los que no hace referencia el apartado 2, de acuerdo con las bases estatales.
+3. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y ejecución sobre la estructura, la organización, el funcionamiento y la actividad de las entidades de crédito distintas de las cajas de ahorro y entidades cooperativas de crédito, de las entidades gestoras de planes y fondos de pensiones, de los operadores y entidades que actúan en el mercado asegurador a los que no hace referencia el apartado 2, de acuerdo con las bases estatales.
 
 En el ejercicio de esta competencia, la Administración autonómica podrá ejercer las potestades de inspección y sanción.
 
@@ -2335,19 +2541,19 @@ Subir
 
 [Bloque 144: #ar-118]
 
-### Artículo 118. Cooperativas y economía social.
+#### Artículo 118. Cooperativas y economía social.
 
 1. Corresponde a la Comunidad Autónoma de Canarias, conforme con la legislación mercantil, la competencia exclusiva en materia de cooperativas y de entidades de economía social.
 
 2. La regulación y el fomento del cooperativismo incluyen la regulación del asociacionismo cooperativo; la enseñanza y la formación cooperativas; y la fijación de los criterios, la regulación de las condiciones, la ejecución y el control de las ayudas públicas al mundo cooperativo.
 
-3. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre el fomento y la ordenación del sector de la economía social, respetando lo dispuesto en el artículo 149.1.13.ª de la Constitución española.
+3. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre el fomento y la ordenación del sector de la economía social, respetando lo dispuesto en el artículo 149.1.13.ª de la Constitución española.
 
 Subir
 
 [Bloque 145: #ar-119]
 
-### Artículo 119. Mercados de valores y centros de contratación.
+#### Artículo 119. Mercados de valores y centros de contratación.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia compartida en materia de mercados de valores y centros de contratación situados en Canarias, de acuerdo con la legislación mercantil. Esta competencia incluye, en todo caso:
 
@@ -2363,7 +2569,7 @@ Subir
 
 [Bloque 146: #ar-120]
 
-### Artículo 120. Promoción y defensa de la competencia.
+#### Artículo 120. Promoción y defensa de la competencia.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de promoción de la competencia en los mercados respecto de las actividades económicas que se ejercen principalmente en Canarias.
 
@@ -2381,7 +2587,7 @@ Subir
 
 [Bloque 147: #ar-121]
 
-### Artículo 121. Consumo.
+#### Artículo 121. Consumo.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de consumo, que incluye, en todo caso, la defensa, de conformidad con la legislación mercantil, procesal y civil, de los derechos de los consumidores y usuarios, el establecimiento y la aplicación de los procedimientos administrativos de queja y reclamación, el sistema de mediación, la regulación de la formación, información y divulgación en materia de consumo responsable y hábitos saludables, así como el de las asociaciones que puedan crearse en este ámbito.
 
@@ -2389,7 +2595,7 @@ Subir
 
 [Bloque 148: #ar-122]
 
-### Artículo 122. Estadística.
+#### Artículo 122. Estadística.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre estadística para sus propios fines, la planificación estadística, la creación, la gestión y la organización de un sistema estadístico propio que incluirá el análisis masivo de datos y la revisión continua de los indicadores sociales y económicos.
 
@@ -2399,7 +2605,7 @@ Subir
 
 [Bloque 149: #ar-123]
 
-### Artículo 123. Publicidad.
+#### Artículo 123. Publicidad.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de publicidad, sin perjuicio de la legislación del Estado.
 
@@ -2407,7 +2613,7 @@ Subir
 
 [Bloque 150: #ci-16]
 
-### CAPÍTULO IV
+### Capítulo IV
 
 ### Actividades industriales, comerciales y turísticas
 
@@ -2415,9 +2621,9 @@ Subir
 
 [Bloque 151: #ar-124]
 
-### Artículo 124. Industria, artesanía, control metrológico y contraste de metales.
+#### Artículo 124. Industria, artesanía, control metrológico y contraste de metales.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de industria, salvo lo establecido en el apartado 2 y sin perjuicio de las que corresponden al Estado. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de industria, salvo lo establecido en el apartado 2 y sin perjuicio de las que corresponden al Estado. Esta competencia incluye, en todo caso:
 
 a) La ordenación de los sectores y de los procesos industriales en Canarias.
 
@@ -2443,7 +2649,7 @@ Subir
 
 [Bloque 152: #ar-125]
 
-### Artículo 125. Propiedad intelectual e industrial.
+#### Artículo 125. Propiedad intelectual e industrial.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia ejecutiva en materia de propiedad intelectual e industrial, que incluye, en todo caso, las funciones de inspección, vigilancia y control en la materia.
 
@@ -2451,7 +2657,7 @@ Subir
 
 [Bloque 153: #ar-126]
 
-### Artículo 126. Comercio interior y ferias no internacionales.
+#### Artículo 126. Comercio interior y ferias no internacionales.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de comercio y ferias, que incluye la ordenación de la actividad comercial y de la actividad ferial no internacional. En todo caso, esta competencia comprende:
 
@@ -2471,7 +2677,7 @@ Subir
 
 [Bloque 154: #ar-127]
 
-### Artículo 127. Comercio exterior y ferias internacionales.
+#### Artículo 127. Comercio exterior y ferias internacionales.
 
 1. En razón de su condición de región ultraperiférica, la Comunidad Autónoma de Canarias participará, a través de fórmulas de cooperación y colaboración con el Estado, en materia de comercio exterior con África y países de América con vinculaciones históricas con Canarias. Esta competencia comprende, en todo caso:
 
@@ -2495,7 +2701,7 @@ Subir
 
 [Bloque 155: #ar-128]
 
-### Artículo 128. Juego y espectáculos.
+#### Artículo 128. Juego y espectáculos.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de juego, de apuestas y casinos, incluidas las modalidades por medios informáticos y telemáticos, cuando la actividad se desarrolle exclusivamente en Canarias. En todo caso, esta competencia comprende:
 
@@ -2513,7 +2719,7 @@ Subir
 
 [Bloque 156: #ar-129]
 
-### Artículo 129. Turismo.
+#### Artículo 129. Turismo.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de turismo, que incluye, en todo caso:
 
@@ -2533,7 +2739,7 @@ Subir
 
 [Bloque 157: #cv-4]
 
-### CAPÍTULO V
+### Capítulo V
 
 ### Sector primario
 
@@ -2541,9 +2747,9 @@ Subir
 
 [Bloque 158: #ar-130]
 
-### Artículo 130. Agricultura, ganadería, aprovechamientos forestales y desarrollo rural.
+#### Artículo 130. Agricultura, ganadería, aprovechamientos forestales y desarrollo rural.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de agricultura y ganadería, respetando lo establecido por el Estado en el ejercicio de las competencias que le atribuye el artículo 149.1.13.ª, 16.ª y 23.ª de la Constitución. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de agricultura y ganadería, respetando lo establecido por el Estado en el ejercicio de las competencias que le atribuye el artículo 149.1.13.ª, 16.ª y 23.ª de la Constitución. Esta competencia incluye, en todo caso:
 
 a) La regulación y el desarrollo de la agricultura, la ganadería y el sector agroalimentario.
 
@@ -2579,17 +2785,19 @@ Subir
 
 [Bloque 159: #ar-131]
 
-### Artículo 131. Caza, pesca, actividades marítimas y ordenación del sector pesquero.
+#### Artículo 131. Caza, pesca, actividades marítimas y ordenación del sector pesquero.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de caza, que incluye, en todo caso, la planificación, la regulación, la vigilancia, así como la fijación del régimen de aprovechamiento de los recursos cinegéticos.
 
-2. Corresponde a la Comunidad Autónoma de Canarias, en las aguas canarias definidas conforme establece el artículo 4 del presente Estatuto, de acuerdo con la legislación estatal, la competencia en materia:
+2. Corresponde a la Comunidad Autónoma de Canarias, en las aguas canarias definidas conforme establece el artículo 4 l.
+
+presente Estatuto, de acuerdo con la legislación estatal, la competencia en materia:
 
 a) La ordenación del sector pesquero y recreativo.
 
 b) El fomento de las actividades de investigación, de desarrollo y de innovación y transferencia de tecnologías pesqueras, que favorezcan el aprovechamiento racional y sostenible, la conservación de los recursos marinos, así como la mejora de la calidad de vida del sector pesquero.
 
-3. Corresponde a la Comunidad Autónoma de Canarias la competencia en materia de actividades en los espacios marítimos definidos en el artículo 4 de este Estatuto, que incluye, en todo caso:
+3. Corresponde a la Comunidad Autónoma de Canarias la competencia en materia de actividades en los espacios marítimos definidos en el artículo 4 de este Estatuto, que incluye, en todo caso:
 
 a) La planificación, la ordenación y la gestión del marisqueo y la acuicultura, así como de las instalaciones destinadas a estas actividades.
 
@@ -2605,9 +2813,9 @@ Subir
 
 [Bloque 160: #ar-132]
 
-### Artículo 132. Denominaciones de origen e indicaciones geográficas y de calidad.
+#### Artículo 132. Denominaciones de origen e indicaciones geográficas y de calidad.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre denominaciones de origen y otras menciones de calidad, respetando lo dispuesto en el artículo 149.1.13.a de la Constitución. Esta competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre denominaciones de origen y otras menciones de calidad, respetando lo dispuesto en el artículo 149.1.13.a de la Constitución. Esta competencia incluye, en todo caso:
 
 a) La regulación de su creación y funcionamiento.
 
@@ -2629,7 +2837,7 @@ Subir
 
 [Bloque 161: #cv-5]
 
-### CAPÍTULO VI
+### Capítulo VI
 
 ### Educación, investigación, cultura y deporte
 
@@ -2637,9 +2845,9 @@ Subir
 
 [Bloque 162: #ar-133]
 
-### Artículo 133. Educación.
+#### Artículo 133. Educación.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado y a las enseñanzas de educación infantil, dejando a salvo lo dispuesto en los artículos 27 y 149.1.30.a de la Constitución. Dicha competencia incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que conducen a la obtención de un título académico o profesional con validez en todo el Estado y a las enseñanzas de educación infantil, dejando a salvo lo dispuesto en los artículos 27 y 149.1.30.a de la Constitución. Dicha competencia incluye, en todo caso:
 
 a) La determinación de los contenidos educativos del primer ciclo de la educación infantil y la regulación de los centros en los que se imparta dicho ciclo, así como la definición de sus plantillas de profesorado y las titulaciones y especializaciones del personal restante.
 
@@ -2659,7 +2867,7 @@ h) La inspección, la evaluación y la garantía de la calidad del sistema educa
 
 2. Corresponde a la Comunidad Autónoma de Canarias, en materia de enseñanza no universitaria, la competencia exclusiva sobre las enseñanzas postobligatorias que no conduzcan a la obtención de título o certificación académica o profesional con validez en todo el Estado, y sobre los centros docentes en que se impartan estas enseñanzas.
 
-3. En lo no regulado en el apartado 1 anterior y en relación con las enseñanzas que en él se contemplan, corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, que incluye, en todo caso:
+3. En lo no regulado en el apartado 1 anterior y en relación con las enseñanzas que en él se contemplan, corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, que incluye, en todo caso:
 
 a) La programación de la enseñanza, su definición, y la evaluación del sistema educativo.
 
@@ -2689,7 +2897,7 @@ Subir
 
 [Bloque 163: #ar-134]
 
-### Artículo 134. Universidades.
+#### Artículo 134. Universidades.
 
 1. Corresponde a la Comunidad Autónoma de Canarias, respetando la autonomía universitaria, la competencia de desarrollo legislativo y de ejecución en materia de enseñanza universitaria, que incluye, en todo caso:
 
@@ -2731,7 +2939,7 @@ Subir
 
 [Bloque 164: #ar-135]
 
-### Artículo 135. Investigación, desarrollo e innovación científica y tecnológica.
+#### Artículo 135. Investigación, desarrollo e innovación científica y tecnológica.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de investigación, desarrollo e innovación científica y tecnológica con relación a sus propios centros y estructuras de investigación, que incluye, en todo caso:
 
@@ -2755,7 +2963,7 @@ Subir
 
 [Bloque 165: #ar-136]
 
-### Artículo 136. Cultura.
+#### Artículo 136. Cultura.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de cultura, que comprende las actividades artísticas y culturales que se lleven a cabo en Canarias. Dicha competencia incluye, en todo caso:
 
@@ -2775,9 +2983,9 @@ Subir
 
 [Bloque 166: #ar-137]
 
-### Artículo 137. Patrimonio cultural.
+#### Artículo 137. Patrimonio cultural.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre el patrimonio cultural, sin perjuicio del artículo 149.2 de la Constitución, que en todo caso incluye la regulación del régimen jurídico de los bienes, actividades y demás manifestaciones que lo integran por sus valores históricos, arquitectónicos, artísticos, arqueológicos, etnográficos, paleontológicos, científicos o técnicos, así como los bienes inmateriales de la cultura popular canaria y las particularidades lingüísticas del español hablado en Canarias.
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre el patrimonio cultural, sin perjuicio del artículo 149.2 de la Constitución, que en todo caso incluye la regulación del régimen jurídico de los bienes, actividades y demás manifestaciones que lo integran por sus valores históricos, arquitectónicos, artísticos, arqueológicos, etnográficos, paleontológicos, científicos o técnicos, así como los bienes inmateriales de la cultura popular canaria y las particularidades lingüísticas del español hablado en Canarias.
 
 2. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre los archivos, las bibliotecas, los museos y los centros de depósito cultural que no son de titularidad estatal, incluyendo sus diferentes fondos culturales, cualquiera que sea el soporte o forma en que se expresen.
 
@@ -2789,7 +2997,7 @@ Subir
 
 [Bloque 167: #ar-138]
 
-### Artículo 138. Deporte y actividades de ocio.
+#### Artículo 138. Deporte y actividades de ocio.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de deporte y actividades de ocio, que incluye, en todo caso:
 
@@ -2819,7 +3027,7 @@ Subir
 
 [Bloque 168: #cv-6]
 
-### CAPÍTULO VII
+### Capítulo VII
 
 ### Empleo, sanidad y políticas sociales
 
@@ -2827,7 +3035,7 @@ Subir
 
 [Bloque 169: #ar-139]
 
-### Artículo 139. Empleo y relaciones laborales.
+#### Artículo 139. Empleo y relaciones laborales.
 
 1. Corresponden a la Comunidad Autónoma de Canarias, en el marco de la legislación del Estado, las competencias ejecutivas en materia de empleo y relaciones laborales, que incluyen, en todo caso:
 
@@ -2857,7 +3065,7 @@ Subir
 
 [Bloque 170: #ar-140]
 
-### Artículo 140. Seguridad Social.
+#### Artículo 140. Seguridad Social.
 
 1. Corresponde a la Comunidad Autónoma de Canarias el desarrollo legislativo y la ejecución de la legislación estatal de la Seguridad Social, a excepción de su régimen económico.
 
@@ -2867,7 +3075,7 @@ Subir
 
 [Bloque 171: #ar-141]
 
-### Artículo 141. Salud, sanidad y farmacia.
+#### Artículo 141. Salud, sanidad y farmacia.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre organización, funcionamiento interno, evaluación, inspección y control de centros, servicios y establecimientos sanitarios.
 
@@ -2893,7 +3101,7 @@ Subir
 
 [Bloque 172: #ar-142]
 
-### Artículo 142. Servicios sociales.
+#### Artículo 142. Servicios sociales.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de servicios sociales, que incluye, en todo caso:
 
@@ -2907,7 +3115,7 @@ Subir
 
 [Bloque 173: #ar-143]
 
-### Artículo 143. Vivienda.
+#### Artículo 143. Vivienda.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de vivienda, que incluye, en todo caso:
 
@@ -2923,7 +3131,7 @@ Subir
 
 [Bloque 174: #ar-144]
 
-### Artículo 144. Inmigración.
+#### Artículo 144. Inmigración.
 
 1. Corresponde a la Comunidad Autónoma de Canarias, en materia de inmigración sin perjuicio de las competencias constitucionalmente atribuidas al Estado sobre la materia:
 
@@ -2947,9 +3155,9 @@ Subir
 
 [Bloque 175: #ar-145]
 
-### Artículo 145. Políticas de género.
+#### Artículo 145. Políticas de género.
 
-1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de políticas de género, que, respetando lo establecido por el Estado en el ejercicio de la competencia que le atribuye el artículo 149.1.1.a de la Constitución, incluye, en todo caso:
+1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de políticas de género, que, respetando lo establecido por el Estado en el ejercicio de la competencia que le atribuye el artículo 149.1.1.a de la Constitución, incluye, en todo caso:
 
 a) La promoción de la igualdad de hombres y mujeres en todos los ámbitos sociales, laborales, económicos o representativos.
 
@@ -2963,7 +3171,7 @@ Subir
 
 [Bloque 176: #ar-146]
 
-### Artículo 146. Política de juventud.
+#### Artículo 146. Política de juventud.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de juventud, que incluye en todo caso:
 
@@ -2979,7 +3187,7 @@ Subir
 
 [Bloque 177: #ar-147]
 
-### Artículo 147. Voluntariado, menores y promoción de las familias.
+#### Artículo 147. Voluntariado, menores y promoción de las familias.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de voluntariado, que incluye, en todo caso, la definición de la actividad, así como la regulación y la promoción de las actuaciones destinadas a la solidaridad y a la acción voluntaria, que se ejecuten individualmente o a través de instituciones públicas o privadas.
 
@@ -2993,7 +3201,7 @@ Subir
 
 [Bloque 178: #cv-7]
 
-### CAPÍTULO VIII
+### Capítulo VIII
 
 ### Seguridad
 
@@ -3001,11 +3209,11 @@ Subir
 
 [Bloque 179: #ar-148]
 
-### Artículo 148. Policía autonómica.
+#### Artículo 148. Policía autonómica.
 
-1. Corresponde a la Comunidad Autónoma de Canarias el establecimiento de políticas de seguridad públicas y de protección de personas y bienes en los términos previstos en el artículo 149.1.29.a de la Constitución.
+1. Corresponde a la Comunidad Autónoma de Canarias el establecimiento de políticas de seguridad públicas y de protección de personas y bienes en los términos previstos en el artículo 149.1.29.a de la Constitución.
 
-2. Corresponde a la Comunidad Autónoma de Canarias la creación, organización y mando de un Cuerpo de Policía Canaria que, sin perjuicio de las funciones de los Cuerpos de Seguridad del Estado, y en el marco de lo dispuesto en el artículo 149.1.29.ª de la Constitución, desempeñe en su integridad las que le sean propias bajo la directa dependencia del Gobierno de Canarias.
+2. Corresponde a la Comunidad Autónoma de Canarias la creación, organización y mando de un Cuerpo de Policía Canaria que, sin perjuicio de las funciones de los Cuerpos de Seguridad del Estado, y en el marco de lo dispuesto en el artículo 149.1.29.ª de la Constitución, desempeñe en su integridad las que le sean propias bajo la directa dependencia del Gobierno de Canarias.
 
 3. Corresponde, asimismo, a la Comunidad Autónoma de Canarias la ordenación general y la coordinación supramunicipal de las policías locales canarias, sin perjuicio de su dependencia de las autoridades municipales.
 
@@ -3015,7 +3223,7 @@ Subir
 
 [Bloque 180: #ar-149]
 
-### Artículo 149. Protección civil y salvamento marítimo.
+#### Artículo 149. Protección civil y salvamento marítimo.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia en materia de protección civil, de acuerdo con la legislación estatal, que incluye, en todo caso, la regulación, planificación y ejecución de medidas relativas a las emergencias y la seguridad civil, así como la dirección y coordinación de los servicios de protección civil, que comprende los servicios de prevención y extinción de incendios, respetando las competencias del Estado en materia de seguridad pública.
 
@@ -3025,7 +3233,7 @@ Subir
 
 [Bloque 181: #ar-150]
 
-### Artículo 150. Seguridad privada.
+#### Artículo 150. Seguridad privada.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia ejecutiva en materia de seguridad privada, que incluye, en todo caso:
 
@@ -3041,7 +3249,7 @@ Subir
 
 [Bloque 182: #ar-151]
 
-### Artículo 151. Sistema penitenciario.
+#### Artículo 151. Sistema penitenciario.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia ejecutiva en materia penitenciaria.
 
@@ -3049,7 +3257,7 @@ Subir
 
 [Bloque 183: #ci-17]
 
-### CAPÍTULO IX
+### Capítulo IX
 
 ### Ordenación de los recursos naturales
 
@@ -3057,7 +3265,7 @@ Subir
 
 [Bloque 184: #ar-152]
 
-### Artículo 152. Aguas y obras hidráulicas.
+#### Artículo 152. Aguas y obras hidráulicas.
 
 1. A la Comunidad Autónoma de Canarias le corresponde, sin perjuicio de lo dispuesto en la legislación estatal, la competencia exclusiva en materia de aguas, que incluye, en todo caso:
 
@@ -3073,7 +3281,7 @@ Subir
 
 [Bloque 185: #ar-153]
 
-### Artículo 153. Medio ambiente.
+#### Artículo 153. Medio ambiente.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución de la legislación estatal en materia de medio ambiente, lo que incluye en todo caso:
 
@@ -3115,7 +3323,7 @@ Subir
 
 [Bloque 186: #ar-154]
 
-### Artículo 154. Espacios naturales protegidos.
+#### Artículo 154. Espacios naturales protegidos.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de espacios naturales protegidos en el ámbito espacial de Canarias.
 
@@ -3125,7 +3333,7 @@ Subir
 
 [Bloque 187: #ar-155]
 
-### Artículo 155. Servicio de meteorología.
+#### Artículo 155. Servicio de meteorología.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva para el establecimiento de un servicio de meteorología para la obtención de información meteorológica y climática, incluyendo el pronóstico, el control y el seguimiento de las situaciones meteorológicas de riesgo, así como la investigación en estos ámbitos y la elaboración de la cartografía climática. Mediante acuerdos o convenios, el Estado y la Comunidad Autónoma podrán colaborar en esta materia.
 
@@ -3133,7 +3341,7 @@ Subir
 
 [Bloque 188: #ar-156]
 
-### Artículo 156. Ordenación del territorio y del paisaje.
+#### Artículo 156. Ordenación del territorio y del paisaje.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de ordenación del territorio y del paisaje, que incluye, en todo caso:
 
@@ -3149,7 +3357,7 @@ Subir
 
 [Bloque 189: #ar-157]
 
-### Artículo 157. Ordenación y gestión del litoral.
+#### Artículo 157. Ordenación y gestión del litoral.
 
 Corresponde a la Comunidad Autónoma de Canarias, en materia de ordenación del litoral, respetando el régimen general del dominio público, la competencia exclusiva, que incluye en todo caso:
 
@@ -3169,7 +3377,7 @@ Subir
 
 [Bloque 190: #ar-158]
 
-### Artículo 158. Urbanismo.
+#### Artículo 158. Urbanismo.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de urbanismo, que incluye, en todo caso, la regulación de los siguientes aspectos:
 
@@ -3185,9 +3393,7 @@ e) La protección de la legalidad urbanística, que incluye, en todo caso, la in
 
 Subir
 
-[Bloque 191: #cx]
-
-### CAPÍTULO X
+### Capítulo X
 
 ### Infraestructuras y redes
 
@@ -3195,7 +3401,7 @@ Subir
 
 [Bloque 192: #ar-159]
 
-### Artículo 159. Obras públicas.
+#### Artículo 159. Obras públicas.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva en materia de obras públicas que se ejecutan en el territorio de Canarias y que no hayan sido calificadas de interés general.
 
@@ -3209,7 +3415,7 @@ Subir
 
 [Bloque 193: #ar-160]
 
-### Artículo 160. Transportes.
+#### Artículo 160. Transportes.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre los transportes terrestres de viajeros y mercancías por carretera, ferrocarril y cable y sobre el transporte marítimo que transcurra íntegramente dentro del ámbito del Archipiélago. Esta competencia incluye, en todo caso:
 
@@ -3225,7 +3431,7 @@ Subir
 
 [Bloque 194: #ar-161]
 
-### Artículo 161. Infraestructuras del transporte.
+#### Artículo 161. Infraestructuras del transporte.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre puertos, aeropuertos, helipuertos y demás infraestructuras de transporte que no tengan la calificación de interés general por el Estado y la competencia de ejecución sobre puertos y aeropuertos con calificación de interés general, cuando el Estado no se reserve su gestión directa. Esta competencia, incluye, en todo caso:
 
@@ -3239,7 +3445,7 @@ d) La delimitación de la zona de servicios que sea necesaria, y la determinaci�
 
 2. Corresponde a la Comunidad Autónoma de Canarias la participación en la planificación y la programación y gestión de puertos y aeropuertos de interés general en los términos que determine la normativa estatal, por tratarse de redes esenciales para la conexión del territorio como región ultraperiférica.
 
-3. Los puertos y aeropuertos radicados en Canarias calificados de interés general que no sean de competencia autonómica por ser gestionados directamente por el Estado, de acuerdo con el apartado 1 de este artículo, tienen un régimen especial de funcionamiento establecido en una ley en el que participarán las administraciones públicas canarias debido al carácter archipielágico y ultraperiférico.
+3. Los puertos y aeropuertos radicados en Canarias calificados de interés general que no sean de competencia autonómica por ser gestionados directamente por el Estado, de acuerdo con el apartado 1 de este artículo, tienen un régimen especial de funcionamiento establecido en una ley en el que participarán las administraciones públicas canarias debido al carácter archipielágico y ultraperiférico.
 
 4. La Comunidad Autónoma de Canarias podrá participar, en los términos establecidos en la legislación estatal, en las decisiones que se adopten sobre el establecimiento de tasas, precios públicos o prestaciones públicas patrimoniales que afecten a los aeropuertos canarios.
 
@@ -3247,7 +3453,7 @@ Subir
 
 [Bloque 195: #ar-162]
 
-### Artículo 162. Carreteras y ferrocarriles.
+#### Artículo 162. Carreteras y ferrocarriles.
 
 Corresponde a la Comunidad Autónoma de Canarias la competencia exclusiva sobre su red viaria y ferroviaria. Esta competencia incluye, en todo caso, la ordenación, planificación, gestión integrada, establecimiento del régimen jurídico y financiero de todos los elementos de las redes viarias y ferroviarias y su conectividad con otros modos de transporte.
 
@@ -3255,9 +3461,9 @@ Subir
 
 [Bloque 196: #ar-163]
 
-### Artículo 163. Energía, hidrocarburos y minas.
+#### Artículo 163. Energía, hidrocarburos y minas.
 
-1. Corresponde a la Comunidad Autónoma de Canarias, sin perjuicio de lo previsto en el artículo 149.1.13.ª y 25.ª de la Constitución, la competencia sobre las siguientes materias:
+1. Corresponde a la Comunidad Autónoma de Canarias, sin perjuicio de lo previsto en el artículo 149.1.13.ª y 25.ª de la Constitución, la competencia sobre las siguientes materias:
 
 a) Instalaciones de producción, distribución y transporte de energía, cuando no estén ubicadas en el mar territorial, este transporte transcurra íntegramente por el territorio de Canarias y su aprovechamiento no afecte a otro territorio, sin perjuicio de sus competencias generales sobre industria.
 
@@ -3265,7 +3471,7 @@ b) Fomento y gestión de las energías renovables y de la eficiencia energética
 
 c) El régimen minero en relación a la regulación y el régimen de intervención administrativa así como el control de las minas y los recursos mineros que estén situados en el territorio canario y de las actividades extractivas que se lleven a cabo.
 
-d) Autorización de instalaciones de producción, depósito y transporte de energías, así como su inspección y control, de acuerdo con las bases y coordinación de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª de la Constitución.
+d) Autorización de instalaciones de producción, depósito y transporte de energías, así como su inspección y control, de acuerdo con las bases y coordinación de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª de la Constitución.
 
 2. La Administración de la Comunidad Autónoma de Canarias participará en la regulación y planificación estatal del sector de la energía que afecte a Canarias.
 
@@ -3275,7 +3481,7 @@ Subir
 
 [Bloque 197: #ar-164]
 
-### Artículo 164. Medios de comunicación social y servicios de contenido audiovisual.
+#### Artículo 164. Medios de comunicación social y servicios de contenido audiovisual.
 
 1. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución en materia de medios de comunicación social y audiovisual, con independencia de la tecnología que se utilice.
 
@@ -3285,7 +3491,7 @@ Subir
 
 [Bloque 198: #tv-2]
 
-### TÍTULO VI
+## Título VI
 
 ### Economía y Hacienda
 
@@ -3293,7 +3499,7 @@ Subir
 
 [Bloque 199: #ci-18]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### Del Régimen Económico y Fiscal de Canarias
 
@@ -3301,7 +3507,7 @@ Subir
 
 [Bloque 200: #ar-165]
 
-### Artículo 165. Disposiciones generales.
+#### Artículo 165. Disposiciones generales.
 
 1. En el marco del derecho constitucional a la propiedad privada, la riqueza de Canarias está subordinada al interés general.
 
@@ -3313,13 +3519,13 @@ Subir
 
 [Bloque 201: #ar-166]
 
-### Artículo 166. Principios básicos.
+#### Artículo 166. Principios básicos.
 
 1. Canarias tiene un régimen económico y fiscal especial, propio de su acervo histórico constitucionalmente reconocido y justificado por sus hechos diferenciales.
 
 2. El régimen económico y fiscal de Canarias se basa en la libertad comercial de importación y exportación, en la no aplicación de monopolios, en las franquicias fiscales estatales sobre el consumo, y en una política fiscal diferenciada y con una imposición indirecta singular, que se deriva del reconocimiento de las Islas Canarias como región ultraperiférica en el Tratado de Funcionamiento de la Unión Europea.
 
-3. Los recursos del Régimen Económico y Fiscal son adicionales a los contemplados en la política y normativa vigente en cada momento para la financiación de la Comunidad Autónoma de Canarias y de sus Entidades Locales. En los términos que determine la Ley Orgánica 8/1980, de Financiación de las Comunidades Autónomas y sus normas de desarrollo, estos recursos tributarios no se integrarán, ni computarán, en el Sistema de Financiación Autonómica para respetar el espacio fiscal propio canario y para que su desarrollo no penalice la autonomía financiera de la Comunidad Autónoma de Canarias.
+3. Los recursos del Régimen Económico y Fiscal son adicionales a los contemplados en la política y normativa vigente en cada momento para la financiación de la Comunidad Autónoma de Canarias y de sus Entidades Locales. En los términos que determine la Ley Orgánica 8/1980, de Financiación de las Comunidades Autónomas y sus normas de desarrollo, estos recursos tributarios no se integrarán, ni computarán, en el Sistema de Financiación Autonómica para respetar el espacio fiscal propio canario y para que su desarrollo no penalice la autonomía financiera de la Comunidad Autónoma de Canarias.
 
 4. La Comunidad Autónoma de Canarias tendrá facultades normativas y ejecutivas sobre su régimen especial económico y fiscal en los términos de la normativa estatal.
 
@@ -3327,7 +3533,7 @@ Subir
 
 [Bloque 202: #ar-167]
 
-### Artículo 167. Modificación.
+#### Artículo 167. Modificación.
 
 1. El régimen económico-fiscal de Canarias sólo podrá ser modificado de acuerdo con lo establecido en la disposición adicional tercera de la Constitución, previo informe del Parlamento Canario que, para ser favorable, deberá ser aprobado por las dos terceras partes de sus miembros.
 
@@ -3347,7 +3553,7 @@ Subir
 
 [Bloque 203: #ar-168]
 
-### Artículo 168. Principio de solidaridad interterritorial.
+#### Artículo 168. Principio de solidaridad interterritorial.
 
 1. Para la realización efectiva del principio de solidaridad interterritorial, los proyectos de infraestructuras y las instalaciones de telecomunicación que permitan o faciliten la integración del territorio del Archipiélago o su conexión con el territorio peninsular, así como los de infraestructuras turísticas y energéticas o de actuaciones medioambientales de carácter estratégico para Canarias, tendrán la consideración de interés general, a los efectos de la participación del Estado en su financiación.
 
@@ -3359,7 +3565,7 @@ Subir
 
 [Bloque 204: #ci-19]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### Del régimen financiero y tributario
 
@@ -3367,7 +3573,7 @@ Subir
 
 [Bloque 205: #ar-169]
 
-### Artículo 169. Los recursos de la hacienda autonómica canaria.
+#### Artículo 169. Los recursos de la hacienda autonómica canaria.
 
 Los recursos de la hacienda autonómica canaria están constituidos por:
 
@@ -3405,7 +3611,7 @@ Subir
 
 [Bloque 206: #ar-170]
 
-### Artículo 170. Los recursos de las islas.
+#### Artículo 170. Los recursos de las islas.
 
 Los recursos propios de las islas están constituidos por:
 
@@ -3421,7 +3627,7 @@ Subir
 
 [Bloque 207: #ar-171]
 
-### Artículo 171. Principio de autonomía financiera.
+#### Artículo 171. Principio de autonomía financiera.
 
 La Comunidad Autónoma de Canarias, de acuerdo con el principio de autonomía financiera, tiene potestad para establecer y exigir tributos propios, conforme a la Constitución y las leyes.
 
@@ -3429,7 +3635,7 @@ Subir
 
 [Bloque 208: #ar-172]
 
-### Artículo 172. Participación en los tributos estatales.
+#### Artículo 172. Participación en los tributos estatales.
 
 1. La Comunidad Autónoma de Canarias percibirá un porcentaje de participación en la recaudación en todo el territorio español de los impuestos estatales no cedidos.
 
@@ -3439,7 +3645,7 @@ Subir
 
 [Bloque 209: #ar-173]
 
-### Artículo 173. Recargos.
+#### Artículo 173. Recargos.
 
 El Parlamento de Canarias podrá establecer recargos sobre los impuestos estatales cedidos, así como sobre los no cedidos que graven la renta o el patrimonio de las personas físicas con residencia habitual en Canarias de acuerdo con las leyes.
 
@@ -3447,9 +3653,9 @@ Subir
 
 [Bloque 210: #ar-174]
 
-### Artículo 174. Reclamaciones económico-administrativas.
+#### Artículo 174. Reclamaciones económico-administrativas.
 
-La Comunidad Autónoma de Canarias asumirá, por medio de sus propios órganos económico-administrativos, la revisión por la vía administrativa de las reclamaciones que los contribuyentes puedan interponer contra los actos de aplicación de los tributos a que se refieren los apartados 1 y 2 del artículo 186 de este Estatuto, sin perjuicio de las competencias en materia de unificación de criterio que le corresponden a la Administración General del Estado.
+La Comunidad Autónoma de Canarias asumirá, por medio de sus propios órganos económico-administrativos, la revisión por la vía administrativa de las reclamaciones que los contribuyentes puedan interponer contra los actos de aplicación de los tributos a que se refieren los apartados 1 y 2 del artículo 186 de este Estatuto, sin perjuicio de las competencias en materia de unificación de criterio que le corresponden a la Administración General del Estado.
 
 El órgano competente de la Comunidad Autónoma de Canarias que se determine por su normativa específica conocerá del recurso extraordinario de revisión contra actos firmes de su Administración tributaria y contra resoluciones firmes de sus propios órganos económico-administrativos.
 
@@ -3459,7 +3665,7 @@ Subir
 
 [Bloque 211: #ar-175]
 
-### Artículo 175. Gestión de los fondos europeos.
+#### Artículo 175. Gestión de los fondos europeos.
 
 1. Corresponde en exclusiva a la Comunidad Autónoma de Canarias la gestión, ejecución y, en su caso, la planificación de los fondos europeos destinados a Canarias, en especial de aquellos aprobados en aplicación de criterios de convergencia o derivados de la condición ultraperiférica de Canarias.
 
@@ -3471,7 +3677,7 @@ Subir
 
 [Bloque 212: #ar-176]
 
-### Artículo 176. Medidas compensatorias.
+#### Artículo 176. Medidas compensatorias.
 
 Si, como resultado de una reforma o modificación del sistema tributario estatal, resultase una variación sensible de aquellos ingresos de la Comunidad Autónoma de Canarias que dependan de los tributos estatales, el Estado deberá adoptar, de acuerdo con la Comunidad Autónoma, las medidas de compensación oportunas.
 
@@ -3479,17 +3685,19 @@ Subir
 
 [Bloque 213: #ar-177]
 
-### Artículo 177. Asignaciones complementarias.
+#### Artículo 177. Asignaciones complementarias.
 
-1. Con el fin de garantizar la realización efectiva de los principios consagrados en los artículos 31 y 138 de la Constitución en relación con la lejanía, la insularidad y la condición ultraperiférica prevista en el artículo 3 del presente Estatuto, el Estado otorgará a la hacienda de la Comunidad Autónoma de Canarias con cargo a sus Presupuestos Generales, las adecuadas asignaciones complementarias en los términos en los que estas se establezcan en la ley dictada en virtud del artículo 157.3 de la Constitución, de manera que, en su caso, compensen los sobrecostes derivados de la condición ultraperiférica y el déficit en la prestación de los servicios públicos básicos que pueda producirse por el factor poblacional, por razones derivadas de las características diferenciadas de la economía canaria y de la fragmentación territorial.
+1. Con el fin de garantizar la realización efectiva de los principios consagrados en los artículos 31 y 138 de la Constitución en relación con la lejanía, la insularidad y la condición ultraperiférica prevista en el artículo 3 l.
 
-2. La Comunidad Autónoma de Canarias participará en la determinación anual de la cuantía total del Fondo de Compensación Interterritorial, a la que se refiere el apartado 2 del artículo 158 de la Constitución.
+presente Estatuto, el Estado otorgará a la hacienda de la Comunidad Autónoma de Canarias con cargo a sus Presupuestos Generales, las adecuadas asignaciones complementarias en los términos en los que estas se establezcan en la ley dictada en virtud del artículo 157.3 de la Constitución, de manera que, en su caso, compensen los sobrecostes derivados de la condición ultraperiférica y el déficit en la prestación de los servicios públicos básicos que pueda producirse por el factor poblacional, por razones derivadas de las características diferenciadas de la economía canaria y de la fragmentación territorial.
+
+2. La Comunidad Autónoma de Canarias participará en la determinación anual de la cuantía total del Fondo de Compensación Interterritorial, a la que se refiere el apartado 2 del artículo 158 de la Constitución.
 
 Subir
 
 [Bloque 214: #ar-178]
 
-### Artículo 178. Operaciones de crédito y deuda.
+#### Artículo 178. Operaciones de crédito y deuda.
 
 1. La Comunidad Autónoma de Canarias podrá realizar operaciones de crédito y recurrir a la emisión de deuda pública, en los casos y con los requisitos que se establezcan en la Ley Orgánica de Financiación de las Comunidades Autónomas.
 
@@ -3501,7 +3709,7 @@ Subir
 
 [Bloque 215: #ar-179]
 
-### Artículo 179. Planificación económica.
+#### Artículo 179. Planificación económica.
 
 El Gobierno de Canarias elaborará, en el ámbito de sus competencias, los proyectos de planificación, de acuerdo con las previsiones de la propia Comunidad Autónoma y de las administraciones territoriales y el asesoramiento y colaboración de los sindicatos y otras organizaciones profesionales y empresariales a través del Consejo Económico y Social de Canarias, órgano de carácter consultivo en materia económica y social, cuya finalidad primordial es la de servir de cauce de participación y diálogo en los asuntos socioeconómicos. Su composición y funcionamiento se regulará por ley.
 
@@ -3509,7 +3717,7 @@ Subir
 
 [Bloque 216: #ar-180]
 
-### Artículo 180. Coordinación de políticas fiscales y financieras.
+#### Artículo 180. Coordinación de políticas fiscales y financieras.
 
 1. La Comunidad Autónoma de Canarias coordina las políticas de endeudamiento de los cabildos insulares y de los ayuntamientos, ejerciendo, en todos los aspectos de las mismas que puedan afectar a los intereses generales de Canarias, las potestades otorgadas al respecto por la normativa estatal reguladora de las haciendas locales, sin que, en ningún caso, en su marco, se limite la autonomía financiera de las corporaciones locales, garantizada por la Constitución y el presente Estatuto de Autonomía.
 
@@ -3519,7 +3727,7 @@ Subir
 
 [Bloque 217: #ar-181]
 
-### Artículo 181. Instrumentos de Solidaridad Interinsular.
+#### Artículo 181. Instrumentos de Solidaridad Interinsular.
 
 La Comunidad Autónoma de Canarias velará por su propio equilibrio territorial y por la realización interna del principio de solidaridad, atendiendo, entre otros criterios, a los costes de la doble insularidad.
 
@@ -3529,7 +3737,7 @@ Subir
 
 [Bloque 218: #ar-182]
 
-### Artículo 182. Beneficios fiscales.
+#### Artículo 182. Beneficios fiscales.
 
 La Comunidad Autónoma de Canarias ostentará los mismos beneficios fiscales que corresponden al Estado.
 
@@ -3537,7 +3745,7 @@ Subir
 
 [Bloque 219: #ar-183]
 
-### Artículo 183. Reserva de ley.
+#### Artículo 183. Reserva de ley.
 
 Se regularán necesariamente mediante ley aprobada por el Parlamento de Canarias las siguientes materias:
 
@@ -3551,7 +3759,9 @@ d) La autorización para la creación y conversión en deuda pública, así como
 
 e) El régimen jurídico del patrimonio de la Comunidad Autónoma.
 
-f) Las participaciones que correspondan a la hacienda insular en impuestos, asignaciones y subvenciones, de acuerdo con lo establecido en el artículo 170 del presente Estatuto.
+f) Las participaciones que correspondan a la hacienda insular en impuestos, asignaciones y subvenciones, de acuerdo con lo establecido en el artículo 170 l.
+
+presente Estatuto.
 
 g) Los criterios de distribución y porcentajes de reparto de los recursos derivados del régimen económico-fiscal de Canarias.
 
@@ -3559,7 +3769,7 @@ Subir
 
 [Bloque 220: #ar-184]
 
-### Artículo 184. Otras competencias del Gobierno.
+#### Artículo 184. Otras competencias del Gobierno.
 
 Corresponde al Gobierno de Canarias en las materias reguladas en el presente título:
 
@@ -3573,7 +3783,7 @@ Subir
 
 [Bloque 221: #ar-185]
 
-### Artículo 185. Presupuestos Generales de la Comunidad Autónoma.
+#### Artículo 185. Presupuestos Generales de la Comunidad Autónoma.
 
 1. Corresponde al Parlamento de Canarias la aprobación y fiscalización de los Presupuestos Generales de la Comunidad Autónoma, así como examinar el uso eficiente de las consignaciones de los presupuestos de las islas destinados a financiar competencias delegadas a las mismas, velando para que se cumpla al respecto el principio de suficiencia financiera.
 
@@ -3585,7 +3795,7 @@ Subir
 
 [Bloque 222: #ar-186]
 
-### Artículo 186. Gestión de tributos.
+#### Artículo 186. Gestión de tributos.
 
 1. La gestión, liquidación, recaudación e inspección de sus propios tributos corresponderá a la Comunidad Autónoma de Canarias, la cual dispondrá de plenas atribuciones para la ejecución y organización de dichas tareas, sin perjuicio de la colaboración que pueda establecer con la Administración Tributaria del Estado.
 
@@ -3597,7 +3807,7 @@ Subir
 
 [Bloque 223: #ar-187]
 
-### Artículo 187. Colaboración interadministrativa.
+#### Artículo 187. Colaboración interadministrativa.
 
 1. La Administración General del Estado y la Comunidad Autónoma de Canarias establecerán los cauces de colaboración necesaria para asegurar la participación de la Comunidad Autónoma de Canarias en las decisiones y el intercambio de información que sean precisas para el ejercicio de sus competencias.
 
@@ -3607,7 +3817,7 @@ Subir
 
 [Bloque 224: #ar-188]
 
-### Artículo 188. Sector público económico autonómico.
+#### Artículo 188. Sector público económico autonómico.
 
 1. Los poderes públicos canarios quedan facultados para constituir un sector público económico autonómico.
 
@@ -3619,7 +3829,7 @@ Subir
 
 [Bloque 225: #ci-20]
 
-### CAPÍTULO III
+### Capítulo III
 
 ### Del patrimonio
 
@@ -3627,7 +3837,7 @@ Subir
 
 [Bloque 226: #ar-189]
 
-### Artículo 189. El patrimonio de la Comunidad Autónoma.
+#### Artículo 189. El patrimonio de la Comunidad Autónoma.
 
 1. El patrimonio de la Comunidad Autónoma de Canarias está integrado por el conjunto de los bienes y derechos de la Administración Pública de la Comunidad Autónoma y de sus organismos autónomos, cualquiera que sea su naturaleza y el título de su adquisición o aquel en virtud del cual les hayan sido atribuidos.
 
@@ -3637,7 +3847,7 @@ Subir
 
 [Bloque 227: #ar-190]
 
-### Artículo 190. El patrimonio insular.
+#### Artículo 190. El patrimonio insular.
 
 El patrimonio insular está integrado por el conjunto de los bienes y derechos de cada isla y de los organismos públicos que se encuentren en relación de dependencia o vinculación con la misma, cualquiera que sea su naturaleza y el título de su adquisición o aquel en virtud del cual les hayan sido atribuidos.
 
@@ -3645,15 +3855,15 @@ Subir
 
 [Bloque 228: #tv-3]
 
-### TÍTULO VII
+## Título VII
 
-### De las relaciones institucionales y acción exterior de la Comunidad Autónoma de Canarias
+### De las relaciones institucionales y acción exterior de la Comunidad Autónoma de Canarias
 
 Subir
 
 [Bloque 229: #ci-21]
 
-### CAPÍTULO I
+### Capítulo I
 
 ### Relaciones interadministrativas
 
@@ -3661,7 +3871,7 @@ Subir
 
 [Bloque 230: #ar-191]
 
-### Artículo 191. Relaciones de colaboración y de cooperación.
+#### Artículo 191. Relaciones de colaboración y de cooperación.
 
 1. De conformidad con los principios de lealtad institucional, de solidaridad, de defensa del interés general y de respeto a sus respectivas competencias, la Comunidad Autónoma de Canarias establecerá relaciones de colaboración y de cooperación con el Estado y las demás Comunidades Autónomas.
 
@@ -3671,7 +3881,7 @@ Subir
 
 [Bloque 231: #ar-192]
 
-### Artículo 192. Comisión Bilateral de Cooperación.
+#### Artículo 192. Comisión Bilateral de Cooperación.
 
 1. La Comisión Bilateral de Cooperación Canarias-Estado constituye el marco general y permanente de relación entre el Gobierno de Canarias y el del Estado para conocer y tratar las cuestiones de interés común que establezcan las leyes o que planteen las partes, y en particular:
 
@@ -3687,17 +3897,17 @@ Subir
 
 [Bloque 232: #ar-193]
 
-### Artículo 193. Convenios y acuerdos de cooperación con otras Comunidades Autónomas.
+#### Artículo 193. Convenios y acuerdos de cooperación con otras Comunidades Autónomas.
 
-1. La Comunidad Autónoma de Canarias podrá celebrar convenios con otras comunidades autónomas para la gestión y prestación de servicios propios correspondientes a materias de su exclusiva competencia. Estos acuerdos deberán ser aprobados por el Parlamento de Canarias, si tienen una afectación legislativa. En los demás casos, el Gobierno de Canarias deberá informar al Parlamento de la subscripción en el plazo de un mes desde la firma. Todos los convenios deberán ser comunicados a las Cortes Generales, y entrarán en vigor a los treinta días de esta comunicación, salvo que estas acuerden, en dicho plazo, que, por su contenido, el convenio debe seguir el trámite previsto en el apartado 2 de este artículo, como acuerdo de cooperación.
+1. La Comunidad Autónoma de Canarias podrá celebrar convenios con otras comunidades autónomas para la gestión y prestación de servicios propios correspondientes a materias de su exclusiva competencia. Estos acuerdos deberán ser aprobados por el Parlamento de Canarias, si tienen una afectación legislativa. En los demás casos, el Gobierno de Canarias deberá informar al Parlamento de la subscripción en el plazo de un mes desde la firma. Todos los convenios deberán ser comunicados a las Cortes Generales, y entrarán en vigor a los treinta días de esta comunicación, salvo que estas acuerden, en dicho plazo, que, por su contenido, el convenio debe seguir el trámite previsto en el apartado 2 de este artículo, como acuerdo de cooperación.
 
-2. La Comunidad Autónoma de Canarias podrá establecer acuerdos de cooperación con otras comunidades autónomas, en los términos previstos del artículo 145.2 de la Constitución.
+2. La Comunidad Autónoma de Canarias podrá establecer acuerdos de cooperación con otras comunidades autónomas, en los términos previstos del artículo 145.2 de la Constitución.
 
 Subir
 
 [Bloque 233: #ar-194]
 
-### Artículo 194. Relaciones con otras administraciones públicas canarias.
+#### Artículo 194. Relaciones con otras administraciones públicas canarias.
 
 1. Las administraciones públicas de Canarias se rigen en sus relaciones por los principios de lealtad institucional, coordinación, cooperación y colaboración.
 
@@ -3709,7 +3919,7 @@ Subir
 
 [Bloque 234: #ci-22]
 
-### CAPÍTULO II
+### Capítulo II
 
 ### Acción exterior de Canarias
 
@@ -3717,7 +3927,7 @@ Subir
 
 [Bloque 235: #ar-195]
 
-### Artículo 195. Acción exterior.
+#### Artículo 195. Acción exterior.
 
 1. El Gobierno de Canarias, dentro del ámbito de sus competencias y de la defensa del interés general que le está constitucionalmente atribuida, ejercerá su propia acción exterior, sin perjuicio de la función de representación y las competencias que corresponden al Estado.
 
@@ -3729,7 +3939,7 @@ Subir
 
 [Bloque 236: #ar-196]
 
-### Artículo 196. Relaciones con la Unión Europea.
+#### Artículo 196. Relaciones con la Unión Europea.
 
 1. La Comunidad Autónoma de Canarias participará en las instituciones de la Unión Europea, así como de los diferentes organismos internacionales, en los términos establecidos por la Constitución, el Estatuto de Autonomía, los tratados y convenios internacionales, la legislación aplicable y los acuerdos suscritos entre el Estado y Canarias.
 
@@ -3741,7 +3951,7 @@ Subir
 
 [Bloque 237: #ar-197]
 
-### Artículo 197. Aplicación y desarrollo del Derecho de la Unión Europea.
+#### Artículo 197. Aplicación y desarrollo del Derecho de la Unión Europea.
 
 1. La Comunidad Autónoma de Canarias, en el ámbito de sus competencias, desarrolla, transpone y ejecuta el Derecho de la Unión Europea.
 
@@ -3755,7 +3965,7 @@ Subir
 
 [Bloque 238: #ar-198]
 
-### Artículo 198. Información y participación en los tratados internacionales.
+#### Artículo 198. Información y participación en los tratados internacionales.
 
 1. La Comunidad Autónoma de Canarias será informada durante el proceso de negociación y elaboración de los tratados y convenios internacionales y de las negociaciones de adhesión a los mismos en cuanto afecten a sus singularidades o a las condiciones para la aplicación de la normativa europea. Recibida la información, el Gobierno de Canarias manifestará su parecer, en su caso.
 
@@ -3769,7 +3979,7 @@ Subir
 
 [Bloque 239: #ar-199]
 
-### Artículo 199. Actuaciones ante el Tribunal de Justicia de la Unión Europea.
+#### Artículo 199. Actuaciones ante el Tribunal de Justicia de la Unión Europea.
 
 1. La participación del Gobierno de Canarias en los procedimientos ante el Tribunal de Justicia de la Unión Europea se llevará a cabo en los términos establecidos por la normativa que sea de aplicación.
 
@@ -3779,7 +3989,7 @@ Subir
 
 [Bloque 240: #tv-4]
 
-### TÍTULO VIII
+## Título VIII
 
 ### De la reforma del Estatuto
 
@@ -3789,7 +3999,7 @@ Subir
 
 [Bloque 241: #ar-200]
 
-### Artículo 200. Procedimiento general de reforma del Estatuto.
+#### Artículo 200. Procedimiento general de reforma del Estatuto.
 
 1. La iniciativa de la reforma corresponderá al Gobierno o al Parlamento de Canarias a propuesta al menos de una quinta parte de sus diputados.
 
@@ -3811,7 +4021,7 @@ Subir
 
 [Bloque 242: #ar-201]
 
-### Artículo 201. Del procedimiento de reforma abreviado.
+#### Artículo 201. Del procedimiento de reforma abreviado.
 
 No obstante lo dispuesto en el artículo anterior, cuando la reforma afectare solo al capítulo II del título I del Estatuto, se podrá proceder de la siguiente manera:
 
@@ -3821,7 +4031,7 @@ b) Aprobada la propuesta de reforma, se someterá a consulta de las Cortes Gener
 
 c) Si en el plazo de treinta días, a partir de la recepción de la consulta prevista en el apartado precedente, las Cortes Generales no se declarasen afectadas por la reforma, se ratificará la misma mediante ley orgánica.
 
-d) Si en plazo señalado en la letra c) las Cortes se declarasen afectadas por la reforma, esta habrá de seguir el procedimiento previsto en el artículo anterior, dándose por cumplidos los trámites del número 1 del mencionado artículo.
+d) Si en plazo señalado en la letra c) las Cortes se declarasen afectadas por la reforma, esta habrá de seguir el procedimiento previsto en el artículo anterior, dándose por cumplidos los trámites del número 1 del mencionado artículo.
 
 Redactada la letra d) conforme a la corrección de errores publicada en BOE núm. 134, de 5 de junio de 2019. Ref. BOE-A-2019-8316
 
@@ -3829,15 +4039,13 @@ Subir
 
 [Bloque 243: #ar-202]
 
-### Artículo 202. Audiencia a los cabildos insulares.
+#### Artículo 202. Audiencia a los cabildos insulares.
 
 Cuando la reforma tuviera por objeto una alteración en la organización de los poderes de Canarias que afectara directamente a las islas, se requerirá la audiencia previa de los cabildos insulares.
 
 Subir
 
-[Bloque 244: #da]
-
-### Disposición adicional primera. Tributos cedidos.
+#### Disposición adicional primera. Tributos cedidos.
 
 1. Conforme al apartado 3 de esta disposición, con los límites y, en su caso, con la capacidad normativa y en los términos que se establezcan en la ley orgánica prevista en el artículo 157.3 de la Constitución, se ceden a la Comunidad Autónoma los siguientes tributos:
 
@@ -3881,7 +4089,7 @@ Subir
 
 [Bloque 245: #da-2]
 
-### Disposición adicional segunda. La Agencia Tributaria de Canarias.
+#### Disposición adicional segunda. La Agencia Tributaria de Canarias.
 
 1. La aplicación de los tributos propios de la Comunidad Autónoma de Canarias, de los derivados del régimen económico y fiscal de Canarias y de los cedidos totalmente por el Estado, corresponderán a la Agencia Tributaria de Canarias, en los términos que se determinen en la legislación aplicable.
 
@@ -3905,17 +4113,19 @@ Subir
 
 [Bloque 246: #da-3]
 
-### Disposición adicional tercera. Compensación por modificaciones tributarias.
+#### Disposición adicional tercera. Compensación por modificaciones tributarias.
 
-En los términos que se establezcan en la ley orgánica prevista en el artículo 157.3 de la Constitución, no se producirá ninguna minoración de la participación de la Comunidad Autónoma de Canarias en los ingresos del Estado, como consecuencia de la supresión de un impuesto estatal que fuera aplicable en el ámbito de la Comunidad Autónoma.
+En los términos que se establezcan en la ley orgánica prevista en el artículo 157.3 de la Constitución, no se producirá ninguna minoración de la participación de la Comunidad Autónoma de Canarias en los ingresos del Estado, como consecuencia de la supresión de un impuesto estatal que fuera aplicable en el ámbito de la Comunidad Autónoma.
 
 Subir
 
 [Bloque 247: #da-4]
 
-### Disposición adicional cuarta. La Comisión Mixta de Transferencias.
+#### Disposición adicional cuarta. La Comisión Mixta de Transferencias.
 
-1. La Comisión Mixta de Transferencias, compuesta paritariamente por la Administración Pública de la Comunidad Autónoma de Canarias y la Administración del Estado, e integrada en la Comisión Bilateral de Cooperación a que se refiere el artículo 192 del presente Estatuto, tiene por finalidad transferir a la Comunidad Autónoma de Canarias las funciones y atribuciones que le corresponden con arreglo al presente Estatuto. Los miembros de la comisión mixta representantes de Canarias darán cuenta periódicamente de su gestión ante el Parlamento de Canarias.
+1. La Comisión Mixta de Transferencias, compuesta paritariamente por la Administración Pública de la Comunidad Autónoma de Canarias y la Administración del Estado, e integrada en la Comisión Bilateral de Cooperación a que se refiere el artículo 192 l.
+
+presente Estatuto, tiene por finalidad transferir a la Comunidad Autónoma de Canarias las funciones y atribuciones que le corresponden con arreglo al presente Estatuto. Los miembros de la comisión mixta representantes de Canarias darán cuenta periódicamente de su gestión ante el Parlamento de Canarias.
 
 2. Las transferencias de servicios a la Comunidad Autónoma de Canarias tendrán por objeto bloques materiales y orgánicos completos y deberán prever los medios personales, financieros y materiales necesarios para su normal funcionamiento, teniendo en cuenta que en la asignación de medios el coeficiente de aplicación por habitante no podrá ser para Canarias inferior a la media del Estado, teniendo presente, en todo caso, el costo de la insularidad.
 
@@ -3929,7 +4139,7 @@ Subir
 
 [Bloque 248: #da-5]
 
-### Disposición adicional quinta. Sede de la Delegación del Gobierno.
+#### Disposición adicional quinta. Sede de la Delegación del Gobierno.
 
 La sede de la Delegación del Gobierno del Estado en la Comunidad Autónoma de Canarias radicará en la ciudad de Las Palmas de Gran Canaria.
 
@@ -3937,51 +4147,45 @@ Subir
 
 [Bloque 249: #da-6]
 
-### Disposición adicional sexta. Gestión de las telecomunicaciones.
+#### Disposición adicional sexta. Gestión de las telecomunicaciones.
 
 Considerando la condición de región ultraperiférica de Canarias, su insularidad y su lejanía, dentro de la Agenda digital española se contendrá un Plan específico para el Archipiélago que tenga en cuenta la singularidad de su espectro radioeléctrico, el acceso a los servicios en todas las islas y, en su caso, las obligaciones de servicio público que lo garanticen. Dicho Plan será aprobado por el Gobierno de España en Consejo de Ministros. En su elaboración y ejecución participará el Gobierno de Canarias, en los términos que se fijen por la normativa estatal.
 
 Subir
 
-[Bloque 250: #dt]
+#### Disposición transitoria primera. Sistema electoral.
 
-### Disposición transitoria primera. Sistema electoral.
+1. Hasta tanto no se apruebe la Ley electoral prevista en el artículo 39 l.
 
-1. Hasta tanto no se apruebe la Ley electoral prevista en el artículo 39 del presente Estatuto, se fija en setenta el número de diputados y diputadas del Parlamento de Canarias. Sesenta y un escaños se distribuirán entre las circunscripciones insulares de la siguiente forma: 3 por El Hierro, 8 por Fuerteventura, 15 por Gran Canaria, 4 por La Gomera, 8 por Lanzarote, 8 por La Palma y 15 por Tenerife. Los nueve escaños restantes se asignarán a la circunscripción autonómica de Canarias.
+presente Estatuto, se fija en setenta el número de diputados y diputadas del Parlamento de Canarias. Sesenta y un escaños se distribuirán entre las circunscripciones insulares de la siguiente forma: 3 por El Hierro, 8 por Fuerteventura, 15 por Gran Canaria, 4 por La Gomera, 8 por Lanzarote, 8 por La Palma y 15 por Tenerife. Los nueve escaños restantes se asignarán a la circunscripción autonómica de Canarias.
 
-2. A efectos de la elección en las circunscripciones insulares, solo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 15 por ciento de los votos válidos de su respectiva circunscripción insular, o, sumando los de todas las circunscripciones insulares hubieran obtenido, al menos, el 4 por ciento de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
+2. A efectos de la elección en las circunscripciones insulares, solo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 15 por ciento de los votos válidos de su respectiva circunscripción insular, o, sumando los de todas las circunscripciones insulares hubieran obtenido, al menos, el 4 por ciento de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
 
-3. A efectos de la elección en la circunscripción autonómica, sólo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 4 por 100 de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
+3. A efectos de la elección en la circunscripción autonómica, sólo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 4 por 100 de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
 
-4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2.
+4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2.
 
 Subir
 
 [Bloque 251: #dt-2]
 
-### Disposición transitoria segunda. Régimen transitorio de los cabildos insulares.
+#### Disposición transitoria segunda. Régimen transitorio de los cabildos insulares.
 
 Hasta tanto no se desarrollen las prescripciones del título III del presente Estatuto y en lo que no se oponga a lo establecido en el mismo, los cabildos insulares se regirán por la normativa vigente, que seguirá teniendo carácter supletorio.
 
 Subir
 
-[Bloque 252: #dd]
+Disposición derogatoria .... Derogación de la Ley Orgánica 10/1982, de 10 de agosto, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
 
-### Disposición derogatoria. Derogación de la Ley Orgánica 10/1982, de 10 de agosto, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
-
-Queda derogada la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía para Canarias, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
+Queda derogada la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía para Canarias, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
 
 Subir
 
-[Bloque 253: #df]
-
-### Disposición final. Entrada en vigor.
+Disposición final .... Entrada en vigor.
 
 El presente Estatuto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
 
 Subir
-
-[Bloque 254: #fi]
 
 Por tanto,
 
@@ -3997,9 +4201,7 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
 Subir
 
-[Bloque 255: #ai]
-
-### ANEXO I
+## Anexo I
 
 Los puntos extremos de las islas o islotes que integran el Archipiélago Canario, para determinar las líneas de base rectas de manera que el perímetro resultante siga la configuración archipelágica, son los siguientes:
 
@@ -4011,163 +4213,163 @@ Longitud W
 
 De Punta Delgada (Alegranza)
 
-29º 24’, 10
+29º 24', 10
 
-13º 29’, 40
+13º 29', 40
 
 a Roque del Este
 
-29º 16’, 50
+29º 16', 50
 
-13º 20’, 00
+13º 20', 00
 
 2.
 
 De Roque del Este a Punta de Tierra Negra
 
-29º 01’, 50
+29º 01', 50
 
-13º 27’, 80
+13º 27', 80
 
 3.
 
 De Punta de Tierra Negra a (4) Punta de las Borriquillas
 
-28º 16’, 20
+28º 16', 20
 
-13º 53’, 80
+13º 53', 80
 
 5.
 
 De Punta Entallada (Lantaílla)
 
-28º 13’, 80
+28º 13', 80
 
-13º 56’, 00
+13º 56', 00
 
 a Punta del Matorral
 
-28º 02’,50
+28º 02',50
 
-14º 19’, 50
+14º 19', 50
 
 6.
 
 De Punta del Matorral a (7) Punta de Maspalomas (GC)
 
-27º 44’,00
+27º 44',00
 
-15º 35’, 00
+15º 35', 00
 
 8.
 
 De Punta de Arguineguín
 
-27º 44’, 50
+27º 44', 50
 
-15º 40’, 10
+15º 40', 10
 
 a Punta de la Rasca (TF)
 
-28º 00’, 00
+28º 00', 00
 
-16º 41’, 60
+16º 41', 60
 
 9.
 
 De Punta de la Rasca a Punta de Los Saltos (EH)
 
-27º 38’, 00
+27º 38', 00
 
-17º 59’, 00
+17º 59', 00
 
 10.
 
 De Punta de Los Saltos a Punta de La Orchilla
 
-27º 42’, 50
+27º 42', 50
 
-18º 09’, 80
+18º 09', 80
 
 11.
 
 De Punta de La Orchilla a Punta del Verodal
 
-27º 45’,60
+27º 45',60
 
-18º 09’, 30
+18º 09', 30
 
 12.
 
 De Punta del Verodal a Punta Gutiérrez (LP)
 
-28º 46’, 50
+28º 46', 50
 
-18º 00’, 50
+18º 00', 50
 
 13.
 
 De Punta Gutiérrez a Punta de Vallero
 
-28º 49’, 60
+28º 49', 60
 
-17º 57’, 60
+17º 57', 60
 
 14.
 
 De Punta de Vallero a Punta de Juan Adalid
 
-28º 51’, 10
+28º 51', 10
 
-17º 55’, 00
+17º 55', 00
 
 15.
 
 De Punta de Juan Adalid a Punta Cumplida
 
-28º 50’, 10
+28º 50', 10
 
-17º 46’, 80
+17º 46', 80
 
 16.
 
 De Punta Cumplida a Roque de Fuera (Anaga. TF)
 
-28º 35’, 80
+28º 35', 80
 
-16º 09’, 50
+16º 09', 50
 
 17.
 
 De Roque de Fuera a Morro de La Vieja (Isleta. GC)
 
-28º 10’, 60
+28º 10', 60
 
-15º 24’, 50
+15º 24', 50
 
 18.
 
 De Morro de La Vieja a Punta de la Ensenada (LZ)
 
-29º 02’, 00
+29º 02', 00
 
-13º 49’, 00
+13º 49', 00
 
 19.
 
 De Punta de la Ensenada a Punta Grieta (Alegranza)
 
-29º 24’, 50
+29º 24', 50
 
-13º 31’, 50
+13º 31', 50
 
 20.
 
 De Punta Grieta a Punta Delgada (Alegranza)
 
-29º 24’, 10
+29º 24', 10
 
-13º 29’, 40
+13º 29', 40
 
 * Punto de partida y de cierre de la configuración: Alegranza.
 
@@ -4191,7 +4393,7 @@ Subir
 
 [Bloque 256: #ai-2]
 
-### ANEXO II
+## Anexo II
 
 ### Mapa del Archipiélago Canario según indica el anexo I
 
@@ -4203,15 +4405,7 @@ Este documento es de carácter informativo y no tiene valor jurídico.
 
 Ayúdenos a mejorar: puede dirigir sus comentarios y sugerencias a nuestro Servicio de atención al ciudadano
 
-Contactar
-Sobre la sede electrónica
-Mapa
-Aviso legal
-Accesibilidad
-Protección de datos
-Sistema Interno de Información
-Tutoriales
-Empleo en la AEBOE
+Contactar Sobre la sede electrónica Mapa Aviso legal Accesibilidad Protección de datos Sistema Interno de Información Tutoriales Empleo en la AEBOE
 
 Agencia Estatal Boletín Oficial del Estado
 

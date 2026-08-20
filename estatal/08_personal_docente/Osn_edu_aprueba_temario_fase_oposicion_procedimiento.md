@@ -1,13 +1,10 @@
 ---
 id: norm-es-2009-20550
 codigo_sintetizado: BOE-A-2009-20550
-titulo: Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario
-  de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores
-  de Educación.
+titulo: Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2009-12-21'
 boletin: BOE
@@ -18,41 +15,38 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- ebep
-- inspeccion-educativa
-- oposiciones
-- oposiciones-y-acceso
-- profesorado
+  - ebep
+  - inspeccion-educativa
+  - oposiciones
+  - oposiciones-y-acceso
+  - profesorado
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rd-276-2007
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2007-5478
-- norma_id: norm-es-rd-276-2007
+    - '1'
+    - '2'
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-rd-276-2007
 ---
+# Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 ## Preámbulo
-
-# Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
-
-# Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su disposición adicional duodécima que el acceso al Cuerpo de Inspectores de Educación se realizará mediante concurso-oposición.
 
@@ -88,7 +82,7 @@ La presente Orden se dicta al amparo del artículo 149.1.18ª y 30ª de la Const
 
 Madrid, 11 de diciembre de 2009.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
-ANEXO I
+## Anexo I
 
 Parte A del temario de la fase de oposición del procedimiento de Acceso al Cuerpo de Inspectores de Educación
 
@@ -202,7 +196,7 @@ Parte A del temario de la fase de oposición del procedimiento de Acceso al Cuer
 
 55. Distribución de competencias educativas entre el Estado y las Comunidades Autónomas. Las competencias estatales en materia de educación.
 
-ANEXO II
+## Anexo II
 
 Parte B del temario de la fase de oposición del procedimiento de Acceso al Cuerpo de Inspectores de Educación
 
@@ -248,11 +242,10 @@ Parte B del temario de la fase de oposición del procedimiento de Acceso al Cuer
 
 21. Derechos y deberes lingüísticos en España. La Constitución y los Estatutos de Autonomía. Régimen de cooficialidad lingüística en territorios autonómicos. Leyes de normalización lingüística. Jurisprudencia.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
@@ -262,6 +255,7 @@ Parte B del temario de la fase de oposición del procedimiento de Acceso al Cuer
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)

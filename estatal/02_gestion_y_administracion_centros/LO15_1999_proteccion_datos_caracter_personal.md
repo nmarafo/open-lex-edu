@@ -1,12 +1,10 @@
 ---
 id: norm-es-1999-23750
 codigo_sintetizado: BOE-A-1999-23750
-titulo: Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter
-  Personal.
+titulo: Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1999-12-14'
 boletin: BOE
@@ -17,59 +15,56 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- curriculo
-- evaluacion
-- protecci-n-de-datos-y-seguridad-de-la-informacion
-- proteccion-menores
-- rgpd
-- titulacion
+  - curriculo
+  - evaluacion
+  - protecci-n-de-datos-y-seguridad-de-la-informacion
+  - proteccion-menores
+  - rgpd
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2003-23399
-  - norma_id: norm-es-2003-4151
-  - norma_id: norm-es-2004-15601
-  - norma_id: norm-es-2006-21648
-  - norma_id: norm-es-2007-19814
-  - norma_id: norm-es-2008-979
-  - norma_id: norm-es-2010-10424
-  - norma_id: norm-es-2011-16923
-  - norma_id: norm-es-2011-17560
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2014-2222
-  - norma_id: norm-es-2014-7684
-  - norma_id: norm-es-2015-6839
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-5-2000
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-d-114-2011
+    - norma_id: norm-es-2003-23399
+    - norma_id: norm-es-2003-4151
+    - norma_id: norm-es-2004-15601
+    - norma_id: norm-es-2006-21648
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-2010-10424
+    - norma_id: norm-es-2011-16923
+    - norma_id: norm-es-2011-17560
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2014-7684
+    - norma_id: norm-es-2015-6839
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-lo-5-2000
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-juriscan-65631-68
+    - norma_id: norm-can-o-1-9-2010
+    - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-d-114-2011
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-can-d-81-2010
+  fundamentos_derecho:
+    - norma_id: norm-can-d-81-2010
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-lo-2-2006
+    - '1'
+    - '2'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '120'
+    - '120'
 ---
+# Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 ## Preámbulo
-
-# Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
-
-# Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 **JUAN CARLOS I**
 
@@ -79,7 +74,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-## TÍTULO I
+## Título I
 
 **Disposiciones generales**
 
@@ -119,33 +114,31 @@ d) Los derivados del Registro Civil y del Registro Central de penados y rebeldes
 
 e) Los procedentes de imágenes y sonidos obtenidos mediante la utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad, de conformidad con la legislación sobre la materia.
 
-#### Artículo 3. Definiciones.
+#### Artículo 3. Definiciones A los efectos de la presente Ley Orgánica se entenderá por:.
 
-A los efectos de la presente Ley Orgánica se entenderá por:
+a) **Datos de carácter personal.** Cualquier información concerniente a personas físicas identificadas o identificables.
 
-a) Datos de carácter personal: cualquier información concerniente a personas físicas identificadas o identificables.
+b) **Fichero.** Todo conjunto organizado de datos de carácter personal, cualquiera que fuere la forma o modalidad de su creación, almacenamiento, organización y acceso.
 
-b) Fichero: todo conjunto organizado de datos de carácter personal, cualquiera que fuere la forma o modalidad de su creación, almacenamiento, organización y acceso.
+c) **Tratamiento de datos.** Operaciones y procedimientos técnicos de carácter automatizado o no, que permitan la recogida, grabación, conservación, elaboración, modificación, bloqueo y cancelación, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
 
-c) Tratamiento de datos: operaciones y procedimientos técnicos de carácter automatizado o no, que permitan la recogida, grabación, conservación, elaboración, modificación, bloqueo y cancelación, así como las cesiones de datos que resulten de comunicaciones, consultas, interconexiones y transferencias.
+d) **Responsable del fichero o tratamiento.** Persona física o jurídica, de naturaleza pública o privada, u órgano administrativo, que decida sobre la finalidad, contenido y uso del tratamiento.
 
-d) Responsable del fichero o tratamiento: persona física o jurídica, de naturaleza pública o privada, u órgano administrativo, que decida sobre la finalidad, contenido y uso del tratamiento.
+e) **Afectado o interesado.** Persona física titular de los datos que sean objeto del tratamiento a que se refiere el apartado c) del presente artículo.
 
-e) Afectado o interesado: persona física titular de los datos que sean objeto del tratamiento a que se refiere el apartado c) del presente artículo.
+f) **Procedimiento de disociación.** Todo tratamiento de datos personales de modo que la información que se obtenga no pueda asociarse a persona identificada o identificable.
 
-f) Procedimiento de disociación: todo tratamiento de datos personales de modo que la información que se obtenga no pueda asociarse a persona identificada o identificable.
+g) **Encargado del tratamiento.** La persona física o jurídica, autoridad pública, servicio o cualquier otro organismo que, sólo o conjuntamente con otros, trate datos personales por cuenta del responsable del tratamiento.
 
-g) Encargado del tratamiento: la persona física o jurídica, autoridad pública, servicio o cualquier otro organismo que, sólo o conjuntamente con otros, trate datos personales por cuenta del responsable del tratamiento.
+h) **Consentimiento del interesado.** Toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen.
 
-h) Consentimiento del interesado: toda manifestación de voluntad, libre, inequívoca, específica e informada, mediante la que el interesado consienta el tratamiento de datos personales que le conciernen.
+i) **Cesión o comunicación de datos.** Toda revelación de datos realizada a una persona distinta del interesado.
 
-i) Cesión o comunicación de datos: toda revelación de datos realizada a una persona distinta del interesado.
-
-j) Fuentes accesibles al público: aquellos ficheros cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el abono de una contraprestación.
+j) **Fuentes accesibles al público.** Aquellos ficheros cuya consulta puede ser realizada, por cualquier persona, no impedida por una norma limitativa o sin más exigencia que, en su caso, el abono de una contraprestación.
 
 Tienen la consideración de fuentes de acceso público, exclusivamente, el censo promocional, los repertorios telefónicos en los términos previstos por su normativa específica y las listas de personas pertenecientes a grupos de profesionales que contengan únicamente los datos de nombre, título, profesión, actividad, grado académico, dirección e indicación de su pertenencia al grupo. Asimismo, tienen el carácter de fuentes de acceso público los diarios y boletines oficiales y los medios de comunicación.
 
-## TÍTULO II
+## Título II
 
 **Principios de la protección de datos**
 
@@ -225,7 +218,9 @@ También podrán ser objeto de tratamiento los datos a que se refiere el párraf
 
 #### Artículo 8. Datos relativos a la salud.
 
-Sin perjuicio de lo que se dispone en el artículo 11 respecto de la cesión, las instituciones y los centros sanitarios públicos y privados y los profesionales correspondientes podrán proceder al tratamiento de los datos de carácter personal relativos a la salud de las personas que a ellos acudan o hayan de ser tratados en los mismos, de acuerdo con lo dispuesto en la legislación estatal o autonómica sobre sanidad.
+Sin perjuicio de lo que se dispone en el artículo 11 respecto.
+
+de la cesión, las instituciones y los centros sanitarios públicos y privados y los profesionales correspondientes podrán proceder al tratamiento de los datos de carácter personal relativos a la salud de las personas que a ellos acudan o hayan de ser tratados en los mismos, de acuerdo con lo dispuesto en la legislación estatal o autonómica sobre sanidad.
 
 #### Artículo 9. Seguridad de los datos.
 
@@ -279,7 +274,7 @@ En el contrato se estipularán, asimismo, las medidas de seguridad a que se refi
 
 4. En el caso de que el encargado del tratamiento destine los datos a otra finalidad, los comunique o los utilice incumpliendo las estipulaciones del contrato, será considerado también responsable del tratamiento, respondiendo de las infracciones en que hubiera incurrido personalmente.
 
-## TÍTULO III
+## Título III
 
 **Derechos de las personas**
 
@@ -343,13 +338,11 @@ Cumplido el citado plazo deberá procederse a la supresión.
 
 3. En el caso de los ficheros de titularidad privada, la acción se ejercitará ante los órganos de la jurisdicción ordinaria.
 
-## TÍTULO IV
+## Título IV
 
 **Disposiciones sectoriales**
 
-CAPÍTULO I
-
-Ficheros de titularidad pública
+## Capítulo I. Ficheros de titularidad pública.
 
 #### Artículo 20. Creación, modificación o supresión.
 
@@ -405,17 +398,15 @@ A estos efectos, se considerará especialmente la edad del afectado y el caráct
 
 #### Artículo 24. Otras excepciones a los derechos de los afectados.
 
-1. Lo dispuesto en los apartados 1 y 2 del artículo 5 no será aplicable a la recogida de datos cuando la información al afectado impida o dificulte gravemente el cumplimiento de las funciones de control y verificación de las Administraciones públicas o cuando afecte a la Defensa Nacional, a la seguridad pública o a la persecución de infracciones penales o administrativas.
+1. Lo dispuesto en los apartados 1 y 2 del artículo 5 no.
 
-2. Lo dispuesto en el artículo 15 y en el apartado 1 del artículo 16 no será de aplicación si, ponderados los intereses en presencia, resultase que los derechos que dichos preceptos conceden al afectado hubieran de ceder ante razones de interés público o ante intereses de terceros más dignos de protección. Si el órgano administrativo responsable del fichero invocase lo dispuesto en este apartado, dictará resolución motivada e instruirá al afectado del derecho que le asiste a poner la negativa en conocimiento del Director de la Agencia de Protección de Datos o, en su caso, del órgano equivalente de las Comunidades Autónomas.
+será aplicable a la recogida de datos cuando la información al afectado impida o dificulte gravemente el cumplimiento de las funciones de control y verificación de las Administraciones públicas o cuando afecte a la Defensa Nacional, a la seguridad pública o a la persecución de infracciones penales o administrativas.
 
-CAPÍTULO II
+2. Lo dispuesto en el artículo 15 y en.
 
-Ficheros de titularidad privada
+el apartado 1 del artículo 16 no será de aplicación si, ponderados los intereses en presencia, resultase que los derechos que dichos preceptos conceden al afectado hubieran de ceder ante razones de interés público o ante intereses de terceros más dignos de protección. Si el órgano administrativo responsable del fichero invocase lo dispuesto en este apartado, dictará resolución motivada e instruirá al afectado del derecho que le asiste a poner la negativa en conocimiento del Director de la Agencia de Protección de Datos o, en su caso, del órgano equivalente de las Comunidades Autónomas.
 
-#### Artículo 25. Creación.
-
-Podrán crearse ficheros de titularidad privada que contengan datos de carácter personal cuando resulte necesario para el logro de la actividad u objeto legítimos de la persona, empresa o entidad titular y se respeten las garantías que esta Ley establece para la protección de las personas.
+## Capítulo II. Ficheros de titularidad privada artículo 25 Creación. Podrán crearse ficheros de titularidad privada que contengan datos de carácter personal cuando resulte necesario para el logro de la actividad u objeto legítimos de la persona, empresa o entidad titular y se respeten las garantías que esta Ley establece para la protección de las personas.
 
 #### Artículo 26. Notificación e inscripción registral.
 
@@ -495,7 +486,7 @@ En el supuesto de que tales reglas o estándares no se incorporen directamente a
 
 3. Los códigos tipo tendrán el carácter de códigos deontológicos o de buena práctica profesional, debiendo ser depositados o inscritos en el Registro General de Protección de Datos y, cuando corresponda, en los creados a estos efectos por las Comunidades Autónomas, de acuerdo con el artículo 41. El Registro General de Protección de Datos podrá denegar la inscripción cuando considere que no se ajusta a las disposiciones legales y reglamentarias sobre la materia, debiendo, en este caso, el Director de la Agencia de Protección de Datos requerir a los solicitantes para que efectúen las correcciones oportunas.
 
-## TÍTULO V
+## Título V
 
 **Movimiento internacional de datos**
 
@@ -533,7 +524,7 @@ j) Cuando la transferencia se efectúe, a petición de persona con interés leg�
 
 k) Cuando la transferencia tenga como destino un Estado miembro de la Unión Europea, o un Estado respecto del cual la Comisión de las Comunidades Europeas, en el ejercicio de sus competencias, haya declarado que garantiza un nivel de protección adecuado.
 
-## TÍTULO VI
+## Título VI
 
 **Agencia de Protección de Datos**
 
@@ -665,7 +656,7 @@ Estarán obligados a guardar secreto sobre las informaciones que conozcan en el 
 
 2. Si la Administración pública correspondiente no cumpliera el requerimiento formulado, el Director de la Agencia de Protección de Datos podrá impugnar la resolución adoptada por aquella Administración.
 
-## TÍTULO VII
+## Título VII
 
 **Infracciones y sanciones**
 
@@ -721,7 +712,9 @@ a) La recogida de datos en forma engañosa y fraudulenta.
 
 b) La comunicación o cesión de los datos de carácter personal, fuera de los casos en que estén permitidas.
 
-c) Recabar y tratar los datos de carácter personal a los que se refiere el apartado 2 del artículo 7 cuando no medie el consentimiento expreso del afectado; recabar y tratar los datos referidos en el apartado 3 del artículo 7 cuando no lo disponga una ley o el afectado no haya consentido expresamente, o violentar la prohibición contenida en el apartado 4 del artículo 7.
+c) Recabar y tratar los datos de carácter personal a los que se refiere el apartado 2 del artículo 7 cuando.
+
+no medie el consentimiento expreso del afectado; recabar y tratar los datos referidos en el apartado 3 del artículo 7 cuando no lo disponga una ley o el afectado no haya consentido expresamente, o violentar la prohibición contenida en el apartado 4 del artículo 7.
 
 d) No cesar en el uso ilegítimo de los tratamientos de datos de carácter personal cuando sea requerido para ello por el Director de la Agencia de Protección de Datos o por las personas titulares del derecho de acceso.
 
@@ -753,7 +746,9 @@ i) No atender de forma sistemática el deber legal de notificación de la inclus
 
 #### Artículo 46. Infracciones de las Administraciones públicas.
 
-1. Cuando las infracciones a que se refiere el artículo 44 fuesen cometidas en ficheros de los que sean responsables las Administraciones públicas, el Director de la Agencia de Protección de Datos dictará una resolución estableciendo las medidas que procede adoptar para que cesen o se corrijan los efectos de la infracción.
+1. Cuando las infracciones a que se refiere el artículo 44 fuesen.
+
+cometidas en ficheros de los que sean responsables las Administraciones públicas, el Director de la Agencia de Protección de Datos dictará una resolución estableciendo las medidas que procede adoptar para que cesen o se corrijan los efectos de la infracción.
 
 Esta resolución se notificará al responsable del fichero, al órgano del que dependa jerárquicamente y a los afectados si los hubiera.
 
@@ -785,9 +780,9 @@ El procedimiento y las sanciones a aplicar serán las establecidas en la legisla
 
 2. Las resoluciones de la Agencia de Protección de Datos u órgano correspondiente de la Comunidad Autónoma agotan la vía administrativa.
 
-#### Artículo 49. Potestad de inmovilización de ficheros.
+#### Artículo 49. Potestad de inmovilización de ficheros En los supuestos, constitutivos de infracción muy grave, de utilización o cesión ilícita de los datos de carácter personal en que se impida gravemente o se atente de igual modo contra el ejercicio de los derechos de los ciudadanos y el libre desarrollo de la personalidad que la Constitución y las leyes garantizan, el Director de la Agencia de Protección de Datos podrá, además de ejercer la potestad sancionadora, requerir a los responsables de ficheros de datos de carácter personal, tanto de titularidad pública como privada, la cesación en la utilización o cesión ilícita de los datos.
 
-En los supuestos, constitutivos de infracción muy grave, de utilización o cesión ilícita de los datos de carácter personal en que se impida gravemente o se atente de igual modo contra el ejercicio de los derechos de los ciudadanos y el libre desarrollo de la personalidad que la Constitución y las leyes garantizan, el Director de la Agencia de Protección de Datos podrá, además de ejercer la potestad sancionadora, requerir a los responsables de ficheros de datos de carácter personal, tanto de titularidad pública como privada, la cesación en la utilización o cesión ilícita de los datos. Si el requerimiento fuera desatendido, la Agencia de Protección de Datos podrá, mediante resolución motivada, inmovilizar tales ficheros a los solos efectos de restaurar los derechos de las personas afectadas.
+Si el requerimiento fuera desatendido, la Agencia de Protección de Datos podrá, mediante resolución motivada, inmovilizar tales ficheros a los solos efectos de restaurar los derechos de las personas afectadas.
 
 #### Disposición adicional primera. Ficheros preexistentes.
 
@@ -857,7 +852,9 @@ El Gobierno aprobará, o modificará, las disposiciones reglamentarias necesaria
 
 #### Disposición final segunda. Preceptos con carácter de Ley ordinaria.
 
-Los Títulos IV, VI excepto el último inciso del párrafo 4 del artículo 36 y VII de la presente Ley, la disposición adicional cuarta, la disposición transitoria primera y la final primera tienen el carácter de Ley ordinaria.
+Los Títulos IV, VI excepto el último inciso del párrafo 4 del artículo 36 y VII.
+
+de la presente Ley, la disposición adicional cuarta, la disposición transitoria primera y la final primera tienen el carácter de Ley ordinaria.
 
 #### Disposición final tercera. Entrada en vigor.
 
@@ -873,11 +870,10 @@ El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamento de**: [**BOE-A-2003-23399**](./L59_2003_firma_electronica.md)
 - **Fundamento de**: [**BOE-A-2003-4151**](./RD209_2003_regulan_registros_notificaciones_telematicas_asi_como.md)
@@ -908,5 +904,6 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
 
 ### Fundamentos de Derecho
+
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2000-544
 codigo_sintetizado: BOE-A-2000-544
-titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros
-  en España y su integración social.
+titulo: Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2000-01-12'
 boletin: BOE
@@ -17,39 +15,36 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- curriculo
-- igualdad-genero
-- protecci-n-jur-dica-de-menores
-- proteccion-menores
-- servicios-complementarios
-- titulacion
+  - curriculo
+  - igualdad-genero
+  - protecci-n-jur-dica-de-menores
+  - proteccion-menores
+  - servicios-complementarios
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2015-8222
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-2022-11589
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2015-8222
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-2022-11589
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-10-2022
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 ---
+# Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 ## Preámbulo
-
-# Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
-
-# Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**
 
@@ -59,7 +54,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-## TÍTULO PRELIMINAR
+## Título Preliminar
 
 **Disposiciones generales**
 
@@ -79,13 +74,11 @@ b) Los representantes y delegados, así como los demás miembros y sus familiare
 
 c) Los funcionarios destinados en Organizaciones internacionales o intergubernamentales con sede en España, así como sus familiares, a quienes los Tratados en los que sea parte España eximan de las obligaciones mencionadas en el párrafo a) de este artículo.
 
-## TÍTULO I
+## Título I
 
 **Derechos y libertades de los extranjeros**
 
-CAPÍTULO I
-
-Derechos y libertades de los extranjeros
+## Capítulo I. Derechos y libertades de los extranjeros.
 
 #### Artículo 3. Igualdad con los españoles e interpretación de las normas.
 
@@ -173,9 +166,7 @@ Los extranjeros residentes y los que se encuentren en España inscritos en el pa
 
 2. Los extranjeros tendrán derecho a transferir sus ingresos y ahorros obtenidos en España a su país, o a cualquier otro, conforme a los procedimientos establecidos en la legislación española y de conformidad con los acuerdos internacionales aplicables. El Gobierno adoptará las medidas necesarias para facilitar dichas transferencias.
 
-CAPÍTULO II
-
-Reagrupación familiar
+## Capítulo II. Reagrupación familiar.
 
 #### Artículo 16. Derecho a la intimidad familiar.
 
@@ -203,9 +194,7 @@ e) Cualquier otro familiar respecto del que se justifique la necesidad de autori
 
 f) Los familiares extranjeros de los españoles, a los que no les fuera de aplicación la normativa sobre entrada y permanencia en España de nacionales de Estados miembros de la Unión Europea.
 
-CAPÍTULO III
-
-Garantías jurídicas
+## Capítulo III. Garantías jurídicas.
 
 #### Artículo 18. Derecho a la tutela judicial efectiva.
 
@@ -229,9 +218,7 @@ Además, tendrán derecho a la asistencia de intérprete si no comprenden o habl
 
 2. Los extranjeros residentes y los que se encuentren en España inscritos en el padrón del municipio en el que residan habitualmente, que acrediten insuficiencia de recursos económicos para litigar tendrán derecho a la asistencia jurídica gratuita en iguales condiciones que los españoles en los procesos en los que sean parte, cualquiera que sea la jurisdicción en la que se sigan.
 
-CAPÍTULO IV
-
-De las medidas antidiscriminatorias
+## Capítulo IV. De las medidas antidiscriminatorias.
 
 #### Artículo 21. Actos discriminatorios.
 
@@ -255,13 +242,11 @@ Constituye discriminación indirecta todo tratamiento derivado de la adopción d
 
 La tutela judicial contra cualquier práctica discriminatoria que comporte vulneración de derechos y libertades fundamentales podrá ser exigida por el procedimiento previsto en el artículo 53.2 de la Constitución en los términos legalmente establecidos.
 
-## TÍTULO II
+## Título II
 
 **Régimen jurídico de las situaciones de los extranjeros**
 
-CAPÍTULO I
-
-De la entrada y salida del territorio español
+## Capítulo I. De la entrada y salida del territorio español.
 
 #### Artículo 23. Requisitos para la entrada en territorio español.
 
@@ -281,7 +266,9 @@ De la entrada y salida del territorio español
 
 #### Artículo 25. Expedición del visado.
 
-1. El visado será expedido por las misiones diplomáticas y oficinas consulares de España y excepcionalmente, por motivos humanitarios, de colaboración con la Justicia o de atención sanitaria, podrá eximirse por el Ministerio del Interior de la obligación de obtener el visado a los extranjeros que se encuentren en territorio español y cumplan los requisitos para obtener un permiso de residencia. Cuando la exención se solicite como cónyuge de residente, se deberán reunir las circunstancias del artículo 17 y acreditar la convivencia al menos durante un año y que el cónyuge tenga autorización para residir al menos otro año.
+1. El visado será expedido por las misiones diplomáticas y oficinas consulares de España y excepcionalmente, por motivos humanitarios, de colaboración con la Justicia o de atención sanitaria, podrá eximirse por el Ministerio del Interior de la obligación de obtener el visado a los extranjeros que se encuentren en territorio español y cumplan los requisitos para obtener un permiso de residencia. Cuando la exención se solicite como cónyuge de residente, se deberán reunir las circunstancias del artículo 17 y acreditar.
+
+la convivencia al menos durante un año y que el cónyuge tenga autorización para residir al menos otro año.
 
 2. La concesión del visado se regulará reglamentariamente. Para su concesión se tendrá en cuenta la satisfacción de los intereses nacionales de España, así como los compromisos internacionales asumidos por España. Reglamentariamente se establecerán las causas que pueden motivar la denegación del visado. En el procedimiento podrá requerirse la comparecencia personal del solicitante.
 
@@ -289,7 +276,7 @@ De la entrada y salida del territorio español
 
 4. La tramitación sobre concesión o denegación de permisos y visados regulados en esta Ley, tendrá un plazo máximo de resolución de tres meses a contar desde la fecha de solicitud o, en su caso, de la fecha de aportación de la documentación preceptiva.
 
-#### Artículo 26. De la salida de España.
+artículo 26 De la salida de España.
 
 1. Las salidas del territorio español podrán realizarse libremente, excepto en los casos previstos en el Código Penal y en la presente Ley.
 
@@ -303,9 +290,7 @@ b) Expulsión o devolución acordadas por resolución administrativa en los caso
 
 c) Denegación administrativa de las solicitudes formuladas por el extranjero para continuar permaneciendo en territorio español, salvo que la solicitud se hubiere realizado al amparo del artículo 29.3.
 
-CAPÍTULO II
-
-Situaciones de los extranjeros
+## Capítulo II. Situaciones de los extranjeros.
 
 #### Artículo 27. Enumeración de las situaciones.
 
@@ -349,9 +334,7 @@ Los extranjeros podrán encontrarse en España en las situaciones de estancia, r
 
 2. En los supuestos en que los Cuerpos y Fuerzas de Seguridad localicen a una persona indocumentada, respecto de la que no pueda ser establecido con exactitud si es mayor o menor de edad, lo pondrán en conocimiento de los Juzgados de Menores para la determinación de la identidad, edad y comprobación de las circunstancias personales y familiares. Determinada la edad y demás datos a que se ha hecho mención, si se tratase de un menor, la Administración competente resolverá lo que proceda sobre el retorno o no a su lugar de origen o sobre la situación de su permanencia en España.
 
-CAPÍTULO III
-
-Del permiso de trabajo y regímenes especiales
+## Capítulo III. Del permiso de trabajo y regímenes especiales.
 
 #### Artículo 33. Autorización para la realización de actividades lucrativas.
 
@@ -463,9 +446,7 @@ e) Los extranjeros con autorización de residencia permanente.
 
 Los trabajadores extranjeros que, residiendo en la zona limítrofe, desarrollen su actividad en España y regresen a su lugar de residencia diariamente, o, al menos, una vez a la semana, deberán obtener la correspondiente autorización administrativa, con los requisitos y condiciones con que se conceden las autorizaciones de régimen general.
 
-CAPÍTULO IV
-
-De las tasas por autorizaciones administrativas para trabajar en España
+## Capítulo IV. De las tasas por autorizaciones administrativas para trabajar en España.
 
 #### Artículo 43. Hecho imponible.
 
@@ -483,7 +464,7 @@ Reglamentariamente se establecerá la cuantía de las tasas teniendo en cuenta l
 
 Las autorizaciones de trabajo permanente estarán exentas del pago de la tasa.
 
-## TÍTULO III
+## Título III
 
 **De las infracciones en materia de extranjería y su régimen sancionador**
 
@@ -571,17 +552,23 @@ c) Las infracciones muy graves con multa desde uno hasta diez millones de peseta
 
 a) Los nacidos en España que hayan residido legalmente en los últimos cinco años.
 
-b) Los que tengan reconocida la residencia permanente, salvo que estén inmersas en los apartados a), b), c) y f) del artículo 50 y g) del artículo 49.
+b) Los que tengan reconocida la residencia permanente, salvo que estén inmersas en los apartados a), b), c) y f) del artículo 50 y g).
+
+del artículo 49.
 
 c) Los que hayan sido españoles de origen y hubieran perdido la nacionalidad española.
 
-d) Los que sean beneficiarios de una prestación por incapacidad permanente para el trabajo como consecuencia de un accidente de trabajo o enfermedad profesional ocurridos en España, así como los que perciban una prestación contributiva por desempleo o sean beneficiarios de una prestación económica asistencial de carácter público destinada a lograr su inserción o reinserción social o laboral, salvo que la sanción se proponga por haber realizado alguna de las infracciones reconocidas en los apartados a), b), c) y f) del artículo 50 y g) del artículo 49.
+d) Los que sean beneficiarios de una prestación por incapacidad permanente para el trabajo como consecuencia de un accidente de trabajo o enfermedad profesional ocurridos en España, así como los que perciban una prestación contributiva por desempleo o sean beneficiarios de una prestación económica asistencial de carácter público destinada a lograr su inserción o reinserción social o laboral, salvo que la sanción se proponga por haber realizado alguna de las infracciones reconocidas en los apartados a), b), c) y f) del artículo 50 y g).
+
+del artículo 49.
 
 3. Tampoco podrán ser expulsados los cónyuges de los extranjeros, ascendientes e hijos menores o incapacitados a cargo del extranjero que se encuentre en alguna de las situaciones señaladas anteriormente y hayan residido legalmente en España durante más de dos años, ni las mujeres embarazadas cuando la medida pueda suponer un riesgo para la gestación o para la salud de la madre.
 
 4. Cuando el extranjero se encuentre encartado en un procedimiento por delitos castigados con penas privativas de libertad inferiores a seis años, el Juez podrá autorizar, previa audiencia del Fiscal, su salida del territorio español, siempre que se cumplan los requisitos establecidos en la Ley de Enjuiciamiento Criminal, o su expulsión, si ésta resultara procedente de conformidad con lo previsto en los párrafos anteriores del presente artículo, previa sustanciación del correspondiente procedimiento administrativo sancionador.
 
-En el supuesto de que se trate de extranjeros no residentes legalmente en España y que fueren condenados por sentencia firme, será de aplicación lo dispuesto en el artículo 89 del Código Penal.
+En el supuesto de que se trate de extranjeros no residentes legalmente en España y que fueren condenados por sentencia firme, será de aplicación lo dispuesto en el artículo 89 l.
+
+Código Penal.
 
 #### Artículo 54. Procedimiento y efectos de la expulsión.
 
@@ -623,7 +610,9 @@ Excepcionalmente, la autoridad gubernativa podrá aplicar provisionalmente a los
 
 #### Artículo 58. Ingreso en centros de internamiento.
 
-1. Cuando el expediente se refiera a extranjeros por las causas comprendidas en los apartados a), b) y c) del artículo 50 así como el g) del artículo 49, en el que se vaya a proponer la expulsión del afectado, la autoridad gubernativa podrá proponer al Juez de Instrucción competente correspondiente que disponga su ingreso en un centro de internamiento en tanto se realiza la tramitación del expediente sancionador. La decisión judicial en relación con la solicitud de internamiento del extranjero pendiente de expulsión se adoptará en auto motivado, previa audiencia del interesado.
+1. Cuando el expediente se refiera a extranjeros por las causas comprendidas en los apartados a), b) y c) del artículo 50 así.
+
+como el g) del artículo 49, en el que se vaya a proponer la expulsión del afectado, la autoridad gubernativa podrá proponer al Juez de Instrucción competente correspondiente que disponga su ingreso en un centro de internamiento en tanto se realiza la tramitación del expediente sancionador. La decisión judicial en relación con la solicitud de internamiento del extranjero pendiente de expulsión se adoptará en auto motivado, previa audiencia del interesado.
 
 2. El internamiento se mantendrá por el tiempo imprescindible para los fines del expediente, sin que en ningún caso pueda exceder de cuarenta días, ni acordarse un nuevo internamiento por cualquiera de las causas previstas en un mismo expediente. La decisión judicial que lo autorice, atendiendo a las circunstancias concurrentes en cada caso, podrá fijar un período máximo de duración del internamiento inferior al citado.
 
@@ -639,7 +628,7 @@ El régimen de ejecutividad de las mismas será el previsto con carácter genera
 
 2. En todo caso, cuando el extranjero no se encuentre en España, podrá cursar los recursos procedentes, tanto en vía administrativa como jurisdiccional, a través de las representaciones diplomáticas o consulares correspondientes, o de organizaciones de asistencia a la emigración debidamente apoderadas, quienes los remitirán al organismo competente.
 
-## TÍTULO IV
+## Título IV
 
 **Coordinación de los poderes públicos en materia de inmigración**
 
@@ -689,7 +678,9 @@ Queda derogada la Ley Orgánica 7/1985, de 1 de julio, sobre derechos y libertad
 
 #### Disposición final primera. Modificación del artículo 312 del Código Penal.
 
-El apartado 1 del artículo 312 del Código Penal queda redactado de la forma siguiente:
+El apartado 1 del artículo 312 l.
+
+Código Penal queda redactado de la forma siguiente:
 
 "Artículo 312.
 
@@ -715,13 +706,17 @@ Se introduce un nuevo Título XV bis con la siguiente redacción:
 
 #### Disposición final tercera. Modificaciones en los artículos 515, 517 y 518 del Código Penal.
 
-1. Se añade un nuevo apartado 6.º en el artículo 515 con la siguiente redacción:
+1. Se añade un nuevo apartado 6.º en el artículo 515 con.
+
+la siguiente redacción:
 
 "6.º Las que promuevan el tráfico ilegal de personas."
 
 2. Se modifica el primer párrafo del artículo 517, que quedará redactado de la siguiente forma:
 
-"En los casos previstos en los números 1.º y 3.º al 6.º del artículo 515 se impondrán las siguientes penas:"
+"En los casos previstos en los números 1.º y 3.º al 6.º del artículo 515 se.
+
+impondrán las siguientes penas:"
 
 3. Se modifica el artículo 518, que quedará redactado de la siguiente forma:
 
@@ -759,11 +754,10 @@ El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
 - **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
@@ -778,4 +772,5 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - **Fundamento de**: [**Resolucion BOC 103**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)

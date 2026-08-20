@@ -1,12 +1,10 @@
 ---
 id: norm-mad-d-15-2023
 codigo_sintetizado: D15_2023 Ordenacion Enseñanzas de Idiomas Madrid
-titulo: Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las
-  Enseñanzas de Idiomas en la Comunidad de Madrid.
+titulo: Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
-organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
-  Madrid
+organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 15/2023
 fecha_disposicion: '2023-03-01'
@@ -20,1417 +18,317 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- eoi
-- idiomas_ordenacion
-- certificados_idioma
-- madrid
+  - eoi
+  - idiomas_ordenacion
+  - certificados_idioma
+  - madrid
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-mad-d-29-2013
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-mad-d-29-2013
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas en la Comunidad de Madrid.
 
 ## Preámbulo
 
-# Decreto 15/2023, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas en la Comunidad de Madrid.
-
-BOCM
 I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-Consejería de Familia, Juventud y Política Social
-1
-DECRETO 16/2023, de 1 de marzo, del Consejo de Gobierno, sobre acreditación, funcionamiento y control de los organismos acreditados para la adopción
-internacional.
-I
-La Ley 54/2007, de 28 de diciembre, de Adopción internacional, tuvo por objeto una
-regulación normativa sistemática, coherente y actualizada que permitiera dar respuesta al
-fenómeno de la adopción internacional en España, así como para poner fin a la dispersión
-normativa característica de la legislación anterior y reunir una regulación completa de las
-cuestiones de derecho internacional privado necesariamente presentes en todo proceso de
-adopción internacional. Todo ello en el marco de la máxima seguridad jurídica para que la
-adopción tenga lugar con las máximas garantías y respeto a los intereses de las personas
-menores de edad a adoptar.
-Posteriormente, la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia, introdujo diversas modificaciones de la ley de adopción internacional. En la citada ley, se clarifica su ámbito de aplicación y se define el concepto de adopción internacional, como lo hace el Convenio relativo a la protección del niño
-y a la cooperación en materia de adopción internacional, hecho en la Haya el 29 de mayo
-de 1993, ratificado por España mediante Instrumento de 30 de junio de 1995.
-Se define a los futuros adoptantes, no como solicitantes, sino como personas que se
-ofrecen para la adopción. Igualmente, siguiendo la terminología del Convenio de la Haya,
-de 29 de mayo de 1993, las entidades colaboradoras de adopción internacional pasan a denominarse organismos acreditados para la adopción internacional.
-Además, se refuerzan las previsiones de garantía de las adopciones internacionales, señalando que solo podrán realizarse a través de la intermediación de organismos acreditados, en los casos de países signatarios del Convenio de La Haya, de 29 de mayo de 1993 y
-con determinadas condiciones por la intermediación de las Entidades Públicas. Se refuerzan los controles sobre los beneficios financieros indebidos.
-Se detallan con mayor claridad las obligaciones de los adoptantes, tanto en la fase preadoptiva como en la fase postadoptiva mediante el establecimiento de consecuencias jurídicas por el incumplimiento de las obligaciones postadoptivas a las que los adoptantes y las
-Administraciones públicas están obligadas respecto de los países de origen de las personas
-menores de edad a adoptar.
-Igualmente, se deslindan los ámbitos de competencias de las diversas Administraciones públicas, determinando como competencias de la Administración General del Estado,
-la decisión de iniciar, suspender o limitar la tramitación de adopciones con determinados
-países, y, sobre todo, por afectar al ámbito competencial de la Comunidad de Madrid, la
-acreditación de los organismos para actuar como intermediarios en las adopciones internacionales, sin perjuicio de la necesaria intervención de las Entidades Públicas de las Comunidades Autónomas.
-Por otra parte, se mantiene la competencia autonómica para el control, inspección y seguimiento de los organismos acreditados en cuanto a las actuaciones que se lleven a cabo
-en su territorio, pero se prevé que la Administración General del Estado sea la competente
-para el control y seguimiento respecto a la intermediación que el organismo acreditado lleva a cabo en el extranjero.
-Para el desarrollo de aquellos aspectos de la ley que requerían un desarrollo reglamentario para el correcto ejercicio de las nuevas competencias conferidas a la Administración
-General del Estado, se dicta el Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción internacional, que incluye también otras cuestiones que se
-han considerado pertinentes para una mayor seguridad jurídica, como es el caso de la decisión única para el inicio o suspensión de la tramitación de expedientes de adopción internacional con los países de origen.
+A) Disposiciones Generales Consejería de Familia, Juventud y Política Social 1 DECRETO 16/2023, de 1 de marzo, del Consejo de Gobierno, sobre acreditación, funcionamiento y control de los organismos acreditados para la adopción internacional.
+**I**
+La Ley 54/2007, de 28 de diciembre, de Adopción internacional, tuvo por objeto una regulación normativa sistemática, coherente y actualizada que permitiera dar respuesta al fenómeno de la adopción internacional en España, así como para poner fin a la dispersión normativa característica de la legislación anterior y reunir una regulación completa de las cuestiones de derecho internacional privado necesariamente presentes en todo proceso de adopción internacional. Todo ello en el marco de la máxima seguridad jurídica para que la adopción tenga lugar con las máximas garantías y respeto a los intereses de las personas menores de edad a adoptar. Posteriormente, la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia, introdujo diversas modificaciones de la ley de adopción internacional. En la citada ley, se clarifica su ámbito de aplicación y se define el concepto de adopción internacional, como lo hace el Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en la Haya el 29 de mayo de 1993, ratificado por España mediante Instrumento de 30 de junio de 1995. Se define a los futuros adoptantes, no como solicitantes, sino como personas que se ofrecen para la adopción. Igualmente, siguiendo la terminología del Convenio de la Haya, de 29 de mayo de 1993, las entidades colaboradoras de adopción internacional pasan a denominarse organismos acreditados para la adopción internacional. Además, se refuerzan las previsiones de garantía de las adopciones internacionales, señalando que solo podrán realizarse a través de la intermediación de organismos acreditados, en los casos de países signatarios del Convenio de La Haya, de 29 de mayo de 1993 y con determinadas condiciones por la intermediación de las Entidades Públicas. Se refuerzan los controles sobre los beneficios financieros indebidos. Se detallan con mayor claridad las obligaciones de los adoptantes, tanto en la fase preadoptiva como en la fase postadoptiva mediante el establecimiento de consecuencias jurídicas por el incumplimiento de las obligaciones postadoptivas a las que los adoptantes y las Administraciones públicas están obligadas respecto de los países de origen de las personas menores de edad a adoptar. Igualmente, se deslindan los ámbitos de competencias de las diversas Administraciones públicas, determinando como competencias de la Administración General del Estado, la decisión de iniciar, suspender o limitar la tramitación de adopciones con determinados países, y, sobre todo, por afectar al ámbito competencial de la Comunidad de Madrid, la acreditación de los organismos para actuar como intermediarios en las adopciones internacionales, sin perjuicio de la necesaria intervención de las Entidades Públicas de las Comunidades Autónomas. Por otra parte, se mantiene la competencia autonómica para el control, inspección y seguimiento de los organismos acreditados en cuanto a las actuaciones que se lleven a cabo en su territorio, pero se prevé que la Administración General del Estado sea la competente para el control y seguimiento respecto a la intermediación que el organismo acreditado lleva a cabo en el extranjero. Para el desarrollo de aquellos aspectos de la ley que requerían un desarrollo reglamentario para el correcto ejercicio de las nuevas competencias conferidas a la Administración General del Estado, se dicta el Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción internacional, que incluye también otras cuestiones que se han considerado pertinentes para una mayor seguridad jurídica, como es el caso de la decisión única para el inicio o suspensión de la tramitación de expedientes de adopción internacional con los países de origen.
 
-BOCM
-Sin embargo, posteriormente, el Tribunal Constitucional en Sentencia 36/2021, de 18
-de febrero de 2021, que resuelve el conflicto positivo de competencia planteado por el Gobierno de Cataluña en relación con diversos preceptos de la ley y del reglamento de adopción internacional ha declarado inconstitucionales y nulos algunos de sus artículos. En concreto y fundamentalmente, aquellos que atribuyeron a la Administración General del
-Estado tanto la acreditación de los organismos que realizan actividades de intermediación
-en las adopciones internacionales, como las funciones instrumentales o conexas a la misma, por incurrir en una vulneración del orden constitucional y estatutario de distribución de
-competencias.
-No obstante, por exigencias del principio constitucional de seguridad jurídica, las declaraciones de inconstitucionalidad y nulidad contenidas en la sentencia no afectarán a las
-situaciones jurídicas consolidadas, debiéndose considerar como tales las establecidas mediante actuaciones administrativas firmes, o las que, en la vía judicial, hayan sido decididas
-mediante sentencia con fuerza de cosa juzgada. Asimismo, se difieren los efectos de la nulidad por el plazo de un año a partir de la publicación de la sentencia, con la finalidad de
-evitar un vacío normativo inmediato.
-En este contexto, se considera necesario establecer una regulación actualizada, coherente y ajustada del Decreto 62/2003, de 8 de mayo, sobre acreditación, funcionamiento y
-control de las entidades colaboradoras de adopción internacional, en vigor en el ámbito territorial de la Comunidad de Madrid tras la citada Sentencia del Tribunal Constitucional,
-para lo cual procede aprobar un nuevo decreto en la materia.
-II
-Las novedades del proyecto de decreto vienen determinadas por la necesidad de su
-conciliación con las previsiones del Real Decreto 165/2019, de 22 de marzo, por el que se
-aprueba el Reglamento de Adopción internacional, el cual ha desarrollado aquellos aspectos que, de acuerdo con lo previsto en la Ley 54/2007, de 28 de diciembre, de Adopción Internacional, requerían una regulación para el correcto ejercicio de las nuevas competencias
-conferidas a la Administración General del Estado que no han sido declaradas inconstitucionales por la Sentencia 36/2021, de 18 de febrero de 2021 del Tribunal Constitucional.
-Asimismo, resulta necesario adecuarse al nuevo marco en el que aparecen nuevos sujetos intervinientes en la adopción internacional como la Comisión Delegada de Servicios
-Sociales del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y
-Atención a la Dependen, o la Comisión Técnica de Seguimiento y Control, adscrita a la Comisión Delegada, que se crea en el artículo 34 del RAI.
-Otro de los aspectos que se ha tenido en cuenta al redactar el proyecto de decreto, es
-la nueva previsión establecida en la normativa estatal con respecto al ámbito de actuación
-de los organismos acreditados que podrán desarrollar su actividad en todo el territorio nacional, prestando sus servicios a las personas que se ofrezcan para la adopción con residencia habitual en España. Esta previsión facilita a las personas que se ofrecen para la adopción la libre elección del organismo con el que quieren llevar a cabo su proceso de
-adopción, sin necesidad de que se produzca una autorización previa de las entidades públicas afectadas, como hasta ahora se venía haciendo.
-Igualmente, se introduce la posibilidad de formalizar acuerdos de cooperación y fusión
-entre los organismos acreditados ante situaciones especiales y la posibilidad de establecer
-la coordinación entre las Entidades Públicas de Protección de Menores competentes.
-Por último, se tiene en cuenta la previsión en el RAI de la creación del Registro Nacional
-de Organismos Acreditados de Adopción internacional y de Reclamaciones e Incidencias.
-III
-La presente norma se adecua a los principios de buena regulación, de acuerdo con lo
-previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y el artículo 2 del Decreto 52/2021, de 24
-de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de
-elaboración de las disposiciones normativas de carácter general en la Comunidad de
-Madrid, respondiendo a los principios de necesidad y eficacia, proporcionalidad, seguridad
-jurídica, transparencia y eficiencia.
-Su adecuación a los principios de necesidad y eficacia, viene justificada por la necesaria regulación armonizada entre diferentes Administraciones públicas y actualizada sobre
+Sin embargo, posteriormente, el Tribunal Constitucional en Sentencia 36/2021, de 18 de febrero de 2021, que resuelve el conflicto positivo de competencia planteado por el Gobierno de Cataluña en relación con diversos preceptos de la ley y del reglamento de adopción internacional ha declarado inconstitucionales y nulos algunos de sus artículos. En concreto y fundamentalmente, aquellos que atribuyeron a la Administración General del Estado tanto la acreditación de los organismos que realizan actividades de intermediación en las adopciones internacionales, como las funciones instrumentales o conexas a la misma, por incurrir en una vulneración del orden constitucional y estatutario de distribución de competencias. No obstante, por exigencias del principio constitucional de seguridad jurídica, las declaraciones de inconstitucionalidad y nulidad contenidas en la sentencia no afectarán a las situaciones jurídicas consolidadas, debiéndose considerar como tales las establecidas mediante actuaciones administrativas firmes, o las que, en la vía judicial, hayan sido decididas mediante sentencia con fuerza de cosa juzgada. Asimismo, se difieren los efectos de la nulidad por el plazo de un año a partir de la publicación de la sentencia, con la finalidad de evitar un vacío normativo inmediato. En este contexto, se considera necesario establecer una regulación actualizada, coherente y ajustada del Decreto 62/2003, de 8 de mayo, sobre acreditación, funcionamiento y control de las entidades colaboradoras de adopción internacional, en vigor en el ámbito territorial de la Comunidad de Madrid tras la citada Sentencia del Tribunal Constitucional, para lo cual procede aprobar un nuevo decreto en la materia.
+**II**
+Las novedades del proyecto de decreto vienen determinadas por la necesidad de su conciliación con las previsiones del Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción internacional, el cual ha desarrollado aquellos aspectos que, de acuerdo con lo previsto en la Ley 54/2007, de 28 de diciembre, de Adopción Internacional, requerían una regulación para el correcto ejercicio de las nuevas competencias conferidas a la Administración General del Estado que no han sido declaradas inconstitucionales por la Sentencia 36/2021, de 18 de febrero de 2021 del Tribunal Constitucional. Asimismo, resulta necesario adecuarse al nuevo marco en el que aparecen nuevos sujetos intervinientes en la adopción internacional como la Comisión Delegada de Servicios Sociales del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependen, o la Comisión Técnica de Seguimiento y Control, adscrita a la Comisión Delegada, que se crea en el artículo 34 l.
 
-BOCM
-la acreditación, el funcionamiento y el control de los organismos acreditados de adopción
-internacional.
-La Comunidad de Madrid, al amparo de lo previsto en el artículo 26.1.24 del Estatuto
-de Autonomía, tiene competencia exclusiva en materia de protección y tutela de las personas menores de edad. Partiendo de dicha atribución competencial, este Decreto tiene por
-objeto el establecimiento de los requisitos de acreditación, régimen de funcionamiento y
-procedimientos de control administrativo de los organismos acreditados para la adopción
-internacional, que tengan su sede en el territorio de la Comunidad de Madrid y que realizan
-funciones de intermediación en procesos de adopción de las personas menores de edad procedentes de otros países por parte de personas que se ofrecen para la adopción con residencia habitual en España.
-Asimismo, se adecúa al principio de proporcionalidad, dado que el decreto contiene la
-regulación imprescindible para atender la necesidad descrita como objeto de la norma, sin
-que las obligaciones que se imponen a los destinatarios principales, que son los organismos
-acreditados, vayan más allá de las estrictamente necesarias para garantizar el interés general que se persigue que es la protección de las personas menores de edad en los procedimientos de adopción internacional.
-Se adecúa al principio de transparencia, habiéndose cumplido con el trámite de publicación de la consulta pública en el Portal de Transparencia de la Comunidad de Madrid y habiendo concedido un plazo de quince días para aportaciones, de acuerdo con lo previsto en
-el artículo 5.1 del Decreto 52/2021, de 24 de marzo, y en el artículo 60.1 de la Ley 10/2019,
-de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid.
-Asimismo, de conformidad con lo establecido en el artículo 9 del Decreto 52/2021,
-de 24 de marzo, y con el artículo 60.2 de la Ley 10/2019, de 10 de abril, la participación
-ciudadana, se lleva a cabo el trámite de audiencia e información públicas.
-Se adecúa al principio de eficiencia, ya que esta norma no conlleva cargas administrativas innecesarias o accesorias, racionalizando la gestión de los recursos públicos.
-Se cumple con el principio de seguridad jurídica, dado que la presente iniciativa se
-ejerce de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión
-Europea, específicamente con la normativa estatal que regula la materia, con el fin de generar un marco normativo estable, predecible, integrado, claro y de certidumbre.
-Para la elaboración de este Decreto se ha llevado a cabo el trámite de Audiencia e Información Pública y se ha solicitado el informe de la Abogacía General de la Comunidad
-de Madrid y los demás preceptivos.
-El Consejo de Gobierno es competente para dictar este Decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid.
-En su virtud, de acuerdo con la Comisión Jurídica Asesora, a propuesta del titular de
-la Consejería de Familia, Juventud y Política Social, previa deliberación del Consejo de Gobierno, en su reunión del día 1 de marzo de 2023,
-DISPONE
+RAI. Otro de los aspectos que se ha tenido en cuenta al redactar el proyecto de decreto, es la nueva previsión establecida en la normativa estatal con respecto al ámbito de actuación de los organismos acreditados que podrán desarrollar su actividad en todo el territorio nacional, prestando sus servicios a las personas que se ofrezcan para la adopción con residencia habitual en España. Esta previsión facilita a las personas que se ofrecen para la adopción la libre elección del organismo con el que quieren llevar a cabo su proceso de adopción, sin necesidad de que se produzca una autorización previa de las entidades públicas afectadas, como hasta ahora se venía haciendo. Igualmente, se introduce la posibilidad de formalizar acuerdos de cooperación y fusión entre los organismos acreditados ante situaciones especiales y la posibilidad de establecer la coordinación entre las Entidades Públicas de Protección de Menores competentes. Por último, se tiene en cuenta la previsión en el RAI de la creación del Registro Nacional de Organismos Acreditados de Adopción internacional y de Reclamaciones e Incidencias.
+**III**
+La presente norma se adecua a los principios de buena regulación, de acuerdo con lo previsto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de carácter general en la Comunidad de Madrid, respondiendo a los principios de necesidad y eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Su adecuación a los principios de necesidad y eficacia, viene justificada por la necesaria regulación armonizada entre diferentes Administraciones públicas y actualizada sobre
+
+la acreditación, el funcionamiento y el control de los organismos acreditados de adopción internacional. La Comunidad de Madrid, al amparo de lo previsto en el artículo 26.1.24 del Estatuto de Autonomía, tiene competencia exclusiva en materia de protección y tutela de las personas menores de edad. Partiendo de dicha atribución competencial, este Decreto tiene por objeto el establecimiento de los requisitos de acreditación, régimen de funcionamiento y procedimientos de control administrativo de los organismos acreditados para la adopción internacional, que tengan su sede en el territorio de la Comunidad de Madrid y que realizan funciones de intermediación en procesos de adopción de las personas menores de edad procedentes de otros países por parte de personas que se ofrecen para la adopción con residencia habitual en España. Asimismo, se adecúa al principio de proporcionalidad, dado que el decreto contiene la regulación imprescindible para atender la necesidad descrita como objeto de la norma, sin que las obligaciones que se imponen a los destinatarios principales, que son los organismos acreditados, vayan más allá de las estrictamente necesarias para garantizar el interés general que se persigue que es la protección de las personas menores de edad en los procedimientos de adopción internacional. Se adecúa al principio de transparencia, habiéndose cumplido con el trámite de publicación de la consulta pública en el Portal de Transparencia de la Comunidad de Madrid y habiendo concedido un plazo de quince días para aportaciones, de acuerdo con lo previsto en el artículo 5.1 del Decreto 52/2021, de 24 de marzo, y en el artículo 60.1 de la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid. Asimismo, de conformidad con lo establecido en el artículo 9 l.
+
+Decreto 52/2021, de 24 de marzo, y con el artículo 60.2 de la Ley 10/2019, de 10 de abril, la participación ciudadana, se lleva a cabo el trámite de audiencia e información públicas. Se adecúa al principio de eficiencia, ya que esta norma no conlleva cargas administrativas innecesarias o accesorias, racionalizando la gestión de los recursos públicos. Se cumple con el principio de seguridad jurídica, dado que la presente iniciativa se ejerce de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, específicamente con la normativa estatal que regula la materia, con el fin de generar un marco normativo estable, predecible, integrado, claro y de certidumbre. Para la elaboración de este Decreto se ha llevado a cabo el trámite de Audiencia e Información Pública y se ha solicitado el informe de la Abogacía General de la Comunidad de Madrid y los demás preceptivos. El Consejo de Gobierno es competente para dictar este Decreto, de acuerdo con lo establecido en el artículo 21.g) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid. En su virtud, de acuerdo con la Comisión Jurídica Asesora, a propuesta del titular de la Consejería de Familia, Juventud y Política Social, previa deliberación del Consejo de Gobierno, en su reunión del día 1 de marzo de 2023, DISPONE
 
 ### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales artículo 1 Objeto
 
-#### Artículo 1
-Objeto
+1. El decreto tiene por objeto el establecimiento de los requisitos de acreditación, régimen de funcionamiento y procedimientos de control administrativo de los organismos acreditados para la adopción internacional (en adelante, organismos acreditados), que tengan su sede en el territorio de la Comunidad de Madrid y que realizan funciones de intermediación en procesos de adopción de las personas menores de edad procedentes de otros países por parte de personas que se ofrecen para la adopción con residencia habitual en España, en los términos previstos en la Ley 54/2007, de 28 de diciembre, de Adopción Internacional, del Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción Internacional, y en los términos establecidos en este Decreto. 2. Se entiende por intermediación en adopción internacional toda actividad que tenga por objeto intervenir poniendo en contacto o en relación a las personas que se ofrecen
 
-1.
-El decreto tiene por objeto el establecimiento de los requisitos de acreditación, régimen de funcionamiento y procedimientos de control administrativo de los organismos
-acreditados para la adopción internacional (en adelante, organismos acreditados), que tengan su sede en el territorio de la Comunidad de Madrid y que realizan funciones de intermediación en procesos de adopción de las personas menores de edad procedentes de otros
-países por parte de personas que se ofrecen para la adopción con residencia habitual en España, en los términos previstos en la Ley 54/2007, de 28 de diciembre, de Adopción Internacional, del Real Decreto 165/2019, de 22 de marzo, por el que se aprueba el Reglamento de Adopción Internacional, y en los términos establecidos en este Decreto.
-2.
-Se entiende por intermediación en adopción internacional toda actividad que tenga por objeto intervenir poniendo en contacto o en relación a las personas que se ofrecen
+para la adopción con las autoridades, organizaciones e instituciones del país de origen o residencia de la persona menor de edad susceptible de ser adoptada y prestar la asistencia suficiente para que la adopción se pueda llevar a cabo. 3. La regulación de las actividades de los organismos acreditados para la adopción internacional que tengan su sede en el ámbito territorial de la Comunidad de Madrid, comprende tanto las que se realizan en el territorio español como las que tienen lugar en el país de origen de las personas menores de edad adoptadas.
 
-BOCM
-para la adopción con las autoridades, organizaciones e instituciones del país de origen o residencia de la persona menor de edad susceptible de ser adoptada y prestar la asistencia suficiente para que la adopción se pueda llevar a cabo.
-3.
-La regulación de las actividades de los organismos acreditados para la adopción
-internacional que tengan su sede en el ámbito territorial de la Comunidad de Madrid, comprende tanto las que se realizan en el territorio español como las que tienen lugar en el país
-de origen de las personas menores de edad adoptadas.
+#### Artículo 2. Ámbito subjetivo de aplicación.
 
-#### Artículo 2
-Ámbito subjetivo de aplicación
+1. Podrán solicitar al centro directivo competente en materia de protección de menores de la Comunidad de Madrid (en adelante, centro directivo competente), la acreditación como organismos acreditados para la adopción internacional aquellas entidades sin ánimo de lucro inscritas en el registro correspondiente, en cuyos estatutos figure como fin la protección de las personas menores de edad, que dispongan de un proyecto de actuación, de los recursos humanos y materiales y demás requisitos previstos en esta norma para intervenir en funciones de intermediación de adopción internacional en los términos y condiciones establecidos en este Decreto. 2. Tanto si las entidades sin ánimo de lucro realizan otras actividades de servicio social, como si se dedica exclusivamente a la intermediación en este ámbito, el organismo acreditado para la adopción internacional se configurará como un proyecto con estructura, gestión, presupuesto y contabilidad propios y diferenciados del resto de la entidad en cuya personalidad jurídica se sustenta, a efectos de su control y supervisión por la Administración. 3. Los organismos acreditados actuarán con sometimiento expreso al ordenamiento jurídico español, respetando la legislación del país de origen del menor de conformidad con las normas del derecho internacional privado. 4. Los organismos acreditados podrán intermediar en los trámites tendentes a la constitución de:
+a) **Adopciones plenas.** b) Aquellas otras instituciones jurídicas que posibiliten o autoricen expresamente la constitución de la adopción en España, cuando la legislación del país de origen establezca únicamente esta posibilidad para la adopción por extranjeros.
 
-1.
-Podrán solicitar al centro directivo competente en materia de protección de menores de la Comunidad de Madrid (en adelante, centro directivo competente), la acreditación
-como organismos acreditados para la adopción internacional aquellas entidades sin ánimo
-de lucro inscritas en el registro correspondiente, en cuyos estatutos figure como fin la protección de las personas menores de edad, que dispongan de un proyecto de actuación, de los
-recursos humanos y materiales y demás requisitos previstos en esta norma para intervenir
-en funciones de intermediación de adopción internacional en los términos y condiciones establecidos en este Decreto.
-2.
-Tanto si las entidades sin ánimo de lucro realizan otras actividades de servicio
-social, como si se dedica exclusivamente a la intermediación en este ámbito, el organismo
-acreditado para la adopción internacional se configurará como un proyecto con estructura,
-gestión, presupuesto y contabilidad propios y diferenciados del resto de la entidad en cuya
-personalidad jurídica se sustenta, a efectos de su control y supervisión por la Administración.
-3.
-Los organismos acreditados actuarán con sometimiento expreso al ordenamiento
-jurídico español, respetando la legislación del país de origen del menor de conformidad con
-las normas del derecho internacional privado.
-4.
-Los organismos acreditados podrán intermediar en los trámites tendentes a la
-constitución de:
-a)
-Adopciones plenas.
-b)
-Aquellas otras instituciones jurídicas que posibiliten o autoricen expresamente la
-constitución de la adopción en España, cuando la legislación del país de origen establezca únicamente esta posibilidad para la adopción por extranjeros.
+#### Artículo 3. Ámbito de actuación.
 
-#### Artículo 3
-Ámbito de actuación
+El organismo acreditado intervendrá en funciones de intermediación para adopciones internacionales solicitadas por residentes en el territorio español, de personas menores de edad del país o países para los que haya sido acreditado por el centro directivo competente y autorizado por las autoridades competentes del país, en los términos y condiciones que se establezcan en la resolución de acreditación.
 
-El organismo acreditado intervendrá en funciones de intermediación para adopciones
-internacionales solicitadas por residentes en el territorio español, de personas menores de
-edad del país o países para los que haya sido acreditado por el centro directivo competente
-y autorizado por las autoridades competentes del país, en los términos y condiciones que se
-establezcan en la resolución de acreditación.
+#### Artículo 4. Mediaciones ilegítimas.
 
-#### Artículo 4
-Mediaciones ilegítimas
+Ninguna otra persona o entidad distinta de los organismos acreditados para la adopción internacional podrá intervenir en funciones de intermediación, ni ofrecer o prestar servicios en concepto de tramitación o contacto con profesionales en el extranjero que vulneren la exclusividad en la intermediación en la adopción internacional que ostentan los organismos acreditados.
 
-Ninguna otra persona o entidad distinta de los organismos acreditados para la adopción internacional podrá intervenir en funciones de intermediación, ni ofrecer o prestar
-servicios en concepto de tramitación o contacto con profesionales en el extranjero que vulneren la exclusividad en la intermediación en la adopción internacional que ostentan los organismos acreditados.
+#### Artículo 5. Régimen jurídico.
 
-#### Artículo 5
-Régimen jurídico
+El procedimiento de tramitación de las adopciones internacionales y el funcionamiento de los organismos acreditados para la adopción internacional, se ajustará a lo establecido sobre la materia en el ordenamiento internacional, estatal y autonómico aplicable y a lo dispuesto en el decreto.
 
-El procedimiento de tramitación de las adopciones internacionales y el funcionamiento de los organismos acreditados para la adopción internacional, se ajustará a lo establecido sobre la materia en el ordenamiento internacional, estatal y autonómico aplicable y a lo
-dispuesto en el decreto.
+## Capítulo II. Acreditación de los Organismos Acreditados de Adopción Internacional.
 
-BOCM
+#### Artículo 6. Requisitos de los organismos acreditados.
 
-### Capítulo II
+La entidad para obtener la acreditación como organismo acreditado, deberá reunir las siguientes condiciones objetivas:
 
-Acreditación de los Organismos Acreditados de Adopción Internacional
+1. Ser una entidad sin ánimo de lucro, legalmente constituida y con inscripción vigente en el registro correspondiente. 2. Tener como finalidad, según sus estatutos, la protección de las personas menores de edad, de acuerdo con lo previsto en la normativa española, y con los principios recogidos en la Convención sobre los Derechos del Niño, en el Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, y demás normas internacionales aplicables. 3. Acreditar su experiencia, y la trayectoria laboral y formativa, en los ámbitos de infancia, familia y protección de las personas menores de edad, tanto de la institución como de los componentes y de sus órganos directivos.
 
-#### Artículo 6
-Requisitos de los organismos acreditados
-
-La entidad para obtener la acreditación como organismo acreditado, deberá reunir las
-siguientes condiciones objetivas:
-1.
-Ser una entidad sin ánimo de lucro, legalmente constituida y con inscripción vigente en el registro correspondiente.
-2.
-Tener como finalidad, según sus estatutos, la protección de las personas menores
-de edad, de acuerdo con lo previsto en la normativa española, y con los principios recogidos en la Convención sobre los Derechos del Niño, en el Convenio relativo a la protección
-del niño y a la cooperación en materia de adopción internacional, y demás normas internacionales aplicables.
-3.
-Acreditar su experiencia, y la trayectoria laboral y formativa, en los ámbitos de infancia, familia y protección de las personas menores de edad, tanto de la institución como
-de los componentes y de sus órganos directivos.
-
-#### Artículo 7
-Medios humanos, materiales y técnicos
+#### Artículo 7. Medios humanos, materiales y técnicos.
 
 La entidad para solicitar la acreditación deberá disponer de los siguientes medios humanos, materiales y técnicos:
-1.
-En aquellas entidades que no limiten su objeto social al ejercicio de la función intermediadora en la adopción internacional, disponer de un programa independiente de las
-otras actividades que realice la entidad, con su proyecto, estructura, presupuesto y gestión
-específicos para la intermediación en adopciones internacionales.
-2.
-Tener el domicilio social del organismo en el territorio de la Comunidad de
-Madrid, y disponer de una oficina con las condiciones necesarias para garantizar la adecuada atención a las familias, así como de los medios materiales necesarios para desarrollar
-adecuada y eficientemente sus funciones.
-3.
-Estar dirigida por personas cualificadas profesionalmente por su formación y experiencia para actuar en el ámbito de la adopción internacional, y declaración jurada de que
-se aplica el principio de transparencia en todo el proceso de dichas personas.
-4.
-Contar en la Comunidad de Madrid con un equipo multidisciplinar, formado por
-profesionales del derecho y del ámbito psicosocial:
-a)
-Al menos dos miembros del equipo multidisciplinar deberán tener una experiencia
-mínima de dos años en materia de protección a la infancia.
-b)
-Deberá contar con el apoyo de profesionales en el ámbito sanitario.
-c)
-Su personal deberá disponer de amplios conocimientos sobre la situación de la infancia necesitada de protección y, en concreto, sobre la adopción internacional en
-los países de origen en los que vaya a desarrollar su actividad.
-d)
-Ninguno de sus empleados, directivos, representante o colaboradores puede haber
-sido condenado, en virtud de sentencia firme, por algún delito contra la libertad e
-indemnidad sexual, así como por la trata de seres humanos, en los términos recogidos en la legislación de ambos países, según lo establecido en el artículo 26.i)
-del decreto, ni en España, ni en otro país. No haber sido sancionados por irregularidades relacionadas con actividades de intermediación en adopción internacional
-y haber desempeñado una trayectoria correcta y eficaz en este ámbito.
-5.
-Tener representación estable en el país extranjero para el que solicita la acreditación con la cualificación requerida en el artículo 29 de este Decreto, con un plan de actuación que detallará sus actividades durante las diferentes fases administrativas y judiciales
-de la tramitación. En caso de que la legislación de dicho país no contemple la existencia de
-un representante del organismo, se dispondrá de la estructura humana y material necesaria
-para las labores de comunicación con la sede y asistencia a las familias.
-6.
-Acreditación de hallarse al corriente en el cumplimiento de las obligaciones tributarias y de Seguridad Social. Se considerará que los organismos acreditados se encuentran
-al corriente en el cumplimiento de dichas obligaciones cuando no tuvieran deudas, o bien,
 
-BOCM
-cuando dichas deudas estén aplazadas, fraccionadas, o se hubiera acordado la suspensión
-del procedimiento recaudatorio con ocasión de su impugnación.
-7.
-Acreditar la disposición de un plan financiero que permita atender las obligaciones adquiridas.
+1. En aquellas entidades que no limiten su objeto social al ejercicio de la función intermediadora en la adopción internacional, disponer de un programa independiente de las otras actividades que realice la entidad, con su proyecto, estructura, presupuesto y gestión específicos para la intermediación en adopciones internacionales. 2. Tener el domicilio social del organismo en el territorio de la Comunidad de Madrid, y disponer de una oficina con las condiciones necesarias para garantizar la adecuada atención a las familias, así como de los medios materiales necesarios para desarrollar adecuada y eficientemente sus funciones. 3. Estar dirigida por personas cualificadas profesionalmente por su formación y experiencia para actuar en el ámbito de la adopción internacional, y declaración jurada de que se aplica el principio de transparencia en todo el proceso de dichas personas. 4. Contar en la Comunidad de Madrid con un equipo multidisciplinar, formado por profesionales del derecho y del ámbito psicosocial:
+a) Al menos dos miembros del equipo multidisciplinar deberán tener una experiencia mínima de dos años en materia de protección a la infancia. b) Deberá contar con el apoyo de profesionales en el ámbito sanitario. c) Su personal deberá disponer de amplios conocimientos sobre la situación de la infancia necesitada de protección y, en concreto, sobre la adopción internacional en los países de origen en los que vaya a desarrollar su actividad. d) Ninguno de sus empleados, directivos, representante o colaboradores puede haber sido condenado, en virtud de sentencia firme, por algún delito contra la libertad e indemnidad sexual, así como por la trata de seres humanos, en los términos recogidos en la legislación de ambos países, según lo establecido en el artículo 26.i) del decreto, ni en España, ni en otro país. No haber sido sancionados por irregularidades relacionadas con actividades de intermediación en adopción internacional y haber desempeñado una trayectoria correcta y eficaz en este ámbito. 5. Tener representación estable en el país extranjero para el que solicita la acreditación con la cualificación requerida en el artículo 29 de este Decreto, con un plan de actuación que detallará sus actividades durante las diferentes fases administrativas y judiciales de la tramitación. En caso de que la legislación de dicho país no contemple la existencia de un representante del organismo, se dispondrá de la estructura humana y material necesaria para las labores de comunicación con la sede y asistencia a las familias. 6. Acreditación de hallarse al corriente en el cumplimiento de las obligaciones tributarias y de Seguridad Social. Se considerará que los organismos acreditados se encuentran al corriente en el cumplimiento de dichas obligaciones cuando no tuvieran deudas, o bien,
 
-#### Artículo 8
-Prescripciones técnicas
+cuando dichas deudas estén aplazadas, fraccionadas, o se hubiera acordado la suspensión del procedimiento recaudatorio con ocasión de su impugnación. 7. Acreditar la disposición de un plan financiero que permita atender las obligaciones adquiridas.
 
-La entidad para solicitar la acreditación deberá cumplir las siguientes prescripciones
-técnicas:
-a)
-Presentar un proyecto de actuación que garantice el respeto a los principios y normas de la adopción internacional y la debida intervención de los organismos administrativos y judiciales competentes del país extranjero en el que vaya a realizar su
-función, según lo previsto en el presente Decreto. Este proyecto precisará la estructura, actividades y metodología para el desarrollo de sus funciones tanto en la Comunidad de Madrid como en el país de origen de las personas menores de edad.
-El número de profesionales y sus horas de dedicación dependerán del volumen de
-expedientes que el proyecto presentado prevea tramitar; y en caso de que se incremente el número de expedientes, deberá hacerlo el equipo de modo proporcionado. Asimismo, se precisarán las condiciones de la participación, en su caso, de colaboradores voluntarios.
-b)
-Presentar un estudio económico y un presupuesto desglosado en relación al número
-de expedientes que prevea tramitar anualmente. Dicho estudio justificará, primero,
-los gastos directos que suponga la tramitación de los expedientes de adopción; y segundo, los costes de mantenimiento, seguros, infraestructura, personal de la entidad y gastos generales, a partir de los cuales se calculará la remuneración que el organismo podrá percibir de las personas que se ofrezcan para adoptar, para acreditar
-que no se obtienen beneficios indebidos ni se plantean costes desproporcionados.
-La suma de los gastos directos y la remuneración del organismo constituirán el
-coste total autorizado, en caso de ser acreditada, para el tiempo estimado para la
-tramitación de la adopción en el país de origen. También incluirá la propuesta sobre la imputación proporcional de los costes indirectos a las familias y su abono
-prorrateado en cuotas periódicas durante el límite de tiempo establecido en el contrato homologado. Asimismo, los porcentajes de la provisión de fondos para
-afrontar los costes directos en España y/o en el país de origen en las distintas fases del procedimiento. Y, por último, los costes por la realización, elaboración,
-traducción, en su caso, legalización y envío al país de origen de los informes de
-seguimiento postadoptivos durante los tres primeros años.
-c)
-Presentar un programa de actividades de preparación y formación para la adopción internacional, para todas las fases del procedimiento, dirigido a las personas
-que se ofrecen para la adopción en el país para el que se solicita la acreditación,
-según lo establecido en el artículo 6.3.b) de la Ley 54/2007, de 28 de diciembre.
+#### Artículo 8. Prescripciones técnicas.
 
-#### Artículo 9
-Pertinencia de la acreditación
+La entidad para solicitar la acreditación deberá cumplir las siguientes prescripciones técnicas:
+a) Presentar un proyecto de actuación que garantice el respeto a los principios y normas de la adopción internacional y la debida intervención de los organismos administrativos y judiciales competentes del país extranjero en el que vaya a realizar su función, según lo previsto en el presente Decreto. Este proyecto precisará la estructura, actividades y metodología para el desarrollo de sus funciones tanto en la Comunidad de Madrid como en el país de origen de las personas menores de edad. El número de profesionales y sus horas de dedicación dependerán del volumen de expedientes que el proyecto presentado prevea tramitar; y en caso de que se incremente el número de expedientes, deberá hacerlo el equipo de modo proporcionado. Asimismo, se precisarán las condiciones de la participación, en su caso, de colaboradores voluntarios. b) Presentar un estudio económico y un presupuesto desglosado en relación al número de expedientes que prevea tramitar anualmente. Dicho estudio justificará, primero, los gastos directos que suponga la tramitación de los expedientes de adopción; y segundo, los costes de mantenimiento, seguros, infraestructura, personal de la entidad y gastos generales, a partir de los cuales se calculará la remuneración que el organismo podrá percibir de las personas que se ofrezcan para adoptar, para acreditar que no se obtienen beneficios indebidos ni se plantean costes desproporcionados. La suma de los gastos directos y la remuneración del organismo constituirán el coste total autorizado, en caso de ser acreditada, para el tiempo estimado para la tramitación de la adopción en el país de origen. También incluirá la propuesta sobre la imputación proporcional de los costes indirectos a las familias y su abono prorrateado en cuotas periódicas durante el límite de tiempo establecido en el contrato homologado. Asimismo, los porcentajes de la provisión de fondos para afrontar los costes directos en España y/o en el país de origen en las distintas fases del procedimiento. Y, por último, los costes por la realización, elaboración, traducción, en su caso, legalización y envío al país de origen de los informes de seguimiento postadoptivos durante los tres primeros años. c) Presentar un programa de actividades de preparación y formación para la adopción internacional, para todas las fases del procedimiento, dirigido a las personas que se ofrecen para la adopción en el país para el que se solicita la acreditación, según lo establecido en el artículo 6.3.b) de la Ley 54/2007, de 28 de diciembre.
 
-1.
-La intermediación en procesos de adopción internacional precisará de una acreditación específica para cada uno de los países en los que el organismo acreditado pretenda
-intervenir. En el supuesto de países con estructura político-administrativa descentralizada,
-donde se exija una acreditación de cada estado o región que la integran, será necesaria la
-acreditación para cada estado o región donde el organismo pretenda ejercer su función de
-intermediación.
-2.
-Si la acreditación se solicita para un país para el que el organismo competente de la
-Administración General del Estado haya determinado con anterioridad el inicio de la tramitación de expedientes de adopción, el estudio del proyecto y la emisión de la correspondiente
-resolución de acreditación sólo procederá si no se ha cubierto el número máximo de organismos de intermediación en adopción internacional que pueden trabajar en dicho país acordado
-anualmente por el organismo competente de la Administración General del Estado.
-3.
-Si la acreditación se solicita para un país en el que no se haya iniciado la tramitación de expedientes de adopción, con carácter previo al estudio del proyecto presentado, se
-consultará al organismo competente de la Administración General del Estado si procede in-
+#### Artículo 9. Pertinencia de la acreditación.
 
-BOCM
-coar el procedimiento para el inicio de la tramitación de expedientes de adopción con este
-país, según lo establecido en la normativa estatal.
-Si se acordare el inicio de la tramitación de los expedientes de adopción en dicho país,
-se procederá al estudio del proyecto y la emisión de la correspondiente resolución de acreditación.
-4.
-Una vez emitida la resolución de acreditación, se remitirá a la Comisión Sectorial
-de Infancia y Adolescencia, el nombre del organismo u organismos que hayan resultado
-acreditados, junto con el orden de prelación de estos, en caso de haber varios para un mismo país, así como un informe que permita valorar los siguientes criterios objetivos:
-a)
-Experiencia y desarrollo de actividades del organismo y de sus miembros en el
-ámbito de la adopción internacional.
-b)
-Trayectoria del organismo en el desarrollo de sus actividades para la consecución
-de sus fines estatutarios.
-c)
-Medios materiales y personales para el desarrollo de las funciones de intermediación en adopción internacional.
-d)
-Proyecto de actuación del organismo.
-e)
-Planteamiento económico de la entidad, ponderando la relación entre la calidad
-del servicio y el coste.
-La eficacia de la acreditación emitida por esta Entidad Pública quedará condicionada
-a la decisión tomada, en el marco de la Conferencia Sectorial, teniendo en cuenta el orden
-de prelación establecido tras la recepción de las acreditaciones otorgadas por todas las entidades públicas en su ámbito territorial.
+1. La intermediación en procesos de adopción internacional precisará de una acreditación específica para cada uno de los países en los que el organismo acreditado pretenda intervenir. En el supuesto de países con estructura político-administrativa descentralizada, donde se exija una acreditación de cada estado o región que la integran, será necesaria la acreditación para cada estado o región donde el organismo pretenda ejercer su función de intermediación. 2. Si la acreditación se solicita para un país para el que el organismo competente de la Administración General del Estado haya determinado con anterioridad el inicio de la tramitación de expedientes de adopción, el estudio del proyecto y la emisión de la correspondiente resolución de acreditación sólo procederá si no se ha cubierto el número máximo de organismos de intermediación en adopción internacional que pueden trabajar en dicho país acordado anualmente por el organismo competente de la Administración General del Estado. 3. Si la acreditación se solicita para un país en el que no se haya iniciado la tramitación de expedientes de adopción, con carácter previo al estudio del proyecto presentado, se consultará al organismo competente de la Administración General del Estado si procede inBOCM coar el procedimiento para el inicio de la tramitación de expedientes de adopción con este país, según lo establecido en la normativa estatal. Si se acordare el inicio de la tramitación de los expedientes de adopción en dicho país, se procederá al estudio del proyecto y la emisión de la correspondiente resolución de acreditación. 4. Una vez emitida la resolución de acreditación, se remitirá a la Comisión Sectorial de Infancia y Adolescencia, el nombre del organismo u organismos que hayan resultado acreditados, junto con el orden de prelación de estos, en caso de haber varios para un mismo país, así como un informe que permita valorar los siguientes criterios objetivos:
+a) Experiencia y desarrollo de actividades del organismo y de sus miembros en el ámbito de la adopción internacional. b) Trayectoria del organismo en el desarrollo de sus actividades para la consecución de sus fines estatutarios. c) Medios materiales y personales para el desarrollo de las funciones de intermediación en adopción internacional. d) Proyecto de actuación del organismo. e) Planteamiento económico de la entidad, ponderando la relación entre la calidad del servicio y el coste. La eficacia de la acreditación emitida por esta Entidad Pública quedará condicionada a la decisión tomada, en el marco de la Conferencia Sectorial, teniendo en cuenta el orden de prelación establecido tras la recepción de las acreditaciones otorgadas por todas las entidades públicas en su ámbito territorial.
 
-#### Artículo 10
-Procedimiento de acreditación
+#### Artículo 10. Procedimiento de acreditación.
 
-1.
-El centro directivo competente podrá acreditar directamente como organismos
-acreditados a aquellos que satisfagan los requisitos necesarios, de acuerdo con lo previsto
-en el artículo 11; o bien acreditar mediante concurso a aquellos que, entre todos los que reúnan los requisitos, ofrezcan mayores garantías de calidad y respeto a los principios internacionales que deben regir la adopción, en los casos y con el procedimiento previsto en el artículo 12. En ambos casos, emitida la resolución o resoluciones de acreditación se
-procederá según el procedimiento previsto en el artículo anterior.
-2.
-Cuando el organismo competente de la Administración General del Estado acordare el inicio de la tramitación de expedientes de adopción internacional en un nuevo país,
-el centro directivo competente podrá acreditar directamente a las entidades que lo soliciten,
-de acuerdo con lo previsto en el artículo 11 o, podrá efectuar una convocatoria para la acreditación mediante concurso, en los supuestos en los que así proceda según lo previsto en el
-artículo 12, para los organismos de intermediación en adopción internacional que tengan
-establecida su sede social en el territorio de la Comunidad de Madrid.
+1. El centro directivo competente podrá acreditar directamente como organismos acreditados a aquellos que satisfagan los requisitos necesarios, de acuerdo con lo previsto en el artículo 11; o bien acreditar mediante concurso a aquellos que, entre todos los que reúnan los requisitos, ofrezcan mayores garantías de calidad y respeto a los principios internacionales que deben regir la adopción, en los casos y con el procedimiento previsto en el artículo 12. En ambos casos, emitida la resolución o resoluciones de acreditación se procederá según el procedimiento previsto en el artículo anterior. 2. Cuando el organismo competente de la Administración General del Estado acordare el inicio de la tramitación de expedientes de adopción internacional en un nuevo país, el centro directivo competente podrá acreditar directamente a las entidades que lo soliciten, de acuerdo con lo previsto en el artículo 11 o,.
 
-#### Artículo 11
-Acreditación directa
+podrá efectuar una convocatoria para la acreditación mediante concurso, en los supuestos en los que así proceda según lo previsto en el artículo 12 , para los organismos de intermediación en adopción internacional que tengan. establecida su sede social en el territorio de la Comunidad de Madrid.
 
-1.
-El procedimiento de acreditación directa de organismos se aplicará de forma preferente y, en todo caso, siempre que concurra alguna de las circunstancias siguientes:
-a)
-Cuando celebrado un concurso para la acreditación en un determinado país, éste
-haya quedado desierto por la falta de presentación de solicitudes, porque ninguna
-entidad reunía los requisitos exigidos o ninguna obtuvo la puntuación mínima exigida en la convocatoria.
-b)
-En caso de fusión entre organismos de acreditación, en los términos establecidos
-en el artículo 19.
-2.
-El procedimiento de acreditación directa, se podrá iniciar de oficio o a solicitud
-del organismo interesado. La solicitud se presentará en la forma, con los medios y en los lugares establecidos en la Ley 39/2015, de 1 de octubre.
-3.
-Si la solicitud no reuniera los requisitos exigidos, se requerirá al organismo interesado para que, en el plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su solicitud, en los términos previstos en la Ley 39/2015, de 1 de octubre.
+#### Artículo 11. Acreditación directa.
 
-BOCM
+1. El procedimiento de acreditación directa de organismos se aplicará de forma preferente y, en todo caso, siempre que concurra alguna de las circunstancias siguientes:
+a) Cuando celebrado un concurso para la acreditación en un determinado país, éste haya quedado desierto por la falta de presentación de solicitudes, porque ninguna entidad reunía los requisitos exigidos o ninguna obtuvo la puntuación mínima exigida en la convocatoria. b) En caso de fusión entre organismos de acreditación, en los términos establecidos en el artículo 19. 2. El procedimiento de acreditación directa, se podrá iniciar de oficio o a solicitud del organismo interesado. La solicitud se presentará en la forma, con los medios y en los lugares establecidos en la Ley 39/2015, de 1 de octubre. 3. Si la solicitud no reuniera los requisitos exigidos, se requerirá al organismo interesado para que, en el plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su solicitud, en los términos previstos en la Ley 39/2015, de 1 de octubre.
 
-#### Artículo 12
-Convocatoria para la concesión de acreditaciones mediante concurso
+1. Se recurrirá a la acreditación a través de un concurso sólo cuando se produzca alguna de las siguientes circunstancias:
+a) Cuando el centro directivo competente lo considere oportuno porque el número de solicitudes de acreditación que se prevean o de hecho se hayan presentado supere con exceso el número máximo de organismos que pueden ser acreditados en un determinado país establecido por el organismo competente de la Administración General del Estado. b) Cuando sea necesario reducir el número de organismos acreditados para el mismo país porque así se haya acordado por sus autoridades o porque sea necesario por la reducción en el número máximo de expedientes a tramitar anualmente acordado por el organismo competente de la Administración General del Estado. c) Cuando sea pertinente fomentar la presentación de solicitudes de acreditación en determinados países. 2. El centro directivo competente en materia de protección y tutela de menores aprobará y publicará en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la correspondiente convocatoria para la concesión de acreditaciones a organismos para cada país de origen. Dicha convocatoria se regirá por los principios de concurrencia, publicidad, legalidad, equidad y transparencia. 3. Entre otros aspectos, la convocatoria recogerá las bases del concurso, así como la composición del órgano técnico encargado de emitir el informe de valoración de los proyectos presentados. La participación de las entidades que concurran al procedimiento supondrá el sometimiento a dichas bases que respetarán lo establecido en el artículo 9 l.
 
-1.
-Se recurrirá a la acreditación a través de un concurso sólo cuando se produzca alguna de las siguientes circunstancias:
-a)
-Cuando el centro directivo competente lo considere oportuno porque el número de
-solicitudes de acreditación que se prevean o de hecho se hayan presentado supere
-con exceso el número máximo de organismos que pueden ser acreditados en un
-determinado país establecido por el organismo competente de la Administración
-General del Estado.
-b)
-Cuando sea necesario reducir el número de organismos acreditados para el mismo
-país porque así se haya acordado por sus autoridades o porque sea necesario por
-la reducción en el número máximo de expedientes a tramitar anualmente acordado por el organismo competente de la Administración General del Estado.
-c)
-Cuando sea pertinente fomentar la presentación de solicitudes de acreditación en
-determinados países.
-2.
-El centro directivo competente en materia de protección y tutela de menores aprobará y publicará en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la correspondiente convocatoria para la concesión de acreditaciones a organismos para cada país de origen.
-Dicha convocatoria se regirá por los principios de concurrencia, publicidad, legalidad, equidad y transparencia.
-3.
-Entre otros aspectos, la convocatoria recogerá las bases del concurso, así como la
-composición del órgano técnico encargado de emitir el informe de valoración de los proyectos presentados. La participación de las entidades que concurran al procedimiento supondrá el sometimiento a dichas bases que respetarán lo establecido en el artículo 9 del presente Decreto.
-4.
-Los organismos interesados presentarán su solicitud en la forma, con los medios,
-y en los lugares establecidos por la Ley 39/2015, de 1 de octubre.
-5.
-Si la solicitud no reuniera los requisitos exigidos, el órgano instructor designado
-dentro del centro directivo competente, requerirá al organismo interesado para que, en el
-plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación
-de que, si así no lo hiciera, se le tendrá por desistido de su petición, en los términos previstos en la Ley 39/2015, de 1 de octubre.
-6.
-El órgano técnico encargado de la valoración deberá emitir su informe con base a
-los criterios objetivos previstos en el artículo 9.4 de este Decreto.
-7.
-El concurso se resolverá por el titular del centro directivo competente, en el plazo
-establecido en las bases de la convocatoria. En el caso de que no se hayan presentado solicitudes, no haya ninguna entidad que reúna los requisitos exigidos o ninguna entidad obtenga la puntuación mínima que establezca la convocatoria, se podrá declarar desierto el
-concurso.
+presente Decreto. 4. Los organismos interesados presentarán su solicitud en la forma, con los medios, y en los lugares establecidos por la Ley 39/2015, de 1 de octubre. 5. Si la solicitud no reuniera los requisitos exigidos, el órgano instructor designado dentro del centro directivo competente, requerirá al organismo interesado para que, en el plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, en los términos previstos en la Ley 39/2015, de 1 de octubre. 6. El órgano técnico encargado de la valoración deberá emitir su informe con base a los criterios objetivos previstos en el artículo 9.4 de este Decreto. 7. El concurso se resolverá por el titular del centro directivo competente, en el plazo establecido en las bases de la convocatoria. En el caso de que no se hayan presentado solicitudes, no haya ninguna entidad que reúna los requisitos exigidos o ninguna entidad obtenga la puntuación mínima que establezca la convocatoria, se podrá declarar desierto el concurso.
 
-#### Artículo 13
-Presentación de solicitudes
+#### Artículo 13. Presentación de solicitudes.
 
-1.
-Las solicitudes de acreditación por las entidades interesadas se presentarán electrónicamente, junto con la documentación que debe acompañarlas, a través del Registro
-Electrónico de la Consejería de Familia, Juventud y Política Social, o en los demás registros electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
-2.
-Para la presentación de la solicitud por medios electrónicos, es necesario disponer
-de uno de los Certificados Electrónicos reconocidos o cualificados de firma electrónica, que
-sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos en la
-“Lista de confianza de prestadores de servicios de certificación” o cualquier otro sistema de
-firma electrónica que la Comunidad de Madrid considere valido en los términos y condiciones que se establezcan específicamente para cada tipo de firma.
-3.
-Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas, de acuerdo con lo dispuesto en la normativa aplicable. Asimismo, tienen derecho a no aportar documentos que ya se encuentren en poder de la administración actuante o hayan sido elaborados por cualquier otra administración.
+1. Las solicitudes de acreditación por las entidades interesadas se presentarán electrónicamente, junto con la documentación que debe acompañarlas, a través del Registro Electrónico de la Consejería de Familia, Juventud y Política Social, o en los demás registros electrónicos previstos en el artículo 16.4.a) de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. 2. Para la presentación de la solicitud por medios electrónicos, es necesario disponer de uno de los Certificados Electrónicos reconocidos o cualificados de firma electrónica, que sean operativos en la Comunidad de Madrid y expedidos por prestadores incluidos en la "Lista de confianza de prestadores de servicios de certificación" o cualquier otro sistema de firma electrónica que la Comunidad de Madrid considere valido en los términos y condiciones que se establezcan específicamente para cada tipo de firma. 3. Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas, de acuerdo con lo dispuesto en la normativa aplicable. Asimismo, tienen derecho a no aportar documentos que ya se encuentren en poder de la administración actuante o hayan sido elaborados por cualquier otra administración.
 
-BOCM
-4.
-La administración actuante podrá consultar o recabar dichos documentos salvo
-que el interesado se opusiera a ello. No obstante lo anterior, para la consulta de los datos
-tributarios del Estado será necesaria la autorización expresa del interesado.
-5.
-Las Administraciones Públicas deberán recabar los documentos electrónicamente
-a través de sus redes corporativas o mediante consulta a las plataformas de intermediación
-de datos u otros sistemas electrónicos habilitados al efecto. Al ser las entidades interesadas
-en resultar acreditadas para la adopción internacional, sujetos del artículo 14.2 de la
-Ley 39/2015, obligados a relacionarse electrónicamente con la Administración, la notificación se realizará a través de medios electrónicos de acuerdo con lo establecido en el artículo 43 del mismo texto legal. A tal efecto, el solicitante está obligado a estar dado de alta en
-el servicio de Notificaciones Electrónicas de la Comunidad de Madrid, accediendo al mismo a través del enlace http://www.comunidad.madrid/servicios/administracionelectronicapunto-acceso general.
+4. La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello. No obstante lo anterior, para la consulta de los datos tributarios del Estado será necesaria la autorización expresa del interesado. 5. Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto. Al ser las entidades interesadas en resultar acreditadas para la adopción internacional, sujetos del artículo 14.2 de la Ley 39/2015, obligados a relacionarse electrónicamente con la Administración, la notificación se realizará a través de medios electrónicos de acuerdo con lo establecido en el artículo 43 l.
 
-#### Artículo 14
-Informes
+mismo texto legal. A tal efecto, el solicitante está obligado a estar dado de alta en el servicio de Notificaciones Electrónicas de la Comunidad de Madrid, accediendo al mismo a través del enlace http://www.comunidad.madrid/servicios/administracionelectronicapunto-acceso general.
 
-Para la valoración de los proyectos, tanto por concurso como por acreditación directa,
-el órgano instructor podrá recabar con carácter facultativo de los siguientes organismos y
-entidades los informes pertinentes, con objeto sean remitidos en el plazo de un mes:
-a)
-Al ministerio competente en materia de asuntos exteriores, un informe referido a
-los antecedentes, si los hubiere, del representante propuesto y de la actividad desarrollada por el organismo que solicite la acreditación en el país de origen.
-b)
-Otros informes que se estimen oportunos para complementar la valoración como,
-por ejemplo, a la Comisión Técnica de Seguimiento y Control o a la Entidad Pública competente en el territorio en el que el organismo hubiese desarrollado su
-actividad de intermediación en adopción internacional con anterioridad.
+#### Artículo 14. Informes.
 
-#### Artículo 15
-Limitaciones de países extranjeros para la acreditación
+Para la valoración de los proyectos, tanto por concurso como por acreditación directa, el órgano instructor podrá recabar con carácter facultativo de los siguientes organismos y entidades los informes pertinentes, con objeto sean remitidos en el plazo de un mes:
+a) Al ministerio competente en materia de asuntos exteriores, un informe referido a los antecedentes, si los hubiere, del representante propuesto y de la actividad desarrollada por el organismo que solicite la acreditación en el país de origen. b) Otros informes que se estimen oportunos para complementar la valoración como, por ejemplo, a la Comisión Técnica de Seguimiento y Control o a la Entidad Pública competente en el territorio en el que el organismo hubiese desarrollado su actividad de intermediación en adopción internacional con anterioridad.
 
-De conformidad con lo establecido en los artículos 7.5 y 7.6 de la Ley 54/2007, de 28
-de diciembre, si algún país extranjero o el organismo competente de la Administración General del Estado, establecen un límite en el número de organismos acreditados españoles
-que pueden actuar en aquel, los órganos competentes de la Comunidad de Madrid cooperarán con los de las demás Comunidades Autónomas y el ministerio competente para hacer
-posible la acreditación entre todos ellos del número máximo de organismos determinado
-por el límite referido.
+#### Artículo 15. Limitaciones de países extranjeros para la acreditación.
 
-#### Artículo 16
-Resolución en el procedimiento de acreditación directa
+De conformidad con lo establecido en los artículos 7.5 y 7.6 de la Ley 54/2007, de 28 de diciembre, si algún país extranjero o el organismo competente de la Administración General del Estado, establecen un límite en el número de organismos acreditados españoles que pueden actuar en aquel, los órganos competentes de la Comunidad de Madrid cooperarán con los de las demás Comunidades Autónomas y el ministerio competente para hacer posible la acreditación entre todos ellos del número máximo de organismos determinado por el límite referido.
 
-1.
-La solicitud de acreditación por parte de un organismo, dará lugar al correspondiente expediente administrativo, en el que se comprobarán todos los requisitos previstos
-en este Decreto.
-2.
-La resolución del centro directivo competente que acredite a un organismo para
-realizar funciones de intermediación en adopción internacional, especificará las funciones
-y actuaciones previstas en este Decreto para las cuales se le acredita, la determinación del
-país de origen o, en su caso, la región o estado del mismo para el que se concede la acreditación, así como los costes autorizados de la tramitación de un ofrecimiento de adopción dirigido a ese país, distinguiendo las cantidades que correspondan a los costes indirectos y a
-los costes directos, a los que se refieren los artículos 36 y 37.
-El centro directivo competente, en el plazo máximo de dos meses a partir de la presentación de la solicitud, otorgará o denegará la acreditación según los requisitos, condiciones
-y circunstancias previstos en este Decreto. El vencimiento del plazo máximo sin haberse
-notificado resolución expresa, legitima al interesado o interesados para entenderla estimada por silencio administrativo, según lo establecido en el Anexo de la Ley 1/2001, de 29 de
-marzo, por la que se establece la duración máxima y el régimen de silencio administrativo
-de determinados procedimientos, en la redacción dada por la Ley 8/2009, de 21 de diciembre, de Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña.
+#### Artículo 16. Resolución en el procedimiento de acreditación directa.
 
-BOCM
-3.
-El centro directivo competente notificará al organismo competente de la Administración General del Estado la resolución que se dicte a los efectos oportunos.
+1. La solicitud de acreditación por parte de un organismo, dará lugar al correspondiente expediente administrativo, en el que se comprobarán todos los requisitos previstos en este Decreto. 2. La resolución del centro directivo competente que acredite a un organismo para realizar funciones de intermediación en adopción internacional, especificará las funciones y actuaciones previstas en este Decreto para las cuales se le acredita, la determinación del país de origen o, en su caso, la región o estado del mismo para el que se concede la acreditación, así como los costes autorizados de la tramitación de un ofrecimiento de adopción dirigido a ese país, distinguiendo las cantidades que correspondan a los costes indirectos y a los costes directos, a los que se refieren los artículos 36 y 37. El centro directivo competente, en el plazo máximo de dos meses a partir de la presentación de la solicitud, otorgará o denegará la acreditación según los requisitos, condiciones y circunstancias previstos en este Decreto. El vencimiento del plazo máximo sin haberse notificado resolución expresa, legitima al interesado o interesados para entenderla estimada por silencio administrativo, según lo establecido en el Anexo de la Ley 1/2001, de 29 de marzo, por la que se establece la duración máxima y el régimen de silencio administrativo de determinados procedimientos, en la redacción dada por la Ley 8/2009, de 21 de diciembre, de Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña.
 
-#### Artículo 17
-Efectividad
+3. El centro directivo competente notificará al organismo competente de la Administración General del Estado la resolución que se dicte a los efectos oportunos.
 
-1.
-La acreditación concedida por el centro directivo competente, será efectiva cuando las autoridades competentes del país de origen dicten una resolución autorizando al organismo acreditado a actuar en el mismo, o bien, en el caso de países no firmantes del Convenio de La Haya de 29 de mayo de 1993, cuando las autoridades competentes emitan un
-documento en el que se constate que no se opondrán a dicha actuación. Cuando el organismo dispusiera con anterioridad a la acreditación concedida, la autorización o el documento
-de no oposición del país de origen, la resolución de acreditación será efectiva desde la fecha en que se dicte.
-2.
-El organismo acreditado para la adopción internacional comunicará al centro directivo competente la concesión o denegación de la autorización por parte de las autoridades del país de origen, en el plazo de diez días desde la recepción de la notificación, presentando la resolución que autorice o deniegue su actuación en dicho país de origen.
-3.
-En los casos en que el país renueve periódicamente la acreditación de los organismos, deberá remitirse al centro directivo competente copia de dicha renovación para el
-mantenimiento, en su caso, de la acreditación.
-4.
-Transcurrido el plazo de un año desde la notificación de la acreditación por el centro directivo competente, sin que el organismo acreditado hubiera obtenido la autorización
-o el documento de no oposición del país de origen, el centro directivo competente, previa
-audiencia del organismo interesado, dictará una resolución declarando la extinción de la
-acreditación.
-En el supuesto que el organismo demuestre que la obtención de la autorización del país
-de origen está en trámite o que su no obtención se debe a causas no imputables al mismo,
-el centro directivo competente dictará una resolución para prorrogar el plazo, como máximo, durante seis meses más. Terminado dicho plazo improrrogable, se dictará resolución
-declarando la extinción de la acreditación.
+#### Artículo 17. Efectividad.
 
-#### Artículo 18
-Vigencia
+1. La acreditación concedida por el centro directivo competente, será efectiva cuando las autoridades competentes del país de origen dicten una resolución autorizando al organismo acreditado a actuar en el mismo, o bien, en el caso de países no firmantes del Convenio de La Haya de 29 de mayo de 1993, cuando las autoridades competentes emitan un documento en el que se constate que no se opondrán a dicha actuación. Cuando el organismo dispusiera con anterioridad a la acreditación concedida, la autorización o el documento de no oposición del país de origen, la resolución de acreditación será efectiva desde la fecha en que se dicte. 2. El organismo acreditado para la adopción internacional comunicará al centro directivo competente la concesión o denegación de la autorización por parte de las autoridades del país de origen, en el plazo de diez días desde la recepción de la notificación, presentando la resolución que autorice o deniegue su actuación en dicho país de origen. 3. En los casos en que el país renueve periódicamente la acreditación de los organismos, deberá remitirse al centro directivo competente copia de dicha renovación para el mantenimiento, en su caso, de la acreditación. 4. Transcurrido el plazo de un año desde la notificación de la acreditación por el centro directivo competente, sin que el organismo acreditado hubiera obtenido la autorización o el documento de no oposición del país de origen, el centro directivo competente, previa audiencia del organismo interesado, dictará una resolución declarando la extinción de la acreditación. En el supuesto que el organismo demuestre que la obtención de la autorización del país de origen está en trámite o que su no obtención se debe a causas no imputables al mismo, el centro directivo competente dictará una resolución para prorrogar el plazo, como máximo, durante seis meses más. Terminado dicho plazo improrrogable, se dictará resolución declarando la extinción de la acreditación.
 
-1.
-La acreditación para un país tendrá un plazo de vigencia de dos años desde su
-efectividad, es decir, desde la fecha en que las autoridades competentes del país de origen
-dicten la resolución de autorización o emitan el documento de no oposición a su actuación
-o, en caso de ser anteriores, desde la fecha en que se dicta la resolución de acreditación por
-el centro directivo competente. La acreditación se prorrogará tácitamente por períodos de
-dos años, salvo que el organismo proponga modificaciones de las condiciones, medios, proyectos o de los costes autorizados cuando, en este último caso, suponga variación en más
-de un 15 por ciento de los costes indirectos, y que en su momento permitieron obtener la
-acreditación anterior, que deberán presentarse y documentarse tal como se recoge en el artículo 8. En el plazo de treinta días, se dictará resolución expresa y motivada sobre la continuidad o no de la acreditación.
-2.
-El organismo acreditado deberá preavisar con seis meses de antelación su intención de solicitar la finalización de sus actividades de intermediación. El centro directivo
-competente, después de requerir al organismo cuanta documentación considere necesaria,
-resolverá expresamente sobre la finalización de la acreditación.
-3.
-En caso de finalización de la acreditación, el organismo acreditado estará obligado
-a facilitar la tramitación de todos los expedientes iniciados. El centro directivo competente,
-previa audiencia del organismo, decidirá si la continuidad de los expedientes, incluidos los
-que están en fase de seguimiento postadoptivo, deberá realizarse a través del mismo organismo o de otro igualmente acreditado, o a través del propio centro directivo competente, si ello
-fuera posible. Se optará por la vía que evite costes añadidos o demoras adicionales.
-4.
-En el supuesto de que el organismo, cuya acreditación se extingue, no continuara
-con la tramitación de los expedientes iniciados, procederá a efectuar, bajo la supervisión del
-centro directivo competente, las correspondientes liquidaciones y devoluciones de los ingresos por los servicios no prestados, según el procedimiento de liquidación establecido en
-el contrato de intermediación en adopción internacional.
+#### Artículo 18. Vigencia.
 
-BOCM
+1. La acreditación para un país tendrá un plazo de vigencia de dos años desde su efectividad, es decir, desde la fecha en que las autoridades competentes del país de origen dicten la resolución de autorización o emitan el documento de no oposición a su actuación o, en caso de ser anteriores, desde la fecha en que se dicta la resolución de acreditación por el centro directivo competente. La acreditación se prorrogará tácitamente por períodos de dos años, salvo que el organismo proponga modificaciones de las condiciones, medios, proyectos o de los costes autorizados cuando, en este último caso, suponga variación en más de un 15 por ciento de los costes indirectos, y que en su momento permitieron obtener la acreditación anterior, que deberán presentarse y documentarse tal como se recoge en el artículo 8. En el plazo de treinta días, se dictará resolución expresa y motivada sobre la continuidad o no de la acreditación. 2. El organismo acreditado deberá preavisar con seis meses de antelación su intención de solicitar la finalización de sus actividades de intermediación. El centro directivo competente, después de requerir al organismo cuanta documentación considere necesaria, resolverá expresamente sobre la finalización de la acreditación. 3. En caso de finalización de la acreditación, el organismo acreditado estará obligado a facilitar la tramitación de todos los expedientes iniciados. El centro directivo competente, previa audiencia del organismo, decidirá si la continuidad de los expedientes, incluidos los que están en fase de seguimiento postadoptivo, deberá realizarse a través del mismo organismo o de otro igualmente acreditado, o a través del propio centro directivo competente, si ello fuera posible. Se optará por la vía que evite costes añadidos o demoras adicionales. 4. En el supuesto de que el organismo, cuya acreditación se extingue, no continuara con la tramitación de los expedientes iniciados, procederá a efectuar, bajo la supervisión del centro directivo competente, las correspondientes liquidaciones y devoluciones de los ingresos por los servicios no prestados, según el procedimiento de liquidación establecido en el contrato de intermediación en adopción internacional.
 
-#### Artículo 19
-Acuerdos de cooperación y fusión entre organismos acreditados
+1. Cuando dos o más organismos acreditados tengan intención de colaborar entre ellos para solventar situaciones sobrevenidas o para un mejor cumplimiento de sus fines, comunicarán al centro directivo competente el contenido y los términos de la cooperación de forma detallada, en el plazo de diez días desde su formalización. En esta comunicación se deberán concretar las actuaciones que va a realizar cada organismo en virtud de dicho acuerdo, así como las compensaciones económicas establecidas. 2. Cuando dos o más organismos acreditados se fusionen, creando un organismo con personalidad jurídica única, este solicitará, en los términos previstos en los artículos 6, 7 y 8, la acreditación para la intermediación en el país o países de origen, en los que alguno de estos organismos estuviera previamente acreditado por el centro directivo competente. Una vez acreditado, el centro directivo competente comunicará a las autoridades competentes del país de origen, así como al organismo competente de la Administración General del Estado para que, a su vez, comunique a la Oficina Permanente de la Conferencia de La Haya de Derecho Internacional Privado, la acreditación de este nuevo organismo acreditado.
 
-1.
-Cuando dos o más organismos acreditados tengan intención de colaborar entre
-ellos para solventar situaciones sobrevenidas o para un mejor cumplimiento de sus fines,
-comunicarán al centro directivo competente el contenido y los términos de la cooperación
-de forma detallada, en el plazo de diez días desde su formalización. En esta comunicación
-se deberán concretar las actuaciones que va a realizar cada organismo en virtud de dicho
-acuerdo, así como las compensaciones económicas establecidas.
-2.
-Cuando dos o más organismos acreditados se fusionen, creando un organismo con
-personalidad jurídica única, este solicitará, en los términos previstos en los artículos 6, 7 y 8,
-la acreditación para la intermediación en el país o países de origen, en los que alguno de estos organismos estuviera previamente acreditado por el centro directivo competente. Una
-vez acreditado, el centro directivo competente comunicará a las autoridades competentes del
-país de origen, así como al organismo competente de la Administración General del Estado
-para que, a su vez, comunique a la Oficina Permanente de la Conferencia de La Haya de Derecho Internacional Privado, la acreditación de este nuevo organismo acreditado.
+#### Artículo 20. Suspensión temporal.
 
-#### Artículo 20
-Suspensión temporal
+1. En el supuesto que el centro directivo competente tenga conocimiento de modificaciones legislativas en el país de origen que afecten a la actividad de los organismos acreditados, o haya detectado una importante desproporción entre el número de expedientes que el organismo o los organismos tengan en trámite y el número de asignaciones que estén recibiendo, así como cuando se produzca alguna circunstancia grave que así lo justifique, informará de inmediato al organismo competente de la Administración General del Estado para que, en su caso, inicie el procedimiento de suspensión o paralización de los expedientes de adopción con dicho país. 2. De forma cautelar, el centro directivo competente, previa audiencia de los organismos acreditados interesados, podrá acordar mediante resolución motivada la suspensión temporal de la entrega de nuevos expedientes hasta que el organismo competente de la Administración General del Estado resuelva el procedimiento señalado en el apartado anterior.
 
-1.
-En el supuesto que el centro directivo competente tenga conocimiento de modificaciones legislativas en el país de origen que afecten a la actividad de los organismos acreditados, o haya detectado una importante desproporción entre el número de expedientes que
-el organismo o los organismos tengan en trámite y el número de asignaciones que estén recibiendo, así como cuando se produzca alguna circunstancia grave que así lo justifique, informará de inmediato al organismo competente de la Administración General del Estado
-para que, en su caso, inicie el procedimiento de suspensión o paralización de los expedientes de adopción con dicho país.
-2.
-De forma cautelar, el centro directivo competente, previa audiencia de los organismos acreditados interesados, podrá acordar mediante resolución motivada la suspensión
-temporal de la entrega de nuevos expedientes hasta que el organismo competente de la
-Administración General del Estado resuelva el procedimiento señalado en el apartado anterior.
+#### Artículo 21. Causas de revocación de la acreditación.
 
-#### Artículo 21
-Causas de revocación de la acreditación
+1. El centro directivo competente, mediante resolución motivada dictada en expediente contradictorio y con audiencia del organismo acreditado, podrá revocar la acreditación para un país de origen, si el organismo acreditado para la adopción internacional incurriera en alguno de los siguientes supuestos:
+a) Dejará de reunir los requisitos y condiciones que le fueron exigidos para su acreditación. b) No cumpliera las normas, obligaciones y las funciones previstas en este Decreto. c) Si los expedientes sufrieran demoras o paralizaciones imputables al organismo. d) Si la actuación del organismo fuera constitutiva de alguna de las infracciones graves y muy graves tipificadas por la Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de los Niños y Adolescentes en la Comunidad de Madrid. e) Fuese inhabilitado por las autoridades competentes en el país de origen para el que estaba acreditado. f) No hubiera iniciado la tramitación de ningún expediente de adopción internacional en un período de un año. 2. La incoación del expediente de revocación de la acreditación acarreará la suspensión cautelar de la recepción de nuevos expedientes por parte del organismo acreditado, así como de la recepción de cantidades económicas sin la expresa autorización del centro directivo competente, hasta la resolución del expediente.
 
-1.
-El centro directivo competente, mediante resolución motivada dictada en expediente contradictorio y con audiencia del organismo acreditado, podrá revocar la acreditación para un país de origen, si el organismo acreditado para la adopción internacional incurriera en alguno de los siguientes supuestos:
-a)
-Dejará de reunir los requisitos y condiciones que le fueron exigidos para su acreditación.
-b)
-No cumpliera las normas, obligaciones y las funciones previstas en este Decreto.
-c)
-Si los expedientes sufrieran demoras o paralizaciones imputables al organismo.
-d)
-Si la actuación del organismo fuera constitutiva de alguna de las infracciones graves y muy graves tipificadas por la Ley 6/1995, de 28 de marzo, de Garantías de
-los Derechos de los Niños y Adolescentes en la Comunidad de Madrid.
-e)
-Fuese inhabilitado por las autoridades competentes en el país de origen para el que
-estaba acreditado.
-f)
-No hubiera iniciado la tramitación de ningún expediente de adopción internacional en un período de un año.
-2.
-La incoación del expediente de revocación de la acreditación acarreará la suspensión cautelar de la recepción de nuevos expedientes por parte del organismo acreditado, así
-como de la recepción de cantidades económicas sin la expresa autorización del centro directivo competente, hasta la resolución del expediente.
+1. Corresponderá al centro directivo competente decidir, oídos los interesados, si el organismo acreditado cuya acreditación se revoque, está obligado a finalizar por sí mismo los expedientes que se encuentren en curso, incluidos los que están en fase de seguimiento postadoptivo, o si la tramitación será continuada por otro organismo o por la propia Entidad Pública si ello fuera posible, afrontando, en su caso, el organismo acreditado las responsabilidades, incluso económicas, que ello pudiera suponer. 2. En todo caso, siempre que fuera posible, el propio organismo acreditado continuará con la tramitación de aquellos expedientes que, por la fase en que se encuentran, no es aconsejable utilizar otras vías, para no perjudicar el buen fin del procedimiento de adopción. La retirada de la acreditación se producirá cuando los expedientes en trámite hayan concluido, no pudiendo mientras tanto dicho organismo iniciar la tramitación de nuevos expedientes de adopción. 3. En el supuesto de que el organismo acreditado no continuara con la tramitación de los expedientes iniciados, procederá a efectuar, bajo la supervisión del centro directivo competente, las correspondientes liquidaciones, en los términos establecidos en el artículo 18.4. 4. El organismo cuya acreditación haya sido revocada entregará al centro directivo competente toda la documentación que forme parte de los expedientes iniciados, incluidos los que aún no hubieran sido remitidos al país de origen, y de los expedientes finalizados. Será la administración la encargada de recibir la información relativa a los expedientes que se encontraran en los organismos competentes de los países de origen, salvo que continúe con su tramitación otro organismo. 5. La entidad a la que está adscrita el organismo cuya acreditación haya sido revocada debido a las causas recogidas en los apartados b), c) y d) del artículo 21, no podrá volver a solicitar su acreditación en un plazo de cinco años. En el supuesto de que la inhabilitación del país de origen hubiera sido por causa imputable al organismo, de conformidad con el apartado e) del artículo 21 de este Decreto, se aplicará la misma limitación señalada en el apartado anterior para solicitar nueva acreditación. 6. El centro directivo competente comunicará la revocación de la acreditación a la Autoridad Central del país de origen y al organismo competente de la Administración General del Estado, a los efectos oportunos.
 
-BOCM
+## Capítulo III. Funciones y actividades de los Organismos Acreditados.
 
-#### Artículo 22
-Procedimiento y efectos de la revocación de la acreditación
+#### Artículo 23. Funciones y actividades previas.
 
-1.
-Corresponderá al centro directivo competente decidir, oídos los interesados, si el
-organismo acreditado cuya acreditación se revoque, está obligado a finalizar por sí mismo
-los expedientes que se encuentren en curso, incluidos los que están en fase de seguimiento
-postadoptivo, o si la tramitación será continuada por otro organismo o por la propia Entidad Pública si ello fuera posible, afrontando, en su caso, el organismo acreditado las responsabilidades, incluso económicas, que ello pudiera suponer.
-2.
-En todo caso, siempre que fuera posible, el propio organismo acreditado continuará con la tramitación de aquellos expedientes que, por la fase en que se encuentran, no es
-aconsejable utilizar otras vías, para no perjudicar el buen fin del procedimiento de adopción.
-La retirada de la acreditación se producirá cuando los expedientes en trámite hayan
-concluido, no pudiendo mientras tanto dicho organismo iniciar la tramitación de nuevos expedientes de adopción.
-3.
-En el supuesto de que el organismo acreditado no continuara con la tramitación de
-los expedientes iniciados, procederá a efectuar, bajo la supervisión del centro directivo competente, las correspondientes liquidaciones, en los términos establecidos en el artículo 18.4.
-4.
-El organismo cuya acreditación haya sido revocada entregará al centro directivo
-competente toda la documentación que forme parte de los expedientes iniciados, incluidos
-los que aún no hubieran sido remitidos al país de origen, y de los expedientes finalizados.
-Será la administración la encargada de recibir la información relativa a los expedientes que
-se encontraran en los organismos competentes de los países de origen, salvo que continúe
-con su tramitación otro organismo.
-5.
-La entidad a la que está adscrita el organismo cuya acreditación haya sido revocada debido a las causas recogidas en los apartados b), c) y d) del artículo 21, no podrá volver a solicitar su acreditación en un plazo de cinco años. En el supuesto de que la inhabilitación del país de origen hubiera sido por causa imputable al organismo, de conformidad
-con el apartado e) del artículo 21 de este Decreto, se aplicará la misma limitación señalada
-en el apartado anterior para solicitar nueva acreditación.
-6.
-El centro directivo competente comunicará la revocación de la acreditación a la
-Autoridad Central del país de origen y al organismo competente de la Administración General del Estado, a los efectos oportunos.
+Previamente a la presentación del expediente en el país de que se trate, las funciones del organismo acreditado serán las siguientes:
+a) Informar y asesorar a las personas que se ofrecen para una adopción internacional, tanto en lo que se refiere al proceso en general, como a las condiciones de la tramitación del país, como a la propia actuación del organismo acreditado. Esta información, visada por el centro directivo competente, se proporcionará por escrito a los interesados antes de la firma del contrato y tendrá carácter contractual si ésta se produce. b) Llevar un registro de expedientes, en el que se inscribirán las solicitudes de tramitación de adopción internacional por orden de entrada reflejando la fecha de recepción del certificado de idoneidad y de firma del contrato, y las de los subsiguientes pasos de la tramitación del expediente. c) Completar el expediente de adopción internacional, para lo cual recabará de las personas que se ofrecen para la adopción los documentos necesarios y procederá, en su caso, a traducirlos y a efectuar las gestiones necesarias para su legalización y autenticación, según los requisitos de cada país. d) Desarrollar las actividades de preparación y formación para la adopción internacional, previstas en el programa de actividades de preparación y formación aportado con la solicitud de acreditación, con las personas que tramiten la adopción a través de ese organismo acreditado. Estas actividades se desarrollarán durante toBOCM das las fases del procedimiento hasta la preparación del viaje en el que se inicie la convivencia con la persona menor de edad. e) Enviar y presentar a través de su representante o directamente a la autoridad pública competente en el país de origen o a la Entidad habilitada al efecto por las autoridades del mismo, cuando así estuviera establecido, toda la documentación necesaria al país de origen para la tramitación del expediente, informando por escrito al centro directivo competente y a los interesados de la fecha de dicho envío. Se consignará la fecha del envío en el registro de expedientes.
 
-### Capítulo III
-
-Funciones y actividades de los Organismos Acreditados
-
-#### Artículo 23
-Funciones y actividades previas
-
-Previamente a la presentación del expediente en el país de que se trate, las funciones
-del organismo acreditado serán las siguientes:
-a)
-Informar y asesorar a las personas que se ofrecen para una adopción internacional,
-tanto en lo que se refiere al proceso en general, como a las condiciones de la tramitación del país, como a la propia actuación del organismo acreditado. Esta información, visada por el centro directivo competente, se proporcionará por escrito a los interesados antes de la firma del contrato y tendrá carácter contractual si
-ésta se produce.
-b)
-Llevar un registro de expedientes, en el que se inscribirán las solicitudes de tramitación de adopción internacional por orden de entrada reflejando la fecha de recepción del certificado de idoneidad y de firma del contrato, y las de los subsiguientes pasos de la tramitación del expediente.
-c)
-Completar el expediente de adopción internacional, para lo cual recabará de las
-personas que se ofrecen para la adopción los documentos necesarios y procederá,
-en su caso, a traducirlos y a efectuar las gestiones necesarias para su legalización
-y autenticación, según los requisitos de cada país.
-d)
-Desarrollar las actividades de preparación y formación para la adopción internacional, previstas en el programa de actividades de preparación y formación aportado con la solicitud de acreditación, con las personas que tramiten la adopción a
-través de ese organismo acreditado. Estas actividades se desarrollarán durante to-
-
-BOCM
-das las fases del procedimiento hasta la preparación del viaje en el que se inicie la
-convivencia con la persona menor de edad.
-e)
-Enviar y presentar a través de su representante o directamente a la autoridad pública competente en el país de origen o a la Entidad habilitada al efecto por las autoridades del mismo, cuando así estuviera establecido, toda la documentación necesaria al país de origen para la tramitación del expediente, informando por escrito
-al centro directivo competente y a los interesados de la fecha de dicho envío. Se
-consignará la fecha del envío en el registro de expedientes.
-
-#### Artículo 24
-Funciones y actividades durante la tramitación del expediente
+#### Artículo 24. Funciones y actividades durante la tramitación del expediente.
 
 Las funciones y actividades del organismo acreditado desde la remisión del expediente al país de origen de la persona menor de edad serán las siguientes:
-a)
-Seguir y activar el procedimiento de adopción, manteniendo los oportunos contactos con los organismos administrativos y judiciales competentes en la adopción.
-Asimismo, colaborar con las autoridades competentes y con la oficina o sección
-consular española, dando respuesta diligente a cualquier solicitud o requerimiento
-que se reciba de los mismos en relación a los procesos de adopción internacional.
-b)
-Informar por escrito, al menos cada tres meses, a las personas que se ofrecen para
-la adopción, sobre el desarrollo, cambios y progresión de la tramitación como resultado del seguimiento que realice su representante. Cuando no sea posible aportar información nueva y específica del expediente en concreto, se proporcionará
-una información general sobre los expedientes que la entidad tiene en tramitación
-en el país o en la región o estado dentro del mismo.
-c)
-Recibir de las autoridades competentes del país de origen de la persona menor de
-edad el documento referente a la asignación. Se recabará cuanta información veraz, objetiva y actualizada sobre la persona menor de edad sea posible obtener sobre su identidad, su adoptabilidad, su medio social y familiar, su historia médica
-y necesidades particulares; así como la información relativa al otorgamiento de los
-consentimientos de personas que se ofrecen para la adopción, instituciones y autoridades requeridas por la legislación del país de origen, sin perjuicio de cualquier otra información complementaria que pudiera ser relevante.
-d)
-Velar por que la asignación se adecue a las circunstancias y al proyecto de adopción que se ha considerado al acreditar la idoneidad de las personas que se han
-ofrecido para la adopción.
-e)
-Comunicar esta asignación al centro directivo competente para que emita su aprobación o denegación, que determinará la continuación o no del proceso.
-f)
-Presentar la asignación a los interesados cuando ésta haya sido aprobada por el
-centro directivo competente o, al menos, se haya autorizado su presentación, facilitándoles todos los datos disponibles sobre la persona menor de edad de que se
-trate y ofreciéndoles asesoramiento para su correcta interpretación. Transcurrido
-un plazo prudencial no inferior a dos días, se recabará su aceptación o no de la
-asignación.
-g)
-Presentar a la autoridad competente del país de origen, a través de su representante, o directamente cuando así proceda, el documento de conformidad o disconformidad del centro directivo competente y, en su caso, el de aceptación o no aceptación por parte de las personas que se ofrecen para la adopción.
-h)
-Gestionar, cuando sea necesario, el otorgamiento de poderes por parte de las personas que se ofrecen para la adopción para la actuación de abogados ante los órganos judiciales competentes del país de origen de la persona menor de edad.
-i)
-Si las autoridades competentes del país extranjero solicitaran algún documento
-nuevo o la actualización de alguno ya presentado, comunicarlo inmediatamente a
-las personas que se ofrecen para la adopción para que los aporten, gestionar, en su
-caso, la legalización, traducción y autenticación y presentarlos ante la autoridad
-competente.
-j)
-Asegurarse de que la persona menor de edad reúne todos los requisitos para la entrada y residencia en España y de que se dispone de toda la documentación pertinente para el reconocimiento de la eficacia de la resolución extranjera en nuestro
-país y que se encuentra debidamente autenticada.
+a) Seguir y activar el procedimiento de adopción, manteniendo los oportunos contactos con los organismos administrativos y judiciales competentes en la adopción. Asimismo, colaborar con las autoridades competentes y con la oficina o sección consular española, dando respuesta diligente a cualquier solicitud o requerimiento que se reciba de los mismos en relación a los procesos de adopción internacional. b) Informar por escrito, al menos cada tres meses, a las personas que se ofrecen para la adopción, sobre el desarrollo, cambios y progresión de la tramitación como resultado del seguimiento que realice su representante. Cuando no sea posible aportar información nueva y específica del expediente en concreto, se proporcionará una información general sobre los expedientes que la entidad tiene en tramitación en el país o en la región o estado dentro del mismo. c) Recibir de las autoridades competentes del país de origen de la persona menor de edad el documento referente a la asignación. Se recabará cuanta información veraz, objetiva y actualizada sobre la persona menor de edad sea posible obtener sobre su identidad, su adoptabilidad, su medio social y familiar, su historia médica y necesidades particulares; así como la información relativa al otorgamiento de los consentimientos de personas que se ofrecen para la adopción, instituciones y autoridades requeridas por la legislación del país de origen, sin perjuicio de cualquier otra información complementaria que pudiera ser relevante. d) Velar por que la asignación se adecue a las circunstancias y al proyecto de adopción que se ha considerado al acreditar la idoneidad de las personas que se han ofrecido para la adopción. e) Comunicar esta asignación al centro directivo competente para que emita su aprobación o denegación, que determinará la continuación o no del proceso. f) Presentar la asignación a los interesados cuando ésta haya sido aprobada por el centro directivo competente o, al menos, se haya autorizado su presentación, facilitándoles todos los datos disponibles sobre la persona menor de edad de que se trate y ofreciéndoles asesoramiento para su correcta interpretación. Transcurrido un plazo prudencial no inferior a dos días, se recabará su aceptación o no de la asignación. g) Presentar a la autoridad competente del país de origen, a través de su representante, o directamente cuando así proceda, el documento de conformidad o disconformidad del centro directivo competente y, en su caso, el de aceptación o no aceptación por parte de las personas que se ofrecen para la adopción. h) Gestionar, cuando sea necesario, el otorgamiento de poderes por parte de las personas que se ofrecen para la adopción para la actuación de abogados ante los órganos judiciales competentes del país de origen de la persona menor de edad. i) Si las autoridades competentes del país extranjero solicitaran algún documento nuevo o la actualización de alguno ya presentado, comunicarlo inmediatamente a las personas que se ofrecen para la adopción para que los aporten, gestionar, en su caso, la legalización, traducción y autenticación y presentarlos ante la autoridad competente. j) Asegurarse de que la persona menor de edad reúne todos los requisitos para la entrada y residencia en España y de que se dispone de toda la documentación pertinente para el reconocimiento de la eficacia de la resolución extranjera en nuestro país y que se encuentra debidamente autenticada.
 
-BOCM
-k)
-Colaborar, si la legislación y las autoridades competentes del país lo permiten, en
-la adecuada preparación de la persona menor de edad que va a ser adoptada.
-l)
-Informar a los interesados, en cuanto reciban la invitación del país de origen, del
-momento y condiciones en que deben viajar para continuar con los trámites del
-procedimiento de adopción.
-m) Estar presente, si las autoridades competentes del país lo permiten, en el acto de
-recogida de la persona menor de edad facilitando a la familia cuantas orientaciones sean necesarias. Y garantizar, en colaboración con el país de origen, que el encuentro y la adaptación inicial entre la persona menor de edad y los futuros padres
-y madres adoptivos, se lleve a cabo conforme al interés superior de aquéllos y en
-ningún caso con anterioridad a la fecha de la asignación.
-n)
-Asegurarse de que la autoridad competente en el país de origen ha emitido el certificado, de conformidad con el Convenio de La Haya de 29 de mayo de 1993, en
-el supuesto que lo haya ratificado.
-ñ)
-Asistir y representar, cuando proceda, a los interesados en el país de origen en todos los trámites administrativos o judiciales que deban cumplimentar, así como en
-las gestiones de legalización y en aquellas otras que deban realizarse ante las dependencias consulares españolas en dicho país. Asimismo, orientarles y apoyarles
-durante toda su estancia en el país de origen, facilitándoles, de forma permanente, servicios adecuados y seguros a través de su representante o a través de colaboradores vinculados contractualmente con él, especialmente en el caso de que se
-produjera cualquier situación imprevista en relación con la persona menor de edad
-en el país de origen.
+k) Colaborar, si la legislación y las autoridades competentes del país lo permiten, en la adecuada preparación de la persona menor de edad que va a ser adoptada. l) Informar a los interesados, en cuanto reciban la invitación del país de origen, del momento y condiciones en que deben viajar para continuar con los trámites del procedimiento de adopción.
+m) Estar presente, si las autoridades competentes del país lo permiten, en el acto de recogida de la persona menor de edad facilitando a la familia cuantas orientaciones sean necesarias. Y garantizar, en colaboración con el país de origen, que el encuentro y la adaptación inicial entre la persona menor de edad y los futuros padres y madres adoptivos, se lleve a cabo conforme al interés superior de aquéllos y en ningún caso con anterioridad a la fecha de la asignación. n) Asegurarse de que la autoridad competente en el país de origen ha emitido el certificado, de conformidad con el Convenio de La Haya de 29 de mayo de 1993, en el supuesto que lo haya ratificado. ñ) Asistir y representar, cuando proceda, a los interesados en el país de origen en todos los trámites administrativos o judiciales que deban cumplimentar, así como en las gestiones de legalización y en aquellas otras que deban realizarse ante las dependencias consulares españolas en dicho país. Asimismo, orientarles y apoyarles durante toda su estancia en el país de origen, facilitándoles, de forma permanente, servicios adecuados y seguros a través de su representante o a través de colaboradores vinculados contractualmente con él, especialmente en el caso de que se produjera cualquier situación imprevista en relación con la persona menor de edad en el país de origen.
 
-#### Artículo 25
-Funciones y actividades posteriores
+#### Artículo 25. Funciones y actividades posteriores.
 
-Una vez finalizada la tramitación en el país de origen y llegado la persona menor de
-edad a España, el organismo acreditado tendrá las siguientes funciones y realizará las siguientes actividades:
-a)
-Comunicar en el plazo máximo de quince días al centro directivo competente la
-constitución de la adopción o, en su caso, la tutela legal con fines de adopción,
-para lo cual presentará una copia autenticada de la resolución de adopción o de tutela y la llegada de la persona menor de edad a España.
-b)
-Si no se hubiese realizado la inscripción consular de la adopción en el país de origen, asesorarán e instarán al o los adoptantes para que soliciten su inscripción en
-el Registro Civil correspondiente.
-c)
-En los supuestos en que se hubiese constituido una adopción no plena o una tutela
-legal con fines de adopción, prestar la colaboración necesaria para que el centro
-directivo competente efectúe la propuesta de constitución judicial de dicha adopción ante los Juzgados competentes.
-d)
-Comunicar al organismo competente del país de origen la inscripción de la adopción en el Registro Civil y presentar al centro directivo competente una copia de
-la partida literal donde conste.
-e)
-Realizar las entrevistas necesarias, elaborar, traducir cuando proceda, enviar y
-presentar puntualmente los informes de seguimiento postadoptivo sobre la evolución de la persona menor de edad y la adaptación a su nueva familia, con la periodicidad que establezca el país de origen.
-Excepcionalmente, cuando existan causas que lo justifiquen, a solicitud de los padres o de oficio por el centro directivo competente, se podrá autorizar que los informes puedan realizarse por profesionales ajenos al organismo acreditado, bien
-de la propia administración o de los integrantes de la Lista de Intervención Profesional en Adopción Internacional del Colegio Oficial de Trabajo Social y del Colegio Oficial de la Psicología de Madrid. Una vez elaborados se entregarán al organismo que deberá realizar las actividades necesarias para su presentación en el
-país de origen.
-f)
-En caso necesario, orientar a las familias hacia servicios de atención sanitaria,
-educativa, apoyo postadoptivo u otros.
-g)
-Colaborar para dar respuesta a las solicitudes de información sobre los orígenes de
-la persona menor de edad adoptado.
+Una vez finalizada la tramitación en el país de origen y llegado la persona menor de edad a España, el organismo acreditado tendrá las siguientes funciones y realizará las siguientes actividades:
+a) Comunicar en el plazo máximo de quince días al centro directivo competente la constitución de la adopción o, en su caso, la tutela legal con fines de adopción, para lo cual presentará una copia autenticada de la resolución de adopción o de tutela y la llegada de la persona menor de edad a España. b) Si no se hubiese realizado la inscripción consular de la adopción en el país de origen, asesorarán e instarán al o los adoptantes para que soliciten su inscripción en el Registro Civil correspondiente. c) En los supuestos en que se hubiese constituido una adopción no plena o una tutela legal con fines de adopción, prestar la colaboración necesaria para que el centro directivo competente efectúe la propuesta de constitución judicial de dicha adopción ante los Juzgados competentes. d) Comunicar al organismo competente del país de origen la inscripción de la adopción en el Registro Civil y presentar al centro directivo competente una copia de la partida literal donde conste. e) Realizar las entrevistas necesarias, elaborar, traducir cuando proceda, enviar y presentar puntualmente los informes de seguimiento postadoptivo sobre la evolución de la persona menor de edad y la adaptación a su nueva familia, con la periodicidad que establezca el país de origen. Excepcionalmente, cuando existan causas que lo justifiquen, a solicitud de los padres o de oficio por el centro directivo competente, se podrá autorizar que los informes puedan realizarse por profesionales ajenos al organismo acreditado, bien de la propia administración o de los integrantes de la Lista de Intervención Profesional en Adopción Internacional del Colegio Oficial de Trabajo Social y del Colegio Oficial de la Psicología de Madrid. Una vez elaborados se entregarán al organismo que deberá realizar las actividades necesarias para su presentación en el país de origen. f) En caso necesario, orientar a las familias hacia servicios de atención sanitaria, educativa, apoyo postadoptivo u otros. g) Colaborar para dar respuesta a las solicitudes de información sobre los orígenes de la persona menor de edad adoptado.
 
-BOCM
+## Capítulo IV. Régimen de funcionamiento y obligaciones de los organismos acreditados.
 
-### Capítulo IV
+#### Artículo 26. Obligaciones.
 
-Régimen de funcionamiento y obligaciones de los organismos acreditados
-
-#### Artículo 26
-Obligaciones generales
+generales
 
 Los organismos acreditados por el centro directivo competente están obligados a cumplir las siguientes obligaciones generales:
-a)
-Prestar todos los servicios de intermediación que figuran en los artículos de este
-Decreto a las personas que se ofrecen para la adopción con residencia habitual en
-España que se ofrezcan para la adopción, cualquiera que sea su comunidad autónoma de residencia.
-b)
-Poner a disposición del centro directivo competente, cuando esta lo requiera, todos
-los documentos relacionados con las actuaciones para las que ha sido acreditado.
-c)
-Formalizar con las personas que se ofrecen para la adopción que cuenten con el
-certificado de idoneidad, el contrato para la intermediación en adopción internacional, según el modelo de contrato homologado.
-d)
-Comunicar al centro directivo competente cualquier modificación relativa al proyecto de actuación, tanto en España como en el país de origen, en relación con el
-respeto a los principios y normas establecidos en adopción internacional, y en concreto, cualquier modificación en las funciones a desarrollar por el personal del organismo acreditado, especificando el cambio de la estructura orgánica, las actividades y la metodología para el desarrollo de sus funciones, tanto en España como
-en el país de origen, así como en el plan de atención a las familias.
-e)
-Comunicar al centro directivo competente cualquier modificación relativa al proyecto de cooperación, si lo hubiera, para el desarrollo de los derechos de la infancia y bienestar infantil en el país de origen, en el supuesto de que tenga previsto
-desarrollarlo. En concreto, se comunicará cualquier modificación relativa a los
-objetivos, fundamentación, participación de las autoridades públicas de protección de las personas menores de edad nacionales del país, actividades del proyecto, localización, beneficiarios directos e indirectos, coste total, otros financiadores, tiempo de realización previsto y sostenibilidad del programa.
-f)
-Comunicar al centro directivo competente cualquier modificación significativa relativa a la situación económica y presupuestaria del organismo acreditado.
-g)
-Comunicar al centro directivo competente cualquier modificación que afecte a su
-autorización en el país de origen. En todo caso, deberán informar sobre las renovaciones periódicas de la misma y, en su caso, de su suspensión temporal o retirada.
-h)
-Custodiar los expedientes de adopción, así como guardar y garantizar el secreto
-profesional de la información y la protección de datos sobre las personas que se
-ofrecen para la adopción, las familias biológicas y las personas menores de edad
-adoptados.
-i)
-Garantizar el cumplimiento de los deberes inherentes al personal y miembros de
-los órganos de gobierno y representación de los mismos y, en especial, solicitar de
-todo su personal, cualquiera que sea la naturaleza de su relación orgánica, laboral
-o de colaboración, la acreditación de no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, así como por trata de
-seres humanos, en los términos previstos en el artículo 57 de la Ley orgánica
-8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente
-a la violencia, mediante la aportación de una certificación negativa del Registro
-Central de Delincuentes Sexuales y de Trata de Seres Humanos.
-j)
-Realizar las labores de supervisión, vigilancia y control de la actividad del personal
-y de los miembros de sus órganos de gobierno y representación, en el cumplimiento de las obligaciones y requisitos que establece la normativa vigente. En concreto, los organismos acreditados son responsables de todos los actos realizados en su
-nombre por cualquier profesional o empleado vinculado a aquél, incluido el representante, en los términos establecidos por la Ley 54/2007, de 28 de diciembre.
-k)
-Facilitar las labores de supervisión, seguimiento y control de la Entidad Pública
-competente.
+a) Prestar todos los servicios de intermediación que figuran en los artículos de este Decreto a las personas que se ofrecen para la adopción con residencia habitual en España que se ofrezcan para la adopción, cualquiera que sea su comunidad autónoma de residencia. b) Poner a disposición del centro directivo competente, cuando esta lo requiera, todos los documentos relacionados con las actuaciones para las que ha sido acreditado. c) Formalizar con las personas que se ofrecen para la adopción que cuenten con el certificado de idoneidad, el contrato para la intermediación en adopción internacional, según el modelo de contrato homologado. d) Comunicar al centro directivo competente cualquier modificación relativa al proyecto de actuación, tanto en España como en el país de origen, en relación con el respeto a los principios y normas establecidos en adopción internacional, y en concreto, cualquier modificación en las funciones a desarrollar por el personal del organismo acreditado, especificando el cambio de la estructura orgánica, las actividades y la metodología para el desarrollo de sus funciones, tanto en España como en el país de origen, así como en el plan de atención a las familias. e) Comunicar al centro directivo competente cualquier modificación relativa al proyecto de cooperación, si lo hubiera, para el desarrollo de los derechos de la infancia y bienestar infantil en el país de origen, en el supuesto de que tenga previsto desarrollarlo. En concreto, se comunicará cualquier modificación relativa a los objetivos, fundamentación, participación de las autoridades públicas de protección de las personas menores de edad nacionales del país, actividades del proyecto, localización, beneficiarios directos e indirectos, coste total, otros financiadores, tiempo de realización previsto y sostenibilidad del programa. f) Comunicar al centro directivo competente cualquier modificación significativa relativa a la situación económica y presupuestaria del organismo acreditado. g) Comunicar al centro directivo competente cualquier modificación que afecte a su autorización en el país de origen. En todo caso, deberán informar sobre las renovaciones periódicas de la misma y, en su caso, de su suspensión temporal o retirada. h) Custodiar los expedientes de adopción, así como guardar y garantizar el secreto profesional de la información y la protección de datos sobre las personas que se ofrecen para la adopción, las familias biológicas y las personas menores de edad adoptados. i) Garantizar el cumplimiento de los deberes inherentes al personal y miembros de los órganos de gobierno y representación de los mismos y, en especial, solicitar de todo su personal, cualquiera que sea la naturaleza de su relación orgánica, laboral o de colaboración, la acreditación de no haber sido condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, así como por trata de seres humanos, en los términos previstos en el artículo 57 de la Ley orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, mediante la aportación de una certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos. j) Realizar las labores de supervisión, vigilancia y control de la actividad del personal y de los miembros de sus órganos de gobierno y representación, en el cumplimiento de las obligaciones y requisitos que establece la normativa vigente. En concreto, los organismos acreditados son responsables de todos los actos realizados en su nombre por cualquier profesional o empleado vinculado a aquél, incluido el representante, en los términos establecidos por la Ley 54/2007, de 28 de diciembre. k) Facilitar las labores de supervisión, seguimiento y control de la Entidad Pública competente.
 
-BOCM
-l)
-Informar, a través de su página web, así como de forma detallada a las personas
-que se ofrecen para la adopción, acerca de los siguientes extremos:
-1.o La situación de la adopción en el país o países de origen en los que desarrollen
-su actividad en cada momento, con mención expresa del tiempo medio de
-cada una de las fases de tramitación de los expedientes gestionados por la entidad en dichos países en los últimos tres años, así como las tendencias, perspectivas y dificultades que puedan surgir a lo largo del proceso de adopción.
-2.o Los requisitos y procedimientos para la adopción en el país de origen, documentación exigible, así como su caducidad y renovación, el perfil de las personas menores de edad que pueden ser adoptadas, siempre que dicha información sea facilitada por el país de origen, y los servicios que ofrece el
-organismo acreditado.
-3.o Los costes del procedimiento de adopción y de los informes de seguimiento
-postadoptivo aprobados por el centro directivo competente.
-m) Informar de forma personalizada a las personas que se ofrecen para la adopción,
-sobre el perfil y el estado de salud de las personas menores de edad que puedan
-ser adoptadas.
-n)
-Publicar en su página web las resoluciones de acreditación concedidas, de forma
-anonimizada, respetando en todo caso la normativa sobre protección de datos personales.
-ñ)
-Llevar un registro único por país de los expedientes de adopción internacional,
-conforme a lo establecido en el artículo 8.4 de la LAI.
-o)
-En aquellos supuestos en los que la familia adoptante dificulte o impida la realización de informes de seguimiento postadoptivo, comunicar esta circunstancia, con
-carácter inmediato, a la Entidad Pública que haya emitido el certificado de idoneidad correspondiente.
-p)
-Informar a la Entidad Pública del lugar de residencia de las personas que se ofrecen para la adopción, sobre las incidencias relevantes que puedan producirse en el
-trámite de una adopción y, en concreto, las que puedan ser consideradas como
-causa de una no idoneidad sobrevenida de aquellas.
-q)
-Entregar a la Entidad Pública del lugar de residencia de las personas que se ofrecen
-para la adopción, la documentación que obre en su poder relativa a la misma, al objeto de dar cumplimiento a lo establecido en el artículo 180.5 del Código Civil.
-r)
-Dar respuesta a cualquier requerimiento formulado por el centro directivo competente respecto de cada expediente de adopción en relación con la tramitación del
-mismo.
-s)
-Cualesquiera otras que se establezcan o se deriven de la normativa vigente.
+l) Informar, a través de su página web, así como de forma detallada a las personas que se ofrecen para la adopción, acerca de los siguientes extremos:
+1.o La situación de la adopción en el país o países de origen en los que desarrollen su actividad en cada momento, con mención expresa del tiempo medio de cada una de las fases de tramitación de los expedientes gestionados por la entidad en dichos países en los últimos tres años, así como las tendencias, perspectivas y dificultades que puedan surgir a lo largo del proceso de adopción. 2.o Los requisitos y procedimientos para la adopción en el país de origen, documentación exigible, así como su caducidad y renovación, el perfil de las personas menores de edad que pueden ser adoptadas, siempre que dicha información sea facilitada por el país de origen, y los servicios que ofrece el organismo acreditado. 3.o Los costes del procedimiento de adopción y de los informes de seguimiento postadoptivo aprobados por el centro directivo competente.
+m) Informar de forma personalizada a las personas que se ofrecen para la adopción, sobre el perfil y el estado de salud de las personas menores de edad que puedan ser adoptadas. n) Publicar en su página web las resoluciones de acreditación concedidas, de forma anonimizada, respetando en todo caso la normativa sobre protección de datos personales. ñ) Llevar un registro único por país de los expedientes de adopción internacional, conforme a lo establecido en el artículo 8.4 de la LAI. o) En aquellos supuestos en los que la familia adoptante dificulte o impida la realización de informes de seguimiento postadoptivo, comunicar esta circunstancia, con carácter inmediato, a la Entidad Pública que haya emitido el certificado de idoneidad correspondiente. p) Informar a la Entidad Pública del lugar de residencia de las personas que se ofrecen para la adopción, sobre las incidencias relevantes que puedan producirse en el trámite de una adopción y, en concreto, las que puedan ser consideradas como causa de una no idoneidad sobrevenida de aquellas. q) Entregar a la Entidad Pública del lugar de residencia de las personas que se ofrecen para la adopción, la documentación que obre en su poder relativa a la misma, al objeto de dar cumplimiento a lo establecido en el artículo 180.5 del Código Civil. r) Dar respuesta a cualquier requerimiento formulado por el centro directivo competente respecto de cada expediente de adopción en relación con la tramitación del mismo. s) Cualesquiera otras que se establezcan o se deriven de la normativa vigente.
 
-#### Artículo 27
-Obligaciones generales en relación con el país de origen
+#### Artículo 27. Obligaciones generales en relación con el país de origen.
 
 Los organismos acreditados por el centro directivo competente están obligados en relación con el país de origen a cumplir las siguientes obligaciones:
-a)
-Conocer, observar y velar por el cumplimiento de la legislación internacional y
-nacional sobre protección de menores y adopción, así como la del país para el que
-esté acreditada. Asimismo, facilitar al centro directivo competente información
-sobre el perfil de las personas menores de edad adoptables en los países de origen,
-así como sobre cualquier cambio legislativo, de procedimiento y de criterios en
-adopción internacional en los mismos del cual tuvieran conocimiento.
-b)
-Comprobar la ausencia de compensación económica por la entrega de las personas
-menores de edad para la adopción; e informar y denunciar, en su caso, ante las autoridades y entidades competentes cualquier irregularidad, abuso o beneficio financiero distinto de aquellas cantidades que fueran precisas para cubrir estrictamente los costes necesarios de la intermediación, del que se tenga conocimiento,
-en cualquier fase de la tramitación.
-c)
-Intermediar exclusivamente entre las personas que se ofrecen para la adopción,
-que dispongan de un certificado de idoneidad emitido por la autoridad competente, y las autoridades del país de origen. En ningún caso podrán iniciarse los trámites antes que el centro directivo competente haya remitido dicho certificado y demás documentación preceptiva al organismo acreditado.
+a) Conocer, observar y velar por el cumplimiento de la legislación internacional y nacional sobre protección de menores y adopción, así como la del país para el que esté acreditada. Asimismo, facilitar al centro directivo competente información sobre el perfil de las personas menores de edad adoptables en los países de origen, así como sobre cualquier cambio legislativo, de procedimiento y de criterios en adopción internacional en los mismos del cual tuvieran conocimiento. b) Comprobar la ausencia de compensación económica por la entrega de las personas menores de edad para la adopción; e informar y denunciar, en su caso, ante las autoridades y entidades competentes cualquier irregularidad, abuso o beneficio financiero distinto de aquellas cantidades que fueran precisas para cubrir estrictamente los costes necesarios de la intermediación, del que se tenga conocimiento, en cualquier fase de la tramitación. c) Intermediar exclusivamente entre las personas que se ofrecen para la adopción, que dispongan de un certificado de idoneidad emitido por la autoridad competente, y las autoridades del país de origen. En ningún caso podrán iniciarse los trámites antes que el centro directivo competente haya remitido dicho certificado y demás documentación preceptiva al organismo acreditado.
 
-BOCM
-d)
-Intermediar exclusivamente en aquellos procesos en los que la adoptabilidad de la
-persona menor de edad esté establecida conforme a las exigencias de la legislación internacional.
-e)
-Colaborar activa y diligentemente con todos los agentes intervinientes en la adopción, con el fin de velar por que el expediente se tramite correctamente.
-f)
-Participar en el desarrollo de buenas prácticas relativas a la adopción internacional
-para prevenir los problemas o dificultades más frecuentes, incluidos los problemas
-de adaptación después de la adopción.
-g)
-Mantener informadas a las autoridades del país de origen sobre la situación de
-cada expediente de adopción.
-h)
-Informar periódicamente a su sede en España sobre la situación de cada expediente, para mantener informadas a las familias.
-i)
-Formar, acompañar y supervisar al representante del organismo acreditado en el
-país de origen.
-j)
-Velar para que el personal dependiente del organismo acreditado en ningún caso
-ejerza cualquier presión sobre el país de origen.
+d) Intermediar exclusivamente en aquellos procesos en los que la adoptabilidad de la persona menor de edad esté establecida conforme a las exigencias de la legislación internacional. e) Colaborar activa y diligentemente con todos los agentes intervinientes en la adopción, con el fin de velar por que el expediente se tramite correctamente. f) Participar en el desarrollo de buenas prácticas relativas a la adopción internacional para prevenir los problemas o dificultades más frecuentes, incluidos los problemas de adaptación después de la adopción. g) Mantener informadas a las autoridades del país de origen sobre la situación de cada expediente de adopción. h) Informar periódicamente a su sede en España sobre la situación de cada expediente, para mantener informadas a las familias. i) Formar, acompañar y supervisar al representante del organismo acreditado en el país de origen. j) Velar para que el personal dependiente del organismo acreditado en ningún caso ejerza cualquier presión sobre el país de origen.
 
-### Capítulo V
+## Capítulo V. Supervisión y control de los organismos acreditados.
 
-Supervisión y control de los organismos acreditados
+#### Artículo 28. Funciones de supervisión, seguimiento y control.
 
-#### Artículo 28
-Funciones de supervisión, seguimiento y control
+1. Las funciones de supervisión, seguimiento y control de las actividades y funciones de los organismos acreditados corresponden al centro directivo competente sobre la protección de personas menores de edad de la Comunidad de Madrid, sin perjuicio de las facultades generales de inspección que puedan corresponder a la Consejería competente sobre los Servicios Sociales, y sin perjuicio de la función coordinadora y de las competencias que corresponden a la Comisión Técnica de Seguimiento y Control, u organismo que la sustituya, regulada en el artículo 34 l.
 
-1.
-Las funciones de supervisión, seguimiento y control de las actividades y funciones de los organismos acreditados corresponden al centro directivo competente sobre la
-protección de personas menores de edad de la Comunidad de Madrid, sin perjuicio de las
-facultades generales de inspección que puedan corresponder a la Consejería competente sobre los Servicios Sociales, y sin perjuicio de la función coordinadora y de las competencias
-que corresponden a la Comisión Técnica de Seguimiento y Control, u organismo que la sustituya, regulada en el artículo 34 del Real Decreto 165/2019, de 22 de marzo.
-Se promoverán medidas de colaboración y coordinación con el resto de entidades públicas para procurar la mayor homogeneidad posible en los requisitos básicos para la realización de esta actividad de control, inspección y seguimiento, conforme a lo establecido en
-el artículo 7.3 de la LAI.
-Para el ejercicio de estas funciones en relación con la actividad que dichos organismos
-desarrollen en el país de origen se solicitará la colaboración de los organismos competentes sobre la adopción y las relaciones internacionales de la Administración General del Estado, de conformidad con el artículo 7.3 de la LAI.
-2.
-El seguimiento y control de la tramitación de cada expediente de adopción, corresponderá a las Entidades Públicas en cuyo territorio residan las personas que se ofrecen para
-adoptar.
+Real Decreto 165/2019, de 22 de marzo. Se promoverán medidas de colaboración y coordinación con el resto de entidades públicas para procurar la mayor homogeneidad posible en los requisitos básicos para la realización de esta actividad de control, inspección y seguimiento, conforme a lo establecido en el artículo 7.3 de la LAI. Para el ejercicio de estas funciones en relación con la actividad que dichos organismos desarrollen en el país de origen se solicitará la colaboración de los organismos competentes sobre la adopción y las relaciones internacionales de la Administración General del Estado, de conformidad con el artículo 7.3 de la LAI. 2. El seguimiento y control de la tramitación de cada expediente de adopción, corresponderá a las Entidades Públicas en cuyo territorio residan las personas que se ofrecen para adoptar.
 
-#### Artículo 29
-Obligaciones de los organismos acreditados para la supervisión y coordinación
+#### Artículo 29. Obligaciones de los organismos acreditados para la supervisión y coordinación administrativa 1.
 
-administrativa
-1.
 Con objeto de asegurar la supervisión y coordinación señalada en el artículo anterior, los organismos acreditados tendrán las siguientes obligaciones:
-a)
-Tener un director que asumirá las funciones de dirección y coordinación técnica
-del equipo, incluyendo la actividad del representante en el país de origen.
-b)
-Participar en las reuniones técnicas a las que sean convocadas y observar las directrices que transmita el centro directivo competente.
-c)
-Someterse a las auditorías correspondientes, en las condiciones y con la periodicidad fijadas por el plan acordado por la Comisión Técnica de Seguimiento y Control, en los términos establecidos en el artículo 34.4 del RAI.
-d)
-Mantener un único archivo para todos los expedientes tramitados por el organismo, en el que se custodiarán en carpetas individualizadas para cada expediente: el
-contrato firmado con las personas que se ofrecen para la adopción, los documentos que acrediten el envío y la presentación de la solicitud ante el correspondiente organismo del país de origen, los documentos de preasignación y aceptación y
+a) Tener un director que asumirá las funciones de dirección y coordinación técnica del equipo, incluyendo la actividad del representante en el país de origen. b) Participar en las reuniones técnicas a las que sean convocadas y observar las directrices que transmita el centro directivo competente. c) Someterse a las auditorías correspondientes, en las condiciones y con la periodicidad fijadas por el plan acordado por la Comisión Técnica de Seguimiento y Control, en los términos establecidos en el artículo 34.4 del RAI. d) Mantener un único archivo para todos los expedientes tramitados por el organismo, en el que se custodiarán en carpetas individualizadas para cada expediente: el contrato firmado con las personas que se ofrecen para la adopción, los documentos que acrediten el envío y la presentación de la solicitud ante el correspondiente organismo del país de origen, los documentos de preasignación y aceptación y
 
-BOCM
-cuantas informaciones escritas se transmitan a la familia. También se incluirán las
-facturas por servicios externos imputables a los interesados, así como las justificaciones de pagos y transferencias efectuados por razón de la tramitación de su expediente.
+cuantas informaciones escritas se transmitan a la familia. También se incluirán las facturas por servicios externos imputables a los interesados, así como las justificaciones de pagos y transferencias efectuados por razón de la tramitación de su expediente.
 
-#### Artículo 30
-Documentación de los organismos para la supervisión y coordinación administrativa.
+#### Artículo 30. Documentación de los organismos para la supervisión y coordinación administrativa.
 
-1.
-Los organismos acreditados deberán remitir al centro directivo competente la siguiente documentación:
-a)
-Informes sobre las novedades e incidencias en el país de origen que afecten a la
-tramitación de adopciones internacionales. Dichos informes se remitirán en el plazo de quince días desde que se produzcan las citadas novedades e incidencias.
-b)
-Información trimestral por cada país de origen, relativa al número de nuevos expedientes remitidos, expedientes pendientes de asignación, asignaciones recibidas,
-aceptaciones y denegaciones de la asignación propuesta, adopciones o tutelas
-preadoptivas constituidas en ese período, y menores que han llegado a España,
-con especial referencia a la tramitación de adopciones de las personas menores de
-edad con necesidades especiales. Asimismo, recogerá la situación de cada uno de
-los expedientes, en el que constará:
-1.o Número de expediente.
-2.o Comunidad Autónoma de residencia de los interesados.
-3.o Nombre y apellidos de los interesados.
-4.o Fecha de recogida por el organismo acreditado.
-5.o Fecha de firma de contrato.
-6.o Fecha registro de presentación en el país de origen.
-7.o Fecha y datos de la asignación (Sexo y fecha de nacimiento).
-8.o Tiempo de espera hasta la asignación.
-9.o Incidencias.
-10.o Fecha llegada a España.
-11.o Fechas de seguimientos realizados.
-c)
-Una memoria anual del ejercicio anterior en la que se incluya:
-1.o Informe sobre las actividades realizadas y situación del organismo.
-2.o Resumen de datos estadísticos sobre los expedientes tramitados durante el
-año al que se refiera.
-3.o Informe sobre la situación contractual del personal del organismo.
-4.o Documentación actualizada que acredite la vigencia del cumplimiento de los
-deberes inherentes al personal y miembros de los órganos de gobierno y representación del mismo, específicamente los relativos a la certificación negativa de antecedentes penales, establecidos en el artículo 26.i) de este Decreto.
-5.o Cuentas anuales que comprenderán el balance y la cuenta de resultados, reflejando fielmente el patrimonio y la situación financiera del organismo acreditado. Se incluirá en la memoria de las cuentas anuales un apartado específico,
-donde se informará acerca de los criterios contables que se han aplicado para
-la elaboración de las cuentas. En concreto, se detallarán los criterios de reconocimiento de los ingresos y los costes relacionados con los contratos de
-adopción suscritos.
-6.o Informe sobre la disponibilidad y movimientos de las cuentas corrientes.
-7.o Cualquier otra documentación que pueda ser solicitada.
-Esta memoria anual del ejercicio anterior deberá presentarse antes del 31 de enero
-del año siguiente, a excepción de la información recogida en los puntos 5.o y 6.o
-del apartado c) relativa a las cuentas anuales y a la disponibilidad y movimientos
-de las cuentas corrientes, la cual deberá presentarse anualmente, antes del 30 de
-junio del mismo.
-d)
-Informe del resultado de las visitas de trabajo que, en el ejercicio de sus funciones,
-realice el organismo acreditado a los países de origen de las personas menores de
-edad donde estuviera acreditado.
+1. Los organismos acreditados deberán remitir al centro directivo competente la siguiente documentación:
+a) Informes sobre las novedades e incidencias en el país de origen que afecten a la tramitación de adopciones internacionales. Dichos informes se remitirán en el plazo de quince días desde que se produzcan las citadas novedades e incidencias. b) Información trimestral por cada país de origen, relativa al número de nuevos expedientes remitidos, expedientes pendientes de asignación, asignaciones recibidas, aceptaciones y denegaciones de la asignación propuesta, adopciones o tutelas preadoptivas constituidas en ese período, y menores que han llegado a España, con especial referencia a la tramitación de adopciones de las personas menores de edad con necesidades especiales. Asimismo, recogerá la situación de cada uno de los expedientes, en el que constará:
+1.o Número de expediente. 2.o Comunidad Autónoma de residencia de los interesados. 3.o Nombre y apellidos de los interesados. 4.o Fecha de recogida por el organismo acreditado. 5.o Fecha de firma de contrato. 6.o Fecha registro de presentación en el país de origen. 7.o Fecha y datos de la asignación (Sexo y fecha de nacimiento). 8.o Tiempo de espera hasta la asignación. 9.o Incidencias. 10.o Fecha llegada a España. 11.o Fechas de seguimientos realizados. c) Una memoria anual del ejercicio anterior en la que se incluya:
+1.o Informe sobre las actividades realizadas y situación del organismo. 2.o Resumen de datos estadísticos sobre los expedientes tramitados durante el año al que se refiera. 3.o Informe sobre la situación contractual del personal del organismo. 4.o Documentación actualizada que acredite la vigencia del cumplimiento de los deberes inherentes al personal y miembros de los órganos de gobierno y representación del mismo, específicamente los relativos a la certificación negativa de antecedentes penales, establecidos en el artículo 26.i) de este Decreto. 5.o Cuentas anuales que comprenderán el balance y la cuenta de resultados, reflejando fielmente el patrimonio y la situación financiera del organismo acreditado. Se incluirá en la memoria de las cuentas anuales un apartado específico, donde se informará acerca de los criterios contables que se han aplicado para la elaboración de las cuentas. En concreto, se detallarán los criterios de reconocimiento de los ingresos y los costes relacionados con los contratos de adopción suscritos. 6.o Informe sobre la disponibilidad y movimientos de las cuentas corrientes. 7.o Cualquier otra documentación que pueda ser solicitada. Esta memoria anual del ejercicio anterior deberá presentarse antes del 31 de enero del año siguiente, a excepción de la información recogida en los puntos 5.o y 6.o del apartado c) relativa a las cuentas anuales y a la disponibilidad y movimientos de las cuentas corrientes, la cual deberá presentarse anualmente, antes del 30 de junio del mismo. d) Informe del resultado de las visitas de trabajo que, en el ejercicio de sus funciones, realice el organismo acreditado a los países de origen de las personas menores de edad donde estuviera acreditado.
 
-BOCM
+personal 1. Los organismos acreditados se someterán a lo establecido en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, en cuanto a la utilización y cesión de datos de los usuarios, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. 2. Una vez haya concluido la tramitación de un expediente y, en su caso, el seguimiento comprometido, los organismos acreditados remitirán al centro directivo competente la documentación completa de cada expediente en el plazo máximo de tres meses. 3. Sin perjuicio de los deberes y obligaciones que asumen los organismos acreditados en su condición de responsables de los tratamientos de datos personales que deban realizar como consecuencia de sus actividades, se informa que los datos personales facilitados por tales organismos se integrarán en el tratamiento de datos personales "Adopciones". 4. El tratamiento de los datos personales es necesario para gestionar las adopciones nacionales e internacionales para salvaguardar los derechos de las personas menores de edad y de los mayores de edad para el ejercicio de su derecho a conocer los datos que sobre sus orígenes obren en poder de las Entidades Públicas, según lo establecido en el artículo 12 de la LAI. En cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento, el centro directivo competente sobre la protección de menores, actualmente la Dirección General de Infancia, Familia y Fomento de la Natalidad, sita en calle C/ Manuel de Falla, 7, Madrid, pudiendo consultar más información al respecto en https://www.comunidad.madrid/gobierno/informacion-juridicalegislacion/proteccion-datos . 5. Los datos serán comunicados, en su caso, a la Administración Pública y familias interesadas, los datos se mantendrán durante el tiempo que sea necesario para cumplir con la finalidad para la que se recabaron, así como el período en el que pudieran derivarse responsabilidades jurídicas. Asimismo, deberán conservarse durante los periodos establecidos en la normativa de archivos y patrimonio documental de la Comunidad de Madrid. 6. Puede contactar con el delegado de protección de datos en protecciondatospsociales@madrid.org , o bien en la dirección postal C/ O'Donnell 50, Madrid. El ejercicio de los derechos de acceso, rectificación, en su caso supresión y los demás que le otorga la normativa vigente requerirán una solicitud firmada dirigida al Responsable, "Ejercicio de derechos en materia de protección de datos personales" por cualquier medio admitido en derecho donde conste copia de DNI/NIE/equivalente o consintiendo su consulta.
 
-#### Artículo 31
-Confidencialidad y custodia de los expedientes. Protección de datos de carácter
+#### Artículo 32. Normas de actuación del personal del Organismo Acreditado.
 
-personal
-1.
-Los organismos acreditados se someterán a lo establecido en el Reglamento
-(UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la
-protección de las personas físicas en lo que respecta al tratamiento de datos personales y a
-la libre circulación de estos datos, en cuanto a la utilización y cesión de datos de los usuarios, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y
-garantía de los derechos digitales.
-2.
-Una vez haya concluido la tramitación de un expediente y, en su caso, el seguimiento comprometido, los organismos acreditados remitirán al centro directivo competente la documentación completa de cada expediente en el plazo máximo de tres meses.
-3.
-Sin perjuicio de los deberes y obligaciones que asumen los organismos acreditados en su condición de responsables de los tratamientos de datos personales que deban realizar como consecuencia de sus actividades, se informa que los datos personales facilitados
-por tales organismos se integrarán en el tratamiento de datos personales “Adopciones”.
-4.
-El tratamiento de los datos personales es necesario para gestionar las adopciones
-nacionales e internacionales para salvaguardar los derechos de las personas menores de edad
-y de los mayores de edad para el ejercicio de su derecho a conocer los datos que sobre sus
-orígenes obren en poder de las Entidades Públicas, según lo establecido en el artículo 12 de
-la LAI. En cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento, el centro directivo competente sobre la protección de menores, actualmente la Dirección General de Infancia, Familia y Fomento de la Natalidad, sita en calle C/ Manuel de Falla, 7, Madrid, pudiendo consultar más
-información al respecto en https://www.comunidad.madrid/gobierno/informacion-juridicalegislacion/proteccion-datos .
-5.
-Los datos serán comunicados, en su caso, a la Administración Pública y familias
-interesadas, los datos se mantendrán durante el tiempo que sea necesario para cumplir con
-la finalidad para la que se recabaron, así como el período en el que pudieran derivarse responsabilidades jurídicas. Asimismo, deberán conservarse durante los periodos establecidos
-en la normativa de archivos y patrimonio documental de la Comunidad de Madrid.
-6.
-Puede contactar con el delegado de protección de datos en protecciondatospsociales@madrid.org , o bien en la dirección postal C/ O’Donnell 50, Madrid. El ejercicio de los
-derechos de acceso, rectificación, en su caso supresión y los demás que le otorga la normativa vigente requerirán una solicitud firmada dirigida al Responsable, “Ejercicio de derechos en materia de protección de datos personales” por cualquier medio admitido en derecho donde conste copia de DNI/NIE/equivalente o consintiendo su consulta.
+1. Las personas que formen parte del equipo profesional de un organismo acreditado estarán sujetas al siguiente régimen de actuación:
+a) Estarán obligadas a guardar secreto de la información a que tengan acceso sobre adoptantes y adoptados, con la excepción de lo mencionado en el apartado d) del presente artículo. b) No podrán simultanear su actividad en el organismo con otra en el sector público que tenga relación con la protección de menores o la adopción, ni en otro organismo acreditado. c) No podrán intervenir en las funciones de intermediación de adopción internacional cuando concurran las siguientes circunstancias:
+1.o Tener interés personal en el asunto tratado, o en otro asunto que pueda influir en la resolución del primero. 2.o Tener cuestión litigiosa pendiente con algún interesado. 3.o Tener parentesco de consanguinidad hasta el cuarto grado o afinidad hasta el
+segundo grado, con cualquiera de los empleados públicos o autoridades que intervengan en el proceso de mediación, ya sea en la Comunidad de Madrid o en el país extranjero.
 
-#### Artículo 32
-Normas de actuación del personal del Organismo Acreditado
+4.o Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior. 5.o Haber intervenido como perito o testigo en el proceso en cuestión. d) Estarán obligados a informar a la autoridad que acreditó en su día la idoneidad de las personas que se ofrecieron para adoptar, todos aquellos datos o acontecimientos que conocieran a través de su labor de mediación y que modifiquen las circunstancias familiares en las que se emitió la declaración de idoneidad. 2. Los miembros de los órganos directivos no podrán percibir remuneración alguna por su actividad, salvo que se trate de personal técnico del organismo acreditado, en cuyo caso podrá percibir una retribución o salario por la actividad técnica que desarrolle. Asimismo, los miembros de los órganos directivos no podrán simultanear su actividad con el ejercicio de otra actividad en el sector público relativa a la protección de la infancia, con independencia del régimen de incompatibilidad aplicable al personal de las Administraciones públicas.
+
+#### Artículo 33. El representante en el país de origen.
+
+1. El representante del organismo acreditado deberá cumplir los siguientes requisitos:
+a) **Será una persona física.** Excepcionalmente, cuando así lo exija la legislación del país, podrá ser una persona jurídica que, en todo caso, deberá estar autorizada para trabajar en adopción internacional por la autoridad competente en el país de origen. En el caso de estados de estructura político-administrativa descentralizada podrá existir más de un representante. b) Deberá tener su residencia en el país de origen donde vaya a desarrollar su actividad, debiendo indicarse la zona o zonas del país donde fuera a realizar sus funciones. c) Deberá ser un profesional con experiencia en el ámbito de la infancia y la familia y disponer, tanto de conocimientos generales sobre la situación política, económica y social del país, como de conocimientos específicos sobre las políticas de la infancia y la familia en el país en el que se va a desarrollar la actividad, los sistemas de protección de los menores de edad, la legislación aplicable y los procedimientos de adopción. d) No podrá estar vinculado ni profesional ni personalmente a la administración, ni a las instituciones públicas o privadas de protección de menores, ni podrá tener intervención en los procedimientos conducentes a la previa declaración de adoptabilidad de los menores de edad en dicho país. e) Estará vinculado al organismo acreditado mediante contrato laboral o mercantil que deberá aportarse en cuanto se suscriba por las partes al centro directivo competente. Asimismo, percibirá una retribución adecuada a las tareas que desempeñe y a las circunstancias económicas del país de origen, que no dependerá de la culminación de la adopción. 2. El organismo acreditado responde de los actos realizados por el representante en su nombre, que estarán sometidos a la supervisión del centro directivo competente. Estos profesionales deberán ser evaluados por la Administración General del Estado, previa información de las Entidades Públicas. Los representantes actuarán, durante todo el proceso de adopción, conforme a:
+a) Las normas internacionales sobre protección de los menores de edad, el ordenamiento jurídico español y la legislación de su país de origen. b) Los principios de buena fe, confianza legítima, transparencia, y respeto del interés superior de la persona menor de edad, impidiendo beneficios financieros distintos de aquellos que fueran precisos para cubrir estrictamente los costes necesarios de la intermediación, así como toda práctica contraria a los principios del Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en La Haya el 29 de mayo de 1993, y ratificado por España el 30 de junio de 1995.
+
+1. El organismo acreditado no podrá admitir a trámite nueva solicitud de aquellas personas que ya tengan en trámite una solicitud anterior de adopción internacional en ese, otro organismo acreditado o directamente a través de la Entidad Pública. 2. El organismo acreditado no podrá tramitar un mismo procedimiento de adopción en varios países a la vez. Iniciados los trámites de una solicitud, será necesario finalizar o cancelar ese procedimiento para poder iniciar una nueva tramitación en el mismo u otro país. 3. No obstante lo dispuesto en los dos apartados anteriores, cuando por acuerdo del organismo competente de la Administración General del Estado, en un país se paralice la tramitación de todos los expedientes de adopción internacional ya iniciados sin que pueda preverse su reanudación, el centro directivo competente, previo acuerdo de la Comisión de Tutela del Menor, podrá autorizar a los titulares de los mismos a tramitar un segundo expediente en un país distinto. En caso de producirse una reanudación de los expedientes paralizados, deberán optar por uno de los dos abiertos y desistir del otro. 4. Las solicitudes de adopción que se tramiten a través del organismo acreditado deberán estar referidas a los menores de edad susceptibles de adopción del país o países para los que haya sido acreditada. 5. El organismo acreditado no podrá aceptar nuevos expedientes para su tramitación cuando haya alcanzado el número máximo de expedientes en tramitación, aprobado anualmente por el organismo competente de la Administración General del Estado, y objeto de distribución, de acuerdo con el artículo 11 l.
+
+RAI. Asimismo, deberá informar de esta circunstancia a las personas que se ofrecen para la adopción interesadas en contratar sus servicios de mediación para la adopción internacional.
+
+## Capítulo VI. Régimen económico y financiero.
+
+#### Artículo 35. Ingresos.
+
+Los ingresos del organismo acreditado recibidos de las personas que se ofrecen para la adopción según el coste total autorizado y los que pudieran recibirse de la asociación o fundación que la sustenta no serán superiores a los costes y gastos reales previstos en el proyecto presentado para la acreditación para el tiempo estimado para la tramitación de la adopción en el país de origen y justificados en las memorias anuales. En cualquier caso, no se podrán aceptar donaciones procedentes de personas que hayan realizado una adopción internacional en los dos años anteriores, la estén tramitando o vayan a hacerlo.
+
+#### Artículo 36. Remuneración económica.
+
+1. Los organismos acreditados percibirán una remuneración económica periódica por parte de las personas que se ofrecen para la adopción durante el periodo de vigencia del contrato que se suscriba con ellas, para hacer frente a los costes indirectos, es decir, costes de mantenimiento, seguros, infraestructura, personal de la entidad y gastos generales. Se incluirá la retribución del representante en el país de origen cuando sea fija y periódica en su devengo, con independencia de los expedientes en que intervenga. La cuantía de dicha remuneración podrá ser variable y será revisable en los términos previstos en el contrato firmado entre las personas que se ofrecen para la adopción y el organismo acreditado, de acuerdo con el modelo básico de contrato homologado. 2. No podrán imputarse al organismo acreditado otros gastos de la entidad sin ánimo de lucro que la sustenta jurídicamente. 3. La remuneración percibida por el organismo será la autorizada por el centro directivo competente al acreditarlo, sin perjuicio de las posibles revisiones contempladas en el artículo 39 2. BOCM
+
+#### Artículo 37. Gastos directos
 
 1.
-Las personas que formen parte del equipo profesional de un organismo acreditado estarán sujetas al siguiente régimen de actuación:
-a)
-Estarán obligadas a guardar secreto de la información a que tengan acceso sobre
-adoptantes y adoptados, con la excepción de lo mencionado en el apartado d) del
-presente artículo.
-b)
-No podrán simultanear su actividad en el organismo con otra en el sector público
-que tenga relación con la protección de menores o la adopción, ni en otro organismo acreditado.
-c)
-No podrán intervenir en las funciones de intermediación de adopción internacional cuando concurran las siguientes circunstancias:
-1.o Tener interés personal en el asunto tratado, o en otro asunto que pueda influir
-en la resolución del primero.
-2.o Tener cuestión litigiosa pendiente con algún interesado.
-3.o Tener parentesco de consanguinidad hasta el cuarto grado o afinidad hasta el
-segundo grado, con cualquiera de los empleados públicos o autoridades que
-intervengan en el proceso de mediación, ya sea en la Comunidad de Madrid
-o en el país extranjero.
 
-BOCM
-4.o Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior.
-5.o Haber intervenido como perito o testigo en el proceso en cuestión.
-d)
-Estarán obligados a informar a la autoridad que acreditó en su día la idoneidad de
-las personas que se ofrecieron para adoptar, todos aquellos datos o acontecimientos que conocieran a través de su labor de mediación y que modifiquen las circunstancias familiares en las que se emitió la declaración de idoneidad.
-2.
-Los miembros de los órganos directivos no podrán percibir remuneración alguna
-por su actividad, salvo que se trate de personal técnico del organismo acreditado, en cuyo
-caso podrá percibir una retribución o salario por la actividad técnica que desarrolle. Asimismo, los miembros de los órganos directivos no podrán simultanear su actividad con el ejercicio de otra actividad en el sector público relativa a la protección de la infancia, con independencia del régimen de incompatibilidad aplicable al personal de las Administraciones
-públicas.
+El organismo acreditado repercutirá a las personas que se ofrezcan para adoptar, para hacer frente a los gastos derivados de la gestión específica de su expediente, los costes reales por los siguientes conceptos:
+a) Por la obtención, traducción, legalización, autenticación de documentos y gestiones similares realizadas tanto en España como en el extranjero. b) Por los honorarios profesionales o costes satisfechos a personas físicas o jurídicas externas al organismo acreditado por servicios facturados (mensajería, abogados, notarios, intérpretes…). Los costes satisfechos al representante en el país de origen únicamente tendrán este carácter cuando su vinculación con el organismo sea mediante un contrato de prestación de servicios en el que la retribución se fije en función de cada expediente en que intervenga. c) Por las tasas o tarifas oficiales exigidos por las autoridades del país, en los casos en que así sea. d) Por los gastos de manutención de la persona menor de edad, en los países cuya legislación así lo requiera, no pudiendo ser anteriores a la fecha en la que el adoptante aceptó la preasignación del menor. e) Por los costes por la realización de revisiones, pruebas e informes médicos de las personas menores de edad asignados en sus países de origen. f) Por los costes por la realización, elaboración, traducción, en su caso, legalización y envío al país de origen de los informes de seguimiento postadoptivos. 2. Para la satisfacción de estos gastos, las personas que se ofrecen para la adopción efectuarán una provisión de fondos, según las condiciones y términos establecidos en el contrato. Todos los pagos de los costes autorizados en la tarifa aprobada, tanto si se producen en España como en el país de origen, serán realizados por el organismo acreditado. La justificación de los costes tanto en España como en el en el país de origen vendrá acompañada de la traducción de los documentos y facturas justificativas.
 
-#### Artículo 33
-El representante en el país de origen
+#### Artículo 38. Donaciones humanitarias.
 
-1.
-El representante del organismo acreditado deberá cumplir los siguientes requisitos:
-a)
-Será una persona física. Excepcionalmente, cuando así lo exija la legislación del
-país, podrá ser una persona jurídica que, en todo caso, deberá estar autorizada para
-trabajar en adopción internacional por la autoridad competente en el país de origen. En el caso de estados de estructura político-administrativa descentralizada
-podrá existir más de un representante.
-b)
-Deberá tener su residencia en el país de origen donde vaya a desarrollar su actividad,
-debiendo indicarse la zona o zonas del país donde fuera a realizar sus funciones.
-c)
-Deberá ser un profesional con experiencia en el ámbito de la infancia y la familia
-y disponer, tanto de conocimientos generales sobre la situación política, económica y social del país, como de conocimientos específicos sobre las políticas de la
-infancia y la familia en el país en el que se va a desarrollar la actividad, los sistemas de protección de los menores de edad, la legislación aplicable y los procedimientos de adopción.
-d)
-No podrá estar vinculado ni profesional ni personalmente a la administración, ni a
-las instituciones públicas o privadas de protección de menores, ni podrá tener intervención en los procedimientos conducentes a la previa declaración de adoptabilidad de los menores de edad en dicho país.
-e)
-Estará vinculado al organismo acreditado mediante contrato laboral o mercantil
-que deberá aportarse en cuanto se suscriba por las partes al centro directivo competente. Asimismo, percibirá una retribución adecuada a las tareas que desempeñe y a las circunstancias económicas del país de origen, que no dependerá de la
-culminación de la adopción.
-2.
-El organismo acreditado responde de los actos realizados por el representante en
-su nombre, que estarán sometidos a la supervisión del centro directivo competente. Estos
-profesionales deberán ser evaluados por la Administración General del Estado, previa información de las Entidades Públicas.
-Los representantes actuarán, durante todo el proceso de adopción, conforme a:
-a)
-Las normas internacionales sobre protección de los menores de edad, el ordenamiento jurídico español y la legislación de su país de origen.
-b)
-Los principios de buena fe, confianza legítima, transparencia, y respeto del interés
-superior de la persona menor de edad, impidiendo beneficios financieros distintos
-de aquellos que fueran precisos para cubrir estrictamente los costes necesarios de
-la intermediación, así como toda práctica contraria a los principios del Convenio
-relativo a la protección del niño y a la cooperación en materia de adopción internacional, hecho en La Haya el 29 de mayo de 1993, y ratificado por España el 30
-de junio de 1995.
+En los países en que las instituciones donde residen las personas menores de edad dependen de las donaciones de los adoptantes, tras la consulta a la Autoridad Central del país respecto a cantidades y condiciones de estas donaciones, si queda probado que no contravienen los principios que regulan la adopción internacional, se autorizará la inclusión de este donativo entre el cálculo de costes de la adopción y será abonado como los restantes gastos directos por el organismo acreditado, con justificación posterior que acredite la transferencia realizada en la cuenta de la institución correspondiente.
 
-BOCM
+#### Artículo 39. Autorización de costes.
 
-#### Artículo 34
-Limitaciones en la tramitación de expedientes
+1. En virtud del estudio económico requerido en el artículo 8.2, el centro directivo competente al acreditar a la entidad autorizará un coste para la tramitación en cada uno de los países para los que fuera acreditada, distinguiendo las cantidades que correspondan a la remuneración de la entidad, los gastos directos, el coste de los informes de seguimiento y, en su caso, las donaciones reguladas en el artículo 38. 2. En caso necesario, podrá solicitarse la modificación del coste total autorizado si se produjeran causas justificadas, o solicitarse su revisión anual según el Índice de Precios al Consumo que publique el Instituto Nacional de Estadística. En ningún caso podrá ser objeto de una modificación unilateral por parte de la entidad:
+a) La variación en menos de un 15 por ciento de los costes indirectos, podrá ser realizada por el organismo acreditado, siempre que se justifique debidamente y se autorice por el centro directivo competente. b) La variación en más de un 15 por ciento de los costes indirectos que constan y/o la revisión de cualquiera de las condiciones económicas recogidas en el contrato hoBOCM mologado (periodo, fórmula y periodicidad del pago), que deberá justificarse debidamente, requerirá una nueva resolución que, si no existen otras modificaciones, se limitará a la aprobación del nuevo presupuesto de costes. Sin perjuicio de lo anterior, el centro directivo competente podrá comprobar a través de los medios oportunos, el importe de los costes indirectos y/o cualquiera de las condiciones económicas autorizadas, cuando existan circunstancias que así lo justifiquen. Los porcentajes de la provisión de fondos para afrontar los costes directos en España y/o en el país de origen autorizados, podrán variarse cuando surjan necesidades extraordinarias que así lo justifiquen, siempre que se justifique y se notifique debidamente al centro directivo competente y ésta lo autorice. 3. Para evitar la desproporción en cuanto a las retribuciones y los honorarios del personal del organismo, se tomarán como referencia la estructura y los niveles retributivos establecidos en la Resolución de 4 de febrero de 2021, de la Dirección General de Trabajo, por la que se registra y publica el IV Convenio colectivo estatal de reforma juvenil y protección de menores.
 
-1.
-El organismo acreditado no podrá admitir a trámite nueva solicitud de aquellas
-personas que ya tengan en trámite una solicitud anterior de adopción internacional en ese,
-otro organismo acreditado o directamente a través de la Entidad Pública.
-2.
-El organismo acreditado no podrá tramitar un mismo procedimiento de adopción
-en varios países a la vez. Iniciados los trámites de una solicitud, será necesario finalizar o
-cancelar ese procedimiento para poder iniciar una nueva tramitación en el mismo u otro
-país.
-3.
-No obstante lo dispuesto en los dos apartados anteriores, cuando por acuerdo del
-organismo competente de la Administración General del Estado, en un país se paralice la
-tramitación de todos los expedientes de adopción internacional ya iniciados sin que pueda
-preverse su reanudación, el centro directivo competente, previo acuerdo de la Comisión de
-Tutela del Menor, podrá autorizar a los titulares de los mismos a tramitar un segundo expediente en un país distinto. En caso de producirse una reanudación de los expedientes paralizados, deberán optar por uno de los dos abiertos y desistir del otro.
-4.
-Las solicitudes de adopción que se tramiten a través del organismo acreditado deberán estar referidas a los menores de edad susceptibles de adopción del país o países para
-los que haya sido acreditada.
-5.
-El organismo acreditado no podrá aceptar nuevos expedientes para su tramitación
-cuando haya alcanzado el número máximo de expedientes en tramitación, aprobado anualmente por el organismo competente de la Administración General del Estado, y objeto de
-distribución, de acuerdo con el artículo 11 del RAI. Asimismo, deberá informar de esta circunstancia a las personas que se ofrecen para la adopción interesadas en contratar sus servicios de mediación para la adopción internacional.
+#### Artículo 40. Periodo, fórmula y periodicidad de los pagos.
 
-### Capítulo VI
+1. Costes indirectos en España y en el país de origen:
+a) **Periodo de pago.** En la Resolución de acreditación se establecerá un tiempo estimado en meses para la tramitación de la adopción en el país para el que el organismo solicitó la acreditación. Durante ese tiempo, o hasta el momento en que se lleve a cabo la adopción, si ésta se produce antes, las personas que se ofrezcan para adoptar deberán abonar una cuota periódica, en los términos y condiciones que se determinan en los apartados siguientes. Si transcurrido el tiempo estimado para la tramitación de la adopción, no ha finalizado el proceso, el pago de cuotas podrá prorrogarse por un período máximo de 12 meses adicionales o bien hasta el momento en que se lleve a cabo la adopción, si ésta se produce antes. b) Fórmula de pago. 1.o Durante los primeros 12 meses:
+En el momento de la firma del contrato, la familia abonará el tanto por ciento que se determine en la Resolución de acreditación del total de los costes indirectos correspondientes a su expediente en España y el tanto por ciento del total de los costes indirectos correspondientes al país de origen, calculados para un año, que figuren en el presupuesto desglosado aportado. A partir del siguiente mes completo que transcurra desde la firma del contrato, la familia abonará el tanto por ciento restante de los costes indirectos previstos en España y el tanto por ciento restante de los previstos en el país de origen. 2.o Durante los siguientes meses restantes para alcanzar el tiempo estimado de tramitación:
+El 100 por 100 de los costes indirectos computados para un año, tanto en España como en el país de origen, se dividirá entre 12. El resultado se multiplicará por el número de meses que resten para finalizar el período estimado de tramitación. 3.o Durante el período de prórroga, en su caso:
+La cuota calculada conforme al apartado anterior se mantendrá durante el periodo de prórroga aplicado. c) Periodicidad de pago. En la Resolución de acreditación se determinará la periodicidad y el carácter en el pago de las cuotas previstas a lo largo del período de pago. d) Otras consideraciones. La cuota calculada se mantendrá fija, salvo situaciones justificadas previstas en el artículo 39 2. La cantidad total entregada estará sujeta a liquidación conforme a lo establecido en el contrato homologado.
 
-Régimen económico y financiero
+2. Costes directos en España:
+a) Se abonarán mediante una provisión de fondos, el tanto por ciento que se determine en la Resolución de acreditación de los costes directos previstos en España en el momento de la firma del contrato y el tanto por ciento que se determine al presentarse la asignación del niño o niña y ser aceptada por la familia y el centro directivo competente. b) Las cantidades entregadas estarán sujetas a liquidación al finalizar la vigencia del contrato o en el momento de su extinción, conforme a lo establecido en la cláusula correspondiente del contrato homologado. 3. Costes directos en el país de origen:
+a) Se satisfarán mediante la constitución anticipada de la correspondiente provisión de fondos, abonando el tanto por ciento que se determine en la Resolución de acreditación de los costes directos previstos en el país de origen en el momento de la firma del contrato y el tanto por ciento que se determine antes de viajar a éste para recoger a la persona menor de edad asignada. b) Las cantidades entregadas estarán sujetas a liquidación al finalizar la vigencia del presente contrato o en el momento de su extinción, conforme a lo establecido en la cláusula correspondiente del contrato homologado. 4. Costes relativos a los seguimientos postadoptivos:
+Se abonarán de forma anticipada, durante los 5 primeros días del mes anterior al que corresponda su realización, de acuerdo con la tarifa que consta en el presupuesto desglosado autorizado, con la duración y periodicidad establecida por el país de origen. 5. Costes de financiación de los proyectos de cooperación, en su caso:
+En el caso de que el organismo acreditado lleve a cabo algún proyecto de cooperación en el país de origen, podrá repercutir una parte de su financiación a la familia. En este caso, se abonará la parte correspondiente de acuerdo con la tarifa que consta en el presupuesto desglosado autorizado.
 
-#### Artículo 35
-Ingresos
+#### Artículo 41. Publicidad de los costes.
 
-Los ingresos del organismo acreditado recibidos de las personas que se ofrecen para la
-adopción según el coste total autorizado y los que pudieran recibirse de la asociación o fundación que la sustenta no serán superiores a los costes y gastos reales previstos en el proyecto presentado para la acreditación para el tiempo estimado para la tramitación de la
-adopción en el país de origen y justificados en las memorias anuales. En cualquier caso, no
-se podrán aceptar donaciones procedentes de personas que hayan realizado una adopción
-internacional en los dos años anteriores, la estén tramitando o vayan a hacerlo.
+Los costes de la tramitación, el presupuesto desglosado y las condiciones económicas y de pago autorizados por el centro directivo competente serán publicados en la página web del organismo acreditado. Asimismo, se facilitará una copia del documento en el que consten dichos extremos a quienes lo soliciten.
 
-#### Artículo 36
-Remuneración económica
+#### Artículo 42. Contrato.
 
-1.
-Los organismos acreditados percibirán una remuneración económica periódica
-por parte de las personas que se ofrecen para la adopción durante el periodo de vigencia del
-contrato que se suscriba con ellas, para hacer frente a los costes indirectos, es decir, costes
-de mantenimiento, seguros, infraestructura, personal de la entidad y gastos generales. Se incluirá la retribución del representante en el país de origen cuando sea fija y periódica en su
-devengo, con independencia de los expedientes en que intervenga.
-La cuantía de dicha remuneración podrá ser variable y será revisable en los términos
-previstos en el contrato firmado entre las personas que se ofrecen para la adopción y el organismo acreditado, de acuerdo con el modelo básico de contrato homologado.
-2.
-No podrán imputarse al organismo acreditado otros gastos de la entidad sin ánimo
-de lucro que la sustenta jurídicamente.
-3.
-La remuneración percibida por el organismo será la autorizada por el centro directivo competente al acreditarlo, sin perjuicio de las posibles revisiones contempladas en el
+1. El organismo acreditado y las personas que se ofrecen para la adopción firmarán un contrato de intermediación una vez éstos hayan obtenido la preceptiva declaración de idoneidad. 2. Este contrato contendrá las cláusulas, los anexos, los costes para la tramitación y las cuestiones específicas y particulares que se especifiquen en el modelo de contrato homologado aprobado por el organismo competente conforme a la normativa estatal. 3. En el plazo de quince días desde la entrega por el centro directivo competente al organismo acreditado de la documentación de las personas que se ofrecen para la adopción, ésta deberá remitir copia del contrato firmado o, en su caso, devolver la documentación adjuntando un informe explicativo de las razones por las que no se ha firmado.
 
-#### artículo 39.2.
+#### Artículo 43. Cuenta corriente.
 
-BOCM
+Todos los pagos que deban realizar las personas que se ofrecen para la adopción serán ingresados por éstos en la cuenta corriente que se determine en el contrato, desde la que, en su caso, se realizarán los pagos que procedan o las oportunas transferencias bancarias. En el caso de costes directos que deban satisfacerse en moneda extranjera, la justificación posterior precisará la fecha y el tipo de cambio al que se realizó, salvo que la entidad disponga de una cuenta corriente en divisa extranjera para el pago de estos costes directos.
 
-#### Artículo 37
-Gastos directos
+Los organismos acreditados deberán llevar una contabilidad de acuerdo con lo que se establezca en el plan de contabilidad para las entidades sin fines lucrativos. En todo caso, la contabilidad permitirá el seguimiento individualizado de los fondos entregados por las personas que se ofrecen para la adopción. Asimismo, los ingresos plurianuales deberán contabilizarse en función de la duración prevista del expediente en cada país, teniendo en cuenta el principio contable de prudencia.
 
-1.
-El organismo acreditado repercutirá a las personas que se ofrezcan para adoptar,
-para hacer frente a los gastos derivados de la gestión específica de su expediente, los costes reales por los siguientes conceptos:
-a)
-Por la obtención, traducción, legalización, autenticación de documentos y gestiones similares realizadas tanto en España como en el extranjero.
-b)
-Por los honorarios profesionales o costes satisfechos a personas físicas o jurídicas
-externas al organismo acreditado por servicios facturados (mensajería, abogados,
-notarios, intérpretes…). Los costes satisfechos al representante en el país de origen únicamente tendrán este carácter cuando su vinculación con el organismo sea
-mediante un contrato de prestación de servicios en el que la retribución se fije en
-función de cada expediente en que intervenga.
-c)
-Por las tasas o tarifas oficiales exigidos por las autoridades del país, en los casos en
-que así sea.
-d)
-Por los gastos de manutención de la persona menor de edad, en los países cuya legislación así lo requiera, no pudiendo ser anteriores a la fecha en la que el adoptante aceptó la preasignación del menor.
-e)
-Por los costes por la realización de revisiones, pruebas e informes médicos de las
-personas menores de edad asignados en sus países de origen.
-f)
-Por los costes por la realización, elaboración, traducción, en su caso, legalización
-y envío al país de origen de los informes de seguimiento postadoptivos.
-2.
-Para la satisfacción de estos gastos, las personas que se ofrecen para la adopción
-efectuarán una provisión de fondos, según las condiciones y términos establecidos en el
-contrato. Todos los pagos de los costes autorizados en la tarifa aprobada, tanto si se producen en España como en el país de origen, serán realizados por el organismo acreditado. La
-justificación de los costes tanto en España como en el en el país de origen vendrá acompañada de la traducción de los documentos y facturas justificativas.
+## Capítulo VII. Reclamaciones contra la actuación de los organismos acreditados y régimen sancionador.
 
-#### Artículo 38
-Donaciones humanitarias
+#### Artículo 45. Reclamaciones.
 
-En los países en que las instituciones donde residen las personas menores de edad dependen de las donaciones de los adoptantes, tras la consulta a la Autoridad Central del país
-respecto a cantidades y condiciones de estas donaciones, si queda probado que no contravienen los principios que regulan la adopción internacional, se autorizará la inclusión de
-este donativo entre el cálculo de costes de la adopción y será abonado como los restantes
-gastos directos por el organismo acreditado, con justificación posterior que acredite la
-transferencia realizada en la cuenta de la institución correspondiente.
+1. Las reclamaciones o incidencias que formulen los usuarios de los organismos acreditados en relación con los servicios prestados podrán presentarse directamente ante el centro directivo competente o ante los organismos acreditados, acompañadas de la documentación acreditativa de los hechos que se exponen. Se presentarán preferentemente por medios electrónicos, ante el centro directivo competente y en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre. Los organismos acreditados deberán remitir al centro directivo competente las reclamaciones o incidencias que les presenten en el plazo de diez días a partir de su presentación. 2. Si de la reclamación o incidencia se deduce un posible incumplimiento de las obligaciones inherentes a la acreditación establecidas en este Decreto que pueda comportar su revocación, según lo establecido en el artículo 21, o una posible infracción administrativa sancionable, el centro directivo competente iniciará la tramitación del correspondiente expediente, siguiendo el procedimiento legalmente establecido para cada caso. Con anterioridad al acuerdo de iniciación del procedimiento, el centro directivo competente podrá abrir un período de información previa con la finalidad de conocer las circunstancias del caso. 3. Las hojas de reclamaciones e incidencias estarán disponibles en la página web correspondiente de la Comunidad de Madrid. Todos los organismos acreditados tendrán a disposición de los usuarios hojas de reclamaciones e incidencias, ajustadas al modelo que se establezca por el centro directivo competente, y estarán obligados a exhibirlas al público en lugar visible y en su página web.
 
-#### Artículo 39
-Autorización de costes
+#### Artículo 46. Régimen sancionador.
 
-1.
-En virtud del estudio económico requerido en el artículo 8.2, el centro directivo
-competente al acreditar a la entidad autorizará un coste para la tramitación en cada uno de
-los países para los que fuera acreditada, distinguiendo las cantidades que correspondan a la
-remuneración de la entidad, los gastos directos, el coste de los informes de seguimiento y,
-en su caso, las donaciones reguladas en el artículo 38.
-2.
-En caso necesario, podrá solicitarse la modificación del coste total autorizado si
-se produjeran causas justificadas, o solicitarse su revisión anual según el Índice de Precios
-al Consumo que publique el Instituto Nacional de Estadística. En ningún caso podrá ser objeto de una modificación unilateral por parte de la entidad:
-a)
-La variación en menos de un 15 por ciento de los costes indirectos, podrá ser realizada por el organismo acreditado, siempre que se justifique debidamente y se autorice por el centro directivo competente.
-b)
-La variación en más de un 15 por ciento de los costes indirectos que constan y/o la
-revisión de cualquiera de las condiciones económicas recogidas en el contrato ho-
+El régimen sancionador aplicable será el establecido en el Título VI de la Ley 6/1995, de 28 de marzo, de Garantías de los derechos de la Infancia y Adolescencia de la Comunidad de Madrid en el Capítulo IV de la Ley 11/2002, de 18 de diciembre, de Ordenación de la Actividad de los Centros y Servicios de Acción Social y de Mejora de la Calidad en la Prestación de Servicios Sociales de la Comunidad de Madrid, y en el Decreto 245/2000, de 16 de noviembre, por el que se aprueba el Reglamento para el Ejercicio de la Potestad Sancionadora por la Administración de la Comunidad de Madrid con las siguientes especialidades:
+a) La incoación y tramitación de los expedientes sancionadores que se deriven de la comisión de cualquier tipo de infracción corresponderá al centro directivo competente b) La infracción muy grave o la reincidencia en infracciones graves constituirá motivo suficiente para no prorrogar la acreditación de los organismos.
 
-BOCM
-mologado (periodo, fórmula y periodicidad del pago), que deberá justificarse debidamente, requerirá una nueva resolución que, si no existen otras modificaciones,
-se limitará a la aprobación del nuevo presupuesto de costes.
-Sin perjuicio de lo anterior, el centro directivo competente podrá comprobar a través
-de los medios oportunos, el importe de los costes indirectos y/o cualquiera de las condiciones económicas autorizadas, cuando existan circunstancias que así lo justifiquen.
-Los porcentajes de la provisión de fondos para afrontar los costes directos en España
-y/o en el país de origen autorizados, podrán variarse cuando surjan necesidades extraordinarias que así lo justifiquen, siempre que se justifique y se notifique debidamente al centro
-directivo competente y ésta lo autorice.
-3.
-Para evitar la desproporción en cuanto a las retribuciones y los honorarios del personal del organismo, se tomarán como referencia la estructura y los niveles retributivos establecidos en la Resolución de 4 de febrero de 2021, de la Dirección General de Trabajo,
-por la que se registra y publica el IV Convenio colectivo estatal de reforma juvenil y protección de menores.
+http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791
 
-#### Artículo 40
-Periodo, fórmula y periodicidad de los pagos
+#### Disposición transitoria primera.
 
-1.
-Costes indirectos en España y en el país de origen:
-a)
-Periodo de pago.
-En la Resolución de acreditación se establecerá un tiempo estimado en meses para
-la tramitación de la adopción en el país para el que el organismo solicitó la acreditación. Durante ese tiempo, o hasta el momento en que se lleve a cabo la adopción, si ésta se produce antes, las personas que se ofrezcan para adoptar deberán
-abonar una cuota periódica, en los términos y condiciones que se determinan en
-los apartados siguientes.
-Si transcurrido el tiempo estimado para la tramitación de la adopción, no ha finalizado el proceso, el pago de cuotas podrá prorrogarse por un período máximo de
-12 meses adicionales o bien hasta el momento en que se lleve a cabo la adopción,
-si ésta se produce antes.
-b)
-Fórmula de pago.
-1.o Durante los primeros 12 meses:
-En el momento de la firma del contrato, la familia abonará el tanto por ciento
-que se determine en la Resolución de acreditación del total de los costes indirectos correspondientes a su expediente en España y el tanto por ciento del total de los costes indirectos correspondientes al país de origen, calculados para
-un año, que figuren en el presupuesto desglosado aportado.
-A partir del siguiente mes completo que transcurra desde la firma del contrato, la familia abonará el tanto por ciento restante de los costes indirectos previstos en España y el tanto por ciento restante de los previstos en el país de
-origen.
-2.o Durante los siguientes meses restantes para alcanzar el tiempo estimado de
-tramitación:
-El 100 por 100 de los costes indirectos computados para un año, tanto en España como en el país de origen, se dividirá entre 12. El resultado se multiplicará por el número de meses que resten para finalizar el período estimado de
-tramitación.
-3.o Durante el período de prórroga, en su caso:
-La cuota calculada conforme al apartado anterior se mantendrá durante el periodo de prórroga aplicado.
-c)
-Periodicidad de pago.
-En la Resolución de acreditación se determinará la periodicidad y el carácter en el
-pago de las cuotas previstas a lo largo del período de pago.
-d)
-Otras consideraciones.
-La cuota calculada se mantendrá fija, salvo situaciones justificadas previstas en el
+Procedimiento de acreditación para los organismos ya acreditados por la Administración General del Estado y la Comunidad de Madrid Para poder intermediar en la tramitación de nuevos expedientes de adopción internacional en un país de origen, región o estado del mismo, los organismos que ya estuvieran acreditados por la Administración General del Estado o el centro directivo competente en materia de protección de menores de esta administración en el momento de la entrada en vigor del decreto, deberán solicitar la acreditación ante el centro directivo competente, en el plazo de un mes contado desde la fecha de publicación de este Decreto en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, con la documentación que acredite el cumplimiento de los requisitos que dicho decreto establezca de forma preceptiva. En tanto el centro directivo competente no resuelva la solicitud presentada, la entidad podrá continuar realizando las funciones de intermediación en el país al amparo de su acreditación vigente. En caso de que el organismo acreditado no presente la solicitud en el plazo fijado en esta disposición o, si habiéndolo hecho, no fuera acreditado por el centro directivo competente por no cumplir los requisitos exigidos en este Decreto, siempre que estos no hubieran sido tenidos en cuenta a la hora de concederle la acreditación anterior, dicha entidad finalizará las funciones de intermediación en la tramitación de los expedientes pendientes en dicho país, región o estado del mismo, al amparo de la acreditación que tenían otorgada por la Administración correspondiente.
 
-#### artículo 39.2.
+#### Disposición transitoria segunda. Régimen transitorio de reclamaciones.
 
-La cantidad total entregada estará sujeta a liquidación conforme a lo establecido
-en el contrato homologado.
+En el plazo de tres meses desde la publicación de la presente norma en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, el centro directivo competente realizará las actuaciones tendentes a establecer el sistema de hojas de reclamaciones regulado en el artículo 45.3 de este Decreto. En tanto no esté establecido este sistema, cualquier reclamación podrán dirigirse al centro directivo competente en materia de protección de menores de la Comunidad de Madrid.
 
-BOCM
-2.
-Costes directos en España:
-a)
-Se abonarán mediante una provisión de fondos, el tanto por ciento que se determine en la Resolución de acreditación de los costes directos previstos en España en
-el momento de la firma del contrato y el tanto por ciento que se determine al presentarse la asignación del niño o niña y ser aceptada por la familia y el centro directivo competente.
-b)
-Las cantidades entregadas estarán sujetas a liquidación al finalizar la vigencia del
-contrato o en el momento de su extinción, conforme a lo establecido en la cláusula correspondiente del contrato homologado.
-3.
-Costes directos en el país de origen:
-a)
-Se satisfarán mediante la constitución anticipada de la correspondiente provisión
-de fondos, abonando el tanto por ciento que se determine en la Resolución de acreditación de los costes directos previstos en el país de origen en el momento de la
-firma del contrato y el tanto por ciento que se determine antes de viajar a éste para
-recoger a la persona menor de edad asignada.
-b)
-Las cantidades entregadas estarán sujetas a liquidación al finalizar la vigencia del
-presente contrato o en el momento de su extinción, conforme a lo establecido en
-la cláusula correspondiente del contrato homologado.
-4.
-Costes relativos a los seguimientos postadoptivos:
-Se abonarán de forma anticipada, durante los 5 primeros días del mes anterior al que
-corresponda su realización, de acuerdo con la tarifa que consta en el presupuesto desglosado autorizado, con la duración y periodicidad establecida por el país de origen.
-5.
-Costes de financiación de los proyectos de cooperación, en su caso:
-En el caso de que el organismo acreditado lleve a cabo algún proyecto de cooperación
-en el país de origen, podrá repercutir una parte de su financiación a la familia. En este caso,
-se abonará la parte correspondiente de acuerdo con la tarifa que consta en el presupuesto
-desglosado autorizado.
+#### Disposición derogatoria única. Derogación normativa.
 
-#### Artículo 41
-Publicidad de los costes
+Quedan derogadas cuantas disposiciones de igual o inferior rango contradigan lo dispuesto en el presente Decreto, y en particular queda derogado el Decreto 62/2003, de 8 de mayo, sobre acreditación, funcionamiento y control de las Entidades Colaboradoras de Adopción Internacional.
 
-Los costes de la tramitación, el presupuesto desglosado y las condiciones económicas
-y de pago autorizados por el centro directivo competente serán publicados en la página web
-del organismo acreditado. Asimismo, se facilitará una copia del documento en el que consten dichos extremos a quienes lo soliciten.
+#### Disposición final primera. Desarrollo normativo.
 
-#### Artículo 42
-Contrato
+Se habilita al titular de la consejería competente en materia de servicios sociales para dictar cuantas disposiciones sean necesarias para el desarrollo del decreto.
 
-1.
-El organismo acreditado y las personas que se ofrecen para la adopción firmarán
-un contrato de intermediación una vez éstos hayan obtenido la preceptiva declaración de
-idoneidad.
-2.
-Este contrato contendrá las cláusulas, los anexos, los costes para la tramitación y
-las cuestiones específicas y particulares que se especifiquen en el modelo de contrato homologado aprobado por el organismo competente conforme a la normativa estatal.
-3.
-En el plazo de quince días desde la entrega por el centro directivo competente al
-organismo acreditado de la documentación de las personas que se ofrecen para la adopción,
-ésta deberá remitir copia del contrato firmado o, en su caso, devolver la documentación adjuntando un informe explicativo de las razones por las que no se ha firmado.
+#### Disposición final segunda. Entrada en vigor.
 
-#### Artículo 43
-Cuenta corriente
-
-Todos los pagos que deban realizar las personas que se ofrecen para la adopción serán
-ingresados por éstos en la cuenta corriente que se determine en el contrato, desde la que, en
-su caso, se realizarán los pagos que procedan o las oportunas transferencias bancarias. En
-el caso de costes directos que deban satisfacerse en moneda extranjera, la justificación posterior precisará la fecha y el tipo de cambio al que se realizó, salvo que la entidad disponga
-de una cuenta corriente en divisa extranjera para el pago de estos costes directos.
-
-BOCM
-
-#### Artículo 44
-Contabilidad
-
-Los organismos acreditados deberán llevar una contabilidad de acuerdo con lo que se
-establezca en el plan de contabilidad para las entidades sin fines lucrativos. En todo caso,
-la contabilidad permitirá el seguimiento individualizado de los fondos entregados por las
-personas que se ofrecen para la adopción. Asimismo, los ingresos plurianuales deberán contabilizarse en función de la duración prevista del expediente en cada país, teniendo en cuenta el principio contable de prudencia.
-
-### Capítulo VII
-
-Reclamaciones contra la actuación de los organismos acreditados
-y régimen sancionador
-
-#### Artículo 45
-Reclamaciones
-
-1.
-Las reclamaciones o incidencias que formulen los usuarios de los organismos
-acreditados en relación con los servicios prestados podrán presentarse directamente ante el
-centro directivo competente o ante los organismos acreditados, acompañadas de la documentación acreditativa de los hechos que se exponen. Se presentarán preferentemente por
-medios electrónicos, ante el centro directivo competente y en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
-Los organismos acreditados deberán remitir al centro directivo competente las reclamaciones o incidencias que les presenten en el plazo de diez días a partir de su presentación.
-2.
-Si de la reclamación o incidencia se deduce un posible incumplimiento de las obligaciones inherentes a la acreditación establecidas en este Decreto que pueda comportar su
-revocación, según lo establecido en el artículo 21, o una posible infracción administrativa
-sancionable, el centro directivo competente iniciará la tramitación del correspondiente expediente, siguiendo el procedimiento legalmente establecido para cada caso. Con anterioridad al acuerdo de iniciación del procedimiento, el centro directivo competente podrá abrir
-un período de información previa con la finalidad de conocer las circunstancias del caso.
-3.
-Las hojas de reclamaciones e incidencias estarán disponibles en la página web correspondiente de la Comunidad de Madrid.
-Todos los organismos acreditados tendrán a disposición de los usuarios hojas de reclamaciones e incidencias, ajustadas al modelo que se establezca por el centro directivo competente, y estarán obligados a exhibirlas al público en lugar visible y en su página web.
-
-#### Artículo 46
-Régimen sancionador
-
-El régimen sancionador aplicable será el establecido en el Título VI de la Ley 6/1995,
-de 28 de marzo, de Garantías de los derechos de la Infancia y Adolescencia de la Comunidad de Madrid en el Capítulo IV de la Ley 11/2002, de 18 de diciembre, de Ordenación de
-la Actividad de los Centros y Servicios de Acción Social y de Mejora de la Calidad en la
-Prestación de Servicios Sociales de la Comunidad de Madrid, y en el Decreto 245/2000, de
-16 de noviembre, por el que se aprueba el Reglamento para el Ejercicio de la Potestad Sancionadora por la Administración de la Comunidad de Madrid con las siguientes especialidades:
-a)
-La incoación y tramitación de los expedientes sancionadores que se deriven de la
-comisión de cualquier tipo de infracción corresponderá al centro directivo competente
-b)
-La infracción muy grave o la reincidencia en infracciones graves constituirá motivo suficiente para no prorrogar la acreditación de los organismos.
-
-http://www.bocm.es
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOCM
-
-#### DISPOSICIÓN TRANSITORIA PRIMERA
-
-Procedimiento de acreditación para los organismos ya acreditados
-por la Administración General del Estado y la Comunidad de Madrid
-Para poder intermediar en la tramitación de nuevos expedientes de adopción internacional en un país de origen, región o estado del mismo, los organismos que ya estuvieran
-acreditados por la Administración General del Estado o el centro directivo competente en
-materia de protección de menores de esta administración en el momento de la entrada en
-vigor del decreto, deberán solicitar la acreditación ante el centro directivo competente, en
-el plazo de un mes contado desde la fecha de publicación de este Decreto en el BOLETÍN
-OFICIAL DE LA COMUNIDAD DE MADRID, con la documentación que acredite el cumplimiento de los requisitos que dicho decreto establezca de forma preceptiva.
-En tanto el centro directivo competente no resuelva la solicitud presentada, la entidad
-podrá continuar realizando las funciones de intermediación en el país al amparo de su acreditación vigente.
-En caso de que el organismo acreditado no presente la solicitud en el plazo fijado en
-esta disposición o, si habiéndolo hecho, no fuera acreditado por el centro directivo competente por no cumplir los requisitos exigidos en este Decreto, siempre que estos no hubieran
-sido tenidos en cuenta a la hora de concederle la acreditación anterior, dicha entidad finalizará las funciones de intermediación en la tramitación de los expedientes pendientes en dicho país, región o estado del mismo, al amparo de la acreditación que tenían otorgada por
-la Administración correspondiente.
-
-#### DISPOSICIÓN TRANSITORIA SEGUNDA
-
-Régimen transitorio de reclamaciones
-En el plazo de tres meses desde la publicación de la presente norma en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, el centro directivo competente realizará las actuaciones tendentes a establecer el sistema de hojas de reclamaciones regulado en el artículo 45.3 de este Decreto.
-En tanto no esté establecido este sistema, cualquier reclamación podrán dirigirse al
-centro directivo competente en materia de protección de menores de la Comunidad de
-Madrid.
-
-#### DISPOSICIÓN DEROGATORIA ÚNICA
-
-Derogación normativa
-Quedan derogadas cuantas disposiciones de igual o inferior rango contradigan lo dispuesto en el presente Decreto, y en particular queda derogado el Decreto 62/2003, de 8 de
-mayo, sobre acreditación, funcionamiento y control de las Entidades Colaboradoras de
-Adopción Internacional.
-
-#### DISPOSICIÓN FINAL PRIMERA
-
-Desarrollo normativo
-Se habilita al titular de la consejería competente en materia de servicios sociales para
-dictar cuantas disposiciones sean necesarias para el desarrollo del decreto.
-
-#### DISPOSICIÓN FINAL SEGUNDA
-
-Entrada en vigor
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN
-OFICIAL DE LA COMUNIDAD DE MADRID.
-En Madrid, a 1 de marzo de 2023.
-La Consejera de Familia, Juventud y Política Social,
-MARÍA CONCEPCIÓN DANCAUSA TREVIÑO
-La Presidenta,
-ISABEL DÍAZ AYUSO
-(03/3.644/23)
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. En Madrid, a 1 de marzo de 2023. La Consejera de Familia, Juventud y Política Social, MARÍA CONCEPCIÓN DANCAUSA TREVIÑO La Presidenta, ISABEL DÍAZ AYUSO (03/3.644/23)

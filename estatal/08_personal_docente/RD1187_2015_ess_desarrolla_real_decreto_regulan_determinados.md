@@ -1,14 +1,10 @@
 ---
 id: norm-es-2015-6839
 codigo_sintetizado: BOE-A-2015-6839
-titulo: Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto
-  625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión
-  y control de los procesos por incapacidad temporal en los primeros trescientos sesenta
-  y cinco días de su duración.
+titulo: Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-06-20'
 boletin: BOE
@@ -19,33 +15,30 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- personal-no-docente
-- prevencion-riesgos-laborales
-- salud-laboral-y-vigilancia
+  - personal-no-docente
+  - prevencion-riesgos-laborales
+  - salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2014-7684
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2014-7684
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-2014-7684
-fundamentos_derecho:
-- norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-2014-7684
+  fundamentos_derecho:
+    - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-2014-7684
+    - '1'
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2014-7684
 ---
-
-## Preámbulo
-
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
-# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el [Real Decreto 625/2014](RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+## Preámbulo
 
 El [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
 
@@ -61,9 +54,7 @@ La orden se dicta de conformidad con lo establecido en el artículo 5.2.b) del t
 
 En su virtud, en uso de las facultades conferidas, dispongo:
 
-CAPÍTULO I
-
-Normas generales
+## Capítulo I. Normas generales.
 
 #### Artículo 1. Partes médicos de incapacidad temporal.
 
@@ -75,21 +66,19 @@ Los trabajadores deberán facilitar a los facultativos a los que corresponda la 
 
 1. De acuerdo con lo establecido en el artículo 2.3 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, se distinguen cuatro tipos de procesos de incapacidad temporal, según cuál sea su duración estimada:
 
-a) Proceso de duración estimada muy corta: inferior a cinco días naturales.
+a) **Proceso de duración estimada muy corta.** Inferior a cinco días naturales.
 
-b) Proceso de duración estimada corta: de 5 a 30 días naturales.
+b) **Proceso de duración estimada corta.** De 5 a 30 días naturales.
 
-c) Proceso de duración estimada media: de 31 a 60 días naturales.
+c) **Proceso de duración estimada media.** De 31 a 60 días naturales.
 
-d) Proceso de duración estimada larga: de 61 o más días naturales.
+d) **Proceso de duración estimada larga.** De 61 o más días naturales.
 
 2. Corresponde al facultativo que emite el parte médico de baja y de confirmación determinar, en el momento de su expedición, la duración estimada del proceso. El facultativo podrá alterar esa duración estimada en un momento posterior como consecuencia de la modificación o actualización del diagnóstico o de la evolución sanitaria del trabajador. A tal efecto, según lo previsto en el artículo 2.4 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, emitirá un parte de confirmación que recogerá la nueva duración estimada y, en su caso, el encuadramiento del proceso en un tipo diferente de los previstos en el apartado anterior.
 
 3. A efectos de asignar la duración estimada a cada proceso, el facultativo dispondrá de unas tablas de duración óptima de los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de los mismos en las distintas actividades laborales. Dichas tablas serán suministradas y revisadas periódicamente por el Instituto Nacional de la Seguridad Social.
 
-CAPÍTULO II
-
-Expedición de los partes médicos de baja y confirmación
+## Capítulo II. Expedición de los partes médicos de baja y confirmación.
 
 #### Artículo 3. Expedición de los partes médicos de baja.
 
@@ -113,11 +102,11 @@ En la fecha de la primera revisión médica se extenderá el parte de alta o, en
 
 a) En los procesos de duración estimada muy corta no procederá la emisión de partes de confirmación, sin perjuicio de lo indicado en el artículo 3.2 párrafo segundo.
 
-b) Procesos de duración estimada corta: el primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada catorce días naturales, como máximo.
+b) **Procesos de duración estimada corta.** El primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada catorce días naturales, como máximo.
 
-c) Procesos de duración estimada media: el primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada veintiocho días naturales, como máximo.
+c) **Procesos de duración estimada media.** El primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada veintiocho días naturales, como máximo.
 
-d) Procesos de duración estimada larga: el primer parte de confirmación se expedirá en un plazo máximo de catorce días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada treinta y cinco días naturales, como máximo.
+d) **Procesos de duración estimada larga.** El primer parte de confirmación se expedirá en un plazo máximo de catorce días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada treinta y cinco días naturales, como máximo.
 
 En todo caso, independientemente de cuál fuera la duración estimada del proceso, el facultativo expedirá el alta médica por curación o mejoría que permite realizar el trabajo habitual, cuando considere que el trabajador ha recuperado su capacidad laboral, o por propuesta de incapacidad permanente, o por inicio de una situación de maternidad.
 
@@ -143,9 +132,7 @@ Este Instituto dictará resolución expresa en el ejercicio de las referidas com
 
 En los procesos de incapacidad temporal de duración estimada superior a 30 días naturales, cuya gestión corresponda al servicio público de salud, cualquiera que sea la contingencia de que deriven, el segundo parte de confirmación de la baja, y los que correspondan conforme a lo previsto en el artículo 4.1 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), irán acompañados de un informe médico complementario cumplimentado y actualizado por el facultativo que expida el parte de confirmación, en los términos y con el contenido señalado en el citado artículo.
 
-CAPÍTULO III
-
-Declaración de alta médica en los procesos de incapacidad temporal
+## Capítulo III. Declaración de alta médica en los procesos de incapacidad temporal.
 
 #### Artículo 6. Expedición de partes médicos de alta por el facultativo del servicio público de salud o de la mutua.
 
@@ -155,11 +142,15 @@ Declaración de alta médica en los procesos de incapacidad temporal
 
 #### Artículo 7. Expedición de altas médicas por los inspectores médicos de los servicios públicos de salud.
 
-Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en el capítulo IV de esta orden.
+Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 l [Real.
+
+Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en el capítulo IV de esta orden.
 
 #### Artículo 8. Expedición de altas médicas por los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social e Instituto Social de la Marina.
 
-1. Los inspectores médicos del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina que, conforme a lo previsto en el artículo 5 del [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en los artículos 10, 11, 12 y 13 de esta orden.
+1. Los inspectores médicos del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina que, conforme a lo previsto en el artículo 5 l [Real.
+
+Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), expidan partes de alta médica, utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregarán dos copias al trabajador, será la prevista en los artículos 10, 11, 12 y 13 de esta orden.
 
 El Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, según corresponda, dará traslado telemáticamente del parte de manera inmediata y, en todo caso, en el primer día hábil siguiente al de dicha expedición, al servicio público de salud, para su conocimiento, y a la mutua cuando, tratándose de contingencias comunes, le corresponda la cobertura de la prestación económica.
 
@@ -171,13 +162,11 @@ Si la entidad gestora considera que procede el alta solicitada por la mutua, exp
 
 3. Cuando en un proceso de incapacidad temporal se haya expedido el parte médico de alta por el Instituto Nacional de la Seguridad Social o, en su caso, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a dichas entidades, estas serán las únicas competentes para emitir a través de dichos inspectores una nueva baja por la misma o similar patología, durante los ciento ochenta días naturales siguientes a la fecha en que se expidió el alta, utilizando para ello el modelo del anexo I. Tales bajas serán comunicadas al Servicio Público de Salud así como a la mutua cuando le corresponda la cobertura de la prestación económica. En esos casos, el control de la situación se llevará a cabo, a partir de ese momento, directamente por el Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, sin que proceda la expedición de partes de confirmación.
 
-CAPÍTULO IV
+## Capítulo IV. Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación.
 
-Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación
+#### Artículo 9. Remisión.
 
-#### Artículo 9. Remisión de los partes médicos de baja/alta y confirmación, por los servicios públicos de salud y las mutuas.
-
-El servicio público de salud o la mutua, en función de quien lo hubiera expedido, remitirá el parte de baja/alta y de confirmación al Instituto Nacional de la Seguridad Social, por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente al de su expedición.
+de los partes médicos de baja/alta y confirmación, por los servicios públicos de salud y las mutuas. El servicio público de salud o la mutua, en función de quien lo hubiera expedido, remitirá el parte de baja/alta y de confirmación al Instituto Nacional de la Seguridad Social, por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente al de su expedición.
 
 Excepcionalmente, cuando el facultativo no disponga de los medios indicados, las actuaciones se llevarán a cabo a través de los partes médicos en soporte papel. No obstante, en estos casos, los datos correspondientes a dichos partes deberán ser transmitidos telemáticamente al Instituto Nacional de la Seguridad Social por el servicio público de salud o por la mutua en los dos días hábiles siguientes a su expedición.
 
@@ -219,9 +208,7 @@ La presentación de los indicados partes se efectuará, como máximo, en los pla
 
 El Instituto Nacional de la Seguridad Social dará el trámite que corresponda a los partes médicos de baja/alta y confirmación destinados a él mismo. Tratándose de procesos derivados de contingencia común, el Instituto Nacional de la Seguridad Social transmitirá al Instituto Social de la Marina, o a la mutua correspondiente, de manera inmediata y en todo caso en el primer día hábil siguiente al de su recepción, los partes médicos de baja/alta y de confirmación de los trabajadores respecto de los que cubran la prestación económica por incapacidad temporal derivada de las indicadas contingencias.
 
-CAPÍTULO V
-
-Control de la situación de incapacidad temporal
+## Capítulo V. Control de la situación de incapacidad temporal.
 
 #### Artículo 14. Control por los servicios de inspección médica del servicio público de salud.
 
@@ -275,15 +262,14 @@ Se faculta a la Secretaría de Estado de la Seguridad Social para dictar las dis
 
 Madrid, 15 de junio de 2015.–La Ministra de Empleo y Seguridad Social, Fátima Báñez García.
 
-ANEXO I
+## Anexo I
 
-ANEXO II
-
----
+## Anexo II
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
 - **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
@@ -291,6 +277,7 @@ ANEXO II
 - **Fundamento de**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
 
 ### Fundamentos de Derecho
+
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)

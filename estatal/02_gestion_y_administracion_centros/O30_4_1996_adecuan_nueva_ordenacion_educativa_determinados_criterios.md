@@ -1,14 +1,10 @@
 ---
 id: norm-es-1996-10210
 codigo_sintetizado: BOE-A-1996-10210
-titulo: Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa
-  determinados criterios en materia de homologación y convalidación de títulos y estudios
-  extranjeros de niveles no universitarios y se fija el régimen de equivalencias con
-  los correspondientes españoles.
+titulo: Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1996-05-08'
 boletin: BOE
@@ -19,42 +15,39 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- autonomia-centro
-- bachillerato
-- centros-extranjeros
-- consejo-escolar
-- educacion-primaria
-- eso
-- formacion-profesional
-- fp-basica
-- orientacion-educativa
-- titulacion
+  - autonomia-centro
+  - bachillerato
+  - centros-extranjeros
+  - consejo-escolar
+  - educacion-primaria
+  - eso
+  - formacion-profesional
+  - fp-basica
+  - orientacion-educativa
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-1988-6938
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-25289
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-can-d-81-2010
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1988-6938
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-25289
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-can-d-81-2010
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-lo-2-2006
+    - '1'
+    - '2'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '120'
-- norma_id: norm-es-1988-3987
-- norma_id: norm-es-1988-6938
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-2002-25289
+    - '120'
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1988-6938
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-25289
 ---
+# Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
 ## Preámbulo
-
-# Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
-
-# Orden de 30 de abril de 1996 por la que se adecuan a la nueva ordenación educativa determinados criterios en materia de homologación y convalidación de títulos y estudios extranjeros de niveles no universitarios y se fija el régimen de equivalencias con los correspondientes españoles.
 
 En el actual curso académico se han implantado con carácter general la totalidad de los estudios de Enseñanza Primaria. Está prevista la implantación de la Enseñanza Secundaria Obligatoria a partir del curso académico 1996/1997 y la de Bachillerato a partir del curso académico 1998/1999. Es preciso, pues, adecuar al sistema educativo vigente los criterios aplicables a la homologación y convalidación de títulos y estudios extranjeros de los niveles no universitarios.
 
@@ -98,7 +91,7 @@ No serán objeto de homologación o convalidación los estudios de sistemas educ
 
 2. No obstante lo dispuesto en el párrafo anterior, excepcionalmente podrá otorgarse homologación al título de Bachiller con especificación de modalidad cuando se acredite que resulta necesario por razones de tipo laboral, siempre que los estudios extranjeros cursados por el solicitante guarden suficiente equivalencia, a juicio del Ministerio de Educación y Ciencia, con alguna de las modalidades del título español de Bachiller.
 
-#### Disposición adicional.
+Disposición adicional ....
 
 Se modifican el apartado 10 y el Anexo II de la [Orden de 14 de marzo de 1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md) para la aplicación de lo dispuesto en el [Real Decreto 104/1988](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria, quedando redactados como sigue:
 
@@ -120,15 +113,13 @@ b) Una vez realizada la inscripción condicional el volante mantendrá su vigenc
 
 No obstante, cuando hayan transcurrido los plazos previstos en los párrafos anteriores sin que se hubiera producido resolución expresa de la solicitud de homologación o convalidación por causas no imputables al solicitante, el órgano competente para la tramitación del procedimiento podrá expedir un nuevo volante, de oficio o a solicitud del interesado. El nuevo volante será remitido directamente al centro en el que el alumno se encuentre matriculado, consignando en el mismo su plazo de vigencia, que no podrá ser superior a un curso académico.
 
-## ANEXO
+## Anexo
 
 **Volante para la inscripción condicional en Centros docentes o en exámenes oficiales**
 
 El que suscribe, don/doña, o su representante legal, don/doña ....................... ha presentado en la (1) ............................................................................. solicitud de convalidación/homologación de sus estudios extranjeros cursados en el sistema educativo de (2) .................................................. por los correspondientes españoles de (3) ...................................... y formaliza el presente volante a efectos de su inscripción provisional en el Centro (4) .......................................... como alumno de (5) .........................................en las condiciones establecidas en el número sexto de la Orden de .......... a ...... de.............. de 19.....
 
 (Sello de la Unidad de Registro)
-
-(instrucciones al dorso)	Fdo.: ....................................................................
 
 Notas importantes:
 
@@ -166,21 +157,19 @@ No obstante lo dispuesto en el número segundo de la presente Orden, será de ap
 
 En tanto no se establezcan los regímenes de convalidación y homologación de certificados, títulos y diplomas correspondientes a los sistemas educativos extranjeros no incluidos en el Anexo I de la presente Orden con las enseñanzas del sistema educativo español regulado por la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se aplicarán los criterios y las normas vigentes que establecen las equivalencias con los estudios de Educación General Básica, Bachillerato Unificado y Polivalente y Curso de Orientación Universitaria. No obstante, a partir de la entrada en vigor de esta orden, será de plena aplicación lo dispuesto en el apartado primero de la misma a las convalidaciones y homologaciones mencionadas en esta disposición transitoria.
 
-#### Disposición derogatoria.
+Disposición derogatoria ....
 
 #### Disposición final primera.
 
 Se autoriza a la Secretaría General Técnica del Departamento para dictar las instrucciones que resulten precisas para la aplicación de la presente Orden.
 
-#### Disposición final segunda.
-
-Madrid, 30 de abril de 1996.
+#### Disposición final segunda. Madrid, 30 de abril de 1996.
 
 SAAVEDRA ACEVEDO
 
 Ilmos. Sres. Subsecretario y Secretario general técnico.
 
-ANEXO I
+## Anexo I
 
 Tabla de equivalencias para la convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros por los españoles de Educación Secundaria Obligatoria y de Bachillerato, correspondientes al sistema educativo establecido por la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo
 
@@ -190,287 +179,287 @@ Arabia Saudí:
 
 Tercer ciclo medio
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria y certificado fin de estudios (Tawjahiya)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Argelia:
 
 Cuarto de secundaria (primer ciclo)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Quinto de secundaria (segundo ciclo)
 
-Cuarto de ESO y título de Graduado Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado Educación Secundaria.
 
 Sexto de secundaria (segundo ciclo)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria (segundo ciclo) y certificado fin de estudios secundaria (Baccalauréát)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Bosnia-Herzegovina:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Brasil:
 
-Octava serie (primer grado).
+#### Octava. serie (primer grado).
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
-Primera serie (segundo grado)
+#### Primera. serie (segundo grado).
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
-Segunda serie (segundo grado)
+#### Segunda. serie (segundo grado).
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
-Tercera serie (segundo grado)
+#### Tercera. serie (segundo grado).
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Bulgaria:
 
 Primero de secundaria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria y certificado de fin de estudios secundarios (Zrelostonno Svidetelsvo)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Corea del Sur:
 
 Tercero de secundaria (ciclo medio)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria (ciclo superior)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria (ciclo superior)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
-Sexto de secundaria (ciclo superior) y certificado de fin de estudios secundarios .
+#### Sexto. de secundaria (ciclo superior) y certificado de fin de estudios secundarios .
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Croacia:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Cuba:
 
 Noveno secundario básico
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Décimo preuniversitario o primero de Bachillerato
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Undécimo preuniversitario o segundo de Bachillerato
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Duodécimo preuniversitario o tercero de Bachillerato y certificado fin de estudios secundarios o título de Bachiller
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 China:
 
 Tercero de secundaria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaría
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Sexto de secundaria y certificado fin de estudios secundarios
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Dinamarca:
 
 Tercero de secundaria (primer ciclo)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria (segundo ciclo)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria (segundo ciclo)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria (segundo ciclo) y certificado de fin de estudios secundarios (Studentereksamen)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Egipto:
 
 Tercero de preparatoria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria y certificado de fin de estudios secundarios
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Emiratos Árabes Unidos:
 
 Tercero de preparatoria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria y certificado de fin de estudios secundarios (Higher Secondary School Certificate)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Eslovenia:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Finlandia:
 
 Quinto de secundaria (primer ciclo)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria (segundo ciclo)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria (segundo ciclo)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria (segundo ciclo) y certificado de fin de estudios secundarios (Vlioppilastukinto o Studentexamen)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Francia:
 
-Tercera clase
+#### Tercera. clase.
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
-Segunda clase
+#### Segunda. clase.
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
-Primera clase
+#### Primera. clase.
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Terminal y Título de Baccalauréat
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Grecia:
 
 Tercero de gimnasio
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de liceo
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de liceo
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
-Tercero de liceo y certificado de fin de estudios secundarios (Apolytirion Lykiov).
+#### Tercero. de liceo y certificado de fin de estudios secundarios (Apolytirion Lykiov).
 
 Segundo de Bachillerato y título de Bachiller
 
@@ -478,89 +467,89 @@ Hungría:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundados (Erettsegi)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Irán:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Iraq:
 
-Tercero de secundaria intermedio (primer ciclo).
+#### Tercero. de secundaria intermedio (primer ciclo).
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria intermedio (primer ciclo)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria (segundo ciclo)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Sexto de secundaria (segundo ciclo) y certificado final de estudios secundarios (Adadiyah)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Israel:
 
 Primero de secundaria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria y examen de fin de estudios secundarios (Bagruth)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Japón:
 
 Tercero de secundaria (primer ciclo)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria (segundo ciclo)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria (segundo ciclo)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
-Sexto de secundaria (segundo ciclo) y certificado de fin de estudios secundarios .
+#### Sexto. de secundaria (segundo ciclo) y certificado de fin de estudios secundarios .
 
 Segundo de Bachillerato y título de Bachiller
 
@@ -568,55 +557,55 @@ Jordania:
 
 Tercero de secundaria (ciclo intermedio)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Sexto de secundaria general y certificado de escuela secundaria general
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Kenia:
 
 Tercero de secundaria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Sexto de secundaria (segundo ciclo) y East African Advanced Certificate of Education o Higher School Certificate
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Kuwait:
 
 Primero de secundaria
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria y certificado de fin de estudios secundarios (Shahadat al Hranawia)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Macedonia:
 
@@ -626,15 +615,15 @@ Tercero de ESO
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Marruecos:
 
@@ -644,15 +633,15 @@ Tercero de ESO
 
 Quinto de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Sexto de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Séptimo de secundaria y certificado de fin de estudios secundarios (Baccalauréat)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 México:
 
@@ -662,15 +651,15 @@ Tercero de ESO
 
 Primero de bachillerato o preparatoria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de bachillerato o preparatoria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de bachillerato o preparatoria
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Noruega:
 
@@ -680,15 +669,15 @@ Tercero de ESO
 
 Primero de secundaria
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria y certificado de fin de estudios secundarios (Studenteksamen o Gymnaseksamen)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Polonia:
 
@@ -698,15 +687,15 @@ Tercero de ESO
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado fin de estudios secundarios (Matura o Swiadectwo Dojrzalosci)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Rumanía:
 
@@ -716,89 +705,89 @@ Tercero de ESO
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Senegal:
 
 Cuarto de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Quinto de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Sexto de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Séptimo secundaria general y certificado fin de estudios secundarios (Baccalauréat)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Siria:
 
 Tercero de secundaria (ciclo medio)
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Cuarto de secundaria (ciclo terminal)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Quinto de secundaria (ciclo terminal)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Sexto de secundaria terminal y certificado de fin de estudios secundarios (Al-Chahada Al Thanouiya)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Suecia:
 
 Noveno de escuela base
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Primero de secundaria (Gymnasieskola)
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Segundo de secundaria (Gymnasieskola)
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Tercero de secundaria (Gymnasieskola)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
 Yugoslavia:
 
 Primero de secundaria general
 
-Tercero de ESO.
+#### Tercero. de ESO.
 
 Segundo de secundaria general
 
-Cuarto de ESO y título de Graduado en Educación Secundaria.
+#### Cuarto. de ESO y título de Graduado en Educación Secundaria.
 
 Tercero de secundaria general
 
-Primero de Bachillerato.
+#### Primero. de Bachillerato.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
-Segundo de Bachillerato y título de Bachiller.
+#### Segundo. de Bachillerato y título de Bachiller.
 
-ANEXO II
+## Anexo II
 
 Países cuyas equivalencias se regulan por disposiciones específicas:
 
@@ -834,7 +823,7 @@ Suiza:
 
 B) Disposición relativa a los países signatarios del Convenio «Andrés Bello»: (Bolivia, Colombia, Chile, Ecuador, Panamá, Perú, Venezuela):
 
-ANEXO III
+## Anexo III
 
 Tabla de equivalencias para la convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros por los españoles de Educación General Básica, Bachillerato Unificado y Polivalente y Curso de Orientación Universitaria
 
@@ -844,19 +833,19 @@ Arabia Saudí:
 
 Segundo ciclo medio
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercer ciclo medio
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria y certificado de fin de estudios (Tawjahiya)
 
@@ -866,19 +855,19 @@ Argelia:
 
 Tercero de secundaria (primer ciclo)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Cuarto de secundaría (primer ciclo)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Quinto de secundaria (segundo ciclo)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Sexto de secundaria (segundo ciclo)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria (segundo ciclo) y certificado de fin de estudios secundarios (Baccalauréat)
 
@@ -888,19 +877,19 @@ Bosnia-Herzegovina:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP,y título de Bachiller.
+#### Tercero. de BUP,y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
@@ -908,23 +897,23 @@ Curso de Orientación Universitaria.
 
 Brasil:
 
-Séptima serie (primer grado)
+#### Séptima. serie (primer grado).
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
-Octava serie (primer grado).
+#### Octava. serie (primer grado).
 
-Primero de BUP.
+#### Primero. de BUP.
 
-Primera serie (segundo grado)
+#### Primera. serie (segundo grado).
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
-Segunda serie (segundo grado)
+#### Segunda. serie (segundo grado).
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
-Tercera serie (segundo grado)
+#### Tercera. serie (segundo grado).
 
 Curso de Orientación Universitaria.
 
@@ -932,19 +921,19 @@ Bulgaria:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria y certificado de fin de estudios secundarios (Zrelostonno Svidetelsvo)
 
@@ -954,21 +943,21 @@ Corea del Sur:
 
 Segundo de secundaria (ciclo medio)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria (ciclo medio)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria (ciclo superior)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria (ciclo superior)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
-Sexto de secundaria (ciclo superior) y certificado de fin de estudios secundarios.
+#### Sexto. de secundaria (ciclo superior) y certificado de fin de estudios secundarios.
 
 Curso de Orientación Universitaria.
 
@@ -976,19 +965,19 @@ Croacia:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de Secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secunda-rios (Maturá)
 
@@ -998,19 +987,19 @@ Cuba:
 
 Octavo secundario básico
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Noveno secundario básico
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Décimo preuniversitario o Primero de Bachillerato
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Undécimo preuniversitario o Segundo de Bachillerato
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Duodécimo preuniversitario o Tercero de Bachillerato y certificado fin de estudios secundarios o título de Bachiller
 
@@ -1020,19 +1009,19 @@ China:
 
 Segundo de secundaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria y certificado de fin de estudios secundarios
 
@@ -1042,19 +1031,19 @@ Dinamarca:
 
 Segundo de secundaria (primer ciclo)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria (primer ciclo)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria (segundo ciclo)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria (segundo ciclo)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria (segundo ciclo) y certificado de fin de estudios secundarios (Studentereksamen)
 
@@ -1064,19 +1053,19 @@ Egipto:
 
 Segundo preparatoria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero preparatoria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria y certificado de fin de estudios secundarios
 
@@ -1086,19 +1075,19 @@ Emiratos Árabes Unidos:
 
 Segundo de preparatoria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de preparatoria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria y certificado de fin de estudios secundarios (Higher Secondary School Certificate).
 
@@ -1108,19 +1097,19 @@ Eslovenia:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Matará)
 
@@ -1130,19 +1119,19 @@ Finlandia:
 
 Cuarto de secundaria (primer ciclo)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Quinto de secundaria (primer ciclo)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria (segundo ciclo)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria (segundo ciclo)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria (segundo ciclo) y certificado de fin de estudios secundarios (Vlioppilastukinto o Studentexamen)
 
@@ -1150,21 +1139,21 @@ Curso de Orientación Universitaria.
 
 Francia:
 
-Cuarta clase
+#### Cuarta. clase.
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
-Tercera clase
+#### Tercera. clase.
 
-Primero de BUP.
+#### Primero. de BUP.
 
-Segunda clase
+#### Segunda. clase.
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
-Primera clase
+#### Primera. clase.
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Terminal y Título de Baccalauréat
 
@@ -1174,19 +1163,19 @@ Grecia:
 
 Segundo de gimnasio
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de gimnasio
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de liceo
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de liceo
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de liceo y certificado de fin de estudios secundarios (Apolytirion Lykiov)
 
@@ -1196,19 +1185,19 @@ Hungría:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Erettsegi)
 
@@ -1216,21 +1205,21 @@ Curso de Orientación Universitaria.
 
 Irán:
 
-Tercero (ciclo orientación).
+#### Tercero. (ciclo orientación).
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secunda-rios
 
@@ -1240,19 +1229,19 @@ Iraq:
 
 Segundo de secundaria intermedio (primer ciclo)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria intermedio (primer ciclo)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria intermedio (primer ciclo)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria (segundo ciclo)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria (segundo ciclo) y certificado final estudios secundarios (Adadiyah)
 
@@ -1262,19 +1251,19 @@ Israel:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria y examen de fin de estudios secundarios (Bagruth)
 
@@ -1284,19 +1273,19 @@ Japón:
 
 Segundo de secundaria (primer ciclo)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria (primer ciclo)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria (segundo ciclo)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria (segundo ciclo)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria (segundo ciclo) y certificado de fin de estudios secundarios
 
@@ -1306,19 +1295,19 @@ Jordania:
 
 Segundo de secundaria (ciclo intermedio)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria (ciclo intermedio)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria general y certificado de escuela secundaria general
 
@@ -1328,19 +1317,19 @@ Kenia:
 
 Segundo de secundaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria (segundo ciclo) y East African Advanced Certifica-te of Education o Higher School Certificate
 
@@ -1350,19 +1339,19 @@ Kuwait:
 
 Cuarto intermedio
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria y certificado de fin de estudios secundarios (Shahadat al Hranawia)
 
@@ -1372,19 +1361,19 @@ Macedonia:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Maturá)
 
@@ -1394,19 +1383,19 @@ Marruecos:
 
 Tercero de secundaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Cuarto de secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Quinto de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Sexto de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Séptimo de secundaria y certificado de fin de estudios secundarios (Baccalauréat)
 
@@ -1416,19 +1405,19 @@ México:
 
 Segundo de educación secundaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de educación secundaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de bachillerato o preparatoria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de bachillerato o preparatoria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de bachillerato o preparatoria
 
@@ -1438,19 +1427,19 @@ Noruega:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Noveno de primaria
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria y certificado de fin de estudios secundarios (Studenteksamen o Gymnaseksamen)
 
@@ -1460,19 +1449,19 @@ Polonia:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios (Matura o Swiadectwo Dojrzalosci)
 
@@ -1482,19 +1471,19 @@ Rumania:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secundarios
 
@@ -1504,19 +1493,19 @@ Senegal:
 
 Tercero de secundaria general
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Cuarto de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Quinto de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Sexto de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Séptimo de secundaria general y certificado fin de estudios secundarios (Baccalauréat)
 
@@ -1526,19 +1515,19 @@ Siria:
 
 Segundo de secundaria (ciclo medio)
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Tercero de secundaria (ciclo medio)
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Cuarto de secundaria (ciclo terminal)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Quinto de secundaria (ciclo terminal)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Sexto de secundaria terminal y certificado de fin de estudios secundarios (Al-Chahada Al Thanoui-ya)
 
@@ -1548,19 +1537,19 @@ Suecia:
 
 Octavo de escuela base
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Noveno de escuela base
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Primero de secundaria (Gymnasieskola)
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Segundo de secundaria (Gymnasieskola)
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Tercero de secundaria (Gymnasieskola)
 
@@ -1570,29 +1559,28 @@ Yugoslavia:
 
 Octavo de primaria
 
-Octavo de EGB y título de Graduado Escolar.
+#### Octavo. de EGB y título de Graduado Escolar.
 
 Primero de secundaria general
 
-Primero de BUP.
+#### Primero. de BUP.
 
 Segundo de secundaria general
 
-Segundo de BUP.
+#### Segundo. de BUP.
 
 Tercero de secundaria general
 
-Tercero de BUP y título de Bachiller.
+#### Tercero. de BUP y título de Bachiller.
 
 Cuarto de secundaria general y certificado de fin de estudios secunda-rios (Maturá)
 
 Curso de Orientación Universitaria.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - **Fundamentado en**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
 - **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
@@ -1600,6 +1588,7 @@ Curso de Orientación Universitaria.
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)

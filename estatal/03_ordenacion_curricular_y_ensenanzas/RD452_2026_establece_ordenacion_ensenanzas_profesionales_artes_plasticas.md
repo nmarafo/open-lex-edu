@@ -1,12 +1,10 @@
 ---
 id: norm-es-2026-12038
 codigo_sintetizado: BOE-A-2026-12038
-titulo: Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación
-  de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+titulo: Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2026-06-05'
 boletin: BOE
@@ -17,82 +15,79 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Artísticas
 tags:
-- admision-alumnado
-- curriculo
-- ense-anzas-art-sticas
-- ensenanzas-artisticas
-- ensenanzas-deportivas
-- eso
-- evaluacion
-- formacion-profesional
-- grado-medio
-- grado-superior
-- oposiciones
-- titulacion
+  - admision-alumnado
+  - curriculo
+  - ense-anzas-art-sticas
+  - ensenanzas-artisticas
+  - ensenanzas-deportivas
+  - eso
+  - evaluacion
+  - formacion-profesional
+  - grado-medio
+  - grado-superior
+  - oposiciones
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2007-10487
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-2026-15301
-  - norma_id: norm-es-l-31-1995
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-243-2022
-  - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2007-10487
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-2026-15301
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-lo-3-2022
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-es-rd-659-2023
   fundamento_de:
-  - norma_id: norm-es-2026-15301
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-2026-15301
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-can-res-boc-2024-230-25
-- norma_id: norm-can-res-134
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-l-31-1995
-- norma_id: norm-es-lo-3-2018
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2024-11613
-- norma_id: norm-es-2026-15301
-- norma_id: norm-es-lo-3-2022
-- norma_id: norm-es-rd-243-2022
-- norma_id: norm-es-rd-659-2023
-- norma_id: norm-es-2007-10487
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2013-12632
+    - '1'
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-can-res-boc-2024-230-25
+    - norma_id: norm-can-res-134
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-2026-15301
+    - norma_id: norm-es-lo-3-2022
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-es-2007-10487
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2013-12632
 ---
+# Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 ## Preámbulo
 
-# Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.
 
-# [Real Decreto 452/2026](RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+Específicamente, la Ley Orgánica 2/2006, de 3 de mayo, dedica la sección segunda del capítulo VI a las Enseñanzas Profesionales de Artes Plásticas y Diseño, detallando diversos aspectos relacionados con su organización, los requisitos de acceso y las titulaciones que proporcionan. Así, se establece que estas enseñanzas se organizarán en ciclos de formación específica conforme a lo dispuesto en el capítulo de la ley dedicado a la Formación Profesional, con las salvedades que se establecen en los artículos 52 y 53 de la ley orgánica, a la vez que se regula la obligatoriedad de que los ciclos formativos de estas enseñanzas incluyan una fase de práctica en empresas, estudios y talleres. Por último, la norma enmarca los ciclos formativos de grado medio en la educación secundaria postobligatoria y los de grado superior en la educación superior.
 
-La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.
+En desarrollo de lo dispuesto en dicha Ley Orgánica 2/2006, de 3 de mayo, se publicó el [Real Decreto 596/2007](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño. En él se disponen las directrices generales, las enseñanzas mínimas, estructura y efectos de los títulos, incorporando criterios de capacitación acordes con las competencias profesionales y con referentes europeos, a la vez que se regulan el acceso, la evaluación, la movilidad y la formación continua del alumnado, así como aspectos relacionados con las convalidaciones y exenciones.
 
-Específicamente, la Ley Orgánica 2/2006, de 3 de mayo, dedica la sección segunda del capítulo VI a las Enseñanzas Profesionales de Artes Plásticas y Diseño, detallando diversos aspectos relacionados con su organización, los requisitos de acceso y las titulaciones que proporcionan. Así, se establece que estas enseñanzas se organizarán en ciclos de formación específica conforme a lo dispuesto en el capítulo de la ley dedicado a la Formación Profesional, con las salvedades que se establecen en los artículos 52 y 53 de la ley orgánica, a la vez que se regula la obligatoriedad de que los ciclos formativos de estas enseñanzas incluyan una fase de práctica en empresas, estudios y talleres. Por último, la norma enmarca los ciclos formativos de grado medio en la educación secundaria postobligatoria y los de grado superior en la educación superior.
+Por su parte, la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introdujo modificaciones que afectaron de forma significativa a las Enseñanzas Profesionales de Artes Plásticas y Diseño, estableciendo nuevos supuestos para el acceso y la admisión, así como ampliando los efectos de sus titulaciones.
 
-En desarrollo de lo dispuesto en dicha Ley Orgánica 2/2006, de 3 de mayo, se publicó el [Real Decreto 596/2007](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md), de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño. En él se disponen las directrices generales, las enseñanzas mínimas, estructura y efectos de los títulos, incorporando criterios de capacitación acordes con las competencias profesionales y con referentes europeos, a la vez que se regulan el acceso, la evaluación, la movilidad y la formación continua del alumnado, así como aspectos relacionados con las convalidaciones y exenciones.
+Como consecuencia de lo anterior, se hizo necesario hacer ciertas adaptaciones en el Real Decreto 596/2007, de 4 de mayo. Con ese fin se publicó el Real Decreto 628/2022, de 26 de julio, por el que se modifican varios reales decretos para la aplicación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, a las enseñanzas artísticas y las enseñanzas deportivas, y la adecuación de determinados aspectos de la ordenación general de dichas enseñanzas.
 
-Por su parte, la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, introdujo modificaciones que afectaron de forma significativa a las Enseñanzas Profesionales de Artes Plásticas y Diseño, estableciendo nuevos supuestos para el acceso y la admisión, así como ampliando los efectos de sus titulaciones.
+A su vez, la [Ley 1/2024](L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md), de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, introduce en su título II importantes novedades en relación con las enseñanzas artísticas profesionales, algunas de ellas específicamente dirigidas a las Enseñanzas Profesionales de Artes Plásticas y Diseño. Así, la Ley 1/2024, de 7 de junio, contempla que, cuando así se prevea en función de sus características en la regulación de los títulos correspondientes, determinadas enseñanzas y especialidades podrán acogerse a un modelo de carácter dual que permita que los procesos de enseñanza y aprendizaje se lleven a cabo de forma combinada en centros educativos y centros de trabajo. Este modelo se regulará en los términos propuestos en la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
 
-Como consecuencia de lo anterior, se hizo necesario hacer ciertas adaptaciones en el Real Decreto 596/2007, de 4 de mayo. Con ese fin se publicó el Real Decreto 628/2022, de 26 de julio, por el que se modifican varios reales decretos para la aplicación de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, a las enseñanzas artísticas y las enseñanzas deportivas, y la adecuación de determinados aspectos de la ordenación general de dichas enseñanzas.
+Asimismo, la Ley 1/2024, de 7 de junio, dispone que las administraciones educativas competentes y las universidades promoverán el reconocimiento mutuo de créditos del Sistema Europeo de Transferencia de Créditos (ECTS) entre los ciclos formativos de grado superior y los títulos oficiales de Grado, con objeto de facilitar el establecimiento de itinerarios formativos que reconozcan la formación previamente adquirida en ambos sentidos.
 
-A su vez, la [Ley 1/2024](L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md), de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, introduce en su título II importantes novedades en relación con las enseñanzas artísticas profesionales, algunas de ellas específicamente dirigidas a las Enseñanzas Profesionales de Artes Plásticas y Diseño. Así, la Ley 1/2024, de 7 de junio, contempla que, cuando así se prevea en función de sus características en la regulación de los títulos correspondientes, determinadas enseñanzas y especialidades podrán acogerse a un modelo de carácter dual que permita que los procesos de enseñanza y aprendizaje se lleven a cabo de forma combinada en centros educativos y centros de trabajo. Este modelo se regulará en los términos propuestos en la [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional.
+La ley establece también que, en el marco del desarrollo reglamentario previsto con relación al Catálogo Nacional de Estándares de Competencias Profesionales en la Ley Orgánica 3/2022, de 31 de marzo, se contemplará la definición de aquellos estándares de competencias profesionales que puedan ser identificados en los ámbitos artísticos así como técnicos correspondientes a las distintas disciplinas artísticas, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional en dichos ámbitos. Dichos estándares deben proporcionar la base para el diseño de las ofertas formativas y servirán de referencia para el reconocimiento y acreditación de competencias adquiridas a través de la experiencia laboral. Asimismo, reconoce como uno de los principios de las enseñanzas artísticas el fomento de la igualdad efectiva de oportunidades entre las personas y la eliminación de la segregación formativa entre mujeres y hombres.
 
-Asimismo, la Ley 1/2024, de 7 de junio, dispone que las administraciones educativas competentes y las universidades promoverán el reconocimiento mutuo de créditos del Sistema Europeo de Transferencia de Créditos (ECTS) entre los ciclos formativos de grado superior y los títulos oficiales de Grado, con objeto de facilitar el establecimiento de itinerarios formativos que reconozcan la formación previamente adquirida en ambos sentidos.
+Por último, la Ley 1/2024, de 7 de junio, en su disposición adicional decimocuarta, establece que el Gobierno desarrollará la organización y equivalencias de las enseñanzas artísticas profesionales, asegurando su compatibilidad con el Marco Europeo de Cualificaciones (EQF) y con la Clasificación Europea de habilidades, competencias, ocupaciones y cualificaciones (ESCO), para garantizar el acceso de las personas profesionales del ámbito artístico y cultural a procesos de evaluación y reconocimiento de competencias, que responda a sus necesidades de movilidad, empleabilidad y transición profesional.
 
-La ley establece también que, en el marco del desarrollo reglamentario previsto con relación al Catálogo Nacional de Estándares de Competencias Profesionales en la Ley Orgánica 3/2022, de 31 de marzo, se contemplará la definición de aquellos estándares de competencias profesionales que puedan ser identificados en los ámbitos artísticos así como técnicos correspondientes a las distintas disciplinas artísticas, en función de las competencias apropiadas y el estándar de calidad requerido para el ejercicio profesional en dichos ámbitos. Dichos estándares deben proporcionar la base para el diseño de las ofertas formativas y servirán de referencia para el reconocimiento y acreditación de competencias adquiridas a través de la experiencia laboral. Asimismo, reconoce como uno de los principios de las enseñanzas artísticas el fomento de la igualdad efectiva de oportunidades entre las personas y la eliminación de la segregación formativa entre mujeres y hombres.
-
-Por último, la Ley 1/2024, de 7 de junio, en su disposición adicional decimocuarta, establece que el Gobierno desarrollará la organización y equivalencias de las enseñanzas artísticas profesionales, asegurando su compatibilidad con el Marco Europeo de Cualificaciones (EQF) y con la Clasificación Europea de habilidades, competencias, ocupaciones y cualificaciones (ESCO), para garantizar el acceso de las personas profesionales del ámbito artístico y cultural a procesos de evaluación y reconocimiento de competencias, que responda a sus necesidades de movilidad, empleabilidad y transición profesional.
-
-Este nuevo marco normativo hace necesario redefinir la ordenación de las actuales Enseñanzas Profesionales de Artes Plásticas y Diseño, estableciendo las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, así como la estructura común de su ordenación académica, sin perjuicio de las competencias que, en este ámbito, corresponden a las comunidades autónomas. Asimismo, se da cumplimiento a lo previsto en la disposición final séptima de la Ley 1/2024, de 7 de junio, que dispone que el Gobierno, previa consulta a los organismos competentes, aprobará el desarrollo reglamentario de lo establecido en los artículos 67 y 68 de dicha ley, relativos al régimen de convalidaciones y equivalencias de las enseñanzas artísticas profesionales, así como a su relación con el Catálogo Nacional de Estándares de Competencias Profesionales.
+Este nuevo marco normativo hace necesario redefinir la ordenación de las actuales Enseñanzas Profesionales de Artes Plásticas y Diseño, estableciendo las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, así como la estructura común de su ordenación académica, sin perjuicio de las competencias que, en este ámbito, corresponden a las comunidades autónomas. Asimismo, se da cumplimiento a lo previsto en la disposición final séptima de la Ley 1/2024, de 7 de junio, que dispone que el Gobierno, previa consulta a los organismos competentes, aprobará el desarrollo reglamentario de lo establecido en los artículos 67 y 68 de dicha ley, relativos al régimen de convalidaciones y equivalencias de las enseñanzas artísticas profesionales, así como a su relación con el Catálogo Nacional de Estándares de Competencias Profesionales.
 
 Por otra parte, la experiencia acumulada en la aplicación de la normativa de referencia para estas enseñanzas aconseja contemplar otros aspectos, además de los señalados, que requieren actualización, bien por el tiempo transcurrido desde su promulgación, bien por tratarse de materias cuya regulación se percibe como necesaria.
 
@@ -100,17 +95,17 @@ Este real decreto asume una concepción del diseño de carácter integral y tran
 
 El presente real decreto se estructura en nueve capítulos que desarrollan los siguientes aspectos:
 
-Capítulo I, que establece el objeto de la norma, así como la definición, la finalidad y objetivos de las enseñanzas.
+### Capítulo I. , que establece el objeto de la norma, así como la definición, la finalidad y objetivos de las enseñanzas.
 
 Capítulo II, en el que se dispone la organización y estructura de las enseñanzas, incluidos aspectos relacionados con las modalidades de enseñanza y la posible organización de dobles titulaciones.
 
-Capítulo III, que desarrolla las enseñanzas mínimas y establece las competencias en materia de currículo.
+### Capítulo III. , que desarrolla las enseñanzas mínimas y establece las competencias en materia de currículo.
 
 Capítulo IV, que se dedica a los aspectos relativos al acceso y admisión, incluidas las pruebas de acceso a los ciclos y la regulación de las posibles exenciones.
 
-Capítulo V, que ordena y actualiza lo relacionado con la evaluación, la calificación, la promoción y la permanencia.
+### Capítulo V. , que ordena y actualiza lo relacionado con la evaluación, la calificación, la promoción y la permanencia.
 
-Capítulo VI, que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.
+### Capítulo VI. , que establece las condiciones para la titulación, así como los efectos que dichos títulos producen.
 
 Capítulo VII, en el que se recogen los documentos básicos de evaluación, incluidos los que deben utilizarse cuando se produce la movilidad del alumnado.
 
@@ -124,31 +119,27 @@ Por último, se incluyen una disposición derogatoria única y cinco disposicion
 
 El real decreto se acompaña de un total de cinco anexos.
 
-Cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, es acorde con los principios de necesidad y eficacia, en tanto que el mismo persigue el interés general al facilitar la comprensión y aplicabilidad de las modificaciones recientemente introducidas en la Ley Orgánica 2/2006, de 3 de mayo, y clarificar otros aspectos de la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño derivadas de la Ley 1/2024, de 7 de junio.
+Cabe mencionar que este real decreto se ajusta a los principios de buena regulación contenidos en la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, es acorde con los principios de necesidad y eficacia, en tanto que el mismo persigue el interés general al facilitar la comprensión y aplicabilidad de las modificaciones recientemente introducidas en la Ley Orgánica 2/2006, de 3 de mayo, y clarificar otros aspectos de la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño derivadas de la Ley 1/2024, de 7 de junio.
 
 Asimismo, este real decreto cumple estrictamente con el principio de proporcionalidad, no existiendo ninguna alternativa regulatoria menos restrictiva de derechos, y con el de seguridad jurídica, al resultar coherente con el ordenamiento jurídico. Se cumple también con el principio de eficiencia, ya que permite una gestión más eficiente de los recursos públicos. Del mismo modo, se respeta el principio de transparencia, pues durante el procedimiento de elaboración de la norma se ha garantizado la participación de las potenciales personas destinatarias a través del trámite de audiencia e información pública y quedan justificados los objetivos que persigue.
 
 En su elaboración han sido consultadas las comunidades autónomas en la Comisión General de Educación, el Consejo Superior de Enseñanzas Artísticas, el Consejo Escolar del Estado y el Consejo General de Formación Profesional.
 
-En relación con el contenido de carácter básico de este real decreto, se ha recurrido a una norma reglamentaria para establecer bases estatales conforme a la jurisprudencia del Tribunal Constitucional, que admite que «excepcionalmente», las bases puedan establecerse mediante normas reglamentarias en determinados supuestos como ocurre en el presente caso, cuando «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las Sentencias del Tribunal Constitucional 25/1983, de 7 de abril, 32/1983, de 28 de abril, 48/1988, de 22 de marzo, y 49/1988, de 22 de marzo). El presente real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+En relación con el contenido de carácter básico de este real decreto, se ha recurrido a una norma reglamentaria para establecer bases estatales conforme a la jurisprudencia del Tribunal Constitucional, que admite que «excepcionalmente», las bases puedan establecerse mediante normas reglamentarias en determinados supuestos como ocurre en el presente caso, cuando «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las Sentencias del Tribunal Constitucional 25/1983, de 7 de abril, 32/1983, de 28 de abril, 48/1988, de 22 de marzo, y 49/1988, de 22 de marzo). El presente real decreto se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 2 de junio de 2026,
+En su virtud, a propuesta de la Ministra de Educación, Formación Profesional y Deportes, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 2 de junio de 2026,
 
 **DISPONGO:**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales artículo 1 Objeto. El presente real decreto tiene por objeto incorporar a la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño lo dispuesto en la Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, así como actualizar determinados aspectos organizativos de dichas enseñanzas.
 
-#### Artículo 1. Objeto.
-
-El presente real decreto tiene por objeto incorporar a la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño lo dispuesto en la Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales, así como actualizar determinados aspectos organizativos de dichas enseñanzas.
-
-#### Artículo 2. Definición.
+#### Artículo 2. Definición.
 
 Las Enseñanzas Profesionales de Artes Plásticas y Diseño del sistema educativo abarcan un conjunto de acciones formativas orientadas a la capacitación cualificada para el ejercicio de diversas profesiones vinculadas a las artes aplicadas, los oficios artísticos y el diseño, desde una perspectiva artística, técnica, cultural y creativa, integrada y coherente con la naturaleza creativa de estas disciplinas.
 
-#### Artículo 3. Principios generales de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Artículo 3. Principios generales de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 Las Enseñanzas Profesionales de Artes Plásticas y Diseño se desarrollan conforme a los principios de:
 
@@ -170,31 +161,29 @@ Las Enseñanzas Profesionales de Artes Plásticas y Diseño se desarrollan confo
 
 9. Correspondencia entre las titulaciones de Enseñanzas Profesionales de Artes Plásticas y Diseño y los niveles establecidos en el Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU), asegurando su alineación con los marcos europeos, con el fin de facilitar la movilidad, empleabilidad y transición profesional de las personas.
 
-#### Artículo 4. Objetivos de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Artículo 4. Objetivos de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 1. Las Enseñanzas Profesionales de Artes Plásticas y Diseño tienen como objetivos que el alumnado sea capaz de:
 
-a) Desarrollar las competencias profesionales propias de cada título que le permitan iniciar, adaptar o progresar en la práctica profesional con garantías de calidad, innovación, creatividad, funcionalidad, sostenibilidad y solvencia, favoreciendo asimismo la eliminación de la segregación formativa entre mujeres y hombres.
+a) Desarrollar las competencias profesionales propias de cada título que le permitan iniciar, adaptar o progresar en la práctica profesional con garantías de calidad, innovación, creatividad, funcionalidad, sostenibilidad y solvencia, favoreciendo asimismo la eliminación de la segregación formativa entre mujeres y hombres.
 
-b) Comprender la organización y características del ámbito profesional propio de cada título, los aspectos legislativos que regulan las relaciones laborales en el sector profesional correspondiente, así como la prevención de riesgos laborales y los mecanismos básicos y específicos para la inserción profesional.
+b) Comprender la organización y características del ámbito profesional propio de cada título, los aspectos legislativos que regulan las relaciones laborales en el sector profesional correspondiente, así como la prevención de riesgos laborales y los mecanismos básicos y específicos para la inserción profesional.
 
-c) Desarrollar habilidades y destrezas en las áreas prioritarias establecidas por las directrices de la Unión Europea, especialmente aquellas que favorezcan la adquisición de competencias que contribuyan al desarrollo del Espacio Europeo de Educación y Formación.
+c) Desarrollar habilidades y destrezas en las áreas prioritarias establecidas por las directrices de la Unión Europea, especialmente aquellas que favorezcan la adquisición de competencias que contribuyan al desarrollo del Espacio Europeo de Educación y Formación.
 
-d) Potenciar el espíritu emprendedor, el autoaprendizaje y la capacidad de adaptación a la evolución de las concepciones artísticas, creativas, de diseño y de los procesos técnicos y tecnológicos, así como utilizar los cauces de información y formación continuada relacionados con el ejercicio de su profesión y con el desarrollo de iniciativas personales y profesionales.
+d) Potenciar el espíritu emprendedor, el autoaprendizaje y la capacidad de adaptación a la evolución de las concepciones artísticas, creativas, de diseño y de los procesos técnicos y tecnológicos, así como utilizar los cauces de información y formación continuada relacionados con el ejercicio de su profesión y con el desarrollo de iniciativas personales y profesionales.
 
-e) Garantizar una rápida adaptación a los desafíos futuros en entornos de trabajo complejos, promoviendo una formación artística profesional capaz de responder a las nuevas necesidades que surjan en el ámbito laboral.
+e) Garantizar una rápida adaptación a los desafíos futuros en entornos de trabajo complejos, promoviendo una formación artística profesional capaz de responder a las nuevas necesidades que surjan en el ámbito laboral.
 
-f) Favorecer el desarrollo y la renovación de industrias e iniciativas artísticas y culturales fuertes y sostenibles, mediante la reflexión estética, crítica y funcional, del dominio de los procedimientos artísticos, técnicos y tecnológicos de realización, así como la investigación y la experimentación, utilizando metodologías de desarrollo de proyectos adecuadas.
+f) Favorecer el desarrollo y la renovación de industrias e iniciativas artísticas y culturales fuertes y sostenibles, mediante la reflexión estética, crítica y funcional, del dominio de los procedimientos artísticos, técnicos y tecnológicos de realización, así como la investigación y la experimentación, utilizando metodologías de desarrollo de proyectos adecuadas.
 
-g) Valorar las artes plásticas y el diseño como lenguaje creativo universal, medio de expresión cultural y motor de enriquecimiento de los oficios artísticos, la preservación del patrimonio y la innovación mediante el diseño.
+g) Valorar las artes plásticas y el diseño como lenguaje creativo universal, medio de expresión cultural y motor de enriquecimiento de los oficios artísticos, la preservación del patrimonio y la innovación mediante el diseño.
 
 2. Estas enseñanzas contribuirán a visibilizar el impacto cultural, social y económico del diseño y las artes plásticas como disciplinas creativas y estratégicas, favoreciendo la participación del alumnado en iniciativas vinculadas al desarrollo cultural, social y territorial.
 
-CAPÍTULO II
+## Capítulo II. Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas y Diseño
-
-#### Artículo 5. Ciclos formativos de Artes Plásticas y Diseño.
+#### Artículo 5. Ciclos formativos de Artes Plásticas y Diseño.
 
 1. Las Enseñanzas Profesionales de Artes Plásticas y Diseño se organizarán en ciclos formativos pertenecientes a las familias profesionales artísticas que se relacionan en el anexo I, sin perjuicio de las actualizaciones que pudieran producirse en el futuro para incorporar nuevas enseñanzas.
 
@@ -202,39 +191,39 @@ Organización y estructura de las Enseñanzas Profesionales de Artes Plásticas 
 
 3. Todos los ciclos formativos de grado medio y de grado superior incorporarán, además, una fase de formación práctica en entornos reales de trabajo en distintas entidades colaboradoras, que se concretará en la Formación práctica en empresas, estudios y talleres.
 
-4. Asimismo, para obtener el título correspondiente, será preciso desarrollar y obtener una calificación positiva en el Proyecto integrado a que se refiere el artículo 14.
+4. Asimismo, para obtener el título correspondiente, será preciso desarrollar y obtener una calificación positiva en el Proyecto integrado a que se refiere el artículo 14.
 
-5. Conforme establece el artículo 3.4 de la Ley Orgánica 2/2006, de 3 de mayo, los ciclos formativos de grado medio pertenecen al ámbito de la educación secundaria postobligatoria. Cuando proceda, los módulos profesionales que conforman sus currículos se vincularán a estándares de competencias profesionales (en adelante, «ECP») de nivel 2 del Catálogo.
+5. Conforme establece el artículo 3.4 de la Ley Orgánica 2/2006, de 3 de mayo, los ciclos formativos de grado medio pertenecen al ámbito de la educación secundaria postobligatoria. Cuando proceda, los módulos profesionales que conforman sus currículos se vincularán a estándares de competencias profesionales (en adelante, «ECP») de nivel 2 del Catálogo.
 
-6. Conforme establece el artículo 3.5 de la Ley Orgánica 2/2006, de 3 de mayo, los ciclos formativos de grado superior pertenecen al ámbito de la educación superior. Cuando proceda, los módulos profesionales que integran sus currículos se vincularán a ECP de nivel 3 del Catálogo.
+6. Conforme establece el artículo 3.5 de la Ley Orgánica 2/2006, de 3 de mayo, los ciclos formativos de grado superior pertenecen al ámbito de la educación superior. Cuando proceda, los módulos profesionales que integran sus currículos se vincularán a ECP de nivel 3 del Catálogo.
 
 7. En el diseño curricular de los ciclos formativos de grado medio y de grado superior, podrán incluirse módulos profesionales no vinculados a ECP del Catálogo, con el fin de dar cobertura a la totalidad de las competencias distintivas de estas enseñanzas.
 
-8. La carga lectiva total será de 1.600 horas en los ciclos formativos de grado medio y de 2.000 horas en los ciclos formativos de grado superior, que se distribuirán conforme a lo dispuesto los anexos II.a) y II.b), respectivamente. Sin perjuicio de lo anterior, las administraciones educativas podrán ampliar la duración establecida con carácter básico hasta un máximo del 10% en sus respectivos desarrollos curriculares.
+8. La carga lectiva total será de 1.600 horas en los ciclos formativos de grado medio y de 2.000 horas en los ciclos formativos de grado superior, que se distribuirán conforme a lo dispuesto los anexos II.a) y II.b), respectivamente. Sin perjuicio de lo anterior, las administraciones educativas podrán ampliar la duración establecida con carácter básico hasta un máximo del 10% en sus respectivos desarrollos curriculares.
 
-#### Artículo 6. Estructura de los títulos de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Artículo 6. Estructura de los títulos de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 Las normas que el Gobierno dicte para establecer los diferentes títulos de Artes Plásticas y Diseño especificarán:
 
 1. La identificación del título:
 
-a) Denominación.
+a) Denominación.
 
-b) Nivel.
+b) Nivel.
 
-c) Duración.
+c) Duración.
 
-d) Familia profesional artística.
+d) Familia profesional artística.
 
-e) Nivel en el Marco Español de Cualificaciones para el Aprendizaje Permanente y sus correspondencias con los marcos europeos.
+e) Nivel en el Marco Español de Cualificaciones para el Aprendizaje Permanente y sus correspondencias con los marcos europeos.
 
-f) En el caso de ciclos formativos de grado superior, número de créditos ECTS.
+f) En el caso de ciclos formativos de grado superior, número de créditos ECTS.
 
 2. El perfil profesional, que incluirá:
 
-a) La competencia general del título, así como las competencias profesionales y para la empleabilidad.
+a) La competencia general del título, así como las competencias profesionales y para la empleabilidad.
 
-b) La relación de ECP del Catálogo incluidas en el título.
+b) La relación de ECP del Catálogo incluidas en el título.
 
 3. El entorno profesional, que incluye, entre otros, las ocupaciones y puestos de trabajo más relevantes asociados al título.
 
@@ -246,21 +235,21 @@ b) La relación de ECP del Catálogo incluidas en el título.
 
 7. La correspondencia de los módulos profesionales con los ECP a efectos de acreditación, convalidación o exención que procedan.
 
-#### Artículo 7. Oferta formativa y modalidades de enseñanza.
+#### Artículo 7. Oferta formativa y modalidades de enseñanza.
 
 1. Corresponde a las administraciones educativas, en el ámbito de sus competencias, la programación de la oferta de ciclos formativos sostenida con fondos públicos.
 
-2. En cumplimiento de lo previsto en la disposición adicional cuarta de la Ley 1/2024, de 7 de junio, las comunidades autónomas podrán elevar propuesta al Gobierno para iniciar los trámites de creación de nuevos títulos de Enseñanzas Profesionales de Artes Plásticas y Diseño, con objeto de adecuar la oferta formativa a los perfiles profesionales demandados por el sector profesional, cultural y artístico de sus territorios.
+2. En cumplimiento de lo previsto en la disposición adicional cuarta de la Ley 1/2024, de 7 de junio, las comunidades autónomas podrán elevar propuesta al Gobierno para iniciar los trámites de creación de nuevos títulos de Enseñanzas Profesionales de Artes Plásticas y Diseño, con objeto de adecuar la oferta formativa a los perfiles profesionales demandados por el sector profesional, cultural y artístico de sus territorios.
 
 3. Cuando, en función de sus características, así se prevea en la regulación de los títulos correspondientes, determinadas enseñanzas podrán acogerse a un modelo de carácter dual que permita que los procesos de enseñanza y aprendizaje se desarrollen de forma combinada entre el centro educativo y empresas, estudios, talleres, archivos, bibliotecas, teatros, museos, fundaciones, patronatos, compañías de artes escénicas y otras entidades, con o sin ánimo de lucro, del ámbito correspondiente a las distintas disciplinas artísticas.
 
-4. La implantación del modelo dual de aquellos títulos cuya normativa básica así lo autorice corresponderá a la Administración educativa de cada comunidad autónoma. De conformidad con lo dispuesto en el artículo 66.5 de la Ley 1/2024, de 7 de junio, dicha implantación se regulará conforme a lo previsto para los Grados D en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional y en su normativa de desarrollo.
+4. La implantación del modelo dual de aquellos títulos cuya normativa básica así lo autorice corresponderá a la Administración educativa de cada comunidad autónoma. De conformidad con lo dispuesto en el artículo 66.5 de la Ley 1/2024, de 7 de junio, dicha implantación se regulará conforme a lo previsto para los Grados D en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional y en su normativa de desarrollo.
 
 5. En la normativa reguladora de cada título se establecerán las condiciones a partir de las cuales las administraciones educativas podrán autorizar la impartición de las enseñanzas en las siguientes modalidades:
 
-a) Modalidad semipresencial, caracterizada por la alternancia de actividades formativas presenciales obligatorias con sesiones desarrolladas a distancia.
+a) Modalidad semipresencial, caracterizada por la alternancia de actividades formativas presenciales obligatorias con sesiones desarrolladas a distancia.
 
-b) Modalidad virtual, desarrollada íntegramente de forma no presencial mediante el uso de entornos digitales.
+b) Modalidad virtual, desarrollada íntegramente de forma no presencial mediante el uso de entornos digitales.
 
 Dichas ofertas formativas podrán comprender la totalidad del ciclo o limitarse a determinados módulos profesionales, atendiendo a la naturaleza de los contenidos, así como a las necesidades y perfiles de las personas destinatarias. En todo caso, la implantación de estas modalidades quedará supeditada a la preceptiva autorización administrativa previa de la administración educativa correspondiente, la cual deberá garantizar su seguimiento, control y supervisión. A tal efecto, las administraciones educativas establecerán, mediante las disposiciones normativas o actos administrativos que resulten procedentes, las condiciones para la puesta en marcha y el funcionamiento de las enseñanzas en modalidades distintas de la presencial, de manera que se garantice su calidad.
 
@@ -268,7 +257,7 @@ Dichas ofertas formativas podrán comprender la totalidad del ciclo o limitarse 
 
 7. Para impartir enseñanzas en la modalidad virtual, además del cumplimiento de los requisitos generales para impartir Enseñanzas Profesionales de Artes Plásticas y Diseño y los específicos asociados a cada especialidad, los centros educativos deberán reunir las siguientes condiciones:
 
-a) Contar con una plataforma accesible de aprendizaje en línea con la capacidad necesaria para gestionar y garantizar la formación, permitiendo la interactividad y el trabajo cooperativo, así como la disponibilidad de un servicio técnico de mantenimiento.
+a) Contar con una plataforma accesible de aprendizaje en línea con la capacidad necesaria para gestionar y garantizar la formación, permitiendo la interactividad y el trabajo cooperativo, así como la disponibilidad de un servicio técnico de mantenimiento.
 
 Dicha plataforma de aprendizaje deberá poseer los siguientes requisitos:
 
@@ -278,11 +267,11 @@ Dicha plataforma de aprendizaje deberá poseer los siguientes requisitos:
 
 3.º Permitir el acceso simultáneo para todas las personas potencialmente usuarias, garantizando un ancho de banda de la plataforma estable durante todas las etapas del curso.
 
-b) Disponer de un proyecto formativo que detalle la planificación didáctica, la metodología de aprendizaje, las tutorías presenciales o en línea cuando proceda, así como los mecanismos de seguimiento y los instrumentos de evaluación.
+b) Disponer de un proyecto formativo que detalle la planificación didáctica, la metodología de aprendizaje, las tutorías presenciales o en línea cuando proceda, así como los mecanismos de seguimiento y los instrumentos de evaluación.
 
-c) Contar con recursos y materiales de la calidad tecnológica y didáctica necesaria para desarrollar el currículo de la oferta formativa solicitada.
+c) Contar con recursos y materiales de la calidad tecnológica y didáctica necesaria para desarrollar el currículo de la oferta formativa solicitada.
 
-d) Garantizar la disponibilidad de los espacios para cubrir las horas de enseñanza presencial correspondientes a:
+d) Garantizar la disponibilidad de los espacios para cubrir las horas de enseñanza presencial correspondientes a:
 
 1.º Las ofertas formativas autorizadas al centro en régimen presencial.
 
@@ -294,17 +283,15 @@ d) Garantizar la disponibilidad de los espacios para cubrir las horas de ense�
 
 9. No se permitirá la matrícula simultánea de un mismo módulo profesional en diferentes modalidades u ofertas formativas. Las matrículas formalizadas que contravengan esta prohibición serán anuladas y privadas de todo efecto.
 
-#### Artículo 8. Dobles titulaciones.
+#### Artículo 8. Dobles titulaciones.
 
 1. En el marco normativo que establezca cada Administración educativa, podrán configurarse ofertas formativas integradas que conduzcan a la obtención de dos titulaciones de Enseñanzas de Artes Plásticas y Diseño del mismo nivel educativo, con una duración máxima de tres cursos académicos. Con ese fin, las administraciones educativas diseñarán un currículo integrado que deberá garantizar la impartición de los módulos profesionales que conforman la parte troncal obligatoria de ambos títulos. El Proyecto integrado podrá adaptarse a la combinación de la nueva oferta formativa, pero la configuración de las dobles titulaciones no podrá suponer una reducción en la parte troncal obligatoria de ambos ciclos, recogida en los reales decretos que los establecen.
 
-2. En el ámbito de la cooperación internacional, el Gobierno podrá establecer currículos mixtos entre las Enseñanzas de Artes Plásticas y Diseño del sistema educativo español y las de otros sistemas educativos, conducentes a la obtención de los títulos respectivos, de acuerdo con lo establecido en el artículo 6.9 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En este caso, el currículo a impartir responderá al de carácter básico definido por ambos países para este tipo de oferta. Serán las administraciones educativas las que, en el ejercicio de sus competencias, determinen la implantación de estos currículos mixtos en su respectivo ámbito territorial.
+2. En el ámbito de la cooperación internacional, el Gobierno podrá establecer currículos mixtos entre las Enseñanzas de Artes Plásticas y Diseño del sistema educativo español y las de otros sistemas educativos, conducentes a la obtención de los títulos respectivos, de acuerdo con lo establecido en el artículo 6.9 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. En este caso, el currículo a impartir responderá al de carácter básico definido por ambos países para este tipo de oferta. Serán las administraciones educativas las que, en el ejercicio de sus competencias, determinen la implantación de estos currículos mixtos en su respectivo ámbito territorial.
 
-CAPÍTULO III
+## Capítulo III. Enseñanzas mínimas y establecimiento del currículo.
 
-Enseñanzas mínimas y establecimiento del currículo
-
-#### Artículo 9. Establecimiento de las enseñanzas mínimas.
+#### Artículo 9. Establecimiento de las enseñanzas mínimas.
 
 Los aspectos básicos del currículo que constituyen las enseñanzas mínimas correspondientes a los títulos de las Enseñanzas Profesionales de Artes Plásticas y Diseño incluirán los siguientes elementos:
 
@@ -312,69 +299,69 @@ Los aspectos básicos del currículo que constituyen las enseñanzas mínimas co
 
 2. Una parte troncal obligatoria, determinante de la entidad del ciclo y garante de la competencia general asociada al perfil profesional correspondiente, que se distribuye en:
 
-a) Módulos profesionales específicos del título profesional, cuyos currículos básicos se estructurarán conforme a lo dispuesto en el artículo 11.
+a) Módulos profesionales específicos del título profesional, cuyos currículos básicos se estructurarán conforme a lo dispuesto en el artículo 11.
 
-b) Dos módulos profesionales comunes a todos los títulos, asociados a las habilidades y capacidades transversales, así como a la orientación laboral y el emprendimiento pertinentes para el conocimiento de los sectores productivos y para la madurez profesional:
+b) Dos módulos profesionales comunes a todos los títulos, asociados a las habilidades y capacidades transversales, así como a la orientación laboral y el emprendimiento pertinentes para el conocimiento de los sectores productivos y para la madurez profesional:
 
 1.º Empleabilidad y gestión de la actividad profesional (común para grado medio y superior).
 
 2.º Procesos digitales aplicados al entorno profesional, nivel medio y Procesos digitales aplicados al entorno profesional, nivel superior.
 
-c) Proyecto integrado.
+c) Proyecto integrado.
 
-d) Formación práctica en empresas, estudios y talleres.
+d) Formación práctica en empresas, estudios y talleres.
 
 3. Una parte de desarrollo autonómico, cuya regulación será competencia de las administraciones educativas, que podrá contemplar la inclusión de módulos profesionales de carácter optativo.
 
-#### Artículo 10. Características y tipos de módulos profesionales.
+#### Artículo 10. Características y tipos de módulos profesionales.
 
 1. Cada módulo profesional puede asociarse a uno o a varios de los ECP del Catálogo, que establecen, con el indicador de calidad requerido, los resultados de aprendizaje necesarios para el desempeño de las actividades y tareas en ellos descritas en términos de competencia para el ejercicio de una actividad artística profesional concreta.
 
 2. El currículo de los ciclos formativos incluirá, asimismo, módulos profesionales no vinculados a ECP que, además de cumplir sus objetivos específicos, favorecerán la adquisición por parte del alumnado de las competencias generales, personales y sociales, así como al logro de los objetivos de empleabilidad asociados al título.
 
-#### Artículo 11. Estructura básica de los módulos profesionales.
+#### Artículo 11. Estructura básica de los módulos profesionales.
 
 1. Integran el currículo básico de cada módulo profesional:
 
-a) La denominación del módulo.
+a) La denominación del módulo.
 
-b) Los resultados de aprendizaje, que describen de forma clara, evaluable y verificable lo que el alumnado debe saber, comprender y ser capaz de hacer para superar el módulo profesional correspondiente.
+b) Los resultados de aprendizaje, que describen de forma clara, evaluable y verificable lo que el alumnado debe saber, comprender y ser capaz de hacer para superar el módulo profesional correspondiente.
 
-c) Los criterios de evaluación asociados a cada resultado de aprendizaje.
+c) Los criterios de evaluación asociados a cada resultado de aprendizaje.
 
-d) La carga lectiva mínima expresada en horas.
+d) La carga lectiva mínima expresada en horas.
 
-e) Los ECP del Catálogo a los que está asociado, cuando corresponda.
+e) Los ECP del Catálogo a los que está asociado, cuando corresponda.
 
-f) El número de créditos ECTS, en caso de los ciclos de grado superior.
+f) El número de créditos ECTS, en caso de los ciclos de grado superior.
 
-g) Los requisitos del personal docente y formador, así como las equivalencias a efectos de docencia que, en su caso, procedan.
+g) Los requisitos del personal docente y formador, así como las equivalencias a efectos de docencia que, en su caso, procedan.
 
 2. Los contenidos se consideran implícitamente incluidos en la expresión de los resultados de aprendizaje y de los criterios de evaluación. Adicionalmente, y a título orientativo, las administraciones competentes en el diseño de los currículos podrán incluir contenidos en el currículo de los módulos profesionales, con el compromiso, en ese caso, de garantizar su actualización permanente.
 
-#### Artículo 12. Módulo profesional de Empleabilidad y gestión de la actividad profesional.
+#### Artículo 12. Módulo profesional de Empleabilidad y gestión de la actividad profesional.
 
 1. Los ciclos formativos incluirán el módulo profesional de Empleabilidad y gestión de la actividad profesional, común a todos los ciclos formativos de grado medio y de grado superior.
 
 2. Este módulo profesional está orientado a conocer los aspectos organizativos, económicos y legislativos básicos que inciden en el ejercicio profesional, en las relaciones laborales y en el ámbito empresarial del sector profesional correspondiente, así como las oportunidades de aprendizaje, formación continuada y acceso al empleo y a la reinserción laboral. Además, este módulo profesional aborda temas relacionados con la prevención de riesgos laborales y contribuye a fomentar el espíritu emprendedor, incluyendo el emprendimiento colectivo en economía social, el desarrollo de actividades empresariales y el trabajo por cuenta propia.
 
-3. Conforme a lo dispuesto en el artículo 34.1.a), quien haya superado el módulo profesional Empleabilidad y gestión de la actividad profesional podrá solicitar su convalidación en el caso de iniciar estudios en otro ciclo formativo de Artes Plásticas y Diseño, tanto de grado medio como de grado superior.
+3. Conforme a lo dispuesto en el artículo 34.1.a), quien haya superado el módulo profesional Empleabilidad y gestión de la actividad profesional podrá solicitar su convalidación en el caso de iniciar estudios en otro ciclo formativo de Artes Plásticas y Diseño, tanto de grado medio como de grado superior.
 
 4. El currículo básico de este módulo profesional se establece en el anexo III de esta disposición.
 
 5. Quien hubiera cursado y superado el módulo de Formación y orientación laboral (FOL) en un ciclo formativo de enseñanzas profesionales de Artes Plásticas y Diseño o de Formación Profesional reguladas conforme a normativas anteriores podrá solicitar en su centro la convalidación del módulo de Empleabilidad y gestión de la actividad profesional. En tal caso, dicho módulo constará como «Convalidado» en las nuevas enseñanzas, con expresión de la calificación obtenida en la formación anterior, la cual será tenida en cuenta para el cálculo de la nota media final del ciclo.
 
-#### Artículo 13. Módulo profesional de Procesos digitales aplicados al entorno profesional.
+#### Artículo 13. Módulo profesional de Procesos digitales aplicados al entorno profesional.
 
 1. Los módulos profesionales Procesos digitales aplicados al entorno profesional, nivel medio, en los ciclos formativos de grado medio y Procesos digitales aplicados al entorno profesional, nivel superior, en los ciclos de grado superior, tendrán como objeto que el alumnado adquiera las competencias transversales básicas e intermedias en digitalización, respectivamente, incluyendo el análisis de su impacto en los procesos productivos y comerciales del sector correspondiente.
 
-2. Conforme a lo dispuesto en el artículo 34.1.b), quien supere el módulo profesional Procesos digitales aplicados al entorno profesional, nivel medio, podrá solicitar su convalidación en el caso de iniciar estudios en otro u otros ciclos de grado medio de Artes Plásticas y Diseño de la misma familia profesional artística.
+2. Conforme a lo dispuesto en el artículo 34.1.b), quien supere el módulo profesional Procesos digitales aplicados al entorno profesional, nivel medio, podrá solicitar su convalidación en el caso de iniciar estudios en otro u otros ciclos de grado medio de Artes Plásticas y Diseño de la misma familia profesional artística.
 
-3. Conforme a lo dispuesto en el artículo 34.1.c), quien supere el módulo profesional Procesos digitales aplicados al entorno profesional, nivel superior, podrá solicitar su convalidación en el caso de iniciar estudios en otro u otros ciclos de grado medio o de grado superior de Artes Plásticas y Diseño de la misma familia profesional artística.
+3. Conforme a lo dispuesto en el artículo 34.1.c), quien supere el módulo profesional Procesos digitales aplicados al entorno profesional, nivel superior, podrá solicitar su convalidación en el caso de iniciar estudios en otro u otros ciclos de grado medio o de grado superior de Artes Plásticas y Diseño de la misma familia profesional artística.
 
 4. Los currículos básicos de Procesos digitales aplicados al entorno profesional, nivel medio, y Procesos digitales aplicados al entorno profesional, nivel superior, se establecen, respectivamente, en los anexos IV y V.
 
-#### Artículo 14. Proyecto integrado.
+#### Artículo 14. Proyecto integrado.
 
 1. En todos los ciclos formativos, de grado medio y de grado superior, deberá desarrollarse el Proyecto integrado, cuyo objetivo es que el alumnado demuestre su capacidad para movilizar de manera integrada los conocimientos, destrezas y actitudes adquiridas, con el fin de desarrollar las competencias específicas del campo profesional propio de la especialidad del título correspondiente, mediante la elaboración y ejecución de un proyecto acorde al nivel cursado que evidencie rigor técnico, innovación, calidad profesional y viabilidad.
 
@@ -386,11 +373,11 @@ g) Los requisitos del personal docente y formador, así como las equivalencias
 
 5. El Proyecto integrado no puede ser objeto de convalidación o exención.
 
-#### Artículo 15. Formación práctica en empresas, estudios y talleres.
+#### Artículo 15. Formación práctica en empresas, estudios y talleres.
 
 1. La Formación práctica en empresas, estudios y talleres será de inclusión obligatoria en todos los ciclos formativos de grado medio y de grado superior bajo la condición de formación curricular, manteniendo una naturaleza estrictamente formativa, no laboral ni de naturaleza dual. El desempeño de estas actividades formativas no podrá suponer, en ningún caso, la sustitución de funciones que corresponden a una persona trabajadora.
 
-2. A la formación práctica en empresas, estudios y talleres le será de aplicación lo establecido en la disposición adicional quincuagésima segunda del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, relativa a la inclusión en el sistema de Seguridad Social de alumnos que realicen prácticas formativas o prácticas académicas externas incluidas en programas de formación.
+2. A la formación práctica en empresas, estudios y talleres le será de aplicación lo establecido en la disposición adicional quincuagésima segunda del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, relativa a la inclusión en el sistema de Seguridad Social de alumnos que realicen prácticas formativas o prácticas académicas externas incluidas en programas de formación.
 
 3. La Formación práctica en empresas, estudios y talleres promoverá la integración de las competencias profesionales específicas con competencias transversales tales como la capacidad de resolución de problemas, el trabajo en equipo, la responsabilidad y el uso de tecnologías emergentes.
 
@@ -400,21 +387,21 @@ g) Los requisitos del personal docente y formador, así como las equivalencias
 
 6. Las administraciones educativas, de acuerdo con sus disponibilidades organizativas, determinarán el momento de su realización y evaluación, en función de las características propias de cada ciclo formativo y de las oportunidades formativas del contexto, atendiendo a las siguientes consideraciones:
 
-a) Se promoverá la autonomía de los centros educativos en la organización y desarrollo de la Formación práctica en empresas, estudios y talleres.
+a) Se promoverá la autonomía de los centros educativos en la organización y desarrollo de la Formación práctica en empresas, estudios y talleres.
 
-b) Con carácter general, la Formación práctica en empresas, estudios y talleres se realizará en un único centro de trabajo. No obstante, en el marco que establezca cada Administración educativa, también podrá llevarse a cabo en más de un centro si con ello se favorece la adquisición de competencias complementarias.
+b) Con carácter general, la Formación práctica en empresas, estudios y talleres se realizará en un único centro de trabajo. No obstante, en el marco que establezca cada Administración educativa, también podrá llevarse a cabo en más de un centro si con ello se favorece la adquisición de competencias complementarias.
 
-c) Excepcionalmente, las administraciones educativas competentes podrán autorizar la realización de la Formación práctica en empresas, estudios y talleres en instituciones u organismos públicos, incluido el propio centro educativo, siempre que la competencia general de la oferta formativa coincida con el objeto del organismo público. En el caso de que la Formación práctica en empresas, estudios y talleres se desarrolle en el propio centro, deberá conformarse un entorno laboral simulado, bajo la supervisión de un docente que cumplirá la función de tutor o tutora del centro de trabajo.
+c) Excepcionalmente, las administraciones educativas competentes podrán autorizar la realización de la Formación práctica en empresas, estudios y talleres en instituciones u organismos públicos, incluido el propio centro educativo, siempre que la competencia general de la oferta formativa coincida con el objeto del organismo público. En el caso de que la Formación práctica en empresas, estudios y talleres se desarrolle en el propio centro, deberá conformarse un entorno laboral simulado, bajo la supervisión de un docente que cumplirá la función de tutor o tutora del centro de trabajo.
 
-d) La Formación práctica en empresas, estudios o talleres podrá acogerse a las condiciones que cada empresa, estudio, taller o entidad tenga establecidas con respecto al teletrabajo, de acuerdo con la normativa reguladora del mismo.
+d) La Formación práctica en empresas, estudios o talleres podrá acogerse a las condiciones que cada empresa, estudio, taller o entidad tenga establecidas con respecto al teletrabajo, de acuerdo con la normativa reguladora del mismo.
 
 7. Cuando las enseñanzas se desarrollen en la modalidad de carácter dual, el horario asignado a la Formación práctica en empresas, estudios y talleres en el currículo básico del título correspondiente se distribuirá proporcionalmente al número de horas entre el resto de los módulos profesionales que conforman el correspondiente ciclo formativo, manteniendo la duración total de la acción formativa.
 
-8. Antes de comenzar la Formación práctica en empresas, estudios y talleres, el alumnado deberá haber recibido y superado la formación en prevención de riesgos laborales específicos de su ámbito profesional a la que se refiere el artículo 17 de esta norma. Este requisito será tenido en cuenta por las administraciones y los centros educativos al diseñar e implementar los currículos de cada ciclo formativo.
+8. Antes de comenzar la Formación práctica en empresas, estudios y talleres, el alumnado deberá haber recibido y superado la formación en prevención de riesgos laborales específicos de su ámbito profesional a la que se refiere el artículo 17 de esta norma. Este requisito será tenido en cuenta por las administraciones y los centros educativos al diseñar e implementar los currículos de cada ciclo formativo.
 
-9. La Formación práctica en empresas, estudios y talleres podrá ser objeto de exención por su correspondencia con la práctica laboral, en los términos establecidos en el artículo 39 de esta norma.
+9. La Formación práctica en empresas, estudios y talleres podrá ser objeto de exención por su correspondencia con la práctica laboral, en los términos establecidos en el artículo 39 de esta norma.
 
-#### Artículo 16. Módulos profesionales de carácter optativo.
+#### Artículo 16. Módulos profesionales de carácter optativo.
 
 1. En su ámbito de competencias, las administraciones educativas podrán diseñar módulos profesionales de carácter optativo con el fin de favorecer la personalización de los itinerarios formativos de su alumnado.
 
@@ -422,59 +409,57 @@ d) La Formación práctica en empresas, estudios o talleres podrá acogerse a 
 
 3. En el marco que establezca cada Administración educativa, los centros educativos podrán proponer módulos profesionales optativos propios. Con el fin de favorecer la progresión de los itinerarios formativos, dichas propuestas podrán diseñarse juntamente con centros de enseñanzas artísticas superiores o con universidades, siempre que se ajusten al marco de instrumentos de colaboración interinstitucional previamente autorizado por la Administración educativa competente.
 
-#### Artículo 17. Prevención de riesgos laborales y protección medioambiental.
+#### Artículo 17. Prevención de riesgos laborales y protección medioambiental.
 
 1. Además de la formación preventiva adquirida por la superación del módulo profesional de Empleabilidad y gestión de la actividad profesional, los módulos profesionales incorporarán en sus enseñanzas, cuando proceda, aquellos aspectos que se consideren necesarios para una eficaz prevención de los riesgos laborales específicos del ejercicio profesional correspondiente, así como los vinculados a la protección medioambiental y al tratamiento, aprovechamiento y eliminación de residuos derivados de la actividad profesional correspondiente. Antes de incorporarse a la Formación práctica en empresas, estudios y talleres, el alumnado deberá haber adquirido los resultados de aprendizaje correspondientes con los aspectos mencionados.
 
-2. Lo anterior se entenderá sin perjuicio de la plena aplicación, cuando proceda, de lo dispuesto en la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales y su normativa de desarrollo, por lo que sigue presente la obligación por parte de la empresa de formar a la persona trabajadora conforme al artículo 19 de la ley.
+2. Lo anterior se entenderá sin perjuicio de la plena aplicación, cuando proceda, de lo dispuesto en la [Ley 31/1995](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, de Prevención de Riesgos Laborales y su normativa de desarrollo, por lo que sigue presente la obligación por parte de la empresa de formar a la persona trabajadora conforme al artículo 19 de la ley.
 
-#### Artículo 18. Competencias en materia de currículo.
+#### Artículo 18. Competencias en materia de currículo.
 
-1. Las administraciones educativas, en su ámbito de competencias, establecerán el currículo correspondiente a cada título en conformidad con las atribuciones competenciales establecidas en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, en el presente real decreto y en la normativa básica que regule los títulos respectivos, así como en el resto de los desarrollos normativos de aplicación a las enseñanzas profesionales de Artes Plásticas y Diseño. En todo caso, se deberán respetar siempre todos los elementos contemplados en el currículo básico.
+1. Las administraciones educativas, en su ámbito de competencias, establecerán el currículo correspondiente a cada título en conformidad con las atribuciones competenciales establecidas en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, en el presente real decreto y en la normativa básica que regule los títulos respectivos, así como en el resto de los desarrollos normativos de aplicación a las enseñanzas profesionales de Artes Plásticas y Diseño. En todo caso, se deberán respetar siempre todos los elementos contemplados en el currículo básico.
 
 2. Al establecer sus currículos, las administraciones educativas podrán:
 
-a) Ampliar la duración horaria establecida con carácter básico para cada módulo profesional, respetando la duración general prevista para la oferta formativa, teniendo en cuenta lo establecido en el artículo 5.8.
+a) Ampliar la duración horaria establecida con carácter básico para cada módulo profesional, respetando la duración general prevista para la oferta formativa, teniendo en cuenta lo establecido en el artículo 5.8.
 
-b) Incorporar módulos profesionales propios, atendiendo a la realidad socioeconómica de su territorio, que podrán tener carácter optativo, conforme a lo establecido en el artículo 16 de esta norma.
+b) Incorporar módulos profesionales propios, atendiendo a la realidad socioeconómica de su territorio, que podrán tener carácter optativo, conforme a lo establecido en el artículo 16 de esta norma.
 
-c) Incorporar módulos profesionales pertenecientes a otros títulos de Enseñanzas de Artes Plásticas y Diseño del mismo nivel educativo.
+c) Incorporar módulos profesionales pertenecientes a otros títulos de Enseñanzas de Artes Plásticas y Diseño del mismo nivel educativo.
 
 3. Las incorporaciones previstas en las letras b) y c) del apartado anterior no podrán, en ningún caso, reducir la duración total prevista dedicada al desarrollo del currículo básico prescriptivo, ni alterarán la denominación, naturaleza o efectos académicos y profesionales del título; únicamente podrán dar lugar, en su caso, a la expedición de una certificación complementaria por parte de la administración educativa correspondiente.
 
 4. Las administraciones educativas podrán autorizar la impartición de los módulos profesionales tanto con carácter anual como por cuatrimestres, si con ello se favorece la movilidad del estudiantado. Asimismo, podrán autorizar organizaciones específicas de las enseñanzas que permitan concentrar la carga lectiva en determinados periodos semanales o mensuales, si con ello se favorece el logro de los objetivos previstos y se garantiza, en todo caso, la viabilidad y la calidad de las enseñanzas.
 
-5. Los centros que impartan Enseñanzas Profesionales de Artes Plásticas y Diseño, en uso de la autonomía que les reconoce el artículo 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, desarrollarán y adaptarán los currículos establecidos por la Administración educativa correspondiente, mediante el diseño e implementación de programaciones didácticas ajustadas a las características del contexto social y cultural, a las necesidades específicas de su alumnado y a las posibilidades formativas del entorno.
+5. Los centros que impartan Enseñanzas Profesionales de Artes Plásticas y Diseño, en uso de la autonomía que les reconoce el artículo 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, desarrollarán y adaptarán los currículos establecidos por la Administración educativa correspondiente, mediante el diseño e implementación de programaciones didácticas ajustadas a las características del contexto social y cultural, a las necesidades específicas de su alumnado y a las posibilidades formativas del entorno.
 
 6. Corresponde a las administraciones educativas y a los propios centros, en sus respectivos ámbitos de competencia:
 
-a) Contribuir al desarrollo de currículos que favorezcan modelos flexibles de programación docente y la utilización de materiales didácticos que respondan a las distintas necesidades del alumnado, bajo los principios del Diseño Universal para el Aprendizaje.
+a) Contribuir al desarrollo de currículos que favorezcan modelos flexibles de programación docente y la utilización de materiales didácticos que respondan a las distintas necesidades del alumnado, bajo los principios del Diseño Universal para el Aprendizaje.
 
-b) Velar por la actualización de los currículos. Cuando se produzcan modificaciones en los ECP del Catálogo asociadas a las enseñanzas conducentes a la obtención de un título determinado, deberá actualizarse, a su vez, el currículo del dicho título.
+b) **Velar por la actualización de los currículos.** Cuando se produzcan modificaciones en los ECP del Catálogo asociadas a las enseñanzas conducentes a la obtención de un título determinado, deberá actualizarse, a su vez, el currículo del dicho título.
 
-c) Establecer y desarrollar metodologías activas de aprendizaje que integren los aspectos artísticos, creativos, científicos, técnicos, tecnológicos y organizativos que en cada caso correspondan, con el fin de que el alumnado adquiera una visión global de los procesos y procedimientos propios de la actividad profesional correspondiente. Para ello, se prestará especial atención al desarrollo de la creatividad y la innovación en todos los ámbitos de las artes plásticas y el diseño, estimulando en el alumnado la capacidad para trabajar de forma autónoma y en equipo, así como impulsando la adquisición de habilidades relacionadas con la gestión de proyectos, la comunicación y el juicio crítico.
+c) Establecer y desarrollar metodologías activas de aprendizaje que integren los aspectos artísticos, creativos, científicos, técnicos, tecnológicos y organizativos que en cada caso correspondan, con el fin de que el alumnado adquiera una visión global de los procesos y procedimientos propios de la actividad profesional correspondiente. Para ello, se prestará especial atención al desarrollo de la creatividad y la innovación en todos los ámbitos de las artes plásticas y el diseño, estimulando en el alumnado la capacidad para trabajar de forma autónoma y en equipo, así como impulsando la adquisición de habilidades relacionadas con la gestión de proyectos, la comunicación y el juicio crítico.
 
 7. En el marco que establezca cada Administración educativa, el currículo podrá organizarse en módulos interdisciplinares, siempre que se garantice la adquisición por parte del alumnado de todas las competencias previstas en los distintos módulos profesionales. En este caso, la calificación obtenida en cada módulo interdisciplinar se trasladará a cada uno de los módulos profesionales que lo integran, con el fin de facilitar la movilidad de los estudiantes.
 
-CAPÍTULO IV
+## Capítulo IV. Acceso y admisión.
 
-Acceso y admisión
+#### Artículo 19. Requisitos de acceso a las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-#### Artículo 19. Requisitos de acceso a las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+1. Conforme a lo dispuesto en el artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, para acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño será necesario estar en posesión, como mínimo, del título de Graduado en Educación Secundaria Obligatoria, o título declarado equivalente y, además, acreditar las aptitudes necesarias mediante la superación de una prueba específica, sin perjuicio de lo dispuesto en el artículo 21.
 
-1. Conforme a lo dispuesto en el artículo 52.1 de la Ley Orgánica 2/2006, de 3 de mayo, para acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño será necesario estar en posesión, como mínimo, del título de Graduado en Educación Secundaria Obligatoria, o título declarado equivalente y, además, acreditar las aptitudes necesarias mediante la superación de una prueba específica, sin perjuicio de lo dispuesto en el artículo 21.
+2. Podrán acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes hayan superado el tercer curso de enseñanzas comunes de las enseñanzas de Artes Aplicadas y Oficios Artísticos establecidas por el Decreto 2127/1963, de 24 de julio, sobre reglamentación de los estudios de Escuelas de Artes y Oficios Artísticos o el segundo curso del plan experimental establecido al amparo del Real Decreto 799/1984, de 28 de marzo, sobre regulación de experiencias en Centros de Enseñanzas Artísticas, así como por el Real Decreto 942/1986, de 9 de mayo, por el que se establecen normas generales para la realización de experimentaciones educativas en Centros docentes. En este caso, no será necesaria la superación de la prueba específica.
 
-2. Podrán acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes hayan superado el tercer curso de enseñanzas comunes de las enseñanzas de Artes Aplicadas y Oficios Artísticos establecidas por el Decreto 2127/1963, de 24 de julio, sobre reglamentación de los estudios de Escuelas de Artes y Oficios Artísticos o el segundo curso del plan experimental establecido al amparo del Real Decreto 799/1984, de 28 de marzo, sobre regulación de experiencias en Centros de Enseñanzas Artísticas, así como por el Real Decreto 942/1986, de 9 de mayo, por el que se establecen normas generales para la realización de experimentaciones educativas en Centros docentes. En este caso, no será necesaria la superación de la prueba específica.
+3. Conforme a lo dispuesto en el artículo 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado superior de Artes Plásticas y Diseño quienes dispongan, como mínimo, del título de Bachiller o el de Técnico o Técnica de Formación Profesional o títulos declarados equivalentes con alguno de los anteriores y superen una prueba específica que permita demostrar las aptitudes necesarias para cursar con aprovechamiento las enseñanzas de que se trate, con la salvedad de lo dispuesto los apartados 2, 3 y 4 del artículo 21.
 
-3. Conforme a lo dispuesto en el artículo 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado superior de Artes Plásticas y Diseño quienes dispongan, como mínimo, del título de Bachiller o el de Técnico o Técnica de Formación Profesional o títulos declarados equivalentes con alguno de los anteriores y superen una prueba específica que permita demostrar las aptitudes necesarias para cursar con aprovechamiento las enseñanzas de que se trate, con la salvedad de lo dispuesto los apartados 2, 3 y 4 del artículo 21.
+4. Podrán acceder al grado superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes estén en posesión del título de Graduado o Graduada en Artes Aplicadas y Oficios Artísticos correspondiente al plan de estudios de 1963 o del plan experimental. En este caso, no será necesaria la superación de la prueba específica.
 
-4. Podrán acceder al grado superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes estén en posesión del título de Graduado o Graduada en Artes Aplicadas y Oficios Artísticos correspondiente al plan de estudios de 1963 o del plan experimental. En este caso, no será necesaria la superación de la prueba específica.
-
-5. Podrán acceder a las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes hayan superado la prueba de acceso a la universidad para mayores de 25 años y superen una prueba específica que permita demostrar las aptitudes necesarias para cursar con aprovechamiento estas enseñanzas.
+5. Podrán acceder a las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes hayan superado la prueba de acceso a la universidad para mayores de 25 años y superen una prueba específica que permita demostrar las aptitudes necesarias para cursar con aprovechamiento estas enseñanzas.
 
 6. Los requisitos de acceso a los ciclos de grado superior de Artes Plásticas y Diseño permitirán también el acceso a los ciclos de grado medio de dichas enseñanzas.
 
-#### Artículo 20. Regulación y validez de la prueba específica de acceso.
+#### Artículo 20. Regulación y validez de la prueba específica de acceso.
 
 1. Las administraciones educativas regularán la prueba específica de acceso mencionada en el artículo anterior, que se regirán por los principios de accesibilidad, igualdad de trato y no discriminación e igualdad de oportunidades.
 
@@ -492,29 +477,31 @@ Acceso y admisión
 
 8. La superación de la prueba específica de acceso a las Enseñanzas Profesionales de Artes Plásticas y Diseño tendrá validez en todo el territorio nacional exclusivamente en el mismo curso de su celebración, sin perjuicio de la disponibilidad de plazas en los diferentes centros y la normativa de admisión de cada administración.
 
-#### Artículo 21. Exenciones de la prueba específica de acceso a los grados medio y superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Artículo 21. Exenciones de la prueba específica de acceso a los grados medio y superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-1. Estarán exentos de realizar la prueba específica de acceso a los ciclos formativos de grado medio que se regula en el artículo 20 quienes accedan a estas enseñanzas en aplicación de lo dispuesto en el artículo 19.2.
+1. Estarán exentos de realizar la prueba específica de acceso a los ciclos formativos de grado medio que se regula en el artículo 20 quienes.
 
-2. Estarán exentos de realizar la prueba de acceso a los ciclos formativos de grado superior que se regula en el artículo 20, y por tanto también a los ciclos formativos de grado medio, quienes estén en posesión de:
+accedan a estas enseñanzas en aplicación de lo dispuesto en el artículo 19.2.
 
-a) Título de Técnico o Técnica de Artes Plásticas y Diseño.
+2. Estarán exentos de realizar la prueba de acceso a los ciclos formativos de grado superior que se regula en el artículo 20, y por tanto también a los ciclos formativos de grado medio, quienes estén en posesión de:
 
-b) El título al que se refiere el artículo 19.4.
+a) Título de Técnico o Técnica de Artes Plásticas y Diseño.
 
-c) El Título de Bachiller, modalidad de Artes, o de Bachillerato artístico experimental.
+b) El título al que se refiere el artículo 19.4.
 
-d) Una titulación oficial de enseñanzas artísticas superiores o de enseñanza universitaria en alguna de las siguientes disciplinas: artes plásticas, diseño, conservación y restauración de bienes culturales, bellas artes o arquitectura, así como del título de Grado en enseñanzas artísticas superiores de Arte dramático en la especialidad de Escenografía o de los títulos de otras disciplinas que pudieran crearse dentro de las enseñanzas artísticas superiores, en desarrollo de lo establecido en el artículo 6.2 de la Ley 1/2024, de 7 de junio, siempre que dichas titulaciones estuvieran relacionadas con las enseñanzas profesionales de Artes Plásticas y Diseño.
+c) El Título de Bachiller, modalidad de Artes, o de Bachillerato artístico experimental.
 
-3. Las administraciones educativas regularán la exención de la prueba específica de acceso a los grados medio y superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño a quienes, estando en posesión de los requisitos académicos de acceso conforme lo establecido en los artículos 52.1 y 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, acrediten tener experiencia laboral de, al menos, un año, relacionada directamente con las competencias profesionales del ciclo formativo de grado medio o superior al que se quiere acceder. En todo caso, se deberá aportar, al menos, un informe de vida laboral y la certificación acreditativa de la empresa donde se haya adquirido la experiencia laboral en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado dicha actividad. En el caso de personas trabajadoras por cuenta propia, deberá adjuntarse una certificación de alta en el censo de obligados tributarios, así como una declaración del interesado de las actividades más representativas.
+d) Una titulación oficial de enseñanzas artísticas superiores o de enseñanza universitaria en alguna de las siguientes disciplinas: artes plásticas, diseño, conservación y restauración de bienes culturales, bellas artes o arquitectura, así como del título de Grado en enseñanzas artísticas superiores de Arte dramático en la especialidad de Escenografía o de los títulos de otras disciplinas que pudieran crearse dentro de las enseñanzas artísticas superiores, en desarrollo de lo establecido en el artículo 6.2 de la Ley 1/2024, de 7 de junio, siempre que dichas titulaciones estuvieran relacionadas con las enseñanzas profesionales de Artes Plásticas y Diseño.
 
-4. Asimismo, las administraciones educativas regularán la exención de las pruebas específicas de acceso a quienes dispongan de, al menos, un ECP acreditado vinculado con los ciclos formativos a los que se pretende acceder. Los ECP acreditados de nivel 1 permitirán la exención de la prueba de acceso a los ciclos de grado medio. Los ECP acreditados de nivel 2 y 3 permitirán la exención de la prueba de acceso a los ciclos formativos de cualquier nivel.
+3. Las administraciones educativas regularán la exención de la prueba específica de acceso a los grados medio y superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño a quienes, estando en posesión de los requisitos académicos de acceso conforme lo establecido en los artículos 52.1 y 52.2 de la Ley Orgánica 2/2006, de 3 de mayo, acrediten tener experiencia laboral de, al menos, un año, relacionada directamente con las competencias profesionales del ciclo formativo de grado medio o superior al que se quiere acceder. En todo caso, se deberá aportar, al menos, un informe de vida laboral y la certificación acreditativa de la empresa donde se haya adquirido la experiencia laboral en la que conste específicamente la duración del contrato, la actividad desarrollada y el periodo de tiempo en el que se ha realizado dicha actividad. En el caso de personas trabajadoras por cuenta propia, deberá adjuntarse una certificación de alta en el censo de obligados tributarios, así como una declaración del interesado de las actividades más representativas.
 
-#### Artículo 22. Acceso a los grados medio y superior sin requisitos académicos.
+4. Asimismo, las administraciones educativas regularán la exención de las pruebas específicas de acceso a quienes dispongan de, al menos, un ECP acreditado vinculado con los ciclos formativos a los que se pretende acceder. Los ECP acreditados de nivel 1 permitirán la exención de la prueba de acceso a los ciclos de grado medio. Los ECP acreditados de nivel 2 y 3 permitirán la exención de la prueba de acceso a los ciclos formativos de cualquier nivel.
 
-1. Conforme a lo establecido en el artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes, careciendo de los requisitos académicos de acceso, superen una prueba general que acredite que se poseen las competencias suficientes para cursar con aprovechamiento dichas enseñanzas y tengan, como mínimo, diecisiete años cumplidos en el año de realización de la prueba.
+#### Artículo 22. Acceso a los grados medio y superior sin requisitos académicos.
 
-2. Conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño sin estar en posesión de los requisitos académicos de acceso quienes acrediten, mediante la superación de una prueba general, poseer la madurez necesaria en relación con los objetivos de Bachillerato y tengan como mínimo diecinueve años cumplidos en el año de realización de la prueba.
+1. Conforme a lo establecido en el artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño quienes, careciendo de los requisitos académicos de acceso, superen una prueba general que acredite que se poseen las competencias suficientes para cursar con aprovechamiento dichas enseñanzas y tengan, como mínimo, diecisiete años cumplidos en el año de realización de la prueba.
+
+2. Conforme al artículo 52.3 de la Ley Orgánica 2/2006, de 3 de mayo, podrán acceder al grado superior de las Enseñanzas Profesionales de Artes Plásticas y Diseño sin estar en posesión de los requisitos académicos de acceso quienes acrediten, mediante la superación de una prueba general, poseer la madurez necesaria en relación con los objetivos de Bachillerato y tengan como mínimo diecinueve años cumplidos en el año de realización de la prueba.
 
 3. Las administraciones educativas regularán y aplicarán la prueba general dirigida a este colectivo de alumnado que, para el acceso a los ciclos de grado medio, versará sobre las competencias de la Educación Secundaria Obligatoria y para el acceso al grado superior, permitirá acreditar la madurez en relación con las competencias específicas de las materias comunes de Bachillerato. La prueba general se regirá por los principios de accesibilidad, igualdad de trato y no discriminación e igualdad de oportunidades.
 
@@ -526,17 +513,19 @@ d) Una titulación oficial de enseñanzas artísticas superiores o de enseñan
 
 7. Se reconocerá la exención de la prueba general regulada en los apartados anteriores a quienes acrediten la superación de la prueba de acceso a ciclos formativos de Formación Profesional, o de sus cursos preparatorios, siempre que la vía de acceso acreditada sea del mismo grado que el ciclo de Artes Plásticas y Diseño al que se pretenda acceder.
 
-8. Además de superar la prueba general a la que se refieren los apartados anteriores de este artículo, quienes aspiren a acceder a un ciclo formativo de grado medio o de grado superior sin reunir los requisitos académicos exigidos, deberán también superar la prueba específica regulada en el artículo 20, salvo en aquellos supuestos en los que concurran los requisitos que permiten su exención, de conformidad con lo dispuesto en los apartados 3 y 4 del artículo 21.
+8. Además de superar la prueba general a la que se refieren los apartados anteriores de este artículo, quienes aspiren a acceder a un ciclo formativo de grado medio o de grado superior sin reunir los requisitos académicos exigidos, deberán también superar la prueba específica regulada en el artículo 20, salvo en aquellos supuestos en los que concurran los requisitos que permiten su exención, de conformidad con lo dispuesto en los apartados 3 y 4 del artículo 21.
 
-#### Artículo 23. Reserva de plazas y criterios de admisión.
+#### Artículo 23. Reserva de plazas y criterios de admisión.
 
 1. Las administraciones educativas organizarán y resolverán los procesos de admisión distribuyendo las plazas entre los siguientes colectivos:
 
-a) Aspirantes que cumplen los requisitos académicos y han superado o están exentos de superar la prueba específica.
+a) Aspirantes que cumplen los requisitos académicos y han superado o están exentos de superar la prueba específica.
 
-b) Aspirantes que no cumplen los requisitos académicos de acceso y han superado la prueba que se describe en el artículo 22 o están exentos de superar alguna de sus partes.
+b) Aspirantes que no cumplen los requisitos académicos de acceso y han superado la prueba que se describe en el artículo 22 o están.
 
-2. En cumplimiento de lo dispuesto en el artículo 75.4 de la Ley Orgánica 2/2006, de 3 de mayo, las administraciones educativas establecerán una reserva de plazas para personas con discapacidad. Asimismo, podrán establecer una reserva de plazas para los deportistas de élite, conforme a lo dispuesto en el artículo 24 de Ley 39/2022, de 30 de diciembre, del Deporte. En caso de no adjudicarse las plazas reservadas, estas se incorporarán a la oferta general.
+exentos de superar alguna de sus partes.
+
+2. En cumplimiento de lo dispuesto en el artículo 75.4 de la Ley Orgánica 2/2006, de 3 de mayo, las administraciones educativas establecerán una reserva de plazas para personas con discapacidad. Asimismo, podrán establecer una reserva de plazas para los deportistas de élite, conforme a lo dispuesto en el artículo 24 de Ley 39/2022, de 30 de diciembre, del Deporte. En caso de no adjudicarse las plazas reservadas, estas se incorporarán a la oferta general.
 
 3. Cuando el número de solicitudes supere al de las plazas ofertadas, se aplicarán los criterios de admisión que las administraciones educativas determinen.
 
@@ -544,11 +533,9 @@ b) Aspirantes que no cumplen los requisitos académicos de acceso y han supera
 
 5. En el marco que al efecto dispongan las administraciones educativas, el alumnado que, transcurrido el período que se establezca, no se incorpore a clase o acumule un determinado número de ausencias injustificadas podrá perder su plaza. Las vacantes resultantes podrán ser reasignadas a otras personas solicitantes conforme a los procedimientos que se establezcan, entre los que cabría incluir, entre otros, la gestión de listas de espera.
 
-CAPÍTULO V
+## Capítulo V. Evaluación, calificación, promoción y permanencia.
 
-Evaluación, calificación, promoción y permanencia
-
-#### Artículo 24. Evaluación y calificación.
+#### Artículo 24. Evaluación y calificación.
 
 1. La evaluación de los aprendizajes en las Enseñanzas Profesionales de Artes Plásticas y Diseño tendrá carácter continuo, formador e integrador y valorará de manera equilibrada tanto los resultados finales, como los procesos de análisis, ideación, desarrollo y reflexión propios del desarrollo del proyecto por parte del alumnado. Asimismo, permitirá verificar la adquisición de las competencias personales y profesionales en las condiciones de calidad establecidas en cada título, teniendo como referencia sus objetivos, expresados como resultados de aprendizaje con sus correspondientes criterios de evaluación.
 
@@ -562,15 +549,15 @@ Evaluación, calificación, promoción y permanencia
 
 6. Se podrá contar con una o dos convocatorias anuales para cada módulo profesional, siendo el máximo para cada módulo profesional de cuatro en el conjunto de las enseñanzas. Con carácter excepcional, las administraciones educativas podrán establecer una quinta convocatoria extraordinaria cuando se haya producido una situación de enfermedad, discapacidad u otras que justifiquen la imposibilidad de un normal desarrollo de los estudios.
 
-7. El alumnado dispondrá de dos convocatorias para superar el Proyecto integrado, como se establece en el artículo 14.4.
+7. El alumnado dispondrá de dos convocatorias para superar el Proyecto integrado, como se establece en el artículo 14.4.
 
 8. El alumnado dispondrá de dos convocatorias para la superación de la Formación práctica en empresas, estudios y talleres. Esta formación se calificará en términos de «Superado/No superado» y en su evaluación colaborará la persona responsable de la formación designada por el centro de trabajo.
 
 9. Excepto en el caso de la Formación práctica en empresas, estudios y talleres, los resultados de la evaluación final se expresarán conforme a una escala numérica de cero a diez. Se considerarán positivas las calificaciones iguales o superiores a cinco y negativas las inferiores.
 
-#### Artículo 25. Promoción y permanencia.
+#### Artículo 25. Promoción y permanencia.
 
-1. Las administraciones educativas podrán establecer los requisitos necesarios para la promoción de curso. En todo caso, el alumnado deberá haber obtenido evaluación positiva en módulos cuya carga lectiva sume, al menos, el 75% del horario total del primer curso.
+1. Las administraciones educativas podrán establecer los requisitos necesarios para la promoción de curso. En todo caso, el alumnado deberá haber obtenido evaluación positiva en módulos cuya carga lectiva sume, al menos, el 75% del horario total del primer curso.
 
 2. En caso de no promocionar al segundo curso, el alumnado deberá matricularse únicamente en los módulos profesionales no superados del curso anterior. Si se promociona al segundo curso con módulos pendientes de superación, deberá volver a cursarlos. En todo caso, los centros educativos organizarán las actividades necesarias para su recuperación y evaluación.
 
@@ -582,109 +569,105 @@ Evaluación, calificación, promoción y permanencia
 
 6. El profesorado evaluará tanto los aprendizajes del alumnado como los procesos de enseñanza y su práctica docente a fin de conseguir la mejora de ambos.
 
-#### Artículo 26. Derecho a una evaluación objetiva.
+#### Artículo 26. Derecho a una evaluación objetiva.
 
 Las administraciones garantizarán, mediante el establecimiento de los oportunos procedimientos, el derecho a que el esfuerzo, el rendimiento y la adquisición de los aprendizajes sean valorados y reconocidos con objetividad, atendiendo, en todo caso, al carácter continuo y diferenciado de la evaluación y a los criterios de evaluación de los resultados de aprendizaje, así como, en su caso, a las posibles adaptaciones que se hubieran realizado en los procesos de aprendizaje y de evaluación.
 
-#### Artículo 27. Derecho a la información sobre el proceso de formación personal.
+#### Artículo 27. Derecho a la información sobre el proceso de formación personal.
 
-El alumnado tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
+El alumnado tendrá derecho a conocer las decisiones relativas a su evaluación, promoción y titulación, así como a acceder a la parte de los documentos oficiales de evaluación personales y las pruebas y documentos de las evaluaciones que se le realicen, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y demás normativa aplicable en materia de protección de datos de carácter personal.
 
-CAPÍTULO VI
+## Capítulo VI. Titulación y efectos de los títulos.
 
-Titulación y efectos de los títulos
+#### Artículo 28. Titulación.
 
-#### Artículo 28. Titulación.
+1. De conformidad con lo dispuesto en el artículo 53 de la Ley Orgánica 2/2006, de 3 de mayo:
 
-1. De conformidad con lo dispuesto en el artículo 53 de la Ley Orgánica 2/2006, de 3 de mayo:
+a) La superación de un ciclo de grado medio de artes plásticas y diseño dará derecho a la obtención del título Técnico o Técnica de Artes Plásticas y Diseño en la especialidad correspondiente.
 
-a) La superación de un ciclo de grado medio de artes plásticas y diseño dará derecho a la obtención del título Técnico o Técnica de Artes Plásticas y Diseño en la especialidad correspondiente.
-
-b) La superación de un ciclo de grado superior de artes plásticas y diseño dará derecho a la obtención del título Técnico o Técnica Superior de Artes Plásticas y Diseño en la especialidad correspondiente.
+b) La superación de un ciclo de grado superior de artes plásticas y diseño dará derecho a la obtención del título Técnico o Técnica Superior de Artes Plásticas y Diseño en la especialidad correspondiente.
 
 2. La superación de cualquier ciclo formativo requerirá la evaluación positiva de los módulos profesionales y del proyecto integrado que la componen, así como la calificación de «Superado» en la Formación práctica en empresas, estudios y talleres.
 
 3. El equipo docente adoptará de manera colegiada las decisiones relativas a la titulación del alumnado, tomando como referencia la globalidad de las competencias asociadas a cada oferta formativa y el grado de adquisición de estas por parte del alumnado.
 
-4. La nota media final de curso de calculará conforme a lo establecido en el artículo 31.
+4. La nota media final de curso de calculará conforme a lo establecido en el artículo 31.
 
 5. El registro y la expedición de los títulos de Técnico o Técnica y Técnico o Técnica Superior de Artes Plásticas y Diseño se ajustará a lo dispuesto al efecto en la normativa estatal básica de aplicación a estas enseñanzas.
 
 6. El alumnado que no supere en su totalidad las enseñanzas de un ciclo formativo, podrá solicitar una certificación académica en la que se hará constar los módulos profesionales superados, con expresión de los ECP asociados a los mismos, en su caso. Dicha certificación tendrá validez oficial a los efectos académicos que procedan y para la acreditación de los ECP adquiridos en relación con el Catálogo.
 
-#### Artículo 29. Efectos de los títulos.
+#### Artículo 29. Efectos de los títulos.
 
 1. Los títulos de Técnico o Técnica y Técnico o Técnica Superior de Artes Plásticas y Diseño constituyen un documento de carácter oficial y validez académica y profesional en todo el territorio nacional, que acredita el nivel de formación y la adquisición de los ECP específicos de la especialidad artística correspondiente.
 
 Asimismo, desplegarán los efectos que les correspondan con arreglo a la normativa de la Unión Europea relativa al sistema general de reconocimiento de la formación en los Estados miembros y los Estados signatarios del Acuerdo sobre el Espacio Económico Europeo.
 
-2. El título de Técnico o Técnica de Artes Plásticas y Diseño se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y permitirá el acceso al Bachillerato y a los ciclos formativos de grado superior de Formación Profesional y de Enseñanzas Profesionales de Artes Plásticas y Diseño.
+2. El título de Técnico o Técnica de Artes Plásticas y Diseño se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y permitirá el acceso al Bachillerato y a los ciclos formativos de grado superior de Formación Profesional y de Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-3. El título de Técnico o Técnica de Artes Plásticas y Diseño permitirá obtener el título de Bachiller en la modalidad de Artes mediante la superación de las materias comunes de bachillerato, en consonancia con lo establecido en el [Real Decreto 243/2022](RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, sin perjuicio del régimen de convalidaciones regulado para estas enseñanzas.
+3. El título de Técnico o Técnica de Artes Plásticas y Diseño permitirá obtener el título de Bachiller en la modalidad de Artes mediante la superación de las materias comunes de bachillerato, en consonancia con lo establecido en el [Real Decreto 243/2022](RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, sin perjuicio del régimen de convalidaciones regulado para estas enseñanzas.
 
-4. El título de Técnico o Técnica Superior de Artes Plásticas y Diseño se corresponde con el nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y con el nivel 1 del Marco Español de Cualificaciones para la Educación Superior (MECES).
+4. El título de Técnico o Técnica Superior de Artes Plásticas y Diseño se corresponde con el nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente (MECU) y con el nivel 1 del Marco Español de Cualificaciones para la Educación Superior (MECES).
 
 5. El título de Técnico o Técnica Superior de Artes Plásticas y Diseño acredita la formación académica necesaria para acceder a las enseñanzas superiores, universitarias o no universitarias.
 
-6. Además, el título de Técnico o Técnica Superior de Artes Plásticas y Diseño dará derecho al acceso directo, sin necesidad de superar la prueba específica a la que se refiere el artículo 7.1.b) de la Ley 1/2024, de 7 de junio, a las enseñanzas artísticas superiores de Grado en Diseño, Grado en Artes Plásticas y Grado en Conservación y Restauración de Bienes Culturales. Asimismo, el título de Técnico o Técnica Superior de Artes Plásticas y Diseño proporcionará el acceso directo a los estudios de Grado correspondientes a las nuevas disciplinas que pudieran crearse dentro de las enseñanzas artísticas superiores, en desarrollo de lo establecido en el artículo 6 de la Ley 1/2024, de 7 de junio, siempre que dichos grados estén relacionados con el ciclo formativo desde el que se pretende acceder.
+6. Además, el título de Técnico o Técnica Superior de Artes Plásticas y Diseño dará derecho al acceso directo, sin necesidad de superar la prueba específica a la que se refiere el artículo 7.1.b) de la Ley 1/2024, de 7 de junio, a las enseñanzas artísticas superiores de Grado en Diseño, Grado en Artes Plásticas y Grado en Conservación y Restauración de Bienes Culturales. Asimismo, el título de Técnico o Técnica Superior de Artes Plásticas y Diseño proporcionará el acceso directo a los estudios de Grado correspondientes a las nuevas disciplinas que pudieran crearse dentro de las enseñanzas artísticas superiores, en desarrollo de lo establecido en el artículo 6 de la Ley 1/2024, de 7 de junio, siempre que dichos grados estén relacionados con el ciclo formativo desde el que se pretende acceder.
 
-CAPÍTULO VII
+## Capítulo VII. Documentos básicos de evaluación y movilidad.
 
-Documentos básicos de evaluación y movilidad
-
-#### Artículo 30. Documentos oficiales de evaluación.
+#### Artículo 30. Documentos oficiales de evaluación.
 
 1. Los documentos oficiales de evaluación de las Enseñanzas Profesionales de Artes Plásticas y Diseño son las actas de evaluación, el expediente académico de la persona en formación, que se acredita mediante la certificación académica personal, y el informe de evaluación individualizado, que se emitirá en caso de cambio de centro durante el desarrollo de la formación. Los modelos de estos documentos de evaluación serán los establecidos en la normativa de la comunidad autónoma correspondiente.
 
 2. La certificación académica personal y el informe de evaluación individualizado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
-3. Los documentos oficiales de evaluación deberán recoger la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+3. Los documentos oficiales de evaluación deberán recoger la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-#### Artículo 31. Expediente académico.
+#### Artículo 31. Expediente académico.
 
 1. El expediente académico es el documento oficial que recoge, de manera sintética, toda la información relativa al proceso de evaluación de cada persona en formación, y se abrirá en el momento del inicio de la formación en el centro educativo.
 
 2. El expediente académico recogerá, junto a los datos de identificación del centro y del alumno o alumna, al menos, los siguientes:
 
-a) La modalidad de acceso al ciclo.
+a) La modalidad de acceso al ciclo.
 
-b) La referencia normativa del plan de estudios.
+b) La referencia normativa del plan de estudios.
 
-c) El número y fecha de matrícula.
+c) El número y fecha de matrícula.
 
-d) Los resultados y fechas de la evaluación de los módulos profesionales en las diferentes convocatorias de cada curso académico, con indicación de los módulos profesionales que hubieran sido objeto de convalidación, exención o, en su caso, de renuncia a la convocatoria.
+d) Los resultados y fechas de la evaluación de los módulos profesionales en las diferentes convocatorias de cada curso académico, con indicación de los módulos profesionales que hubieran sido objeto de convalidación, exención o, en su caso, de renuncia a la convocatoria.
 
-e) Los resultados y fechas de la evaluación de la Formación práctica en empresas, estudios o talleres (o indicación de su exención, en su caso) y del Proyecto integrado, con indicación, en su caso, de la renuncia a la convocatoria.
+e) Los resultados y fechas de la evaluación de la Formación práctica en empresas, estudios o talleres (o indicación de su exención, en su caso) y del Proyecto integrado, con indicación, en su caso, de la renuncia a la convocatoria.
 
-f) Las decisiones de promoción y titulación y, si existieran, las medidas de apoyo educativo o las adaptaciones que se hayan adoptado.
+f) Las decisiones de promoción y titulación y, si existieran, las medidas de apoyo educativo o las adaptaciones que se hayan adoptado.
 
-g) La anulación de matrícula, en su caso.
+g) La anulación de matrícula, en su caso.
 
-h) La nota media final, expresada con dos decimales.
+h) La nota media final, expresada con dos decimales.
 
-3. La nota media final del ciclo formativo se calculará mediante la ponderación de las calificaciones obtenidas en cada módulo profesional en función del número de horas, en el caso de los ciclos de grado medio, o de créditos ECTS, en el caso de los ciclos de grado superior, que se le asignan en el currículo correspondiente. El procedimiento de cálculo de la media ponderada se detalla en el apartado 5 de este artículo.
+3. La nota media final del ciclo formativo se calculará mediante la ponderación de las calificaciones obtenidas en cada módulo profesional en función del número de horas, en el caso de los ciclos de grado medio, o de créditos ECTS, en el caso de los ciclos de grado superior, que se le asignan en el currículo correspondiente. El procedimiento de cálculo de la media ponderada se detalla en el apartado 5 de este artículo.
 
 4. A los efectos del cálculo de la nota media final no se computarán:
 
-a) La Formación práctica en empresas, estudios y talleres.
+a) La Formación práctica en empresas, estudios y talleres.
 
-b) Con carácter general, los módulos que hayan sido objeto de convalidación o de exención, con las excepciones previstas en el artículo 34.8.
+b) Con carácter general, los módulos que hayan sido objeto de convalidación o de exención, con las excepciones previstas en el artículo 34.8.
 
-c) Los módulos profesionales superados en un centro diferente a aquel en el que se completen los estudios que no hayan sido objeto de reconocimiento, conforme a lo dispuesto en el artículo 32.6.
+c) Los módulos profesionales superados en un centro diferente a aquel en el que se completen los estudios que no hayan sido objeto de reconocimiento, conforme a lo dispuesto en el artículo 32.6.
 
 5. La nota media ponderada de los ciclos formativos de grado medio y superior se calculará aplicando sucesivamente las siguientes operaciones:
 
-a) Multiplicar la nota de cada módulo profesional y la del Proyecto integrado por el número de horas (grado medio) o de créditos ECTS (grado superior) que se le asignan en el currículo, sin tener en consideración los módulos que deben excluirse de este cálculo conforme a lo dispuesto en el apartado 4 de este artículo.
+a) Multiplicar la nota de cada módulo profesional y la del Proyecto integrado por el número de horas (grado medio) o de créditos ECTS (grado superior) que se le asignan en el currículo, sin tener en consideración los módulos que deben excluirse de este cálculo conforme a lo dispuesto en el apartado 4 de este artículo.
 
-b) Sumar los productos obtenidos en el paso anterior.
+b) Sumar los productos obtenidos en el paso anterior.
 
-c) Dividir el resultado de la suma entre el total de horas del ciclo (grado medio) o de créditos ECTS (grado superior), descontando de este total las horas o créditos ECTS asignados a la Formación práctica en empresas, estudios y talleres y a los módulos profesionales que, por haber sido objeto de convalidación y/o exención, no computan en este cálculo.
+c) Dividir el resultado de la suma entre el total de horas del ciclo (grado medio) o de créditos ECTS (grado superior), descontando de este total las horas o créditos ECTS asignados a la Formación práctica en empresas, estudios y talleres y a los módulos profesionales que, por haber sido objeto de convalidación y/o exención, no computan en este cálculo.
 
 6. El centro educativo deberá custodiar, junto al expediente académico, una copia del informe del periodo de formación práctica en la empresa, estudio o taller realizado por el tutor o tutora de la entidad colaboradora, así como la documentación justificativa de las posibles convalidaciones y/o exenciones, en su caso.
 
 7. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en los que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la Inspección educativa.
 
-#### Artículo 32. Documentos básicos y procedimiento para la movilidad del alumnado.
+#### Artículo 32. Documentos básicos y procedimiento para la movilidad del alumnado.
 
 1. A fin de garantizar la movilidad académica y territorial del alumnado, tendrán la consideración de documentos básicos de movilidad la certificación académica personal y el informe de evaluación individualizado.
 
@@ -694,47 +677,45 @@ c) Dividir el resultado de la suma entre el total de horas del ciclo (grado me
 
 4. Cuando el traslado se produzca desde un centro perteneciente a otra Administración educativa, la Administración educativa receptora analizará el expediente académico de la persona solicitante a fin de que la persona en formación se incorpore al curso que le corresponda en su propio plan de estudios. A tal efecto, se tendrá en cuenta lo siguiente:
 
-a) Aquellos módulos aprobados en su totalidad que, según el criterio de dicha Administración educativa, sean similares en resultados de aprendizaje a los establecidos en los módulos profesionales correspondientes de su plan de estudios, serán reconocidos de forma automática, junto con su calificación, sin necesidad de adaptaciones adicionales.
+a) Aquellos módulos aprobados en su totalidad que, según el criterio de dicha Administración educativa, sean similares en resultados de aprendizaje a los establecidos en los módulos profesionales correspondientes de su plan de estudios, serán reconocidos de forma automática, junto con su calificación, sin necesidad de adaptaciones adicionales.
 
-b) En aquellos casos en los que no exista una correspondencia completa, se podrá establecer la realización de complementos formativos que se consideren necesarios, y dichos módulos se reflejarán en el expediente académico con la denominación de «Adaptado». Cuando sea necesario hacer una ponderación de las calificaciones, los módulos que figuren como adaptados se computarán con la calificación obtenida en el centro de origen.
+b) En aquellos casos en los que no exista una correspondencia completa, se podrá establecer la realización de complementos formativos que se consideren necesarios, y dichos módulos se reflejarán en el expediente académico con la denominación de «Adaptado». Cuando sea necesario hacer una ponderación de las calificaciones, los módulos que figuren como adaptados se computarán con la calificación obtenida en el centro de origen.
 
-5. Los módulos profesionales de carácter optativo superados en el centro de origen recibirán el tratamiento académico que determine la administración educativa del centro receptor, de conformidad con lo dispuesto en el artículo 16.
+5. Los módulos profesionales de carácter optativo superados en el centro de origen recibirán el tratamiento académico que determine la administración educativa del centro receptor, de conformidad con lo dispuesto en el artículo 16.
 
 6. Con el fin de valorar el esfuerzo y los aprendizajes adquiridos a lo largo de todo el período formativo, los módulos profesionales superados en el centro de origen que no sean objeto de reconocimiento en el centro receptor se incorporarán al expediente académico del alumno o alumna, con expresión de las calificaciones obtenidas. En todo caso, dicha incorporación tendrá un carácter exclusivamente informativo y no será tenida en cuenta a efectos del cálculo de la nota media final.
 
 7. En los supuestos de traslado de alumnado entre centros de distintas comunidades autónomas, cuando el centro receptor incorpore al expediente académico módulos profesionales previamente superados en el centro de origen, deberá hacerse constar de manera expresa la normativa reguladora del plan de estudios del centro de origen, a efectos de garantizar la trazabilidad y validez académica de dichos módulos.
 
-#### Artículo 33. Autenticidad, seguridad y confidencialidad.
+#### Artículo 33. Autenticidad, seguridad y confidencialidad.
 
 1. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
 
-2. En lo referente a la obtención de los datos personales del alumnado, a su cesión de unos centros a otros y a su seguridad y confidencialidad, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
+2. En lo referente a la obtención de los datos personales del alumnado, a su cesión de unos centros a otros y a su seguridad y confidencialidad, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
 
-3. Los documentos oficiales de evaluación podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, y por la Ley 39/2015, de 1 de octubre, así como por la normativa que las desarrolla.
+3. Los documentos oficiales de evaluación podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que quede garantizada su autenticidad, integridad, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, y por la Ley 39/2015, de 1 de octubre, así como por la normativa que las desarrolla.
 
-CAPÍTULO VIII
+## Capítulo VIII. Convalidaciones y exenciones.
 
-Convalidaciones y exenciones
-
-#### Artículo 34. Aspectos generales de la convalidación de módulos profesionales.
+#### Artículo 34. Aspectos generales de la convalidación de módulos profesionales.
 
 1. En la norma que regule cada título se establecerán la relación de módulos profesionales susceptibles de ser convalidados. Además, será de aplicación, para todos los títulos, lo siguiente:
 
-a) La superación del módulo profesional Empleabilidad y gestión de la actividad profesional permitirá su convalidación en cualquier otro ciclo formativo de Artes Plásticas y Diseño, tanto de grado medio como de grado superior.
+a) La superación del módulo profesional Empleabilidad y gestión de la actividad profesional permitirá su convalidación en cualquier otro ciclo formativo de Artes Plásticas y Diseño, tanto de grado medio como de grado superior.
 
-b) La superación del módulo profesional Procesos digitales aplicados al entorno profesional, nivel medio, permitirá su convalidación en cualquier otro ciclo formativo de grado medio de Artes Plásticas y Diseño de la misma familia profesional artística.
+b) La superación del módulo profesional Procesos digitales aplicados al entorno profesional, nivel medio, permitirá su convalidación en cualquier otro ciclo formativo de grado medio de Artes Plásticas y Diseño de la misma familia profesional artística.
 
-c) La superación del módulo profesional Procesos digitales aplicados al entorno profesional, nivel superior, permitirá su convalidación en cualquier otro ciclo formativo de Artes Plásticas y Diseño de la misma familia profesional artística, tanto de grado medio como de grado superior.
+c) La superación del módulo profesional Procesos digitales aplicados al entorno profesional, nivel superior, permitirá su convalidación en cualquier otro ciclo formativo de Artes Plásticas y Diseño de la misma familia profesional artística, tanto de grado medio como de grado superior.
 
-d) La superación de un módulo profesional vinculado a un determinado ECP dará lugar a la convalidación de otro módulo profesional vinculado a ese mismo ECP. Cuando un módulo profesional esté vinculado a más de un ECP, la convalidación solo tendrá efecto si existe coincidencia total entre todos los ECP asociados a ambos módulos, no admitiéndose convalidaciones parciales.
+d) La superación de un módulo profesional vinculado a un determinado ECP dará lugar a la convalidación de otro módulo profesional vinculado a ese mismo ECP. Cuando un módulo profesional esté vinculado a más de un ECP, la convalidación solo tendrá efecto si existe coincidencia total entre todos los ECP asociados a ambos módulos, no admitiéndose convalidaciones parciales.
 
-2. Sin perjuicio de lo establecido en el apartado 8 de este artículo, los módulos profesionales convalidados conforme a lo dispuesto en el apartado 1 serán calificados con la nota obtenida en la formación previa, que se trasladará al expediente académico y al resto de documentos de evaluación de la persona interesada y computará para el cálculo de la nota media final de la nueva formación.
+2. Sin perjuicio de lo establecido en el apartado 8 de este artículo, los módulos profesionales convalidados conforme a lo dispuesto en el apartado 1 serán calificados con la nota obtenida en la formación previa, que se trasladará al expediente académico y al resto de documentos de evaluación de la persona interesada y computará para el cálculo de la nota media final de la nueva formación.
 
 3. Asimismo, en la norma que regule cada título, podrán determinarse los módulos profesionales no susceptibles de convalidación por ser específicos de la especialidad del ciclo que se cursa y distintivos del título que se obtiene al finalizar dichos estudios. En todo caso, no son susceptibles de convalidación:
 
-a) La Formación práctica en empresas, estudios y talleres, que solo puede ser objeto de exención total o parcial, de acuerdo con lo dispuesto en el artículo 39.
+a) La Formación práctica en empresas, estudios y talleres, que solo puede ser objeto de exención total o parcial, de acuerdo con lo dispuesto en el artículo 39.
 
-b) El Proyecto integrado.
+b) El Proyecto integrado.
 
 4. Las solicitudes de convalidación de módulos profesionales requieren la matriculación previa del alumnado para continuar estudios en un centro docente autorizado para impartir estas enseñanzas.
 
@@ -744,39 +725,39 @@ b) El Proyecto integrado.
 
 7. Las administraciones educativas resolverán sobre las posibles convalidaciones de los módulos profesionales que les sean propios, de acuerdo con sus respectivos desarrollos curriculares.
 
-8. Los módulos profesionales convalidados se registrarán en el expediente académico y en el resto de los documentos de evaluación con la expresión «Convalidado». Con carácter general, las materias convalidadas no arrastrarán la calificación obtenida en la formación anterior, con las excepciones previstas en el apartado 2 de este artículo, así como en el artículo 12.5 y en la disposición transitoria tercera. Asimismo, se tendrá en cuenta lo establecido en el artículo 38.3 relativo a los módulos profesionales convalidados por la acreditación de estándares de competencias profesionales.
+8. Los módulos profesionales convalidados se registrarán en el expediente académico y en el resto de los documentos de evaluación con la expresión «Convalidado». Con carácter general, las materias convalidadas no arrastrarán la calificación obtenida en la formación anterior, con las excepciones previstas en el apartado 2 de este artículo, así como en el artículo 12.5 y en la disposición transitoria tercera. Asimismo, se tendrá en cuenta lo establecido en el artículo 38.3 relativo a los módulos profesionales convalidados por la acreditación de estándares de competencias profesionales.
 
 9. Los módulos profesionales que hayan sido objeto de convalidación no pueden ser aducidos para nuevas convalidaciones de módulos profesionales distintos.
 
-10. Con carácter general, las convalidaciones entre ciclos formativos de grado superior de Enseñanzas Profesionales de Artes Plásticas y Diseño y otras enseñanzas del ámbito de la Educación Superior se ajustarán a lo previsto en el Real Decreto 1618/2011, de 14 de noviembre, sobre reconocimiento de estudios en el ámbito de la Educación Superior.
+10. Con carácter general, las convalidaciones entre ciclos formativos de grado superior de Enseñanzas Profesionales de Artes Plásticas y Diseño y otras enseñanzas del ámbito de la Educación Superior se ajustarán a lo previsto en el Real Decreto 1618/2011, de 14 de noviembre, sobre reconocimiento de estudios en el ámbito de la Educación Superior.
 
-#### Artículo 35. Convalidaciones de módulos profesionales de ciclos formativos de grado medio con materias de bachillerato.
+#### Artículo 35. Convalidaciones de módulos profesionales de ciclos formativos de grado medio con materias de bachillerato.
 
 1. En la norma que regule cada título se establecerán las convalidaciones de módulos profesionales pertenecientes a los ciclos formativos de grado medio con materias de bachillerato.
 
 2. El Gobierno, previa consulta a las comunidades autónomas, regulará el régimen de reconocimiento recíproco entre determinadas materias de bachillerato y los módulos profesionales de los ciclos formativos de grado medio de las Enseñanzas Profesionales de Artes Plásticas y Diseño, a fin de que puedan ser tenidos en cuenta los estudios superados, aun cuando no se haya alcanzado la titulación correspondiente.
 
-#### Artículo 36. Convalidación de módulos profesionales entre las Enseñanzas Profesionales de Artes Plásticas y Diseño y las enseñanzas de Formación Profesional de Grado medio y otras enseñanzas de régimen especial.
+#### Artículo 36. Convalidación de módulos profesionales entre las Enseñanzas Profesionales de Artes Plásticas y Diseño y las enseñanzas de Formación Profesional de Grado medio y otras enseñanzas de régimen especial.
 
 El Gobierno, previa consulta a las comunidades autónomas, podrá establecer el régimen jurídico de las convalidaciones entre módulos profesionales de ciclos formativos de grado medio de Artes Plásticas y Diseño y de ciclos formativos de grado medio de Formación Profesional, así como con otras enseñanzas de régimen especial. Asimismo, podrá promover la articulación de pasarelas que faciliten la movilidad y continuidad formativa entre dichas enseñanzas.
 
-#### Artículo 37. Convalidaciones entre ciclos formativos de grado superior de Enseñanzas Profesionales de Artes Plásticas y Diseño y otras enseñanzas del ámbito de la Educación Superior.
+#### Artículo 37. Convalidaciones entre ciclos formativos de grado superior de Enseñanzas Profesionales de Artes Plásticas y Diseño y otras enseñanzas del ámbito de la Educación Superior.
 
-1. Sin perjuicio de lo previsto en el Real Decreto 1618/2011, de 14 de noviembre, el Gobierno, previa consulta a las comunidades autónomas, podrá establecer convalidaciones entre módulos profesionales de ciclos formativos de grado superior de Artes Plásticas y Diseño y módulos profesionales de ciclos formativos de grado superior de Formación Profesional, así como con otras enseñanzas de régimen especial. Asimismo, podrá promover la articulación de pasarelas que faciliten la movilidad y continuidad formativa entre dichas enseñanzas.
+1. Sin perjuicio de lo previsto en el Real Decreto 1618/2011, de 14 de noviembre, el Gobierno, previa consulta a las comunidades autónomas, podrá establecer convalidaciones entre módulos profesionales de ciclos formativos de grado superior de Artes Plásticas y Diseño y módulos profesionales de ciclos formativos de grado superior de Formación Profesional, así como con otras enseñanzas de régimen especial. Asimismo, podrá promover la articulación de pasarelas que faciliten la movilidad y continuidad formativa entre dichas enseñanzas.
 
 2. Los módulos profesionales reconocidos se incorporarán al expediente académico con la expresión «Convalidado», sin calificación.
 
-#### Artículo 38. Convalidación de módulos profesionales por la acreditación de estándares de competencias profesionales.
+#### Artículo 38. Convalidación de módulos profesionales por la acreditación de estándares de competencias profesionales.
 
 1. En la norma que regule cada título se incluirá un anexo con información sobre la correspondencia entre determinados módulos profesionales y los ECP del Catálogo. Esta correspondencia tendrá efectos tanto para la acreditación de dichos ECP por la superación del módulo o módulos profesionales asociados, como para la convalidación del módulo o módulos profesionales por haber obtenido previamente la acreditación de los ECP correspondientes.
 
-2. Los ECP del Catálogo acreditados por un procedimiento formal de acreditación de competencias profesionales conforme a lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional permitirán la convalidación de los módulos profesionales de los ciclos formativos de Artes Plásticas y Diseño vinculados a dicho ECP.
+2. Los ECP del Catálogo acreditados por un procedimiento formal de acreditación de competencias profesionales conforme a lo establecido en el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional permitirán la convalidación de los módulos profesionales de los ciclos formativos de Artes Plásticas y Diseño vinculados a dicho ECP.
 
 3. La convalidación se resolverá por el centro educativo, previa solicitud de la persona interesada y una vez formalizada la matrícula. Los módulos profesionales que correspondan se registrarán como «Convalidado» en todos los documentos de evaluación y computarán como «5» para el cálculo de la nota media final de la nueva formación.
 
 4. A los efectos de lo establecido en los apartados anteriores, para que un módulo profesional pueda ser objeto de convalidación, será necesario acreditar la totalidad de los ECP a los que esté vinculado.
 
-#### Artículo 39. Exención de módulos profesionales y de la Formación práctica en empresas, estudios y talleres por su correspondencia con la experiencia laboral.
+#### Artículo 39. Exención de módulos profesionales y de la Formación práctica en empresas, estudios y talleres por su correspondencia con la experiencia laboral.
 
 1. En la norma que regule cada título, podrá establecerse la exención de determinados módulos profesionales y de la Formación práctica en empresas, estudios y talleres por su correspondencia con la práctica laboral, siempre que se acredite, al menos, un año de experiencia profesional relacionada con los conocimientos, resultados de aprendizaje y, en su caso, los ECP propios de los módulos o con el ejercicio profesional específico del ciclo formativo correspondiente.
 
@@ -784,11 +765,9 @@ El Gobierno, previa consulta a las comunidades autónomas, podrá establecer el 
 
 3. Los módulos profesionales o la Formación práctica en empresas, estudios y talleres que sean objeto de exención por su correspondencia con la práctica laboral quedarán registrados en el expediente académico y demás documentos de evaluación como «Exento».
 
-CAPÍTULO IX
+## Capítulo IX. Orientación personal, académica y profesional.
 
-Orientación personal, académica y profesional
-
-#### Artículo 40. Tutoría y orientación.
+#### Artículo 40. Tutoría y orientación.
 
 1. En los ciclos formativos de grado medio y superior, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado.
 
@@ -796,97 +775,97 @@ Orientación personal, académica y profesional
 
 3. Corresponde a las administraciones educativas adoptar las medidas necesarias para que la tutoría personal y la orientación educativa, psicopedagógica y profesional del alumnado, así como la preparación de su futuro itinerario formativo, constituyan un elemento fundamental en las ofertas formativas de artes plásticas y diseño. A tal fin, podrán dotar a los centros de los apoyos y recursos que consideren necesarios.
 
-4. En el marco del impulso a las enseñanzas artísticas previsto en la Ley 1/2024, de 7 de junio, las administraciones educativas velarán por el refuerzo de la orientación académica de las etapas educativas previas, garantizando que las enseñanzas artísticas profesionales se integren de manera efectiva en los planes y programas de orientación académica y profesional dirigidos al alumnado de las distintas enseñanzas de régimen general, con el fin de favorecer su conocimiento y valoración, así como una adecuada toma de decisiones formativas.
+4. En el marco del impulso a las enseñanzas artísticas previsto en la Ley 1/2024, de 7 de junio, las administraciones educativas velarán por el refuerzo de la orientación académica de las etapas educativas previas, garantizando que las enseñanzas artísticas profesionales se integren de manera efectiva en los planes y programas de orientación académica y profesional dirigidos al alumnado de las distintas enseñanzas de régimen general, con el fin de favorecer su conocimiento y valoración, así como una adecuada toma de decisiones formativas.
 
-#### Disposición adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.
+#### Disposición adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.
 
-Las administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, para establecer y regular la accesibilidad cognitiva y sus condiciones de exigencia y aplicación, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas profesionales de Artes Plásticas y Diseño.
+Las administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, para establecer y regular la accesibilidad cognitiva y sus condiciones de exigencia y aplicación, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas profesionales de Artes Plásticas y Diseño.
 
-#### Disposición adicional segunda. Acreditación de condiciones de acceso del alumnado a determinadas Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Disposición adicional segunda. Acreditación de condiciones de acceso del alumnado a determinadas Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 Para aquellas enseñanzas profesionales de artes plásticas y diseño que se determinen, conducentes a titulaciones que en su ejercicio profesional requieran determinados conocimientos y capacidades propios del ámbito artístico de la música, las administraciones educativas podrán requerir la aportación de la documentación justificativa necesaria, cuando así se indique en la norma por la que se establecen dichos títulos.
 
-#### Disposición adicional tercera. Otras ofertas de Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Disposición adicional tercera. Otras ofertas de Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 1. Con independencia de la oferta de los ciclos formativos de grado medio y de grado superior ordenados en esta norma, las administraciones educativas y, en su caso, los centros, podrán organizar y desarrollar otros modelos de formación vinculados a las artes plásticas y diseño, con el fin de promover la formación a lo largo de la vida y dar respuesta a las necesidades de cualificación de los sectores productivos de su ámbito de competencias. Dicha formación podrá ser objeto de una certificación acreditativa expedida por la Administración educativa competente, en la que se indique el número de horas de duración, así como, en su caso, su equivalencia en créditos. Dicha certificación podrá tener, en su caso, valor en el Sistema Nacional de Cualificaciones y Formación Profesional.
 
 2. Asimismo, el Gobierno, previa consulta a las comunidades autónomas, podrá regular otras ofertas formativas de carácter parcial y acumulable vinculadas a las enseñanzas profesionales de Artes Plásticas y Diseño, así como su correspondencia con el Catálogo.
 
-#### Disposición adicional cuarta. Revisión y actualización de los títulos.
+#### Disposición adicional cuarta. Revisión y actualización de los títulos.
 
 Periódicamente, el Gobierno procederá a la revisión y, en su caso, actualización de los títulos de las Enseñanzas Profesionales de Artes Plásticas y Diseño, previa consulta a las comunidades autónomas. Aquellos aspectos curriculares de estos títulos, regulados por normativa básica, que requieran revisión y actualización podrán ser modificados por el Ministerio competente en materia de educación, previo informe del Consejo Superior de Enseñanzas Artísticas y del Consejo Escolar del Estado, manteniendo en todo caso el carácter básico del currículo resultante de dicha actualización.
 
-#### Disposición adicional quinta. Profesorado especialista.
+#### Disposición adicional quinta. Profesorado especialista.
 
-1. Como establece el artículo 96.3 de la Ley Orgánica 2/2006, de 3 de mayo, excepcionalmente, para la impartición de determinados módulos profesionales, las administraciones educativas competentes podrán incorporar como profesorado especialista, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales no necesariamente titulados que desarrollen su actividad en el ámbito laboral.
+1. Como establece el artículo 96.3 de la Ley Orgánica 2/2006, de 3 de mayo, excepcionalmente, para la impartición de determinados módulos profesionales, las administraciones educativas competentes podrán incorporar como profesorado especialista, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales no necesariamente titulados que desarrollen su actividad en el ámbito laboral.
 
 2. La contratación de este profesorado, de acuerdo con los principios constitucionales de igualdad, mérito y capacidad, se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación.
 
-#### Disposición adicional sexta. Colaboración entre centros de enseñanzas artísticas.
+#### Disposición adicional sexta. Colaboración entre centros de enseñanzas artísticas.
 
 En el ejercicio de su autonomía, y en el marco que establezca la Administración educativa correspondiente, los centros que imparten enseñanzas artísticas profesionales podrán establecer acuerdos con otros centros, de la misma u otra comunidad autónoma, basados en la confianza entre las instituciones, la transparencia informativa, la reciprocidad y la flexibilidad.
 
-#### Disposición adicional séptima. Impulso de la innovación, la internacionalización y la movilidad en las enseñanzas artísticas profesionales.
+#### Disposición adicional séptima. Impulso de la innovación, la internacionalización y la movilidad en las enseñanzas artísticas profesionales.
 
 1. Las administraciones educativas y los centros docentes, en el ámbito de sus respectivas competencias, favorecerán el desarrollo de proyectos de innovación e investigación aplicada, de igualdad de género y de fomento del emprendimiento, así como de otras iniciativas que contribuyan a la mejora de la calidad educativa y potencien la dimensión internacional de la formación. Para ello, se promoverán el establecimiento de relaciones entre centros educativos, así como su interacción con el tejido empresarial de su entorno. Asimismo, se impulsará la participación en proyectos y programas de movilidad de ámbito autonómico, estatal o internacional.
 
 2. El Ministerio competente en materia de educación, las administraciones educativas y los centros de enseñanzas artísticas profesionales promoverán la participación en programas de movilidad, con especial referencia a los financiados con fondos de la Unión Europea, como el programa Erasmus+. Dichas actuaciones garantizarán la igualdad de oportunidades, la no discriminación y la inclusión de las lenguas oficiales del Estado español y la promoción de una movilidad ecológica y digital, en particular combinando los intercambios físicos y en línea para fomentar una movilidad equilibrada.
 
-#### Disposición adicional octava. Conocimiento de lenguas extranjeras.
+#### Disposición adicional octava. Conocimiento de lenguas extranjeras.
 
-1. Sin perjuicio de lo establecido en el artículo 16.2, las administraciones y los centros educativos podrán promover la progresiva incorporación de una lengua extranjera en la formación.
+1. Sin perjuicio de lo establecido en el artículo 16.2, las administraciones y los centros educativos podrán promover la progresiva incorporación de una lengua extranjera en la formación.
 
 2. Con ese mismo fin, las administraciones educativas podrán autorizar que una parte de los módulos profesionales del currículo se impartan en lengua extranjera, sin que ello suponga modificación de los aspectos básicos del currículo regulados en este real decreto.
 
-#### Disposición adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.
+#### Disposición adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
-1. Sin perjuicio de lo dispuesto en el artículo 111.3 de la Ley Orgánica 2/2006, de 3 de mayo, cuando las Enseñanzas Profesionales de Artes Plásticas y Diseño se ofrezcan en centros en los que se impartan, simultáneamente, otras enseñanzas, deberá salvaguardarse su identidad propia y, en todo caso, se velará por el cumplimiento de las condiciones establecidas en la normativa reguladora de los títulos correspondientes.
+1. Sin perjuicio de lo dispuesto en el artículo 111.3 de la Ley Orgánica 2/2006, de 3 de mayo, cuando las Enseñanzas Profesionales de Artes Plásticas y Diseño se ofrezcan en centros en los que se impartan, simultáneamente, otras enseñanzas, deberá salvaguardarse su identidad propia y, en todo caso, se velará por el cumplimiento de las condiciones establecidas en la normativa reguladora de los títulos correspondientes.
 
-2. De conformidad con lo establecido en la disposición adicional sexta de la Ley 1/2024, de 7 de junio, corresponde a las administraciones educativas competentes regular las condiciones por las que los centros que impartan las Enseñanzas Profesionales de Artes Plásticas y Diseño puedan incorporar a su Consejo Escolar un representante propuesto por las instituciones culturales, empresas u organismos equiparados, presentes en el ámbito de acción del centro, preferentemente aquellas en las que el estudiantado haga su formación práctica.
+2. De conformidad con lo establecido en la disposición adicional sexta de la Ley 1/2024, de 7 de junio, corresponde a las administraciones educativas competentes regular las condiciones por las que los centros que impartan las Enseñanzas Profesionales de Artes Plásticas y Diseño puedan incorporar a su Consejo Escolar un representante propuesto por las instituciones culturales, empresas u organismos equiparados, presentes en el ámbito de acción del centro, preferentemente aquellas en las que el estudiantado haga su formación práctica.
 
-#### Disposición transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.
+#### Disposición transitoria primera. Aplicabilidad de la normativa vigente a la entrada en vigor de este real decreto.
 
 1. En aquellos aspectos para cuya regulación este real decreto remite a ulteriores disposiciones reglamentarias, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de este rango que lo venían siendo a la fecha de entrada en vigor de este real decreto, siempre que no se opongan a lo dispuesto en él.
 
-2. Los títulos de Técnico y de Técnico Superior de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación del Sistema Educativo que no tengan declarada la equivalencia a efectos académicos y profesionales, respectivamente, a un título de Técnico y de Técnico Superior de la Ley Orgánica 2/2006, de 3 de mayo, tendrán los mismos efectos académicos y profesionales que correspondan al título genérico de Técnico o Técnico Superior de Artes Plásticas y Diseño del sistema educativo vigente.
+2. Los títulos de Técnico y de Técnico Superior de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación del Sistema Educativo que no tengan declarada la equivalencia a efectos académicos y profesionales, respectivamente, a un título de Técnico y de Técnico Superior de la Ley Orgánica 2/2006, de 3 de mayo, tendrán los mismos efectos académicos y profesionales que correspondan al título genérico de Técnico o Técnico Superior de Artes Plásticas y Diseño del sistema educativo vigente.
 
-#### Disposición transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.
+#### Disposición transitoria segunda. Calendario de aplicación del régimen de acceso y admisión recogido en esta norma.
 
-Lo establecido en materia de acceso y admisión a los ciclos formativos de grado medio y de grado superior en el capítulo IV de esta norma será de aplicación en los procesos de admisión del alumnado que se incorpore o continúe las Enseñanzas Profesionales de Artes Plásticas y Diseño en el curso académico 2027/2028.
+Lo establecido en materia de acceso y admisión a los ciclos formativos de grado medio y de grado superior en el capítulo IV de esta norma será de aplicación en los procesos de admisión del alumnado que se incorpore o continúe las Enseñanzas Profesionales de Artes Plásticas y Diseño en el curso académico 2027/2028.
 
-#### Disposición transitoria tercera. Cálculo de la media ponderada en los Ciclos Formativos regulados según la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+#### Disposición transitoria tercera. Cálculo de la media ponderada en los Ciclos Formativos regulados según la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
-1. A partir del curso 2026/2027, para los ciclos formativos de grado superior regulados conforme a la Ley Orgánica 1/1990, de 3 de octubre, el cálculo de la nota media final a la que se refiere el artículo 31.5 tomará como referencia el número de horas lectivas establecido en el currículo. El valor de cada crédito se obtendrá dividiendo el total de horas lectivas entre los 120 créditos ECTS asignados al ciclo. Los créditos ECTS de cada módulo se determinarán aplicando dicho valor a las horas lectivas que le correspondan.
+1. A partir del curso 2026/2027, para los ciclos formativos de grado superior regulados conforme a la Ley Orgánica 1/1990, de 3 de octubre, el cálculo de la nota media final a la que se refiere el artículo 31.5 tomará como referencia el número de horas lectivas establecido en el currículo. El valor de cada crédito se obtendrá dividiendo el total de horas lectivas entre los 120 créditos ECTS asignados al ciclo. Los créditos ECTS de cada módulo se determinarán aplicando dicho valor a las horas lectivas que le correspondan.
 
-2. En los procedimientos de concurrencia competitiva, la nota media del expediente correspondiente a los títulos derivados de la Ley Orgánica 1/1990, de 3 de octubre, que hayan sido expedidos con anterioridad a la entrada en vigor de este real decreto deberá ser actualizada conforme a lo dispuesto en el artículo 30.
+2. En los procedimientos de concurrencia competitiva, la nota media del expediente correspondiente a los títulos derivados de la Ley Orgánica 1/1990, de 3 de octubre, que hayan sido expedidos con anterioridad a la entrada en vigor de este real decreto deberá ser actualizada conforme a lo dispuesto en el artículo 30.
 
-#### Disposición transitoria cuarta. Convalidación de la Formación y Orientación Laboral.
+#### Disposición transitoria cuarta. Convalidación de la Formación y Orientación Laboral.
 
-A partir del curso 2026/2027, la superación del módulo de Formación y orientación laboral (FOL) en cualquier ciclo formativo de Artes Plásticas y Diseño o de Formación Profesional dará derecho a la convalidación de dicho módulo en cualquier otro ciclo de grado medio o superior de Artes Plásticas y Diseño regulado por normativas anteriores a la presente. El módulo se registrará como «Convalidado», trasladándose la calificación obtenida anteriormente, la cual computará para el cálculo de la nota media final del ciclo.
+A partir del curso 2026/2027, la superación del módulo de Formación y orientación laboral (FOL) en cualquier ciclo formativo de Artes Plásticas y Diseño o de Formación Profesional dará derecho a la convalidación de dicho módulo en cualquier otro ciclo de grado medio o superior de Artes Plásticas y Diseño regulado por normativas anteriores a la presente. El módulo se registrará como «Convalidado», trasladándose la calificación obtenida anteriormente, la cual computará para el cálculo de la nota media final del ciclo.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
-Queda derogado el Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, con las salvedades establecidas en la disposición transitoria primera.
+Queda derogado el Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las Enseñanzas Profesionales de Artes Plásticas y Diseño, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, con las salvedades establecidas en la disposición transitoria primera.
 
-#### Disposición final primera. Calendario de implantación de los nuevos planes de estudio.
+#### Disposición final primera. Calendario de implantación de los nuevos planes de estudio.
 
 A partir de la entrada en vigor de los reales decretos que establezcan los currículos básicos de los distintos títulos de Enseñanzas Artísticas Profesionales ordenados conforme a lo dispuesto en este real decreto, las administraciones educativas competentes podrán iniciar la implantación progresiva de los currículos correspondientes a los nuevos planes de estudios. Dicha implantación se desarrollará de forma coordinada con la extinción de los planes de estudios vigentes hasta la fecha. En todo caso, la implantación del primer curso de los nuevos títulos deberá producirse, como máximo, en el quinto curso académico contando como primero el siguiente al de la publicación de la correspondiente normativa básica. A partir de ese momento, no podrán ofertarse plazas de nuevo ingreso en los planes de estudios a extinguir.
 
-#### Disposición final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.
+#### Disposición final segunda. Equivalencia entre los actuales títulos de Técnico y Técnico superior de Artes Plásticas y Diseño y las nuevas titulaciones.
 
-El Gobierno, previa consulta a las comunidades autónomas, determinará las equivalencias entre los diferentes títulos de Técnico y Técnico superior de Artes Plásticas y Diseño vigentes y los que se establezcan al amparo de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, de la Ley 1/2024, de 7 de junio, y de este real decreto.
+El Gobierno, previa consulta a las comunidades autónomas, determinará las equivalencias entre los diferentes títulos de Técnico y Técnico superior de Artes Plásticas y Diseño vigentes y los que se establezcan al amparo de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, de la Ley 1/2024, de 7 de junio, y de este real decreto.
 
-#### Disposición final tercera. Título competencial.
+#### Disposición final tercera. Título competencial.
 
-Este real decreto tiene carácter básico y se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución.
+Este real decreto tiene carácter básico y se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución.
 
-#### Disposición final cuarta. Habilitación para el desarrollo y ejecución.
+#### Disposición final cuarta. Habilitación para el desarrollo y ejecución.
 
 Se faculta a la persona titular del Ministerio competente en materia de educación para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en este real decreto.
 
-#### Disposición final quinta. Entrada en vigor.
+#### Disposición final quinta. Entrada en vigor.
 
-Dado el 3 de junio de 2026.
+Dado el 3 de junio de 2026.
 
 FELIPE R.
 
@@ -894,23 +873,23 @@ La Ministra de Educación, Formación Profesional y Deportes,
 
 MILAGROS TOLÓN JAIME
 
-ANEXO I
+## Anexo I
 
 Correspondencia entre las familias profesionales artísticas de ordenaciones anteriores y las establecidas en esta norma
 
-ANEXO II.a)
+## Anexo II. a)
 
-Distribución horaria de las enseñanzas mínimas de los ciclos formativos de grado medio
+Distribución horaria de las enseñanzas mínimas de los ciclos formativos de grado medio
 
 Duración completa del ciclo: 1.600 horas.
 
-ANEXO II.b)
+## Anexo II. b)
 
-Distribución horaria de las enseñanzas mínimas de los ciclos formativos de grado superior
+Distribución horaria de las enseñanzas mínimas de los ciclos formativos de grado superior
 
 Duración completa del ciclo: 2.000 horas.
 
-ANEXO III
+## Anexo III
 
 Empleabilidad y gestión de la actividad profesional
 
@@ -1060,7 +1039,7 @@ CE8.6. Se ha utilizado terminología jurídica precisa y demuestra rigor en el
 
 CE8.7. Se ha argumentado de forma crítica las implicaciones éticas y legales de la protección (o falta de protección) de las creaciones humanas.
 
-ANEXO IV
+## Anexo IV
 
 Procesos digitales aplicados al entorno profesional, nivel medio
 
@@ -1110,19 +1089,19 @@ RA4. Crea modelos digitales sencillos utilizando software específico, aplican
 
 CE4.1. Se han utilizado programas básicos de diseño, edición o documentación digital con corrección técnica y sentido estético.
 
-CE4.2. Se ha utilizado el software adecuado para crear y editar formatos digitales básicos (imagen bitmap, vectorial o modelos simples en 2D y 3D) con el fin de representar el modelo digital del proyecto.
+CE4.2. Se ha utilizado el software adecuado para crear y editar formatos digitales básicos (imagen bitmap, vectorial o modelos simples en 2D y 3D) con el fin de representar el modelo digital del proyecto.
 
 CE4.3. Se ha identificado el software específico necesario para elaborar la documentación del proyecto.
 
 CE4.4. Se han utilizado programas sencillos para la presentación y comunicación del proyecto.
 
-CE4.5. Se han reconocido los dispositivos de prototipado (como impresoras 3D o plotters) adecuados para la verificación del producto.
+CE4.5. Se han reconocido los dispositivos de prototipado (como impresoras 3D o plotters) adecuados para la verificación del producto.
 
 CE4.6. Se ha mostrado orden, responsabilidad y autonomía básica en el uso de las herramientas digitales durante el proceso de trabajo.
 
 RA5. Aplica tecnologías digitales para ejecutar el proyecto con precisión, calidad y eficiencia.
 
-CE5.1. Se han reconocido los principios básicos de las tecnologías de operación (CNC, impresión 3D, corte láser, escáner 3D, etc.) en su aplicación profesional.
+CE5.1. Se han reconocido los principios básicos de las tecnologías de operación (CNC, impresión 3D, corte láser, escáner 3D, etc.) en su aplicación profesional.
 
 CE5.2. Se han utilizado correctamente equipos y dispositivos digitales de producción bajo supervisión, siguiendo instrucciones y protocolos establecidos.
 
@@ -1188,7 +1167,7 @@ CE9.4. Se ha mostrado iniciativa en la incorporación de nuevas herramientas o
 
 CE9.5. Se ha identificado la transformación digital como un elemento importante de su perfil profesional y artístico.
 
-ANEXO V
+## Anexo V
 
 Procesos digitales aplicados al entorno profesional, nivel superior
 
@@ -1240,7 +1219,7 @@ RA4. Desarrolla modelos digitales utilizando software específico, integrando 
 
 CE4.1. Se han utilizado programas de diseño, edición o documentación digital con corrección técnica y criterio estético.
 
-CE4.2. Se ha utilizado el software adecuado para crear y editar diferentes formatos digitales (imagen bitmap, vectorial, modelos 2D o 3D, etc.) para conseguir la representación del modelo digital del proyecto.
+CE4.2. Se ha utilizado el software adecuado para crear y editar diferentes formatos digitales (imagen bitmap, vectorial, modelos 2D o 3D, etc.) para conseguir la representación del modelo digital del proyecto.
 
 CE4.3. Se ha definido el software específico para la elaboración de la documentación del proyecto.
 
@@ -1254,7 +1233,7 @@ RA5. Integra las tecnologías digitales para materializar el proyecto y mejora
 
 CE5.1. Se han reconocido los principios básicos de las tecnologías de operación (TO) aplicadas al ámbito profesional.
 
-CE5.2. Se han utilizado correctamente equipos y dispositivos digitales vinculados a la producción (CNC, impresión 3D, corte láser, escáner 3D, etc.).
+CE5.2. Se han utilizado correctamente equipos y dispositivos digitales vinculados a la producción (CNC, impresión 3D, corte láser, escáner 3D, etc.).
 
 CE5.3. Se han transferido diseños digitales a medios o máquinas de producción con precisión y coherencia técnica.
 
@@ -1318,11 +1297,10 @@ CE9.4. Se ha mostrado control en la incorporación de nuevas herramientas, met
 
 CE9.5. Se ha integrado la transformación digital como un elemento natural de su identidad profesional y artística.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -1340,6 +1318,7 @@ CE9.5. Se ha integrado la transformación digital como un elemento natural de 
 - **Fundamento de**: [**BOE-A-2026-15301**](./RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)

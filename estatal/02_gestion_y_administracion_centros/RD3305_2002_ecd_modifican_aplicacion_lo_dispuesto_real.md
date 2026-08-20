@@ -1,14 +1,10 @@
 ---
 id: norm-es-2002-25289
 codigo_sintetizado: BOE-A-2002-25289
-titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14
-  de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en
-  el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de
-  títulos y estudios extranjeros de educación no universitaria.
+titulo: Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-12-28'
 boletin: BOE
@@ -19,43 +15,40 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros extranjeros
 tags:
-- admision-alumnado
-- centros-extranjeros
-- consejo-escolar
-- curriculo
-- ensenanzas-deportivas
-- ensenanzas-universitarias
-- eso
-- formacion-profesional
-- titulacion
+  - admision-alumnado
+  - centros-extranjeros
+  - consejo-escolar
+  - curriculo
+  - ensenanzas-deportivas
+  - ensenanzas-universitarias
+  - eso
+  - formacion-profesional
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-1988-6938
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1988-6938
+    - norma_id: norm-es-l-39-2015
   fundamento_de:
-  - norma_id: norm-es-1988-3987
-  - norma_id: norm-es-1988-6938
-  - norma_id: norm-es-1996-10210
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2018-4480
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1988-6938
+    - norma_id: norm-es-1996-10210
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2018-4480
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-boc-2026-039-103
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1988-3987
-- norma_id: norm-es-1988-6938
+    - '1'
+    - norma_id: norm-es-1988-3987
+    - norma_id: norm-es-1988-6938
 ---
-
-## Preámbulo
-
 # Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el Real Decreto 104/1988, de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
-# Orden ECD/3305/2002, de 16 de diciembre, por la que se modifican las de 14 de marzo de 1988 y de 30 de abril de 1996, para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
+## Preámbulo
 
 Por [Real Decreto 104/1988](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, se regula la homologación y convalidación de títulos y estudios extranjeros por sus equivalentes españoles de educación no universitaria. Su artículo 7, apartado dos, señala que el Ministerio de Educación y Ciencia (actualmente de Educación, Cultura y Deporte) determinará el modelo de solicitud, la documentación que deba aportarse al expediente y los requisitos a que hayan de ajustarse los documentos expedidos en el extranjero. Por otra parte, la disposición final única del citado Real Decreto autoriza al Ministro de Educación y Ciencia para dictar las disposiciones necesarias para el desarrollo y aplicación de las normas contenidas en el mismo.
 
@@ -81,7 +74,9 @@ La incorporación de dichos alumnos al curso que corresponda se efectuará por e
 
 a) En las Áreas Funcionales de Alta Inspección de Educación de las Delegaciones del Gobierno en las Comunidades Autónomas o Delegaciones Provinciales del Ministerio de Educación, Cultura y Deporte en Ceuta y Melilla ; en el Registro General o Registros Auxiliares del Ministerio de Educación, Cultura y Deporte, o bien en las Consejerías de Educación u Oficinas Consulares de España en el extranjero.
 
-b) En cualquier otro de los lugares señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrollado por el artículo 2 del Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado.»
+b) En cualquier otro de los lugares señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrollado por el artículo 2 l.
+
+Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado.»
 
 3. El actual contenido del apartado cuarto queda numerado como subapartado 1, y se añaden sendos subapartados 2 y 3 a dicho apartado, con la siguiente redacción:
 
@@ -151,15 +146,14 @@ DEL CASTILLO VERA
 
 Ilmos. Sres. Subsecretario y Secretario general técnico. Departamento.
 
-ANEXO I
+## Anexo I
 
-ANEXO II
-
----
+## Anexo II
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - **Fundamentado en**: [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -173,6 +167,7 @@ ANEXO II
 - **Fundamento de**: [**Resolucion BOC 103**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)

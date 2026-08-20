@@ -1,13 +1,10 @@
 ---
 id: norm-es-2014-6008
 codigo_sintetizado: BOE-A-2014-6008
-titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa
-  básica de los procedimientos de admisión a las enseñanzas universitarias oficiales
-  de Grado.
+titulo: Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-06-07'
 boletin: BOE
@@ -18,44 +15,41 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- admision-alumnado
-- bachillerato
-- ensenanzas-artisticas
-- ensenanzas-universitarias
-- evaluacion
-- formacion-profesional
-- fp-basica
-- oposiciones
-- titulacion
+  - admision-alumnado
+  - bachillerato
+  - ensenanzas-artisticas
+  - ensenanzas-universitarias
+  - evaluacion
+  - formacion-profesional
+  - fp-basica
+  - oposiciones
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2023-3846
-  - norma_id: norm-can-res-juriscan-72176-78
+    - norma_id: norm-es-2023-3846
+    - norma_id: norm-can-res-juriscan-72176-78
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 ## Preámbulo
-
-# Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
-
-# Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.
 
@@ -85,27 +79,19 @@ En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte, previa 
 
 **DISPONGO:**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones Generales
+### Disposiciones generales artículo 1 Objeto y ámbito de aplicación. El presente real decreto tiene por objeto establecer los requisitos de acceso y la normativa básica relativa a los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, de acuerdo con los criterios establecidos en los artículos 38 y 69 y las disposiciones adicionales trigésimo tercera y trigésimo sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
-#### Artículo 1. Objeto y ámbito de aplicación.
+#### Artículo 2. Definiciones A efectos de este real decreto, se entenderá por:.
 
-El presente real decreto tiene por objeto establecer los requisitos de acceso y la normativa básica relativa a los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, de acuerdo con los criterios establecidos en los artículos 38 y 69 y las disposiciones adicionales trigésimo tercera y trigésimo sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
+a) **Requisitos de acceso.** Conjunto de requisitos necesarios para cursar enseñanzas universitarias oficiales de Grado en Universidades españolas. Su cumplimiento es previo a la admisión a la universidad.
 
-#### Artículo 2. Definiciones.
+b) **Admisión.** Adjudicación de las plazas ofrecidas por las Universidades españolas para cursar enseñanzas universitarias de Grado entre quienes, cumpliendo los requisitos de acceso, las han solicitado. La admisión puede hacerse de forma directa previa solicitud de plaza, o a través de un procedimiento de admisión.
 
-A efectos de este real decreto, se entenderá por:
+c) **Procedimiento de admisión.** Conjunto de actuaciones que tienen como objetivo la adjudicación de las plazas ofrecidas por las Universidades españolas para cursar enseñanzas universitarias oficiales de Grado entre quienes, cumpliendo los requisitos de acceso, las han solicitado. Las actuaciones pueden consistir en pruebas o evaluaciones, pero también en la valoración de la documentación que acredite la formación previa, entrevistas, y otros formatos que las Universidades puedan utilizar para valorar los méritos de los candidatos a las plazas ofrecidas.
 
-a) Requisitos de acceso: conjunto de requisitos necesarios para cursar enseñanzas universitarias oficiales de Grado en Universidades españolas. Su cumplimiento es previo a la admisión a la universidad.
-
-b) Admisión: adjudicación de las plazas ofrecidas por las Universidades españolas para cursar enseñanzas universitarias de Grado entre quienes, cumpliendo los requisitos de acceso, las han solicitado. La admisión puede hacerse de forma directa previa solicitud de plaza, o a través de un procedimiento de admisión.
-
-c) Procedimiento de admisión: conjunto de actuaciones que tienen como objetivo la adjudicación de las plazas ofrecidas por las Universidades españolas para cursar enseñanzas universitarias oficiales de Grado entre quienes, cumpliendo los requisitos de acceso, las han solicitado. Las actuaciones pueden consistir en pruebas o evaluaciones, pero también en la valoración de la documentación que acredite la formación previa, entrevistas, y otros formatos que las Universidades puedan utilizar para valorar los méritos de los candidatos a las plazas ofrecidas.
-
-CAPÍTULO II
-
-Acceso a los estudios universitarios oficiales de Grado
+## Capítulo II. Acceso a los estudios universitarios oficiales de Grado.
 
 #### Artículo 3. Acceso a los estudios universitarios oficiales de Grado.
 
@@ -143,9 +129,7 @@ m) Estudiantes que estuvieran en condiciones de acceder a la universidad según 
 
 En todos aquellos supuestos en los que se exija la homologación de cualquier título, diploma o estudio obtenido o realizado en sistemas educativos extranjeros para el acceso a la universidad, las Universidades podrán admitir con carácter condicional a los estudiantes que acrediten haber presentado la correspondiente solicitud de la homologación mientras se resuelve el procedimiento para dicha homologación.
 
-CAPÍTULO III
-
-Admisión a las enseñanzas universitarias oficiales de Grado
+## Capítulo III. Admisión a las enseñanzas universitarias oficiales de Grado.
 
 #### Artículo 5. Principios generales de admisión a las enseñanzas universitarias oficiales de Grado.
 
@@ -223,7 +207,9 @@ c) Personas mayores de cuarenta y cinco años que superen la prueba de acceso es
 
 #### Artículo 10. Procedimientos generales de admisión.
 
-1. Para los supuestos mencionados en el apartado 1 del artículo 9 del presente real decreto, los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado que pudieran establecer las Universidades utilizarán alguno o algunos de los siguientes criterios de valoración:
+1. Para los supuestos mencionados en el apartado 1 del artículo 9 l.
+
+presente real decreto, los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado que pudieran establecer las Universidades utilizarán alguno o algunos de los siguientes criterios de valoración:
 
 a) Modalidad y materias cursadas en los estudios previos equivalentes al Título de Bachiller, en relación con la titulación elegida.
 
@@ -237,7 +223,9 @@ Además, de forma excepcional, podrán establecer evaluaciones específicas de c
 
 La ponderación de la calificación final obtenida en el Bachillerato o estudios equivalentes deberá tener un valor, como mínimo, del 60 por 100 del resultado final del procedimiento de admisión.
 
-2. Para los supuestos mencionados en los apartados 2 y 3 del artículo 9 del presente real decreto, los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado que establezcan las Universidades utilizarán alguno o algunos de los siguientes criterios de valoración:
+2. Para los supuestos mencionados en los apartados 2 y 3 del artículo 9 l.
+
+presente real decreto, los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado que establezcan las Universidades utilizarán alguno o algunos de los siguientes criterios de valoración:
 
 a) Calificación final obtenida en las enseñanzas cursadas, y/o en módulos o materias concretas.
 
@@ -255,15 +243,9 @@ Además, de forma excepcional podrán establecer evaluaciones específicas de co
 
 4. Para los supuestos mencionados en el apartado 4 del artículo 9, el criterio de admisión se basará en las valoraciones obtenidas en las pruebas de acceso y criterios de acreditación y ámbito de la experiencia laboral o profesional en relación con cada una de las enseñanzas, recogidos en este real decreto.
 
-CAPÍTULO IV
+## Capítulo IV. Procedimientos específicos de acceso y admisión.
 
-Procedimientos específicos de acceso y admisión
-
-Sección 1.ª Personas mayores de 25 años
-
-#### Artículo 11. Acceso a las enseñanzas universitarias oficiales de Grado para mayores de 25 años.
-
-Las personas mayores de 25 años de edad que no posean ninguna titulación académica que de acceso a la universidad por otras vías, podrán acceder a las enseñanzas universitarias oficiales de Grado mediante la superación de una prueba de acceso. Sólo podrán concurrir a dicha prueba de acceso quienes cumplan o hayan cumplido los 25 años de edad en el año natural en que se celebre dicha prueba.
+#### Sección 1. ª Personas mayores de 25 años artículo 11 Acceso a las enseñanzas universitarias oficiales de Grado para mayores de 25 años. Las personas mayores de 25 años de edad que no posean ninguna titulación académica que de acceso a la universidad por otras vías, podrán acceder a las enseñanzas universitarias oficiales de Grado mediante la superación de una prueba de acceso. Sólo podrán concurrir a dicha prueba de acceso quienes cumplan o hayan cumplido los 25 años de edad en el año natural en que se celebre dicha prueba.
 
 #### Artículo 12. Prueba de acceso a la universidad para mayores de 25 años.
 
@@ -323,7 +305,7 @@ e) Resolución de reclamaciones.
 
 2. En el supuesto de que una Administración educativa decida no hacer uso de la posibilidad prevista en este artículo, la prueba de acceso deberá realizarse en todo caso en una Universidad pública.
 
-Sección 2.ª Acreditación de experiencia laboral o profesional
+#### Sección 2. ª Acreditación de experiencia laboral o profesional
 
 #### Artículo 16. Acceso mediante acreditación de experiencia laboral o profesional.
 
@@ -333,7 +315,7 @@ Sección 2.ª Acreditación de experiencia laboral o profesional
 
 3. A efectos de lo dispuesto en este artículo, las Universidades incluirán en la memoria del plan de estudios verificado, de acuerdo con lo dispuesto en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, los criterios de acreditación y ámbito de la experiencia laboral o profesional en relación con cada una de las enseñanzas, de forma que permitan ordenar a los solicitantes. Entre dichos criterios se incluirá, en todo caso, la realización de una entrevista personal con el candidato, que podrá repetir en ocasiones sucesivas.
 
-Sección 3.ª Personas mayores de 45 años
+#### Sección 3. ª Personas mayores de 45 años
 
 #### Artículo 17. Acceso para mayores de 45 años.
 
@@ -359,7 +341,9 @@ En el caso de que la prueba se celebre en Universidades del ámbito de gestión 
 
 #### Artículo 18. Convocatoria de la prueba de acceso para mayores de 45 años.
 
-1. Las Universidades realizarán anualmente una convocatoria de prueba de acceso a la que se refiere el artículo 17 del presente real decreto.
+1. Las Universidades realizarán anualmente una convocatoria de prueba de acceso a la que se refiere el artículo 17 l.
+
+presente real decreto.
 
 2. Los candidatos podrán realizar la prueba de acceso para mayores de 45 años en cada convocatoria en las Universidades de su elección, siempre que existan en éstas los estudios que deseen cursar; la superación de la prueba de acceso les permitirá ser admitidos únicamente a las Universidades en las que hayan realizado la prueba.
 
@@ -387,7 +371,7 @@ f) Resolución de reclamaciones.
 
 2. En el supuesto de que una Administración educativa decida no hacer uso de la posibilidad prevista en este artículo, la prueba de acceso deberá realizarse en todo caso en una Universidad pública.
 
-Sección 4.ª Personas con discapacidad
+#### Sección 4. ª Personas con discapacidad
 
 #### Artículo 21. Personas que presentan algún tipo de discapacidad.
 
@@ -397,9 +381,7 @@ Sección 4.ª Personas con discapacidad
 
 3. Los tribunales calificadores podrán requerir informes y colaboración de los órganos técnicos competentes de las Administraciones educativas, así como de los centros donde hayan cursado estudios los estudiantes con discapacidad, que deberán informar de las adaptaciones curriculares realizadas.
 
-CAPÍTULO V
-
-Criterios específicos para la adjudicación de plazas por las Universidades públicas
+## Capítulo V. Criterios específicos para la adjudicación de plazas por las Universidades públicas.
 
 #### Artículo 22. Establecimiento por las Universidades públicas del orden de prelación.
 
@@ -411,7 +393,9 @@ Asimismo, podrán establecer cupos de reserva de plazas y diferentes reglas de p
 
 1. Del total de plazas que para cada título y centro oferten las Universidades públicas deberán, como mínimo, reservarse los porcentajes a que se refieren los artículos 24 a 28, ambos inclusive.
 
-2. Las plazas objeto de reserva que queden sin cubrir de acuerdo con lo dispuesto en los artículos siguientes serán destinadas al cupo general y ofertadas por las Universidades de acuerdo con lo indicado en el artículo 22 en cada una de las convocatorias de admisión, excepto lo dispuesto para los deportistas de alto nivel en el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
+2. Las plazas objeto de reserva que queden sin cubrir de acuerdo con lo dispuesto en los artículos siguientes serán destinadas al cupo general y ofertadas por las Universidades de acuerdo con lo indicado en el artículo 22 en.
+
+cada una de las convocatorias de admisión, excepto lo dispuesto para los deportistas de alto nivel en el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
 
 3. Los estudiantes que reúnan los requisitos para solicitar la admisión por más de un porcentaje de reserva de plazas podrán hacer uso de dicha posibilidad.
 
@@ -437,7 +421,9 @@ La reserva de plazas para deportistas de alto nivel y de alto rendimiento se reg
 
 Se reservará un porcentaje mínimo del 3 por 100 de las plazas ofertadas por las Universidades para quienes acrediten su condición de deportista de alto nivel o de alto rendimiento y reúnan los requisitos académicos correspondientes.
 
-Los centros que impartan los estudios y enseñanzas a los que hace referencia el párrafo cuarto del apartado 1 del artículo 9 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, reservarán un cupo adicional equivalente como mínimo al 5 por 100 de las plazas ofertadas para estos deportistas, pudiendo incrementarse dicho cupo. Los cupos de reserva de plazas habrán de mantenerse en las diferentes convocatorias que se realicen a lo largo del año.
+Los centros que impartan los estudios y enseñanzas a los que hace referencia el párrafo cuarto del apartado 1 del artículo 9 l.
+
+Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, reservarán un cupo adicional equivalente como mínimo al 5 por 100 de las plazas ofertadas para estos deportistas, pudiendo incrementarse dicho cupo. Los cupos de reserva de plazas habrán de mantenerse en las diferentes convocatorias que se realicen a lo largo del año.
 
 #### Artículo 28. Plazas reservadas a estudiantes con titulación universitaria o equivalente.
 
@@ -445,13 +431,19 @@ Para los estudiantes que ya estén en posesión de una titulación universitaria
 
 #### Artículo 29. Cambio de universidad y/o estudios universitarios oficiales españoles.
 
-1. Las solicitudes de plazas de estudiantes con estudios universitarios oficiales españoles parciales que deseen ser admitidos en otra Universidad y/o estudios universitarios oficiales españoles y se les reconozca un mínimo de 30 créditos ECTS de acuerdo con lo dispuesto en el artículo 6 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, serán resueltas por el Rector de la Universidad, de acuerdo con los criterios, que a estos efectos, determine el Consejo de Gobierno de cada universidad.
+1. Las solicitudes de plazas de estudiantes con estudios universitarios oficiales españoles parciales que deseen ser admitidos en otra Universidad y/o estudios universitarios oficiales españoles y se les reconozca un mínimo de 30 créditos ECTS de acuerdo con lo dispuesto en el artículo 6 l.
 
-2. Las solicitudes de plazas de estudiantes con estudios universitarios oficiales españoles parciales que deseen ser admitidos en otra Universidad y/o estudios universitarios oficiales españoles y no se les reconozca un mínimo de 30 créditos ECTS de acuerdo con lo dispuesto en el artículo 6 del Real Decreto 1393/2007, deberán incorporarse al proceso general de admisión.
+Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, serán resueltas por el Rector de la Universidad, de acuerdo con los criterios, que a estos efectos, determine el Consejo de Gobierno de cada universidad.
+
+2. Las solicitudes de plazas de estudiantes con estudios universitarios oficiales españoles parciales que deseen ser admitidos en otra Universidad y/o estudios universitarios oficiales españoles y no se les reconozca un mínimo de 30 créditos ECTS de acuerdo con lo dispuesto en el artículo 6 l.
+
+Real Decreto 1393/2007, deberán incorporarse al proceso general de admisión.
 
 3. La adjudicación de plaza en otra Universidad dará lugar al traslado del expediente académico correspondiente, el cual deberá ser tramitado por la universidad de procedencia, una vez que el interesado acredite haber sido admitido en otra universidad.
 
-4. Para los deportistas de alto nivel y alto rendimiento que se vean obligados a cambiar de residencia por motivos deportivos, se tomarán las medidas necesarias para que puedan continuar su formación en su nuevo lugar de residencia, de acuerdo con lo dispuesto en el apartado 10 del artículo 9 del Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
+4. Para los deportistas de alto nivel y alto rendimiento que se vean obligados a cambiar de residencia por motivos deportivos, se tomarán las medidas necesarias para que puedan continuar su formación en su nuevo lugar de residencia, de acuerdo con lo dispuesto en el apartado 10 del artículo 9 l.
+
+Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento.
 
 #### Artículo 30. Admisión de estudiantes con estudios universitarios extranjeros.
 
@@ -547,11 +539,10 @@ El Ministro de Educación, Cultura y Deporte,
 
 JOSÉ IGNACIO WERT ORTEGA
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -561,6 +552,7 @@ JOSÉ IGNACIO WERT ORTEGA
 - **Fundamento de**: [**Resolucion BOC 78**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R18_2_2015_dispone_publicacion_reglamento_acceso_universidad_laguna.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)

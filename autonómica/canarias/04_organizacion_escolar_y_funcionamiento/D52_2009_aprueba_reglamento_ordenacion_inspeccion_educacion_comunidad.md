@@ -1,8 +1,7 @@
 ---
 id: norm-can-d-52-2009
 codigo_sintetizado: D52_2009 Reglamento de Ordenacion de la Inspeccion de Educacion
-titulo: Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación
-  de la Inspección de Educación de la Comunidad Autónoma de Canarias.
+titulo: Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Gobierno de Canarias / Consejería de Educación
@@ -20,41 +19,36 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Inspección educativa
 tags:
-- asesoramiento-tecnico
-- ebep
-- equipos-directivos
-- evaluacion-sistema
-- inspecci-n-educativa
-- inspeccion-educativa
-- oposiciones
-- procedimiento-administrativo
-- reglamento-inspeccion
-- retribuciones
+  - asesoramiento-tecnico
+  - ebep
+  - equipos-directivos
+  - evaluacion-sistema
+  - inspecci-n-educativa
+  - inspeccion-educativa
+  - oposiciones
+  - procedimiento-administrativo
+  - reglamento-inspeccion
+  - retribuciones
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '65'
-- norma_id: norm-es-lo-2-2006
+    - '65'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '148'
-  - '151'
+    - '148'
+    - '151'
 ---
-
-## Preámbulo
-
 # Decreto 52/2009, de 12 de mayo, por el que se aprueba el Reglamento de Ordenación de la Inspección de Educación de la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
+## Preámbulo
 
 Archivo
 
@@ -69,8 +63,6 @@ Año 2009
 2009/096. Jueves 21 de Mayo de 2009
 
 Siguiente
-
-II. AUTORIDADES Y PERSONAL - Oposiciones y concursos - Consejería de Presidencia, Justicia y Seguridad
 
 762 - ORDEN de 14 de mayo de 2009, por la que se resuelve la convocatoria para la provisión, por el procedimiento de libre designación, de un puesto de trabajo en este Departamento, efectuada por Orden de esta Consejería de 18 de marzo de 2009.
 
@@ -124,11 +116,10 @@ JUSTICIA Y SEGURIDAD,
 
 José Miguel Ruano León.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
@@ -136,5 +127,6 @@ José Miguel Ruano León.
 - **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 
 ### Fundamentos de Derecho
+
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

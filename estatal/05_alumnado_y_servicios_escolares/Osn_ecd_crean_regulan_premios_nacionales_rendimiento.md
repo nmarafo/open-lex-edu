@@ -1,14 +1,10 @@
 ---
 id: norm-es-2015-8702
 codigo_sintetizado: BOE-A-2015-8702
-titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios
-  Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria
-  y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes
-  Plásticas y Diseño.
+titulo: Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-01'
 boletin: BOE
@@ -19,42 +15,39 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Concursos y premios escolares
 tags:
-- bachillerato
-- concursos-y-premios-escolares
-- curriculo
-- ensenanzas-artisticas
-- ensenanzas-deportivas
-- eso
-- formacion-profesional
-- grado-superior
-- igualdad-genero
-- profesorado
-- transparencia
+  - bachillerato
+  - concursos-y-premios-escolares
+  - curriculo
+  - ensenanzas-artisticas
+  - ensenanzas-deportivas
+  - eso
+  - formacion-profesional
+  - grado-superior
+  - igualdad-genero
+  - profesorado
+  - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 ## Preámbulo
-
-# Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
-
-# Orden ECD/1611/2015, de 29 de julio, por la que se crean y regulan los Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, Danza y Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, señala en su artículo 2 bis 4, que el funcionamiento del Sistema Educativo Español se rige por los principios de calidad, cooperación, equidad, libertad de enseñanza, mérito, igualdad de oportunidades, no discriminación, eficiencia en la asignación de recursos públicos, transparencia y rendición de cuentas.
 
@@ -74,13 +67,9 @@ En la elaboración de esta orden se ha consultado a las Comunidades Autónomas e
 
 Por todo ello, con la aprobación previa del Ministro de Hacienda y de Administraciones Públicas, dispongo:
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
-
-#### Artículo 1. Objeto.
-
-Esta orden tiene por objeto la regulación de los Premios Nacionales al rendimiento académico de los alumnos y alumnas en las modalidades de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño, como reconocimiento del especial aprovechamiento del alumnado que haya cursado dichas enseñanzas conforme a lo dispuesto en el marco de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
+### Disposiciones generales artículo 1 Objeto. Esta orden tiene por objeto la regulación de los Premios Nacionales al rendimiento académico de los alumnos y alumnas en las modalidades de Educación Secundaria Obligatoria y de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño, como reconocimiento del especial aprovechamiento del alumnado que haya cursado dichas enseñanzas conforme a lo dispuesto en el marco de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 #### Artículo 2. Convocatorias.
 
@@ -110,9 +99,9 @@ Los Premios Nacionales tendrán una dotación económica, cuya cuantía individu
 
 3. El número de seleccionados por cada Administración Educativa deberá establecerse dentro de los siguientes límites:
 
-a) para la modalidad de Educación Secundaria Obligatoria: uno por cada 1750, o fracción superior a 500, matriculados en cuarto curso en el año académico al que se refiere la convocatoria,
+a) Para la modalidad de Educación Secundaria Obligatoria: uno por cada 1750, o fracción superior a 500, matriculados en cuarto curso en el año académico al que se refiere la convocatoria,
 
-b) para la modalidad de Enseñanzas Artísticas Profesionales: uno por cada especialidad o familia profesional.
+b) Para la modalidad de Enseñanzas Artísticas Profesionales: uno por cada especialidad o familia profesional.
 
 #### Artículo 4. Procedimiento.
 
@@ -138,9 +127,7 @@ Dichos jurados asumirán las funciones atribuidas al órgano colegiado al que se
 
 La obtención del Premio Nacional de Educación Secundaria Obligatoria o de Enseñanzas Artísticas Profesionales será anotada, mediante diligencia realizada por el Secretario del centro docente, en el expediente académico y en el historial académico del alumno o alumna.
 
-CAPÍTULO II
-
-Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria
+## Capítulo II. Premios Nacionales al rendimiento académico del alumnado de Educación Secundaria Obligatoria.
 
 #### Artículo 6. Requisitos de los candidatos.
 
@@ -174,15 +161,13 @@ c) El tercer ejercicio versará sobre aspectos que permitan verificar el grado d
 
 La valoración de las pruebas atenderá, entre otros criterios específicos para cada uno de los ejercicios que las componen, a los siguientes: la corrección de las respuestas, la claridad y calidad de la exposición, la estructuración del ejercicio, la propiedad del vocabulario, la puntuación y la ortografía.
 
-CAPÍTULO III
-
-Premios nacionales de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño
+## Capítulo III. Premios nacionales de Enseñanzas Artísticas Profesionales en los ámbitos de Música, de Danza y de Artes Plásticas y Diseño.
 
 #### Artículo 9. Requisitos de los candidatos.
 
 Podrá optar a los Premios Nacionales de Enseñanzas Artísticas Profesionales el alumnado que haya obtenido previamente Premio Extraordinario de Enseñanzas Artísticas Profesionales en el ámbito de gestión directa del Ministerio de Educación, Cultura y Deporte o de la Comunidad Autónoma en que haya finalizado dichas enseñanzas, y que cumpla además, para cada ámbito, los siguientes requisitos:
 
-a) Ámbito A: Música:
+a) **Ámbito A.** Música:
 
 1.º Haber finalizado las Enseñanzas Profesionales de Música en el curso académico de la convocatoria en centros docentes españoles.
 
@@ -190,7 +175,7 @@ a) Ámbito A: Música:
 
 3.º Haber sido seleccionado por su Administración educativa para participar en los Premios Nacionales.
 
-b) Ámbito B: Danza:
+b) **Ámbito B.** Danza:
 
 1.º Haber finalizado las Enseñanzas Profesionales de Danza en el curso académico de la convocatoria en centros docentes españoles.
 
@@ -198,7 +183,7 @@ b) Ámbito B: Danza:
 
 3.º Haber sido seleccionado por su Administración educativa para participar en los Premios Nacionales.
 
-c) Ámbito C: Artes Plásticas y Diseño:
+c) **Ámbito C.** Artes Plásticas y Diseño:
 
 1.º Haber finalizado un ciclo formativo de grado superior de Artes plásticas y Diseño en el curso académico de la convocatoria, en centros docentes españoles.
 
@@ -220,7 +205,9 @@ La presente orden no será de aplicación a los procedimientos regidos por las c
 
 Hasta el curso escolar 2016-2017, en el que, de acuerdo con el apartado 2 de la disposición final quinta de la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa, tendrá lugar la implantación de las modificaciones introducidas en el currículo, la organización, objetivos, requisitos para la obtención de certificados y títulos, programas, promoción y evaluaciones de Educación Secundaria Obligatoria, no se tendrá en cuenta la distinción de opciones previstas para dicha etapa a las que se hace alusión en el artículo 6.a) de la presente orden.
 
-Del mismo modo, hasta dicha fecha, el segundo ejercicio de las pruebas a las que se refiere el artículo 7 consistirá en la respuesta a cuestiones y/o resolución de ejercicios prácticos dentro de la materia de Matemáticas cursada por el alumno o alumna.
+Del mismo modo, hasta dicha fecha, el segundo ejercicio de las pruebas a las que se refiere el artículo 7 consistirá.
+
+en la respuesta a cuestiones y/o resolución de ejercicios prácticos dentro de la materia de Matemáticas cursada por el alumno o alumna.
 
 #### Disposición final primera. Título competencial.
 
@@ -234,11 +221,10 @@ Se faculta a la persona titular de la Secretaría de Estado de Educación, Forma
 
 Madrid, 29 de julio de 2015.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](./LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -246,6 +232,7 @@ Madrid, 29 de julio de 2015.–El Ministro de Educación, Cultura y Deporte, Í�
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)

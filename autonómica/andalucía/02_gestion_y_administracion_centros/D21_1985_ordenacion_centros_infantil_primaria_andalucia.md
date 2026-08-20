@@ -1,12 +1,10 @@
 ---
 id: norm-and-d-21-1985
 codigo_sintetizado: D21_1985 Ordenacion Centros Infantil Primaria Andalucía
-titulo: Decreto 21/1985, de 6 de febrero, por el que se regula el mapa escolar y adscripción
-  de centros en Andalucía.
+titulo: Decreto 21/1985, de 6 de febrero, por el que se regula el mapa escolar y adscripción de centros en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 21/1985
 fecha_disposicion: '1985-02-06'
@@ -20,22 +18,21 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Mapa escolar
 tags:
-- mapa_escolar
-- adscripcion
-- andalucia
+  - mapa_escolar
+  - adscripcion
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-132-2010
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-132-2010
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Decreto 21/1985, de 6 de febrero, por el que se regula el mapa escolar y adscripción de centros en Andalucía.
 
 ## Preámbulo
-
-# Decreto 21/1985, de 6 de febrero, por el que se regula el mapa escolar y adscripción de centros en Andalucía.
 
 La conveniencia de ordenar la oferta de plazas escolares y adscribir los centros docentes de Educación Infantil y Educación Primaria a los Institutos de Educación Secundaria para garantizar la continuidad pedagógica del alumnado en la Comunidad Autónoma de Andalucía hace preciso aprobar las normas reguladoras del mapa escolar.
 
@@ -43,26 +40,22 @@ En su virtud, a propuesta del Consejero de Educación y Ciencia, previa delibera
 
 DISPONGO:
 
-### Capítulo I. Del Mapa Escolar y Zonas de Escolarización
+### Capítulo I. Del Mapa Escolar y Zonas de Escolarización artículo 1 Objeto del Decreto. El presente Decreto tiene por objeto regular la planificación del mapa escolar, la delimitación de las zonas de escolarización y la adscripción de centros docentes no universitarios en Andalucía.
 
-#### Artículo 1. Objeto del Decreto
-El presente Decreto tiene por objeto regular la planificación del mapa escolar, la delimitación de las zonas de escolarización y la adscripción de centros docentes no universitarios en Andalucía.
+#### Artículo 2. Criterios de delimitación de zonas.
 
-#### Artículo 2. Criterios de delimitación de zonas
 La delimitación de zonas escolares responderá a los principios de cercanía al domicilio familiar, garantía de gratuidad de las enseñanzas obligatorias y optimización de las infraestructuras docentes.
 
-### Capítulo II. Adscripción de Centros Educativos
+### Capítulo II. Adscripción de Centros Educativos artículo 3 Adscripción de centros de Primaria a Secundaria. Los Colegios de Educación Infantil y Primaria (CEIP) quedarán adscritos a los Institutos de Educación Secundaria (IES) de su correspondiente zona escolar para asegurar el acceso directo de su alumnado a la etapa de Educación Secundaria Obligatoria.
 
-#### Artículo 3. Adscripción de centros de Primaria a Secundaria
-Los Colegios de Educación Infantil y Primaria (CEIP) quedarán adscritos a los Institutos de Educación Secundaria (IES) de su correspondiente zona escolar para asegurar el acceso directo de su alumnado a la etapa de Educación Secundaria Obligatoria.
+#### Artículo 4. Comisiones de Escolarización En cada municipio o zona escolar se constituirá una Comisión de Escolarización encargada de la supervisión de las adscripciones y de la asignación de plazas escolares.
 
-#### Artículo 4. Comisiones de Escolarización
-En cada municipio o zona escolar se constituirá una Comisión de Escolarización encargada de la supervisión de las adscripciones y de la asignación de plazas escolares.
+### Disposiciones finales
 
-### Disposiciones Finales
+#### Disposición final primera. Habilitación reglamentaria.
 
-#### Disposición Final Primera. Habilitación reglamentaria
 Se faculta a la Consejería de Educación para dictar las normas precisas para la ejecución y desarrollo de este Decreto.
 
-#### Disposición Final Segunda. Entrada en vigor
+#### Disposición final segunda. Entrada en vigor.
+
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.

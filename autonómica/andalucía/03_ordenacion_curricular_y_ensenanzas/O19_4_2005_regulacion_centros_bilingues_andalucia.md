@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-19-4-2005
 codigo_sintetizado: O19_4_2005 Regulacion Centros Bilingues Andalucía
-titulo: Orden de 19 de abril de 2005, por la que se establece el procedimiento de
-  autorización de Centros Bilingües en Andalucía.
+titulo: Orden de 19 de abril de 2005, por la que se establece el procedimiento de autorización de Centros Bilingües en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 19/04/2005
 fecha_disposicion: '2005-04-19'
@@ -20,34 +18,27 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bilingüismo
 tags:
-- bilinguismo
-- centros_bilingues
-- plurilinguismo
-- andalucia
+  - bilinguismo
+  - centros_bilingues
+  - plurilinguismo
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 19 de abril de 2005, por la que se establece el procedimiento de autorización de Centros Bilingües en Andalucía.
 
 ## Preámbulo
 
-# Orden de 19 de abril de 2005, por la que se establece el procedimiento de autorización de Centros Bilingües en Andalucía.
-
 ORDEN de 20 de abril de 2005, por la que se convoca el Premio Andalucía de Periodismo en su XX Edición, en las modalidades de Prensa Escrita, Radio, Televisión, Fotografía e Internet.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -85,17 +76,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2005
 Boletín 86
 
 ##
 
-Histórico del BOJA
-Boletín número
-86
-de
-05/05/2005
+Histórico del BOJA Boletín número 86 de 05/05/2005
 
 ## 1. Disposiciones generales
 
@@ -103,10 +88,7 @@ de
 
 ### ORDEN de 20 de abril de 2005, por la que se convoca el Premio Andalucía de Periodismo en su XX Edición, en las modalidades de Prensa Escrita, Radio, Televisión, Fotografía e Internet.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
 La Consejería de la Presidencia de la Junta de Andalucía viene convocando anualmente el Premio Andalucía de Periodismo, a fin de fomentar el tratamiento en los Medios de Comunicación de los temas referidos a Andalucía y contribuir a la difusión de los aspectos sociales, económicos y culturales de la Comunidad Autónoma y el conocimiento de su Estatuto de Autonomía.
 
@@ -140,7 +122,7 @@ BASES GENERALES
 
 4. El procedimiento para la presentación de candidatos podrá seguir dos cauces distintos:
 
-a) Envío de los trabajos a concurso por parte de los propios autores. En el caso de que sean trabajos colectivos, éstos deberán remitirse acompañados de un documento con la firma de todos sus coautores, en el que se especifique el titular individual o colectivo de la candidatura.
+a) **Envío de los trabajos a concurso por parte de los propios autores.** En el caso de que sean trabajos colectivos, éstos deberán remitirse acompañados de un documento con la firma de todos sus coautores, en el que se especifique el titular individual o colectivo de la candidatura.
 
 b) Presentación de candidaturas por parte de las Asociaciones de la Prensa de Andalucía.
 
@@ -215,19 +197,11 @@ comunicación social.
 17. La participación en este concurso supone la aceptación íntegra de estas Bases.
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-86
-de
-05/05/2005
+86 de 05/05/2005
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -237,15 +211,11 @@ de
 
 4. Administración de justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2005/86/boletin.86.pdf">Descargar boletín nº
-86 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2005/86/boletin.86.pdf">Descargar boletín nº 86 completo
 
 PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -270,3 +240,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

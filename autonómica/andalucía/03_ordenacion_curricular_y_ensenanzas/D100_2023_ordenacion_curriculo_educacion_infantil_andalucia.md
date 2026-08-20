@@ -1,12 +1,10 @@
 ---
 id: norm-and-d-100-2023
 codigo_sintetizado: D100_2023 Ordenacion y Curriculo Educacion Infantil Andalucia
-titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el
-  currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 100/2023
 fecha_disposicion: '2023-05-09'
@@ -20,28 +18,21 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
-- curriculo_infantil
-- ordenacion_infantil
-- etapa_infantil
-- andalucia
+  - curriculo_infantil
+  - ordenacion_infantil
+  - etapa_infantil
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
-
-## Preámbulo
-
 # Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
 
-Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
-
-###
-
-###
+## Preámbulo
 
 Becas y ayudas
 
@@ -75,35 +66,19 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2023
 Boletín 90
 
 ##
 
-Histórico del BOJA
-Boletín número 90 de
-15/05/2023
+Histórico del BOJA Boletín número 90 de 15/05/2023
 
 ## 1. Disposiciones generales
 
-### Consejería de Desarrollo Educativo y Formación Profesional
+### Consejería de Desarrollo Educativo y Formación Profesional
 
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00283496.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00283496.
 
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
@@ -133,19 +108,17 @@ El presente decreto se ha elaborado atendiendo a los principios de buena regulac
 
 En su virtud, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del día 9 de mayo de 2023,
 
-D I S P O N G O
+DISPONGO:
 
-CAPÍTULO I
+## Capítulo I. Disposiciones de carácter general.
 
-Disposiciones de carácter general
-
-Artículo 1. Objeto y ámbito de aplicación.
+#### Artículo 1. Objeto y ámbito de aplicación.
 
 1. El presente decreto tiene por objeto establecer la ordenación general y el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
 2. Este decreto se aplicará en todos los centros educativos de la Comunidad Autónoma que impartan estas enseñanzas.
 
-Artículo 2. La etapa de Educación Infantil en el marco del Sistema Educativo.
+#### Artículo 2. La etapa de Educación Infantil en el marco del Sistema Educativo.
 
 1. La enseñanza de Educación Infantil constituye la etapa educativa con identidad propia que atiende a niños y niñas desde el nacimiento hasta los seis años de edad.
 
@@ -153,47 +126,47 @@ Artículo 2. La etapa de Educación Infantil en el marco del Sistema Educativo.
 
 3. La etapa tiene como finalidad contribuir al desarrollo integral y armónico del alumnado en todas sus dimensiones: física, emocional, afectiva, social, sensorial, comunicativa, cognitiva y artística, potenciando la autonomía personal y la creación progresiva de una imagen positiva y equilibrada de sí mismo, así como a la educación en valores cívicos para la convivencia democrática.
 
-Artículo 3. Definiciones.
+#### Artículo 3. Definiciones.
 
-1. A efectos de los elementos que articulan el currículo y teniendo en cuenta lo establecido en el artículo 2 del Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil, se entenderá por:
+1. A efectos de los elementos que articulan el currículo y teniendo en cuenta lo establecido en el artículo 2 l.
 
-a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
+Real Decreto 95/2022, de 1 de febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Infantil, se entenderá por:
 
-b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente.
+a) **Objetivos.** Logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 
-c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave y, por otra, los saberes básicos de las áreas y los criterios de evaluación.
+b) **Competencias clave.** Desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo y afrontar los principales retos y desafíos globales y locales. Son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente.
 
-d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
+c) **Competencias específicas.** Desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área. Las competencias específicas constituyen un elemento de conexión entre, por una parte, las competencias clave y, por otra, los saberes básicos de las áreas y los criterios de evaluación.
 
-e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+d) **Criterios de evaluación.** Referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
 
-f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
+e) **Saberes básicos.** Conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+
+f) **Situaciones de aprendizaje.** Situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
 
 2. Además de los elementos descritos en el apartado 1, en Andalucía se entenderá por perfil competencial la guía que identifica y define las competencias clave que el alumnado debe haber adquirido y desarrollado al finalizar cada ciclo de la etapa de Educación Infantil e introduce los descriptores operativos que orientan sobre el nivel de desempeño esperado al término del primer ciclo y de la etapa. Estos perfiles se encuentran recogidos en el anexo.
 
-Artículo 4. Principios generales de la etapa.
+#### Artículo 4. Principios generales de la etapa.
 
 Los principios generales de la etapa son:
 
-a) Voluntariedad. La etapa de Educación Infantil tiene carácter voluntario.
+a) **Voluntariedad.** La etapa de Educación Infantil tiene carácter voluntario.
 
-b) Gratuidad. El segundo ciclo de esta etapa educativa será gratuito. En el primer ciclo se tenderá a la progresiva extensión de su gratuidad en el marco del Sistema Educativo Público de Andalucía, según lo establecido en el artículo 3 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social, así como la situación de baja tasa de escolarización.
+b) **Gratuidad.** El segundo ciclo de esta etapa educativa será gratuito. En el primer ciclo se tenderá a la progresiva extensión de su gratuidad en el marco del Sistema Educativo Público de Andalucía, según lo establecido en el artículo 3 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, priorizando el acceso del alumnado en situación de riesgo de pobreza y exclusión social, así como la situación de baja tasa de escolarización.
 
-c) Globalidad. La acción educativa en esta etapa procurará la integración de las distintas experiencias y aprendizajes del alumnado desde una perspectiva global y se adaptará a sus ritmos de trabajo.
+c) **Globalidad.** La acción educativa en esta etapa procurará la integración de las distintas experiencias y aprendizajes del alumnado desde una perspectiva global y se adaptará a sus ritmos de trabajo.
 
-d) Aprendizaje significativo. Se pondrá especial atención en la potenciación del aprendizaje de carácter significativo que contribuya al desarrollo de las competencias clave.
+d) **Aprendizaje significativo.** Se pondrá especial atención en la potenciación del aprendizaje de carácter significativo que contribuya al desarrollo de las competencias clave.
 
-e) Equidad e inclusión educativa. La programación, la gestión y el desarrollo de la etapa atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA).
+e) **Equidad e inclusión educativa.** La programación, la gestión y el desarrollo de la etapa atenderán a la compensación de los efectos que las desigualdades de origen cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a la detección precoz y atención temprana de necesidades específicas de apoyo educativo. Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA).
 
-f) Conciliación familiar y colaboración. La etapa facilitará la conciliación entre la vida familiar y laboral de los padres, madres o personas que ejerzan la tutela legal del alumnado. Además, esta etapa educativa se basa en la colaboración mutua de las familias y los centros así como su personal. Esta conciliación nunca podrá suponer un perjuicio para los derechos del alumnado.
+f) **Conciliación familiar y colaboración.** La etapa facilitará la conciliación entre la vida familiar y laboral de los padres, madres o personas que ejerzan la tutela legal del alumnado. Además, esta etapa educativa se basa en la colaboración mutua de las familias y los centros así como su personal. Esta conciliación nunca podrá suponer un perjuicio para los derechos del alumnado.
 
-g) Cooperación. Para su implementación y desarrollo, se fomentará la cooperación de las Corporaciones locales y otras entidades con la Administración educativa.
+g) **Cooperación.** Para su implementación y desarrollo, se fomentará la cooperación de las Corporaciones locales y otras entidades con la Administración educativa.
 
-CAPÍTULO II
+## Capítulo II. Ordenación de la etapa.
 
-Ordenación de la etapa
-
-Artículo 5. Objetivos de la etapa.
+#### Artículo 5. Objetivos de la etapa.
 
 La etapa de Educación Infantil contribuirá a desarrollar en el alumnado las capacidades que le permitan:
 
@@ -213,9 +186,11 @@ g) Iniciarse en el movimiento, el gesto y el ritmo y en las habilidades lógico-
 
 h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre hombres y mujeres, favoreciendo el logro de una sociedad libre e igualitaria.
 
-Artículo 6. Principios pedagógicos.
+#### Artículo 6. Principios pedagógicos.
 
-Sin perjuicio de lo establecido en el artículo 6 del Real Decreto 95/2022, de 1 de febrero, el currículo de la etapa de Educación Infantil responderá a los siguientes principios:
+Sin perjuicio de lo establecido en el artículo 6 l.
+
+Real Decreto 95/2022, de 1 de febrero, el currículo de la etapa de Educación Infantil responderá a los siguientes principios:
 
 a) La práctica educativa en esta etapa estará orientada a asentar progresivamente las bases que faciliten el máximo desarrollo de cada niño y niña. Además, se favorecerá que adquieran autonomía personal y elaboren una imagen positiva de sí mismos, equilibrada e igualitaria y libre de estereotipos discriminatorios.
 
@@ -231,7 +206,7 @@ f) Los centros podrán fomentar una primera aproximación a la lengua extranjera
 
 g) Atendiendo a lo recogido en el Capítulo I del Título II de la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, se favorecerá la resolución pacífica de conflictos y modelos de convivencia basados en la diversidad, la tolerancia y el respeto a la igualdad de derechos y oportunidades de mujeres y hombres.
 
-Artículo 7. Situaciones de aprendizaje y orientaciones metodológicas para su diseño.
+#### Artículo 7. Situaciones de aprendizaje y orientaciones metodológicas para su diseño.
 
 1. Las situaciones de aprendizaje implican la realización de un conjunto de actividades articuladas que los responsables de la impartición de las distintas áreas llevarán a cabo para lograr que el alumnado desarrolle las competencias específicas en un contexto determinado.
 
@@ -239,7 +214,7 @@ Artículo 7. Situaciones de aprendizaje y orientaciones metodológicas para su d
 
 3. En el planteamiento de las distintas situaciones de aprendizaje se garantizará el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un enfoque interdisciplinar, integrador y holístico al proceso educativo.
 
-Artículo 8. Ordenación.
+#### Artículo 8. Ordenación.
 
 1. La etapa de Educación Infantil se organiza en áreas correspondientes a ámbitos propios de la experiencia y del desarrollo infantil que se abordarán por medio de propuestas globalizadas de aprendizaje que tengan interés y significado para el alumnado.
 
@@ -253,7 +228,7 @@ Artículo 8. Ordenación.
 
 6. En el segundo ciclo se propiciará el acercamiento del alumnado a la lengua escrita como instrumento para expresar, comprender e interpretar la realidad a través de situaciones funcionales de lectura y escritura. Asimismo, la resolución de problemas cotidianos será la fuente para generar habilidades y conocimientos lógicos y matemáticos.
 
-Artículo 9. Enseñanzas de Religión.
+#### Artículo 9. Enseñanzas de Religión.
 
 1. En el segundo ciclo de la etapa, la Consejería competente en materia de educación garantizará que, al inicio del curso, los padres, madres o personas que ejerzan la tutela legal del alumnado puedan manifestar su voluntad de que estos reciban o no enseñanzas de Religión.
 
@@ -261,7 +236,7 @@ Artículo 9. Enseñanzas de Religión.
 
 3. Los centros docentes dispondrán las medidas organizativas para que el alumnado cuyos padres, madres o personas que ejerzan su tutela legal no hayan optado por que cursen enseñanzas de Religión reciban la debida atención educativa. Esta atención se planificará y programará por los centros de modo que se dirija al desarrollo de las competencias clave a través de la realización de proyectos significativos para el alumnado y de la resolución colaborativa de problemas, reforzando la autoestima, la autonomía, la reflexión y la responsabilidad.
 
-Artículo 10. Enseñanzas impartidas en lenguas extranjeras.
+#### Artículo 10. Enseñanzas impartidas en lenguas extranjeras.
 
 1. Tanto en el primer como en el segundo ciclo de la etapa, los centros educativos podrán desarrollar experiencias educativas para la aproximación a una lengua extranjera que se incluirán entre las situaciones de aprendizaje recogidas en las programaciones didácticas. El aprendizaje de la lengua extranjera se abordará de manera integrada con el currículo de las áreas de la etapa, llevando a cabo un aprendizaje natural de la lengua extranjera, fundamentalmente oral, auditivo y lúdico.
 
@@ -269,11 +244,9 @@ Artículo 10. Enseñanzas impartidas en lenguas extranjeras.
 
 3. Los centros docentes que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en la normativa específica de aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-CAPÍTULO III
+## Capítulo III. Evaluación.
 
-Evaluación
-
-Artículo 11. Evaluación.
+#### Artículo 11. Evaluación.
 
 1. Teniendo en cuenta lo establecido en el artículo 12.1 del Real Decreto 95/2022, de 1 de febrero, la evaluación en Educación Infantil será global, continua y formativa. La observación directa y sistemática constituirá la técnica principal del proceso de evaluación y tendrá en cuenta el grado de desarrollo de las competencias clave y su progreso en el aprendizaje.
 
@@ -289,11 +262,11 @@ Artículo 11. Evaluación.
 
 7. Los padres, madres o personas que ejerzan la tutela legal del alumnado deberán participar y apoyar la evolución del proceso educativo de sus hijos o hijas, así como conocer las decisiones relativas a la evaluación y colaborar en las medidas que adopten los centros para facilitar su proceso educativo.
 
-Artículo 12. Documentos de evaluación.
+#### Artículo 12. Documentos de evaluación.
 
 Los documentos de evaluación son el informe anual de evaluación individualizado, el informe individualizado de final de ciclo, el informe final de etapa y el expediente personal.
 
-Artículo 13. Autenticidad, seguridad y confidencialidad.
+#### Artículo 13. Autenticidad, seguridad y confidencialidad.
 
 1. En lo referente a los procedimientos oportunos para garantizar la autenticidad de los documentos de evaluación, la integridad de los datos recogidos en los mismos, su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y en materia de documentos y archivos.
 
@@ -303,11 +276,9 @@ Artículo 13. Autenticidad, seguridad y confidencialidad.
 
 4. Los procedimientos de validación de estos documentos garantizarán su autenticidad, integridad y conservación, así como el cumplimiento de las garantías en materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
 
-CAPÍTULO IV
+## Capítulo IV. Atención a la diversidad y a las diferencias individuales.
 
-Atención a la diversidad y a las diferencias individuales
-
-Artículo 14. Atención a la diversidad y a las diferencias individuales.
+#### Artículo 14. Atención a la diversidad y a las diferencias individuales.
 
 1. Se entiende por atención a la diversidad y a las diferencias individuales el conjunto de actuaciones y medidas educativas que garantizan la mejor respuesta a las necesidades y diferencias de todo el alumnado en un entorno inclusivo, ofreciendo oportunidades reales de aprendizaje en contextos educativos ordinarios. Las medidas de atención a la diversidad y a las diferencias individuales podrán aplicarse a cualquier alumno o alumna que lo necesite, en cualquier momento de su escolaridad.
 
@@ -315,7 +286,7 @@ Artículo 14. Atención a la diversidad y a las diferencias individuales.
 
 3. Con carácter excepcional el alumno o alumna con necesidades educativas especiales podrá permanecer un año más en la etapa, de acuerdo con lo que establezca por orden la Consejería competente en materia de educación.
 
-Artículo 15. Principios generales de actuación para la atención a la diversidad y a las diferencias individuales.
+#### Artículo 15. Principios generales de actuación para la atención a la diversidad y a las diferencias individuales.
 
 1. Con objeto de hacer efectivos los principios de educación inclusiva y accesibilidad universal sobre los que se organiza el currículo de la etapa, los centros docentes desarrollarán las medidas de atención a la diversidad y a las diferencias individuales, tanto organizativas como curriculares y metodológicas que les permitan, en el ejercicio de su autonomía, una organización flexible de las enseñanzas y una atención personalizada e individualizada del alumnado.
 
@@ -339,23 +310,21 @@ e) La equidad y excelencia como garantes de la calidad educativa e igualdad de o
 
 6. Los padres, madres o personas que ejerzan la tutela legal del alumnado, según lo recogido en el Proyecto educativo del centro, recibirán información y asesoramiento respecto a las características y necesidades del alumnado, así como de las medidas a adoptar para su adecuada atención. Asimismo, serán preceptivamente oídos en el proceso de identificación y valoración del alumnado con necesidades educativas especiales según lo recogido en el apartado 3.c).
 
-CAPÍTULO V
+## Capítulo V. Tutoría y orientación.
 
-Tutoría y orientación
-
-Artículo 16. Principios de la acción tutorial.
+#### Artículo 16. Principios de la acción tutorial.
 
 1. La tutoría forma parte de la función educativa y constituye un elemento fundamental para orientar la mejora de los procesos de enseñanza y aprendizaje. Corresponderá a los centros educativos la programación, desarrollo y evaluación del plan de acción tutorial que serán recogidos en su Proyecto educativo.
 
 2. La acción tutorial constituirá un elemento fundamental en la ordenación de la etapa de Educación Infantil y orientará el proceso educativo individual y colectivo del alumnado.
 
-Artículo 17. Acción tutorial en la etapa de Educación Infantil.
+#### Artículo 17. Acción tutorial en la etapa de Educación Infantil.
 
 1. En el primer ciclo de la etapa la tutoría será ejercida por el personal que realice la atención educativa directa al alumnado y le corresponderán las siguientes funciones:
 
 a) Desarrollar las actividades previstas en el plan de acción tutorial.
 
-b) Realizar la atención educativa y asistencial del alumnado a su cargo. Esta función será ejercida por el personal educador que posea una titulación distinta a la de Grado de maestro de Educación Infantil o equivalente, sin perjuicio de lo dispuesto en el artículo 92.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+b) **Realizar la atención educativa y asistencial del alumnado a su cargo.** Esta función será ejercida por el personal educador que posea una titulación distinta a la de Grado de maestro de Educación Infantil o equivalente, sin perjuicio de lo dispuesto en el artículo 92.1 de la Ley Orgánica 2/2006, de 3 de mayo.
 
 c) Organizar las actividades del aula.
 
@@ -373,55 +342,55 @@ i) Facilitar la participación y colaboración en las actividades del centro edu
 
 j) Atender y cuidar al alumnado a su cargo en los períodos de permanencia fuera del aula, así como en las entradas y salidas del centro.
 
-2. En el segundo ciclo de la etapa, en los centros docentes públicos, la tutoría será ejercida por un maestro o maestra que realizará las funciones reguladas en el apartado 1 del presente artículo y en el artículo 90 del Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial, aprobado por Decreto 328/2010, de 13 de julio.
+2. En el segundo ciclo de la etapa, en los centros docentes públicos, la tutoría será ejercida por un maestro o maestra que realizará las funciones reguladas en el apartado 1 del presente artículo y en el artículo 90 l.
+
+Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria, y de los centros públicos específicos de educación especial, aprobado por Decreto 328/2010, de 13 de julio.
 
 3. El plan de acción tutorial en esta etapa educativa recogerá los mecanismos de colaboración con las familias en los procesos educativos de sus hijos e hijas, así como los mecanismos de colaboración con atención temprana.
 
 4. Se procurará la continuidad durante el ciclo del mismo tutor o tutora.
 
-CAPÍTULO VI
+## Capítulo VI. Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo.
 
-Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo
-
-Artículo 18. Formación permanente del personal docente y personal educador.
+#### Artículo 18. Formación permanente del personal docente y personal educador.
 
 1. La Consejería competente en materia de educación realizará una oferta de actividades formativas dirigida al personal docente, tanto del primero como del segundo ciclo, para atender adecuadamente las necesidades derivadas de la implantación de las enseñanzas contempladas en el presente Decreto, a las que se desprendan de los procesos de autoevaluación de los centros o sean demandadas por estos, así como a las de la población que acogen.
 
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre y en el Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz de Formación Permanente del Profesorado y normas que lo desarrollen.
 
-Artículo 19. Investigación, experimentación e innovación educativa.
+#### Artículo 19. Investigación, experimentación e innovación educativa.
 
 La Consejería competente en materia de educación impulsará la investigación, la experimentación y la innovación educativa, incentivando la creación de equipos de personal educador y docente que atienden al alumnado, así como la colaboración con las Universidades y con otras instituciones, organizaciones y entidades.
 
-Artículo 20. Materiales de apoyo al profesorado.
+#### Artículo 20. Materiales de apoyo al profesorado.
 
 La Consejería competente en materia de educación favorecerá la elaboración de materiales de apoyo al personal educador de primer ciclo y maestros de segundo ciclo que atiende al alumnado que faciliten el desarrollo del currículo y orienten su trabajo.
 
-Disposición adicional única. Centros privados, centros adheridos al Programa de ayuda a familias y centros privados concertados.
+#### Disposición adicional única. Centros privados, centros adheridos al Programa de ayuda a familias y centros privados concertados.
 
 Los centros privados, los centros adheridos al programa de ayuda a las familias para el fomento de la escolarización en el primer ciclo de la educación infantil en Andalucía y los centros privados concertados, adecuarán su organización a las disposiciones de este Decreto relativas a la organización y funcionamiento de los centros docentes, teniendo en cuenta las especialidades de su legislación específica.
 
-Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
 1. Queda derogado el Decreto 428/2008, de 29 de julio, por el que se establece la ordenación y las enseñanzas correspondientes a la Educación Infantil en Andalucía.
 
 2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Decreto.
 
-Disposición transitoria única. Calendario de aplicación.
+#### Disposición transitoria única. Calendario de aplicación.
 
 El presente decreto será de aplicación a partir del curso escolar 2023/2024.
 
-Disposición final primera. Conformidad con la normativa estatal.
+#### Disposición final primera. Conformidad con la normativa estatal.
 
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2, reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
 
 2. El contenido de los artículos 2, 4.a, 4.b, 4.c, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 8.2, 8.3, 9.1., 9.2, 10.3, 11.3, 12, reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1. 30.ª de la Constitución Española, recogidas en los artículos 3 de «La etapa de Educación Infantil en el marco del sistema educativo», 4 de los «Fines», 5 de los «Principios generales», 6 de los «Principios pedagógicos», 7 de los «Objetivos», 8 de las «Áreas», 12 de la «Evaluación», 13 de la «Atención a las diferencias individuales», 14 de la «Autonomía de los centros», así como de la «Disposición adicional primera. Enseñanzas de religión» y de la «Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras», del Real Decreto 95/2022, de 1 de febrero.
 
-Disposición final segunda. Desarrollo y ejecución.
+#### Disposición final segunda. Desarrollo y ejecución.
 
 Se habilita a la persona titular de la Consejería competente en materia de educación para dictar cuantas disposiciones resulten necesarias para el desarrollo y ejecución de lo dispuesto en el presente decreto.
 
-Disposición final tercera. Entrada en vigor.
+#### Disposición final tercera. Entrada en vigor.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el
 
@@ -433,9 +402,9 @@ Presidente de la Junta de Andalucía
 
 PATRICIA DEL POZO FERNÁNDEZ
 
-Consejera de Desarrollo Educativo  y Formación Profesional
+Consejera de Desarrollo Educativo y Formación Profesional
 
-ANEXO
+## Anexo
 
 Competencias clave de la etapa de Educación Infantil y Perfil Competencial
 
@@ -481,23 +450,17 @@ En Educación Infantil se potencian intercambios comunicativos respetuosos entre
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CCL1. Expresa sensaciones, necesidades y deseos a través de diferentes manifestaciones (tanto verbales como no verbales) en diferentes situaciones presentes en su vida cotidiana y participa de manera espontánea en interacciones con otros iguales con interés, curiosidad y respeto.
-CCL1. Expresa sentimientos, vivencias, ideas o emociones con claridad de manera oral y adecuada a diferentes contextos y situaciones cotidianas conocidas, y participa en interacciones comunicativas con actitud curiosa, cooperativa y respetuosa tanto para intercambiar información como para construir vínculos personales.
+CCL1. Expresa sensaciones, necesidades y deseos a través de diferentes manifestaciones (tanto verbales como no verbales) en diferentes situaciones presentes en su vida cotidiana y participa de manera espontánea en interacciones con otros iguales con interés, curiosidad y respeto. CCL1. Expresa sentimientos, vivencias, ideas o emociones con claridad de manera oral y adecuada a diferentes contextos y situaciones cotidianas conocidas, y participa en interacciones comunicativas con actitud curiosa, cooperativa y respetuosa tanto para intercambiar información como para construir vínculos personales.
 
-CCL2. Interpreta los diferentes estímulos y mensajes (tanto verbales como no verbales) recibidos en el entorno más cercano e interacciona con otras personas de manera activa.
-CCL2. Comprende e interpreta, de manera guiada, mensajes orales y audiovisuales sencillos del ámbito personal, social y educativo para participar activamente y de manera progresiva en contextos cotidianos.
+CCL2. Interpreta los diferentes estímulos y mensajes (tanto verbales como no verbales) recibidos en el entorno más cercano e interacciona con otras personas de manera activa. CCL2. Comprende e interpreta, de manera guiada, mensajes orales y audiovisuales sencillos del ámbito personal, social y educativo para participar activamente y de manera progresiva en contextos cotidianos.
 
-CCL3. Extrae información a partir de la interacción con otras personas a través de la expresión gestual y corporal, favoreciendo con esta información la adquisición de un lenguaje oral que le permita comunicarse de manera gradual y progresiva con sus iguales.
-CCL3. Localiza, de manera guiada, información sencilla, descubriendo su utilidad en el proceso de aprendizaje de la lectura, y la incorpora a las diferentes situaciones comunicativas, manifestando una actitud de curiosidad y disfrute.
+CCL3. Extrae información a partir de la interacción con otras personas a través de la expresión gestual y corporal, favoreciendo con esta información la adquisición de un lenguaje oral que le permita comunicarse de manera gradual y progresiva con sus iguales. CCL3. Localiza, de manera guiada, información sencilla, descubriendo su utilidad en el proceso de aprendizaje de la lectura, y la incorpora a las diferentes situaciones comunicativas, manifestando una actitud de curiosidad y disfrute.
 
-CCL4. Se familiariza de forma lúdica con distintos modelos alfabéticos previos a la lectura adaptados a su edad, respetando los diferentes ritmos de desarrollo personal y despertando su interés y curiosidad. Asimismo, manifiesta interés hacia la literatura infantil con actividades basadas en la escucha oral (nanas, canciones, cuentos…).
-CCL4. Se inicia de manera progresiva y guiada en diversos modelos de lectura como actividad propia del quehacer diario en el aula, mostrando curiosidad e interés por el lenguaje escrito; establece los primeros contactos con la literatura infantil como fuente de disfrute para despertar su imaginación; y se inicia en el proceso de escritura a través del uso de medios y soportes variados.
+CCL4. Se familiariza de forma lúdica con distintos modelos alfabéticos previos a la lectura adaptados a su edad, respetando los diferentes ritmos de desarrollo personal y despertando su interés y curiosidad. Asimismo, manifiesta interés hacia la literatura infantil con actividades basadas en la escucha oral (nanas, canciones, cuentos…). CCL4. Se inicia de manera progresiva y guiada en diversos modelos de lectura como actividad propia del quehacer diario en el aula, mostrando curiosidad e interés por el lenguaje escrito; establece los primeros contactos con la literatura infantil como fuente de disfrute para despertar su imaginación; y se inicia en el proceso de escritura a través del uso de medios y soportes variados.
 
-CCL5. Establece vínculos afectivos con los demás a través de actividades lúdicas, promoviendo la interacción social con otras personas y desarrollando habilidades de respeto y convivencia hacia estas.
-CCL5. Se inicia, a través de sus prácticas comunicativas, en el desarrollo de modelos adecuados de convivencia, adoptando herramientas para resolver conflictos de manera dialogada, desarrollando de manera progresiva el lenguaje, evitando cualquier tipo de violencia y discriminación y mostrando actitudes positivas hacia la igualdad de género y el respeto hacia las personas.
+CCL5. Establece vínculos afectivos con los demás a través de actividades lúdicas, promoviendo la interacción social con otras personas y desarrollando habilidades de respeto y convivencia hacia estas. CCL5. Se inicia, a través de sus prácticas comunicativas, en el desarrollo de modelos adecuados de convivencia, adoptando herramientas para resolver conflictos de manera dialogada, desarrollando de manera progresiva el lenguaje, evitando cualquier tipo de violencia y discriminación y mostrando actitudes positivas hacia la igualdad de género y el respeto hacia las personas.
 
 Competencia plurilingüe.
 
@@ -505,17 +468,13 @@ En esta etapa, se inicia el contacto con lenguas y culturas distintas de la fami
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CP1. Comienza a conocer otros códigos lingüísticos distintos a su lengua familiar a través de la escucha activa de mensajes orales emitidos por personas adultas de su entorno, manifestando interés y disfrute hacia otras lenguas.
-CP1. Participa, de manera guiada, en interacciones comunicativas sencillas en una lengua, además de la lengua o lenguas familiares relacionadas con situaciones cotidianas de su entorno, manifestando interés por otras lenguas y culturas.
+CP1. Comienza a conocer otros códigos lingüísticos distintos a su lengua familiar a través de la escucha activa de mensajes orales emitidos por personas adultas de su entorno, manifestando interés y disfrute hacia otras lenguas. CP1. Participa, de manera guiada, en interacciones comunicativas sencillas en una lengua, además de la lengua o lenguas familiares relacionadas con situaciones cotidianas de su entorno, manifestando interés por otras lenguas y culturas.
 
-CP2. Se familiariza con la realidad plurilingüe de su entorno, a través de la realización de actividades lúdicas desarrolladas en el aula.
-CP2. Toma conciencia de la pluralidad lingüística y cultural de su entorno, iniciándose, en la realización de pequeñas interacciones o conversaciones muy sencillas de una nueva lengua.
+CP2. Se familiariza con la realidad plurilingüe de su entorno, a través de la realización de actividades lúdicas desarrolladas en el aula. CP2. Toma conciencia de la pluralidad lingüística y cultural de su entorno, iniciándose, en la realización de pequeñas interacciones o conversaciones muy sencillas de una nueva lengua.
 
-CP3. Se acerca a la diversidad lingüística de su entorno, facilitando la relación con otras personas y contribuyendo, así, a la mejora de la convivencia.
-CP3. Muestra interés por conocer la diversidad lingüística y cultural de su entorno, facilitando el enriquecimiento de sus estrategias comunicativas y mejora de la convivencia.
+CP3. Se acerca a la diversidad lingüística de su entorno, facilitando la relación con otras personas y contribuyendo, así, a la mejora de la convivencia. CP3. Muestra interés por conocer la diversidad lingüística y cultural de su entorno, facilitando el enriquecimiento de sus estrategias comunicativas y mejora de la convivencia.
 
 Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM).
 
@@ -523,23 +482,17 @@ Los niños y niñas se inician en las destrezas lógico-matemáticas y dan los p
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-STEM1. Observa y experimenta a través del manejo de juegos y juguetes, iniciándose de forma progresiva en la coordinación de la motricidad fina.
-STEM1. Se inicia en el planteamiento de pequeños problemas mediante la aplicación de procesos básicos manipulativos y creativos que impliquen la utilización gradual de símbolos y códigos matemáticos para acercarse a la solución de cuestiones o problemas de la vida cotidiana.
+STEM1. Observa y experimenta a través del manejo de juegos y juguetes, iniciándose de forma progresiva en la coordinación de la motricidad fina. STEM1. Se inicia en el planteamiento de pequeños problemas mediante la aplicación de procesos básicos manipulativos y creativos que impliquen la utilización gradual de símbolos y códigos matemáticos para acercarse a la solución de cuestiones o problemas de la vida cotidiana.
 
-STEM2. Observa, percibe y anticipa la sucesión de actividades propias de los ritmos de su vida cotidiana y se inicia en el conocimiento de su cuerpo a través de los sentidos.
-STEM2. Muestra interés por la observación de los fenómenos cercanos que ocurren a su alrededor e identifica rasgos comunes en los seres vivos, planteándose sencillas preguntas sobre dichos fenómenos.
+STEM2. Observa, percibe y anticipa la sucesión de actividades propias de los ritmos de su vida cotidiana y se inicia en el conocimiento de su cuerpo a través de los sentidos. STEM2. Muestra interés por la observación de los fenómenos cercanos que ocurren a su alrededor e identifica rasgos comunes en los seres vivos, planteándose sencillas preguntas sobre dichos fenómenos.
 
-STEM3. Se inicia en el descubrimiento de los objetos que le rodean y muestra coordinación en los movimientos que realiza en respuesta a estímulos externos.
-STEM3. Se inicia de forma guiada en el planteamiento de proyectos que impliquen la resolución de problemas sencillos, utilizando el diálogo y la reflexión como forma de resolución pacífica de conflictos.
+STEM3. Se inicia en el descubrimiento de los objetos que le rodean y muestra coordinación en los movimientos que realiza en respuesta a estímulos externos. STEM3. Se inicia de forma guiada en el planteamiento de proyectos que impliquen la resolución de problemas sencillos, utilizando el diálogo y la reflexión como forma de resolución pacífica de conflictos.
 
-STEM4. Maneja objetos en situaciones de juego, estableciendo relaciones entre ellos en función de sus características básicas e interaccionando con los demás.
-STEM4. Participa en interacciones de comunicación oral dirigidas o espontáneas, explicando de manera guiada el proceso seguido en pequeños trabajos realizados, utilizando diversos recursos y soportes (imágenes, dibujos, símbolos…).
+STEM4. Maneja objetos en situaciones de juego, estableciendo relaciones entre ellos en función de sus características básicas e interaccionando con los demás. STEM4. Participa en interacciones de comunicación oral dirigidas o espontáneas, explicando de manera guiada el proceso seguido en pequeños trabajos realizados, utilizando diversos recursos y soportes (imágenes, dibujos, símbolos…).
 
-STEM5. Muestra satisfacción por jugar al aire libre, participando con espontaneidad en actividades en contacto con la naturaleza y respetando las indicaciones que se le dan para velar por su seguridad y el cuidado de los elementos naturales.
-STEM5. Se interesa por participar en actividades al aire libre, fomentando conductas que faciliten el desarrollo de hábitos de consumo responsable, mostrando respeto por los elementos naturales y protegiendo su salud de los riesgos más evidentes.
+STEM5. Muestra satisfacción por jugar al aire libre, participando con espontaneidad en actividades en contacto con la naturaleza y respetando las indicaciones que se le dan para velar por su seguridad y el cuidado de los elementos naturales. STEM5. Se interesa por participar en actividades al aire libre, fomentando conductas que faciliten el desarrollo de hábitos de consumo responsable, mostrando respeto por los elementos naturales y protegiendo su salud de los riesgos más evidentes.
 
 Competencia digital.
 
@@ -547,23 +500,17 @@ Se inicia, en esta etapa, el proceso de alfabetización digital que conlleva, en
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CD1. Comienza a mostrar interés en el uso de diferentes juguetes y herramientas digitales, mostrando interés y curiosidad a través del juego y estimulando, de esta forma, la creatividad.
-CD1. Comienza a familiarizarse e interactuar con el uso de diferentes medios y herramientas digitales, mostrando una actitud basada en la curiosidad y respeto a las pautas que se le indican.
+CD1. Comienza a mostrar interés en el uso de diferentes juguetes y herramientas digitales, mostrando interés y curiosidad a través del juego y estimulando, de esta forma, la creatividad. CD1. Comienza a familiarizarse e interactuar con el uso de diferentes medios y herramientas digitales, mostrando una actitud basada en la curiosidad y respeto a las pautas que se le indican.
 
-CD2. Utiliza diversos juguetes y herramientas digitales de manera intuitiva, que le facilitan la expresión de sentimientos y emociones, a través de situaciones lúdicas.
-CD2. Se inicia en la creación de pequeñas tareas sencillas, usando diferentes herramientas digitales sencillas e intuitivas que le permitan expresar sentimientos, ideas, vivencias o emociones.
+CD2. Utiliza diversos juguetes y herramientas digitales de manera intuitiva, que le facilitan la expresión de sentimientos y emociones, a través de situaciones lúdicas. CD2. Se inicia en la creación de pequeñas tareas sencillas, usando diferentes herramientas digitales sencillas e intuitivas que le permitan expresar sentimientos, ideas, vivencias o emociones.
 
-CD3. Interactúa con otras personas en situaciones de trabajo en equipo con herramientas digitales, que le permitan desarrollar destrezas y habilidades motoras y perceptivas.
-CD3. Participa, de manera guiada, en proyectos cooperativos mediante el uso de herramientas o aplicaciones digitales intuitivas y visuales, desarrollando habilidades básicas que le permitan expresarse y trabajar en equipo de manera efectiva.
+CD3. Interactúa con otras personas en situaciones de trabajo en equipo con herramientas digitales, que le permitan desarrollar destrezas y habilidades motoras y perceptivas. CD3. Participa, de manera guiada, en proyectos cooperativos mediante el uso de herramientas o aplicaciones digitales intuitivas y visuales, desarrollando habilidades básicas que le permitan expresarse y trabajar en equipo de manera efectiva.
 
-CD4. Participa en juegos y actividades lúdicas utilizando distintas herramientas digitales y sigue unas pautas sencillas que se le indican para conseguir un uso seguro y saludable de estas herramientas.
-CD4. Se inicia en la adopción de hábitos y prácticas saludables, familiarizándose, a través de sencillas pautas, con medidas de seguridad básicas y necesarias que favorezcan un uso seguro de las herramientas digitales.
+CD4. Participa en juegos y actividades lúdicas utilizando distintas herramientas digitales y sigue unas pautas sencillas que se le indican para conseguir un uso seguro y saludable de estas herramientas. CD4. Se inicia en la adopción de hábitos y prácticas saludables, familiarizándose, a través de sencillas pautas, con medidas de seguridad básicas y necesarias que favorezcan un uso seguro de las herramientas digitales.
 
-CD5. Se inicia a través de actividades lúdicas en el uso de herramientas digitales y se enfrenta a pequeñas situaciones problemáticas que intenta solucionar solicitando ayuda a las personas de su entorno.
-CD5. Comienza a identificar posibles problemas o dificultades que se presentan con el manejo de las herramientas digitales, y solicita ayuda al docente para su resolución.
+CD5. Se inicia a través de actividades lúdicas en el uso de herramientas digitales y se enfrenta a pequeñas situaciones problemáticas que intenta solucionar solicitando ayuda a las personas de su entorno. CD5. Comienza a identificar posibles problemas o dificultades que se presentan con el manejo de las herramientas digitales, y solicita ayuda al docente para su resolución.
 
 Competencia personal, social y de aprender a aprender.
 
@@ -571,23 +518,17 @@ Resulta especialmente relevante que el alumnado se inicie en el reconocimiento, 
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CPSAA1. Manifiesta emociones y sentimientos y reclama atención cuando se encuentra ante situaciones que no puede resolver, empezando a mostrar afecto mediante expresiones verbales y gestuales.
-CPSAA1. Manifiesta sus emociones y sentimientos y afronta situaciones que no puede resolver solicitando ayuda y colaboración, relacionándose con las otras personas desde una actitud de respeto y afecto.
+CPSAA1. Manifiesta emociones y sentimientos y reclama atención cuando se encuentra ante situaciones que no puede resolver, empezando a mostrar afecto mediante expresiones verbales y gestuales. CPSAA1. Manifiesta sus emociones y sentimientos y afronta situaciones que no puede resolver solicitando ayuda y colaboración, relacionándose con las otras personas desde una actitud de respeto y afecto.
 
-CPSAA2. Responde a estímulos y afronta pequeñas adversidades, anticipándose a las situaciones a medida que interioriza e incorpora en su rutina diaria hábitos de autocuidado y, a través del juego de imitación, observa y reproduce conductas basadas en el trato no discriminatorio.
-CPSAA2. Comienza a utilizar estrategias básicas y hábitos de vida saludable para el autocuidado en su rutina diaria relacionados con la alimentación, la higiene y el descanso, iniciándose en la utilización de utensilios básicos de forma segura y en la identificación y rechazo, a través del juego de imitación y simbólico, de situaciones de violencia y discriminación.
+CPSAA2. Responde a estímulos y afronta pequeñas adversidades, anticipándose a las situaciones a medida que interioriza e incorpora en su rutina diaria hábitos de autocuidado y, a través del juego de imitación, observa y reproduce conductas basadas en el trato no discriminatorio. CPSAA2. Comienza a utilizar estrategias básicas y hábitos de vida saludable para el autocuidado en su rutina diaria relacionados con la alimentación, la higiene y el descanso, iniciándose en la utilización de utensilios básicos de forma segura y en la identificación y rechazo, a través del juego de imitación y simbólico, de situaciones de violencia y discriminación.
 
-CPSAA3. Muestra interés en participar en situaciones de juego, reproduciendo conductas, expresando emociones y estableciendo vínculos, a la vez que empieza a desarrollar su propia identidad.
-CPSAA3. Participa en actividades colectivas de su entorno expresando sus necesidades y sus emociones libremente, colaborando y valorando la cooperación de las personas que le rodean.
+CPSAA3. Muestra interés en participar en situaciones de juego, reproduciendo conductas, expresando emociones y estableciendo vínculos, a la vez que empieza a desarrollar su propia identidad. CPSAA3. Participa en actividades colectivas de su entorno expresando sus necesidades y sus emociones libremente, colaborando y valorando la cooperación de las personas que le rodean.
 
-CPSAA4. Participa libremente en actividades que se le ofrecen y empieza a identificar y regular sus emociones ganando confianza en sí mismo.
-CPSAA4. Muestra iniciativa por participar en actividades y mejorar su aprendizaje, confiando en sus propias posibilidades y en las de los demás, valorando el trabajo realizado y aceptando las correcciones.
+CPSAA4. Participa libremente en actividades que se le ofrecen y empieza a identificar y regular sus emociones ganando confianza en sí mismo. CPSAA4. Muestra iniciativa por participar en actividades y mejorar su aprendizaje, confiando en sus propias posibilidades y en las de los demás, valorando el trabajo realizado y aceptando las correcciones.
 
-CPSAA5. Se inicia en la capacidad de anticipar las secuencias de actividades cotidianas y emite mensajes verbales y gestuales solicitando atención cuando quiere satisfacer necesidades básicas.
-CPSAA5. Respeta las secuencias temporales asociadas a los acontecimientos y actividades cotidianas, se plantea estrategias sencillas de autoaprendizaje, y solicita ayuda cuando la necesita para conseguir sus objetivos.
+CPSAA5. Se inicia en la capacidad de anticipar las secuencias de actividades cotidianas y emite mensajes verbales y gestuales solicitando atención cuando quiere satisfacer necesidades básicas. CPSAA5. Respeta las secuencias temporales asociadas a los acontecimientos y actividades cotidianas, se plantea estrategias sencillas de autoaprendizaje, y solicita ayuda cuando la necesita para conseguir sus objetivos.
 
 Competencia ciudadana.
 
@@ -595,20 +536,15 @@ Con el objetivo de sentar las bases para el ejercicio de una ciudadanía democr�
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CC1. Establece vínculos de apego con otras personas, asimilando de manera progresiva, mediante la mediación de las personas adultas, las distintas costumbres propias de su entorno, favoreciendo, de este modo, el desarrollo de las relaciones sociales y personales.
-CC1. Se inicia y muestra interés por conocer las costumbres y tradiciones de su entorno, realizando actividades relacionadas con la reflexión sobre las normas de convivencia y las aplica, a través del juego, con otras personas de su grupo.
+CC1. Establece vínculos de apego con otras personas, asimilando de manera progresiva, mediante la mediación de las personas adultas, las distintas costumbres propias de su entorno, favoreciendo, de este modo, el desarrollo de las relaciones sociales y personales. CC1. Se inicia y muestra interés por conocer las costumbres y tradiciones de su entorno, realizando actividades relacionadas con la reflexión sobre las normas de convivencia y las aplica, a través del juego, con otras personas de su grupo.
 
-CC2. Se relaciona con otras personas de su entorno y reproduce, a través del juego de imitación, conductas previamente observadas en su entorno, adquiriendo de manera progresiva, con la ayuda de las personas adultas, herramientas para ofrecer y pedir ayuda con respeto y empatía.
-CC2. Participa en actividades comunitarias y se inicia en la resolución de conflictos a través de pequeños diálogos con sus iguales, reproduciendo conductas previamente observadas en su entorno basadas en el respeto, la empatía, la igualdad de género y el respeto a los derechos humanos y el desarrollo sostenible.
+CC2. Se relaciona con otras personas de su entorno y reproduce, a través del juego de imitación, conductas previamente observadas en su entorno, adquiriendo de manera progresiva, con la ayuda de las personas adultas, herramientas para ofrecer y pedir ayuda con respeto y empatía. CC2. Participa en actividades comunitarias y se inicia en la resolución de conflictos a través de pequeños diálogos con sus iguales, reproduciendo conductas previamente observadas en su entorno basadas en el respeto, la empatía, la igualdad de género y el respeto a los derechos humanos y el desarrollo sostenible.
 
-CC3. Comienza a percibir las expresiones emocionales de las otras personas de manera que se sienten valorados y respetados, facilitando, así, la adopción de actitudes de respeto, empatía y amistad hacia los demás.
-CC3. Comienza a percibir y reconocer la necesidad de mostrar respeto hacia otras personas, identificando y rechazando estereotipos de género o cualquier forma de discriminación y violencia.
+CC3. Comienza a percibir las expresiones emocionales de las otras personas de manera que se sienten valorados y respetados, facilitando, así, la adopción de actitudes de respeto, empatía y amistad hacia los demás. CC3. Comienza a percibir y reconocer la necesidad de mostrar respeto hacia otras personas, identificando y rechazando estereotipos de género o cualquier forma de discriminación y violencia.
 
-CC4. Comienza a descubrir y conocer el medio natural en el que vive, identificando, con interés y curiosidad, los elementos naturales más habituales de su entorno, mostrando actitud de respeto hacia ellos.
-CC4. Se inicia en la comprensión de las relaciones sistémicas entre las acciones humanas y el entorno, en la adquisición de hábitos saludables y sostenibles para ir incorporándolos poco a poco a su vida cotidiana, contribuyendo de esta forma al cuidado del entorno en el que vive.
+CC4. Comienza a descubrir y conocer el medio natural en el que vive, identificando, con interés y curiosidad, los elementos naturales más habituales de su entorno, mostrando actitud de respeto hacia ellos. CC4. Se inicia en la comprensión de las relaciones sistémicas entre las acciones humanas y el entorno, en la adquisición de hábitos saludables y sostenibles para ir incorporándolos poco a poco a su vida cotidiana, contribuyendo de esta forma al cuidado del entorno en el que vive.
 
 Competencia emprendedora.
 
@@ -616,17 +552,13 @@ La creación y la innovación son dos factores clave para el desarrollo personal
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CE1. Explora los objetos de su entorno y se inicia en la aplicación de procesos manipulativos que le proporcionan información sobre sus cualidades y posibles usos, así como la necesidad de su cuidado y conservación.
-CE1. Explora, investiga y propone, de manera guiada, soluciones creativas a problemas sencillos de su entorno inmediato, empezando a despertar la conciencia de la necesidad de uso sostenible, cuidado y conservación de los recursos naturales.
+CE1. Explora los objetos de su entorno y se inicia en la aplicación de procesos manipulativos que le proporcionan información sobre sus cualidades y posibles usos, así como la necesidad de su cuidado y conservación. CE1. Explora, investiga y propone, de manera guiada, soluciones creativas a problemas sencillos de su entorno inmediato, empezando a despertar la conciencia de la necesidad de uso sostenible, cuidado y conservación de los recursos naturales.
 
-CE2. Empieza a investigar su entorno con curiosidad e imita los comportamientos que observa en las personas cercanas, sintiéndose atraído por las actividades lúdicas en grupo.
-CE2. Expresa inquietudes, necesidades, gustos y preferencias, propone soluciones creativas a problemas sencillos de su vida cotidiana y muestra interés por realizar actividades en equipo, empleando los cuantificadores básicos más relevantes en un contexto lúdico y de interacción con los demás.
+CE2. Empieza a investigar su entorno con curiosidad e imita los comportamientos que observa en las personas cercanas, sintiéndose atraído por las actividades lúdicas en grupo. CE2. Expresa inquietudes, necesidades, gustos y preferencias, propone soluciones creativas a problemas sencillos de su vida cotidiana y muestra interés por realizar actividades en equipo, empleando los cuantificadores básicos más relevantes en un contexto lúdico y de interacción con los demás.
 
-CE3. Formula y emite mensajes para satisfacer sus necesidades de afecto, alimentación o ayuda, a la vez que comprende mensajes sencillos que recibe a través de diferentes lenguajes (verbal, gestual, musical...).
-CE3. Formula ideas o preguntas para acompañar sus acciones, utilizando el lenguaje para compartir sus emociones ante los hallazgos o descubrimientos, así como para interactuar en diferentes situaciones y contextos con otras personas a través del trabajo en equipo.
+CE3. Formula y emite mensajes para satisfacer sus necesidades de afecto, alimentación o ayuda, a la vez que comprende mensajes sencillos que recibe a través de diferentes lenguajes (verbal, gestual, musical...). CE3. Formula ideas o preguntas para acompañar sus acciones, utilizando el lenguaje para compartir sus emociones ante los hallazgos o descubrimientos, así como para interactuar en diferentes situaciones y contextos con otras personas a través del trabajo en equipo.
 
 Competencia en conciencia y expresiones culturales.
 
@@ -634,30 +566,21 @@ Para que el alumnado construya y enriquezca su identidad, se fomenta en esta eta
 
 Descriptores operativos:
 
-AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
-AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
+AL COMPLETAR EL PRIMER CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA... AL COMPLETAR EL SEGUNDO CICLO DE LA ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O LA ALUMNA...
 
-CCEC1. Disfruta con las interpretaciones musicales y las representaciones teatrales y expresa sus emociones libremente, iniciándose en el respeto a las mismas y a los demás.
-CCEC1. Identifica espacios relacionados con la cultura, expresa sensaciones, emociones y sentimientos ante distintas representaciones artísticas y culturales y respeta las normas básicas de uso y disfrute de las mismas.
+CCEC1. Disfruta con las interpretaciones musicales y las representaciones teatrales y expresa sus emociones libremente, iniciándose en el respeto a las mismas y a los demás. CCEC1. Identifica espacios relacionados con la cultura, expresa sensaciones, emociones y sentimientos ante distintas representaciones artísticas y culturales y respeta las normas básicas de uso y disfrute de las mismas.
 
-CCEC2. Manifiesta interés y disfrute por distintas actividades lúdicas, musicales y plásticas relacionadas con su patrimonio que le permiten expresar con libertad sus vivencias y emociones.
-CCEC2. Disfruta de las situaciones en las que se le da la oportunidad de expresarse de forma creativa a través de la participación en actividades musicales, literarias y plásticas y de expresión corporal relacionadas con su patrimonio.
+CCEC2. Manifiesta interés y disfrute por distintas actividades lúdicas, musicales y plásticas relacionadas con su patrimonio que le permiten expresar con libertad sus vivencias y emociones. CCEC2. Disfruta de las situaciones en las que se le da la oportunidad de expresarse de forma creativa a través de la participación en actividades musicales, literarias y plásticas y de expresión corporal relacionadas con su patrimonio.
 
-CCEC3. Expresa mediante gestos o palabras sencillas su agrado o desagrado por las expresiones artísticas de distinto tipo y empieza a desarrollar su gusto por determinadas expresiones y obras.
-CCEC3. Expresa emociones, sentimientos y pensamientos utilizando su propio cuerpo como medio de comunicación y da su opinión libremente ante manifestaciones artísticas sonoras, visuales y culturales, empezando a desarrollar una actitud abierta, inclusiva y empática.
+CCEC3. Expresa mediante gestos o palabras sencillas su agrado o desagrado por las expresiones artísticas de distinto tipo y empieza a desarrollar su gusto por determinadas expresiones y obras. CCEC3. Expresa emociones, sentimientos y pensamientos utilizando su propio cuerpo como medio de comunicación y da su opinión libremente ante manifestaciones artísticas sonoras, visuales y culturales, empezando a desarrollar una actitud abierta, inclusiva y empática.
 
-CCEC4. Se inicia en la expresión plástica a través de pinturas, estampaciones, etc. y en la expresión sonora mediante sonidos que realiza con su propio cuerpo y con objetos o instrumentos de percusión de manera lúdica. Disfruta expresándose libremente.
-CCEC4. Se expresa libremente mediante distintas creaciones artísticas elementales, a través de instrumentos y técnicas básicas y sencillas (plásticas, musicales y expresión corporal), disfrutando del proceso creativo y respetando las creaciones propias y ajenas.
+CCEC4. Se inicia en la expresión plástica a través de pinturas, estampaciones, etc. y en la expresión sonora mediante sonidos que realiza con su propio cuerpo y con objetos o instrumentos de percusión de manera lúdica. Disfruta expresándose libremente. CCEC4. Se expresa libremente mediante distintas creaciones artísticas elementales, a través de instrumentos y técnicas básicas y sencillas (plásticas, musicales y expresión corporal), disfrutando del proceso creativo y respetando las creaciones propias y ajenas.
 
-<a target="_blank" href="BOJA23-090-00019-8467-01_00283496.pdf"
-class="item_pdf_disposicion item_pdf_grupo"
-title="Descargar PDF de la disposición"> Descargar PDF
+<a target="_blank" href="BOJA23-090-00019-8467-01_00283496.pdf" class="item_pdf_disposicion item_pdf_grupo" title="Descargar PDF de la disposición"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº 90 de 15/05/2023
-
-Disposiciones generales
+### Disposiciones generales
 
 Autoridades y personal
 
@@ -686,3 +609,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

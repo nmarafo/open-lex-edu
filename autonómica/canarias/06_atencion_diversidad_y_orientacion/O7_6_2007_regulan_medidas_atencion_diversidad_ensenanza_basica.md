@@ -1,9 +1,7 @@
 ---
 id: norm-can-o-7-6-2007
-codigo_sintetizado: O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza
-  Basica
-titulo: Orden de 7 de junio de 2007, por la que se regulan las medidas de atención
-  a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
+codigo_sintetizado: O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica
+titulo: Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Ministerio de Educación, Formación Profesional y Deportes
@@ -21,699 +19,322 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Medidas de atención a la diversidad
 tags:
-- adaptaciones-curriculares-significativas
-- atencion-diversidad
-- conciertos-educativos
-- curriculo
-- educacion-primaria
-- ensenanzas-deportivas
-- equipos-directivos
-- eso
-- fp-basica
-- medidas-de-atenci-n-a-la-diversidad
-- neae
-- pmar-diversificacion
-- refuerzo-educativo
-- titulacion
+  - adaptaciones-curriculares-significativas
+  - atencion-diversidad
+  - conciertos-educativos
+  - curriculo
+  - educacion-primaria
+  - ensenanzas-deportivas
+  - equipos-directivos
+  - eso
+  - fp-basica
+  - medidas-de-atenci-n-a-la-diversidad
+  - neae
+  - pmar-diversificacion
+  - refuerzo-educativo
+  - titulacion
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-1-1996
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-1-1996
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '22'
-- norma_id: norm-can-l-14-1990
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '22'
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/124/boc-2007-124-001.pdf
 anexos_extraidos_pdf: true
 ---
+# Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-# Orden de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias.
-
-Gobierno de Canarias
-Comunidad Autónoma de
-Canarias
 •  Accesibilidad
 •  Mapa web
 •  Contacto
 •  Versión texto
 •  Inicio
 •  Archivo
-•  Búsqueda
-Estás en:
+•  Búsqueda Estás en:
 •  Inicio
 •  Archivo
 •  Año 2007
 •  2007/124. Jueves 21 de Junio de 2007
-•  1001
-<p>Menú de búsqueda y navegación</p>
-•  Siguiente
-BOC Nº 124. Jueves 21 de Junio de 2007 -
-I. DISPOSICIONES GENERALES - Consejería de Educación, Cultura y
-Deportes
+•  1001 <p>Menú de búsqueda y navegación</p>
+•  Siguiente Deportes
 
-1001 - ORDEN de 7 de junio de 2007, por la que se
-regulan las medidas de atención a la diversidad en la
-enseñanza básica en la Comunidad Autónoma de
-Canarias.
-[image] Descargar en formato pdf
-El Decreto 126/2007, de 24 de mayo, por el que se establece la
-ordenación y el currículo de la Educación Primaria en la
-Comunidad Autónoma de Canarias, y el Decreto 127/2007, de 24
-de mayo, por el que se establece la ordenación y el currículo de la
-Educación Secundaria Obligatoria en la Comunidad Autónoma de
-Canarias reconocen como uno de los principios fundamentales en la
-intervención educativa el de atención a la diversidad del alumnado;
-ambas normas constituyen el marco general de la regulación en esta
-materia, que requiere un desarrollo complementario mediante una
-orden que defina y describa las características de las medidas de
-atención a la diversidad que los centros educativos plasmarán en un
-plan que se adapte a sus peculiaridades y necesidades. En un tercer
-nivel se dictará anualmente una resolución que concrete aquellos
-aspectos que, siendo susceptibles de modificación, no procede que
-sean objeto de esta regulación de carácter más permanente en el
-tiempo.
-La finalidad de las medidas de atención a la diversidad en la
-enseñanza básica se centra en armonizar una respuesta a
-necesidades educativas concretas del alumnado con el desarrollo y
-la consecución de las competencias básicas y del título de Graduado
-en Educación Secundaria Obligatoria.
-Constituye una novedad respecto a la regulación precedente la
-extensión del ámbito de aplicación a los centros privados
-concertados en las condiciones que determinen sus conciertos, para
-hacer efectivo el principio de equidad en la educación que preside
-el desarrollo reglamentario del nuevo sistema educativo.
-En el capítulo primero de la orden se establece el catálogo de
-medidas de atención a la diversidad en una enumeración abierta
-respetuosa con la autonomía organizativa y curricular de los centros
-docentes, si bien se describen en cada una de ellas todos los
+1001 - ORDEN de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias. [image] Descargar en formato pdf El Decreto 126/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias, y el Decreto 127/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias reconocen como uno de los principios fundamentales en la intervención educativa el de atención a la diversidad del alumnado; ambas normas constituyen el marco general de la regulación en esta materia, que requiere un desarrollo complementario mediante una orden que defina y describa las características de las medidas de atención a la diversidad que los centros educativos plasmarán en un plan que se adapte a sus peculiaridades y necesidades. En un tercer nivel se dictará anualmente una resolución que concrete aquellos aspectos que, siendo susceptibles de modificación, no procede que sean objeto de esta regulación de carácter más permanente en el tiempo. La finalidad de las medidas de atención a la diversidad en la enseñanza básica se centra en armonizar una respuesta a necesidades educativas concretas del alumnado con el desarrollo y la consecución de las competencias básicas y del título de Graduado en Educación Secundaria Obligatoria. Constituye una novedad respecto a la regulación precedente la extensión del ámbito de aplicación a los centros privados concertados en las condiciones que determinen sus conciertos, para hacer efectivo el principio de equidad en la educación que preside el desarrollo reglamentario del nuevo sistema educativo. En el capítulo primero de la orden se establece el catálogo de medidas de atención a la diversidad en una enumeración abierta respetuosa con la autonomía organizativa y curricular de los centros docentes, si bien se describen en cada una de ellas todos los
 
-aspectos necesarios para lograr su efectiva aplicación con criterios
-objetivos. La última sección permite a los centros el ejercicio de su
-autonomía al disponer de una asignación horaria que podrán
-destinar al desarrollo de otras medidas de atención a la diversidad
-diferentes a las planteadas en los artículos anteriores.
-En cuanto al segundo capítulo, contiene en un primer nivel de
-desarrollo aquellas disposiciones de carácter procedimental
-relacionadas con la autorización de las medidas de atención a la
-diversidad de los centros escolares; estas disposiciones serán objeto
-de concreción en la convocatoria anual que al efecto dicte la
-Dirección General de Ordenación e Innovación Educativa.
-En su virtud, de acuerdo con las competencias atribuidas en el
+aspectos necesarios para lograr su efectiva aplicación con criterios objetivos. La última sección permite a los centros el ejercicio de su autonomía al disponer de una asignación horaria que podrán destinar al desarrollo de otras medidas de atención a la diversidad diferentes a las planteadas en los artículos anteriores. En cuanto al segundo capítulo, contiene en un primer nivel de desarrollo aquellas disposiciones de carácter procedimental relacionadas con la autorización de las medidas de atención a la diversidad de los centros escolares; estas disposiciones serán objeto de concreción en la convocatoria anual que al efecto dicte la Dirección General de Ordenación e Innovación Educativa. En su virtud, de acuerdo con las competencias atribuidas en el artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la.
 
-#### artículo 32 de la Ley 1/1983, de 14 de abril, del Gobierno y de la
+Administración Pública de la Comunidad Autónoma de Canarias (B.O.C. de 30 de mayo), en el artículo 29 de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias (B.O.C. de 20 de agosto), en los artículos 4 y 5 del Decreto 113/2006, de 26 de julio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes, en su redacción actual (B.O.C. de 1 de agosto), y en uso de la habilitación prevista en la Disposición Final Primera del Decreto 126/2007, de 24 de mayo y del Decreto 127/2007, de 24 de mayo,
+DISPONGO:
 
-Administración Pública de la Comunidad Autónoma de Canarias
-(B.O.C. de 30 de mayo), en el artículo 29 de la Ley 14/1990, de 26
-de julio, de Régimen Jurídico de las Administraciones Públicas de
-Canarias (B.O.C. de 20 de agosto), en los artículos 4 y 5 del Decreto
-113/2006, de 26 de julio, por el que se aprueba el Reglamento
-Orgánico de la Consejería de Educación, Cultura y Deportes, en su
-redacción actual (B.O.C. de 1 de agosto), y en uso de la habilitación
-prevista en la Disposición Final Primera del Decreto 126/2007, de
-24 de mayo y del Decreto 127/2007, de 24 de mayo,
-D I S P O N G O:
-CAPÍTULO PRELIMINAR
+### Capítulo PRELIMINAR
 
-#### Artículo 1.- Objeto y ámbito de aplicación.
+#### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente Orden tiene por objeto la regulación de las medidas
-de atención a la diversidad en la enseñanza básica y su
-incorporación al plan de atención a la diversidad de los centros
-escolares.
-2. Será de aplicación a los centros públicos y a los centros privados
-concertados, en las condiciones que se establezcan.
+1. La presente Orden tiene por objeto la regulación de las medidas de atención a la diversidad en la enseñanza básica y su incorporación al plan de atención a la diversidad de los centros escolares.
 
-### CAPÍTULO I
+2. Será de aplicación a los centros públicos y a los centros privados concertados, en las condiciones que se establezcan.
 
-MEDIDAS DE ATENCIÓN A LA DIVERSIDAD
+## Capítulo I. MEDIDAS DE ATENCIÓN A LA DIVERSIDAD artículo 2 Las medidas de atención a la diversidad en la enseñanza. básica. La enseñanza básica viene definida por los principios de educación común y de atención a la diversidad del alumnado. Las medidas de atención a la diversidad, de carácter organizativo o curricular, deben permitir a los centros, en el ejercicio de su autonomía, una organización de las enseñanzas adecuada a las características de su alumnado. Estarán orientadas a responder a las necesidades educativas concretas del alumnado y a la consecución de las competencias básicas y de los objetivos de las etapas que conforman la enseñanza básica, de manera que se favorezca la obtención del.
 
-#### Artículo 2.- Las medidas de atención a la diversidad en la enseñanza
-
-básica.
-La enseñanza básica viene definida por los principios de educación
-común y de atención a la diversidad del alumnado. Las medidas de
-atención a la diversidad, de carácter organizativo o curricular,
-deben permitir a los centros, en el ejercicio de su autonomía, una
-organización de las enseñanzas adecuada a las características de su
-alumnado. Estarán orientadas a responder a las necesidades
-educativas concretas del alumnado y a la consecución de las
-competencias básicas y de los objetivos de las etapas que conforman
-la enseñanza básica, de manera que se favorezca la obtención del
 título de Graduado en Educación Secundaria Obligatoria.
 
-#### Artículo 3.- Catálogo de medidas de atención a la diversidad.
+#### Artículo 3. Catálogo de medidas de atención a la diversidad.
 
-Los centros educativos podrán desarrollar a lo largo de la enseñanza
-básica las siguientes medidas de atención a la diversidad:
+Los centros educativos podrán desarrollar a lo largo de la enseñanza básica las siguientes medidas de atención a la diversidad:
 - Programas de refuerzo.
 - Apoyo idiomático.
 - Programas de diversificación curricular.
 - Programas para la mejora de la convivencia (PROMECO).
 - Otras medidas de atención a la diversidad.
 
-#### Sección 1ª
+### Sección 1.ª. Programas de refuerzo.
 
-Programas de refuerzo
+#### Artículo 4. Características y organización de los programas de. refuerzo.
 
-#### Artículo 4.- Características y organización de los programas de
+1. En el tercer ciclo de Educación Primaria o durante los tres primeros cursos de la Educación Secundaria Obligatoria, los centros educativos podrán establecer programas de refuerzo destinados a favorecer el desarrollo y adquisición de las competencias básicas,
 
-refuerzo.
-1. En el tercer ciclo de Educación Primaria o durante los tres
-primeros cursos de la Educación Secundaria Obligatoria, los centros
-educativos podrán establecer programas de refuerzo destinados a
-favorecer el desarrollo y adquisición de las competencias básicas,
+así como a alcanzar los objetivos de las dos etapas y, en consecuencia, obtener el título de Graduado en Educación Secundaria Obligatoria.
 
-así como a alcanzar los objetivos de las dos etapas y, en
-consecuencia, obtener el título de Graduado en Educación
-Secundaria Obligatoria.
-2. Las programaciones didácticas de estos programas tendrán como
-referente las orientaciones curriculares que esta Consejería
-establezca.
+2. Las programaciones didácticas de estos programas tendrán como referente las orientaciones curriculares que esta Consejería establezca.
+
 3. Esta medida se aplicará en la franja horaria destinada a la
-Segunda Lengua Extranjera y sustituirá a esta área o materia en las
-condiciones que se determinen.
 
-#### Artículo 5.- Alumnado.
+#### Segunda. Lengua Extranjera y sustituirá a esta área o materia en las condiciones que se determinen.
 
-1. Podrá incorporarse a un programa de refuerzo en el tercer ciclo
-de Educación Primaria el alumnado que promocione del ciclo
-anterior sin haber superado la totalidad de las áreas. Asimismo, y
-siempre que el equipo docente lo considere necesario, un alumno o
-alumna podrá incorporarse al programa en el sexto curso. Los
-criterios de selección serán determinados por la Comisión de
-Coordinación Pedagógica y Orientación Educativa, teniendo en
-cuenta que la eficacia de la medida exige la permanencia del
-alumnado propuesto hasta la finalización de la etapa.
-2. Podrá incorporarse a un programa de refuerzo en la Educación
-Secundaria Obligatoria el alumnado que promocione de la etapa
-anterior o de curso sin haber superado la totalidad de las áreas o
-materias, así como el alumnado que deba permanecer un año más
-en el mismo curso. Los criterios de selección serán determinados
-por la Comisión de Coordinación Pedagógica y por el Departamento
-de Orientación del centro, teniendo en cuenta que la eficacia de la
-medida exige la permanencia del alumnado propuesto en el
-programa hasta finalizar el tercer curso de la etapa.
+#### Artículo 5. Alumnado.
 
-#### Artículo 6.- Profesorado.
+1. Podrá incorporarse a un programa de refuerzo en el tercer ciclo de Educación Primaria el alumnado que promocione del ciclo anterior sin haber superado la totalidad de las áreas. Asimismo, y siempre que el equipo docente lo considere necesario, un alumno o alumna podrá incorporarse al programa en el sexto curso. Los criterios de selección serán determinados por la Comisión de Coordinación Pedagógica y Orientación Educativa, teniendo en cuenta que la eficacia de la medida exige la permanencia del alumnado propuesto hasta la finalización de la etapa.
 
-1. En la Educación Primaria los programas de refuerzo serán
-impartidos, con carácter general, por el profesorado tutor del grupo.
-2. En la Educación Secundaria Obligatoria el profesorado deberá
-abordar los programas de refuerzo desde una perspectiva
+2. Podrá incorporarse a un programa de refuerzo en la Educación Secundaria Obligatoria el alumnado que promocione de la etapa anterior o de curso sin haber superado la totalidad de las áreas o materias, así como el alumnado que deba permanecer un año más en el mismo curso. Los criterios de selección serán determinados por la Comisión de Coordinación Pedagógica y por el Departamento de Orientación del centro, teniendo en cuenta que la eficacia de la medida exige la permanencia del alumnado propuesto en el programa hasta finalizar el tercer curso de la etapa.
 
-instrumental que apoye el aprendizaje del conjunto de las materias
-y serán impartidos de modo preferente por el profesorado
-coordinador de ámbito o por el profesorado que tenga atribución
-docente para impartir las materias de Lengua Castellana y
-Literatura o de Matemáticas.
+#### Artículo 6. Profesorado.
 
-#### Artículo 7.- Evaluación.
+1. En la Educación Primaria los programas de refuerzo serán impartidos, con carácter general, por el profesorado tutor del grupo.
 
-El alumnado de los programas de refuerzo será objeto de evaluación
-y calificación. Su evaluación positiva será tenida en cuenta a los
-efectos de calificación de las áreas o materias no superadas, así
-como de promoción.
+2. En la Educación Secundaria Obligatoria el profesorado deberá abordar los programas de refuerzo desde una perspectiva
 
-#### Sección 2ª
+instrumental que apoye el aprendizaje del conjunto de las materias y serán impartidos de modo preferente por el profesorado coordinador de ámbito o por el profesorado que tenga atribución docente para impartir las materias de Lengua Castellana y Literatura o de Matemáticas.
 
-Apoyo idiomático
+#### Artículo 7. Evaluación.
 
-#### Artículo 8.- Características de la medida de apoyo idiomático.
+El alumnado de los programas de refuerzo será objeto de evaluación y calificación. Su evaluación positiva será tenida en cuenta a los efectos de calificación de las áreas o materias no superadas, así como de promoción.
 
-1. Esta medida se establece con la finalidad de favorecer la
-superación de la barrera idiomática y mejorar la competencia
-comunicativa del alumnado no hispanohablante matriculado en
-alguno de los cursos de la enseñanza básica, de forma que se facilite
-el acceso al currículo ordinario.
-2. El alumnado propuesto debe cumplir como mínimo los siguientes
-requisitos:
-- Escaso o nulo dominio del idioma español, en su vertiente oral o
-escrita, de acuerdo con los niveles establecidos en el marco de
-referencia europeo.
+### Sección 2.ª. Apoyo idiomático.
+
+#### Artículo 8. Características de la medida de apoyo idiomático.
+
+1. Esta medida se establece con la finalidad de favorecer la superación de la barrera idiomática y mejorar la competencia comunicativa del alumnado no hispanohablante matriculado en alguno de los cursos de la enseñanza básica, de forma que se facilite el acceso al currículo ordinario.
+
+2. El alumnado propuesto debe cumplir como mínimo los siguientes requisitos:
+- Escaso o nulo dominio del idioma español, en su vertiente oral o escrita, de acuerdo con los niveles establecidos en el marco de referencia europeo.
 - Incorporación tardía al sistema educativo español.
 
-#### Artículo 9.- Profesorado.
+#### Artículo 9. Profesorado.
 
-1. El profesorado que imparta el apoyo idiomático deberá acreditar
-cualificación en didáctica del español como lengua extranjera o
-experiencia previa en la aplicación de esta medida y, en la
-Educación Secundaria Obligatoria, pertenecer preferentemente a las
-especialidades de Lenguas Extranjeras o Lengua Castellana y
-Literatura.
+1. El profesorado que imparta el apoyo idiomático deberá acreditar cualificación en didáctica del español como lengua extranjera o experiencia previa en la aplicación de esta medida y, en la Educación Secundaria Obligatoria, pertenecer preferentemente a las especialidades de Lenguas Extranjeras o Lengua Castellana y Literatura.
 
-#### Artículo 10.- Organización del apoyo idiomático.
+#### Artículo 10. Organización del apoyo idiomático.
 
-1. Corresponde al profesorado responsable de la medida la
-elaboración de una propuesta de intervención individualizada con
-el asesoramiento del orientador u orientadora en los colegios de
-Educación Primaria y del Departamento de Orientación en los
-institutos de Educación Secundaria; esta propuesta se trasladará al
-equipo docente a fin de prever la necesaria adaptación curricular en
-el conjunto de las áreas o materias. Asimismo, deberá especificarse
-el tiempo aproximado de la aplicación de esta medida y los criterios
-para la incorporación del alumnado al grupo ordinario.
-2. En cualquier caso, la adscripción del alumnado al aula será
-revisada como mínimo una vez al trimestre, coincidiendo con las
-sesiones de evaluación. La familia del alumno o alumna será
-informada de todo el proceso.
-3. Las horas previstas de apoyo idiomático en la ESO se dedicarán a
-la impartición de español como Segunda Lengua en contexto
-escolar, cuyo currículo se establece en la Resolución de 15 de
-octubre de 2004 (B.O.C. de 3 de noviembre). Se detraerán de las
-materias que integran el currículo de la etapa, manteniendo una
-vinculación suficiente con todas ellas de manera que se garantice su
-adecuado seguimiento, de acuerdo con lo que se determine.
+1. Corresponde al profesorado responsable de la medida la elaboración de una propuesta de intervención individualizada con el asesoramiento del orientador u orientadora en los colegios de Educación Primaria y del Departamento de Orientación en los institutos de Educación Secundaria; esta propuesta se trasladará al equipo docente a fin de prever la necesaria adaptación curricular en el conjunto de las áreas o materias. Asimismo, deberá especificarse el tiempo aproximado de la aplicación de esta medida y los criterios para la incorporación del alumnado al grupo ordinario.
 
-#### Artículo 11.- Evaluación.
+2. En cualquier caso, la adscripción del alumnado al aula será revisada como mínimo una vez al trimestre, coincidiendo con las sesiones de evaluación. La familia del alumno o alumna será informada de todo el proceso.
 
-1. El alumnado que asista al apoyo idiomático será objeto de
-evaluación, pero no de calificación. La evaluación se regirá por las
-condiciones generales establecidas para el resto del alumnado.
-2. En la evaluación se valorará la repercusión de la medida de
-apoyo idiomático en los resultados académicos del alumno o
-alumna, así como en su proceso de integración en el centro.
+3. Las horas previstas de apoyo idiomático en la ESO se dedicarán a la impartición de español como Segunda Lengua en contexto escolar, cuyo currículo se establece en la Resolución de 15 de octubre de 2004 (B.O.C. de 3 de noviembre). Se detraerán de las materias que integran el currículo de la etapa, manteniendo una vinculación suficiente con todas ellas de manera que se garantice su adecuado seguimiento, de acuerdo con lo que se determine.
 
-#### Sección 3ª
+#### Artículo 11. Evaluación.
 
-Programas de diversificación curricular
+1. El alumnado que asista al apoyo idiomático será objeto de evaluación, pero no de calificación. La evaluación se regirá por las condiciones generales establecidas para el resto del alumnado.
 
-#### Artículo 12.- Características de los programas.
+2. En la evaluación se valorará la repercusión de la medida de apoyo idiomático en los resultados académicos del alumno o alumna, así como en su proceso de integración en el centro.
+
+### Sección 3.ª. Programas de diversificación curricular.
+
+#### Artículo 12. Características de los programas.
 
 1. Los programas de diversificación curricular se conciben como
 
-una medida de atención a la diversidad que favorece la consecución
-de los objetivos de la etapa y la adquisición de las competencias
-básicas, así como el título de Graduado en Educación Secundaria
-Obligatoria.
-2. Los programas serán de dos años de duración y su estructura y
-distribución horaria se ajustará a lo establecido en el anexo I de esta
-Orden.
-3. Las programaciones de los ámbitos, de la materia optativa y de la
-Lengua Extranjera (inglés), concretadas en objetivos, contenidos,
-metodología y criterios de evaluación, tendrán como referente los
-currículos específicos que esta Consejería establezca.
-4. Los ámbitos, la lengua extranjera y la materia optativa deberán
-ser cursados por todo el alumnado integrado en el programa. Las
-materias del currículo ordinario serán cursadas, preferentemente,
-junto con el resto del alumnado del nivel correspondiente.
+una medida de atención a la diversidad que favorece la consecución de los objetivos de la etapa y la adquisición de las competencias básicas, así como el título de Graduado en Educación Secundaria Obligatoria.
 
-#### Artículo 13.- Alumnado.
+2. Los programas serán de dos años de duración y su estructura y distribución horaria se ajustará a lo establecido en el anexo I de esta Orden.
 
-1. Podrán participar en estos programas los alumnos y alumnas que,
-a juicio del equipo docente, precisen de una organización de los
-contenidos diferente mediante una metodología adaptada a sus
-características, a sus ritmos de aprendizaje y a sus necesidades,
-siempre que concurra alguna de las siguientes circunstancias:
-a) Estar en condiciones de cursar tercero de la ESO y haber repetido
-una vez en la etapa o en la Educación Primaria.
-b) Haber cursado segundo, no estar en condiciones de promocionar
-a tercero y haber repetido ya una vez en la etapa.
-2. Asimismo se podrán incorporar al segundo año del programa
-alumnos y alumnas que, una vez cursado tercero o cuarto, no
-cumplan los requisitos de promoción o de titulación y hayan
-repetido en la enseñanza básica.
-3. Con carácter general, la incorporación a un programa de
-diversificación curricular deberá tener en cuenta los límites de edad
-para la permanencia en la etapa establecidos en el artículo 1.1 del
+3. Las programaciones de los ámbitos, de la materia optativa y de la Lengua Extranjera (inglés), concretadas en objetivos, contenidos, metodología y criterios de evaluación, tendrán como referente los currículos específicos que esta Consejería establezca.
 
-Decreto 127/2007, de 24 de mayo, salvo lo dispuesto en los
-artículos 11.6, 13.3 y 14.6 del citado decreto en relación con la
-posibilidad de prolongar un año más la escolarización en la ESO.
+4. Los ámbitos, la lengua extranjera y la materia optativa deberán ser cursados por todo el alumnado integrado en el programa. Las materias del currículo ordinario serán cursadas, preferentemente, junto con el resto del alumnado del nivel correspondiente.
 
-#### Artículo 14.- Tutoría.
+#### Artículo 13. Alumnado.
 
-1. El grupo de alumnos o alumnas que siga un programa de
-diversificación tendrá asignado un tutor o tutora entre el
-profesorado que imparte enseñanza en los ámbitos o materias
-específicas del programa.
-2. El tutor o tutora tendrá, desde el comienzo hasta el final del
-programa, la responsabilidad de coordinar el proceso de enseñanza
-y aprendizaje, la evaluación y la orientación. Se ocupará, de igual
-modo, de la información a las familias y del seguimiento del
-absentismo escolar del alumnado del programa.
+1. Podrán participar en estos programas los alumnos y alumnas que, a juicio del equipo docente, precisen de una organización de los contenidos diferente mediante una metodología adaptada a sus características, a sus ritmos de aprendizaje y a sus necesidades, siempre que concurra alguna de las siguientes circunstancias:
+a) Estar en condiciones de cursar tercero de la ESO y haber repetido una vez en la etapa o en la Educación Primaria.
+b) Haber cursado segundo, no estar en condiciones de promocionar a tercero y haber repetido ya una vez en la etapa.
 
-#### Artículo 15.- Profesorado.
+2. Asimismo se podrán incorporar al segundo año del programa alumnos y alumnas que, una vez cursado tercero o cuarto, no cumplan los requisitos de promoción o de titulación y hayan repetido en la enseñanza básica.
 
-1. Los ámbitos Lingüístico y Social y Científico-Tecnológico serán
-impartidos de modo preferencial por el profesorado coordinador del
-ámbito, integrado en el Departamento de Orientación. En su
-defecto, podrán ser impartidos por profesorado de los
-departamentos didácticos de las especialidades que integran los
-ámbitos del programa.
-2. En el supuesto de que existan varios profesores o profesoras que
-manifiesten su voluntad de impartir clase de diversificación
-curricular, tendrá preferencia el profesorado que haya desarrollado
-previamente estos programas, siempre que tenga tres años de
-experiencia docente y al menos uno de antigüedad en el centro.
-3. La Dirección General de Ordenación e Innovación Educativa
-podrá autorizar excepcionalmente la impartición de dichos
-programas a profesorado diferente a los citados con anterioridad.
-4. Con carácter general, el profesorado que inicie un programa
-deberá concluirlo en el segundo año, pero sólo de forma
-excepcional podrá impartir dos programas en el mismo curso
-escolar.
+3. Con carácter general, la incorporación a un programa de diversificación curricular deberá tener en cuenta los límites de edad para la permanencia en la etapa establecidos en el artículo 1.1 del
 
-5. El profesorado que imparta docencia en los programas se reunirá,
-según la periodicidad que establezca el centro, con el Departamento
-de Orientación para las tareas de coordinación que se establezcan,
-con el fin de garantizar el adecuado desarrollo de estos programas y
-la aplicación de los ajustes o modificaciones que se consideren
-oportunos.
+Decreto 127/2007, de 24 de mayo, salvo lo dispuesto en los artículos 11.6, 13.3 y 14.6 del citado decreto en relación con la posibilidad de prolongar un año más la escolarización en la ESO.
 
-#### Artículo 16.- Incorporación a un programa de diversificación
+#### Artículo 14. Tutoría.
 
-curricular.
-1. La incorporación de un alumno o alumna que cumpla los
-requisitos establecidos en el artículo 13 a un programa de
-diversificación curricular, requerirá los siguientes trámites:
-a) Propuesta razonada del equipo docente constituido por el
-profesorado del grupo al que pertenezca el alumno o alumna,
-expresada por medio de un informe firmado por el tutor o tutora, y
-dirigido a la Jefatura de Estudios. La propuesta ha de indicar los
-motivos por los que se recomienda la adscripción al programa de
-diversificación curricular.
-b) Cada una de estas propuestas será evaluada en una sesión
-presidida por la Jefatura de Estudios y en la que participarán el
-Departamento de Orientación y los tutores o tutoras de los grupos
-de los que se proponga algún alumno o alumna para un programa
-de diversificación.
-c) Informe del Departamento de Orientación que incluya como
-mínimo:
-- Las medidas de apoyo y refuerzo, y las adaptaciones curriculares
-seguidas con el alumno o alumna.
-- La delimitación del nivel competencial alcanzado por el alumno o
-alumna en las distintas materias, en función de los datos aportados
-por el equipo docente.
-d) Entrevista con el alumno o alumna y sus padres o tutores legales
-para informarles de la propuesta del equipo docente y del
-programa.
+1. El grupo de alumnos o alumnas que siga un programa de diversificación tendrá asignado un tutor o tutora entre el profesorado que imparte enseñanza en los ámbitos o materias específicas del programa.
 
-2. Cuando procediera que una alumna o alumno se incorporara a un
-programa de diversificación curricular en un centro diferente al que
-ha estado escolarizado el curso anterior, el centro de procedencia
-remitirá a la Inspección de Educación la propuesta de integración
-en el programa realizada por el equipo docente y adjuntará la
-documentación señalada en los apartados a) y c) del apartado 1 de
-este artículo. La Inspección de Educación, una vez supervisada la
-documentación, notificará a la Dirección General de Ordenación e
-Innovación Educativa las propuestas para asignar al alumnado un
-nuevo centro de destino, al que se remitirá la documentación
-señalada con anterioridad.
-3. Excepcionalmente, durante el primer trimestre del curso escolar y
-una vez realizada la evaluación inicial, se podrá incorporar a los
-programas alumnado que cumpla las condiciones establecidas en
-esta Orden.
+2. El tutor o tutora tendrá, desde el comienzo hasta el final del programa, la responsabilidad de coordinar el proceso de enseñanza y aprendizaje, la evaluación y la orientación. Se ocupará, de igual modo, de la información a las familias y del seguimiento del absentismo escolar del alumnado del programa.
 
-#### Artículo 17.- Evaluación.
+#### Artículo 15. Profesorado.
 
-1. Del alumnado.
-1.1. La evaluación de los alumnos y alumnas que sigan programas
-de diversificación será continua y tendrá como referente las
-competencias básicas, los objetivos generales de la etapa y los
-criterios de evaluación establecidos para cada ámbito y materia.
-Cuando el progreso del alumno o alumna no responda a los
-objetivos previstos en el programa de diversificación, se tomarán las
-medidas educativas oportunas para su recuperación.
-1.2. La evaluación será realizada por el conjunto de profesores y
-profesoras que imparten enseñanzas al alumnado del grupo de
-diversificación y coordinada por la tutora o tutor del grupo
-específico.
-1.3. Los alumnos y alumnas que cursen programas de
-diversificación curricular obtendrán el título de Graduado en
-Educación Secundaria si superan todos los ámbitos y materias que
-integran el programa. Asimismo, podrán obtener dicho título
-aquellos que habiendo superado los dos ámbitos tengan evaluación
-negativa en una o dos materias, y, de manera excepcional, en tres,
-siempre que a juicio del equipo docente hayan alcanzado las
+1. Los ámbitos Lingüístico y Social y Científico-Tecnológico serán impartidos de modo preferencial por el profesorado coordinador del ámbito, integrado en el Departamento de Orientación. En su defecto, podrán ser impartidos por profesorado de los departamentos didácticos de las especialidades que integran los ámbitos del programa.
+
+2. En el supuesto de que existan varios profesores o profesoras que manifiesten su voluntad de impartir clase de diversificación curricular, tendrá preferencia el profesorado que haya desarrollado previamente estos programas, siempre que tenga tres años de experiencia docente y al menos uno de antigüedad en el centro.
+
+3. La Dirección General de Ordenación e Innovación Educativa podrá autorizar excepcionalmente la impartición de dichos programas a profesorado diferente a los citados con anterioridad.
+
+4. Con carácter general, el profesorado que inicie un programa deberá concluirlo en el segundo año, pero sólo de forma excepcional podrá impartir dos programas en el mismo curso escolar.
+
+5. El profesorado que imparta docencia en los programas se reunirá, según la periodicidad que establezca el centro, con el Departamento de Orientación para las tareas de coordinación que se establezcan, con el fin de garantizar el adecuado desarrollo de estos programas y la aplicación de los ajustes o modificaciones que se consideren oportunos.
+
+#### Artículo 16. Incorporación a un programa de diversificación curricular.
+
+1. La incorporación de un alumno o alumna que cumpla los requisitos establecidos en el artículo 13 a un.
+
+programa de diversificación curricular, requerirá los siguientes trámites:
+a) Propuesta razonada del equipo docente constituido por el profesorado del grupo al que pertenezca el alumno o alumna, expresada por medio de un informe firmado por el tutor o tutora, y dirigido a la Jefatura de Estudios. La propuesta ha de indicar los motivos por los que se recomienda la adscripción al programa de diversificación curricular.
+b) Cada una de estas propuestas será evaluada en una sesión presidida por la Jefatura de Estudios y en la que participarán el Departamento de Orientación y los tutores o tutoras de los grupos de los que se proponga algún alumno o alumna para un programa de diversificación.
+c) Informe del Departamento de Orientación que incluya como mínimo:
+- Las medidas de apoyo y refuerzo, y las adaptaciones curriculares seguidas con el alumno o alumna.
+- La delimitación del nivel competencial alcanzado por el alumno o alumna en las distintas materias, en función de los datos aportados por el equipo docente.
+d) Entrevista con el alumno o alumna y sus padres o tutores legales para informarles de la propuesta del equipo docente y del programa.
+
+2. Cuando procediera que una alumna o alumno se incorporara a un programa de diversificación curricular en un centro diferente al que ha estado escolarizado el curso anterior, el centro de procedencia remitirá a la Inspección de Educación la propuesta de integración en el programa realizada por el equipo docente y adjuntará la documentación señalada en los apartados a) y c) del apartado 1 de este artículo. La Inspección de Educación, una vez supervisada la documentación, notificará a la Dirección General de Ordenación e Innovación Educativa las propuestas para asignar al alumnado un nuevo centro de destino, al que se remitirá la documentación señalada con anterioridad.
+
+3. Excepcionalmente, durante el primer trimestre del curso escolar y una vez realizada la evaluación inicial, se podrá incorporar a los programas alumnado que cumpla las condiciones establecidas en esta Orden.
+
+#### Artículo 17. Evaluación.
+
+1. Del alumnado. 1.1. La evaluación de los alumnos y alumnas que sigan programas de diversificación será continua y tendrá como referente las competencias básicas, los objetivos generales de la etapa y los criterios de evaluación establecidos para cada ámbito y materia. Cuando el progreso del alumno o alumna no responda a los objetivos previstos en el programa de diversificación, se tomarán las medidas educativas oportunas para su recuperación. 1.2. La evaluación será realizada por el conjunto de profesores y profesoras que imparten enseñanzas al alumnado del grupo de diversificación y coordinada por la tutora o tutor del grupo específico. 1.3. Los alumnos y alumnas que cursen programas de diversificación curricular obtendrán el título de Graduado en Educación Secundaria si superan todos los ámbitos y materias que integran el programa. Asimismo, podrán obtener dicho título aquellos que habiendo superado los dos ámbitos tengan evaluación negativa en una o dos materias, y, de manera excepcional, en tres, siempre que a juicio del equipo docente hayan alcanzado las
 
 competencias básicas y los objetivos de la etapa.
-2. Del programa.
-2.1. El desarrollo de los programas de diversificación será objeto de
-seguimiento y evaluación específicos. A tal efecto, el Departamento
-de Orientación elaborará al final de cada curso, junto con el equipo
-docente del grupo de diversificación, una memoria que incluya:
-a) Informe sobre el progreso del alumnado que ha seguido un
-programa de diversificación.
-b) Informe sobre el desarrollo del programa, que incluya, en su
-caso, propuestas de modificación.
-2.2. La Comisión de Coordinación Pedagógica, teniendo en cuenta
-esta memoria y cuantos otros informes se considere oportuno
-solicitar, evaluará el programa y, con la colaboración de los
-diferentes departamentos didácticos, aprobará las propuestas de
-modificación que se estimen pertinentes.
 
-#### Sección 4ª
+2. Del programa. 2.1. El desarrollo de los programas de diversificación será objeto de seguimiento y evaluación específicos. A tal efecto, el Departamento de Orientación elaborará al final de cada curso, junto con el equipo docente del grupo de diversificación, una memoria que incluya:
+a) Informe sobre el progreso del alumnado que ha seguido un programa de diversificación.
+b) Informe sobre el desarrollo del programa, que incluya, en su caso, propuestas de modificación. 2.2. La Comisión de Coordinación Pedagógica, teniendo en cuenta esta memoria y cuantos otros informes se considere oportuno solicitar, evaluará el programa y, con la colaboración de los diferentes departamentos didácticos, aprobará las propuestas de modificación que se estimen pertinentes.
 
-Programas para la mejora de la convivencia
+### Sección 4.ª. Programas para la mejora de la convivencia.
 
-#### Artículo 18.- Características de los programas.
+#### Artículo 18. Características de los programas.
 
-1. Los programas para la mejora de la convivencia tienen como
-finalidad favorecer la reincorporación a un régimen normalizado de
-enseñanza de alumnado de Educación Secundaria Obligatoria que
-presente dificultades de aprendizaje asociadas a desajustes de
-conducta o que pueda manifestar, a juicio del equipo docente, un
-grave riesgo de abandono del sistema escolar.
-2. Los programas adecuarán los objetivos de la etapa a las
-necesidades de los alumnos y alumnas propuestos, y deberán
-integrar los contenidos de las distintas materias con la intervención
-en la mejora de la adaptación personal (autoconcepto, autoestima,
-autorregulación ...), de la adaptación social (aceptación de normas,
-respeto personal ...) y de la adaptación escolar (aceptación de
-tareas, valoración del proceso de enseñanza y aprendizaje ...). Con
-este fin, se articularán las medidas organizativas y metodológicas
+1. Los programas para la mejora de la convivencia tienen como finalidad favorecer la reincorporación a un régimen normalizado de enseñanza de alumnado de Educación Secundaria Obligatoria que presente dificultades de aprendizaje asociadas a desajustes de conducta o que pueda manifestar, a juicio del equipo docente, un grave riesgo de abandono del sistema escolar.
 
-que permitan una intervención específica que se adapte a las
-necesidades de cada alumno o alumna.
+2. Los programas adecuarán los objetivos de la etapa a las necesidades de los alumnos y alumnas propuestos, y deberán integrar los contenidos de las distintas materias con la intervención en la mejora de la adaptación personal (autoconcepto, autoestima, autorregulación ...), de la adaptación social (aceptación de normas, respeto personal ...) y de la adaptación escolar (aceptación de tareas, valoración del proceso de enseñanza y aprendizaje ...). Con este fin, se articularán las medidas organizativas y metodológicas
 
-#### Artículo 19.- Alumnado.
+que permitan una intervención específica que se adapte a las necesidades de cada alumno o alumna.
 
-1. Podrán participar en estos programas los alumnos y alumnas que
-cumplan catorce o quince años durante el año natural de su
-incorporación. De forma excepcional, y con informe del
-Departamento de Orientación, podrá proponerse alumnado de trece
-años, siempre que se ajuste al perfil descrito.
-2. Con carácter general, el alumnado propuesto deberá permanecer,
-al menos, la mitad del horario lectivo semanal con su grupo de
-referencia.
+#### Artículo 19. Alumnado.
 
-#### Artículo 20.- Tutoría.
+1. Podrán participar en estos programas los alumnos y alumnas que cumplan catorce o quince años durante el año natural de su incorporación. De forma excepcional, y con informe del Departamento de Orientación, podrá proponerse alumnado de trece años, siempre que se ajuste al perfil descrito.
 
-El alumno o alumna que siga un programa para la mejora de la
-convivencia tendrá asignado un tutor o tutora entre el profesorado
-del programa, que asumirá la responsabilidad de coordinar el
-proceso de enseñanza y aprendizaje, la evaluación y la orientación,
-así como la información a las familias y el seguimiento del
-absentismo escolar del alumnado.
+2. Con carácter general, el alumnado propuesto deberá permanecer, al menos, la mitad del horario lectivo semanal con su grupo de referencia.
 
-#### Artículo 21.- Profesorado.
+#### Artículo 20. Tutoría.
 
-1. El profesorado de este programa debe poseer formación
-específica y conocer el centro educativo, y aceptar voluntariamente
-el desarrollo del programa. En su defecto, podrá ser impartido por
-profesorado que haya desarrollado en otros centros programas o
-proyectos relacionados con la mejora de la convivencia.
-2. La Dirección General de Ordenación e Innovación Educativa
-podrá autorizar excepcionalmente la impartición de dichos
-programas a profesorado diferente a los citados con anterioridad.
-3. El profesorado que imparta docencia en los programas se reunirá,
-según la periodicidad que establezca el centro, con el Departamento
-de Orientación para las tareas de coordinación, con el fin de
-garantizar el adecuado desarrollo de estos programas y la aplicación
-de los ajustes o modificaciones que se consideren oportunos.
+El alumno o alumna que siga un programa para la mejora de la convivencia tendrá asignado un tutor o tutora entre el profesorado del programa, que asumirá la responsabilidad de coordinar el proceso de enseñanza y aprendizaje, la evaluación y la orientación, así como la información a las familias y el seguimiento del absentismo escolar del alumnado.
 
-#### Artículo 22.- Organización de un programa para la mejora de la
+#### Artículo 21. Profesorado.
 
-convivencia.
-La propuesta de organización de un programa para la mejora de la
-convivencia deberá incluir, como mínimo, los siguientes apartados:
-a) Objetivos generales del programa, tanto en su vertiente
-preventiva, orientada a mejorar el clima de convivencia general del
-centro, como en su vertiente de medida específica, orientada a la
-atención de alumnado con problemas de adaptación al trabajo y al
-entorno escolar.
-b) Planificación de las acciones necesarias para alcanzar los
-objetivos propuestos, y que puedan implicar al conjunto de la
-comunidad educativa.
-c) Organización básica del programa en ámbitos o módulos de
-intervención, estableciendo su asignación horaria y la relación de
-profesorado que los desarrollará, departamento al que se adscriben
-y especialidad a la que pertenecen. Asimismo, se especificarán los
-criterios para la organización de los espacios y de los horarios del
-alumnado.
-d) Programaciones elaboradas por el profesorado que
-voluntariamente haya decidido asumir el desarrollo del programa,
-para lo cual se requerirá la colaboración de los departamentos
-responsables de las materias del currículo de la Educación
-Secundaria Obligatoria.
-e) Criterios y procedimientos para la selección del alumnado que,
-en cualquier caso, deberán incluir:
-- La propuesta razonada del equipo docente que atiende al alumno
-o alumna en el presente curso escolar, en la cual deberá figurar el
-historial de conflictos de convivencia en los que se ha visto
-implicado, así como un resumen de sus índices de absentismo, en su
-caso.
-- Entrevista con el alumno o alumna y sus padres o tutores legales
-para informarles de la propuesta del equipo docente y del
-programa.
+1. El profesorado de este programa debe poseer formación específica y conocer el centro educativo, y aceptar voluntariamente el desarrollo del programa. En su defecto, podrá ser impartido por profesorado que haya desarrollado en otros centros programas o proyectos relacionados con la mejora de la convivencia.
+
+2. La Dirección General de Ordenación e Innovación Educativa podrá autorizar excepcionalmente la impartición de dichos programas a profesorado diferente a los citados con anterioridad.
+
+3. El profesorado que imparta docencia en los programas se reunirá, según la periodicidad que establezca el centro, con el Departamento de Orientación para las tareas de coordinación, con el fin de garantizar el adecuado desarrollo de estos programas y la aplicación de los ajustes o modificaciones que se consideren oportunos.
+
+#### Artículo 22. Organización de un programa para la mejora de la convivencia.
+
+La propuesta de organización de un programa para la mejora de la convivencia deberá incluir, como mínimo, los siguientes apartados:
+a) Objetivos generales del programa, tanto en su vertiente preventiva, orientada a mejorar el clima de convivencia general del centro, como en su vertiente de medida específica, orientada a la atención de alumnado con problemas de adaptación al trabajo y al entorno escolar.
+b) Planificación de las acciones necesarias para alcanzar los objetivos propuestos, y que puedan implicar al conjunto de la comunidad educativa.
+c) Organización básica del programa en ámbitos o módulos de intervención, estableciendo su asignación horaria y la relación de profesorado que los desarrollará, departamento al que se adscriben y especialidad a la que pertenecen. Asimismo, se especificarán los criterios para la organización de los espacios y de los horarios del alumnado.
+d) Programaciones elaboradas por el profesorado que voluntariamente haya decidido asumir el desarrollo del programa, para lo cual se requerirá la colaboración de los departamentos responsables de las materias del currículo de la Educación Secundaria Obligatoria.
+e) Criterios y procedimientos para la selección del alumnado que, en cualquier caso, deberán incluir:
+- La propuesta razonada del equipo docente que atiende al alumno o alumna en el presente curso escolar, en la cual deberá figurar el historial de conflictos de convivencia en los que se ha visto implicado, así como un resumen de sus índices de absentismo, en su caso.
+- Entrevista con el alumno o alumna y sus padres o tutores legales para informarles de la propuesta del equipo docente y del programa.
 
 f) Plan de acción tutorial específico del programa.
-g) Procedimientos de coordinación entre el profesorado implicado
-en el desarrollo del programa.
-h) Criterios y procedimientos para la evaluación y revisión del
-programa.
+g) Procedimientos de coordinación entre el profesorado implicado en el desarrollo del programa.
+h) Criterios y procedimientos para la evaluación y revisión del programa.
 
-#### Artículo 23.- Evaluación.
+#### Artículo 23. Evaluación.
 
-1. Del alumnado.
-1.1. La toma de decisiones vinculadas al proceso de evaluación se
-desarrollará de acuerdo con lo dispuesto en la normativa vigente
-sobre evaluación.
-1.2. El desarrollo del programa tendrá efectos en la organización de
-las enseñanzas pero no así en las decisiones asociadas a la
-evaluación, que tomará como referente el currículo de todas las
-materias del nivel en que el alumno o alumna se encuentre
-matriculado.
-2. Del programa.
-2.1. Durante el tercer trimestre del curso escolar, el equipo docente
-del programa, en colaboración con el Departamento de Orientación,
-elaborará una memoria que incluirá al menos los siguientes
-aspectos:
-- Informe individual del alumnado que cursa el programa, en el que
-se especifique el grado de consecución de los objetivos y el consejo
-orientador para el próximo curso escolar.
-- Informe cuantitativo y cualitativo de la mejora en el clima escolar,
-tomando como referencia, entre otros indicadores, el número de
-conflictos disciplinarios registrados en el curso escolar y el
-inmediatamente anterior a la instauración del programa, y el grado
-de satisfacción de los diferentes miembros de la comunidad
-educativa.
-- Valoración del desarrollo de las coordinaciones entre los diferentes
-profesores y profesoras implicados en el desarrollo del programa.
+1. Del alumnado. 1.1. La toma de decisiones vinculadas al proceso de evaluación se desarrollará de acuerdo con lo dispuesto en la normativa vigente sobre evaluación. 1.2. El desarrollo del programa tendrá efectos en la organización de las enseñanzas pero no así en las decisiones asociadas a la evaluación, que tomará como referente el currículo de todas las materias del nivel en que el alumno o alumna se encuentre matriculado.
 
-2.2. A partir de dicha memoria y de cuantos otros informes se
-considere oportuno solicitar, la Comisión de Coordinación
-Pedagógica evaluará el programa para la mejora de la convivencia,
-y aprobará las propuestas de modificación que estime pertinentes.
+2. Del programa. 2.1. Durante el tercer trimestre del curso escolar, el equipo docente del programa, en colaboración con el Departamento de Orientación, elaborará una memoria que incluirá al menos los siguientes aspectos:
+- Informe individual del alumnado que cursa el programa, en el que se especifique el grado de consecución de los objetivos y el consejo orientador para el próximo curso escolar.
+- Informe cuantitativo y cualitativo de la mejora en el clima escolar, tomando como referencia, entre otros indicadores, el número de conflictos disciplinarios registrados en el curso escolar y el inmediatamente anterior a la instauración del programa, y el grado de satisfacción de los diferentes miembros de la comunidad educativa.
+- Valoración del desarrollo de las coordinaciones entre los diferentes profesores y profesoras implicados en el desarrollo del programa.
 
-#### Sección 5ª
+2.2. A partir de dicha memoria y de cuantos otros informes se considere oportuno solicitar, la Comisión de Coordinación Pedagógica evaluará el programa para la mejora de la convivencia, y aprobará las propuestas de modificación que estime pertinentes.
 
-Otras medidas de atención a la diversidad
+### Sección 5.ª. Otras medidas de atención a la diversidad.
 
-#### Artículo 24.- Desarrollo de otras medidas de atención a la
+#### Artículo 24. Desarrollo de otras medidas de atención a la. diversidad.
 
-diversidad.
-1. Los centros educativos que imparten enseñanza básica podrán
-disponer de una asignación horaria que, en el ejercicio de su
-autonomía, destinarán al desarrollo de otras medidas de atención a
-la diversidad distintas de las establecidas en las secciones
-anteriores, que se adecuen a las características de su alumnado.
-2. Entre las medidas que pueden adoptarse figuran los
-agrupamientos flexibles, el apoyo en grupos ordinarios, los
-desdoblamientos de grupo, la integración de materias en ámbitos y
-otros programas de tratamiento personalizado para el alumnado con
-necesidad específica de apoyo educativo.
-3. Podrán incluirse dentro estas medidas los programas de
-enriquecimiento curricular para alumnado de aprendizaje rápido o
-de altas capacidades intelectuales. Si se llevan a cabo en horario
-lectivo, deberán utilizar la franja horaria destinada a la Segunda
-Lengua Extranjera y, a efectos de evaluación, tendrán la
-consideración de programas de refuerzo; en otro caso, deberán
-efectuarse en horario extraescolar.
+1. Los centros educativos que imparten enseñanza básica podrán disponer de una asignación horaria que, en el ejercicio de su autonomía, destinarán al desarrollo de otras medidas de atención a la diversidad distintas de las establecidas en las secciones anteriores, que se adecuen a las características de su alumnado.
 
-### CAPÍTULO II
+2. Entre las medidas que pueden adoptarse figuran los agrupamientos flexibles, el apoyo en grupos ordinarios, los desdoblamientos de grupo, la integración de materias en ámbitos y otros programas de tratamiento personalizado para el alumnado con necesidad específica de apoyo educativo.
 
-INCORPORACIÓN DE LAS MEDIDAS
-AL PLAN DE ATENCIÓN A LA DIVERSIDAD
+3. Podrán incluirse dentro estas medidas los programas de enriquecimiento curricular para alumnado de aprendizaje rápido o de altas capacidades intelectuales. Si se llevan a cabo en horario lectivo, deberán utilizar la franja horaria destinada a la Segunda Lengua Extranjera y, a efectos de evaluación, tendrán la consideración de programas de refuerzo; en otro caso, deberán efectuarse en horario extraescolar.
 
-#### Artículo 25.- El plan de atención a la diversidad.
+## Capítulo II. Incorporación de las medidas AL plan de atención a la diversidad.
+
+#### Artículo 25. El plan de atención a la diversidad.
 
 1. El plan de atención a la diversidad es el documento que contiene
 
-las medidas de intervención desarrolladas por los centros
-educativos, incluidas las previstas en la presente Orden, y deberá
-formar parte del proyecto educativo del centro.
-2. Este documento se actualizará anualmente para incorporar
-nuevas medidas de atención a la diversidad o modificar las
-existentes. En todo caso, la actualización deberá incluir las
-programaciones de todas las medidas que se planteen, así como la
-documentación relacionada en la resolución que dicte al efecto la
-Dirección General de Ordenación e Innovación Educativa.
+las medidas de intervención desarrolladas por los centros educativos, incluidas las previstas en la presente Orden, y deberá formar parte del proyecto educativo del centro.
 
-#### Artículo 26.- Autorización de las medidas de atención a la
+2. Este documento se actualizará anualmente para incorporar nuevas medidas de atención a la diversidad o modificar las existentes. En todo caso, la actualización deberá incluir las programaciones de todas las medidas que se planteen, así como la documentación relacionada en la resolución que dicte al efecto la Dirección General de Ordenación e Innovación Educativa.
 
-diversidad.
-1. Los centros educativos tramitarán las solicitudes de medidas por
-vía telemática en los plazos que figuren en la correspondiente
-resolución anual.
-2. La Dirección General de Ordenación e Innovación Educativa
-dictará una resolución de autorización que incluirá las medidas y el
-alumnado propuesto para cursarlas, cuyo contenido formará parte
-del plan de atención a la diversidad de los centros públicos para el
-curso siguiente.
-3. Las medidas de atención a la diversidad de los centros privados
-concertados serán autorizadas por la Dirección General de
-Promoción Educativa, en las condiciones que se establezcan, previo
-informe vinculante de la Dirección General de Ordenación e
-Innovación Educativa.
+#### Artículo 26. Autorización de las medidas de atención a la diversidad.
 
-#### DISPOSICIÓN TRANSITORIA
-Aplicación de la nueva duración de las sesiones en la Educación
+1. Los centros educativos tramitarán las solicitudes de medidas por vía telemática en los plazos que figuren en la correspondiente resolución anual.
 
-Primaria.
-El Decreto126/2007, de 24 de mayo, por el que se establece la
-ordenación y el currículo de la Educación Primaria determina en su
+2. La Dirección General de Ordenación e Innovación Educativa dictará una resolución de autorización que incluirá las medidas y el alumnado propuesto para cursarlas, cuyo contenido formará parte del plan de atención a la diversidad de los centros públicos para el curso siguiente.
 
-#### Disposición Transitoria Única que, no obstante la implantación en el
+3. Las medidas de atención a la diversidad de los centros privados concertados serán autorizadas por la Dirección General de Promoción Educativa, en las condiciones que se establezcan, previo informe vinculante de la Dirección General de Ordenación e Innovación Educativa.
 
-año 2007-2008 de los cursos 1º y 2º del primer ciclo de Educación
-Primaria, la duración de las sesiones que se establece en el anexo II
-de ese Decreto se aplicará a toda la etapa.
+#### Disposición transitoria . Aplicación de la nueva duración de las sesiones en la Educación.
 
-En el anexo II de esta Orden se contiene el horario que regirá
-durante el período de implantación de la Educación Primaria, con la
-adaptación de las enseñanzas vigentes del segundo y tercer ciclo de
-la etapa a las sesiones de cuarenta y cinco minutos.
+Primaria. El Decreto126/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria determina en su
 
-#### DISPOSICIÓN DEROGATORIA
-A medida que se aplique el calendario de implantación de la Ley
+#### Disposición transitoria única. que, no obstante la implantación en el.
+
+año 2007-2008 de los cursos 1º y 2º del primer ciclo de Educación Primaria, la duración de las sesiones que se establece en el anexo II de ese Decreto se aplicará a toda la etapa.
+
+En el anexo II de esta Orden se contiene el horario que regirá durante el período de implantación de la Educación Primaria, con la adaptación de las enseñanzas vigentes del segundo y tercer ciclo de la etapa a las sesiones de cuarenta y cinco minutos.
+
+#### Disposición derogatoria . A medida que se aplique el calendario de implantación de la Ley.
 
 Orgánica 2/2006, de 3 de mayo (LOE), en la redacción dada por la
 
-#### Disposición Transitoria del Decreto 126/2007, de 24 de mayo, por
+#### Disposición transitoria del.... Decreto 126/2007, de 24 de mayo, por.
 
-el que se establece la ordenación y el currículo de la Educación
-Primaria y la Disposición Transitoria del Decreto 127/2007, de 24
-de mayo, por el que se establece la ordenación y el currículo de la
-Educación Secundaria Obligatoria en la Comunidad Autónoma de
-Canarias, quedarán sin efecto cuantas disposiciones de igual o
-inferior rango se opongan a lo establecido en esta Orden.
-DISPOSICIONES FINALES
-Primera.- Se autoriza a los centros directivos de esta Consejería y,
-en especial, a la Dirección General de Ordenación e Innovación
-Educativa, para que, en el ámbito de sus atribuciones, dicten las
-instrucciones necesarias para la aplicación, ejecución y desarrollo
-de la presente Orden.
-Segunda.- Esta Orden entrará en vigor el día siguiente al de su
-publicación en el Boletín Oficial de Canarias.
-Santa Cruz de Tenerife, a 7 de junio de 2007.
-EL CONSEJERO DE EDUCACIÓN,
-CULTURA Y DEPORTES
-en funciones,
-Isaac Cristóbal Godoy Delgado.
-Ver anexos - página 15408
+el que se establece la ordenación y el currículo de la Educación Primaria y la Disposición Transitoria del Decreto 127/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias, quedarán sin efecto cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Orden.
+
+### Disposiciones finales
+
+Primera.- Se autoriza a los centros directivos de esta Consejería y, en especial, a la Dirección General de Ordenación e Innovación Educativa, para que, en el ámbito de sus atribuciones, dicten las instrucciones necesarias para la aplicación, ejecución y desarrollo de la presente Orden.
+
+#### Segunda. Esta Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Santa Cruz de Tenerife, a 7 de junio de 2007. EL CONSEJERO DE EDUCACIÓN, CULTURA Y DEPORTES en funciones, Isaac Cristóbal Godoy Delgado. Ver anexos - página 15408
 
 © Gobierno de Canarias
 •  Aviso Legal

@@ -1,8 +1,7 @@
 ---
 id: norm-es-lo-3-2018
 codigo_sintetizado: LO3_2018 Proteccion de Datos Personales (LOPDGDD)
-titulo: Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
-  y garantía de los derechos digitales.
+titulo: Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,79 +18,76 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Protección de datos y seguridad de la información
 tags:
-- derechos-digitales
-- lopdgdd
-- oposiciones
-- protecci-n-de-datos-y-seguridad-de-la-informacion
-- proteccion-datos
-- proteccion-menores
-- rgpd
-- seguridad-informacion
-- titulacion
-- transparencia
+  - derechos-digitales
+  - lopdgdd
+  - oposiciones
+  - protecci-n-de-datos-y-seguridad-de-la-informacion
+  - proteccion-datos
+  - proteccion-menores
+  - rgpd
+  - seguridad-informacion
+  - titulacion
+  - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2008-979
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-31-1995
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-2007-19814
-  - norma_id: norm-es-2008-979
-  - norma_id: norm-es-2021-11382
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-es-rd-157-2022
-  - norma_id: norm-es-rd-217-2022
-  - norma_id: norm-es-rd-243-2022
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-boc-2024-230-25
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-2021-11382
+    - norma_id: norm-es-2025-2039
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-lo-10-2022
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-es-rd-157-2022
+    - norma_id: norm-es-rd-217-2022
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-can-res-boc-2026-129-26
+    - norma_id: norm-can-res-125
+    - norma_id: norm-can-res-boc-2026-039-111
+    - norma_id: norm-can-res-099
+    - norma_id: norm-can-res-014
+    - norma_id: norm-can-res-097
+    - norma_id: norm-can-res-boc-2024-230-25
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '18.4'
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-l-19-2013
-- norma_id: norm-es-l-39-2015
-- norma_id: norm-es-l-40-2015
-- norma_id: norm-es-lo-1-1996
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-rdl-5-2015
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-2008-979
-- norma_id: norm-es-l-31-1995
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2013-12632
-- norma_id: norm-es-rdl-2-2015
+    - '18.4'
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2008-979
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-rdl-2-2015
 ---
-
-## Preámbulo
-
 # Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
-## PREÁMBULO
+## Preámbulo
 
 **I**
 
@@ -161,7 +157,9 @@ El Título VIII regula el «Procedimientos en caso de posible vulneración de la
 
 La regulación se limita a delimitar el régimen jurídico; la iniciación de los procedimientos, siendo posible que la Agencia Española de Protección de Datos remita la reclamación al delegado de protección de datos o a los órganos o entidades que tengan a su cargo la resolución extrajudicial de conflictos conforme a lo establecido en un código de conducta; la inadmisión de las reclamaciones; las actuaciones previas de investigación; las medidas provisionales, entre las que destaca la orden de bloqueo de los datos; y el plazo de tramitación de los procedimientos y, en su caso, su suspensión. Las especialidades del procedimiento se remiten al desarrollo reglamentario.
 
-El Título IX, que contempla el régimen sancionador, parte de que el Reglamento (UE)  2016/679 establece un sistema de sanciones o actuaciones correctivas que permite un amplio margen de apreciación. En este marco, la ley orgánica procede a describir las conductas típicas, estableciendo la distinción entre infracciones muy graves, graves y leves, tomando en consideración la diferenciación que el Reglamento general de protección de datos establece al fijar la cuantía de las sanciones. La categorización de las infracciones se introduce a los solos efectos de determinar los plazos de prescripción, teniendo la descripción de las conductas típicas como único objeto la enumeración de manera ejemplificativa de algunos de los actos sancionables que deben entenderse incluidos dentro de los tipos generales establecidos en la norma europea. La ley orgánica regula los supuestos de interrupción de la prescripción partiendo de la exigencia constitucional del conocimiento de los hechos que se imputan a la persona, pero teniendo en cuenta la problemática derivada de los procedimientos establecidos en el reglamento europeo, en función de si el procedimiento se tramita exclusivamente por la Agencia Española de Protección de Datos o si se acude al procedimiento coordinado del artículo 60 del Reglamento general de protección de datos.
+El Título IX, que contempla el régimen sancionador, parte de que el Reglamento (UE)  2016/679 establece un sistema de sanciones o actuaciones correctivas que permite un amplio margen de apreciación. En este marco, la ley orgánica procede a describir las conductas típicas, estableciendo la distinción entre infracciones muy graves, graves y leves, tomando en consideración la diferenciación que el Reglamento general de protección de datos establece al fijar la cuantía de las sanciones. La categorización de las infracciones se introduce a los solos efectos de determinar los plazos de prescripción, teniendo la descripción de las conductas típicas como único objeto la enumeración de manera ejemplificativa de algunos de los actos sancionables que deben entenderse incluidos dentro de los tipos generales establecidos en la norma europea. La ley orgánica regula los supuestos de interrupción de la prescripción partiendo de la exigencia constitucional del conocimiento de los hechos que se imputan a la persona, pero teniendo en cuenta la problemática derivada de los procedimientos establecidos en el reglamento europeo, en función de si el procedimiento se tramita exclusivamente por la Agencia Española de Protección de Datos o si se acude al procedimiento coordinado del artículo 60 l.
+
+Reglamento general de protección de datos.
 
 El Reglamento (UE) 2016/679 establece amplios márgenes para la determinación de la cuantía de las sanciones. La ley orgánica aprovecha la cláusula residual del artículo  83.2 de la norma europea, referida a los factores agravantes o atenuantes, para aclarar que entre los elementos a tener en cuenta podrán incluirse los que ya aparecían en el artículo  45.4 y 5 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), y que son conocidos por los operadores jurídicos.
 
@@ -177,7 +175,7 @@ Asimismo, se introducen las modificaciones necesarias de la Ley 1/2000, de 7 de 
 
 Finalmente, y en relación con la garantía de los derechos digitales, también se introducen modificaciones en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, así como en el Texto Refundido de la Ley del Estatuto de los Trabajadores y en el Texto Refundido de la Ley del Estatuto Básico del Empleado Público.
 
-## TÍTULO I
+## Título I
 
 **Disposiciones generales**
 
@@ -221,7 +219,7 @@ Mediante real decreto se establecerán los requisitos y condiciones para acredit
 
 En caso de fallecimiento de personas con discapacidad, estas facultades también podrán ejercerse, además de por quienes señala el párrafo anterior, por quienes hubiesen sido designados para el ejercicio de funciones de apoyo, si tales facultades se entendieran comprendidas en las medidas de apoyo prestadas por el designado.
 
-## TÍTULO II
+## Título II
 
 **Principios de protección de datos**
 
@@ -235,7 +233,9 @@ a) Hubiesen sido obtenidos por el responsable directamente del afectado.
 
 b) Hubiesen sido obtenidos por el responsable de un mediador o intermediario en caso de que las normas aplicables al sector de actividad al que pertenezca el responsable del tratamiento establecieran la posibilidad de intervención de un intermediario o mediador que recoja en nombre propio los datos de los afectados para su transmisión al responsable. El mediador o intermediario asumirá las responsabilidades que pudieran derivarse en el supuesto de comunicación al responsable de datos que no se correspondan con los facilitados por el afectado.
 
-c) Fuesen sometidos a tratamiento por el responsable por haberlos recibido de otro responsable en virtud del ejercicio por el afectado del derecho a la portabilidad conforme al artículo 20 del Reglamento (UE) 2016/679 y lo previsto en esta ley orgánica.
+c) Fuesen sometidos a tratamiento por el responsable por haberlos recibido de otro responsable en virtud del ejercicio por el afectado del derecho a la portabilidad conforme al artículo 20 l.
+
+Reglamento (UE) 2016/679 y lo previsto en esta ley orgánica.
 
 d) Fuesen obtenidos de un registro público por el responsable.
 
@@ -271,7 +271,7 @@ Se exceptúan los supuestos en que la ley exija la asistencia de los titulares d
 
 #### Artículo 9. Categorías especiales de datos.
 
-1. A los efectos del artículo 9.2.a) del Reglamento (UE) 2016/679, a fin de evitar situaciones discriminatorias, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.
+1. A los efectos del artículo 9.2.a) del Reglamento (UE) 2016/679, a fin de evitar situaciones discriminatorias, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.
 
 Lo dispuesto en el párrafo anterior no impedirá el tratamiento de dichos datos al amparo de los restantes supuestos contemplados en el artículo 9.2 del Reglamento (UE)  2016/679, cuando así proceda.
 
@@ -283,21 +283,23 @@ En particular, dicha norma podrá amparar el tratamiento de datos en el ámbito 
 
 1. El tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, solo podrá llevarse a cabo cuando se encuentre amparado en una norma de Derecho de la Unión, en esta ley orgánica o en otras normas de rango legal.
 
-2. El registro completo de los datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas a que se refiere el artículo 10 del Reglamento (UE) 2016/679, podrá realizarse conforme con lo establecido en la regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia.
+2. El registro completo de los datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas a que se refiere el artículo 10 l.
+
+Reglamento (UE) 2016/679, podrá realizarse conforme con lo establecido en la regulación del Sistema de registros administrativos de apoyo a la Administración de Justicia.
 
 3. Fuera de los supuestos señalados en los apartados anteriores, los tratamientos de datos referidos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.
 
-## TÍTULO III
+## Título III
 
 **Derechos de las personas**
 
-CAPÍTULO I
-
-Transparencia e información
+## Capítulo I. Transparencia e información.
 
 #### Artículo 11. Transparencia e información al afectado.
 
-1. Cuando los datos personales sean obtenidos del afectado el responsable del tratamiento podrá dar cumplimiento al deber de información establecido en el artículo 13 del Reglamento (UE) 2016/679 facilitando al afectado la información básica a la que se refiere el apartado siguiente e indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.
+1. Cuando los datos personales sean obtenidos del afectado el responsable del tratamiento podrá dar cumplimiento al deber de información establecido en el artículo 13 l.
+
+Reglamento (UE) 2016/679 facilitando al afectado la información básica a la que se refiere el apartado siguiente e indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.
 
 2. La información básica a la que se refiere el apartado anterior deberá contener, al menos:
 
@@ -307,9 +309,13 @@ b) La finalidad del tratamiento.
 
 c) La posibilidad de ejercer los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.
 
-Si los datos obtenidos del afectado fueran a ser tratados para la elaboración de perfiles, la información básica comprenderá asimismo esta circunstancia. En este caso, el afectado deberá ser informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas que produzcan efectos jurídicos sobre él o le afecten significativamente de modo similar, cuando concurra este derecho de acuerdo con lo previsto en el artículo 22 del Reglamento (UE) 2016/679.
+Si los datos obtenidos del afectado fueran a ser tratados para la elaboración de perfiles, la información básica comprenderá asimismo esta circunstancia. En este caso, el afectado deberá ser informado de su derecho a oponerse a la adopción de decisiones individuales automatizadas que produzcan efectos jurídicos sobre él o le afecten significativamente de modo similar, cuando concurra este derecho de acuerdo con lo previsto en el artículo 22 l.
 
-3. Cuando los datos personales no hubieran sido obtenidos del afectado, el responsable podrá dar cumplimiento al deber de información establecido en el artículo 14 del Reglamento (UE) 2016/679 facilitando a aquel la información básica señalada en el apartado anterior, indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.
+Reglamento (UE) 2016/679.
+
+3. Cuando los datos personales no hubieran sido obtenidos del afectado, el responsable podrá dar cumplimiento al deber de información establecido en el artículo 14 l.
+
+Reglamento (UE) 2016/679 facilitando a aquel la información básica señalada en el apartado anterior, indicándole una dirección electrónica u otro medio que permita acceder de forma sencilla e inmediata a la restante información.
 
 En estos supuestos, la información básica incluirá también:
 
@@ -317,9 +323,7 @@ a) Las categorías de datos objeto de tratamiento.
 
 b) Las fuentes de las que procedieran los datos.
 
-CAPÍTULO II
-
-Ejercicio de los derechos
+## Capítulo II. Ejercicio de los derechos.
 
 #### Artículo 12. Disposiciones generales sobre ejercicio de los derechos.
 
@@ -339,7 +343,9 @@ Ejercicio de los derechos
 
 #### Artículo 13. Derecho de acceso.
 
-1. El derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del Reglamento (UE) 2016/679.
+1. El derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 l.
+
+Reglamento (UE) 2016/679.
 
 Cuando el responsable trate una gran cantidad de datos relativos al afectado y este ejercite su derecho de acceso sin especificar si se refiere a todos o a una parte de los datos, el responsable podrá solicitarle, antes de facilitar la información, que el afectado especifique los datos o actividades de tratamiento a los que se refiere la solicitud.
 
@@ -353,29 +359,37 @@ No obstante, el interesado podrá solicitar del responsable la información refe
 
 #### Artículo 14. Derecho de rectificación.
 
-Al ejercer el derecho de rectificación reconocido en el artículo 16 del Reglamento (UE)  2016/679, el afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse. Deberá acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento.
+Al ejercer el derecho de rectificación reconocido en el artículo 16 l.
+
+Reglamento (UE)  2016/679, el afectado deberá indicar en su solicitud a qué datos se refiere y la corrección que haya de realizarse. Deberá acompañar, cuando sea preciso, la documentación justificativa de la inexactitud o carácter incompleto de los datos objeto de tratamiento.
 
 #### Artículo 15. Derecho de supresión.
 
-1. El derecho de supresión se ejercerá de acuerdo con lo establecido en el artículo  17 del Reglamento (UE) 2016/679.
+1. El derecho de supresión se ejercerá de acuerdo con lo establecido en el artículo 17 l.
+
+Reglamento (UE) 2016/679.
 
 2. Cuando la supresión derive del ejercicio del derecho de oposición con arreglo al artículo 21.2 del Reglamento (UE) 2016/679, el responsable podrá conservar los datos identificativos del afectado necesarios con el fin de impedir tratamientos futuros para fines de mercadotecnia directa.
 
 #### Artículo 16. Derecho a la limitación del tratamiento.
 
-1. El derecho a la limitación del tratamiento se ejercerá de acuerdo con lo establecido en el artículo 18 del Reglamento (UE) 2016/679.
+1. El derecho a la limitación del tratamiento se ejercerá de acuerdo con lo establecido en el artículo 18 l.
+
+Reglamento (UE) 2016/679.
 
 2. El hecho de que el tratamiento de los datos personales esté limitado debe constar claramente en los sistemas de información del responsable.
 
 #### Artículo 17. Derecho a la portabilidad.
 
-El derecho a la portabilidad se ejercerá de acuerdo con lo establecido en el artículo 20 del Reglamento (UE) 2016/679.
+El derecho a la portabilidad se ejercerá de acuerdo con lo establecido en el artículo 20 l.
+
+Reglamento (UE) 2016/679.
 
 #### Artículo 18. Derecho de oposición.
 
 El derecho de oposición, así como los derechos relacionados con las decisiones individuales automatizadas, incluida la realización de perfiles, se ejercerán de acuerdo con lo establecido, respectivamente, en los artículos 21 y 22 del Reglamento (UE) 2016/679.
 
-## TÍTULO IV
+## Título IV
 
 **Disposiciones aplicables a tratamientos concretos**
 
@@ -409,9 +423,11 @@ e) Que los datos referidos a un deudor determinado solamente puedan ser consulta
 
 Cuando se hubiera ejercitado ante el sistema el derecho a la limitación del tratamiento de los datos impugnando su exactitud conforme a lo previsto en el artículo 18.1.a) del Reglamento (UE) 2016/679, el sistema informará a quienes pudieran consultarlo con arreglo al párrafo anterior acerca de la mera existencia de dicha circunstancia, sin facilitar los datos concretos respecto de los que se hubiera ejercitado el derecho, en tanto se resuelve sobre la solicitud del afectado.
 
-f)	Que, en el caso de que se denegase la solicitud de celebración del contrato, o éste no llegara a celebrarse, como consecuencia de la consulta efectuada, quien haya consultado el sistema informe al afectado del resultado de dicha consulta.
+f) Que, en el caso de que se denegase la solicitud de celebración del contrato, o éste no llegara a celebrarse, como consecuencia de la consulta efectuada, quien haya consultado el sistema informe al afectado del resultado de dicha consulta.
 
-2. Las entidades que mantengan el sistema y las acreedoras, respecto del tratamiento de los datos referidos a sus deudores, tendrán la condición de corresponsables del tratamiento de los datos, siendo de aplicación lo establecido por el artículo 26 del Reglamento (UE) 2016/679.
+2. Las entidades que mantengan el sistema y las acreedoras, respecto del tratamiento de los datos referidos a sus deudores, tendrán la condición de corresponsables del tratamiento de los datos, siendo de aplicación lo establecido por el artículo 26 l.
+
+Reglamento (UE) 2016/679.
 
 Corresponderá al acreedor garantizar que concurren los requisitos exigidos para la inclusión en el sistema de la deuda, respondiendo de su inexistencia o inexactitud.
 
@@ -435,7 +451,9 @@ No obstante, será posible la captación de la vía pública en una extensión s
 
 No será de aplicación a estos tratamientos la obligación de bloqueo prevista en el artículo 32 de esta ley orgánica.
 
-4. El deber de información previsto en el artículo 12 del Reglamento (UE) 2016/679 se entenderá cumplido mediante la colocación de un dispositivo informativo en lugar suficientemente visible identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679. También podrá incluirse en el dispositivo informativo un código de conexión o dirección de internet a esta información.
+4. El deber de información previsto en el artículo 12 l.
+
+Reglamento (UE) 2016/679 se entenderá cumplido mediante la colocación de un dispositivo informativo en lugar suficientemente visible identificando, al menos, la existencia del tratamiento, la identidad del responsable y la posibilidad de ejercitar los derechos previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679. También podrá incluirse en el dispositivo informativo un código de conexión o dirección de internet a esta información.
 
 En todo caso, el responsable del tratamiento deberá mantener a disposición de los afectados la información a la que se refiere el citado reglamento.
 
@@ -499,7 +517,9 @@ Será lícito el tratamiento por las Administraciones Públicas de datos con fin
 
 #### Artículo 27. Tratamiento de datos relativos a infracciones y sanciones administrativas.
 
-1. A los efectos del artículo 86 del Reglamento (UE) 2016/679, el tratamiento de datos relativos a infracciones y sanciones administrativas, incluido el mantenimiento de registros relacionados con las mismas, exigirá:
+1. A los efectos del artículo 86 l.
+
+Reglamento (UE) 2016/679, el tratamiento de datos relativos a infracciones y sanciones administrativas, incluido el mantenimiento de registros relacionados con las mismas, exigirá:
 
 a) Que los responsables de dichos tratamientos sean los órganos competentes para la instrucción del procedimiento sancionador, para la declaración de las infracciones o la imposición de las sanciones.
 
@@ -509,13 +529,11 @@ b) Que el tratamiento se limite a los datos estrictamente necesarios para la fin
 
 3. Fuera de los supuestos señalados en los apartados anteriores, los tratamientos de datos referidos a infracciones y sanciones administrativas solo serán posibles cuando sean llevados a cabo por abogados y procuradores y tengan por objeto recoger la información facilitada por sus clientes para el ejercicio de sus funciones.
 
-## TÍTULO V
+## Título V
 
 **Responsable y encargado del tratamiento**
 
-CAPÍTULO I
-
-Disposiciones generales. Medidas de responsabilidad activa
+## Capítulo I. Disposiciones generales. Medidas de responsabilidad activa.
 
 #### Artículo 28. Obligaciones generales del responsable y encargado del tratamiento.
 
@@ -533,7 +551,7 @@ d) Cuando el tratamiento implicase una evaluación de aspectos personales de los
 
 e) Cuando se lleve a cabo el tratamiento de datos de grupos de afectados en situación de especial vulnerabilidad y, en particular, de menores de edad y personas con discapacidad.
 
-f)	Cuando se produzca un tratamiento masivo que implique a un gran número de afectados o conlleve la recogida de una gran cantidad de datos personales.
+f) Cuando se produzca un tratamiento masivo que implique a un gran número de afectados o conlleve la recogida de una gran cantidad de datos personales.
 
 g) Cuando los datos personales fuesen a ser objeto de transferencia, con carácter habitual, a terceros Estados u organizaciones internacionales respecto de los que no se hubiese declarado un nivel adecuado de protección.
 
@@ -549,17 +567,23 @@ La determinación de las responsabilidades a las que se refiere el artículo 26.
 
 Dicha exigencia se entenderá sin perjuicio de la responsabilidad que pudiera en su caso corresponder al responsable o al encargado del tratamiento y del ejercicio por el representante de la acción de repetición frente a quien proceda.
 
-2. Asimismo, en caso de exigencia de responsabilidad en los términos previstos en el artículo 82 del Reglamento (UE) 2016/679, los responsables, encargados y representantes responderán solidariamente de los daños y perjuicios causados.
+2. Asimismo, en caso de exigencia de responsabilidad en los términos previstos en el artículo 82 l.
+
+Reglamento (UE) 2016/679, los responsables, encargados y representantes responderán solidariamente de los daños y perjuicios causados.
 
 #### Artículo 31. Registro de las actividades de tratamiento.
 
-1. Los responsables y encargados del tratamiento o, en su caso, sus representantes deberán mantener el registro de actividades de tratamiento al que se refiere el artículo 30 del Reglamento (UE) 2016/679, salvo que sea de aplicación la excepción prevista en su apartado 5.
+1. Los responsables y encargados del tratamiento o, en su caso, sus representantes deberán mantener el registro de actividades de tratamiento al que se refiere el artículo 30 l.
+
+Reglamento (UE) 2016/679, salvo que sea de aplicación la excepción prevista en su apartado 5.
 
 El registro, que podrá organizarse en torno a conjuntos estructurados de datos, deberá especificar, según sus finalidades, las actividades de tratamiento llevadas a cabo y las demás circunstancias establecidas en el citado reglamento.
 
 Cuando el responsable o el encargado del tratamiento hubieran designado un delegado de protección de datos deberán comunicarle cualquier adición, modificación o exclusión en el contenido del registro.
 
-2. Los sujetos enumerados en el artículo 77.1 de esta ley orgánica harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos en el que constará la información establecida en el artículo 30 del Reglamento (UE) 2016/679 y su base legal.
+2. Los sujetos enumerados en el artículo 77.1 de esta ley orgánica harán público un inventario de sus actividades de tratamiento accesible por medios electrónicos en el que constará la información establecida en el artículo 30 l.
+
+Reglamento (UE) 2016/679 y su base legal.
 
 #### Artículo 32. Bloqueo de los datos.
 
@@ -575,9 +599,7 @@ Transcurrido ese plazo deberá procederse a la destrucción de los datos.
 
 5. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos, dentro del ámbito de sus respectivas competencias, podrán fijar excepciones a la obligación de bloqueo establecida en este artículo, en los supuestos en que, atendida la naturaleza de los datos o el hecho de que se refieran a un número particularmente elevado de afectados, su mera conservación, incluso bloqueados, pudiera generar un riesgo elevado para los derechos de los afectados, así como en aquellos casos en los que la conservación de los datos bloqueados pudiera implicar un coste desproporcionado para el responsable del tratamiento.
 
-CAPÍTULO II
-
-Encargado del tratamiento
+## Capítulo II. Encargado del tratamiento.
 
 #### Artículo 33. Encargado del tratamiento.
 
@@ -595,9 +617,7 @@ No procederá la destrucción de los datos cuando exista una previsión legal qu
 
 5. En el ámbito del sector público podrán atribuirse las competencias propias de un encargado del tratamiento a un determinado órgano de la Administración General del Estado, la Administración de las comunidades autónomas, las Entidades que integran la Administración Local o a los Organismos vinculados o dependientes de las mismas mediante la adopción de una norma reguladora de dichas competencias, que deberá incorporar el contenido exigido por el artículo 28.3 del Reglamento (UE) 2016/679.
 
-CAPÍTULO III
-
-Delegado de protección de datos
+## Capítulo III. Delegado de protección de datos.
 
 #### Artículo 34. Designación de un delegado de protección de datos.
 
@@ -609,27 +629,27 @@ b) Los centros docentes que ofrezcan enseñanzas en cualquiera de los niveles es
 
 c) Las entidades que exploten redes y presten servicios de comunicaciones electrónicas conforme a lo dispuesto en su legislación específica, cuando traten habitual y sistemáticamente datos personales a gran escala.
 
-d) Los prestadores de servicios de la sociedad de la información cuando elaboren a gran escala perfiles de los usuarios del servicio.
+d) Los prestadores de servicios de la sociedad de la información cuando elaboren a gran escala perfiles de los usuarios del servicio.
 
 e) Las entidades incluidas en el artículo 1 de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
 
-f)	Los establecimientos financieros de crédito.
+f) Los establecimientos financieros de crédito.
 
 g) Las entidades aseguradoras y reaseguradoras.
 
 h) Las empresas de servicios de inversión, reguladas por la legislación del Mercado de Valores.
 
-i)	Los distribuidores y comercializadores de energía eléctrica y los distribuidores y comercializadores de gas natural.
+i) Los distribuidores y comercializadores de energía eléctrica y los distribuidores y comercializadores de gas natural.
 
-j)	Las entidades responsables de ficheros comunes para la evaluación de la solvencia patrimonial y crédito o de los ficheros comunes para la gestión y prevención del fraude, incluyendo a los responsables de los ficheros regulados por la legislación de prevención del blanqueo de capitales y de la financiación del terrorismo.
+j) Las entidades responsables de ficheros comunes para la evaluación de la solvencia patrimonial y crédito o de los ficheros comunes para la gestión y prevención del fraude, incluyendo a los responsables de los ficheros regulados por la legislación de prevención del blanqueo de capitales y de la financiación del terrorismo.
 
 k) Las entidades que desarrollen actividades de publicidad y prospección comercial, incluyendo las de investigación comercial y de mercados, cuando lleven a cabo tratamientos basados en las preferencias de los afectados o realicen actividades que impliquen la elaboración de perfiles de los mismos.
 
-l)	Los centros sanitarios legalmente obligados al mantenimiento de las historias clínicas de los pacientes.
+l) Los centros sanitarios legalmente obligados al mantenimiento de las historias clínicas de los pacientes.
 
 Se exceptúan los profesionales de la salud que, aun estando legalmente obligados al mantenimiento de las historias clínicas de los pacientes, ejerzan su actividad a título individual.
 
-m)	Las entidades que tengan como uno de sus objetos la emisión de informes comerciales que puedan referirse a personas físicas.
+m) Las entidades que tengan como uno de sus objetos la emisión de informes comerciales que puedan referirse a personas físicas.
 
 n) Los operadores que desarrollen la actividad de juego a través de canales electrónicos, informáticos, telemáticos e interactivos, conforme a la normativa de regulación del juego.
 
@@ -671,9 +691,7 @@ Si transcurrido dicho plazo el delegado de protección de datos no hubiera comun
 
 3. El procedimiento ante la Agencia Española de Protección de Datos será el establecido en el Título VIII de esta ley orgánica y en sus normas de desarrollo. Asimismo, las comunidades autónomas regularán el procedimiento correspondiente ante sus autoridades autonómicas de protección de datos.
 
-CAPÍTULO IV
-
-Códigos de conducta y certificación
+## Capítulo IV. Códigos de conducta y certificación.
 
 #### Artículo 38. Códigos de conducta.
 
@@ -683,7 +701,9 @@ Dichos códigos podrán dotarse de mecanismos de resolución extrajudicial de co
 
 2. Dichos códigos podrán promoverse, además de por las asociaciones y organismos a los que se refiere el artículo 40.2 del Reglamento (UE) 2016/679, por empresas o grupos de empresas así como por los responsables o encargados a los que se refiere el artículo 77.1 de esta ley orgánica.
 
-Asimismo, podrán ser promovidos por los organismos o entidades que asuman las funciones de supervisión y resolución extrajudicial de conflictos a los que se refiere el artículo 41 del Reglamento (UE) 2016/679.
+Asimismo, podrán ser promovidos por los organismos o entidades que asuman las funciones de supervisión y resolución extrajudicial de conflictos a los que se refiere el artículo 41 l.
+
+Reglamento (UE) 2016/679.
 
 Los responsables o encargados del tratamiento que se adhieran al código de conducta se obligan a someter al organismo o entidad de supervisión las reclamaciones que les fueran formuladas por los afectados en relación con los tratamientos de datos incluidos en su ámbito de aplicación en caso de considerar que no procede atender a lo solicitado en la reclamación, sin perjuicio de lo dispuesto en el artículo 37 de esta ley orgánica. Además, sin menoscabo de las competencias atribuidas por el Reglamento (UE) 2016/679 a las autoridades de protección de datos, podrán voluntariamente y antes de llevar a cabo el tratamiento, someter al citado organismo o entidad de supervisión la verificación de la conformidad del mismo con las materias sujetas al código de conducta.
 
@@ -707,7 +727,7 @@ El registro será accesible a través de medios electrónicos.
 
 Sin perjuicio de las funciones y poderes de acreditación de la autoridad de control competente en virtud de los artículos 57 y 58 del Reglamento (UE) 2016/679, la acreditación de las instituciones de certificación a las que se refiere el artículo 43.1 del citado reglamento podrá ser llevada a cabo por la Entidad Nacional de Acreditación (ENAC), que comunicará a la Agencia Española de Protección de Datos y a las autoridades de protección de datos de las comunidades autónomas las concesiones, denegaciones o revocaciones de las acreditaciones, así como su motivación.
 
-## TÍTULO VI
+## Título VI
 
 **Transferencias internacionales de datos**
 
@@ -719,9 +739,13 @@ En todo caso se aplicarán a los tratamientos en que consista la propia transfer
 
 #### Artículo 41. Supuestos de adopción por la Agencia Española de Protección de Datos.
 
-1. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos podrán adoptar, conforme a lo dispuesto en el artículo 46.2.c) del Reglamento (UE) 2016/679, cláusulas contractuales tipo para la realización de transferencias internacionales de datos, que se someterán previamente al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 del citado reglamento.
+1. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos podrán adoptar, conforme a lo dispuesto en el artículo 46.2.c) del Reglamento (UE) 2016/679, cláusulas contractuales tipo para la realización de transferencias internacionales de datos, que se someterán previamente al dictamen del Comité Europeo de Protección de Datos previsto en el artículo 64 l.
 
-2. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos podrán aprobar normas corporativas vinculantes de acuerdo con lo previsto en el artículo 47 del Reglamento (UE) 2016/679.
+citado reglamento.
+
+2. La Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos podrán aprobar normas corporativas vinculantes de acuerdo con lo previsto en el artículo 47 l.
+
+Reglamento (UE) 2016/679.
 
 El procedimiento se iniciará a instancia de una entidad situada en España y tendrá una duración máxima de nueve meses. Quedará suspendido como consecuencia de la remisión del expediente al Comité Europeo de Protección de Datos para que emita el dictamen al que se refiere el artículo 64.1.f) del Reglamento (UE) 2016/679, y continuará tras su notificación a la Agencia Española de Protección de Datos o a la autoridad autonómica de protección de datos competente.
 
@@ -745,15 +769,13 @@ Esta información deberá facilitarse con carácter previo a la realización de 
 
 Lo dispuesto en este artículo no será de aplicación a las actividades llevadas a cabo por las autoridades públicas en el ejercicio de sus poderes públicos, de acuerdo con el artículo 49.3 del Reglamento (UE) 2016/679.
 
-## TÍTULO VII
+## Título VII
 
 **Autoridades de protección de datos**
 
-CAPÍTULO I
+## Capítulo I. La Agencia Española de Protección de Datos.
 
-La Agencia Española de Protección de Datos
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 44. Disposiciones generales.
 
@@ -783,7 +805,9 @@ Supletoriamente, en cuanto sea compatible con su plena independencia y sin perju
 
 Corresponde a la Presidencia de la Agencia Española de Protección de Datos autorizar las modificaciones presupuestarias que impliquen hasta un tres por ciento de la cifra inicial de su presupuesto total de gastos, siempre que no se incrementen los créditos para gastos de personal. Las restantes modificaciones que no excedan de un cinco por ciento del presupuesto serán autorizadas por el Ministerio de Hacienda y, en los demás casos, por el Gobierno.
 
-3. La Agencia Española de Protección de Datos contará para el cumplimiento de sus fines con las asignaciones que se establezcan con cargo a los Presupuestos Generales del Estado, los bienes y valores que constituyan su patrimonio y los ingresos, ordinarios y extraordinarios derivados del ejercicio de sus actividades, incluidos los derivados del ejercicio de las potestades establecidos en el artículo 58 del Reglamento (UE) 2016/679.
+3. La Agencia Española de Protección de Datos contará para el cumplimiento de sus fines con las asignaciones que se establezcan con cargo a los Presupuestos Generales del Estado, los bienes y valores que constituyan su patrimonio y los ingresos, ordinarios y extraordinarios derivados del ejercicio de sus actividades, incluidos los derivados del ejercicio de las potestades establecidos en el artículo 58 l.
+
+Reglamento (UE) 2016/679.
 
 4. El resultado positivo de sus ingresos se destinará por la Agencia Española de Protección de Datos a la dotación de sus reservas con el fin de garantizar su plena independencia.
 
@@ -795,7 +819,9 @@ Corresponde a la Presidencia de la Agencia Española de Protección de Datos aut
 
 #### Artículo 47. Funciones y potestades de la Agencia Española de Protección de Datos.
 
-Corresponde a la Agencia Española de Protección de Datos supervisar la aplicación de esta ley orgánica y del Reglamento (UE) 2016/679 y, en particular, ejercer las funciones establecidas en el artículo 57 y las potestades previstas en el artículo 58 del mismo reglamento, en la presente ley orgánica y en sus disposiciones de desarrollo.
+Corresponde a la Agencia Española de Protección de Datos supervisar la aplicación de esta ley orgánica y del Reglamento (UE) 2016/679 y, en particular, ejercer las funciones establecidas en el artículo 57 y las.
+
+potestades previstas en el artículo 58 del mismo reglamento, en la presente ley orgánica y en sus disposiciones de desarrollo.
 
 Asimismo, corresponde a la Agencia Española de Protección de Datos el desempeño de las funciones y potestades que le atribuyan otras leyes o normas de Derecho de la Unión Europea.
 
@@ -819,11 +845,11 @@ La Presidencia y el Adjunto solo cesarán antes de la expiración de su mandato,
 
 a) Incumplimiento grave de sus obligaciones,
 
-b) incapacidad sobrevenida para el ejercicio de su función,
+b) Incapacidad sobrevenida para el ejercicio de su función,
 
-c) incompatibilidad, o
+c) Incompatibilidad, o
 
-d) condena firme por delito doloso.
+d) Condena firme por delito doloso.
 
 En los supuestos previstos en las letras a), b) y c) será necesaria la ratificación de la separación por las mayorías parlamentarias previstas en el apartado 3 de este artículo.
 
@@ -843,21 +869,21 @@ d) Un representante de la Administración General del Estado con experiencia en 
 
 e) Un representante de cada Comunidad Autónoma que haya creado una Autoridad de protección de datos en su ámbito territorial, propuesto de acuerdo con lo que establezca la respectiva Comunidad Autónoma.
 
-f)	Un experto propuesto por la Federación Española de Municipios y Provincias.
+f) Un experto propuesto por la Federación Española de Municipios y Provincias.
 
 g) Un experto propuesto por el Consejo de Consumidores y Usuarios.
 
 h) Dos expertos propuestos por las Organizaciones Empresariales.
 
-i)	Un representante de los profesionales de la protección de datos y de la privacidad, propuesto por la asociación de ámbito estatal con mayor número de asociados.
+i) Un representante de los profesionales de la protección de datos y de la privacidad, propuesto por la asociación de ámbito estatal con mayor número de asociados.
 
 j) Un representante de los organismos o entidades de supervisión y resolución extrajudicial de conflictos previstos en el Capítulo IV del Título V, propuesto por el Ministro de Justicia.
 
 k) Un experto, propuesto por la Conferencia de Rectores de las Universidades Españolas.
 
-l)	Un representante de las organizaciones que agrupan a los Consejos Generales, Superiores y Colegios Profesionales de ámbito estatal de las diferentes profesiones colegiadas, propuesto por el Ministro de Justicia.
+l) Un representante de las organizaciones que agrupan a los Consejos Generales, Superiores y Colegios Profesionales de ámbito estatal de las diferentes profesiones colegiadas, propuesto por el Ministro de Justicia.
 
-m)	Un representante de los profesionales de la seguridad de la información, propuesto por la asociación de ámbito estatal con mayor número de asociados.
+m) Un representante de los profesionales de la seguridad de la información, propuesto por la asociación de ámbito estatal con mayor número de asociados.
 
 n) Un experto en transparencia y acceso a la información pública propuesto por el Consejo de Transparencia y Buen Gobierno.
 
@@ -875,7 +901,7 @@ n) Un experto en transparencia y acceso a la información pública propuesto por
 
 La Agencia Española de Protección de Datos publicará las resoluciones de su Presidencia que declaren haber lugar o no a la atención de los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, las que pongan fin a los procedimientos de reclamación, las que archiven las actuaciones previas de investigación, las que sancionen con apercibimiento a las entidades a que se refiere el artículo 77.1 de esta ley orgánica, las que impongan medidas cautelares y las demás que disponga su Estatuto.
 
-Sección 2.ª Potestades de investigación y planes de auditoría preventiva
+#### Sección 2. ª Potestades de investigación y planes de auditoría preventiva
 
 #### Artículo 51. Ámbito y personal competente.
 
@@ -883,7 +909,9 @@ Sección 2.ª Potestades de investigación y planes de auditoría preventiva
 
 2. La actividad de investigación se llevará a cabo por los funcionarios de la Agencia Española de Protección de Datos o por funcionarios ajenos a ella habilitados expresamente por su Presidencia.
 
-3. En los casos de actuaciones conjuntas de investigación conforme a lo dispuesto en el artículo 62 del Reglamento (UE) 2016/679, el personal de las autoridades de control de otros Estados Miembros de Unión Europea que colabore con la Agencia Española de Protección de Datos ejercerá sus facultades con arreglo a lo previsto en la presente ley orgánica y bajo la orientación y en presencia del personal de esta.
+3. En los casos de actuaciones conjuntas de investigación conforme a lo dispuesto en el artículo 62 l.
+
+Reglamento (UE) 2016/679, el personal de las autoridades de control de otros Estados Miembros de Unión Europea que colabore con la Agencia Española de Protección de Datos ejercerá sus facultades con arreglo a lo previsto en la presente ley orgánica y bajo la orientación y en presencia del personal de esta.
 
 4. Los funcionarios que desarrollen actividades de investigación tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones, y estarán obligados a guardar secreto sobre las informaciones que conozcan con ocasión de dicho ejercicio, incluso después de haber cesado en él.
 
@@ -937,9 +965,11 @@ En la elaboración de dichas directrices la Presidencia de la Agencia Española 
 
 3. Las directrices serán de obligado cumplimiento para el sector o responsable al que se refiera el plan de auditoría.
 
-Sección 3.ª Otras potestades de la Agencia Española de Protección de Datos
+#### Sección 3. ª Otras potestades de la Agencia Española de Protección de Datos
 
-#### Artículo 55. Potestades de regulación. Circulares de la Agencia Española de Protección de Datos.
+#### Artículo 55. Potestades de regulación.
+
+Circulares de la Agencia Española de Protección de Datos.
 
 1. La Presidencia de la Agencia Española de Protección de Datos podrá dictar disposiciones que fijen los criterios a que responderá la actuación de esta autoridad en la aplicación de lo dispuesto en el Reglamento (UE) 2016/679 y en la presente ley orgánica, que se denominarán «Circulares de la Agencia Española de Protección de Datos».
 
@@ -963,11 +993,9 @@ b) Participará, como autoridad española, en las organizaciones internacionales
 
 c) Colaborará con autoridades, instituciones, organismos y Administraciones de otros Estados a fin de impulsar, promover y desarrollar el derecho fundamental a la protección de datos, en particular en el ámbito iberoamericano, pudiendo suscribir acuerdos internacionales administrativos y no normativos en la materia.
 
-CAPÍTULO II
+## Capítulo II. Autoridades autonómicas de protección de datos.
 
-Autoridades autonómicas de protección de datos
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 57. Autoridades autonómicas de protección de datos.
 
@@ -993,29 +1021,39 @@ Cuando la Presidencia de la Agencia Española de Protección de Datos considere 
 
 Si la autoridad autonómica no atendiere en plazo el requerimiento o las medidas adoptadas no supusiesen la cesación en el tratamiento ilícito, la Agencia Española de Protección de Datos podrá ejercer las acciones que procedan ante la jurisdicción contencioso-administrativa.
 
-Sección 2.ª Coordinación en el marco de los procedimientos establecidos en el Reglamento (UE) 2016/679
+#### Sección 2. ª Coordinación en el marco de los procedimientos establecidos en el Reglamento (UE) 2016/679
 
 #### Artículo 60. Coordinación en caso de emisión de dictamen por el Comité Europeo de Protección de Datos.
 
-Se practicarán por conducto de la Agencia Española de Protección de Datos todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando éstas, como autoridades competentes, deban someter su proyecto de decisión al citado comité o le soliciten el examen de un asunto en virtud de lo establecido en los apartados 1 y 2 del artículo 64 del Reglamento (UE)  2016/679.
+Se practicarán por conducto de la Agencia Española de Protección de Datos todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando éstas, como autoridades competentes, deban someter su proyecto de decisión al citado comité o le soliciten el examen de un asunto en virtud de lo establecido en los apartados 1 y 2 del artículo 64 l.
+
+Reglamento (UE)  2016/679.
 
 En estos casos, la Agencia Española de Protección de Datos será asistida por un representante de la Autoridad autonómica en su intervención ante el Comité.
 
 #### Artículo 61. Intervención en caso de tratamientos transfronterizos.
 
-1. Las autoridades autonómicas de protección de datos ostentarán la condición de autoridad de control principal o interesada en el procedimiento establecido por el artículo  60 del Reglamento (UE) 2016/679 cuando se refiera a un tratamiento previsto en el artículo 57 de esta ley orgánica que se llevara a cabo por un responsable o encargado del tratamiento de los previstos en el artículo 56 del Reglamento (UE) 2016/679, salvo que desarrollase significativamente tratamientos de la misma naturaleza en el resto del territorio español.
+1. Las autoridades autonómicas de protección de datos ostentarán la condición de autoridad de control principal o interesada en el procedimiento establecido por el artículo 60 l.
 
-2. Corresponderá en estos casos a las autoridades autonómicas intervenir en los procedimientos establecidos en el artículo 60 del Reglamento (UE) 2016/679, informando a la Agencia Española de Protección de Datos sobre su desarrollo en los supuestos en que deba aplicarse el mecanismo de coherencia.
+Reglamento (UE) 2016/679 cuando se refiera a un tratamiento previsto en el artículo 57 de esta ley orgánica que se llevara a cabo por un responsable o encargado del tratamiento de los previstos en el artículo 56 del Reglamento (UE) 2016/679, salvo que desarrollase significativamente tratamientos de la misma naturaleza en el resto del territorio español.
+
+2. Corresponderá en estos casos a las autoridades autonómicas intervenir en los procedimientos establecidos en el artículo 60 l.
+
+Reglamento (UE) 2016/679, informando a la Agencia Española de Protección de Datos sobre su desarrollo en los supuestos en que deba aplicarse el mecanismo de coherencia.
 
 #### Artículo 62. Coordinación en caso de resolución de conflictos por el Comité Europeo de Protección de Datos.
 
-1. Se practicarán por conducto de la Agencia Española de Protección de Datos todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando estas, como autoridades principales, deban solicitar del citado Comité la emisión de una decisión vinculante según lo previsto en el artículo 65 del Reglamento (UE) 2016/679.
+1. Se practicarán por conducto de la Agencia Española de Protección de Datos todas las comunicaciones entre el Comité Europeo de Protección de Datos y las autoridades autonómicas de protección de datos cuando estas, como autoridades principales, deban solicitar del citado Comité la emisión de una decisión vinculante según lo previsto en el artículo 65 l.
 
-2. Las autoridades autonómicas de protección de datos que tengan la condición de autoridad interesada no principal en un procedimiento de los previstos en el artículo 65 del Reglamento (UE) 2016/679 informarán a la Agencia Española de Protección de Datos cuando el asunto sea remitido al Comité Europeo de Protección de Datos, facilitándole la documentación e información necesarias para su tramitación.
+Reglamento (UE) 2016/679.
+
+2. Las autoridades autonómicas de protección de datos que tengan la condición de autoridad interesada no principal en un procedimiento de los previstos en el artículo 65 l.
+
+Reglamento (UE) 2016/679 informarán a la Agencia Española de Protección de Datos cuando el asunto sea remitido al Comité Europeo de Protección de Datos, facilitándole la documentación e información necesarias para su tramitación.
 
 La Agencia Española de Protección de Datos será asistida por un representante de la autoridad autonómica interesada en su intervención ante el mencionado comité.
 
-## TÍTULO VIII
+## Título VIII
 
 **Procedimientos en caso de posible vulneración de la normativa de protección de datos**
 
@@ -1037,7 +1075,9 @@ En este caso el plazo para resolver el procedimiento será de seis meses a conta
 
 Si el procedimiento se fundase en una reclamación formulada ante la Agencia Española de Protección de Datos, con carácter previo, esta decidirá sobre su admisión a trámite, conforme a lo dispuesto en el artículo 65 de esta ley orgánica.
 
-Cuando fuesen de aplicación las normas establecidas en el artículo 60 del Reglamento (UE) 2016/679, el procedimiento se iniciará mediante la adopción del proyecto de acuerdo de inicio de procedimiento sancionador, del que se dará conocimiento formal al interesado a los efectos previstos en el artículo 75 de esta ley orgánica.
+Cuando fuesen de aplicación las normas establecidas en el artículo 60 l.
+
+Reglamento (UE) 2016/679, el procedimiento se iniciará mediante la adopción del proyecto de acuerdo de inicio de procedimiento sancionador, del que se dará conocimiento formal al interesado a los efectos previstos en el artículo 75 de esta ley orgánica.
 
 Admitida a trámite la reclamación así como en los supuestos en que la Agencia Española de Protección de Datos actúe por propia iniciativa, con carácter previo al acuerdo de inicio, podrá existir una fase de actuaciones previas de investigación, que se regirá por lo previsto en el artículo 67 de esta ley orgánica.
 
@@ -1071,7 +1111,9 @@ La Agencia Española de Protección de Datos podrá igualmente remitir la reclam
 
 2. Si la Agencia Española de Protección de Datos considera que no tiene la condición de autoridad de control principal para la tramitación del procedimiento remitirá, sin más trámite, la reclamación formulada a la autoridad de control principal que considere competente, a fin de que por la misma se le dé el curso oportuno. La Agencia Española de Protección de Datos notificará esta circunstancia a quien, en su caso, hubiera formulado la reclamación.
 
-El acuerdo por el que se resuelva la remisión a la que se refiere el párrafo anterior implicará el archivo provisional del procedimiento, sin perjuicio de que por la Agencia Española de Protección de Datos se dicte, en caso de que así proceda, la resolución a la que se refiere el apartado 8 del artículo 60 del Reglamento (UE) 2016/679.
+El acuerdo por el que se resuelva la remisión a la que se refiere el párrafo anterior implicará el archivo provisional del procedimiento, sin perjuicio de que por la Agencia Española de Protección de Datos se dicte, en caso de que así proceda, la resolución a la que se refiere el apartado 8 del artículo 60 l.
+
+Reglamento (UE) 2016/679.
 
 #### Artículo 67. Actuaciones previas de investigación.
 
@@ -1085,7 +1127,9 @@ La Agencia Española de Protección de Datos actuará en todo caso cuando sea pr
 
 1. Concluidas, en su caso, las actuaciones a las que se refiere el artículo anterior, corresponderá a la Presidencia de la Agencia Española de Protección de Datos, cuando así proceda, dictar acuerdo de inicio de procedimiento para el ejercicio de la potestad sancionadora, en que se concretarán los hechos, la identificación de la persona o entidad contra la que se dirija el procedimiento, la infracción que hubiera podido cometerse y su posible sanción.
 
-2. Cuando la Agencia Española de Protección de Datos ostente la condición de autoridad de control principal y deba seguirse el procedimiento previsto en el artículo 60 del Reglamento (UE) 2016/679, el proyecto de acuerdo de inicio de procedimiento sancionador se someterá a lo dispuesto en el mismo.
+2. Cuando la Agencia Española de Protección de Datos ostente la condición de autoridad de control principal y deba seguirse el procedimiento previsto en el artículo 60 l.
+
+Reglamento (UE) 2016/679, el proyecto de acuerdo de inicio de procedimiento sancionador se someterá a lo dispuesto en el mismo.
 
 #### Artículo 69. Medidas provisionales y de garantía de los derechos.
 
@@ -1095,7 +1139,7 @@ La Agencia Española de Protección de Datos actuará en todo caso cuando sea pr
 
 3. Cuando se hubiese presentado ante la Agencia Española de Protección de Datos una reclamación que se refiriese, entre otras cuestiones, a la falta de atención en plazo de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, la Agencia Española de Protección de Datos podrá acordar en cualquier momento, incluso con anterioridad a la iniciación del procedimiento para el ejercicio de la potestad sancionadora, mediante resolución motivada y previa audiencia del responsable del tratamiento, la obligación de atender el derecho solicitado, prosiguiéndose el procedimiento en cuanto al resto de las cuestiones objeto de la reclamación.
 
-## TÍTULO IX
+## Título IX
 
 **Régimen sancionador**
 
@@ -1117,37 +1161,49 @@ e) Las entidades acreditadas de supervisión de los códigos de conducta.
 
 #### Artículo 71. Infracciones.
 
-Constituyen infracciones los actos y conductas a las que se refieren los apartados 4, 5 y 6 del artículo 83 del Reglamento (UE) 2016/679, así como las que resulten contrarias a la presente ley orgánica.
+Constituyen infracciones los actos y conductas a las que se refieren los apartados 4, 5 y 6 del artículo 83 l.
+
+Reglamento (UE) 2016/679, así como las que resulten contrarias a la presente ley orgánica.
 
 #### Artículo 72. Infracciones consideradas muy graves.
 
 1. En función de lo que establece el artículo 83.5 del Reglamento (UE) 2016/679 se consideran muy graves y prescribirán a los tres años las infracciones que supongan una vulneración sustancial de los artículos mencionados en aquel y, en particular, las siguientes:
 
-a) El tratamiento de datos personales vulnerando los principios y garantías establecidos en el artículo 5 del Reglamento (UE) 2016/679.
+a) El tratamiento de datos personales vulnerando los principios y garantías establecidos en el artículo 5 l.
 
-b) El tratamiento de datos personales sin que concurra alguna de las condiciones de licitud del tratamiento establecidas en el artículo 6 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679.
 
-c) El incumplimiento de los requisitos exigidos por el artículo 7 del Reglamento (UE)  2016/679 para la validez del consentimiento.
+b) El tratamiento de datos personales sin que concurra alguna de las condiciones de licitud del tratamiento establecidas en el artículo 6 l.
+
+Reglamento (UE) 2016/679.
+
+c) El incumplimiento de los requisitos exigidos por el artículo 7 l.
+
+Reglamento (UE)  2016/679 para la validez del consentimiento.
 
 d) La utilización de los datos para una finalidad que no sea compatible con la finalidad para la cual fueron recogidos, sin contar con el consentimiento del afectado o con una base legal para ello.
 
-e) El tratamiento de datos personales de las categorías a las que se refiere el artículo  9 del Reglamento (UE) 2016/679, sin que concurra alguna de las circunstancias previstas en dicho precepto y en el artículo 9 de esta ley orgánica.
+e) El tratamiento de datos personales de las categorías a las que se refiere el artículo 9 l.
 
-f)	El tratamiento de datos personales relativos a condenas e infracciones penales o medidas de seguridad conexas fuera de los supuestos permitidos por el artículo 10 del Reglamento (UE) 2016/679 y en el artículo 10 de esta ley orgánica.
+Reglamento (UE) 2016/679, sin que concurra alguna de las circunstancias previstas en dicho precepto y en el artículo 9 de esta ley orgánica.
+
+f) El tratamiento de datos personales relativos a condenas e infracciones penales o medidas de seguridad conexas fuera de los supuestos permitidos por el artículo 10 l.
+
+Reglamento (UE) 2016/679 y en el artículo 10 de esta ley orgánica.
 
 g) El tratamiento de datos personales relacionados con infracciones y sanciones administrativas fuera de los supuestos permitidos por el artículo 27 de esta ley orgánica.
 
 h) La omisión del deber de informar al afectado acerca del tratamiento de sus datos personales conforme a lo dispuesto en los artículos 13 y 14 del Reglamento (UE) 2016/679 y 12 de esta ley orgánica.
 
-i)	La vulneración del deber de confidencialidad establecido en el artículo 5 de esta ley orgánica.
+i) La vulneración del deber de confidencialidad establecido en el artículo 5 de esta ley orgánica.
 
-j)	La exigencia del pago de un canon para facilitar al afectado la información a la que se refieren los artículos 13 y 14 del Reglamento (UE) 2016/679 o por atender las solicitudes de ejercicio de derechos de los afectados previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679, fuera de los supuestos establecidos en su artículo 12.5.
+j) La exigencia del pago de un canon para facilitar al afectado la información a la que se refieren los artículos 13 y 14 del Reglamento (UE) 2016/679 o por atender las solicitudes de ejercicio de derechos de los afectados previstos en los artículos 15 a 22 del Reglamento (UE) 2016/679, fuera de los supuestos establecidos en su artículo 12.5.
 
 k) El impedimento o la obstaculización o la no atención reiterada del ejercicio de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679.
 
-l)	La transferencia internacional de datos personales a un destinatario que se encuentre en un tercer país o a una organización internacional, cuando no concurran las garantías, requisitos o excepciones establecidos en los artículos 44 a 49 del Reglamento (UE) 2016/679.
+l) La transferencia internacional de datos personales a un destinatario que se encuentre en un tercer país o a una organización internacional, cuando no concurran las garantías, requisitos o excepciones establecidos en los artículos 44 a 49 del Reglamento (UE) 2016/679.
 
-m)	El incumplimiento de las resoluciones dictadas por la autoridad de protección de datos competente en ejercicio de los poderes que le confiere el artículo 58.2 del Reglamento (UE) 2016/679.
+m) El incumplimiento de las resoluciones dictadas por la autoridad de protección de datos competente en ejercicio de los poderes que le confiere el artículo 58.2 del Reglamento (UE) 2016/679.
 
 n) El incumplimiento de la obligación de bloqueo de los datos establecida en el artículo 32 de esta ley orgánica cuando la misma sea exigible.
 
@@ -1163,35 +1219,45 @@ p) La reversión deliberada de un procedimiento de anonimización a fin de permi
 
 En función de lo que establece el artículo 83.4 del Reglamento (UE) 2016/679 se consideran graves y prescribirán a los dos años las infracciones que supongan una vulneración sustancial de los artículos mencionados en aquel y, en particular, las siguientes:
 
-a) El tratamiento de datos personales de un menor de edad sin recabar su consentimiento, cuando tenga capacidad para ello, o el del titular de su patria potestad o tutela, conforme al artículo 8 del Reglamento (UE) 2016/679.
+a) El tratamiento de datos personales de un menor de edad sin recabar su consentimiento, cuando tenga capacidad para ello, o el del titular de su patria potestad o tutela, conforme al artículo 8 l.
+
+Reglamento (UE) 2016/679.
 
 b) No acreditar la realización de esfuerzos razonables para verificar la validez del consentimiento prestado por un menor de edad o por el titular de su patria potestad o tutela sobre el mismo, conforme a lo requerido por el artículo 8.2 del Reglamento (UE)  2016/679.
 
 c) El impedimento o la obstaculización o la no atención reiterada de los derechos de acceso, rectificación, supresión, limitación del tratamiento o a la portabilidad de los datos en tratamientos en los que no se requiere la identificación del afectado, cuando este, para el ejercicio de esos derechos, haya facilitado información adicional que permita su identificación.
 
-d) La falta de adopción de aquellas medidas técnicas y organizativas que resulten apropiadas para aplicar de forma efectiva los principios de protección de datos desde el diseño, así como la no integración de las garantías necesarias en el tratamiento, en los términos exigidos por el artículo 25 del Reglamento (UE) 2016/679.
+d) La falta de adopción de aquellas medidas técnicas y organizativas que resulten apropiadas para aplicar de forma efectiva los principios de protección de datos desde el diseño, así como la no integración de las garantías necesarias en el tratamiento, en los términos exigidos por el artículo 25 l.
+
+Reglamento (UE) 2016/679.
 
 e) La falta de adopción de las medidas técnicas y organizativas apropiadas para garantizar que, por defecto, solo se tratarán los datos personales necesarios para cada uno de los fines específicos del tratamiento, conforme a lo exigido por el artículo 25.2 del Reglamento (UE) 2016/679.
 
-f)	La falta de adopción de aquellas medidas técnicas y organizativas que resulten apropiadas para garantizar un nivel de seguridad adecuado al riesgo del tratamiento, en los términos exigidos por el artículo 32.1 del Reglamento (UE) 2016/679.
+f) La falta de adopción de aquellas medidas técnicas y organizativas que resulten apropiadas para garantizar un nivel de seguridad adecuado al riesgo del tratamiento, en los términos exigidos por el artículo 32.1 del Reglamento (UE) 2016/679.
 
 g) El quebrantamiento, como consecuencia de la falta de la debida diligencia, de las medidas técnicas y organizativas que se hubiesen implantado conforme a lo exigido por el artículo 32.1 del Reglamento (UE) 2016/679.
 
-h) El incumplimiento de la obligación de designar un representante del responsable o encargado del tratamiento no establecido en el territorio de la Unión Europea, conforme a lo previsto en el artículo 27 del Reglamento (UE) 2016/679.
+h) El incumplimiento de la obligación de designar un representante del responsable o encargado del tratamiento no establecido en el territorio de la Unión Europea, conforme a lo previsto en el artículo 27 l.
 
-i)	La falta de atención por el representante en la Unión del responsable o del encargado del tratamiento de las solicitudes efectuadas por la autoridad de protección de datos o por los afectados.
+Reglamento (UE) 2016/679.
+
+i) La falta de atención por el representante en la Unión del responsable o del encargado del tratamiento de las solicitudes efectuadas por la autoridad de protección de datos o por los afectados.
 
 j) La contratación por el responsable del tratamiento de un encargado de tratamiento que no ofrezca las garantías suficientes para aplicar las medidas técnicas y organizativas apropiadas conforme a lo establecido en el Capítulo IV del Reglamento (UE) 2016/679.
 
 k) Encargar el tratamiento de datos a un tercero sin la previa formalización de un contrato u otro acto jurídico escrito con el contenido exigido por el artículo 28.3 del Reglamento (UE) 2016/679.
 
-l)	La contratación por un encargado del tratamiento de otros encargados sin contar con la autorización previa del responsable, o sin haberle informado sobre los cambios producidos en la subcontratación cuando fueran legalmente exigibles.
+l) La contratación por un encargado del tratamiento de otros encargados sin contar con la autorización previa del responsable, o sin haberle informado sobre los cambios producidos en la subcontratación cuando fueran legalmente exigibles.
 
 m) La infracción por un encargado del tratamiento de lo dispuesto en el Reglamento (UE) 2016/679 y en la presente ley orgánica, al determinar los fines y los medios del tratamiento, conforme a lo dispuesto en el artículo 28.10 del citado reglamento.
 
-n) No disponer del registro de actividades de tratamiento establecido en el artículo 30 del Reglamento (UE) 2016/679.
+n) No disponer del registro de actividades de tratamiento establecido en el artículo 30 l.
 
-ñ) No poner a disposición de la autoridad de protección de datos que lo haya solicitado, el registro de actividades de tratamiento, conforme al apartado 4 del artículo 30 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679.
+
+ñ) No poner a disposición de la autoridad de protección de datos que lo haya solicitado, el registro de actividades de tratamiento, conforme al apartado 4 del artículo 30 l.
+
+Reglamento (UE) 2016/679.
 
 o) No cooperar con las autoridades de control en el desempeño de sus funciones en los supuestos no previstos en el artículo 72 de esta ley orgánica.
 
@@ -1199,33 +1265,47 @@ p) El tratamiento de datos personales sin llevar a cabo una previa valoración d
 
 q) El incumplimiento del deber del encargado del tratamiento de notificar al responsable del tratamiento las violaciones de seguridad de las que tuviera conocimiento.
 
-r) El incumplimiento del deber de notificación a la autoridad de protección de datos de una violación de seguridad de los datos personales de conformidad con lo previsto en el artículo 33 del Reglamento (UE) 2016/679.
+r) El incumplimiento del deber de notificación a la autoridad de protección de datos de una violación de seguridad de los datos personales de conformidad con lo previsto en el artículo 33 l.
 
-s) El incumplimiento del deber de comunicación al afectado de una violación de la seguridad de los datos de conformidad con lo previsto en el artículo 34 del Reglamento (UE) 2016/679 si el responsable del tratamiento hubiera sido requerido por la autoridad de protección de datos para llevar a cabo dicha notificación.
+Reglamento (UE) 2016/679.
+
+s) El incumplimiento del deber de comunicación al afectado de una violación de la seguridad de los datos de conformidad con lo previsto en el artículo 34 l.
+
+Reglamento (UE) 2016/679 si el responsable del tratamiento hubiera sido requerido por la autoridad de protección de datos para llevar a cabo dicha notificación.
 
 t) El tratamiento de datos personales sin haber llevado a cabo la evaluación del impacto de las operaciones de tratamiento en la protección de datos personales en los supuestos en que la misma sea exigible.
 
-u) El tratamiento de datos personales sin haber consultado previamente a la autoridad de protección de datos en los casos en que dicha consulta resulta preceptiva conforme al artículo 36 del Reglamento (UE) 2016/679 o cuando la ley establezca la obligación de llevar a cabo esa consulta.
+u) El tratamiento de datos personales sin haber consultado previamente a la autoridad de protección de datos en los casos en que dicha consulta resulta preceptiva conforme al artículo 36 l.
 
-v) El incumplimiento de la obligación de designar un delegado de protección de datos cuando sea exigible su nombramiento de acuerdo con el artículo 37 del Reglamento (UE) 2016/679 y el artículo 34 de esta ley orgánica.
+Reglamento (UE) 2016/679 o cuando la ley establezca la obligación de llevar a cabo esa consulta.
+
+v) El incumplimiento de la obligación de designar un delegado de protección de datos cuando sea exigible su nombramiento de acuerdo con el artículo 37 l.
+
+Reglamento (UE) 2016/679 y el artículo 34 de esta ley orgánica.
 
 w) No posibilitar la efectiva participación del delegado de protección de datos en todas las cuestiones relativas a la protección de datos personales, no respaldarlo o interferir en el desempeño de sus funciones.
 
 x) La utilización de un sello o certificación en materia de protección de datos que no haya sido otorgado por una entidad de certificación debidamente acreditada o en caso de que la vigencia del mismo hubiera expirado.
 
-y) Obtener la acreditación como organismo de certificación presentando información inexacta sobre el cumplimiento de los requisitos exigidos por el artículo 43 del Reglamento (UE) 2016/679.
+y) Obtener la acreditación como organismo de certificación presentando información inexacta sobre el cumplimiento de los requisitos exigidos por el artículo 43 l.
+
+Reglamento (UE) 2016/679.
 
 z) El desempeño de funciones que el Reglamento (UE) 2016/679 reserva a los organismos de certificación, sin haber sido debidamente acreditado conforme a lo establecido en el artículo 39 de esta ley orgánica.
 
 aa) El incumplimiento por parte de un organismo de certificación de los principios y deberes a los que está sometido según lo previsto en los artículos 42 y 43 de Reglamento (UE) 2016/679.
 
-ab) El desempeño de funciones que el artículo 41 del Reglamento (UE) 2016/679 reserva a los organismos de supervisión de códigos de conducta sin haber sido previamente acreditado por la autoridad de protección de datos competente.
+ab) El desempeño de funciones que el artículo 41 l.
+
+Reglamento (UE) 2016/679 reserva a los organismos de supervisión de códigos de conducta sin haber sido previamente acreditado por la autoridad de protección de datos competente.
 
 ac) La falta de adopción por parte de los organismos acreditados de supervisión de un código de conducta de las medidas que resulten oportunas en caso que se hubiera producido una infracción del código, conforme exige el artículo 41.4 del Reglamento (UE)  2016/679.
 
 #### Artículo 74. Infracciones consideradas leves.
 
-Se consideran leves y prescribirán al año las restantes infracciones de carácter meramente formal de los artículos mencionados en los apartados 4 y 5 del artículo 83 del Reglamento (UE) 2016/679 y, en particular, las siguientes:
+Se consideran leves y prescribirán al año las restantes infracciones de carácter meramente formal de los artículos mencionados en los apartados 4 y 5 del artículo 83 l.
+
+Reglamento (UE) 2016/679 y, en particular, las siguientes:
 
 a) El incumplimiento del principio de transparencia de la información o el derecho de información del afectado por no facilitar toda la información exigida por los artículos 13 y 14 del Reglamento (UE) 2016/679.
 
@@ -1233,35 +1313,53 @@ b) La exigencia del pago de un canon para facilitar al afectado la información 
 
 c) No atender las solicitudes de ejercicio de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, salvo que resultase de aplicación lo dispuesto en el artículo 72.1.k) de esta ley orgánica.
 
-d) No atender los derechos de acceso, rectificación, supresión, limitación del tratamiento o a la portabilidad de los datos en tratamientos en los que no se requiere la identificación del afectado, cuando este, para el ejercicio de esos derechos, haya facilitado información adicional que permita su identificación, salvo que resultase de aplicación lo dispuesto en el artículo 73 c) de esta ley orgánica.
+d) No atender los derechos de acceso, rectificación, supresión, limitación del tratamiento o a la portabilidad de los datos en tratamientos en los que no se requiere la identificación del afectado, cuando este, para el ejercicio de esos derechos, haya facilitado información adicional que permita su identificación, salvo que resultase de aplicación lo dispuesto en el artículo 73 c).
 
-e) El incumplimiento de la obligación de notificación relativa a la rectificación o supresión de datos personales o la limitación del tratamiento exigida por el artículo 19 del Reglamento (UE) 2016/679.
+de esta ley orgánica.
 
-f)	El incumplimiento de la obligación de informar al afectado, cuando así lo haya solicitado, de los destinatarios a los que se hayan comunicado los datos personales rectificados, suprimidos o respecto de los que se ha limitado el tratamiento.
+e) El incumplimiento de la obligación de notificación relativa a la rectificación o supresión de datos personales o la limitación del tratamiento exigida por el artículo 19 l.
+
+Reglamento (UE) 2016/679.
+
+f) El incumplimiento de la obligación de informar al afectado, cuando así lo haya solicitado, de los destinatarios a los que se hayan comunicado los datos personales rectificados, suprimidos o respecto de los que se ha limitado el tratamiento.
 
 g) El incumplimiento de la obligación de suprimir los datos referidos a una persona fallecida cuando ello fuera exigible conforme al artículo 3 de esta ley orgánica.
 
-h) La falta de formalización por los corresponsables del tratamiento del acuerdo que determine las obligaciones, funciones y responsabilidades respectivas con respecto al tratamiento de datos personales y sus relaciones con los afectados al que se refiere el artículo 26 del Reglamento (UE) 2016/679 o la inexactitud en la determinación de las mismas.
+h) La falta de formalización por los corresponsables del tratamiento del acuerdo que determine las obligaciones, funciones y responsabilidades respectivas con respecto al tratamiento de datos personales y sus relaciones con los afectados al que se refiere el artículo 26 l.
 
-i)	No poner a disposición de los afectados los aspectos esenciales del acuerdo formalizado entre los corresponsables del tratamiento, conforme exige el artículo 26.2 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679 o la inexactitud en la determinación de las mismas.
 
-j)	La falta del cumplimiento de la obligación del encargado del tratamiento de informar al responsable del tratamiento acerca de la posible infracción por una instrucción recibida de este de las disposiciones del Reglamento (UE) 2016/679 o de esta ley orgánica, conforme a lo exigido por el artículo 28.3 del citado reglamento.
+i) No poner a disposición de los afectados los aspectos esenciales del acuerdo formalizado entre los corresponsables del tratamiento, conforme exige el artículo 26.2 del Reglamento (UE) 2016/679.
+
+j) La falta del cumplimiento de la obligación del encargado del tratamiento de informar al responsable del tratamiento acerca de la posible infracción por una instrucción recibida de este de las disposiciones del Reglamento (UE) 2016/679 o de esta ley orgánica, conforme a lo exigido por el artículo 28.3 del citado reglamento.
 
 k) El incumplimiento por el encargado de las estipulaciones impuestas en el contrato o acto jurídico que regula el tratamiento o las instrucciones del responsable del tratamiento, salvo que esté legalmente obligado a ello conforme al Reglamento (UE) 2016/679 y a la presente ley orgánica o en los supuestos en que fuese necesario para evitar la infracción de la legislación en materia de protección de datos y se hubiese advertido de ello al responsable o al encargado del tratamiento.
 
-l)	Disponer de un Registro de actividades de tratamiento que no incorpore toda la información exigida por el artículo 30 del Reglamento (UE) 2016/679.
+l) Disponer de un Registro de actividades de tratamiento que no incorpore toda la información exigida por el artículo 30 l.
 
-m)	La notificación incompleta, tardía o defectuosa a la autoridad de protección de datos de la información relacionada con una violación de seguridad de los datos personales de conformidad con lo previsto en el artículo 33 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679.
+
+m) La notificación incompleta, tardía o defectuosa a la autoridad de protección de datos de la información relacionada con una violación de seguridad de los datos personales de conformidad con lo previsto en el artículo 33 l.
+
+Reglamento (UE) 2016/679.
 
 n) El incumplimiento de la obligación de documentar cualquier violación de seguridad, exigida por el artículo 33.5 del Reglamento (UE) 2016/679.
 
-ñ) El incumplimiento del deber de comunicación al afectado de una violación de la seguridad de los datos que entrañe un alto riesgo para los derechos y libertades de los afectados, conforme a lo exigido por el artículo 34 del Reglamento (UE) 2016/679, salvo que resulte de aplicación lo previsto en el artículo 73 s) de esta ley orgánica.
+ñ) El incumplimiento del deber de comunicación al afectado de una violación de la seguridad de los datos que entrañe un alto riesgo para los derechos y libertades de los afectados, conforme a lo exigido por el artículo 34 l.
 
-o) Facilitar información inexacta a la Autoridad de protección de datos, en los supuestos en los que el responsable del tratamiento deba elevarle una consulta previa, conforme al artículo 36 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679, salvo que resulte de aplicación lo previsto en el artículo 73 s) de esta ley orgánica.
 
-p) No publicar los datos de contacto del delegado de protección de datos, o no comunicarlos a la autoridad de protección de datos, cuando su nombramiento sea exigible de acuerdo con el artículo 37 del Reglamento (UE) 2016/679 y el artículo 34 de esta ley orgánica.
+o) Facilitar información inexacta a la Autoridad de protección de datos, en los supuestos en los que el responsable del tratamiento deba elevarle una consulta previa, conforme al artículo 36 l.
 
-q) El incumplimiento por los organismos de certificación de la obligación de informar a la autoridad de protección de datos de la expedición, renovación o retirada de una certificación, conforme a lo exigido por los apartados 1 y 5 del artículo 43 del Reglamento (UE) 2016/679.
+Reglamento (UE) 2016/679.
+
+p) No publicar los datos de contacto del delegado de protección de datos, o no comunicarlos a la autoridad de protección de datos, cuando su nombramiento sea exigible de acuerdo con el artículo 37 l.
+
+Reglamento (UE) 2016/679 y el artículo 34 de esta ley orgánica.
+
+q) El incumplimiento por los organismos de certificación de la obligación de informar a la autoridad de protección de datos de la expedición, renovación o retirada de una certificación, conforme a lo exigido por los apartados 1 y 5 del artículo 43 l.
+
+Reglamento (UE) 2016/679.
 
 r) El incumplimiento por parte de los organismos acreditados de supervisión de un código de conducta de la obligación de informar a las autoridades de protección de datos acerca de las medidas que resulten oportunas en caso de infracción del código, conforme exige el artículo 41.4 del Reglamento (UE) 2016/679.
 
@@ -1269,11 +1367,15 @@ r) El incumplimiento por parte de los organismos acreditados de supervisión de 
 
 Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento sancionador, reiniciándose el plazo de prescripción si el expediente sancionador estuviere paralizado durante más de seis meses por causas no imputables al presunto infractor.
 
-Cuando la Agencia Española de Protección de Datos ostente la condición de autoridad de control principal y deba seguirse el procedimiento previsto en el artículo 60 del Reglamento (UE) 2016/679 interrumpirá la prescripción el conocimiento formal por el interesado del proyecto de acuerdo de inicio que sea sometido a las autoridades de control interesadas.
+Cuando la Agencia Española de Protección de Datos ostente la condición de autoridad de control principal y deba seguirse el procedimiento previsto en el artículo 60 l.
+
+Reglamento (UE) 2016/679 interrumpirá la prescripción el conocimiento formal por el interesado del proyecto de acuerdo de inicio que sea sometido a las autoridades de control interesadas.
 
 #### Artículo 76. Sanciones y medidas correctivas.
 
-1. Las sanciones previstas en los apartados 4, 5 y 6 del artículo 83 del Reglamento (UE) 2016/679 se aplicarán teniendo en cuenta los criterios de graduación establecidos en el apartado 2 del citado artículo.
+1. Las sanciones previstas en los apartados 4, 5 y 6 del artículo 83 l.
+
+Reglamento (UE) 2016/679 se aplicarán teniendo en cuenta los criterios de graduación establecidos en el apartado 2 del citado artículo.
 
 2. De acuerdo a lo previsto en el artículo 83.2.k) del Reglamento (UE) 2016/679 también podrán tenerse en cuenta:
 
@@ -1287,7 +1389,7 @@ d) La posibilidad de que la conducta del afectado hubiera podido inducir a la co
 
 e) La existencia de un proceso de fusión por absorción posterior a la comisión de la infracción, que no puede imputarse a la entidad absorbente.
 
-f)	La afectación a los derechos de los menores.
+f) La afectación a los derechos de los menores.
 
 g) Disponer, cuando no fuere obligatorio, de un delegado de protección de datos.
 
@@ -1311,17 +1413,17 @@ d) Los organismos públicos y entidades de Derecho público vinculadas o dependi
 
 e) Las autoridades administrativas independientes.
 
-f)	El Banco de España.
+f) El Banco de España.
 
 g) Las corporaciones de Derecho público cuando las finalidades del tratamiento se relacionen con el ejercicio de potestades de derecho público.
 
 h) Las fundaciones del sector público.
 
-i)	Las Universidades Públicas.
+i) Las Universidades Públicas.
 
-j)	Los consorcios.
+j) Los consorcios.
 
-k)	Los grupos parlamentarios de las Cortes Generales y las Asambleas Legislativas autonómicas, así como los grupos políticos de las Corporaciones Locales.
+k) Los grupos parlamentarios de las Cortes Generales y las Asambleas Legislativas autonómicas, así como los grupos políticos de las Corporaciones Locales.
 
 2. Cuando los responsables o encargados enumerados en el apartado 1 cometiesen alguna de las infracciones a las que se refieren los artículos 72 a 74 de esta ley orgánica, la autoridad de protección de datos que resulte competente dictará resolución sancionando a las mismas con apercibimiento. La resolución establecerá asimismo las medidas que proceda adoptar para que cese la conducta o se corrijan los efectos de la infracción que se hubiese cometido.
 
@@ -1351,7 +1453,7 @@ c) Las sanciones por un importe superior a 300.000 euros prescriben a los tres a
 
 3. La prescripción se interrumpirá por la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si el mismo está paralizado durante más de seis meses por causa no imputable al infractor.
 
-## TÍTULO X
+## Título X
 
 **Garantía de los derechos digitales**
 
@@ -1513,11 +1615,11 @@ El responsable del servicio al que se le comunique, con arreglo al párrafo ante
 
 1. El Gobierno, en colaboración con las comunidades autónomas, elaborará un Plan de Acceso a Internet con los siguientes objetivos:
 
-a) superar las brechas digitales y garantizar el acceso a Internet de colectivos vulnerables o con necesidades especiales y de entornos familiares y sociales económicamente desfavorecidos mediante, entre otras medidas, un bono social de acceso a Internet;
+a) Superar las brechas digitales y garantizar el acceso a Internet de colectivos vulnerables o con necesidades especiales y de entornos familiares y sociales económicamente desfavorecidos mediante, entre otras medidas, un bono social de acceso a Internet;
 
-b) impulsar la existencia de espacios de conexión de acceso público; y
+b) Impulsar la existencia de espacios de conexión de acceso público; y
 
-c) fomentar medidas educativas que promuevan la formación en competencias y habilidades digitales básicas a personas y colectivos en riesgo de exclusión digital y la capacidad de todas las personas para realizar un uso autónomo y responsable de Internet y de las tecnologías digitales.
+c) Fomentar medidas educativas que promuevan la formación en competencias y habilidades digitales básicas a personas y colectivos en riesgo de exclusión digital y la capacidad de todas las personas para realizar un uso autónomo y responsable de Internet y de las tecnologías digitales.
 
 2. Asimismo se aprobará un Plan de Actuación dirigido a promover las acciones de formación, difusión y concienciación necesarias para lograr que los menores de edad hagan un uso equilibrado y responsable de los dispositivos digitales y de las redes sociales y de los servicios de la sociedad de la información equivalentes de Internet con la finalidad de garantizar su adecuado desarrollo de la personalidad y de preservar su dignidad y derechos fundamentales.
 
@@ -1525,7 +1627,9 @@ c) fomentar medidas educativas que promuevan la formación en competencias y hab
 
 #### Disposición adicional primera. Medidas de seguridad en el ámbito del sector público.
 
-1. El Esquema Nacional de Seguridad incluirá las medidas que deban implantarse en caso de tratamiento de datos personales para evitar su pérdida, alteración o acceso no autorizado, adaptando los criterios de determinación del riesgo en el tratamiento de los datos a lo establecido en el artículo 32 del Reglamento (UE) 2016/679.
+1. El Esquema Nacional de Seguridad incluirá las medidas que deban implantarse en caso de tratamiento de datos personales para evitar su pérdida, alteración o acceso no autorizado, adaptando los criterios de determinación del riesgo en el tratamiento de los datos a lo establecido en el artículo 32 l.
+
+Reglamento (UE) 2016/679.
 
 2. Los responsables enumerados en el artículo 77.1 de esta ley orgánica deberán aplicar a los tratamientos de datos personales las medidas de seguridad que correspondan de las previstas en el Esquema Nacional de Seguridad, así como impulsar un grado de implementación de medidas equivalentes en las empresas o fundaciones vinculadas a los mismos sujetas al Derecho privado.
 
@@ -1557,13 +1661,17 @@ Lo dispuesto en el Título VIII y en sus normas de desarrollo será de aplicaci�
 
 Las decisiones de la Comisión Europea a las que puede resultar de aplicación este cauce son:
 
-a) aquellas que declaren el nivel adecuado de protección de un tercer país u organización internacional, en virtud del artículo 45 del Reglamento (UE) 2016/679;
+a) Aquellas que declaren el nivel adecuado de protección de un tercer país u organización internacional, en virtud del artículo 45 l.
 
-b) aquellas por las que se aprueben cláusulas tipo de protección de datos para la realización de transferencias internacionales de datos, o
+Reglamento (UE) 2016/679;
 
-c) aquellas que declaren la validez de los códigos de conducta a tal efecto.
+b) Aquellas por las que se aprueben cláusulas tipo de protección de datos para la realización de transferencias internacionales de datos, o
 
-2. La autorización a la que se refiere esta disposición solamente podrá ser concedida si, previo planteamiento de cuestión prejudicial de validez en los términos del artículo 267 del Tratado de Funcionamiento de la Unión Europea, la decisión de la Comisión Europea cuestionada fuera declarada inválida por el Tribunal de Justicia de la Unión Europea.
+c) Aquellas que declaren la validez de los códigos de conducta a tal efecto.
+
+2. La autorización a la que se refiere esta disposición solamente podrá ser concedida si, previo planteamiento de cuestión prejudicial de validez en los términos del artículo 267 l.
+
+Tratado de Funcionamiento de la Unión Europea, la decisión de la Comisión Europea cuestionada fuera declarada inválida por el Tribunal de Justicia de la Unión Europea.
 
 #### Disposición adicional sexta. Incorporación de deudas a sistemas de información crediticia.
 
@@ -1621,7 +1729,7 @@ La cesión de estos datos requerirá la previa obtención de autorización judic
 
 Quedan excluidos de lo previsto en este apartado los datos de tráfico que los operadores estuviesen tratando con la exclusiva finalidad de dar cumplimiento a las obligaciones previstas en la Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones.
 
-#### Disposición adicional decimosexta. Prácticas agresivas en materia de protección de datos.
+Disposición adicional decimosexta.... Prácticas agresivas en materia de protección de datos.
 
 A los efectos previstos en el artículo 8 de la Ley 3/1991, de 10 de enero, de Competencia Desleal, se consideran prácticas agresivas las siguientes:
 
@@ -1635,7 +1743,7 @@ d) Ofrecer cualquier tipo de documento por el que se pretenda crear una aparienc
 
 e) Asumir, sin designación expresa del responsable o el encargado del tratamiento, la función de delegado de protección de datos y comunicarse en tal condición con la Agencia Española de Protección de Datos o las autoridades autonómicas de protección de datos.
 
-#### Disposición adicional decimoséptima. Tratamientos de datos de salud.
+Disposición adicional decimoséptima.... Tratamientos de datos de salud.
 
 1. Se encuentran amparados en las letras g), h), i) y j) del artículo 9.2 del Reglamento (UE) 2016/679 los tratamientos de datos relacionados con la salud y de datos genéticos que estén regulados en las siguientes leyes y sus disposiciones de desarrollo:
 
@@ -1649,15 +1757,15 @@ d) La [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protoc
 
 e) La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.
 
-f)	La Ley 14/2007, de 3 de julio, de Investigación biomédica.
+f) La Ley 14/2007, de 3 de julio, de Investigación biomédica.
 
 g) La Ley 33/2011, de 4 de octubre, General de Salud Pública.
 
 h) La Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
 
-i)	El texto refundido de la Ley de garantías y uso racional de los 105 medicamentos y productos sanitarios, aprobado por Real Decreto Legislativo 1/2015, de 24 de julio.
+i) El texto refundido de la Ley de garantías y uso racional de los 105 medicamentos y productos sanitarios, aprobado por Real Decreto Legislativo 1/2015, de 24 de julio.
 
-j)	El texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) de 29 de noviembre.
+j) El texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por [Real Decreto Legislativo 1/2013](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md) de 29 de noviembre.
 
 2. El tratamiento de datos en la investigación en salud se regirá por los siguientes criterios:
 
@@ -1667,7 +1775,9 @@ b) Las autoridades sanitarias e instituciones públicas con competencias en vigi
 
 c) Se considerará lícita y compatible la reutilización de datos personales con fines de investigación en materia de salud y biomédica cuando, habiéndose obtenido el consentimiento para una finalidad concreta, se utilicen los datos para finalidades o áreas de investigación relacionadas con el área en la que se integrase científicamente el estudio inicial.
 
-En tales casos, los responsables deberán publicar la información establecida por el artículo 13 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos, en un lugar fácilmente accesible de la página web corporativa del centro donde se realice la investigación o estudio clínico, y, en su caso, en la del promotor, y notificar la existencia de esta información por medios electrónicos a los afectados. Cuando estos carezcan de medios para acceder a tal información, podrán solicitar su remisión en otro formato.
+En tales casos, los responsables deberán publicar la información establecida por el artículo 13 l.
+
+Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos, en un lugar fácilmente accesible de la página web corporativa del centro donde se realice la investigación o estudio clínico, y, en su caso, en la del promotor, y notificar la existencia de esta información por medios electrónicos a los afectados. Cuando estos carezcan de medios para acceder a tal información, podrán solicitar su remisión en otro formato.
 
 Para los tratamientos previstos en esta letra, se requerirá informe previo favorable del comité de ética de la investigación.
 
@@ -1679,9 +1789,9 @@ El uso de datos personales seudonimizados con fines de investigación en salud p
 
 2.º Que los datos seudonimizados únicamente sean accesibles al equipo de investigación cuando:
 
-i)	Exista un compromiso expreso de confidencialidad y de no realizar ninguna actividad de reidentificación.
+i) Exista un compromiso expreso de confidencialidad y de no realizar ninguna actividad de reidentificación.
 
-ii)	Se adopten medidas de seguridad específicas para evitar la reidentificación y el acceso de terceros no autorizados.
+ii) Se adopten medidas de seguridad específicas para evitar la reidentificación y el acceso de terceros no autorizados.
 
 Podrá procederse a la reidentificación de los datos en su origen, cuando con motivo de una investigación que utilice datos seudonimizados, se aprecie la existencia de un peligro real y concreto para la seguridad o salud de una persona o grupo de personas, o una amenaza grave para sus derechos o sea necesaria para garantizar una adecuada asistencia sanitaria.
 
@@ -1693,15 +1803,21 @@ e) Cuando se traten datos personales con fines de investigación en salud, y en 
 
 3.º La investigación tenga por objeto un interés público esencial relacionado con la seguridad del Estado, la defensa, la seguridad pública u otros objetivos importantes de interés público general, siempre que en este último caso la excepción esté expresamente recogida por una norma con rango de Ley.
 
-f)	Cuando conforme a lo previsto por el artículo 89 del Reglamento (UE) 2016/679, se lleve a cabo un tratamiento con fines de investigación en salud pública y, en particular, biomédica se procederá a:
+f) Cuando conforme a lo previsto por el artículo 89 l.
 
-1.º Realizar una evaluación de impacto que determine los riesgos derivados del tratamiento en los supuestos previstos en el artículo 35 del Reglamento (UE) 2016/679 o en los establecidos por la autoridad de control. Esta evaluación incluirá de modo específico los riesgos de reidentificación vinculados a la anonimización o seudonimización de los datos.
+Reglamento (UE) 2016/679, se lleve a cabo un tratamiento con fines de investigación en salud pública y, en particular, biomédica se procederá a:
+
+1.º Realizar una evaluación de impacto que determine los riesgos derivados del tratamiento en los supuestos previstos en el artículo 35 l.
+
+Reglamento (UE) 2016/679 o en los establecidos por la autoridad de control. Esta evaluación incluirá de modo específico los riesgos de reidentificación vinculados a la anonimización o seudonimización de los datos.
 
 2.º Someter la investigación científica a las normas de calidad y, en su caso, a las directrices internacionales sobre buena práctica clínica.
 
 3.º Adoptar, en su caso, medidas dirigidas a garantizar que los investigadores no acceden a datos de identificación de los interesados.
 
-4.º Designar un representante legal establecido en la Unión Europea, conforme al artículo 74 del Reglamento (UE) 536/2014, si el promotor de un ensayo clínico no está establecido en la Unión Europea. Dicho representante legal podrá coincidir con el previsto en el artículo 27.1 del Reglamento (UE) 2016/679.
+4.º Designar un representante legal establecido en la Unión Europea, conforme al artículo 74 l.
+
+Reglamento (UE) 536/2014, si el promotor de un ensayo clínico no está establecido en la Unión Europea. Dicho representante legal podrá coincidir con el previsto en el artículo 27.1 del Reglamento (UE) 2016/679.
 
 g) El uso de datos personales seudonimizados con fines de investigación en salud pública y, en particular, biomédica deberá ser sometido al informe previo del comité de ética de la investigación previsto en la normativa sectorial.
 
@@ -1709,25 +1825,29 @@ En defecto de la existencia del mencionado Comité, la entidad responsable de la
 
 h) En el plazo máximo de un año desde la entrada en vigor de esta ley, los comités de ética de la investigación, en el ámbito de la salud, biomédico o del medicamento, deberán integrar entre sus miembros un delegado de protección de datos o, en su defecto, un experto con conocimientos suficientes del Reglamento (UE) 2016/679 cuando se ocupen de actividades de investigación que comporten el tratamiento de datos personales o de datos seudonimizados o anonimizados.
 
-#### Disposición adicional decimoctava. Criterios de seguridad.
+Disposición adicional decimoctava.... Criterios de seguridad.
 
 La Agencia Española de Protección de Datos desarrollará, con la colaboración, cuando sea precisa, de todos los actores implicados, las herramientas, guías, directrices y orientaciones que resulten precisas para dotar a los profesionales, microempresas y pequeñas y medianas empresas de pautas adecuadas para el cumplimiento de las obligaciones de responsabilidad activa establecidas en el Título IV del Reglamento (UE) 2016/679 y en el Título V de esta ley orgánica.
 
-#### Disposición adicional decimonovena. Derechos de los menores ante Internet.
+Disposición adicional decimonovena.... Derechos de los menores ante Internet.
 
 En el plazo de un año desde la entrada en vigor de esta ley orgánica, el Gobierno remitirá al Congreso de los Diputados un proyecto de ley dirigido específicamente a garantizar los derechos de los menores ante el impacto de Internet, con el fin de garantizar su seguridad y luchar contra la discriminación y la violencia que sobre los mismos es ejercida mediante las nuevas tecnologías.
 
-#### Disposición adicional vigésima. Especialidades del régimen jurídico de la Agencia Española de Protección de Datos.
+Disposición adicional vigésima.... Especialidades del régimen jurídico de la Agencia Española de Protección de Datos.
 
 1. No será de aplicación a la Agencia Española de Protección de Datos el artículo 50.2.c) de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 2. La Agencia Española de Protección de Datos podrá adherirse a los sistemas de contratación centralizada establecidos por las Administraciones Públicas y participar en la gestión compartida de servicios comunes prevista en el artículo 85 de la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
-#### Disposición adicional vigésima primera. Educación digital.
+#### Disposición adicional vigésima.... primera.
+
+Educación digital.
 
 Las Administraciones educativas darán cumplimiento al mandato contenido en el párrafo segundo del apartado 1 del artículo 83 de esta ley orgánica en el plazo de un año a contar desde la entrada en vigor de la misma.
 
-#### Disposición adicional vigésima segunda. Acceso a los archivos públicos y eclesiásticos.
+#### Disposición adicional vigésima.... segunda.
+
+Acceso a los archivos públicos y eclesiásticos.
 
 Las autoridades públicas competentes facilitarán el acceso a los archivos públicos y eclesiásticos en relación con los datos que se soliciten con ocasión de investigaciones policiales o judiciales de personas desaparecidas, debiendo atender las solicitudes con prontitud y diligencia las instituciones o congregaciones religiosas a las que se realicen las peticiones de acceso.
 
@@ -1735,11 +1855,15 @@ Las autoridades públicas competentes facilitarán el acceso a los archivos púb
 
 1. El Estatuto de la Agencia Española de Protección de Datos, aprobado por Real Decreto 428/1993, de 26 de marzo, continuará vigente en lo que no se oponga a lo establecido en el Título VIII de esta ley orgánica.
 
-2. Lo dispuesto en los apartados 2, 3 y 5 del artículo 48 y en el artículo 49 de esta ley orgánica se aplicará una vez expire el mandato de quien ostente la condición de Director de la Agencia Española de Protección de Datos a la entrada en vigor de la misma.
+2. Lo dispuesto en los apartados 2, 3 y 5 del artículo 48 y en.
+
+el artículo 49 de esta ley orgánica se aplicará una vez expire el mandato de quien ostente la condición de Director de la Agencia Española de Protección de Datos a la entrada en vigor de la misma.
 
 #### Disposición transitoria segunda. Códigos tipo inscritos en las autoridades de protección de datos conforme a la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
-Los promotores de los códigos tipo inscritos en el registro de la Agencia Española de Protección de Datos o en las autoridades autonómicas de protección de datos deberán adaptar su contenido a lo dispuesto en el artículo 40 del Reglamento (UE) 2016/679 en el plazo de un año a contar desde la entrada en vigor de esta ley orgánica.
+Los promotores de los códigos tipo inscritos en el registro de la Agencia Española de Protección de Datos o en las autoridades autonómicas de protección de datos deberán adaptar su contenido a lo dispuesto en el artículo 40 l.
+
+Reglamento (UE) 2016/679 en el plazo de un año a contar desde la entrada en vigor de esta ley orgánica.
 
 Si, transcurrido dicho plazo, no se hubiera solicitado la aprobación prevista en el artículo 38.4 de esta ley orgánica, se cancelará la inscripción y se comunicará a sus promotores.
 
@@ -1757,7 +1881,9 @@ Los tratamientos sometidos a la Directiva (UE) 2016/680 del Parlamento Europeo y
 
 Los contratos de encargado del tratamiento suscritos con anterioridad al 25 de mayo de 2018 al amparo de lo dispuesto en el artículo 12 de la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal mantendrán su vigencia hasta la fecha de vencimiento señalada en los mismos y en caso de haberse pactado de forma indefinida, hasta el 25 de mayo de 2022.
 
-Durante dichos plazos cualquiera de las partes podrá exigir a la otra la modificación del contrato a fin de que el mismo resulte conforme a lo dispuesto en el artículo 28 del Reglamento (UE) 2016/679 y en el Capítulo II del Título V de esta ley orgánica.
+Durante dichos plazos cualquiera de las partes podrá exigir a la otra la modificación del contrato a fin de que el mismo resulte conforme a lo dispuesto en el artículo 28 l.
+
+Reglamento (UE) 2016/679 y en el Capítulo II del Título V de esta ley orgánica.
 
 #### Disposición transitoria sexta. Reutilización con fines de investigación en materia de salud y biomédica de datos personales recogidos con anterioridad a la entrada en vigor de esta ley orgánica.
 
@@ -1809,7 +1935,9 @@ No obstante, tienen carácter de ley ordinaria:
 
 5. La disposición adicional tercera se dicta al amparo del artículo 149.1.18.ª de la Constitución.
 
-6. El artículo 96 se dicta al amparo del artículo 149.1.8.ª de la Constitución.
+6. El artículo 96 se.
+
+dicta al amparo del artículo 149.1.8.ª de la Constitución.
 
 #### Disposición final tercera. Modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
 
@@ -1871,11 +1999,7 @@ Se añade un nuevo Capítulo II al Título VI de la Ley 14/1986, de 25 de abril,
 
 «CAPÍTULO II
 
-Tratamiento de datos de la investigación en salud
-
-#### Artículo 105 bis.
-
-El tratamiento de datos personales en la investigación en salud se regirá por lo dispuesto en la Disposición adicional decimoséptima de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales.»
+Tratamiento de datos de la investigación en salud artículo 105 bis. El tratamiento de datos personales en la investigación en salud se regirá por lo dispuesto en la Disposición adicional decimoséptima de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales.»
 
 #### Disposición final sexta. Modificación de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
@@ -1883,17 +2007,27 @@ La Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-admin
 
 Uno. Se añade un nuevo apartado 7 al artículo 10:
 
-«7. Conocerán de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva.»
+«7. Conocerán de la solicitud de autorización al amparo del artículo 122 ter,.
+
+cuando sea formulada por la autoridad de protección de datos de la Comunidad Autónoma respectiva.»
 
 Dos. Se añade un nuevo apartado 5 al artículo 11:
 
-«5. Conocerá de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por la Agencia Española de Protección de Datos.»
+«5. Conocerá de la solicitud de autorización al amparo del artículo 122 ter,.
+
+cuando sea formulada por la Agencia Española de Protección de Datos.»
 
 Tres. Se añade un nuevo apartado 4 al artículo 12:
 
-«4. Conocerá de la solicitud de autorización al amparo del artículo 122 ter, cuando sea formulada por el Consejo General del Poder Judicial.»
+«4. Conocerá de la solicitud de autorización al amparo del artículo 122 ter,.
 
-Cuatro. Se introduce un nuevo artículo 122 ter, con el siguiente tenor:
+cuando sea formulada por el Consejo General del Poder Judicial.»
+
+Cuatro. Se introduce un nuevo
+
+#### Artículo 122. ter,.
+
+con el siguiente tenor:
 
 «Artículo 122 ter. Procedimiento de autorización judicial de conformidad de una decisión de la Comisión Europea en materia de transferencia internacional de datos.
 
@@ -1913,7 +2047,9 @@ Cuatro. Se introduce un nuevo artículo 122 ter, con el siguiente tenor:
 
 a) Si considerase que la decisión de la Comisión Europea es conforme al Derecho de la Unión Europea, dictará sentencia declarándolo así y denegando la autorización solicitada.
 
-b) En caso de considerar que la decisión es contraria al Derecho de la Unión Europea, dictará auto de planteamiento de cuestión prejudicial de validez de la citada decisión ante el Tribunal de Justicia de la Unión Europea, en los términos del artículo 267 del Tratado de Funcionamiento de la Unión Europea.
+b) En caso de considerar que la decisión es contraria al Derecho de la Unión Europea, dictará auto de planteamiento de cuestión prejudicial de validez de la citada decisión ante el Tribunal de Justicia de la Unión Europea, en los términos del artículo 267 l.
+
+Tratado de Funcionamiento de la Unión Europea.
 
 La autorización solamente podrá ser concedida si la decisión de la Comisión Europea cuestionada fuera declarada inválida por el Tribunal de Justicia de la Unión Europea.
 
@@ -1929,7 +2065,9 @@ Se modifica el artículo 15 bis de la Ley 1/2000, de 7 de enero, de Enjuiciamien
 
 La aportación de información no alcanzará a los datos o documentos obtenidos en el ámbito de las circunstancias de aplicación de la exención o reducción del importe de las multas previstas en los artículos 65 y 66 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia.
 
-2. La Comisión Europea, la Comisión Nacional de los Mercados y la Competencia y los órganos competentes de las comunidades autónomas aportarán la información o presentarán las observaciones previstas en el número anterior diez días antes de la celebración del acto del juicio a que se refiere el artículo 433 o dentro del plazo de oposición o impugnación del recurso interpuesto.
+2. La Comisión Europea, la Comisión Nacional de los Mercados y la Competencia y los órganos competentes de las comunidades autónomas aportarán la información o presentarán las observaciones previstas en el número anterior diez días antes de la celebración del acto del juicio a que se refiere el artículo 433 o dentro.
+
+del plazo de oposición o impugnación del recurso interpuesto.
 
 3. Lo dispuesto en los anteriores apartados en materia de procedimiento será asimismo de aplicación cuando la Comisión Europea, la Agencia Española de Protección de Datos y las autoridades autonómicas de protección de datos, en el ámbito de sus competencias, consideren precisa su intervención en un proceso que afecte a cuestiones relativas a la aplicación del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016.»
 
@@ -1963,13 +2101,19 @@ Se incluye una nueva letra l) en el apartado 1 del artículo 2 de la [Ley Orgán
 
 Se modifica la [Ley 19/2013](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en los siguientes términos:
 
-Uno. Se añade un nuevo artículo 6 bis, con la siguiente redacción:
+Uno. Se añade un nuevo
+
+#### Artículo 6. bis,.
+
+con la siguiente redacción:
 
 «Artículo 6 bis. Registro de actividades de tratamiento.
 
 Los sujetos enumerados en el artículo 77.1 de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales, publicarán su inventario de actividades de tratamiento en aplicación del artículo 31 de la citada Ley Orgánica.»
 
-Dos. El apartado 1 del artículo 15 queda redactado como sigue:
+Dos. El apartado 1 del artículo 15 queda.
+
+redactado como sigue:
 
 «1. Si la información solicitada contuviera datos personales que revelen la ideología, afiliación sindical, religión o creencias, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
 
@@ -1993,7 +2137,11 @@ Asimismo, las Administraciones Públicas no requerirán a los interesados datos 
 
 #### Disposición final decimotercera. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores.
 
-Se añade un nuevo artículo 20 bis al texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, con el siguiente contenido:
+Se añade un nuevo
+
+#### Artículo 20 bis. al.
+
+texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por [Real Decreto Legislativo 2/2015](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, con el siguiente contenido:
 
 «Artículo 20 bis. Derechos de los trabajadores a la intimidad en relación con el entorno digital y a la desconexión.
 
@@ -2001,7 +2149,9 @@ Los trabajadores tienen derecho a la intimidad en el uso de los dispositivos dig
 
 #### Disposición final decimocuarta. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público.
 
-Se añade una nueva letra j bis) en el artículo 14 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, que quedará redactada como sigue:
+Se añade una nueva letra j bis) en el artículo 14 l.
+
+texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por [Real Decreto Legislativo 5/2015](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md), de 30 de octubre, que quedará redactada como sigue:
 
 «j bis) A la intimidad en el uso de dispositivos digitales puestos a su disposición y frente al uso de dispositivos de videovigilancia y geolocalización, así como a la desconexión digital en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales.»
 
@@ -2009,7 +2159,7 @@ Se añade una nueva letra j bis) en el artículo 14 del texto refundido de la Le
 
 Se habilita al Gobierno para desarrollar lo dispuesto en los artículos 3.2, 38.6, 45.2, 63.3, 96.3 y disposición adicional sexta, en los términos establecidos en ellos.
 
-#### Disposición final decimosexta. Entrada en vigor.
+Disposición final decimosexta.... Entrada en vigor.
 
 Por tanto,
 
@@ -2023,11 +2173,10 @@ El Presidente del Gobierno,
 
 PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2008-979**](./LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -2064,6 +2213,7 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)

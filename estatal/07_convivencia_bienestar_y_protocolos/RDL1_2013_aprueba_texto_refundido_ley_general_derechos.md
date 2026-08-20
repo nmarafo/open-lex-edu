@@ -1,13 +1,10 @@
 ---
 id: norm-es-2013-12632
 codigo_sintetizado: BOE-A-2013-12632
-titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba
-  el Texto Refundido de la Ley General de derechos de las personas con discapacidad
-  y de su inclusión social.
+titulo: Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-12-03'
 boletin: BOE
@@ -18,44 +15,43 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Igualdad de género y diversidad
 tags:
-- igualdad-de-g-nero-y-diversidad
-- igualdad-genero
-- inclusiva
-- neae
-- oposiciones
+  - igualdad-de-g-nero-y-diversidad
+  - igualdad-genero
+  - inclusiva
+  - neae
+  - oposiciones
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-2022-11589
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-d-25-2018
+    - norma_id: norm-es-2022-11589
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-d-25-2018
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-2000-544
-- norma_id: norm-es-lo-2-2006
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-lo-8-1985
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '27'
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 ## Preámbulo
-
-# Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 La Ley 13/1982, de 7 de abril, participaba ya de la idea de que el amparo especial y las medidas de equiparación para garantizar los derechos de las personas con discapacidad debía basarse en apoyos complementarios, ayudas técnicas y servicios especializados que les permitieran llevar una vida normal en su entorno. Estableció un sistema de prestaciones económicas y servicios, medidas de integración laboral, de accesibilidad y subsidios económicos, y una serie de principios que posteriormente se incorporaron a las leyes de sanidad, educación y empleo.
 
@@ -105,55 +101,49 @@ La Ministra de Sanidad, Servicios Sociales e Igualdad,
 
 ANA MATO ADROVER
 
-## TÍTULO PRELIMINAR
+## Título Preliminar
 
 **Disposiciones generales**
 
-CAPÍTULO I
+## Capítulo I. Objeto, definiciones y principios.
 
-Objeto, definiciones y principios
-
-#### Artículo 1. Objeto de esta ley.
-
-Esta ley tiene por objeto:
+#### Artículo 1. Objeto de esta ley. Esta ley tiene por objeto:.
 
 a) Garantizar el derecho a la igualdad de oportunidades y de trato, así como el ejercicio real y efectivo de derechos por parte de las personas con discapacidad en igualdad de condiciones respecto del resto de ciudadanos y ciudadanas, a través de la promoción de la autonomía personal, de la accesibilidad universal, del acceso al empleo, de la inclusión en la comunidad y la vida independiente y de la erradicación de toda forma de discriminación, conforme a los artículos 9.2, 10, 14 y 49 de la Constitución Española y a la Convención Internacional sobre los Derechos de las Personas con Discapacidad y los tratados y acuerdos internacionales ratificados por España.
 
 b) Establecer el régimen de infracciones y sanciones que garantizan las condiciones básicas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
 
-#### Artículo 2. Definiciones.
+#### Artículo 2. Definiciones A efectos de esta ley se entiende por:.
 
-A efectos de esta ley se entiende por:
+a) **Discapacidad.** Es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
 
-a) Discapacidad: es una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
+b) **Igualdad de oportunidades.** Es la ausencia de toda discriminación, directa o indirecta, por motivo de o por razón de discapacidad, incluida cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio en igualdad de condiciones por las personas con discapacidad, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, laboral, cultural, civil o de otro tipo. Asimismo, se entiende por igualdad de oportunidades la adopción de medidas de acción positiva.
 
-b) Igualdad de oportunidades: es la ausencia de toda discriminación, directa o indirecta, por motivo de o por razón de discapacidad, incluida cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio en igualdad de condiciones por las personas con discapacidad, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, laboral, cultural, civil o de otro tipo. Asimismo, se entiende por igualdad de oportunidades la adopción de medidas de acción positiva.
+c) **Discriminación directa.** Es la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga por motivo de o por razón de su discapacidad.
 
-c) Discriminación directa: es la situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga por motivo de o por razón de su discapacidad.
+d) **Discriminación indirecta.** Existe cuando una disposición legal o reglamentaria, una cláusula convencional o contractual, un pacto individual, una decisión unilateral o un criterio o práctica, o bien un entorno, producto o servicio, aparentemente neutros, puedan ocasionar una desventaja particular a una persona respecto de otras por motivo de o por razón de discapacidad, siempre que objetivamente no respondan a una finalidad legítima y que los medios para la consecución de esta finalidad no sean adecuados y necesarios.
 
-d) Discriminación indirecta: existe cuando una disposición legal o reglamentaria, una cláusula convencional o contractual, un pacto individual, una decisión unilateral o un criterio o práctica, o bien un entorno, producto o servicio, aparentemente neutros, puedan ocasionar una desventaja particular a una persona respecto de otras por motivo de o por razón de discapacidad, siempre que objetivamente no respondan a una finalidad legítima y que los medios para la consecución de esta finalidad no sean adecuados y necesarios.
+e) **Discriminación por asociación.** Existe cuando una persona o grupo en que se integra es objeto de un trato discriminatorio debido a su relación con otra por motivo o por razón de discapacidad.
 
-e) Discriminación por asociación: existe cuando una persona o grupo en que se integra es objeto de un trato discriminatorio debido a su relación con otra por motivo o por razón de discapacidad.
+f) **Acoso.** Es toda conducta no deseada relacionada con la discapacidad de una persona, que tenga como objetivo o consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo.
 
-f) Acoso: es toda conducta no deseada relacionada con la discapacidad de una persona, que tenga como objetivo o consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo.
+g) **Medidas de acción positiva.** Son aquellas de carácter específico consistentes en evitar o compensar las desventajas derivadas de la discapacidad y destinadas a acelerar o lograr la igualdad de hecho de las personas con discapacidad y su participación plena en los ámbitos de la vida política, económica, social, educativa, laboral y cultural, atendiendo a los diferentes tipos y grados de discapacidad.
 
-g) Medidas de acción positiva: son aquellas de carácter específico consistentes en evitar o compensar las desventajas derivadas de la discapacidad y destinadas a acelerar o lograr la igualdad de hecho de las personas con discapacidad y su participación plena en los ámbitos de la vida política, económica, social, educativa, laboral y cultural, atendiendo a los diferentes tipos y grados de discapacidad.
+h) **Vida independiente.** Es la situación en la que la persona con discapacidad ejerce el poder de decisión sobre su propia existencia y participa activamente en la vida de su comunidad, conforme al derecho al libre desarrollo de la personalidad.
 
-h) Vida independiente: es la situación en la que la persona con discapacidad ejerce el poder de decisión sobre su propia existencia y participa activamente en la vida de su comunidad, conforme al derecho al libre desarrollo de la personalidad.
+i) **Normalización.** Es el principio en virtud del cual las personas con discapacidad deben poder llevar una vida en igualdad de condiciones, accediendo a los mismos lugares, ámbitos, bienes y servicios que están a disposición de cualquier otra persona.
 
-i) Normalización: es el principio en virtud del cual las personas con discapacidad deben poder llevar una vida en igualdad de condiciones, accediendo a los mismos lugares, ámbitos, bienes y servicios que están a disposición de cualquier otra persona.
+j) **Inclusión social.** Es el principio en virtud del cual la sociedad promueve valores compartidos orientados al bien común y a la cohesión social, permitiendo que todas las personas con discapacidad tengan las oportunidades y recursos necesarios para participar plenamente en la vida política, económica, social, educativa, laboral y cultural, y para disfrutar de unas condiciones de vida en igualdad con los demás.
 
-j) Inclusión social: es el principio en virtud del cual la sociedad promueve valores compartidos orientados al bien común y a la cohesión social, permitiendo que todas las personas con discapacidad tengan las oportunidades y recursos necesarios para participar plenamente en la vida política, económica, social, educativa, laboral y cultural, y para disfrutar de unas condiciones de vida en igualdad con los demás.
+k) **Accesibilidad universal.** Es la condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos, instrumentos, herramientas y dispositivos, para ser comprensibles, utilizables y practicables por todas las personas en condiciones de seguridad y comodidad y de la forma más autónoma y natural posible. Presupone la estrategia de «diseño universal o diseño para todas las personas», y se entiende sin perjuicio de los ajustes razonables que deban adoptarse.
 
-k) Accesibilidad universal: es la condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos, instrumentos, herramientas y dispositivos, para ser comprensibles, utilizables y practicables por todas las personas en condiciones de seguridad y comodidad y de la forma más autónoma y natural posible. Presupone la estrategia de «diseño universal o diseño para todas las personas», y se entiende sin perjuicio de los ajustes razonables que deban adoptarse.
+l) **Diseño universal o diseño para todas las personas.** Es la actividad por la que se conciben o proyectan desde el origen, y siempre que ello sea posible, entornos, procesos, bienes, productos, servicios, objetos, instrumentos, programas, dispositivos o herramientas, de tal forma que puedan ser utilizados por todas las personas, en la mayor extensión posible, sin necesidad de adaptación ni diseño especializado. El «diseño universal o diseño para todas las personas» no excluirá los productos de apoyo para grupos particulares de personas con discapacidad, cuando lo necesiten.
 
-l) Diseño universal o diseño para todas las personas: es la actividad por la que se conciben o proyectan desde el origen, y siempre que ello sea posible, entornos, procesos, bienes, productos, servicios, objetos, instrumentos, programas, dispositivos o herramientas, de tal forma que puedan ser utilizados por todas las personas, en la mayor extensión posible, sin necesidad de adaptación ni diseño especializado. El «diseño universal o diseño para todas las personas» no excluirá los productos de apoyo para grupos particulares de personas con discapacidad, cuando lo necesiten.
+m) **Ajustes razonables.** Son las modificaciones y adaptaciones necesarias y adecuadas del ambiente físico, social y actitudinal a las necesidades específicas de las personas con discapacidad que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular de manera eficaz y práctica, para facilitar la accesibilidad y la participación y para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos.
 
-m) Ajustes razonables: son las modificaciones y adaptaciones necesarias y adecuadas del ambiente físico, social y actitudinal a las necesidades específicas de las personas con discapacidad que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular de manera eficaz y práctica, para facilitar la accesibilidad y la participación y para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos.
+n) **Diálogo civil.** Es el principio en virtud del cual las organizaciones representativas de personas con discapacidad y de sus familias participan, en los términos que establecen las leyes y demás disposiciones normativas, en la elaboración, ejecución, seguimiento y evaluación de las políticas oficiales que se desarrollan en la esfera de las personas con discapacidad, las cuales garantizarán, en todo caso, el derecho de los niños y las niñas con discapacidad a expresar su opinión libremente sobre todas las cuestiones que les afecten y a recibir asistencia apropiada con arreglo a su discapacidad y edad para poder ejercer ese derecho.
 
-n) Diálogo civil: es el principio en virtud del cual las organizaciones representativas de personas con discapacidad y de sus familias participan, en los términos que establecen las leyes y demás disposiciones normativas, en la elaboración, ejecución, seguimiento y evaluación de las políticas oficiales que se desarrollan en la esfera de las personas con discapacidad, las cuales garantizarán, en todo caso, el derecho de los niños y las niñas con discapacidad a expresar su opinión libremente sobre todas las cuestiones que les afecten y a recibir asistencia apropiada con arreglo a su discapacidad y edad para poder ejercer ese derecho.
-
-o) Transversalidad de las políticas en materia de discapacidad: es el principio en virtud del cual las actuaciones que desarrollan las Administraciones Públicas no se limitan únicamente a planes, programas y acciones específicos, pensados exclusivamente para estas personas, sino que comprenden las políticas y líneas de acción de carácter general en cualquiera de los ámbitos de actuación pública, en donde se tendrán en cuenta las necesidades y demandas de las personas con discapacidad.
+o) **Transversalidad de las políticas en materia de discapacidad.** Es el principio en virtud del cual las actuaciones que desarrollan las Administraciones Públicas no se limitan únicamente a planes, programas y acciones específicos, pensados exclusivamente para estas personas, sino que comprenden las políticas y líneas de acción de carácter general en cualquiera de los ámbitos de actuación pública, en donde se tendrán en cuenta las necesidades y demandas de las personas con discapacidad.
 
 #### Artículo 3. Principios.
 
@@ -185,9 +175,7 @@ l) El respeto al desarrollo de la personalidad de las personas con discapacidad,
 
 m) La transversalidad de las políticas en materia de discapacidad.
 
-CAPÍTULO II
-
-Ámbito de aplicación
+## Capítulo II. Ámbito de aplicación.
 
 #### Artículo 4. Titulares de los derechos.
 
@@ -227,9 +215,7 @@ g) Patrimonio cultural, de conformidad con lo previsto en la legislación de pat
 
 h) Empleo.
 
-CAPÍTULO III
-
-Autonomía de las personas con discapacidad
+## Capítulo III. Autonomía de las personas con discapacidad.
 
 #### Artículo 6. Respeto a la autonomía de las personas con discapacidad.
 
@@ -239,7 +225,7 @@ Autonomía de las personas con discapacidad
 
 En todo caso, se deberá tener en cuenta las circunstancias personales del individuo, su capacidad para tomar el tipo de decisión en concreto y asegurar la prestación de apoyo para la toma de decisiones.
 
-## TÍTULO I
+## Título I
 
 **Derechos y obligaciones**
 
@@ -253,9 +239,7 @@ En todo caso, se deberá tener en cuenta las circunstancias personales del indiv
 
 4. Asimismo, las administraciones públicas protegerán de manera singularmente intensa a aquellas personas o grupo de personas especialmente vulnerables a la discriminación múltiple como las niñas, niños y mujeres con discapacidad, mayores con discapacidad, mujeres con discapacidad víctimas de violencia de género, personas con pluridiscapacidad u otras personas con discapacidad integrantes de minorías.
 
-CAPÍTULO I
-
-Sistema de prestaciones sociales y económicas
+## Capítulo I. Sistema de prestaciones sociales y económicas.
 
 #### Artículo 8. Sistema especial de prestaciones sociales y económicas para las personas con discapacidad.
 
@@ -277,9 +261,7 @@ d) Rehabilitación y habilitación profesionales.
 
 Los beneficiarios del sistema especial de prestaciones asistenciales y económicas previsto en este capítulo estarán exentos de aportación por el consumo de especialidades farmacéuticas.
 
-CAPÍTULO II
-
-Derecho a la protección de la salud
+## Capítulo II. Derecho a la protección de la salud.
 
 #### Artículo 10. Derecho a la protección de la salud.
 
@@ -317,9 +299,7 @@ d) La valoración y calificación de la situación de discapacidad será revisab
 
 4. Las calificaciones y valoraciones de los equipos multiprofesionales de calificación y reconocimiento del grado de discapacidad responderán a criterios técnicos unificados, basados en la evidencia disponible, y tendrán validez ante cualquier organismo público y en todo el territorio del Estado.
 
-CAPÍTULO III
-
-De la atención integral
+## Capítulo III. De la atención integral.
 
 #### Artículo 13. Atención integral.
 
@@ -379,13 +359,13 @@ c) La formación, readaptación o recualificación profesional.
 
 5. La formación, readaptación o recualificación profesional que podrá comprender en su caso, una preformación general básica, promoverá la adquisición de experiencia laboral en el mercado de trabajo y se impartirá de acuerdo con el itinerario personal y la orientación profesional prestada con anterioridad, conforme a la decisión tomada por la persona con discapacidad, y siguiendo los criterios establecidos en el artículo 15.
 
-6. Las actividades formativas podrán impartirse, además de en los centros de formación dedicados a ello, en las empresas, siendo necesario en este último supuesto, la formalización de un contrato para la formación y el aprendizaje, cuyo contenido básico se ajustará a lo dispuesto en el artículo 11 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sus normas de desarrollo.
+6. Las actividades formativas podrán impartirse, además de en los centros de formación dedicados a ello, en las empresas, siendo necesario en este último supuesto, la formalización de un contrato para la formación y el aprendizaje, cuyo contenido básico se ajustará a lo dispuesto en el artículo 11 l.
+
+Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y sus normas de desarrollo.
 
 7. Los procesos de apoyo para la actividad profesional a que se refiere este artículo podrán ser complementados, en su caso, con otras medidas adicionales que faciliten al beneficiario el logro del máximo nivel de desarrollo personal y favorezcan su plena inclusión y participación en la vida social.
 
-CAPÍTULO IV
-
-Derecho a la educación
+## Capítulo IV. Derecho a la educación.
 
 #### Artículo 18. Contenido del derecho.
 
@@ -417,11 +397,9 @@ d) Se realizarán programas de sensibilización, información y formación conti
 
 2. A efectos de la participación en el control y gestión de los centros docentes previsto en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del derecho a la educación, y en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de educación, se tendrá en cuenta la especialidad de esta ley en lo que se refiere a los servicios de orientación educativa.
 
-CAPÍTULO V
+## Capítulo V. Derecho a la vida independiente.
 
-Derecho a la vida independiente
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 22. Accesibilidad.
 
@@ -503,11 +481,7 @@ No obstante, las condiciones previstas en el párrafo anterior serán exigibles 
 
 5. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno deberá realizar los estudios integrales sobre la accesibilidad a bienes o servicios que se consideren más relevantes desde el punto de vista de la no discriminación y accesibilidad universal.
 
-Sección 2.ª Medidas de acción positiva
-
-#### Artículo 30. Medidas para facilitar el estacionamiento de vehículos.
-
-Los ayuntamientos adoptarán las medidas adecuadas para facilitar el estacionamiento de los vehículos automóviles pertenecientes a personas con problemas graves de movilidad, por razón de su discapacidad.
+#### Sección 2. ª Medidas de acción positiva artículo 30 Medidas para facilitar el estacionamiento de vehículos. Los ayuntamientos adoptarán las medidas adecuadas para facilitar el estacionamiento de los vehículos automóviles pertenecientes a personas con problemas graves de movilidad, por razón de su discapacidad.
 
 #### Artículo 31. Subsidio de movilidad y compensación por gastos de transporte.
 
@@ -539,11 +513,9 @@ Se considerará rehabilitación de la vivienda, a efectos de la obtención de su
 
 4. Los ayuntamientos deberán prever planes municipales de actuación, al objeto de adaptar las vías públicas, parques y jardines, a las normas aprobadas con carácter general, viniendo obligados a destinar un porcentaje de su presupuesto a dichos fines.
 
-CAPÍTULO VI
+## Capítulo VI. Derecho al trabajo.
 
-Derecho al trabajo
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 35. Garantías del derecho al trabajo.
 
@@ -593,7 +565,7 @@ c) Empleo autónomo.
 
 2. Estas ayudas podrán consistir en subvenciones o préstamos para la contratación, la adaptación de los puestos de trabajo, la eliminación de todo tipo de barreras que dificulten su acceso, movilidad, comunicación o comprensión en los centros de producción, la posibilidad de establecerse como trabajadores autónomos, bonificaciones en las cuotas de la Seguridad Social y cuantas otras se consideran adecuadas para promover la colocación de las personas con discapacidad, especialmente la promoción de cooperativas y otras entidades de la economía social.
 
-Sección 2.ª Empleo ordinario
+#### Sección 2. ª Empleo ordinario
 
 #### Artículo 40. Adopción de medidas para prevenir o compensar las desventajas ocasionadas por la discapacidad como garantía de la plena igualdad en el trabajo.
 
@@ -615,7 +587,7 @@ De manera excepcional, las empresas públicas y privadas podrán quedar exentas 
 
 2. En las ofertas de empleo público se reservará un cupo para ser cubierto por personas con discapacidad, en los términos establecidos en la normativa reguladora de la materia.
 
-Sección 3.ª Empleo protegido
+#### Sección 3. ª Empleo protegido
 
 #### Artículo 43. Centros especiales de empleo para la inclusión laboral de las personas con discapacidad.
 
@@ -643,15 +615,9 @@ Se entenderán por servicios de ajuste personal y social los que permitan ayudar
 
 Para facilitar la transición al empleo ordinario de las personas trabajadoras con discapacidad con especiales dificultades para el acceso al mismo, se pueden constituir enclaves laborales, cuyas características y condiciones se establecen reglamentariamente.
 
-Sección 4.ª Empleo autónomo
+#### Sección 4. ª Empleo autónomo artículo 47 Empleo autónomo. Los poderes públicos, en el ámbito de sus respectivas competencias, adoptarán políticas de fomento del trabajo autónomo de personas con discapacidad dirigidas al establecimiento y desarrollo de iniciativas económicas y profesionales por cuenta propia, o a través de entidades de la economía social, de acuerdo con la normativa reguladora de la materia.
 
-#### Artículo 47. Empleo autónomo.
-
-Los poderes públicos, en el ámbito de sus respectivas competencias, adoptarán políticas de fomento del trabajo autónomo de personas con discapacidad dirigidas al establecimiento y desarrollo de iniciativas económicas y profesionales por cuenta propia, o a través de entidades de la economía social, de acuerdo con la normativa reguladora de la materia.
-
-CAPÍTULO VII
-
-Derecho a la protección social
+## Capítulo VII. Derecho a la protección social.
 
 #### Artículo 48. Derecho a la protección social.
 
@@ -705,9 +671,7 @@ La planificación de estos servicios atenderá a la proximidad al entorno en el 
 
 Su creación y sostenimiento serán competencia tanto de dichas administraciones públicas como de las instituciones o personas jurídicas privadas sin ánimo de lucro, atendiendo estas últimas, en todo caso, a las normas que para su creación y funcionamiento se dicten de acuerdo a lo dispuesto en el párrafo anterior.
 
-CAPÍTULO VIII
-
-Derecho de participación en los asuntos públicos
+## Capítulo VIII. Derecho de participación en los asuntos públicos.
 
 #### Artículo 53. Derecho de participación en la vida política.
 
@@ -733,11 +697,9 @@ La Oficina de Atención a la Discapacidad es el órgano del Consejo Nacional de 
 
 Con la Oficina de Atención a la Discapacidad colaborarán las organizaciones, entidades y asociaciones de utilidad pública más representativas de las personas con discapacidad y sus familias.
 
-CAPÍTULO IX
+## Capítulo IX. Obligaciones de los poderes públicos.
 
-Obligaciones de los poderes públicos
-
-Sección 1.ª Disposiciones generales
+#### Sección 1. ª Disposiciones generales
 
 #### Artículo 57. Prestación de servicios.
 
@@ -755,7 +717,7 @@ La financiación de las distintas prestaciones, subsidios, atenciones y servicio
 
 2. En concreto, los poderes públicos promoverán la puesta en marcha y el mantenimiento de campañas para la toma de conciencia de la sociedad, accesibles para las personas con discapacidad, especialmente en los ámbitos socio-sanitario, educativo y profesional, fomentando el reconocimiento y respeto de los derechos y la dignidad de las personas con discapacidad, para que ésta en su conjunto, colabore en su plena inclusión en la vida social.
 
-Sección 2.ª Del personal de los distintos servicios de atención a las personas con discapacidad
+#### Sección 2. ª Del personal de los distintos servicios de atención a las personas con discapacidad
 
 #### Artículo 60. Personal especializado.
 
@@ -775,13 +737,11 @@ Sección 2.ª Del personal de los distintos servicios de atención a las persona
 
 2. El régimen del personal voluntario se regulará en su normativa específica.
 
-## TÍTULO II
+## Título II
 
 **Igualdad de oportunidades y no discriminación**
 
-CAPÍTULO I
-
-Derecho a la igualdad de oportunidades
+## Capítulo I. Derecho a la igualdad de oportunidades.
 
 #### Artículo 63. Vulneración del derecho a la igualdad de oportunidades.
 
@@ -825,19 +785,13 @@ Dichas medidas tendrán naturaleza de mínimos, sin perjuicio de las medidas que
 
 2. En particular, las administraciones públicas garantizarán que las ayudas y subvenciones públicas promuevan la efectividad del derecho a la igualdad de oportunidades de las personas con discapacidad así como las personas con discapacidad que viven habitualmente en el ámbito rural.
 
-CAPÍTULO II
-
-Medidas de fomento y defensa
+## Capítulo II. Medidas de fomento y defensa.
 
 #### Artículo 69. Medidas de fomento y defensa.
 
 Las administraciones públicas, en el ámbito de sus competencias, promoverán y facilitarán el desarrollo de medidas de fomento y de instrumentos y mecanismos de protección jurídica para llevar a cabo una política de igualdad de oportunidades, mediante la adopción de las medidas necesarias para que se supriman las disposiciones normativas y las prácticas contrarias a la igualdad de oportunidades y el establecimiento de medidas para evitar cualquier forma de discriminación por motivo o por razón de discapacidad.
 
-Sección 1.ª Medidas de fomento
-
-#### Artículo 70. Medidas para fomentar la calidad.
-
-Las administraciones públicas adecuarán sus planes de calidad para asegurar la igualdad de oportunidades a los ciudadanos con discapacidad. Para ello, incluirán en ellos normas mínimas de no discriminación y de accesibilidad, y desarrollarán indicadores de calidad y guías de buenas prácticas.
+#### Sección 1. ª Medidas de fomento artículo 70 Medidas para fomentar la calidad. Las administraciones públicas adecuarán sus planes de calidad para asegurar la igualdad de oportunidades a los ciudadanos con discapacidad. Para ello, incluirán en ellos normas mínimas de no discriminación y de accesibilidad, y desarrollarán indicadores de calidad y guías de buenas prácticas.
 
 #### Artículo 71. Medidas de innovación y desarrollo de normas técnicas.
 
@@ -863,7 +817,7 @@ Las administraciones públicas adecuarán sus planes de calidad para asegurar la
 
 4. El cumplimiento de las funciones dirigidas al desarrollo de los objetivos generales del Observatorio Estatal de la Discapacidad no supondrá incremento del gasto público.
 
-Sección 2.ª Medidas de defensa
+#### Sección 2. ª Medidas de defensa
 
 #### Artículo 74. Arbitraje.
 
@@ -893,17 +847,11 @@ Cuando en el proceso jurisdiccional se haya suscitado una cuestión de discrimin
 
 2. Lo establecido en el apartado anterior no es de aplicación a los procesos penales ni a los contencioso-administrativos interpuestos contra resoluciones sancionadoras.
 
-## TÍTULO III
+## Título III
 
 **Infracciones y sanciones en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad**
 
-CAPÍTULO I
-
-Régimen común de infracciones y sanciones
-
-#### Artículo 78. Ámbito.
-
-El régimen de infracciones y sanciones que se establece en este título será común en todo el territorio del Estado y será objeto de tipificación por el legislador autonómico, sin perjuicio de aquellas otras infracciones y sanciones que pueda establecer en el ejercicio de sus competencias.
+## Capítulo I. Régimen común de infracciones y sanciones artículo 78 Ámbito. El régimen de infracciones y sanciones que se establece en este título será común en todo el territorio del Estado y será objeto de tipificación por el legislador autonómico, sin perjuicio de aquellas otras infracciones y sanciones que pueda establecer en el ejercicio de sus competencias.
 
 Las comunidades autónomas establecerán un régimen de infracciones que garantice la plena protección de las personas con discapacidad, ajustándose a lo dispuesto en esta ley.
 
@@ -915,11 +863,7 @@ Las comunidades autónomas establecerán un régimen de infracciones que garanti
 
 Serán responsables subsidiarios o solidarios las personas físicas y jurídicas privadas por el incumplimiento de las obligaciones que conlleven el deber de prevenir la infracción administrativa cometida por otros.
 
-Sección 1.ª Infracciones
-
-#### Artículo 80. Objeto de las infracciones.
-
-A los efectos de esta ley, se considerarán infracciones administrativas las acciones y omisiones que ocasionen vulneraciones del derecho a la igualdad de oportunidades, no discriminación y accesibilidad universal en los ámbitos a los que se refiere el artículo 5, cuando se produzcan discriminaciones directas o indirectas, acosos, incumplimiento de las exigencias de accesibilidad y de realizar ajustes razonables, así como el incumplimiento de las medidas de acción positiva legalmente establecidas, especialmente cuando se deriven beneficios económicos para la persona infractora.
+#### Sección 1. ª Infracciones artículo 80 Objeto de las infracciones. A los efectos de esta ley, se considerarán infracciones administrativas las acciones y omisiones que ocasionen vulneraciones del derecho a la igualdad de oportunidades, no discriminación y accesibilidad universal en los ámbitos a los que se refiere el artículo 5, cuando se produzcan discriminaciones directas o indirectas, acosos, incumplimiento de las exigencias de accesibilidad y de realizar ajustes razonables, así como el incumplimiento de las medidas de acción positiva legalmente establecidas, especialmente cuando se deriven beneficios económicos para la persona infractora.
 
 #### Artículo 81. Infracciones.
 
@@ -931,7 +875,9 @@ A los efectos de esta ley, se considerarán infracciones administrativas las acc
 
 a) Los actos discriminatorios u omisiones que supongan directa o indirectamente un trato menos favorable a la persona con discapacidad en relación con otra persona que se encuentre en situación análoga o comparable.
 
-b) El incumplimiento de las exigencias de accesibilidad, así como la negativa a adoptar las medidas de ajuste razonable, a que se refiere el artículo 66 así como en sus normas de desarrollo.
+b) El incumplimiento de las exigencias de accesibilidad, así como la negativa a adoptar las medidas de ajuste razonable, a que se refiere el artículo 66 así.
+
+como en sus normas de desarrollo.
 
 c) El incumplimiento de un requerimiento administrativo específico que formulen los órganos competentes para el ejercicio de las competencias necesarias para dar cumplimiento a las previsiones de esta ley.
 
@@ -939,7 +885,9 @@ d) Cualquier forma de presión ejercida sobre la persona con discapacidad o sobr
 
 4. En todo caso, y sin perjuicio de lo que se establezca en la legislación autonómica, tendrán la consideración de infracciones muy graves:
 
-a) Toda conducta de acoso relacionada con la discapacidad en los términos del artículo 66 y en sus normas de desarrollo.
+a) Toda conducta de acoso relacionada con la discapacidad en los términos del artículo 66 y en.
+
+sus normas de desarrollo.
 
 b) El incumplimiento reiterado de los requerimientos administrativos específicos que formulen los órganos competentes para el ejercicio de las competencias necesarias para dar cumplimiento a las previsiones de esta ley, y en sus normas de desarrollo.
 
@@ -949,7 +897,7 @@ c) Cualquier forma de presión ejercida sobre las autoridades en el ejercicio de
 
 Las infracciones a que se refiere este Título calificadas como leves prescribirán al año, las calificadas como graves a los tres años y las calificadas como muy graves a los cuatro años.
 
-Sección 2.ª Sanciones
+#### Sección 2. ª Sanciones
 
 #### Artículo 83. Sanciones.
 
@@ -997,7 +945,9 @@ j) El beneficio económico que se hubiera generado para la persona autora de la 
 
 #### Artículo 86. Consecuencias del incumplimiento en materia de acceso a bienes y servicios.
 
-Sin perjuicio de otras acciones y derechos contemplados en la legislación civil y mercantil, la persona que, en el ámbito de aplicación del artículo 29 sufra una conducta discriminatoria por motivo de o por razón de discapacidad, tendrá derecho a indemnización por los daños y perjuicios sufridos.
+Sin perjuicio de otras acciones y derechos contemplados en la legislación civil y mercantil, la persona que, en el ámbito de aplicación del artículo 29 sufra.
+
+una conducta discriminatoria por motivo de o por razón de discapacidad, tendrá derecho a indemnización por los daños y perjuicios sufridos.
 
 #### Artículo 87. Prescripción de las sanciones.
 
@@ -1007,7 +957,7 @@ Las sanciones impuestas por faltas leves prescribirán al año, las impuestas po
 
 El abono por parte del responsable de las multas impuestas como consecuencia de una sanción establecida en esta ley y la legislación autonómica correspondiente, no eximirá del cumplimiento de las obligaciones previstas en la normativa en materia de discapacidad que sea de aplicación.
 
-Sección 3.ª Garantías del régimen sancionador
+#### Sección 3. ª Garantías del régimen sancionador
 
 #### Artículo 89. Legitimación.
 
@@ -1035,15 +985,13 @@ La resolución firme en vía administrativa de los expedientes sancionadores por
 
 Todas las personas físicas y jurídicas tienen el deber de facilitar la labor de los órganos y autoridades para la aplicación de lo dispuesto en este título, aportando en un plazo razonable, y con las condiciones establecidas en la legislación vigente, los datos, documentos, informes o aclaraciones que, siendo necesarias para el esclarecimiento de los hechos, les sean solicitadas, y facilitando, previo aviso, el acceso a sus dependencias, salvo que éstas coincidan con su domicilio, en cuyo caso deberá obtenerse su expreso consentimiento o el mandato judicial correspondiente.
 
-CAPÍTULO II
-
-Normas específicas de aplicación por la Administración General del Estado
+## Capítulo II. Normas específicas de aplicación por la Administración General del Estado.
 
 #### Artículo 94. Competencia de la Administración General del Estado.
 
 A los efectos de esta ley, la competencia para el ejercicio de la potestad sancionadora corresponderá a la Administración General del Estado cuando las conductas infractoras se proyecten en un ámbito territorial superior al de una comunidad autónoma.
 
-Sección 1.ª Infracciones y sanciones
+#### Sección 1. ª Infracciones y sanciones
 
 #### Artículo 95. Infracciones.
 
@@ -1115,11 +1063,7 @@ c) Las infracciones muy graves con multas, en su grado mínimo, de 90.001 a 300.
 
 El cómputo del plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución, y se interrumpirá en la fecha de notificación a la persona interesada de la iniciación del procedimiento de ejecución, reanudándose el cómputo del plazo si aquél está paralizado durante seis meses por causa no imputable a la persona infractora.
 
-Sección 2.ª Procedimiento sancionador
-
-#### Artículo 99. Normativa de aplicación.
-
-Las infracciones y sanciones en el ámbito de las competencias de la Administración General del Estado, se regirán por el procedimiento sancionador previsto en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en su normativa de desarrollo.
+#### Sección 2. ª Procedimiento sancionador artículo 99 Normativa de aplicación. Las infracciones y sanciones en el ámbito de las competencias de la Administración General del Estado, se regirán por el procedimiento sancionador previsto en el Título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en su normativa de desarrollo.
 
 #### Artículo 100. Actuaciones previas.
 
@@ -1153,7 +1097,7 @@ b) A la Oficina de Atención a la Discapacidad.
 
 Estas actuaciones se realizarán en todo caso de conformidad con lo establecido en la legislación de protección de datos personales, para lo cual los citados órganos únicamente podrán tratar los datos en los términos previstos en el artículo 4.2 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre.
 
-Sección 3.ª Órganos competentes
+#### Sección 3. ª Órganos competentes
 
 #### Artículo 105. Autoridades competentes.
 
@@ -1293,11 +1237,10 @@ Asimismo, en el caso de las enseñanzas universitarias, el Gobierno fomentará q
 
 2. En el plazo de dos años desde la entrada en vigor de esta ley, el Gobierno aprobará unas condiciones básicas de accesibilidad y no discriminación, según lo previsto en el artículo 29, para el acceso y utilización de los bienes y servicios a disposición del público por las personas con discapacidad.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -1314,6 +1257,7 @@ Asimismo, en el caso de las enseñanzas universitarias, el Gobierno fomentará q
 - **Fundamento de**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)

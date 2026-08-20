@@ -1,12 +1,10 @@
 ---
 id: norm-es-2015-8470
 codigo_sintetizado: BOE-A-2015-8470
-titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la
-  infancia y a la adolescencia.
+titulo: Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-07-29'
 boletin: BOE
@@ -17,55 +15,52 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Protección jurídica de menores
 tags:
-- bienestar-infantil
-- curriculo
-- protecci-n-jur-dica-de-menores
-- proteccion-menores
+  - bienestar-infantil
+  - curriculo
+  - protecci-n-jur-dica-de-menores
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2013-13756
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2013-13756
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-res-boc-2017-132-1
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-2000-544
-- norma_id: norm-es-lo-1-1996
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-2013-13756
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-lo-1-2004
+    - '1'
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2013-13756
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-lo-1-2004
 ---
+# Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 ## Preámbulo
-
-# Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
-
-# Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**
 
@@ -75,13 +70,11 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-## PREÁMBULO
-
 **I**
 
 La Constitución Española establece en su artículo 39 la obligación de los poderes públicos de asegurar la protección social, económica y jurídica de la familia, y en especial de los menores de edad, de conformidad con los acuerdos internacionales que velan por sus derechos.
 
-Entre estos acuerdos e instrumentos internacionales destacan dos Convenciones de Naciones Unidas, la Convención sobre los Derechos del Niño, de 20 de noviembre de 1989, ratificada el 30 de noviembre de 1990 y sus Protocolos facultativos, y la Convención de los Derechos de las Personas con Discapacidad, de 13 de diciembre de 2006, instrumento de ratificación de 23 noviembre de 2007. Además, resultan reseñables dos Convenios impulsados por la Conferencia de La Haya de Derecho internacional privado: el Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, de 29 de mayo de 1993, ratificado el de 30 de junio de 1995 y el Convenio relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños, de 28 de mayo de 2010, ratificado el 6 de septiembre de 2010. Por otra parte, deben destacarse también tres Convenios del Consejo de Europa, el relativo a la adopción de menores, hecho en Estrasburgo el 27 de noviembre de 2008, ratificado el 16 de julio de 2010, el relativo a la protección de los niños contra la explotación y el abuso sexual, hecho en Lanzarote el 25 de octubre de 2007, ratificado el 22 de julio de 2010, así como el Convenio Europeo sobre el Ejercicio de los Derechos de los Niños, hecho en Estrasburgo el 25 de enero de 1996, ratificado el 11 de noviembre de 2014. Y, finalmente, el Reglamento (CE) n.º 2201/2003 del Consejo de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000.
+Entre estos acuerdos e instrumentos internacionales destacan dos Convenciones de Naciones Unidas, la Convención sobre los Derechos del Niño, de 20 de noviembre de 1989, ratificada el 30 de noviembre de 1990 y sus Protocolos facultativos, y la Convención de los Derechos de las Personas con Discapacidad, de 13 de diciembre de 2006, instrumento de ratificación de 23 noviembre de 2007. Además, resultan reseñables dos Convenios impulsados por la Conferencia de La Haya de Derecho internacional privado: el Convenio relativo a la protección del niño y a la cooperación en materia de adopción internacional, de 29 de mayo de 1993, ratificado el de 30 de junio de 1995 y el Convenio relativo a la competencia, la ley aplicable, el reconocimiento, la ejecución y la cooperación en materia de responsabilidad parental y de medidas de protección de los niños, de 28 de mayo de 2010, ratificado el 6 de septiembre de 2010. Por otra parte, deben destacarse también tres Convenios del Consejo de Europa, el relativo a la adopción de menores, hecho en Estrasburgo el 27 de noviembre de 2008, ratificado el 16 de julio de 2010, el relativo a la protección de los niños contra la explotación y el abuso sexual, hecho en Lanzarote el 25 de octubre de 2007, ratificado el 22 de julio de 2010, así como el Convenio Europeo sobre el Ejercicio de los Derechos de los Niños, hecho en Estrasburgo el 25 de enero de 1996, ratificado el 11 de noviembre de 2014. Y, finalmente, el Reglamento (CE) n.º 2201/2003 del Consejo de 27 de noviembre de 2003, relativo a la competencia, el reconocimiento y la ejecución de resoluciones judiciales en materia matrimonial y de responsabilidad parental, por el que se deroga el Reglamento (CE) n.º 1347/2000.
 
 La [Ley Orgánica 1/1996](LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor de modificación parcial del código Civil y de la Ley de Enjuiciamiento Civil, en adelante Ley Orgánica de Protección Jurídica del Menor constituye, junto a las previsiones del código Civil en esta materia, el principal marco regulador de los derechos de los menores de edad, garantizándoles una protección uniforme en todo el territorio del Estado. Esta ley ha sido el referente de la legislación que las Comunidades Autónomas han ido aprobando posteriormente, de acuerdo con sus competencias en esta materia.
 
@@ -105,23 +98,33 @@ Asimismo, se introduce una mención expresa a la alfabetización digital y medi�
 
 Se introduce un nuevo capítulo III en el título I con la rúbrica «Deberes del menor», en línea con diversas normas internacionales y también autonómicas, en el que, desde la concepción de los menores como ciudadanos, se les reconoce como corresponsables de las sociedades en las que participan y, por tanto, no solo titulares de derechos sino también de deberes. En este sentido, se introducen cuatro nuevos artículos en los que se regulan los deberes de los menores en general y en los ámbitos familiar, escolar y social en particular.
 
-En el artículo 10 se refuerzan las medidas para facilitar el ejercicio de los derechos de los menores y se establece un marco regulador adecuado de los relativos a los menores extranjeros, reconociendo, respecto de los que se encuentren en España y con independencia de su situación administrativa, sus derechos a la educación, a la asistencia sanitaria y a los servicios sociales, tal y como se recogen en la [Ley Orgánica 4/2000](LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, y en la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+En el artículo 10 se.
+
+refuerzan las medidas para facilitar el ejercicio de los derechos de los menores y se establece un marco regulador adecuado de los relativos a los menores extranjeros, reconociendo, respecto de los que se encuentren en España y con independencia de su situación administrativa, sus derechos a la educación, a la asistencia sanitaria y a los servicios sociales, tal y como se recogen en la [Ley Orgánica 4/2000](LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, y en la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
 
 Asimismo, se reconoce el derecho a obtener la preceptiva documentación de residencia a todos los menores extranjeros que estén tutelados por las Entidades Públicas una vez que haya quedado acreditada la imposibilidad de retorno con su familia o al país de origen.
 
-En el artículo 11 se introduce como principio rector de la actuación administrativa la protección de los menores contra cualquier forma de violencia, incluida la producida en su entorno familiar, de género, la trata y el tráfico de seres humanos y la mutilación genital femenina, entre otras. De acuerdo con ello, los poderes públicos desarrollarán actuaciones de sensibilización, prevención, asistencia y protección frente a cualquier forma de maltrato infantil, estableciendo los procedimientos que aseguren la coordinación entre las Administraciones Públicas competentes.
+En el artículo 11 se.
 
-En estrecha relación con lo anterior, en el artículo 12 se garantiza el apoyo necesario para que los menores bajo la patria potestad, tutela, guarda o acogimiento de una víctima de violencia de género o doméstica puedan permanecer con la misma. Asimismo, se introduce la presunción de minoría de edad de una persona cuya mayoría de edad no haya podido establecerse con seguridad, hasta que se determine finalmente la misma.
+introduce como principio rector de la actuación administrativa la protección de los menores contra cualquier forma de violencia, incluida la producida en su entorno familiar, de género, la trata y el tráfico de seres humanos y la mutilación genital femenina, entre otras. De acuerdo con ello, los poderes públicos desarrollarán actuaciones de sensibilización, prevención, asistencia y protección frente a cualquier forma de maltrato infantil, estableciendo los procedimientos que aseguren la coordinación entre las Administraciones Públicas competentes.
+
+En estrecha relación con lo anterior, en el artículo 12 se.
+
+garantiza el apoyo necesario para que los menores bajo la patria potestad, tutela, guarda o acogimiento de una víctima de violencia de género o doméstica puedan permanecer con la misma. Asimismo, se introduce la presunción de minoría de edad de una persona cuya mayoría de edad no haya podido establecerse con seguridad, hasta que se determine finalmente la misma.
 
 En este mismo artículo se recogen los principios rectores de la reforma de las instituciones de protección a la infancia y a la adolescencia señalando que se dará prioridad a las medidas estables frente a las temporales, a las familiares frente a las residenciales y a las consensuadas frente a las impuestas. Estos principios, vertebradores del sistema, ya habían sido establecidos en las Directrices sobre las modalidades alternativas de cuidado de los niños de la Asamblea General de Naciones Unidas, de 24 de febrero de 2010, y en diversos documentos aprobados por el Servicio Social Internacional. Además, en el artículo 12, se recoge otro de los ejes de esta reforma, como es la obligación de las Entidades Públicas de revisar, en plazos concretos, las medidas de protección adoptadas. De esta manera se obliga a realizar un seguimiento personal de cada niño, niña o adolescente y una revisión de la medida de protección.
 
-En el artículo 13 se incorporan dos nuevos apartados en relación a los delitos contra la libertad e indemnidad sexual, trata de seres humanos y explotación de los menores. Por una parte, se establece el deber que tienen todas las personas que tuvieran noticia de un hecho que pudiera constituir un delito contra la libertad e indemnidad sexual, de trata de seres humanos o de explotación de menores, de ponerlo en conocimiento del Ministerio Fiscal. Se establece, además, como requisito para poder acceder y ejercer una profesión o actividad que implique contacto habitual con menores, no haber sido condenado por delitos contra la libertad e indemnidad sexual, trata de seres humanos o explotación de menores, dando con ello cumplimiento a los compromisos asumidos por España al ratificar el Convenio relativo a la Protección de los Niños contra la explotación y abuso sexual, de 25 de octubre de 2007, y a la Directiva del Parlamento Europeo y del Consejo 2011/93/UE, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
+En el artículo 13 se.
+
+incorporan dos nuevos apartados en relación a los delitos contra la libertad e indemnidad sexual, trata de seres humanos y explotación de los menores. Por una parte, se establece el deber que tienen todas las personas que tuvieran noticia de un hecho que pudiera constituir un delito contra la libertad e indemnidad sexual, de trata de seres humanos o de explotación de menores, de ponerlo en conocimiento del Ministerio Fiscal. Se establece, además, como requisito para poder acceder y ejercer una profesión o actividad que implique contacto habitual con menores, no haber sido condenado por delitos contra la libertad e indemnidad sexual, trata de seres humanos o explotación de menores, dando con ello cumplimiento a los compromisos asumidos por España al ratificar el Convenio relativo a la Protección de los Niños contra la explotación y abuso sexual, de 25 de octubre de 2007, y a la Directiva del Parlamento Europeo y del Consejo 2011/93/UE, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
 
 Directamente relacionado con lo anterior y a los efectos de prevención, se crea, dentro del sistema de registros administrativos de apoyo a la Administración de Justicia, el Registro Central de Delincuentes Sexuales que contendrá la identidad de los condenados por delitos contra la libertad e indemnidad sexual, trata de seres humanos, o explotación de menores, e información sobre su perfil genético de ADN. Con ello se pretende hacer posible un seguimiento y control de las personas condenadas por estos delitos no solo en España sino también en otros países. Asimismo, la Administración General del Estado colaborará con las autoridades competentes de los Estados miembros de la Unión Europea, para facilitar el intercambio de información en este ámbito.
 
 De acuerdo a los principios mencionados anteriormente, se opera la reforma de las instituciones de protección a la infancia y a la adolescencia, y se establece una regulación estatal más completa de las situaciones de riesgo y de desamparo, conceptos jurídicos indeterminados que, por vez primera, se definen en una normativa de rango estatal que básicamente incorpora, como contenido sustantivo de las mismas, lo que la jurisprudencia y la legislación autonómica habían recogido en estos años.
 
-Así, en el artículo 14 se regula la institución de la guarda provisional dentro de las medidas de atención inmediata, que posteriormente se desarrollará en el artículo 172 del código Civil.
+Así, en el artículo 14 se.
+
+regula la institución de la guarda provisional dentro de las medidas de atención inmediata, que posteriormente se desarrollará en el artículo 172 del código Civil.
 
 En relación con la situación de riesgo, y mediante la reforma del artículo 17, se desarrolla de forma integral esta figura y su procedimiento, cuestiones ambas que no estaban reguladas a nivel estatal. La intervención adecuada para paliar e intervenir en las situaciones de riesgo en que pueden encontrarse los menores se torna de capital importancia para preservar su superior interés, evitando en muchos casos que la situación se agrave, y que deban adoptarse decisiones mucho más traumáticas y de mayor coste individual, familiar y social, como la separación del menor de su familia.
 
@@ -129,27 +132,45 @@ La regulación prevé que el proyecto de actuación pueda ser consensuado con lo
 
 Especial relevancia se otorga a la intervención en las situaciones de posible riesgo prenatal a los efectos de evitar con posterioridad una eventual declaración de situación de riesgo o desamparo del recién nacido. También se prevé una solución para los casos de atención sanitaria necesaria para el menor no consentida por sus progenitores u otros responsables legales, que conlleva también la modificación de la Ley de la Autonomía del Paciente.
 
-Son dos las principales novedades respecto de la regulación del desamparo. En el artículo 18 se completa la definición de la situación de desamparo regulada en el artículo 172 del código Civil, estableciendo, por primera vez en una norma de carácter estatal, las circunstancias que la determinan, con lo que se introduce una importante clarificación y unificación de criterios para su declaración. Debe advertirse que a los efectos del apartado d), que establece como causa de desamparo el consumo habitual de sustancias con potencial adictivo por parte de progenitores, tutores o guardadores, se entiende como habitual los criterios de consumo perjudicial, abuso o dependencia, según las definiciones de la Organización Mundial de la Salud o de la Asociación Americana de Psiquiatría.
+Son dos las principales novedades respecto de la regulación del desamparo. En el artículo 18 se.
+
+completa la definición de la situación de desamparo regulada en el artículo 172 del código Civil, estableciendo, por primera vez en una norma de carácter estatal, las circunstancias que la determinan, con lo que se introduce una importante clarificación y unificación de criterios para su declaración. Debe advertirse que a los efectos del apartado d), que establece como causa de desamparo el consumo habitual de sustancias con potencial adictivo por parte de progenitores, tutores o guardadores, se entiende como habitual los criterios de consumo perjudicial, abuso o dependencia, según las definiciones de la Organización Mundial de la Salud o de la Asociación Americana de Psiquiatría.
 
 Además, se regula por vez primera la competencia de las Entidades Públicas respecto a la protección de los menores españoles en situación de desprotección en un país extranjero y el procedimiento a seguir en caso de traslado de un menor protegido desde una Comunidad Autónoma a otra distinta, cuestiones que no estaban contempladas hasta el momento.
 
-En el artículo 19 se establece la duración máxima de dos años de la guarda de menores solicitada por los progenitores, salvo que el interés superior aconseje excepcionalmente la prórroga de la misma. De esta manera, se pretende evitar que se hagan crónicas situaciones de guardas voluntarias en las que los progenitores ceden el cuidado de sus hijos a las Administraciones Públicas «sine die», privándoles por esta vía de soluciones familiares y permanentes, precisamente durante los años clave de la primera infancia.
+En el artículo 19 se.
 
-Debe destacarse el principio de la prioridad de la familia de origen, tanto a través de la ya mencionada regulación de la situación de riesgo, como cuando se señala, en el nuevo artículo 19 bis que, en los casos de guarda o tutela administrativa del menor, la Entidad Pública deberá elaborar un plan individual de protección en el que se incluirá un programa de reintegración familiar, cuando ésta última sea posible. Este artículo incorpora los criterios que la sentencia 565/2009, de 31 de julio de 2009, del Tribunal Supremo ha establecido para decidir si la reintegración familiar procede en interés superior del menor, entre los que destacan el paso del tiempo o la integración en la familia de acogida. En este mismo artículo se prevé la reagrupación familiar de los menores extranjeros no acompañados.
+establece la duración máxima de dos años de la guarda de menores solicitada por los progenitores, salvo que el interés superior aconseje excepcionalmente la prórroga de la misma. De esta manera, se pretende evitar que se hagan crónicas situaciones de guardas voluntarias en las que los progenitores ceden el cuidado de sus hijos a las Administraciones Públicas «sine die», privándoles por esta vía de soluciones familiares y permanentes, precisamente durante los años clave de la primera infancia.
 
-En el artículo 20, a fin de favorecer la agilidad y preservar el interés de los menores, se simplifica la constitución del acogimiento familiar, equiparándolo al residencial, incluso aunque no exista previa conformidad de los progenitores o tutores, sin perjuicio del control jurisdiccional del mismo. Por otra parte, y por razones de técnica jurídica y mejora de ubicación, se traslada al artículo 20 lo establecido hasta ahora en el artículo 173 del código Civil sobre formalización del acogimiento y contenido del documento anexo que debe acompañar al mismo, y se introduce la necesidad, como ocurre en la adopción, de que se valore la adecuación de los acogedores, y se definen los criterios de la misma, criterios que no estaban hasta ahora recogidos en la normativa estatal. Además, se definen, de forma más acorde con la realidad de la protección de menores actual, los dos tipos de acogimiento en relación con las características de la familia acogedora, refiriéndose al acogimiento en la propia familia extensa del menor o en familia ajena.
+Debe destacarse el principio de la prioridad de la familia de origen, tanto a través de la ya mencionada regulación de la situación de riesgo, como cuando se señala, en el nuevo
 
-En el artículo 20 bis, por vez primera, se regula el estatuto del acogedor familiar como conjunto de derechos y deberes. La trascendente función desempeñada por las familias de acogida hace muy conveniente que una disposición general perfile su estatus y así se había destacado en las conclusiones de la Comisión Especial del Senado de Estudio de la problemática de la adopción nacional y otros temas afines. Asimismo, se ha incluido un artículo 21 bis en el que se recogen los derechos de los menores acogidos.
+#### Artículo 19 bis. que,.
 
-En relación al acogimiento residencial, el artículo 21 recoge la previsión de la prioridad del acogimiento familiar respecto al residencial. Se trata de una disposición ambiciosa cuyo fundamento estriba en que el menor necesita un ambiente familiar para un adecuado desarrollo de su personalidad, aspecto éste en el que existe total consenso entre los psicólogos y pedagogos. Si este objetivo es común para todos, cuando son menores de seis años, y de forma aún más señalada e imprescindible si son menores de tres, la conveniencia se torna en necesidad ineludible, sin perjuicio de introducir una previsión flexible para dar cobertura a los supuestos en los que, por motivos debidamente justificados, el ingreso en centro de protección sea la única medida de la que se disponga, o cuando el acogimiento residencial convenga al interés superior del menor.
+en los casos de guarda o tutela administrativa del menor, la Entidad Pública deberá elaborar un plan individual de protección en el que se incluirá un programa de reintegración familiar, cuando ésta última sea posible. Este artículo incorpora los criterios que la sentencia 565/2009, de 31 de julio de 2009, del Tribunal Supremo ha establecido para decidir si la reintegración familiar procede en interés superior del menor, entre los que destacan el paso del tiempo o la integración en la familia de acogida. En este mismo artículo se prevé la reagrupación familiar de los menores extranjeros no acompañados.
+
+En el artículo 20, a fin de favorecer la agilidad y preservar el interés de los menores, se simplifica la constitución del acogimiento familiar, equiparándolo al residencial, incluso aunque no exista previa conformidad de los progenitores o tutores, sin perjuicio del control jurisdiccional del mismo. Por otra parte, y por razones de técnica jurídica y mejora de ubicación, se traslada al artículo 20 lo.
+
+establecido hasta ahora en el artículo 173 del código Civil sobre formalización del acogimiento y contenido del documento anexo que debe acompañar al mismo, y se introduce la necesidad, como ocurre en la adopción, de que se valore la adecuación de los acogedores, y se definen los criterios de la misma, criterios que no estaban hasta ahora recogidos en la normativa estatal. Además, se definen, de forma más acorde con la realidad de la protección de menores actual, los dos tipos de acogimiento en relación con las características de la familia acogedora, refiriéndose al acogimiento en la propia familia extensa del menor o en familia ajena.
+
+En el artículo 20 bis,.
+
+por vez primera, se regula el estatuto del acogedor familiar como conjunto de derechos y deberes. La trascendente función desempeñada por las familias de acogida hace muy conveniente que una disposición general perfile su estatus y así se había destacado en las conclusiones de la Comisión Especial del Senado de Estudio de la problemática de la adopción nacional y otros temas afines. Asimismo, se ha incluido un artículo 21 bis en el que se recogen los derechos de los menores acogidos.
+
+En relación al acogimiento residencial, el artículo 21 recoge.
+
+la previsión de la prioridad del acogimiento familiar respecto al residencial. Se trata de una disposición ambiciosa cuyo fundamento estriba en que el menor necesita un ambiente familiar para un adecuado desarrollo de su personalidad, aspecto éste en el que existe total consenso entre los psicólogos y pedagogos. Si este objetivo es común para todos, cuando son menores de seis años, y de forma aún más señalada e imprescindible si son menores de tres, la conveniencia se torna en necesidad ineludible, sin perjuicio de introducir una previsión flexible para dar cobertura a los supuestos en los que, por motivos debidamente justificados, el ingreso en centro de protección sea la única medida de la que se disponga, o cuando el acogimiento residencial convenga al interés superior del menor.
 
 Por otra parte, y en lo relativo a los servicios de acogimiento residencial (denominados hasta ahora servicios especializados y ahora llamados «acogimiento residencial» para utilizar una terminología equivalente a la de «acogimiento familiar»), se establecen con carácter general sus características básicas, su necesario ajuste a criterios de calidad y el carácter preferente de las soluciones familiares.
 
 Asimismo, todos los centros de acogimiento residencial que presten servicios dirigidos a menores en el ámbito de la protección deberán estar siempre habilitados administrativamente por la Entidad Pública.
 
-Por otra parte, el artículo 22 bis recoge la obligación de la Administración de preparar para la vida independiente a los jóvenes ex tutelados, cuestión de gran calado social y de la que ya hay buenas prácticas de Entidades Públicas y del Tercer Sector de acción social en España.
+Por otra parte, el artículo 22 bis recoge.
 
-El artículo 22 ter establece la creación de un sistema de información estatal sobre protección de menores a realizar por las Entidades Públicas y la Administración General del Estado que permitirá el conocimiento y el seguimiento de la situación de la protección de la infancia y la adolescencia en España, no solo a efectos estadísticos sino también de seguimiento concreto de las medidas de protección adoptadas respecto de cada menor, así como de las personas que se ofrecen para el acogimiento y la adopción. El artículo 22 quáter introduce normas que regulan el tratamiento de datos de carácter personal de los menores atendiendo a su interés superior y el artículo 22 quinquies establece la obligación de valorar el impacto en la infancia y adolescencia en todos los proyectos normativos.
+la obligación de la Administración de preparar para la vida independiente a los jóvenes ex tutelados, cuestión de gran calado social y de la que ya hay buenas prácticas de Entidades Públicas y del Tercer Sector de acción social en España.
+
+El artículo 22 ter establece.
+
+la creación de un sistema de información estatal sobre protección de menores a realizar por las Entidades Públicas y la Administración General del Estado que permitirá el conocimiento y el seguimiento de la situación de la protección de la infancia y la adolescencia en España, no solo a efectos estadísticos sino también de seguimiento concreto de las medidas de protección adoptadas respecto de cada menor, así como de las personas que se ofrecen para el acogimiento y la adopción. El artículo 22 quáter introduce normas que regulan el tratamiento de datos de carácter personal de los menores atendiendo a su interés superior y el artículo 22 quinquies establece la obligación de valorar el impacto en la infancia y adolescencia en todos los proyectos normativos.
 
 Finalmente, los artículos 23 y 24 sufren reformas terminológicas.
 
@@ -159,57 +180,89 @@ Las principales modificaciones del código Civil están referidas al sistema esp
 
 Se reforman, en primer lugar, las normas de Derecho internacional privado, en concreto los apartados 4, 6 y 7 del artículo 9, normas de conflicto relativas a la ley aplicable a la filiación, a la protección de menores y mayores y a las obligaciones de alimentos. Estas modificaciones responden, por un lado, a la incorporación de normas comunitarias o internacionales y adaptaciones terminológicas a las mismas y, por otro, a mejoras técnicas en la determinación de los supuestos de hecho o de los puntos de conexión y su precisión temporal.
 
-Se introduce un nuevo apartado en el artículo 19 para prever el reconocimiento, por parte del ordenamiento jurídico español, de la doble nacionalidad en supuestos de adopción internacional, en los cuales la legislación del país de origen del menor adoptado prevé la conservación de su nacionalidad de origen.
+Se introduce un nuevo apartado en el artículo 19 para.
 
-Por otra parte, se modifican las normas sobre acciones de filiación. La regulación que se propone responde a que el primer párrafo del artículo 133 ha sido declarado inconstitucional, en cuanto impide al progenitor no matrimonial la reclamación de la filiación en los casos de inexistencia de posesión de estado (sentencias del Tribunal Constitucional número 273/2005, de 27 de octubre de 2005, y número 52/2006, de 16 de febrero).
+prever el reconocimiento, por parte del ordenamiento jurídico español, de la doble nacionalidad en supuestos de adopción internacional, en los cuales la legislación del país de origen del menor adoptado prevé la conservación de su nacionalidad de origen.
 
-En parecidos términos ha sido declarado inconstitucional el primer párrafo del artículo 136, en cuanto comporta que el plazo para el ejercicio de la acción de impugnación de la paternidad matrimonial empiece a correr aunque el marido ignore no ser el progenitor biológico de quien ha sido inscrito como hijo suyo en el Registro Civil (sentencias del Tribunal Constitucional 138/2005, de 26 de mayo de 2005 y 156/2005, de 9 de junio de 2005), siendo ésta la principal razón de la reforma que se propone. Se completa el cuadro de reformas en este punto con las recogidas en los artículos 137, 138 y 140 del código Civil.
+Por otra parte, se modifican las normas sobre acciones de filiación. La regulación que se propone responde a que el primer párrafo del artículo 133 ha.
 
-Se opera una modificación del artículo 158 del código Civil, partiendo del principio de agilidad e inmediatez aplicables a los incidentes cautelares que afecten a menores, para evitar perjuicios innecesarios que puedan derivarse de rigideces o encorsetamientos procesales, permitiendo adoptar mecanismos protectores, tanto respecto al menor víctima de los malos tratos como en relación con los que, sin ser víctimas, puedan encontrarse en situación de riesgo. Con la modificación del artículo 158 se posibilita la adopción de nuevas medidas, prohibición de aproximación y de comunicación, en las relaciones paterno-filiales.
+sido declarado inconstitucional, en cuanto impide al progenitor no matrimonial la reclamación de la filiación en los casos de inexistencia de posesión de estado (sentencias del Tribunal Constitucional número 273/2005, de 27 de octubre de 2005, y número 52/2006, de 16 de febrero).
 
-El artículo 160 amplía el derecho del menor a relacionarse con sus parientes incluyendo expresamente a los hermanos.
+En parecidos términos ha sido declarado inconstitucional el primer párrafo del artículo 136, en cuanto comporta que el plazo para el ejercicio de la acción de impugnación de la paternidad matrimonial empiece a correr aunque el marido ignore no ser el progenitor biológico de quien ha sido inscrito como hijo suyo en el Registro Civil (sentencias del Tribunal Constitucional 138/2005, de 26 de mayo de 2005 y 156/2005, de 9 de junio de 2005), siendo ésta la principal razón de la reforma que se propone. Se completa el cuadro de reformas en este punto con las recogidas en los artículos 137, 138 y 140 del código Civil.
+
+Se opera una modificación del artículo 158 l.
+
+código Civil, partiendo del principio de agilidad e inmediatez aplicables a los incidentes cautelares que afecten a menores, para evitar perjuicios innecesarios que puedan derivarse de rigideces o encorsetamientos procesales, permitiendo adoptar mecanismos protectores, tanto respecto al menor víctima de los malos tratos como en relación con los que, sin ser víctimas, puedan encontrarse en situación de riesgo. Con la modificación del artículo 158 se posibilita la adopción de nuevas medidas, prohibición de aproximación y de comunicación, en las relaciones paterno-filiales.
+
+El artículo 160 amplía.
+
+el derecho del menor a relacionarse con sus parientes incluyendo expresamente a los hermanos.
 
 En relación con la regulación del régimen de visitas y comunicaciones, con la modificación efectuada en el artículo 161, se aclara la competencia de la Entidad Pública para establecer por resolución motivada el régimen de visitas y comunicaciones respecto a los menores en situación de tutela o guarda, así como su suspensión temporal, informando de ello al Ministerio Fiscal. Debe tenerse en cuenta que el reconocimiento internacional del derecho del niño a mantener contacto directo y regular con ambos progenitores, salvo que ello sea contrario a su superior interés (artículo 9.3 de la Convención de Derechos del Niño), se extiende también a los menores separados de su familia por la Entidad Pública.
 
-En relación con la regulación del desamparo, y además de lo previsto en el artículo 18 de la Ley Orgánica de Protección Jurídica del Menor ya citado, el anterior artículo 172 del código Civil se desdobla en tres artículos al objeto de separar la regulación de las situaciones de desamparo (artículo 172), de la guarda a solicitud de los progenitores o tutores (artículo 172 bis) y de las medidas de la intervención en ambos supuestos (artículo 172 ter) mediante el acogimiento residencial y familiar.
+En relación con la regulación del desamparo, y además de lo previsto en el artículo 18 de la Ley Orgánica de Protección Jurídica del Menor ya citado, el anterior artículo 172 del código Civil se desdobla en tres artículos al objeto de separar la regulación de las situaciones de desamparo (artículo 172), de la guarda a solicitud de los progenitores o tutores (artículo 172 bis) y de las medidas de la intervención en ambos supuestos (artículo 172 ter) mediante el acogimiento residencial y familiar.
 
-En relación con el artículo 172 se mantiene la legitimación de los progenitores para promover la revocación de la resolución administrativa de desamparo y para oponerse a las decisiones que se adopten respecto a la protección del menor durante el plazo de dos años desde la notificación, añadiéndose que transcurridos esos dos años únicamente estará legitimado el Ministerio Fiscal para impugnar las resoluciones que sobre el menor dicte la Entidad Pública. Por otra parte, se señala que durante ese periodo de dos años las Entidades Públicas, ponderando la situación, podrán adoptar cualquier medida de protección que consideren necesaria, incluida la propuesta de adopción, cuando exista un pronóstico de irreversibilidad.
+En relación con el artículo 172 se.
+
+mantiene la legitimación de los progenitores para promover la revocación de la resolución administrativa de desamparo y para oponerse a las decisiones que se adopten respecto a la protección del menor durante el plazo de dos años desde la notificación, añadiéndose que transcurridos esos dos años únicamente estará legitimado el Ministerio Fiscal para impugnar las resoluciones que sobre el menor dicte la Entidad Pública. Por otra parte, se señala que durante ese periodo de dos años las Entidades Públicas, ponderando la situación, podrán adoptar cualquier medida de protección que consideren necesaria, incluida la propuesta de adopción, cuando exista un pronóstico de irreversibilidad.
 
 En este mismo artículo se establece la posibilidad de asumir la guarda provisional sin declaración previa de desamparo ni solicitud expresa de los progenitores, mientras tienen lugar las diligencias precisas para la identificación del menor, la investigación de sus circunstancias y la constatación de la situación real de desamparo. La guarda provisional, aunque imprescindible para atender situaciones de urgencia, debe tener límites temporales pues en otro caso podrían generarse situaciones de inseguridad jurídica. Por ello, se prevén las obligaciones de las Entidades y el papel a desempeñar por el Ministerio Fiscal, como superior vigilante de la actuación administrativa. Además, se prevén nuevos supuestos de cese de la tutela administrativa que responden a la creciente movilidad de algunos menores protegidos.
 
 En relación con la guarda voluntaria, en estrecha conexión con el artículo 19 de la Ley Orgánica de Protección Jurídica del Menor, en el artículo 172 bis se establece que la guarda a petición de los progenitores no podrá sobrepasar el plazo máximo de dos años, salvo prórroga por concurrir circunstancias excepcionales, transcurrido el cual, o la prórroga, el menor debe regresar con sus progenitores o tutores o ser dictada una nueva medida de protección permanente.
 
-En el artículo 172 ter se recoge la prioridad del acogimiento familiar respecto al residencial, y se regula también la posibilidad de acordar, por las Entidades Públicas, estancias, salidas de fin de semana o vacaciones con familias, de origen o alternativas, o instituciones adecuadas para los menores en acogimiento y se establece la posibilidad de que, en los casos de desamparo o guarda a petición de los progenitores, la Entidad Pública pueda fijar una cantidad a abonar por los progenitores o tutores en concepto de alimentos y gastos de cuidado y atención del menor.
+En el artículo 172 ter se.
 
-Tras algunas leves modificaciones en el artículo 173, el artículo 173 bis redefine las modalidades de acogimiento familiar en función de su duración. Se suprime el acogimiento provisional, que ya no será necesario ante la simplificación del acogimiento familiar, así como el acogimiento preadoptivo que, en definitiva, es actualmente una fase del procedimiento de adopción. Con ello se introduce claridad en los verdaderos supuestos de acogimiento familiar, que quedarán concretados en acogimiento de urgencia, acogimiento temporal (hasta ahora denominado simple), con una duración máxima de dos años, salvo que el interés superior del menor aconseje una prórroga, y acogimiento permanente.
+recoge la prioridad del acogimiento familiar respecto al residencial, y se regula también la posibilidad de acordar, por las Entidades Públicas, estancias, salidas de fin de semana o vacaciones con familias, de origen o alternativas, o instituciones adecuadas para los menores en acogimiento y se establece la posibilidad de que, en los casos de desamparo o guarda a petición de los progenitores, la Entidad Pública pueda fijar una cantidad a abonar por los progenitores o tutores en concepto de alimentos y gastos de cuidado y atención del menor.
+
+Tras algunas leves modificaciones en el artículo 173, el artículo 173 bis redefine.
+
+las modalidades de acogimiento familiar en función de su duración. Se suprime el acogimiento provisional, que ya no será necesario ante la simplificación del acogimiento familiar, así como el acogimiento preadoptivo que, en definitiva, es actualmente una fase del procedimiento de adopción. Con ello se introduce claridad en los verdaderos supuestos de acogimiento familiar, que quedarán concretados en acogimiento de urgencia, acogimiento temporal (hasta ahora denominado simple), con una duración máxima de dos años, salvo que el interés superior del menor aconseje una prórroga, y acogimiento permanente.
 
 Las altas funciones que se encomiendan al Ministerio Fiscal, como superior vigilante de la actuación administrativa en protección de menores, deben verse acompañadas de los suficientes medios a fin de que pueda ejercerlas de manera efectiva, evitando que sus esfuerzos queden limitados a un simple voluntarismo carente de operatividad práctica o que su actuación sea meramente simbólica. A tales efectos, expresamente se le asigna la posibilidad de solicitar informes adicionales a los presentados por la Entidad Pública.
 
-En el artículo 175 y en relación con la capacidad de los adoptantes, se establece la incapacidad para adoptar de aquellos que no pudieran ser tutores, y, además de la previsión sobre la diferencia de edad mínima entre adoptante y adoptado, se establece también una diferencia de edad máxima para evitar que las discrepancias que existen en la normativa autonómica sobre edades máximas en la idoneidad, provoquen distorsiones no deseables.
+En el artículo 175 y en.
 
-Por otra parte, se incorpora al artículo 176 una definición de la idoneidad para adoptar a fin de fortalecer la seguridad jurídica, y se incluye expresamente una previsión en función de la cual no podrán ser declarados idóneos para la adopción los progenitores que se encuentren privados de la patria potestad o tengan suspendido su ejercicio, o hayan confiado la guarda de su hijo a una Entidad Pública. En relación con la actuación de la Entidad Pública en el procedimiento judicial de adopción, se producen dos importantes novedades. En primer lugar, se exige que la declaración de idoneidad de los adoptantes sea necesariamente previa a la propuesta de adopción que la Entidad Pública formula al Juez, cuestión que no estaba claramente establecida; y, en segundo lugar, se modifican los supuestos en los que no es preceptiva la propuesta previa de la Entidad Pública de protección de menores para iniciar el expediente judicial de adopción.
+relación con la capacidad de los adoptantes, se establece la incapacidad para adoptar de aquellos que no pudieran ser tutores, y, además de la previsión sobre la diferencia de edad mínima entre adoptante y adoptado, se establece también una diferencia de edad máxima para evitar que las discrepancias que existen en la normativa autonómica sobre edades máximas en la idoneidad, provoquen distorsiones no deseables.
 
-Se introduce un artículo 176 bis que regula «ex novo» la guarda con fines de adopción. Esta previsión legal permitirá que, con anterioridad a que la Entidad Pública formule la correspondiente propuesta al Juez para la constitución de la adopción, pueda iniciarse la convivencia provisional entre el menor y las personas consideradas idóneas para tal adopción hasta que se dicte la oportuna resolución judicial, con el fin de evitar que el menor tenga que permanecer durante ese tiempo en un centro de protección o con otra familia. Esto podrá tener lugar mediante la correspondiente delegación de guarda de la Entidad Pública.
+Por otra parte, se incorpora al artículo 176 una.
 
-En relación con el procedimiento de adopción, el artículo 177 añade, entre quienes deben asentir a la adopción, a la persona a la que esté unida por análoga relación de afectividad a la conyugal. Por otra parte, con el fin de dar coherencia al sistema, se señala que, sin perjuicio del derecho a ser oídos, no será necesario el asentimiento de los progenitores para la adopción cuando hubieran transcurrido dos años sin ejercitar acciones de revocación de la situación de desamparo o cuando habiéndose ejercitado, éstas hubieran sido desestimadas. Igualmente se establece, en este artículo, que el asentimiento de la madre no podrá prestarse hasta que hayan transcurrido 6 semanas desde el parto, en lugar de los 30 días ahora vigentes, dando así cumplimiento a lo dispuesto en el Convenio Europeo de Adopción hecho en Estrasburgo el 27 de noviembre de 2008 y ratificado por España.
+definición de la idoneidad para adoptar a fin de fortalecer la seguridad jurídica, y se incluye expresamente una previsión en función de la cual no podrán ser declarados idóneos para la adopción los progenitores que se encuentren privados de la patria potestad o tengan suspendido su ejercicio, o hayan confiado la guarda de su hijo a una Entidad Pública. En relación con la actuación de la Entidad Pública en el procedimiento judicial de adopción, se producen dos importantes novedades. En primer lugar, se exige que la declaración de idoneidad de los adoptantes sea necesariamente previa a la propuesta de adopción que la Entidad Pública formula al Juez, cuestión que no estaba claramente establecida; y, en segundo lugar, se modifican los supuestos en los que no es preceptiva la propuesta previa de la Entidad Pública de protección de menores para iniciar el expediente judicial de adopción.
 
-En el artículo 178 se incluye, como una importante novedad, la posibilidad de que, a pesar de que al constituirse la adopción se extingan los vínculos jurídicos entre el adoptado y su familia de procedencia, pueda mantenerse con algún miembro de ella alguna forma de relación o contacto a través de visitas o de comunicaciones, lo que podría denominarse como adopción abierta. Para ello será necesario que en la resolución de constitución de la adopción así se acuerde por el Juez, a propuesta de la Entidad Pública, previa valoración positiva en interés del menor por parte de los profesionales de esa Entidad Pública, y consentido por la familia adoptiva y el menor que tenga suficiente madurez y, en todo caso, si tuviera más de doce años. Los profesionales de la Entidad Pública deberán apoyar a las partes y participar en el seguimiento de esa relación, informando sobre la conveniencia o no de su permanencia en el tiempo, a partir de una valoración de los resultados y consecuencias que la misma tenga para el menor, como prioridad absoluta, más allá del interés que pueda suponer para los adoptantes y su familia de origen.
+Se introduce un
+
+#### Artículo 176 bis. que.
+
+regula «ex novo» la guarda con fines de adopción. Esta previsión legal permitirá que, con anterioridad a que la Entidad Pública formule la correspondiente propuesta al Juez para la constitución de la adopción, pueda iniciarse la convivencia provisional entre el menor y las personas consideradas idóneas para tal adopción hasta que se dicte la oportuna resolución judicial, con el fin de evitar que el menor tenga que permanecer durante ese tiempo en un centro de protección o con otra familia. Esto podrá tener lugar mediante la correspondiente delegación de guarda de la Entidad Pública.
+
+En relación con el procedimiento de adopción, el artículo 177 añade,.
+
+entre quienes deben asentir a la adopción, a la persona a la que esté unida por análoga relación de afectividad a la conyugal. Por otra parte, con el fin de dar coherencia al sistema, se señala que, sin perjuicio del derecho a ser oídos, no será necesario el asentimiento de los progenitores para la adopción cuando hubieran transcurrido dos años sin ejercitar acciones de revocación de la situación de desamparo o cuando habiéndose ejercitado, éstas hubieran sido desestimadas. Igualmente se establece, en este artículo, que el asentimiento de la madre no podrá prestarse hasta que hayan transcurrido 6 semanas desde el parto, en lugar de los 30 días ahora vigentes, dando así cumplimiento a lo dispuesto en el Convenio Europeo de Adopción hecho en Estrasburgo el 27 de noviembre de 2008 y ratificado por España.
+
+En el artículo 178 se.
+
+incluye, como una importante novedad, la posibilidad de que, a pesar de que al constituirse la adopción se extingan los vínculos jurídicos entre el adoptado y su familia de procedencia, pueda mantenerse con algún miembro de ella alguna forma de relación o contacto a través de visitas o de comunicaciones, lo que podría denominarse como adopción abierta. Para ello será necesario que en la resolución de constitución de la adopción así se acuerde por el Juez, a propuesta de la Entidad Pública, previa valoración positiva en interés del menor por parte de los profesionales de esa Entidad Pública, y consentido por la familia adoptiva y el menor que tenga suficiente madurez y, en todo caso, si tuviera más de doce años. Los profesionales de la Entidad Pública deberán apoyar a las partes y participar en el seguimiento de esa relación, informando sobre la conveniencia o no de su permanencia en el tiempo, a partir de una valoración de los resultados y consecuencias que la misma tenga para el menor, como prioridad absoluta, más allá del interés que pueda suponer para los adoptantes y su familia de origen.
 
 Se trata de una figura establecida con diferente amplitud y contenido en la legislación de diversos países, tales como los Estados Unidos de América, Gran Bretaña, Austria, Canadá o Nueva Zelanda. En unos casos está configurada como «un acuerdo privado entre las partes», con supervisión y apoyo de las Entidades Públicas, y en otros debe ser confirmado por un Juez, a quien correspondería la decisión sobre su posible modificación o finalización, como es el modelo que se incluye en esta ley.
 
 La oportunidad de introducir esta figura en nuestro ordenamiento jurídico obedece a la búsqueda de alternativas consensuadas, familiares y permanentes que permitan dotar de estabilidad familiar a algunos menores, especialmente los más mayores, cuya adopción presenta más dificultades. A través de la adopción abierta, se flexibiliza la institución de la adopción, posibilitando que la familia de origen acepte mejor la «pérdida», y que el menor pueda beneficiarse de una vida estable en su familia adoptante, manteniendo vínculos con la familia de la que proviene, en especial con sus hermanos, y con la que, en muchos casos, ha mantenido relación durante el acogimiento, relación que aunque no estuviera formalizada continúa por la vía de hecho.
 
-El artículo 180 refuerza el derecho de acceso a los orígenes de las personas adoptadas, obligando a las Entidades Públicas a garantizarlo y mantener la información durante el plazo previsto en el Convenio Europeo de Adopción, y al resto de entidades a colaborar con las primeras y con el Ministerio Fiscal.
+El artículo 180 refuerza.
 
-El artículo 216 contiene la limitación de la legitimación activa para solicitar las medidas y disposiciones previstas en el artículo 158 del código Civil, en el caso de los menores que estén bajo la tutela de la Entidad Pública, a instancia de esta, del Ministerio Fiscal o del propio menor.
+el derecho de acceso a los orígenes de las personas adoptadas, obligando a las Entidades Públicas a garantizarlo y mantener la información durante el plazo previsto en el Convenio Europeo de Adopción, y al resto de entidades a colaborar con las primeras y con el Ministerio Fiscal.
 
-Se introducen las oportunas modificaciones en la regulación de la tutela ordinaria de menores y personas con la capacidad modificada judicialmente en situación de desamparo prevista en los artículos 239 y 239 bis. Por otra parte, en el artículo 303 se incluye la posibilidad de otorgar judicialmente facultades tutelares a los guardadores de hecho. Se establecen además los supuestos de guarda de hecho que deben motivar la declaración de desamparo y los supuestos ante los que ha de procederse a la privación de la patria potestad o nombramiento de tutor.
+El artículo 216 contiene.
+
+la limitación de la legitimación activa para solicitar las medidas y disposiciones previstas en el artículo 158 del código Civil, en el caso de los menores que estén bajo la tutela de la Entidad Pública, a instancia de esta, del Ministerio Fiscal o del propio menor.
+
+Se introducen las oportunas modificaciones en la regulación de la tutela ordinaria de menores y personas con la capacidad modificada judicialmente en situación de desamparo prevista en los artículos 239 y 239 bis. Por otra parte, en el artículo 303 se.
+
+incluye la posibilidad de otorgar judicialmente facultades tutelares a los guardadores de hecho. Se establecen además los supuestos de guarda de hecho que deben motivar la declaración de desamparo y los supuestos ante los que ha de procederse a la privación de la patria potestad o nombramiento de tutor.
 
 Finalmente, se da una nueva redacción a los artículos 1263 y 1264 en relación a la prestación del consentimiento de los menores en determinados ámbitos.
 
 **IV**
 
-Las modificaciones que se proponen a la Ley de Adopción Internacional responden a varias necesidades. Por una parte, se clarifica el ámbito de aplicación de la ley que, en su redacción inicial, solo aludía al contenido de los títulos II y III, obviando el título I, y se define el concepto de adopción internacional a los efectos de la misma como lo hace el Convenio de La Haya de 1993, toda vez que con la definición que aparecía en el apartado 2 del artículo 1, las previsiones del título I no eran aplicables a muchos de los casos de adopciones internacionales sin desplazamiento internacional de los menores, habiéndose generado confusión en situaciones concretas.
+Las modificaciones que se proponen a la Ley de Adopción Internacional responden a varias necesidades. Por una parte, se clarifica el ámbito de aplicación de la ley que, en su redacción inicial, solo aludía al contenido de los títulos II y III, obviando el título I, y se define el concepto de adopción internacional a los efectos de la misma como lo hace el Convenio de La Haya de 1993, toda vez que con la definición que aparecía en el apartado 2 del artículo 1, las previsiones del título I no eran aplicables a muchos de los casos de adopciones internacionales sin desplazamiento internacional de los menores, habiéndose generado confusión en situaciones concretas.
 
 Se deslindan las competencias de las diversas Administraciones Públicas. Así, se determinan como competencias de la Administración General del Estado, por afectar a la política exterior, la decisión de iniciar, suspender o limitar la tramitación de adopciones con determinados países, así como la acreditación de los organismos para actuar como intermediarios en las adopciones internacionales, en terminología del Convenio de La Haya, referido a las antes denominadas entidades colaboradoras de adopción internacional, sin perjuicio de la necesaria intervención de las Entidades Públicas de las Comunidades Autónomas.
 
@@ -219,11 +272,15 @@ Se subraya el interés superior del menor como consideración fundamental en la 
 
 Además, se refuerzan las previsiones de garantía de las adopciones internacionales señalando que solo podrán realizarse a través de la intermediación de organismos acreditados y en los casos de países signatarios del Convenio de La Haya y con determinadas condiciones por la intermediación de las Entidades Públicas. Se refuerzan en los artículos 4, 6 y 26 los controles sobre los beneficios financieros indebidos.
 
-Se detallan con mayor claridad en el artículo 11 las obligaciones de los adoptantes, tanto en la fase preadoptiva, dado que la información y formación previa es la mayor garantía para el éxito de las adopciones, como en la fase postadoptiva mediante el establecimiento de consecuencias jurídicas del incumplimiento de las obligaciones postadoptivas a las que los progenitores y las Administraciones Públicas están obligadas respecto de los países de origen de los menores.
+Se detallan con mayor claridad en el artículo 11 las.
+
+obligaciones de los adoptantes, tanto en la fase preadoptiva, dado que la información y formación previa es la mayor garantía para el éxito de las adopciones, como en la fase postadoptiva mediante el establecimiento de consecuencias jurídicas del incumplimiento de las obligaciones postadoptivas a las que los progenitores y las Administraciones Públicas están obligadas respecto de los países de origen de los menores.
 
 Se introducen importantes modificaciones en las normas de Derecho internacional privado que básicamente responden a las siguientes cuestiones: suprimir las referencias a la modificación y revisión de la adopción, figuras jurídicas inexistentes en nuestro Derecho (artículo 15); mejorar la regulación de la adopción consular circunscribiéndola a los supuestos en los que no se precisa propuesta de la Entidad Pública (artículo 17); establecer la imposibilidad de constituir adopciones de menores cuya ley nacional las prohíba, con alguna matización, para evitar la existencia de adopciones claudicantes que atentan gravemente a la seguridad jurídica del menor (artículo 19.4); modificar los presupuestos de reconocimiento de adopciones constituidas por autoridades extranjeras, reformulando el control de la competencia internacional de la autoridad extranjera a través de la determinación de los vínculos razonables con el Estado extranjero cuyas autoridades la han constituido, lo cual puede valorarse a través de la bilateralización de las normas españolas de competencia previstas en los artículos 14 y 15 de la ley, lo que permite a la autoridad que reconoce realizar su función sin tener que acudir a una compleja e innecesaria prueba de derecho extranjero. Por otra parte, se sustituye el presupuesto del control de la ley aplicada o aplicable, ajeno al sistema español de reconocimiento de decisiones y resoluciones extranjeras, por el de la no contrariedad de la adopción constituida en el extranjero con el orden público español, concretando este concepto jurídico indeterminado en los casos de adopciones en las que el consentimiento de la familia de origen no ha existido, no ha sido informado o se ha obtenido mediante precio, para evitar que en este ámbito de la adopción internacional se produzcan supuestos de «niños robados».
 
-Finalmente, se modifica el artículo 24 para regular la cooperación internacional de autoridades en los casos de adopciones realizadas por adoptante español y residente en el país de origen del adoptado.
+Finalmente, se modifica el artículo 24 para.
+
+regular la cooperación internacional de autoridades en los casos de adopciones realizadas por adoptante español y residente en el país de origen del adoptado.
 
 Por último, y en relación con las otras medidas de protección de menores, se introduce la oportuna referencia a dos Reglamentos comunitarios y un Convenio de La Haya esenciales en esta materia, y se mejora el sistema de reconocimiento en España de estas medidas, de forma similar a la prevista en el Derecho francés, que ha sido recientemente avalado por el Tribunal Europeo de Derechos Humanos en el caso «Harroudj c. Francia», de 4 de enero de 2013.
 
@@ -233,7 +290,7 @@ Se modifica la Ley de Enjuiciamiento Civil a fin de reforzar la tutela judicial 
 
 Con el fin de fortalecer el principio de celeridad, vital en los procesos en los que se resuelve sobre intereses de menores y con el objeto de evitar resoluciones contradictorias, se introducen disposiciones, en línea con las previsiones de la Ley Orgánica de Protección Jurídica del Menor, para promover la acumulación cuando existieran varios procesos de impugnación de resoluciones administrativas en materia de protección en curso que afecten a un mismo menor.
 
-Por ello, se introduce en el artículo 780 de la Ley de Enjuiciamiento Civil la regla general de la acumulación de procesos y se introduce una previsión especial en el artículo  76, para determinar que, con carácter general, todos los procesos de oposición a resoluciones administrativas que se sigan respecto de un mismo menor de edad se acumulen al más antiguo de ellos y sean seguidos y resueltos, con la debida economía procesal, por el mismo juzgado. Ello se garantiza previendo que la acumulación sea promovida, incluso de oficio, por el juzgado que tenga conocimiento de la existencia de un segundo o posterior proceso.
+Por ello, se introduce en el artículo 780 de la Ley de Enjuiciamiento Civil la regla general de la acumulación de procesos y se introduce una previsión especial en el artículo  76, para determinar que, con carácter general, todos los procesos de oposición a resoluciones administrativas que se sigan respecto de un mismo menor de edad se acumulen al más antiguo de ellos y sean seguidos y resueltos, con la debida economía procesal, por el mismo juzgado. Ello se garantiza previendo que la acumulación sea promovida, incluso de oficio, por el juzgado que tenga conocimiento de la existencia de un segundo o posterior proceso.
 
 La necesidad de clarificar aspectos procesales de la protección de la infancia y la adolescencia se pone de manifiesto en el régimen actual de ejecución provisional de las sentencias dictadas en los procesos de oposición a las resoluciones administrativas en materia de protección de menores. Aunque la interpretación generalizada del artículo 525 de la Ley de Enjuiciamiento Civil viene conduciendo a la imposibilidad de ejecución provisional de esta clase de sentencias y, en particular, de las dictadas como consecuencia de un proceso de los previstos por el artículo 780 de la Ley de Enjuiciamiento Civil, lo cierto es que el tenor literal del apartado 1.º del citado artículo 525 no se refiere clara y expresamente a las mismas.
 
@@ -243,7 +300,9 @@ Por otra parte, en los artículos 779 y 780, además de incluir las adaptaciones
 
 Se establece un mismo procedimiento para la oposición a todas las resoluciones administrativas, con independencia de su contenido o de las personas afectadas, ampliándose la legitimación activa.
 
-Y, finalmente, con la reforma del artículo 781 se concentran en un solo procedimiento los supuestos en los que durante la tramitación del expediente de adopción los progenitores del adoptando pretendieran que se les reconociera la necesidad de otorgar su asentimiento a la adopción, con la finalidad de dar unidad de actuación a tales pretensiones, lo que repercutirá en una agilización del procedimiento.
+Y, finalmente, con la reforma del artículo 781 se.
+
+concentran en un solo procedimiento los supuestos en los que durante la tramitación del expediente de adopción los progenitores del adoptando pretendieran que se les reconociera la necesidad de otorgar su asentimiento a la adopción, con la finalidad de dar unidad de actuación a tales pretensiones, lo que repercutirá en una agilización del procedimiento.
 
 **VI**
 
@@ -251,7 +310,9 @@ En la disposición final primera se modifica la Ley de Jurisdicción Contencioso
 
 La Ley de la Autonomía del Paciente es reformada en la disposición final segunda incorporando los criterios recogidos en la Circular 1/2012 de la Fiscalía General del Estado sobre el tratamiento sustantivo y procesal de los conflictos ante transfusiones de sangre y otras intervenciones médicas sobre menores de edad en caso de riesgo grave. Esta Circular postula en sus conclusiones la necesaria introducción del criterio subjetivo de madurez del menor junto al objetivo, basado en la edad. Este criterio mixto es asumido en el texto legal.
 
-Se introduce, para mayor claridad, un nuevo apartado 4 en el artículo 9 referido a los menores emancipados o mayores de 16 años en relación a los cuales no cabe otorgar el consentimiento por representación, salvo cuando se trate de una actuación de grave riesgo para la vida o salud.
+Se introduce, para mayor claridad, un nuevo apartado 4 en el artículo 9 referido.
+
+a los menores emancipados o mayores de 16 años en relación a los cuales no cabe otorgar el consentimiento por representación, salvo cuando se trate de una actuación de grave riesgo para la vida o salud.
 
 Por otra parte, se añade a ese artículo 9 un apartado 6 en el que se establece que en los casos en los que el consentimiento haya de otorgarlo el representante legal o las personas vinculadas por razones familiares o de hecho, la decisión debe adoptarse atendiendo siempre al mayor beneficio para la vida o salud del paciente, y en caso contrario deberá ponerse en conocimiento de la autoridad judicial, directamente o a través del Ministerio Fiscal, para que adopte la resolución correspondiente.
 
@@ -393,13 +454,13 @@ h) La objetividad, imparcialidad y seguridad jurídica en la actuación protecto
 
 i) La protección contra toda forma de violencia, incluido el maltrato físico o psicológico, los castigos físicos humillantes y denigrantes, el descuido o trato negligente, la explotación, la realizada a través de las nuevas tecnologías, los abusos sexuales, la corrupción, la violencia de género o en el ámbito familiar, sanitario, social o educativo, incluyendo el acoso escolar, así como la trata y el tráfico de seres humanos, la mutilación genital femenina y cualquier otra forma de abuso.
 
-j)  La igualdad de oportunidades y no discriminación por cualquier circunstancia.
+j) La igualdad de oportunidades y no discriminación por cualquier circunstancia.
 
 k) La accesibilidad universal de los menores con discapacidad y los ajustes razonables, así como su inclusión y participación plenas y efectivas.
 
 l) El libre desarrollo de su personalidad conforme a su orientación e identidad sexual.
 
-m)  El respeto y la valoración de la diversidad étnica y cultural.
+m) El respeto y la valoración de la diversidad étnica y cultural.
 
 3. Los poderes públicos desarrollarán actuaciones encaminadas a la sensibilización, prevención, detección, notificación, asistencia y protección de cualquier forma de violencia contra la infancia y la adolescencia mediante procedimientos que aseguren la coordinación y la colaboración entre las distintas Administraciones, entidades colaboradoras y servicios competentes, tanto públicos como privados, para garantizar una actuación integral.
 
@@ -469,9 +530,13 @@ Once. Se modifica el artículo 18, que queda redactado como sigue:
 
 «Artículo 18. Actuaciones en situación de desamparo.
 
-1. Cuando la Entidad Pública constate que el menor se encuentra en situación de desamparo, actuará en la forma prevista en el artículo 172 y siguientes del código Civil, asumiendo la tutela de aquél por ministerio de la ley, adoptando las oportunas medidas de protección y poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez que acordó la tutela ordinaria.
+1. Cuando la Entidad Pública constate que el menor se encuentra en situación de desamparo, actuará en la forma prevista en el artículo 172 y siguientes.
 
-2. De acuerdo con lo establecido en el artículo 172 y siguientes del código Civil, se considerará situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
+del código Civil, asumiendo la tutela de aquél por ministerio de la ley, adoptando las oportunas medidas de protección y poniéndolo en conocimiento del Ministerio Fiscal y, en su caso, del Juez que acordó la tutela ordinaria.
+
+2. De acuerdo con lo establecido en el artículo 172 y siguientes.
+
+del código Civil, se considerará situación de desamparo la que se produce de hecho a causa del incumplimiento, o del imposible o inadecuado ejercicio de los deberes de protección establecidos por las leyes para la guarda de los menores, cuando éstos queden privados de la necesaria asistencia moral o material.
 
 La situación de pobreza de los progenitores, tutores o guardadores no podrá ser tenida en cuenta para la valoración de la situación de desamparo. Asimismo, en ningún caso se separará a un menor de sus progenitores en razón de una discapacidad del menor, de ambos progenitores o de uno de ellos.
 
@@ -483,7 +548,7 @@ a) El abandono del menor, bien porque falten las personas a las que por ley corr
 
 b) El transcurso del plazo de guarda voluntaria, bien cuando sus responsables legales se encuentren en condiciones de hacerse cargo de la guarda del menor y no quieran asumirla, o bien cuando, deseando asumirla, no estén en condiciones para hacerlo, salvo los casos excepcionales en los que la guarda voluntaria pueda ser prorrogada más allá del plazo de dos años.
 
-c) El riesgo para la vida, salud e integridad física del menor. En particular cuando se produzcan malos tratos físicos graves, abusos sexuales o negligencia grave en el cumplimiento de las obligaciones alimentarias y de salud por parte de las personas de la unidad familiar o de terceros con consentimiento de aquellas; también cuando el menor sea identificado como víctima de trata de seres humanos y haya un conflicto de intereses con los progenitores, tutores y guardadores; o cuando exista un consumo reiterado de sustancias con potencial adictivo o la ejecución de otro tipo de conductas adictivas de manera reiterada por parte del menor con el conocimiento, consentimiento o la tolerancia de los progenitores, tutores o guardadores. Se entiende que existe tal consentimiento o tolerancia cuando no se hayan realizado los esfuerzos necesarios para paliar estas conductas, como la solicitud de asesoramiento o el no haber colaborado suficientemente con el tratamiento, una vez conocidas las mismas. También se entiende que existe desamparo cuando se produzcan perjuicios graves al recién nacido causados por maltrato prenatal.
+c) **El riesgo para la vida, salud e integridad física del menor.** En particular cuando se produzcan malos tratos físicos graves, abusos sexuales o negligencia grave en el cumplimiento de las obligaciones alimentarias y de salud por parte de las personas de la unidad familiar o de terceros con consentimiento de aquellas; también cuando el menor sea identificado como víctima de trata de seres humanos y haya un conflicto de intereses con los progenitores, tutores y guardadores; o cuando exista un consumo reiterado de sustancias con potencial adictivo o la ejecución de otro tipo de conductas adictivas de manera reiterada por parte del menor con el conocimiento, consentimiento o la tolerancia de los progenitores, tutores o guardadores. Se entiende que existe tal consentimiento o tolerancia cuando no se hayan realizado los esfuerzos necesarios para paliar estas conductas, como la solicitud de asesoramiento o el no haber colaborado suficientemente con el tratamiento, una vez conocidas las mismas. También se entiende que existe desamparo cuando se produzcan perjuicios graves al recién nacido causados por maltrato prenatal.
 
 d) El riesgo para la salud mental del menor, su integridad moral y el desarrollo de su personalidad debido al maltrato psicológico continuado o a la falta de atención grave y crónica de sus necesidades afectivas o educativas por parte de progenitores, tutores o guardadores. Cuando esta falta de atención esté condicionada por un trastorno mental grave, por un consumo habitual de sustancias con potencial adictivo o por otras conductas adictivas habituales, se valorará como un indicador de desamparo la ausencia de tratamiento por parte de progenitores, tutores o guardadores o la falta de colaboración suficiente durante el mismo.
 
@@ -513,13 +578,19 @@ Doce. Se modifica el artículo 19, que queda redactado como sigue:
 
 «Artículo 19. Guarda de menores.
 
-1. Además de la guarda de los menores tutelados por encontrarse en situación de desamparo, la Entidad Pública deberá asumir la guarda en los términos previstos en el artículo 172 bis del código Civil, cuando los progenitores o tutores no puedan cuidar de un menor por circunstancias graves y transitorias o cuando así lo acuerde el Juez en los casos en que legalmente proceda.
+1. Además de la guarda de los menores tutelados por encontrarse en situación de desamparo, la Entidad Pública deberá asumir la guarda en los términos previstos en el artículo 172 bis l.
+
+código Civil, cuando los progenitores o tutores no puedan cuidar de un menor por circunstancias graves y transitorias o cuando así lo acuerde el Juez en los casos en que legalmente proceda.
 
 2. La guarda voluntaria tendrá una duración máxima de dos años, salvo que el interés superior del menor aconseje, excepcionalmente, la prórroga de la medida por la previsible reintegración familiar en un plazo breve de tiempo.
 
 En estos supuestos de guarda voluntaria será necesario el compromiso de la familia de someterse, en su caso, a la intervención profesional.»
 
-Trece. Se incluye un artículo 19 bis, que queda redactado como sigue:
+Trece. Se incluye un
+
+#### Artículo 19. bis,.
+
+que queda redactado como sigue:
 
 «Artículo 19 bis. Disposiciones comunes a la guarda y tutela.
 
@@ -575,7 +646,9 @@ h) El plazo en el cual la medida vaya a ser revisada.
 
 La resolución y el documento anexo se remitirán al Ministerio Fiscal en el plazo máximo de un mes.»
 
-Quince. Se incluye el artículo 20 bis, que queda redactado como sigue:
+Quince. Se incluye el artículo 20 bis,.
+
+que queda redactado como sigue:
 
 «Artículo 20 bis. Derechos y deberes de los acogedores familiares.
 
@@ -605,7 +678,7 @@ k) Percibir una compensación económica y otro tipo de ayuda que se hubiera est
 
 l) Facilitar al menor acogido las mismas condiciones que a los hijos biológicos o adoptados, a fin de hacer uso de derechos u obligaciones familiares durante el tiempo que el menor conviva con ellos.
 
-m)  Relacionarse con el menor al cesar el acogimiento, si la Entidad Pública entiende que conviniere a su interés superior y lo consintieren la familia de origen o, en su caso, la familia adoptiva o de acogimiento permanente, y el menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años.
+m) Relacionarse con el menor al cesar el acogimiento, si la Entidad Pública entiende que conviniere a su interés superior y lo consintieren la familia de origen o, en su caso, la familia adoptiva o de acogimiento permanente, y el menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años.
 
 n) Ser protegidos sus datos personales respecto de la familia de origen, de acuerdo con la legislación vigente.
 
@@ -671,7 +744,7 @@ k) Promoverán la integración normalizada de los menores en los servicios y act
 
 l) Establecerán los necesarios mecanismos de coordinación con los servicios sociales especializados para el seguimiento y ajuste de las medidas de protección.
 
-m)  Velarán por la preparación para la vida independiente, promoviendo la participación en las decisiones que le afecten, incluida la propia gestión del centro, la autonomía y la asunción progresiva de responsabilidades.
+m) Velarán por la preparación para la vida independiente, promoviendo la participación en las decisiones que le afecten, incluida la propia gestión del centro, la autonomía y la asunción progresiva de responsabilidades.
 
 n) Establecerán medidas educativas y de supervisión que garanticen la protección de los datos personales del menor al acceder a las tecnologías de la información y de la comunicación y a las redes sociales.
 
@@ -691,13 +764,19 @@ Asimismo, la Entidad Pública promoverá modelos de acogimiento residencial con 
 
 7. De aquellas medidas que se impusieran por conductas o actitudes que fueren atentatorias contra la convivencia en el ámbito residencial, se dará cuenta inmediata a los progenitores, tutores o representantes legales del menor y al Ministerio Fiscal.»
 
-Diecisiete. Se incluye un artículo 21 bis, que queda redactado como sigue:
+Diecisiete. Se incluye un
+
+#### Artículo 21. bis,.
+
+que queda redactado como sigue:
 
 «Artículo 21 bis. Derechos de los menores acogidos.
 
 1. El menor acogido, con independencia de la modalidad de acogimiento en que se encuentre, tendrá derecho a:
 
-a) Ser oído en los términos del artículo 9 y, en su caso, ser parte en el proceso de oposición a las medidas de protección y declaración en situación de desamparo de acuerdo con la normativa aplicable, y en función de su edad y madurez. Para ello tiene derecho a ser informado y notificado de todas las resoluciones de formalización y cese del acogimiento.
+a) Ser oído en los términos del artículo 9 y,.
+
+en su caso, ser parte en el proceso de oposición a las medidas de protección y declaración en situación de desamparo de acuerdo con la normativa aplicable, y en función de su edad y madurez. Para ello tiene derecho a ser informado y notificado de todas las resoluciones de formalización y cese del acogimiento.
 
 b) Ser reconocido beneficiario del derecho de asistencia jurídica gratuita cuando se encuentre en situación de desamparo.
 
@@ -733,19 +812,25 @@ b) Participar en la elaboración de la programación de actividades del centro y
 
 c) Ser escuchado en caso de queja y ser informado de todos los sistemas de atención y reclamación que tienen a su alcance, incluido el derecho de audiencia en la Entidad Pública.»
 
-Dieciocho. Se añade el artículo 22 bis, que queda redactado como sigue:
+Dieciocho. Se añade el artículo 22 bis,.
+
+que queda redactado como sigue:
 
 «Artículo 22 bis. Programas de preparación para la vida independiente.
 
 Las Entidades Públicas ofrecerán programas de preparación para la vida independiente dirigidos a los jóvenes que estén bajo una medida de protección, particularmente en acogimiento residencial o en situación de especial vulnerabilidad, desde dos años antes de su mayoría de edad, una vez cumplida esta, siempre que lo necesiten, con el compromiso de participación activa y aprovechamiento por parte de los mismos. Los programas deberán propiciar seguimiento socioeducativo, alojamiento, inserción socio-laboral, apoyo psicológico y ayudas económicas.»
 
-Diecinueve. Se añade el artículo 22 ter, que queda redactado como sigue:
+Diecinueve. Se añade el artículo 22 ter,.
+
+que queda redactado como sigue:
 
 «Artículo 22 ter. Sistema de información sobre la protección a la infancia y a la adolescencia.
 
 Las Comunidades Autónomas y la Administración General del Estado establecerán un sistema de información compartido que permita el conocimiento uniforme de la situación de la protección a la infancia y a la adolescencia en España, y de ofrecimientos para el acogimiento y la adopción, con datos desagregados por género y discapacidad, tanto a efectos de seguimiento de las medidas concretas de protección de menores como a efectos estadísticos. A estos mismos efectos se desarrollará el Registro Unificado de Maltrato Infantil.»
 
-Veinte. Se añade el artículo 22 quáter, que queda redactado como sigue:
+Veinte. Se añade el artículo 22 quáter,.
+
+que queda redactado como sigue:
 
 «Artículo 22 quáter. Tratamiento de datos de carácter personal.
 
@@ -753,7 +838,9 @@ Veinte. Se añade el artículo 22 quáter, que queda redactado como sigue:
 
 Los profesionales, las Entidades Públicas y privadas y, en general, cualquier persona facilitarán a las Administraciones Públicas los informes y antecedentes sobre los menores, sus progenitores, tutores, guardadores o acogedores, que les sean requeridos por ser necesarios para este fin, sin precisar del consentimiento del afectado.
 
-2. Las entidades a las que se refiere el artículo 13 podrán tratar sin consentimiento del interesado la información que resulte imprescindible para el cumplimiento de las obligaciones establecidas en dicho precepto con la única finalidad de poner dichos datos en conocimiento de las Administraciones Públicas competentes o del Ministerio Fiscal.
+2. Las entidades a las que se refiere el artículo 13 podrán.
+
+tratar sin consentimiento del interesado la información que resulte imprescindible para el cumplimiento de las obligaciones establecidas en dicho precepto con la única finalidad de poner dichos datos en conocimiento de las Administraciones Públicas competentes o del Ministerio Fiscal.
 
 3. Los datos recabados por las Administraciones Públicas podrán utilizarse única y exclusivamente para la adopción de las medidas de protección establecidas en la presente ley, atendiendo en todo caso a la garantía del interés superior del menor y sólo podrán ser comunicados a las Administraciones Públicas que hubieran de adoptar las resoluciones correspondientes, al Ministerio Fiscal y a los órganos judiciales.
 
@@ -761,7 +848,9 @@ Los profesionales, las Entidades Públicas y privadas y, en general, cualquier p
 
 5. En todo caso, el tratamiento de los mencionados datos quedará sometido a lo dispuesto en la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal y sus disposición de desarrollo, siendo exigible la implantación de las medidas de seguridad de nivel alto previstas en dicha normativa.»
 
-Veintiuno. Se añade el artículo 22 quinquies, que queda redactado como sigue:
+Veintiuno. Se añade el artículo 22 quinquies,.
+
+que queda redactado como sigue:
 
 «Artículo 22 quinquies. Impacto de las normas en la infancia y en la adolescencia.
 
@@ -773,7 +862,9 @@ Veintidós. Se modifica el artículo 23, que queda redactado como sigue:
 
 Para el ejercicio de la función de vigilancia atribuida al Ministerio Fiscal en el código Civil respecto de la tutela asumida por la Entidad Pública por ministerio de la ley, se llevará en cada Fiscalía un Índice de Tutelas de Menores.»
 
-Veintitrés. Se modifica el artículo 24 que queda redactado como sigue:
+Veintitrés. Se modifica el artículo 24 que.
+
+queda redactado como sigue:
 
 «Artículo 24. Adopción de menores.
 
@@ -879,7 +970,7 @@ Diez. Se modifica el artículo 160, que queda redactado como sigue:
 
 «Artículo 160.
 
-1. Los hijos menores tienen derecho a relacionarse con sus progenitores aunque éstos no ejerzan la patria potestad, salvo que se disponga otra cosa por resolución judicial o por la Entidad Pública en los casos establecidos en el artículo 161. En caso de privación de libertad de los progenitores, y siempre que el interés superior del menor recomiende visitas a aquellos, la Administración deberá facilitar el traslado acompañado del menor al centro penitenciario, ya sea por un familiar designado por la administración competente o por un profesional que velarán por la preparación del menor a dicha visita. Asimismo la visita a un centro penitenciario se deberá realizar fuera de horario escolar y en un entorno adecuado para el menor.
+1. Los hijos menores tienen derecho a relacionarse con sus progenitores aunque éstos no ejerzan la patria potestad, salvo que se disponga otra cosa por resolución judicial o por la Entidad Pública en los casos establecidos en el artículo 161. En caso de privación de libertad de los progenitores, y siempre que el interés superior del menor recomiende visitas a aquellos, la Administración deberá facilitar el traslado acompañado del menor al centro penitenciario, ya sea por un familiar designado por la administración competente o por un profesional que velarán por la preparación del menor a dicha visita. Asimismo la visita a un centro penitenciario se deberá realizar fuera de horario escolar y en un entorno adecuado para el menor.
 
 Los menores adoptados por otra persona, solo podrán relacionarse con su familia de origen en los términos previstos en el artículo 178.4.
 
@@ -951,7 +1042,9 @@ c) Que hayan transcurrido seis meses desde que el menor abandonó voluntariament
 
 La guarda provisional cesará por las mismas causas que la tutela.»
 
-Catorce. Se incluye el artículo 172 bis, que queda redactado como sigue:
+Catorce. Se incluye el artículo 172 bis,.
+
+que queda redactado como sigue:
 
 «Artículo 172 bis.
 
@@ -963,7 +1056,9 @@ La resolución administrativa sobre las asunción de la guarda por la Entidad P�
 
 2. Asimismo, la Entidad Pública asumirá la guarda cuando así lo acuerde el Juez en los casos en que legalmente proceda, adoptando la medida de protección correspondiente.»
 
-Quince. Se añade el artículo 172 ter, con la siguiente redacción:
+Quince. Se añade el artículo 172 ter,.
+
+con la siguiente redacción:
 
 «Artículo 172 ter.
 
@@ -1003,7 +1098,9 @@ d) Por la mayoría de edad del menor.
 
 5. Todas las actuaciones de formalización y cesación del acogimiento se practicarán con la obligada reserva.»
 
-Diecisiete. Se modifica el artículo 173 bis, que queda redactado como sigue:
+Diecisiete. Se modifica el artículo 173 bis,.
+
+que queda redactado como sigue:
 
 «Artículo 173 bis.
 
@@ -1083,11 +1180,15 @@ Las personas que se ofrezcan para la adopción deberán asistir a las sesiones i
 
 4. Cuando concurra alguna de las circunstancias 1.ª, 2.ª o 3.ª previstas en el apartado 2 podrá constituirse la adopción, aunque el adoptante hubiere fallecido, si éste hubiese prestado ya ante el Juez su consentimiento o el mismo hubiera sido otorgado mediante documento público o en testamento. Los efectos de la resolución judicial en este caso se retrotraerán a la fecha de prestación de tal consentimiento.»
 
-Veintiuno. Se añade el artículo 176 bis, con la siguiente redacción:
+Veintiuno. Se añade el artículo 176 bis,.
+
+con la siguiente redacción:
 
 «Artículo 176 bis.
 
-1. La Entidad Pública podrá delegar la guarda de un menor declarado en situación de desamparo en las personas que, reuniendo los requisitos de capacidad para adoptar previstos en el artículo 175 y habiendo prestado su consentimiento, hayan sido preparadas, declaradas idóneas y asignadas para su adopción. A tal efecto, la Entidad Pública, con anterioridad a la presentación de la propuesta de adopción, delegará la guarda con fines de adopción hasta que se dicte la resolución judicial de adopción, mediante resolución administrativa debidamente motivada, previa audiencia de los afectados y del menor si tuviere suficiente madurez y, en todo caso, si fuere mayor de doce años, que se notificará a los progenitores o tutores no privados de la patria potestad o tutela.
+1. La Entidad Pública podrá delegar la guarda de un menor declarado en situación de desamparo en las personas que, reuniendo los requisitos de capacidad para adoptar previstos en el artículo 175 y habiendo.
+
+prestado su consentimiento, hayan sido preparadas, declaradas idóneas y asignadas para su adopción. A tal efecto, la Entidad Pública, con anterioridad a la presentación de la propuesta de adopción, delegará la guarda con fines de adopción hasta que se dicte la resolución judicial de adopción, mediante resolución administrativa debidamente motivada, previa audiencia de los afectados y del menor si tuviere suficiente madurez y, en todo caso, si fuere mayor de doce años, que se notificará a los progenitores o tutores no privados de la patria potestad o tutela.
 
 Los guardadores con fines de adopción tendrán los mismos derechos y obligaciones que los acogedores familiares.
 
@@ -1177,7 +1278,9 @@ En estos supuestos, previamente a la designación judicial de tutor ordinario o 
 
 3. Estarán legitimados para el ejercicio de las acciones de privación de patria potestad, remoción del tutor y para la solicitud de nombramiento de tutor de los menores en situación de desamparo, el Ministerio Fiscal, la Entidad Pública y los llamados al ejercicio de la tutela.»
 
-Veintisiete. Se añade el artículo 239 bis, que queda redactado como sigue:
+Veintisiete. Se añade el artículo 239 bis,.
+
+que queda redactado como sigue:
 
 «Artículo 239 bis.
 
@@ -1495,7 +1598,11 @@ Veinticinco. Se modifica el artículo 27, que queda redactado como sigue:
 
 «Artículo 27. Control de la validez de la adopción constituida por autoridad extranjera.
 
-La autoridad pública española ante la que se suscite la validez de una adopción constituida por autoridad extranjera y, en especial, el Encargado del Registro Civil en el que se inste la inscripción de la adopción constituida en el extranjero para su reconocimiento en España, controlará, incidentalmente, la validez de dicha adopción en España con arreglo a las normas contenidas en el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional, a través de la presentación del certificado de conformidad con lo previsto en su artículo 23 y de que no se ha incurrido en la causa de no reconocimiento prevista en el artículo 24 de dicho Convenio.
+La autoridad pública española ante la que se suscite la validez de una adopción constituida por autoridad extranjera y, en especial, el Encargado del Registro Civil en el que se inste la inscripción de la adopción constituida en el extranjero para su reconocimiento en España, controlará, incidentalmente, la validez de dicha adopción en España con arreglo a las normas contenidas en el Convenio de La Haya, de 29 de mayo de 1993, relativo a la protección del niño y a la cooperación en materia de adopción internacional, a través de la presentación del certificado de conformidad con lo previsto en su
+
+#### Artículo 23. y de.
+
+que no se ha incurrido en la causa de no reconocimiento prevista en el artículo 24 de dicho Convenio.
 
 En los casos de menores que provengan de países no signatarios del mismo, el Encargado del Registro Civil realizará dicho control incidental verificando si la adopción reúne las condiciones de reconocimiento previstas en los artículos 5.1.e), 5.1.f) y 26.»
 
@@ -1519,7 +1626,9 @@ Veintiocho. Se modifica el artículo 30, que queda redactado como sigue:
 
 2. La ley designada por el artículo 9.4 del código Civil determinará la existencia, validez y efectos de tales adopciones, así como la atribución de la patria potestad.
 
-3. La adopción simple o no plena no será objeto de inscripción en el Registro Civil español como adopción ni comportará la adquisición de la nacionalidad española con arreglo al artículo 19 del código Civil.
+3. La adopción simple o no plena no será objeto de inscripción en el Registro Civil español como adopción ni comportará la adquisición de la nacionalidad española con arreglo al artículo 19 l.
+
+código Civil.
 
 4. La adopción simple o no plena constituida por autoridad extranjera competente podrá ser convertida en la adopción regulada por el Derecho español cuando se den los requisitos previstos para ello, a través de un expediente de jurisdicción voluntaria. La conversión se regirá por la ley determinada con arreglo a la ley de su constitución.
 
@@ -1581,11 +1690,13 @@ No obstante lo establecido en la regla anterior, en el caso de que la instituci�
 
 La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los siguientes términos:
 
-Uno. Se incluye un nuevo ordinal 3.º en el apartado 2 del artículo 76 y se modifica el último párrafo de dicho apartado, con la siguiente redacción:
+Uno. Se incluye un nuevo ordinal 3.º en el apartado 2 del artículo 76 y se.
+
+modifica el último párrafo de dicho apartado, con la siguiente redacción:
 
 «3.º Cuando se trate de procesos en los que se sustancie la oposición a resoluciones administrativas en materia de protección de un mismo menor, tramitados conforme al artículo 780, siempre que en ninguno de ellos se haya iniciado la vista.
 
-En todo caso, en los lugares donde hubiere más de un Juzgado que tuviera asignadas competencias en materia mercantil, en los casos de los números 1.º y 2.º, o en materia civil, en el caso del número 3.º, las demandas que se presenten con posterioridad a otra se repartirán al Juzgado al que hubiere correspondido conocer de la primera.»
+En todo caso, en los lugares donde hubiere más de un Juzgado que tuviera asignadas competencias en materia mercantil, en los casos de los números 1.º y 2.º, o en materia civil, en el caso del número 3.º, las demandas que se presenten con posterioridad a otra se repartirán al Juzgado al que hubiere correspondido conocer de la primera.»
 
 Dos. Se modifica la circunstancia 1.ª del apartado 1 del artículo 525, que queda redactada como sigue:
 
@@ -1627,7 +1738,9 @@ Cinco. Se modifica el artículo 781, que queda redactado como sigue:
 
 3. Presentada la demanda dentro de plazo, el Secretario Judicial dictará decreto declarando contencioso el expediente de adopción y acordará la tramitación de la demanda presentada en el mismo procedimiento, como pieza separada, con arreglo a lo previsto en el artículo 753.
 
-Una vez firme la resolución que se dicte en la pieza separada sobre la necesidad del asentimiento de los progenitores del adoptando, el Secretario Judicial acordará la citación ante el Juez de las personas indicadas en el artículo 177 del código Civil que deban prestar el consentimiento o el asentimiento a la adopción así como ser oídos, y que todavía no lo hayan hecho, debiendo resolver a continuación sobre la adopción.
+Una vez firme la resolución que se dicte en la pieza separada sobre la necesidad del asentimiento de los progenitores del adoptando, el Secretario Judicial acordará la citación ante el Juez de las personas indicadas en el artículo 177 l.
+
+código Civil que deban prestar el consentimiento o el asentimiento a la adopción así como ser oídos, y que todavía no lo hayan hecho, debiendo resolver a continuación sobre la adopción.
 
 Las citaciones se efectuaran de conformidad con las normas establecidas en la Ley de Jurisdicción Voluntaria para tales supuestos.
 
@@ -1641,7 +1754,9 @@ Se utilizará en los textos legales la expresión «Entidad Pública» referida 
 
 #### Disposición adicional segunda. Referencias al acogimiento preadoptivo y al acogimiento simple y a las Entidades Colaboradoras de Adopción Internacional.
 
-Todas las referencias que en las leyes y demás disposiciones se realizasen al acogimiento preadoptivo deberán entenderse hechas a la delegación de guarda para la convivencia preadoptiva prevista en el artículo 176 bis del código Civil. Las que se realizasen al acogimiento simple deberán entenderse hechas al acogimiento familiar temporal previsto en el artículo 173 bis del código Civil; y cuando lo fueran a las Entidades colaboradoras de adopción internacional se entenderán hechas a los organismos acreditados para la adopción internacional.
+Todas las referencias que en las leyes y demás disposiciones se realizasen al acogimiento preadoptivo deberán entenderse hechas a la delegación de guarda para la convivencia preadoptiva prevista en el artículo 176 bis l.
+
+código Civil. Las que se realizasen al acogimiento simple deberán entenderse hechas al acogimiento familiar temporal previsto en el artículo 173 bis del código Civil; y cuando lo fueran a las Entidades colaboradoras de adopción internacional se entenderán hechas a los organismos acreditados para la adopción internacional.
 
 #### Disposición adicional tercera. Criterios comunes de cobertura, calidad y accesibilidad.
 
@@ -1739,7 +1854,9 @@ No obstante lo dispuesto en el párrafo anterior, cuando se trate de una actuaci
 
 #### Disposición final tercera. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo.
 
-Se modifica la letra f) del apartado 3 del artículo 37 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, que queda redactado como sigue:
+Se modifica la letra f) del apartado 3 del artículo 37 l.
+
+texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, que queda redactado como sigue:
 
 «f) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto y, en los casos de adopción o acogimiento, o guarda con fines de adopción, para la asistencia a las preceptivas sesiones de información y preparación y para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, siempre, en todos los casos, que deban tener lugar dentro de la jornada de trabajo.»
 
@@ -1779,7 +1896,9 @@ Uno. Se modifica el apartado 2 del artículo 84, que queda redactado como sigue:
 
 «2. Cuando no existan plazas suficientes, el proceso de admisión se regirá por los criterios prioritarios de existencia de hermanos matriculados en el centro, padres, madres o tutores legales que trabajen en el mismo, proximidad del domicilio o del lugar de trabajo de alguno de sus padres, madres o tutores legales, renta per cápita de la unidad familiar y condición legal de familia numerosa, situación de acogimiento familiar del alumno o la alumna, y concurrencia de discapacidad en el alumno o alumna o en alguno de sus padres, madres o hermanos, sin que ninguno de ellos tenga carácter excluyente y sin perjuicio de lo establecido en el apartado 7 de este artículo.
 
-No obstante, aquellos centros que tengan reconocida una especialización curricular por las Administraciones educativas, o que participen en una acción destinada a fomentar la calidad de los centros docentes de las descritas en el artículo 122 bis, podrán reservar al criterio del rendimiento académico del alumno o alumna hasta un 20 por ciento de la puntuación asignada a las solicitudes de admisión a enseñanzas postobligatorias. Dicho porcentaje podrá reducirse o modularse cuando sea necesario para evitar la ruptura de criterios de equidad y de cohesión del sistema.»
+No obstante, aquellos centros que tengan reconocida una especialización curricular por las Administraciones educativas, o que participen en una acción destinada a fomentar la calidad de los centros docentes de las descritas en el artículo 122 bis,.
+
+podrán reservar al criterio del rendimiento académico del alumno o alumna hasta un 20 por ciento de la puntuación asignada a las solicitudes de admisión a enseñanzas postobligatorias. Dicho porcentaje podrá reducirse o modularse cuando sea necesario para evitar la ruptura de criterios de equidad y de cohesión del sistema.»
 
 Dos. Se modifica el apartado 2 del artículo 87, que queda redactado como sigue:
 
@@ -1815,7 +1934,11 @@ Se añade un nuevo apartado 8 al artículo 14 de la Ley 39/2006, de 14 de diciem
 
 El texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, queda modificado como sigue:
 
-Uno. Se añade un nuevo artículo 179 ter con la siguiente redacción:
+Uno. Se añade un nuevo
+
+#### Artículo 179 ter. con.
+
+la siguiente redacción:
 
 «Artículo 179 ter. Impedimento para ser beneficiario de las prestaciones de muerte y supervivencia.
 
@@ -1827,7 +1950,11 @@ La facultad de revisión de oficio a que se refiere el párrafo anterior no esta
 
 En el acuerdo de inicio del procedimiento de revisión del reconocimiento de la prestación a que se refiere este artículo se acordará, si no se hubiera producido antes, la suspensión cautelar de su percibo hasta la resolución firme que ponga fin a dicho procedimiento.»
 
-Dos. Se añade un nuevo artículo 179 quáter con la siguiente redacción:
+Dos. Se añade un nuevo
+
+#### Artículo 179 quáter. con.
+
+la siguiente redacción:
 
 «Artículo 179 quáter. Suspensión cautelar del abono de las prestaciones de muerte y supervivencia, en determinados supuestos.
 
@@ -1841,41 +1968,63 @@ Si el beneficiario de la prestación fuera finalmente condenado por sentencia fi
 
 2. No obstante, si recayera sentencia absolutoria en primera instancia y esta fuera recurrida, la suspensión cautelar se alzará hasta la resolución del recurso por sentencia firme. En este caso, si la sentencia firme recaída en dicho recurso fuese también absolutoria, se abonarán al beneficiario las prestaciones dejadas de percibir desde que se acordó la suspensión cautelar hasta que se alzó esta, con descuento de las cantidades que, en su caso, se hubieran satisfecho a terceros en concepto de obligación de alimentos conforme a lo dispuesto en el apartado 3. Por el contrario, si la sentencia firme recaída en el recurso resultara condenatoria, procederá la revisión del reconocimiento de la prestación así como la devolución de las prestaciones percibidas por el condenado, conforme a lo indicado en el apartado 1 de este artículo, incluidas las correspondientes al período en que estuvo alzada la suspensión.
 
-3. Durante la suspensión del pago de una pensión de viudedad, acordada conforme a lo previsto en este artículo, se podrán hacer efectivas con cargo a la misma, hasta el límite del importe que le hubiera correspondido por tal concepto al beneficiario de dicha pensión, las obligaciones de alimentos a favor de los titulares de pensión de orfandad o en favor de familiares causada por la víctima del delito, siempre que dichos titulares hubieran de ser beneficiarios de los incrementos a que se refiere el artículo 179 quinquies si finalmente recayera sentencia firme condenatoria de aquel. La cantidad a percibir en concepto de alimentos por cada uno de los pensionistas de orfandad o en favor de familiares no podrá superar el importe que, en cada momento, le hubiera correspondido por dicho incremento.»
+3. Durante la suspensión del pago de una pensión de viudedad, acordada conforme a lo previsto en este artículo, se podrán hacer efectivas con cargo a la misma, hasta el límite del importe que le hubiera correspondido por tal concepto al beneficiario de dicha pensión, las obligaciones de alimentos a favor de los titulares de pensión de orfandad o en favor de familiares causada por la víctima del delito, siempre que dichos titulares hubieran de ser beneficiarios de los incrementos a que se refiere el artículo 179 quinquies si.
 
-Tres. Se añade un nuevo artículo 179 quinquies con la siguiente redacción:
+finalmente recayera sentencia firme condenatoria de aquel. La cantidad a percibir en concepto de alimentos por cada uno de los pensionistas de orfandad o en favor de familiares no podrá superar el importe que, en cada momento, le hubiera correspondido por dicho incremento.»
+
+Tres. Se añade un nuevo
+
+#### Artículo 179 quinquies. con.
+
+la siguiente redacción:
 
 «Artículo 179 quinquies. Incremento de las pensiones de orfandad y en favor de familiares, en determinados supuestos.
 
-1. Cuando, a tenor de lo establecido en el artículo 179 ter, el condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas no pudiese adquirir la condición de beneficiario de la pensión de viudedad, o la hubiese perdido, los hijos del mismo que sean titulares de la pensión de orfandad causada por la víctima del delito tendrán derecho al incremento previsto reglamentariamente para los casos de orfandad absoluta.
+1. Cuando, a tenor de lo establecido en el artículo 179 ter,.
+
+el condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas no pudiese adquirir la condición de beneficiario de la pensión de viudedad, o la hubiese perdido, los hijos del mismo que sean titulares de la pensión de orfandad causada por la víctima del delito tendrán derecho al incremento previsto reglamentariamente para los casos de orfandad absoluta.
 
 Los titulares de la pensión en favor de familiares podrán, en esos mismos supuestos, ser beneficiarios del incremento previsto reglamentariamente, siempre y cuando no haya otras personas con derecho a pensión de muerte y supervivencia causada por la víctima.
 
-2. Los efectos económicos del citado incremento se retrotraerán a la fecha de efectos del reconocimiento inicial de la pensión de orfandad o en favor de familiares, cuando no se hubiera reconocido previamente la pensión de viudedad a quien resulte condenado por sentencia firme. En otro caso, dichos efectos económicos se iniciarán a partir de la fecha en que hubiera cesado el pago de la pensión de viudedad, como consecuencia de la revisión de su reconocimiento por la Entidad gestora conforme a lo previsto en el artículo 179 ter o, en su caso, a partir de la fecha de la suspensión cautelar contemplada en el artículo 179 quáter.
+2. Los efectos económicos del citado incremento se retrotraerán a la fecha de efectos del reconocimiento inicial de la pensión de orfandad o en favor de familiares, cuando no se hubiera reconocido previamente la pensión de viudedad a quien resulte condenado por sentencia firme. En otro caso, dichos efectos económicos se iniciarán a partir de la fecha en que hubiera cesado el pago de la pensión de viudedad, como consecuencia de la revisión de su reconocimiento por la Entidad gestora conforme a lo previsto en el artículo 179 ter o,.
+
+en su caso, a partir de la fecha de la suspensión cautelar contemplada en el artículo 179 quáter.
 
 En todo caso, el abono del incremento de la pensión de orfandad o en favor de familiares por los períodos en que el condenado hubiera percibido la pensión de viudedad solo podrá llevarse a cabo una vez que este haga efectivo su reintegro, sin que la Entidad Gestora, de no producirse el reintegro, sea responsable subsidiaria ni solidaria del abono al pensionista de orfandad o en favor de familiares del incremento señalado, ni venga obligada a su anticipo.
 
 De las cantidades que correspondan en concepto de incremento de la pensión de orfandad o en favor de familiares se descontará, en su caso, el importe que por alimentos hubiera percibido su beneficiario a cargo de la pensión de viudedad suspendida, conforme a lo dispuesto en el artículo 179 quáter.»
 
-Cuatro. Se añade un nuevo artículo 179 sexies con la siguiente redacción:
+Cuatro. Se añade un nuevo
+
+#### Artículo 179 sexies. con.
+
+la siguiente redacción:
 
 «Artículo 179 sexies. Abono de las pensiones de orfandad, en determinados supuestos.
 
-En el caso de que los hijos de quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en los términos señalados en el artículo 179 ter, siendo menores de edad o personas con capacidad judicialmente modificada, fueran beneficiarios de pensión de orfandad causada por la víctima, dicha pensión no le será abonable a la persona condenada.
+En el caso de que los hijos de quien fuera condenado por sentencia firme por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en los términos señalados en el artículo 179 ter,.
 
-En todo caso, la Entidad Gestora pondrá en conocimiento del Ministerio Fiscal la existencia de la pensión de orfandad, así como toda resolución judicial de la que se deriven indicios racionales de que el progenitor es responsable de un delito doloso de homicidio para que, en cumplimiento de lo dispuesto en el artículo 158 del código Civil, proceda, en su caso, a instar la adopción de las medidas oportunas en relación con la persona física o institución tutelar del menor o persona con capacidad judicialmente modificada a las que debe abonarse la pensión de orfandad. Adoptadas dichas medidas con motivo de dicha situación procesal, la Entidad Gestora, cuando así proceda, comunicará también al Ministerio Fiscal la resolución por la que se ponga fin al proceso y la firmeza o no de la resolución judicial en que se acuerde.»
+siendo menores de edad o personas con capacidad judicialmente modificada, fueran beneficiarios de pensión de orfandad causada por la víctima, dicha pensión no le será abonable a la persona condenada.
+
+En todo caso, la Entidad Gestora pondrá en conocimiento del Ministerio Fiscal la existencia de la pensión de orfandad, así como toda resolución judicial de la que se deriven indicios racionales de que el progenitor es responsable de un delito doloso de homicidio para que, en cumplimiento de lo dispuesto en el artículo 158 l.
+
+código Civil, proceda, en su caso, a instar la adopción de las medidas oportunas en relación con la persona física o institución tutelar del menor o persona con capacidad judicialmente modificada a las que debe abonarse la pensión de orfandad. Adoptadas dichas medidas con motivo de dicha situación procesal, la Entidad Gestora, cuando así proceda, comunicará también al Ministerio Fiscal la resolución por la que se ponga fin al proceso y la firmeza o no de la resolución judicial en que se acuerde.»
 
 Cinco. El apartado 1 de la disposición adicional octava queda redactado de la siguiente forma:
 
-«1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1, 2 y 3; 161 bis, apartado 1 y apartado 2. B); 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; 179, 179 ter, 179 quáter, 179 quinquies y 179 sexies. Igualmente, serán de aplicación las normas sobre las prestaciones familiares contenidas en el capítulo IX del título II; las disposiciones adicionales séptima bis, cuadragésima tercera y quincuagésima novena y las disposiciones transitorias quinta, apartado 1, quinta bis, sexta bis y decimosexta.
+«1. Será de aplicación a todos los regímenes que integran el sistema de la Seguridad Social lo dispuesto en los artículos 137, apartados 2 y 3; 138; 140, apartados 1, 2 y 3; 143; 161, apartados 1, 2 y 3; 161 bis, apartado 1 y apartado 2. B); 162, apartados 1.1, 2, 3, 4 y 5; 163; 165; 174; 174 bis; 175; 176, apartado 4; 177, apartado 1, segundo párrafo; 179, 179 ter, 179 quáter, 179 quinquies y 179 sexies. Igualmente, serán de aplicación las normas sobre las prestaciones familiares contenidas en el capítulo IX del título II; las disposiciones adicionales séptima bis, cuadragésima tercera y quincuagésima novena y las disposiciones transitorias quinta, apartado 1, quinta bis, sexta bis y decimosexta.
 
-No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a los regímenes especiales de lo previsto en el artículo 138 en el último párrafo de su apartado 2, así como lo regulado por su apartado 5.»
+No obstante lo dispuesto en el párrafo anterior, se exceptúa la aplicación a los regímenes especiales de lo previsto en el artículo 138 en.
+
+el último párrafo de su apartado 2, así como lo regulado por su apartado 5.»
 
 #### Disposición final undécima. Modificación del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.
 
 El texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril, queda modificado como sigue:
 
-Uno. Se añade un apartado tres al artículo 15 con la siguiente redacción:
+Uno. Se añade un apartado tres al artículo 15 con.
+
+la siguiente redacción:
 
 «Artículo 15.3. Sin perjuicio de lo dispuesto en el número 1, la Administración podrá revisar los actos de reconocimiento del derecho a una prestación en favor de familiares motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiere percibido por tal concepto.»
 
@@ -1919,7 +2068,9 @@ Cinco. La disposición adicional undécima queda redactada de la siguiente forma
 
 «Disposición adicional undécima. Prestaciones en favor de los familiares.
 
-La regulación contenida tanto en el artículo 38 y en la disposición transitoria duodécima como en el artículo 41 de este texto, a excepción de lo dispuesto en el párrafo segundo del apartado 1 del último artículo citado, será de aplicación, respectivamente, a las pensiones de viudedad y de orfandad de Clases Pasivas del Estado causadas al amparo de la legislación vigente a 31 de diciembre de 1984, así como a las causadas en aplicación de la legislación especial de guerra; siempre que, en uno y otro caso y tratándose de orfandad, el límite de edad determinante de la condición de beneficiario de la pensión de orfandad fuese igual o menor de veintiún años.
+La regulación contenida tanto en el artículo 38 y en.
+
+la disposición transitoria duodécima como en el artículo 41 de este texto, a excepción de lo dispuesto en el párrafo segundo del apartado 1 del último artículo citado, será de aplicación, respectivamente, a las pensiones de viudedad y de orfandad de Clases Pasivas del Estado causadas al amparo de la legislación vigente a 31 de diciembre de 1984, así como a las causadas en aplicación de la legislación especial de guerra; siempre que, en uno y otro caso y tratándose de orfandad, el límite de edad determinante de la condición de beneficiario de la pensión de orfandad fuese igual o menor de veintiún años.
 
 Asimismo, lo dispuesto en los artículos 37 bis y 37 ter será de aplicación a todas las pensiones de Clases Pasivas del Estado, cualquiera que sea su legislación reguladora, así como a las pensiones causadas al amparo de la legislación especial de guerra.»
 
@@ -1929,7 +2080,7 @@ Se añade una nueva disposición adicional en la Ley de Enjuiciamiento Criminal,
 
 «Disposición adicional quinta. Comunicación de actuaciones al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina, a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas y a la Dirección General de Personal del Ministerio de Defensa.
 
-Los secretarios judiciales de los juzgados y tribunales comunicarán al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina y a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas, cualquier resolución judicial de la que se deriven indicios racionales de criminalidad por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en que la víctima fuera ascendiente, descendiente, hermano, cónyuge o excónyuge del investigado, o estuviera o hubiese estado ligada a él por una relación de afectividad análoga a la conyugal. Asimismo, comunicarán a dichos organismos oficiales las resoluciones judiciales firmes que pongan fin a los procedimientos penales. Dichas comunicaciones se realizarán a los efectos previstos en los artículos 179 ter, 179 quáter, 179 quinquies y 179 sexies del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio y en los artículos 37 bis y 37 ter del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.»
+Los secretarios judiciales de los juzgados y tribunales comunicarán al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina y a la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Hacienda y Administraciones Públicas, cualquier resolución judicial de la que se deriven indicios racionales de criminalidad por la comisión de un delito doloso de homicidio en cualquiera de sus formas, en que la víctima fuera ascendiente, descendiente, hermano, cónyuge o excónyuge del investigado, o estuviera o hubiese estado ligada a él por una relación de afectividad análoga a la conyugal. Asimismo, comunicarán a dichos organismos oficiales las resoluciones judiciales firmes que pongan fin a los procedimientos penales. Dichas comunicaciones se realizarán a los efectos previstos en los artículos 179 ter, 179 quáter, 179 quinquies y 179 sexies del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio y en los artículos 37 bis y 37 ter del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.»
 
 #### Disposición final decimotercera. Modificación de la Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social.
 
@@ -1959,29 +2110,29 @@ La disposición final tercera se dicta al amparo del artículo 149.1.7.ª de la 
 
 La disposición final cuarta se dicta al amparo del artículo 149.1.18.ª de la Constitución Española, constituyendo bases del régimen estatutario de los funcionarios, sin perjuicio de las competencias de las Comunidades Autónomas que ya disponen de competencia exclusiva sobre el régimen estatutario del personal al servicio de las Administraciones Públicas y especialidades derivadas de la organización administrativa y funcionarial propias de las Comunidades Autónomas.
 
-La disposición final quinta se dicta al amparo del artículo 149.1.1.ª, 7.ª y 17.ª de la Constitución Española.
+La disposición final quinta se dicta al amparo del artículo 149.1.1.ª, 7.ª y 17.ª de la Constitución Española.
 
-#### Disposición final decimosexta. Desarrollo reglamentario de las Ciudades de Ceuta y Melilla.
+Disposición final decimosexta.... Desarrollo reglamentario de las Ciudades de Ceuta y Melilla.
 
 De conformidad con lo dispuesto en el apartado tercero de la disposición adicional cuarta de la [Ley 27/2013](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md), de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local, las Ciudades de Ceuta y Melilla, en ejercicio de su potestad reglamentaria, podrán desarrollar el contenido de la presente ley de acuerdo con los criterios y circunstancias en ella contenidos, al objeto de ajustarlo a las condiciones particulares de éstas, en desarrollo de su capacidad reglamentaria y dentro del alcance de la misma.
 
-#### Disposición final decimoséptima. Creación del registro central de delincuentes sexuales.
+Disposición final decimoséptima.... Creación del registro central de delincuentes sexuales.
 
 El Gobierno, a propuesta del Ministerio de Justicia, oído el Consejo General del Poder Judicial y la Agencia de Protección de Datos, dictará en el plazo de seis meses desde la publicación de esta Ley, las disposiciones reglamentarias oportunas relativas a la organización del Registro Central de delincuentes sexuales en el Registro Central de Penados y en el Registro Central de Sentencias de Responsabilidad Penal de los Menores, integrándose en el sistema de registros de apoyo a la Administración de Justicia, así como el régimen de inscripción y cancelación de sus asientos y el acceso a la información contenida en aquél, asegurando en todo caso su confidencialidad. Se formará, al menos, con los datos relativos a la identidad y perfil genético (ADN) de las personas condenadas por los delitos contra la libertad e indemnidad sexuales, en los que incluyen la agresión y abuso sexual, acoso sexual, exhibicionismo y provocación sexual, prostitución y explotación sexual y corrupción de menores. La Administración General del Estado colaborará con las autoridades competentes de los Estados miembros de la Unión Europea para facilitar el intercambio de información en este ámbito.
 
-#### Disposición final decimoctava. Modificaciones y desarrollos reglamentarios.
+Disposición final decimoctava.... Modificaciones y desarrollos reglamentarios.
 
 El Gobierno llevará a cabo las modificaciones y desarrollos reglamentarios que sean precisos para la aplicación de la presente ley.
 
-#### Disposición final decimonovena. Incorporación de normas de la Unión Europea.
+Disposición final decimonovena.... Incorporación de normas de la Unión Europea.
 
 En esta ley se contienen las normas de incorporación al Derecho español de los artículos 10 y 15 de la Directiva del Parlamento Europeo y del Consejo 2011/93/UE, de 13 de diciembre de 2011, relativa a la lucha contra los abusos sexuales y la explotación sexual de los menores y la pornografía infantil y por la que se sustituye la Decisión marco 2004/68/JAI del Consejo.
 
-#### Disposición final vigésima. No incremento del gasto.
+Disposición final vigésima.... No incremento del gasto.
 
 Las medidas incluidas en esta norma no podrán suponer incremento de gasto público, ni de dotaciones, ni de retribuciones, ni de otros gastos de personal.
 
-#### Disposición final vigesimoprimera. Entrada en vigor.
+Disposición final vigesimoprimera.... Entrada en vigor.
 
 Por tanto,
 
@@ -1995,11 +2146,10 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -2016,6 +2166,7 @@ MARIANO RAJOY BREY
 - **Fundamento de**: [**Resolucion BOC 1**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)

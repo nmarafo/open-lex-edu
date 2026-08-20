@@ -1,14 +1,10 @@
 ---
 id: norm-es-2015-9453
 codigo_sintetizado: BOE-A-2015-9453
-titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios
-  que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas
-  especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades
-  vinculadas a las enseñanzas de música y de danza.
+titulo: Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-08-28'
 boletin: BOE
@@ -19,51 +15,50 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Oposiciones y acceso
 tags:
-- ebep
-- ensenanzas-artisticas
-- oposiciones
-- oposiciones-y-acceso
-- profesorado
+  - ebep
+  - ensenanzas-artisticas
+  - oposiciones
+  - oposiciones-y-acceso
+  - profesorado
 relaciones:
   desarrolla:
-  - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rd-276-2007
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rdl-5-2015
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rdl-5-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2007-5478
-- norma_id: norm-es-rd-276-2007
+    - '1'
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-rd-276-2007
 ---
+# Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
 ## Preámbulo
-
-# Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
-
-# Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
 Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
 
 Las especialidades para impartir las enseñanzas elementales y profesionales de Música y de Danza por el cuerpo de funcionarios docentes en centros públicos han sido determinadas en el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza.
 
-El artículo 19 del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, establece que previa consulta a las Comunidades Autónomas, por vía reglamentaria se aprobarán los temarios definitivos que correspondan para los distintos cuerpos y especialidades en la fase de oposición.
+El artículo 19 l.
+
+Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, establece que previa consulta a las Comunidades Autónomas, por vía reglamentaria se aprobarán los temarios definitivos que correspondan para los distintos cuerpos y especialidades en la fase de oposición.
 
 Procede por tanto, dando cumplimiento al citado artículo, aprobar los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de las especialidades docentes determinadas en el Real Decreto 428/2013, de 14 de junio.
 
@@ -79,7 +74,9 @@ Esta orden tiene por objeto la aprobación de los temarios que han de regir en l
 
 #### Artículo 2. Aprobación de los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas, en las especialidades vinculadas a las enseñanzas de Música y de Danza.
 
-Los temarios a que se refiere el artículo 19 del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, para las convocatorias de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza, reguladas por el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, son los que se establecen en la presente orden y que figuran en el anexo.
+Los temarios a que se refiere el artículo 19 l.
+
+Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se regula el régimen transitorio de ingreso a que se refiere la disposición transitoria decimoséptima de la citada ley, aprobado por [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, para las convocatorias de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de Música y de Danza, reguladas por el Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, son los que se establecen en la presente orden y que figuran en el anexo.
 
 #### Disposición final primera. Título competencial.
 
@@ -93,7 +90,7 @@ Se faculta a la persona titular de la Dirección General de Evaluación y Cooper
 
 Madrid, 25 de agosto de 2015.–El Ministro de Educación, Cultura y Deporte, Íñigo Méndez de Vigo y Montojo.
 
-ANEXO
+## Anexo
 
 Temarios correspondientes a las especialidades del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de música y de danza
 
@@ -807,7 +804,7 @@ Tema 2. La danza en el Renacimiento. Los primeros maestros. Génesis del Ballet 
 
 Tema 3. La danza barroca. La escritura de la danza. El paso definitivo hacia el profesionalismo: la codificación de los principios fundamentales de la danza clásica. La danza en el Siglo de Oro español.
 
-Tema 4. La danza en la España Ilustrada (1700-1808). El sarao: danzar a la francesa/danzar a la española. La recepción del ballet d’action en la península ibérica. El inicio de la tradición de la danza bolera. Principales fuentes históricas para el estudio de la danza en el siglo XVIII.
+Tema 4. La danza en la España Ilustrada (1700-1808). El sarao: danzar a la francesa/danzar a la española. La recepción del ballet d'action en la península ibérica. El inicio de la tradición de la danza bolera. Principales fuentes históricas para el estudio de la danza en el siglo XVIII.
 
 Tema 5. El desarrollo de la danza escénica española en el siglo XIX (1808-1898). La llegada de bailarines franceses. Recepción de la danza española en Europa. El teatro del circo: la convivencia de códigos coréuticos. Principales intérpretes, músicos, coreógrafos y tratadistas. La visión romántica de la danza española en los «viajes por España». La escuela bolera. Su evolución hasta la actualidad. Repertorio histórico. Principales maestros, coreógrafos e intérpretes.
 
@@ -1071,7 +1068,7 @@ Tema 7. La influencia de la escuela bolera en el baile flamenco. Las academias d
 
 Tema 8. Historia de la guitarra flamenca. Principales maestros de la guitarra. La incorporación de la guitarra flamenca. Implicación de la guitarra en el baile. Diferentes técnicas guitarrísticas en el acompañamiento al baile.
 
-Tema 9. Orígenes e historia del cante flamenco. Los cantes flamencos. Diferentes estilos de los cantes para el baile. La influencia del cante en el baile. Principales maestros del cante. Cuadratura de los cantes de a’lante.
+Tema 9. Orígenes e historia del cante flamenco. Los cantes flamencos. Diferentes estilos de los cantes para el baile. La influencia del cante en el baile. Principales maestros del cante. Cuadratura de los cantes de a'lante.
 
 Tema 10. La danza en España como patrimonio histórico-artístico cultural. Responsabilidad del docente en su valoración, preservación y transmisión a las actuales y futuras generaciones. La relación de la danza con las corrientes estéticas y con las demás artes.
 
@@ -1269,7 +1266,7 @@ Tema 6. Evolución de la metodología de la enseñanza de la composición polif�
 
 Tema 7. Los diferentes métodos de trabajo, tratados y otros materiales pedagógicos. Aspectos vocal e instrumental de la realización. Bibliografía especializada relacionada y su didáctica.
 
-Tema 8. Evolución del lenguaje musical occidental desde la antigüedad hasta el siglo X. La teoría musical griega y el sistema modal medieval: puntos de contacto y discrepancia entre ambos. Armonización modal: El canto gregoriano y la música basada en el antiguo sistema modal. Estudio de los procedimientos empleados por los teóricos que se ocupan del mismo.
+Tema 8. Evolución del lenguaje musical occidental desde la antigüedad hasta el siglo X. La teoría musical griega y el sistema modal medieval: puntos de contacto y discrepancia entre ambos. Armonización modal: El canto gregoriano y la música basada en el antiguo sistema modal. Estudio de los procedimientos empleados por los teóricos que se ocupan del mismo.
 
 Tema 9. La polifonía. Su evolución, desde sus orígenes hasta el Renacimiento. Origen y desarrollo del sentimiento armónico durante el Ars Antigua y el Ars Nova.
 
@@ -1595,7 +1592,7 @@ Tema 5. La danza en el Renacimiento. La danza en las cortes Europeas, fiestas y 
 
 Tema 6. El paso definitivo hacia el profesionalismo: la codificación de los principios fundamentales de la danza clásica en el siglo XVII y la creación de la Academia Real de Danza en Francia (1661). Repertorios y tratadistas. La comédie-ballet y la tragédie-ballet. Las danzas barrocas y la suite de danzas.
 
-Tema 7. Creación del Conservatorio de Danza francés (1713). De la opéra-ballet al ballet d’action. El Rococó en Francia: temas géneros, pensamiento teórico y su influencia. Hilferding, Angliolini y Noverre. Louis Dupré. Los Vestris.
+Tema 7. Creación del Conservatorio de Danza francés (1713). De la opéra-ballet al ballet d'action. El Rococó en Francia: temas géneros, pensamiento teórico y su influencia. Hilferding, Angliolini y Noverre. Louis Dupré. Los Vestris.
 
 Tema 8. La danza en España en el Siglo de Oro. Los ámbitos de la danza. Juan de Esquivel y sus discursos sobre «El arte del danzado y sus excelencias». Otras fuentes.
 
@@ -1645,7 +1642,7 @@ Tema 30. La danza contemporánea en España: consolidación, evolución hasta fi
 
 Tema 31. Compañías Nacionales de España: La Compañía Nacional de Danza (desde su origen), y el Ballet Nacional de España. Nacimiento, evolución y desarrollo. Su papel en el desarrollo de la danza en España.
 
-Tema 32. La danza española actual: segundo periodo del siglo XX, décadas 40, 50 y 60: Pilar López, Mariemma y Antonio Ruiz. Tercer periodo, décadas 70, 80 y 90: José Granero, Antonio Gades. Mario Maya, José Antonio. Compañías de danza en las Comunidades Autónomas. Principales compañías privadas. Nuevas orientaciones de la danza española. Nuevas generaciones de intérpretes. Difusión internacional. Principales coreógrafos e intérpretes.
+Tema 32. La danza española actual: segundo periodo del siglo XX, décadas 40, 50 y 60: Pilar López, Mariemma y Antonio Ruiz. Tercer periodo, décadas 70, 80 y 90: José Granero, Antonio Gades. Mario Maya, José Antonio. Compañías de danza en las Comunidades Autónomas. Principales compañías privadas. Nuevas orientaciones de la danza española. Nuevas generaciones de intérpretes. Difusión internacional. Principales coreógrafos e intérpretes.
 
 Tema 33. Interdisciplinariedad en los estudios de danza. Interrelación entre las distintas disciplinas teórico-prácticas que conforman el currículo.
 
@@ -1681,7 +1678,7 @@ Tema 12. El canto gregoriano. El papa Gregorio Magno. La liturgia cristiana en �
 
 Tema 13. Música monódica no gregoriana en la Edad Media. La monodia medieval no gregoriana. Tropos y secuencias. El drama litúrgico. Laudas y cantigas. La música laica. La danza. Mimos, juglares y clérigos. Los trovadores y la canción cortesana. Los instrumentos musicales.
 
-Tema 14. El Ars Antiqua. Orígenes y primer desarrollo de la polifonía. La noción de polifonía primitiva. Los orígenes de la polifonía en Occidente. El organum y su evolución: el conductus y el motete: sus técnicas. La práctica polifónica en San Marcial de Limoges, Santiago de Compostela y París. La teoría hexacordal. La escritura mensural en el siglo XIII.
+Tema 14. El Ars Antiqua. Orígenes y primer desarrollo de la polifonía. La noción de polifonía primitiva. Los orígenes de la polifonía en Occidente. El organum y su evolución: el conductus y el motete: sus técnicas. La práctica polifónica en San Marcial de Limoges, Santiago de Compostela y París. La teoría hexacordal. La escritura mensural en el siglo XIII.
 
 Tema 15. La música en el siglo XIV. El Ars Nova: Francia, Italia, España e Inglaterra. Los géneros monódicos. La transformación del motete. La misa polifónica. El madrigal y la balada. Música descriptiva: la caccia y la música instrumental. El Ars subtillor.
 
@@ -1705,7 +1702,7 @@ Tema 24. La música instrumental hasta el último tercio del siglo XVIII. La con
 
 Tema 25. La música vocal y escénica y la música religiosa en el siglo XVIII. Oratorios, cantatas, pasiones y misas. La Ópera. Su influencia en la música posterior. J.S.Bach, Händel. La ópera napolitana. El bel canto. Ópera seria, ópera cómica, ópera bufa. Puccini y Gluck. La tonadilla escénica.
 
-Tema 26. La música instrumental de la Ilustración. El estilo galante y el gusto burgués. El pianoforte. Las sonatas de Clementi y de J.S.Bach. Consolidación y apogeo de la forma sonata. La «Escuela de Mannheim» y la orquesta moderna. La sinfonía: Haydn, Mozart y el piano: sonatas y conciertos. La música de cámara a finales del siglo XVIII.
+Tema 26. La música instrumental de la Ilustración. El estilo galante y el gusto burgués. El pianoforte. Las sonatas de Clementi y de J.S.Bach. Consolidación y apogeo de la forma sonata. La «Escuela de Mannheim» y la orquesta moderna. La sinfonía: Haydn, Mozart y el piano: sonatas y conciertos. La música de cámara a finales del siglo XVIII.
 
 Tema 27. La música vocal a finales del siglo XVIII. Mozart y la ópera. La concepción dramático-musical de sus óperas. Transición del Clasicismo al Romanticismo.
 
@@ -1719,7 +1716,7 @@ Tema 31. La ópera y el ballet en el siglo XIX. La edad de oro en la Grand Óper
 
 Tema 32. Las corrientes musicales nacionalistas en el siglo XIX. Cosmopolitismo y nacionalismo. La recuperación y la moda del folklore. La canción «popular» de autor. La música en centro-europa y en los países eslavos. Los países nórdicos. Los países latinos. Nacionalismo y casticismo en España: la zarzuela y el «género chico».
 
-Tema 33. La herencia romántica y las búsquedas de un nuevo lenguaje. El posromanticismo en Alemania y Francia. El naturalismo y el verismo. El Simbolismo y el Impresionismo. La renovación musical en Inglaterra. La música en América durante el siglo XIX. Los estudios historiográficos y musicológicos.
+Tema 33. La herencia romántica y las búsquedas de un nuevo lenguaje. El posromanticismo en Alemania y Francia. El naturalismo y el verismo. El Simbolismo y el Impresionismo. La renovación musical en Inglaterra. La música en América durante el siglo XIX. Los estudios historiográficos y musicológicos.
 
 Tema 34. La música en las primeras décadas del siglo XX. Los ballets rusos. Stravinsky y el retorno al Clasicismo. Hacia la disolución de la tonalidad. Las vanguardias. El atonalismo. Schönberg y su sistema para componer con doce sonidos. El expresionismo musical. La segunda escuela de Viena. Grandes figuras independientes.
 
@@ -1731,7 +1728,7 @@ Tema 37. El jazz. Música africana y europea en el crisol de la música american
 
 Tema 38. La canción melódica. La sensibilidad popular musical en la sociedad moderna. De la canción romántica de salón al couplet. El «contenidismo» francés. La melodía italiana. El nacional-folklorismo español. Iberoamérica: del tango a la salsa. Cine musical y sentimentalismo melódico.
 
-Tema 39. El fenómeno rock. Señas de identidad de una generación: La música como coartada mercantil. Los orígenes: jazz, country y rhythm’n blues. El rock and roll. El «pop» y otras manifestaciones. Grandes mitos.
+Tema 39. El fenómeno rock. Señas de identidad de una generación: La música como coartada mercantil. Los orígenes: jazz, country y rhythm'n blues. El rock and roll. El «pop» y otras manifestaciones. Grandes mitos.
 
 Tema 40. El flamenco: orígenes. Cante, baile e instrumentos. Geografía del flamenco. Características musicales y poéticas. Estilos y «palos». Influencia de otros géneros y estilos musicales: fusión.
 
@@ -1927,7 +1924,7 @@ Tema 31. Las tecnologías de la información y de la comunicación aplicadas a l
 
 Oboe
 
-Tema 1. Historia general del oboe: Orígenes, antecedentes del oboe en todas las culturas desde la aparición de los instrumentos de doble lengüeta y evolución hasta el siglo XVIII. Mecanización del oboe desde el siglo XVIII.
+Tema 1. Historia general del oboe: Orígenes, antecedentes del oboe en todas las culturas desde la aparición de los instrumentos de doble lengüeta y evolución hasta el siglo XVIII. Mecanización del oboe desde el siglo XVIII.
 
 Tema 2. El oboe moderno: Descripción de sus características constructivas. Aspectos fundamentales en la elección del instrumento. Instrucciones básicas sobre montaje, mantenimiento, conservación y pequeñas reparaciones. Conocimiento del proceso de elaboración, selección y retoque de las cañas. La familia del oboe.
 
@@ -2393,7 +2390,7 @@ Tema 8. Los primeros métodos y colecciones de estudios y ejercicios para la ten
 
 Tema 9. Características, referidas a la evolución del estilo y de la escritura instrumental, en el repertorio de música para cobla en el siglo XIX y principios del siglo XX. Los solos de tenora y tible en dicha época.
 
-Tema 10. Características, referidas a la evolución del estilo y de la escritura instrumental, en las sardanas y obras de concierto para cobla en la primera mitad del siglo XX. La tenora como instrumento sinfónico, su nacimiento y evolución en estas décadas. Compositores y obras de referencia.
+Tema 10. Características, referidas a la evolución del estilo y de la escritura instrumental, en las sardanas y obras de concierto para cobla en la primera mitad del siglo XX. La tenora como instrumento sinfónico, su nacimiento y evolución en estas décadas. Compositores y obras de referencia.
 
 Tema 11. Características, referidas a la evolución del estilo y de la escritura instrumental, en las sardanas y obras de concierto para cobla en la segunda mitad del siglo XX y en la actualidad. Compositores y obras de referencia.
 
@@ -2961,11 +2958,10 @@ Tema 29. La música como patrimonio histórico-artístico cultural. La relación
 
 Tema 30. Las tecnologías de la información y de la comunicación aplicadas a la enseñanza y al aprendizaje del instrumento. Importancia de la utilización del software musical y de la selección de los recursos de Internet.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
@@ -2976,6 +2972,7 @@ Tema 30. Las tecnologías de la información y de la comunicación aplicadas a l
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)

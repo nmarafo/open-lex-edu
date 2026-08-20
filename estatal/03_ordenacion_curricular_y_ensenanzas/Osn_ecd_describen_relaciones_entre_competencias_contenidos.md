@@ -1,13 +1,10 @@
 ---
 id: norm-es-2015-738
 codigo_sintetizado: BOE-A-2015-738
-titulo: Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones
-  entre las competencias, los contenidos y los criterios de evaluación de la educación
-  primaria, la educación secundaria obligatoria y el bachillerato.
+titulo: Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2015-01-29'
 boletin: BOE
@@ -18,35 +15,32 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- atencion-diversidad
-- bachillerato
-- curriculo
-- educacion-primaria
-- eoi
-- equipos-directivos
-- eso
-- evaluacion
+  - atencion-diversidad
+  - bachillerato
+  - curriculo
+  - educacion-primaria
+  - eoi
+  - equipos-directivos
+  - eso
+  - evaluacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 ## Preámbulo
-
-# Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
-
-# Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 Las orientaciones de la Unión Europea insisten en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que los individuos alcancen un pleno desarrollo personal, social y profesional que se ajuste a las demandas de un mundo globalizado y haga posible el desarrollo económico, vinculado al conocimiento. Así se establece, desde el Consejo Europeo de Lisboa en el año 2000 hasta las Conclusiones del Consejo de 2009 sobre el Marco Estratégico para la cooperación europea en el ámbito de la educación y la formación («ET 2020»).
 
@@ -74,7 +68,11 @@ La Comisión, en la Estrategia Europea 2020 para un crecimiento inteligente, sos
 
 Siguiendo estas recomendaciones, en España se incorporaron al sistema educativo no universitario las competencias clave con el nombre de competencias básicas. La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE), hace ya referencia en su exposición de motivos, entre otros asuntos, a la necesidad de cohesión social, al aprendizaje permanente a lo largo de la vida y a la sociedad del conocimiento, e introduce el término competencias básicas por primera vez en la normativa educativa.
 
-La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de Calidad Educativa (LOMCE), va más allá al poner el énfasis en un modelo de currículo basado en competencias: introduce un nuevo artículo 6 bis en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que en su apartado 1.e) establece que corresponde al Gobierno «el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, criterios de evaluación, estándares y resultados de aprendizaje evaluables, con el fin de asegurar una formación común y el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica».
+La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de Calidad Educativa (LOMCE), va más allá al poner el énfasis en un modelo de currículo basado en competencias: introduce un nuevo
+
+#### Artículo 6 bis. en.
+
+la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que en su apartado 1.e) establece que corresponde al Gobierno «el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, criterios de evaluación, estándares y resultados de aprendizaje evaluables, con el fin de asegurar una formación común y el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica».
 
 Dado que el aprendizaje basado en competencias se caracteriza por su transversalidad, su dinamismo y su carácter integral, el proceso de enseñanza-aprendizaje competencial debe abordarse desde todas las áreas de conocimiento y por parte de las diversas instancias que conforman la comunidad educativa, tanto en los ámbitos formales como en los no formales e informales. Su dinamismo se refleja en que las competencias no se adquieren en un determinado momento y permanecen inalterables, sino que implican un proceso de desarrollo mediante el cual los individuos van adquiriendo mayores niveles de desempeño en el uso de las mismas.
 
@@ -100,9 +98,7 @@ En su virtud, y de acuerdo con el Consejo de Estado, dispongo:
 
 2. Esta orden será de aplicación en todo el territorio.
 
-#### Artículo 2. Las competencias clave en el Sistema Educativo Español.
-
-A efectos de esta orden, las competencias clave del currículo son las siguientes:
+#### Artículo 2. Las competencias clave en el Sistema Educativo Español A efectos de esta orden, las competencias clave del currículo son las siguientes:.
 
 a) Comunicación lingüística.
 
@@ -186,7 +182,7 @@ En todo caso, los distintos procedimientos de evaluación utilizables, como la o
 
 Madrid, 21 de enero de 2015.–El Ministro de Educación, Cultura y Deporte, José Ignacio Wert Ortega.
 
-ANEXO I
+## Anexo I
 
 Descripción de las competencias clave del Sistema Educativo Español
 
@@ -406,7 +402,7 @@ Así pues, para el adecuado desarrollo de la competencia para la conciencia y ex
 
 – El desarrollo de la capacidad de esfuerzo, constancia y disciplina como requisitos necesarios para la creación de cualquier producción artística de calidad, así como habilidades de cooperación que permitan la realización de trabajos colectivos.
 
-ANEXO II
+## Anexo II
 
 Orientaciones para facilitar el desarrollo de estrategias metodológicas que permitan trabajar por competencias en el aula
 
@@ -438,17 +434,17 @@ La selección y uso de materiales y recursos didácticos constituye un aspecto e
 
 Finalmente, es necesaria una adecuada coordinación entre los docentes sobre las estrategias metodológicas y didácticas que se utilicen. Los equipos educativos deben plantearse una reflexión común y compartida sobre la eficacia de las diferentes propuestas metodológicas con criterios comunes y consensuados. Esta coordinación y la existencia de estrategias conexionadas permiten abordar con rigor el tratamiento integrado de las competencias y progresar hacia una construcción colaborativa del conocimiento.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)

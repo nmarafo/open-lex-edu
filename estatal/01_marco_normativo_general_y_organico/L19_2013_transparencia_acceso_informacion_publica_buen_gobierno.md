@@ -1,8 +1,7 @@
 ---
 id: norm-es-l-19-2013
 codigo_sintetizado: L19_2013 Transparencia y Buen Gobierno
-titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
-  pública y buen gobierno.
+titulo: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,50 +18,47 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- acceso-informacion
-- admision-alumnado
-- buen-gobierno
-- empleados-p-blicos
-- oposiciones
-- proteccion-menores
-- rgpd
-- titulacion
-- transparencia
+  - acceso-informacion
+  - admision-alumnado
+  - buen-gobierno
+  - empleados-p-blicos
+  - oposiciones
+  - proteccion-menores
+  - rgpd
+  - titulacion
+  - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1985-5392
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2007-19814
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-1985-5392
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-3-2018
   fundamento_de:
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-can-o-2023-09-28
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - 105.b
-- norma_id: norm-es-l-39-2015
+    - 105.b
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-3-2018
+    - '1'
+    - norma_id: norm-es-lo-3-2018
   articulos:
-  - '1'
-- norma_id: norm-es-2007-19814
-- norma_id: norm-es-1985-5392
-- norma_id: norm-es-1999-23750
+    - '1'
+    - norma_id: norm-es-2007-19814
+    - norma_id: norm-es-1985-5392
+    - norma_id: norm-es-1999-23750
 ---
-
-## Preámbulo
-
 # Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
 
-# Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
+## Preámbulo
 
 **JUAN CARLOS I**
 
@@ -74,15 +70,13 @@ Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguient
 
 **ÍNDICE**
 
-Preámbulo.
-
-Título preliminar.
+## Título Preliminar
 
 #### Artículo 1. Objeto.
 
-Título I. Transparencia de la actividad pública.
+## Título I. Transparencia de la actividad pública.
 
-Capítulo I. Ámbito subjetivo de aplicación.
+### Capítulo I. Ámbito subjetivo de aplicación.
 
 #### Artículo 2. Ámbito subjetivo de aplicación.
 
@@ -90,7 +84,7 @@ Capítulo I. Ámbito subjetivo de aplicación.
 
 #### Artículo 4. Obligación de suministrar información.
 
-Capítulo II. Publicidad activa.
+### Capítulo II. Publicidad activa.
 
 #### Artículo 5. Principios generales.
 
@@ -106,9 +100,9 @@ Capítulo II. Publicidad activa.
 
 #### Artículo 11. Principios técnicos.
 
-Capítulo III. Derecho de acceso a la información pública.
+### Capítulo III. Derecho de acceso a la información pública.
 
-Sección 1.ª Régimen general.
+#### Sección 1. ª Régimen general.
 
 #### Artículo 12. Derecho de acceso a la información pública.
 
@@ -120,7 +114,7 @@ Sección 1.ª Régimen general.
 
 #### Artículo 16. Acceso parcial.
 
-Sección 2.ª Ejercicio del derecho de acceso a la información pública.
+#### Sección 2. ª Ejercicio del derecho de acceso a la información pública.
 
 #### Artículo 17. Solicitud de acceso a la información.
 
@@ -134,13 +128,13 @@ Sección 2.ª Ejercicio del derecho de acceso a la información pública.
 
 #### Artículo 22. Formalización del acceso.
 
-Sección 3.ª Régimen de impugnaciones.
+#### Sección 3. ª Régimen de impugnaciones.
 
 #### Artículo 23. Recursos.
 
 #### Artículo 24. Reclamación ante el Consejo de Transparencia y Buen Gobierno.
 
-Título II. Buen gobierno.
+## Título II. Buen gobierno.
 
 #### Artículo 25. Ámbito de aplicación.
 
@@ -158,7 +152,7 @@ Título II. Buen gobierno.
 
 #### Artículo 32. Prescripción.
 
-Título III. Consejo de Transparencia y Buen Gobierno.
+## Título III. Consejo de Transparencia y Buen Gobierno.
 
 #### Artículo 33. Consejo de Transparencia y Buen Gobierno.
 
@@ -230,9 +224,9 @@ La Ley amplía y refuerza las obligaciones de publicidad activa en distintos ám
 
 Para canalizar la publicación de tan ingente cantidad de información y facilitar el cumplimiento de estas obligaciones de publicidad activa y, desde la perspectiva de que no se puede, por un lado, hablar de transparencia y, por otro, no poner los medios adecuados para facilitar el acceso a la información divulgada, la Ley contempla la creación y desarrollo de un Portal de la Transparencia. Las nuevas tecnologías nos permiten hoy día desarrollar herramientas de extraordinaria utilidad para el cumplimiento de las disposiciones de la Ley cuyo uso permita que, a través de un único punto de acceso, el ciudadano pueda obtener toda la información disponible.
 
-La Ley también regula el derecho de acceso a la información pública que, no obstante, ya ha sido desarrollado en otras disposiciones de nuestro ordenamiento. En efecto, partiendo de la previsión contenida en el artículo 105.b) de nuestro texto constitucional, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrolla en su artículo 37 el derecho de los ciudadanos a acceder a los registros y documentos que se encuentren en los archivos administrativos. Pero esta regulación adolece de una serie de deficiencias que han sido puestas de manifiesto de forma reiterada al no ser claro el objeto del derecho de acceso, al estar limitado a documentos contenidos en procedimientos administrativos ya terminados y al resultar su ejercicio extraordinariamente limitado en su articulación práctica.
+La Ley también regula el derecho de acceso a la información pública que, no obstante, ya ha sido desarrollado en otras disposiciones de nuestro ordenamiento. En efecto, partiendo de la previsión contenida en el artículo 105.b) de nuestro texto constitucional, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, desarrolla en su artículo 37 el derecho de los ciudadanos a acceder a los registros y documentos que se encuentren en los archivos administrativos. Pero esta regulación adolece de una serie de deficiencias que han sido puestas de manifiesto de forma reiterada al no ser claro el objeto del derecho de acceso, al estar limitado a documentos contenidos en procedimientos administrativos ya terminados y al resultar su ejercicio extraordinariamente limitado en su articulación práctica.
 
-Igualmente, pero con un alcance sectorial y derivado de sendas Directivas comunitarias, otras normas contemplan el acceso a la información pública. Es el caso de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente y de la [Ley 37/2007](L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, que regula el uso privado de documentos en poder de Administraciones y organismos del sector público. Además, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, a la vez que reconoce el derecho de los ciudadanos a relacionarse con la Administración por medios electrónicos, se sitúa en un camino en el que se avanza con esta Ley: la implantación de una cultura de transparencia que impone la modernización de la Administración, la reducción de cargas burocráticas y el empleo de los medios electrónicos para la facilitar la participación, la transparencia y el acceso a la información.
+Igualmente, pero con un alcance sectorial y derivado de sendas Directivas comunitarias, otras normas contemplan el acceso a la información pública. Es el caso de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente y de la [Ley 37/2007](L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, que regula el uso privado de documentos en poder de Administraciones y organismos del sector público. Además, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, a la vez que reconoce el derecho de los ciudadanos a relacionarse con la Administración por medios electrónicos, se sitúa en un camino en el que se avanza con esta Ley: la implantación de una cultura de transparencia que impone la modernización de la Administración, la reducción de cargas burocráticas y el empleo de los medios electrónicos para la facilitar la participación, la transparencia y el acceso a la información.
 
 La Ley, por lo tanto, no parte de la nada ni colma un vacío absoluto, sino que ahonda en lo ya conseguido, supliendo sus carencias, subsanando sus deficiencias y creando un marco jurídico acorde con los tiempos y los intereses ciudadanos.
 
@@ -258,11 +252,11 @@ En materia de impugnaciones se crea una reclamación potestativa y previa a la v
 
 El título II otorga rango de Ley a los principios éticos y de actuación que deben regir la labor de los miembros del Gobierno y altos cargos y asimilados de la Administración del Estado, de las Comunidades Autónomas y de las Entidades Locales. Igualmente, se clarifica y refuerza el régimen sancionador que les resulta de aplicación, en consonancia con la responsabilidad a la que están sujetos.
 
-Este sistema busca que los ciudadanos cuenten con servidores públicos que ajusten sus actuaciones a los principios de eficacia, austeridad, imparcialidad y, sobre todo, de responsabilidad. Para cumplir este objetivo, la Ley consagra un régimen sancionador estructurado en tres ámbitos: infracciones en materia de conflicto de intereses, en materia de gestión económico-presupuestaria y en el ámbito disciplinario. Además, se incorporan infracciones derivadas del incumplimiento de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. En el ámbito económico-presupuestario resulta destacable que se impondrán sanciones a quienes comprometan gastos, liquiden obligaciones y ordenen pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la normativa presupuestaria, o no justifiquen la inversión de los fondos a los que se refieren la normativa presupuestaria equivalente. De esta manera se introduce un mecanismo de control fundamental que evitará comportamientos irresponsables y que resultan inaceptables en un Estado de Derecho.
+Este sistema busca que los ciudadanos cuenten con servidores públicos que ajusten sus actuaciones a los principios de eficacia, austeridad, imparcialidad y, sobre todo, de responsabilidad. Para cumplir este objetivo, la Ley consagra un régimen sancionador estructurado en tres ámbitos: infracciones en materia de conflicto de intereses, en materia de gestión económico-presupuestaria y en el ámbito disciplinario. Además, se incorporan infracciones derivadas del incumplimiento de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera. En el ámbito económico-presupuestario resulta destacable que se impondrán sanciones a quienes comprometan gastos, liquiden obligaciones y ordenen pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la normativa presupuestaria, o no justifiquen la inversión de los fondos a los que se refieren la normativa presupuestaria equivalente. De esta manera se introduce un mecanismo de control fundamental que evitará comportamientos irresponsables y que resultan inaceptables en un Estado de Derecho.
 
-La comisión de las infracciones previstas dará lugar a la imposición de sanciones como la destitución en los cargos públicos que ocupe el infractor, la no percepción de pensiones indemnizatorias, la obligación de restituir las cantidades indebidamente percibidas y la obligación de indemnizar a la Hacienda Pública. Debe señalarse que estas sanciones se inspiran en las ya previstas en la Ley 5/2006, de 10 de abril, de conflictos de intereses de miembros del Gobierno y de los altos cargos de la Administración General del Estado.
+La comisión de las infracciones previstas dará lugar a la imposición de sanciones como la destitución en los cargos públicos que ocupe el infractor, la no percepción de pensiones indemnizatorias, la obligación de restituir las cantidades indebidamente percibidas y la obligación de indemnizar a la Hacienda Pública. Debe señalarse que estas sanciones se inspiran en las ya previstas en la Ley 5/2006, de 10 de abril, de conflictos de intereses de miembros del Gobierno y de los altos cargos de la Administración General del Estado.
 
-Además, se establece la previsión de que los autores de infracciones muy graves no puedan ser nombrados para ocupar determinados cargos públicos durante un periodo de entre 5 y 10 años.
+Además, se establece la previsión de que los autores de infracciones muy graves no puedan ser nombrados para ocupar determinados cargos públicos durante un periodo de entre 5 y 10 años.
 
 El título III de la Ley crea y regula el Consejo de Transparencia y Buen Gobierno, un órgano independiente al que se le otorgan competencias de promoción de la cultura de transparencia en la actividad de la Administración Pública, de control del cumplimiento de las obligaciones de publicidad activa, así como de garantía del derecho de acceso a la información pública y de la observancia de las disposiciones de buen gobierno. Se crea, por lo tanto, un órgano de supervisión y control para garantizar la correcta aplicación de la Ley.
 
@@ -272,25 +266,19 @@ Para respetar al máximo las competencias autonómicas, expresamente se prevé q
 
 Las disposiciones adicionales abordan diversas cuestiones como la aplicación de regulaciones especiales del derecho de acceso, la revisión y simplificación normativa –en el entendido de que también es un ejercicio de buen gobierno y una manifestación más de la transparencia el clarificar la normativa que está vigente y es de aplicación– y la colaboración entre el Consejo de Transparencia y Buen Gobierno y la Agencia Española de Protección de Datos en la determinación de criterios para la aplicación de los preceptos de la ley en lo relativo a la protección de datos personales.
 
-Las disposiciones finales, entre otras cuestiones, modifican la regulación del derecho de acceso a los archivos y registros administrativos contenida en la Ley 30/1992, de 26 de noviembre, amplían la publicidad de determinada información que figura en el Registro de bienes y derechos patrimoniales de los altos cargos de la Administración General del Estado y la obligación de publicidad prevista en el apartado 4 del artículo 136 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+Las disposiciones finales, entre otras cuestiones, modifican la regulación del derecho de acceso a los archivos y registros administrativos contenida en la Ley 30/1992, de 26 de noviembre, amplían la publicidad de determinada información que figura en el Registro de bienes y derechos patrimoniales de los altos cargos de la Administración General del Estado y la obligación de publicidad prevista en el apartado 4 del artículo 136 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
 Por último, la Ley prevé una entrada en vigor escalonada atendiendo a las especiales circunstancias que conllevará la aplicación de sus diversas disposiciones.
 
-TÍTULO PRELIMINAR
+## Título Preliminar. artículo 1 Objeto. Esta Ley tiene por objeto ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información relativa a aquella actividad y establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos así como las consecuencias derivadas de su incumplimiento.
 
-#### Artículo 1. Objeto.
-
-Esta Ley tiene por objeto ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información relativa a aquella actividad y establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos así como las consecuencias derivadas de su incumplimiento.
-
-## TÍTULO I
+## Título I
 
 **Transparencia de la actividad pública**
 
-CAPÍTULO I
+## Capítulo I. Ámbito subjetivo de aplicación.
 
-Ámbito subjetivo de aplicación
-
-#### Artículo 2. Ámbito subjetivo de aplicación.
+#### Artículo 2. Ámbito subjetivo de aplicación.
 
 1. Las disposiciones de este título se aplicarán a:
 
@@ -304,47 +292,47 @@ d) Las entidades de Derecho Público con personalidad jurídica propia, vinculad
 
 e) Las corporaciones de Derecho Público, en lo relativo a sus actividades sujetas a Derecho Administrativo.
 
-f)	La Casa de su Majestad el Rey, el Congreso de los Diputados, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial, así como el Banco de España, el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas, el Consejo Económico y Social y las instituciones autonómicas análogas, en relación con sus actividades sujetas a Derecho Administrativo.
+f) La Casa de su Majestad el Rey, el Congreso de los Diputados, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial, así como el Banco de España, el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas, el Consejo Económico y Social y las instituciones autonómicas análogas, en relación con sus actividades sujetas a Derecho Administrativo.
 
-g) Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea superior al 50 por 100.
+g) Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea superior al 50 por 100.
 
 h) Las fundaciones del sector público previstas en la legislación en materia de fundaciones.
 
-i) Las asociaciones constituidas por las Administraciones, organismos y entidades previstos en este artículo. Se incluyen los órganos de cooperación previstos en el artículo 5 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la medida en que, por su peculiar naturaleza y por carecer de una estructura administrativa propia, le resulten aplicables las disposiciones de este título. En estos casos, el cumplimiento de las obligaciones derivadas de la presente Ley serán llevadas a cabo por la Administración que ostente la Secretaría del órgano de cooperación.
+i) Las asociaciones constituidas por las Administraciones, organismos y entidades previstos en este artículo. Se incluyen los órganos de cooperación previstos en el artículo 5 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la medida en que, por su peculiar naturaleza y por carecer de una estructura administrativa propia, le resulten aplicables las disposiciones de este título. En estos casos, el cumplimiento de las obligaciones derivadas de la presente Ley serán llevadas a cabo por la Administración que ostente la Secretaría del órgano de cooperación.
 
 2. A los efectos de lo previsto en este título, se entiende por Administraciones Públicas los organismos y entidades incluidos en las letras a) a d) del apartado anterior.
 
-#### Artículo 3. Otros sujetos obligados.
+#### Artículo 3. Otros sujetos obligados.
 
 Las disposiciones del capítulo II de este título serán también aplicables a:
 
 a) Los partidos políticos, organizaciones sindicales y organizaciones empresariales.
 
-b) Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.
+b) Las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.
 
-#### Artículo 4. Obligación de suministrar información.
+#### Artículo 4. Obligación de suministrar información.
 
-Las personas físicas y jurídicas distintas de las referidas en los artículos anteriores que presten servicios públicos o ejerzan potestades administrativas estarán obligadas a suministrar a la Administración, organismo o entidad de las previstas en el artículo 2.1 a la que se encuentren vinculadas, previo requerimiento, toda la información necesaria para el cumplimiento por aquéllos de las obligaciones previstas en este título. Esta obligación se extenderá a los adjudicatarios de contratos del sector público en los términos previstos en el respectivo contrato.
+Las personas físicas y jurídicas distintas de las referidas en los artículos anteriores que presten servicios públicos o ejerzan potestades administrativas estarán obligadas a suministrar a la Administración, organismo o entidad de las previstas en el artículo 2.1 a la que se encuentren vinculadas, previo requerimiento, toda la información necesaria para el cumplimiento por aquéllos de las obligaciones previstas en este título. Esta obligación se extenderá a los adjudicatarios de contratos del sector público en los términos previstos en el respectivo contrato.
 
-CAPÍTULO II
+## Capítulo II. Publicidad activa.
 
-Publicidad activa
+#### Artículo 5. Principios generales.
 
-#### Artículo 5. Principios generales.
-
-1. Los sujetos enumerados en el artículo 2.1 publicarán de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad relacionada con el funcionamiento y control de la actuación pública.
+1. Los sujetos enumerados en el artículo 2.1 publicarán de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad relacionada con el funcionamiento y control de la actuación pública.
 
 2. Las obligaciones de transparencia contenidas en este capítulo se entienden sin perjuicio de la aplicación de la normativa autonómica correspondiente o de otras disposiciones específicas que prevean un régimen más amplio en materia de publicidad.
 
-3. Serán de aplicación, en su caso, los límites al derecho de acceso a la información pública previstos en el artículo 14 y, especialmente, el derivado de la protección de datos de carácter personal, regulado en el artículo 15. A este respecto, cuando la información contuviera datos especialmente protegidos, la publicidad sólo se llevará a cabo previa disociación de los mismos.
+3. Serán de aplicación, en su caso, los límites al derecho de acceso a la información pública previstos en el artículo 14 y,.
+
+especialmente, el derivado de la protección de datos de carácter personal, regulado en el artículo 15. A este respecto, cuando la información contuviera datos especialmente protegidos, la publicidad sólo se llevará a cabo previa disociación de los mismos.
 
 4. La información sujeta a las obligaciones de transparencia será publicada en las correspondientes sedes electrónicas o páginas web y de una manera clara, estructurada y entendible para los interesados y, preferiblemente, en formatos reutilizables. Se establecerán los mecanismos adecuados para facilitar la accesibilidad, la interoperabilidad, la calidad y la reutilización de la información publicada así como su identificación y localización.
 
-Cuando se trate de entidades sin ánimo de lucro que persigan exclusivamente fines de interés social o cultural y cuyo presupuesto sea inferior a 50.000 euros, el cumplimiento de las obligaciones derivadas de esta Ley podrá realizarse utilizando los medios electrónicos puestos a su disposición por la Administración Pública de la que provenga la mayor parte de las ayudas o subvenciones públicas percibidas.
+Cuando se trate de entidades sin ánimo de lucro que persigan exclusivamente fines de interés social o cultural y cuyo presupuesto sea inferior a 50.000 euros, el cumplimiento de las obligaciones derivadas de esta Ley podrá realizarse utilizando los medios electrónicos puestos a su disposición por la Administración Pública de la que provenga la mayor parte de las ayudas o subvenciones públicas percibidas.
 
 5. Toda la información será comprensible, de acceso fácil y gratuito y estará a disposición de las personas con discapacidad en una modalidad suministrada por medios o en formatos adecuados de manera que resulten accesibles y comprensibles, conforme al principio de accesibilidad universal y diseño para todos.
 
-#### Artículo 6. Información institucional, organizativa y de planificación.
+#### Artículo 6. Información institucional, organizativa y de planificación.
 
 1. Los sujetos comprendidos en el ámbito de aplicación de este título publicarán información relativa a las funciones que desarrollan, la normativa que les sea de aplicación así como a su estructura organizativa. A estos efectos, incluirán un organigrama actualizado que identifique a los responsables de los diferentes órganos y su perfil y trayectoria profesional.
 
@@ -352,7 +340,7 @@ Cuando se trate de entidades sin ánimo de lucro que persigan exclusivamente fin
 
 En el ámbito de la Administración General del Estado corresponde a las inspecciones generales de servicios la evaluación del cumplimiento de estos planes y programas.
 
-#### Artículo 7. Información de relevancia jurídica.
+#### Artículo 7. Información de relevancia jurídica.
 
 Las Administraciones Públicas, en el ámbito de sus competencias, publicarán:
 
@@ -360,13 +348,13 @@ a) Las directrices, instrucciones, acuerdos, circulares o respuestas a consultas
 
 b) Los Anteproyectos de Ley y los proyectos de Decretos Legislativos cuya iniciativa les corresponda, cuando se soliciten los dictámenes a los órganos consultivos correspondientes. En el caso en que no sea preceptivo ningún dictamen la publicación se realizará en el momento de su aprobación.
 
-c) Los proyectos de Reglamentos cuya iniciativa les corresponda. Cuando sea preceptiva la solicitud de dictámenes, la publicación se producirá una vez que estos hayan sido solicitados a los órganos consultivos correspondientes sin que ello suponga, necesariamente, la apertura de un trámite de audiencia pública.
+c) **Los proyectos de Reglamentos cuya iniciativa les corresponda.** Cuando sea preceptiva la solicitud de dictámenes, la publicación se producirá una vez que estos hayan sido solicitados a los órganos consultivos correspondientes sin que ello suponga, necesariamente, la apertura de un trámite de audiencia pública.
 
-d) Las memorias e informes que conformen los expedientes de elaboración de los textos normativos, en particular, la memoria del análisis de impacto normativo regulada por el Real Decreto 1083/2009, de 3 de julio.
+d) Las memorias e informes que conformen los expedientes de elaboración de los textos normativos, en particular, la memoria del análisis de impacto normativo regulada por el Real Decreto 1083/2009, de 3 de julio.
 
 e) Los documentos que, conforme a la legislación sectorial vigente, deban ser sometidos a un período de información pública durante su tramitación.
 
-#### Artículo 8. Información económica, presupuestaria y estadística.
+#### Artículo 8. Información económica, presupuestaria y estadística.
 
 1. Los sujetos incluidos en el ámbito de aplicación de este título deberán hacer pública, como mínimo, la información relativa a los actos de gestión administrativa con repercusión económica o presupuestaria que se indican a continuación:
 
@@ -382,19 +370,21 @@ d) Los presupuestos, con descripción de las principales partidas presupuestaria
 
 e) Las cuentas anuales que deban rendirse y los informes de auditoría de cuentas y de fiscalización por parte de los órganos de control externo que sobre ellos se emitan.
 
-f)	Las retribuciones percibidas anualmente por los altos cargos y máximos responsables de las entidades incluidas en el ámbito de la aplicación de este título. Igualmente, se harán públicas las indemnizaciones percibidas, en su caso, con ocasión del abandono del cargo.
+f) Las retribuciones percibidas anualmente por los altos cargos y máximos responsables de las entidades incluidas en el ámbito de la aplicación de este título. Igualmente, se harán públicas las indemnizaciones percibidas, en su caso, con ocasión del abandono del cargo.
 
-g)	Las resoluciones de autorización o reconocimiento de compatibilidad que afecten a los empleados públicos así como las que autoricen el ejercicio de actividad privada al cese de los altos cargos de la Administración General del Estado o asimilados según la normativa autonómica o local.
+g) Las resoluciones de autorización o reconocimiento de compatibilidad que afecten a los empleados públicos así como las que autoricen el ejercicio de actividad privada al cese de los altos cargos de la Administración General del Estado o asimilados según la normativa autonómica o local.
 
-h)	Las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local. Cuando el reglamento no fije los términos en que han de hacerse públicas estas declaraciones se aplicará lo dispuesto en la normativa de conflictos de intereses en el ámbito de la Administración General del Estado. En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares.
+h) Las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la [Ley 7/1985](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases del Régimen Local. Cuando el reglamento no fije los términos en que han de hacerse públicas estas declaraciones se aplicará lo dispuesto en la normativa de conflictos de intereses en el ámbito de la Administración General del Estado. En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares.
 
-i)	La información estadística necesaria para valorar el grado de cumplimiento y calidad de los servicios públicos que sean de su competencia, en los términos que defina cada administración competente.
+i) La información estadística necesaria para valorar el grado de cumplimiento y calidad de los servicios públicos que sean de su competencia, en los términos que defina cada administración competente.
 
-2. Los sujetos mencionados en el artículo 3 deberán publicar la información a la que se refieren las letras a) y b) del apartado primero de este artículo cuando se trate de contratos o convenios celebrados con una Administración Pública. Asimismo, habrán de publicar la información prevista en la letra c) en relación a las subvenciones que reciban cuando el órgano concedente sea una Administración Pública.
+2. Los sujetos mencionados en el artículo 3 berán.
+
+publicar la información a la que se refieren las letras a) y b) del apartado primero de este artículo cuando se trate de contratos o convenios celebrados con una Administración Pública. Asimismo, habrán de publicar la información prevista en la letra c) en relación a las subvenciones que reciban cuando el órgano concedente sea una Administración Pública.
 
 3. Las Administraciones Públicas publicarán la relación de los bienes inmuebles que sean de su propiedad o sobre los que ostenten algún derecho real.
 
-#### Artículo 9. Control.
+#### Artículo 9. Control.
 
 1. El cumplimiento por la Administración General del Estado de las obligaciones contenidas en este capítulo será objeto de control por parte del Consejo de Transparencia y Buen Gobierno.
 
@@ -402,7 +392,7 @@ i)	La información estadística necesaria para valorar el grado de cumplimiento 
 
 3. El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de infracción grave a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
 
-#### Artículo 10. Portal de la Transparencia.
+#### Artículo 10. Portal de la Transparencia.
 
 1. La Administración General del Estado desarrollará un Portal de la Transparencia, dependiente del Ministerio de la Presidencia, que facilitará el acceso de los ciudadanos a toda la información a la que se refieren los artículos anteriores relativa a su ámbito de actuación.
 
@@ -410,33 +400,27 @@ i)	La información estadística necesaria para valorar el grado de cumplimiento 
 
 3. La Administración General del Estado, las Administraciones de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla y las entidades que integran la Administración Local podrán adoptar otras medidas complementarias y de colaboración para el cumplimiento de las obligaciones de transparencia recogidas en este capítulo.
 
-#### Artículo 11. Principios técnicos.
+#### Artículo 11. Principios técnicos.
 
 El Portal de la Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios:
 
-a) Accesibilidad: se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.
+a) **Accesibilidad.** Se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.
 
-b) Interoperabilidad: la información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad.
+b) **Interoperabilidad.** La información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad.
 
-c) Reutilización: se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público y en su normativa de desarrollo.
+c) **Reutilización.** Se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público y en su normativa de desarrollo.
 
-CAPÍTULO III
+## Capítulo III. Derecho de acceso a la información pública.
 
-Derecho de acceso a la información pública
-
-Sección 1.ª Régimen general
-
-#### Artículo 12. Derecho de acceso a la información pública.
-
-Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley.
+#### Sección 1. ª Régimen general artículo 12 Derecho de acceso a la información pública. Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley.
 
 Asimismo, y en el ámbito de sus respectivas competencias, será de aplicación la correspondiente normativa autonómica.
 
-#### Artículo 13. Información pública.
+#### Artículo 13. Información pública.
 
 Se entiende por información pública los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.
 
-#### Artículo 14. Límites al derecho de acceso.
+#### Artículo 14. Límites al derecho de acceso.
 
 1. El derecho de acceso podrá ser limitado cuando acceder a la información suponga un perjuicio para:
 
@@ -444,35 +428,35 @@ a) La seguridad nacional.
 
 b) La defensa.
 
-c)	Las relaciones exteriores.
+c) Las relaciones exteriores.
 
 d) La seguridad pública.
 
 e) La prevención, investigación y sanción de los ilícitos penales, administrativos o disciplinarios.
 
-f)	La igualdad de las partes en los procesos judiciales y la tutela judicial efectiva.
+f) La igualdad de las partes en los procesos judiciales y la tutela judicial efectiva.
 
 g) Las funciones administrativas de vigilancia, inspección y control.
 
 h) Los intereses económicos y comerciales.
 
-i)	La política económica y monetaria.
+i) La política económica y monetaria.
 
-j)	El secreto profesional y la propiedad intelectual e industrial.
+j) El secreto profesional y la propiedad intelectual e industrial.
 
 k) La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión.
 
-l)	La protección del medio ambiente.
+l) La protección del medio ambiente.
 
 2. La aplicación de los límites será justificada y proporcionada a su objeto y finalidad de protección y atenderá a las circunstancias del caso concreto, especialmente a la concurrencia de un interés público o privado superior que justifique el acceso.
 
-3. Las resoluciones que de conformidad con lo previsto en la sección 2.ª se dicten en aplicación de este artículo serán objeto de publicidad previa disociación de los datos de carácter personal que contuvieran y sin perjuicio de lo dispuesto en el apartado 3 del artículo 20, una vez hayan sido notificadas a los interesados.
+3. Las resoluciones que de conformidad con lo previsto en la sección 2.ª se dicten en aplicación de este artículo serán objeto de publicidad previa disociación de los datos de carácter personal que contuvieran y sin perjuicio de lo dispuesto en el apartado 3 del artículo 20, una vez hayan sido notificadas a los interesados.
 
-#### Artículo 15. Protección de datos personales.
+#### Artículo 15. Protección de datos personales.
 
-1. Si la información solicitada contuviera datos especialmente protegidos a los que se refiere el apartado 2 del artículo 7 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
+1. Si la información solicitada contuviera datos especialmente protegidos a los que se refiere el apartado 2 del artículo 7 de la [Ley Orgánica 15/1999](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
 
-Si la información incluyese datos especialmente protegidos a los que se refiere el apartado 3 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, o datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso sólo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquél estuviera amparado por una norma con rango de Ley.
+Si la información incluyese datos especialmente protegidos a los que se refiere el apartado 3 del artículo 7 de la Ley Orgánica 15/1999, de 13 de diciembre, o datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso sólo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquél estuviera amparado por una norma con rango de Ley.
 
 2. Con carácter general, y salvo que en el caso concreto prevalezca la protección de datos personales u otros derechos constitucionalmente protegidos sobre el interés público en la divulgación que lo impida, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.
 
@@ -480,7 +464,7 @@ Si la información incluyese datos especialmente protegidos a los que se refiere
 
 Para la realización de la citada ponderación, dicho órgano tomará particularmente en consideración los siguientes criterios:
 
-a) El menor perjuicio a los afectados derivado del transcurso de los plazos establecidos en el artículo 57 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+a) El menor perjuicio a los afectados derivado del transcurso de los plazos establecidos en el artículo 57 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
 
 b) La justificación por los solicitantes de su petición en el ejercicio de un derecho o el hecho de que tengan la condición de investigadores y motiven el acceso en fines históricos, científicos o estadísticos.
 
@@ -492,15 +476,15 @@ d) La mayor garantía de los derechos de los afectados en caso de que los datos 
 
 5. La normativa de protección de datos personales será de aplicación al tratamiento posterior de los obtenidos a través del ejercicio del derecho de acceso.
 
-#### Artículo 16. Acceso parcial.
+#### Artículo 16. Acceso parcial En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no.
 
-En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no afecte a la totalidad de la información, se concederá el acceso parcial previa omisión de la información afectada por el límite salvo que de ello resulte una información distorsionada o que carezca de sentido. En este caso, deberá indicarse al solicitante que parte de la información ha sido omitida.
+afecte a la totalidad de la información, se concederá el acceso parcial previa omisión de la información afectada por el límite salvo que de ello resulte una información distorsionada o que carezca de sentido. En este caso, deberá indicarse al solicitante que parte de la información ha sido omitida.
 
-Sección 2.ª Ejercicio del derecho de acceso a la información pública
+#### Sección 2. ª Ejercicio del derecho de acceso a la información pública
 
-#### Artículo 17. Solicitud de acceso a la información.
+#### Artículo 17. Solicitud de acceso a la información.
 
-1. El procedimiento para el ejercicio del derecho de acceso se iniciará con la presentación de la correspondiente solicitud, que deberá dirigirse al titular del órgano administrativo o entidad que posea la información. Cuando se trate de información en posesión de personas físicas o jurídicas que presten servicios públicos o ejerzan potestades administrativas, la solicitud se dirigirá a la Administración, organismo o entidad de las previstas en el artículo 2.1 a las que se encuentren vinculadas.
+1. El procedimiento para el ejercicio del derecho de acceso se iniciará con la presentación de la correspondiente solicitud, que deberá dirigirse al titular del órgano administrativo o entidad que posea la información. Cuando se trate de información en posesión de personas físicas o jurídicas que presten servicios públicos o ejerzan potestades administrativas, la solicitud se dirigirá a la Administración, organismo o entidad de las previstas en el artículo 2.1 a las que se encuentren vinculadas.
 
 2. La solicitud podrá presentarse por cualquier medio que permita tener constancia de:
 
@@ -516,7 +500,7 @@ d) En su caso, la modalidad que se prefiera para acceder a la información solic
 
 4. Los solicitantes de información podrán dirigirse a las Administraciones Públicas en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.
 
-#### Artículo 18. Causas de inadmisión.
+#### Artículo 18. Causas de inadmisión.
 
 1. Se inadmitirán a trámite, mediante resolución motivada, las solicitudes:
 
@@ -532,7 +516,7 @@ e) Que sean manifiestamente repetitivas o tengan un carácter abusivo no justifi
 
 2. En el caso en que se inadmita la solicitud por concurrir la causa prevista en la letra d) del apartado anterior, el órgano que acuerde la inadmisión deberá indicar en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud.
 
-#### Artículo 19. Tramitación.
+#### Artículo 19. Tramitación.
 
 1. Si la solicitud se refiere a información que no obre en poder del sujeto al que se dirige, éste la remitirá al competente, si lo conociera, e informará de esta circunstancia al solicitante.
 
@@ -542,23 +526,23 @@ e) Que sean manifiestamente repetitivas o tengan un carácter abusivo no justifi
 
 4. Cuando la información objeto de la solicitud, aun obrando en poder del sujeto al que se dirige, haya sido elaborada o generada en su integridad o parte principal por otro, se le remitirá la solicitud a éste para que decida sobre el acceso.
 
-#### Artículo 20. Resolución.
+#### Artículo 20. Resolución.
 
 1. La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver.
 
 Este plazo podrá ampliarse por otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante.
 
-2. Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero. En este último supuesto, se indicará expresamente al interesado que el acceso sólo tendrá lugar cuando haya transcurrido el plazo del artículo 22.2.
+2. Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero. En este último supuesto, se indicará expresamente al interesado que el acceso sólo tendrá lugar cuando haya transcurrido el plazo del artículo 22.2.
 
 3. Cuando la mera indicación de la existencia o no de la información supusiera la vulneración de alguno de los límites al acceso se indicará esta circunstancia al desestimarse la solicitud.
 
 4. Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa se entenderá que la solicitud ha sido desestimada.
 
-5. Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.
+5. Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.
 
 6. El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
 
-#### Artículo 21. Unidades de información.
+#### Artículo 21. Unidades de información.
 
 1. Las Administraciones Públicas incluidas en el ámbito de aplicación de este título establecerán sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de su organización interna.
 
@@ -574,7 +558,7 @@ d) Realizar el seguimiento y control de la correcta tramitación de las solicitu
 
 e) Llevar un registro de las solicitudes de acceso a la información.
 
-f)	Asegurar la disponibilidad en la respectiva página web o sede electrónica de la información cuyo acceso se solicita con más frecuencia.
+f) Asegurar la disponibilidad en la respectiva página web o sede electrónica de la información cuyo acceso se solicita con más frecuencia.
 
 g) Mantener actualizado un mapa de contenidos en el que queden identificados los distintos tipos de información que obre en poder del órgano.
 
@@ -582,7 +566,7 @@ h) Todas aquellas que sean necesarias para asegurar una correcta aplicación de 
 
 3. El resto de las entidades incluidas en el ámbito de aplicación de este título identificarán claramente el órgano competente para conocer de las solicitudes de acceso.
 
-#### Artículo 22. Formalización del acceso.
+#### Artículo 22. Formalización del acceso.
 
 1. El acceso a la información se realizará preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio. Cuando no pueda darse el acceso en el momento de la notificación de la resolución deberá otorgarse, en cualquier caso, en un plazo no superior a diez días.
 
@@ -590,23 +574,23 @@ h) Todas aquellas que sean necesarias para asegurar una correcta aplicación de 
 
 3. Si la información ya ha sido publicada, la resolución podrá limitarse a indicar al solicitante cómo puede acceder a ella.
 
-4. El acceso a la información será gratuito. No obstante, la expedición de copias o la trasposición de la información a un formato diferente al original podrá dar lugar a la exigencia de exacciones en los términos previstos en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, o, en su caso, conforme a la normativa autonómica o local que resulte aplicable.
+4. El acceso a la información será gratuito. No obstante, la expedición de copias o la trasposición de la información a un formato diferente al original podrá dar lugar a la exigencia de exacciones en los términos previstos en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, o, en su caso, conforme a la normativa autonómica o local que resulte aplicable.
 
-Sección 3.ª Régimen de impugnaciones
+#### Sección 3. ª Régimen de impugnaciones
 
-#### Artículo 23. Recursos.
+#### Artículo 23. Recursos.
 
-1. La reclamación prevista en el artículo siguiente tendrá la consideración de sustitutiva de los recursos administrativos de conformidad con lo dispuesto en el artículo 107.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+1. La reclamación prevista en el artículo siguiente tendrá la consideración de sustitutiva de los recursos administrativos de conformidad con lo dispuesto en el artículo 107.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-2. No obstante lo dispuesto en el apartado anterior, contra las resoluciones dictadas por los órganos previstos en el artículo 2.1.f) sólo cabrá la interposición de recurso contencioso-administrativo.
+2. No obstante lo dispuesto en el apartado anterior, contra las resoluciones dictadas por los órganos previstos en el artículo 2.1.f) sólo cabrá la interposición de recurso contencioso-administrativo.
 
-#### Artículo 24. Reclamación ante el Consejo de Transparencia y Buen Gobierno.
+#### Artículo 24. Reclamación ante el Consejo de Transparencia y Buen Gobierno.
 
 1. Frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa.
 
 2. La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.
 
-3. La tramitación de la reclamación se ajustará a lo dispuesto en materia de recursos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. La tramitación de la reclamación se ajustará a lo dispuesto en materia de recursos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 Cuando la denegación del acceso a la información se fundamente en la protección de derechos o intereses de terceros se otorgará, previamente a la resolución de la reclamación, trámite de audiencia a las personas que pudieran resultar afectadas para que aleguen lo que a su derecho convenga.
 
@@ -618,11 +602,11 @@ El Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defens
 
 6. La competencia para conocer de dichas reclamaciones corresponderá al Consejo de Transparencia y Buen Gobierno, salvo en aquellos supuestos en que las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con lo establecido en la disposición adicional cuarta de esta Ley.
 
-## TÍTULO II
+## Título II
 
 **Buen gobierno**
 
-#### Artículo 25. Ámbito de aplicación.
+#### Artículo 25. Ámbito de aplicación.
 
 1. En el ámbito de la Administración General del Estado las disposiciones de este título se aplicarán a los miembros del Gobierno, a los Secretarios de Estado y al resto de los altos cargos de la Administración General del Estado y de las entidades del sector público estatal, de Derecho público o privado, vinculadas o dependientes de aquella.
 
@@ -632,7 +616,7 @@ A estos efectos, se considerarán altos cargos los que tengan tal consideración
 
 3. La aplicación a los sujetos mencionados en los apartados anteriores de las disposiciones contenidas en este título no afectará, en ningún caso, a la condición de cargo electo que pudieran ostentar.
 
-#### Artículo 26. Principios de buen gobierno.
+#### Artículo 26. Principios de buen gobierno.
 
 1. Las personas comprendidas en el ámbito de aplicación de este título observarán en el ejercicio de sus funciones lo dispuesto en la Constitución Española y en el resto del ordenamiento jurídico y promoverán el respeto a los derechos fundamentales y a las libertades públicas.
 
@@ -676,11 +660,11 @@ b) Principios de actuación:
 
 3. Los principios establecidos en este artículo informarán la interpretación y aplicación del régimen sancionador regulado en este título.
 
-#### Artículo 27. Infracciones y sanciones en materia de conflicto de intereses.
+#### Artículo 27. Infracciones y sanciones en materia de conflicto de intereses.
 
 El incumplimiento de las normas de incompatibilidades o de las que regulan las declaraciones que han de realizar las personas comprendidas en el ámbito de este título será sancionado de conformidad con lo dispuesto en la normativa en materia de conflictos de intereses de la Administración General del Estado y para el resto de Administraciones de acuerdo con su propia normativa que resulte de aplicación.
 
-#### Artículo 28. Infracciones en materia de gestión económico-presupuestaria.
+#### Artículo 28. Infracciones en materia de gestión económico-presupuestaria.
 
 Constituyen infracciones muy graves las siguientes conductas cuando sean culpables:
 
@@ -688,37 +672,37 @@ a) La incursión en alcance en la administración de los fondos públicos cuando
 
 b) La administración de los recursos y demás derechos de la Hacienda Pública sin sujeción a las disposiciones que regulan su liquidación, recaudación o ingreso en el Tesoro.
 
-c) Los compromisos de gastos, reconocimiento de obligaciones y ordenación de pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o en la de Presupuestos u otra normativa presupuestaria que sea aplicable.
+c) Los compromisos de gastos, reconocimiento de obligaciones y ordenación de pagos sin crédito suficiente para realizarlos o con infracción de lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o en la de Presupuestos u otra normativa presupuestaria que sea aplicable.
 
 d) La omisión del trámite de intervención previa de los gastos, obligaciones o pagos, cuando ésta resulte preceptiva o del procedimiento de resolución de discrepancias frente a los reparos suspensivos de la intervención, regulado en la normativa presupuestaria.
 
-e) La ausencia de justificación de la inversión de los fondos a los que se refieren los artículos 78 y 79 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o, en su caso, la normativa presupuestaria equivalente de las administraciones distintas de la General del Estado.
+e) La ausencia de justificación de la inversión de los fondos a los que se refieren los artículos 78 y 79 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, o, en su caso, la normativa presupuestaria equivalente de las administraciones distintas de la General del Estado.
 
-f) El incumplimiento de la obligación de destinar íntegramente los ingresos obtenidos por encima de los previstos en el presupuesto a la reducción del nivel de deuda pública de conformidad con lo previsto en el artículo 12.5 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y el incumplimiento de la obligación del destino del superávit presupuestario a la reducción del nivel de endeudamiento neto en los términos previstos en el artículo 32 de la citada Ley.
+f) El incumplimiento de la obligación de destinar íntegramente los ingresos obtenidos por encima de los previstos en el presupuesto a la reducción del nivel de deuda pública de conformidad con lo previsto en el artículo 12.5 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y el incumplimiento de la obligación del destino del superávit presupuestario a la reducción del nivel de endeudamiento neto en los términos previstos en el artículo 32 de la citada Ley.
 
-g) La realización de operaciones de crédito y emisiones de deudas que no cuenten con la preceptiva autorización o, habiéndola obtenido, no se cumpla con lo en ella previsto o se superen los límites previstos en la Ley Orgánica 2/2012, de 27 de abril, la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, y en el Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.
+g) La realización de operaciones de crédito y emisiones de deudas que no cuenten con la preceptiva autorización o, habiéndola obtenido, no se cumpla con lo en ella previsto o se superen los límites previstos en la Ley Orgánica 2/2012, de 27 de abril, la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, y en el Texto Refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.
 
-h) La no adopción en plazo de las medidas necesarias para evitar el riesgo de incumplimiento, cuando se haya formulado la advertencia prevista en el artículo 19 de la Ley Orgánica 2/2012, de 27 de abril.
+h) La no adopción en plazo de las medidas necesarias para evitar el riesgo de incumplimiento, cuando se haya formulado la advertencia prevista en el artículo 19 de la Ley Orgánica 2/2012, de 27 de abril.
 
-i)	La suscripción de un Convenio de colaboración o concesión de una subvención a una Administración Pública que no cuente con el informe favorable del Ministerio de Hacienda y Administraciones Públicas previsto en el artículo 20.3 de la Ley Orgánica 2/2012, de 27 de abril.
+i) La suscripción de un Convenio de colaboración o concesión de una subvención a una Administración Pública que no cuente con el informe favorable del Ministerio de Hacienda y Administraciones Públicas previsto en el artículo 20.3 de la Ley Orgánica 2/2012, de 27 de abril.
 
-j)	La no presentación o la falta de puesta en marcha en plazo del plan económico-financiero o del plan de reequilibrio de conformidad con el artículo 23 de la Ley Orgánica 2/2012, de 27 de abril.
+j) La no presentación o la falta de puesta en marcha en plazo del plan económico-financiero o del plan de reequilibrio de conformidad con el artículo 23 de la Ley Orgánica 2/2012, de 27 de abril.
 
 k) El incumplimiento de las obligaciones de publicación o de suministro de información previstas en la normativa presupuestaria y económico-financiera, siempre que en este último caso se hubiera formulado requerimiento.
 
-l)	La falta de justificación de la desviación, o cuando así se le haya requerido la falta de inclusión de nuevas medidas en el plan económico-financiero o en el plan de reequilibrio de acuerdo con el artículo 24.3 de la Ley Orgánica 2/2012, de 27 de abril.
+l) La falta de justificación de la desviación, o cuando así se le haya requerido la falta de inclusión de nuevas medidas en el plan económico-financiero o en el plan de reequilibrio de acuerdo con el artículo 24.3 de la Ley Orgánica 2/2012, de 27 de abril.
 
-m)	La no adopción de las medidas previstas en los planes económico-financieros y de reequilibrio, según corresponda, previstos en los artículos 21 y 22 de la Ley Orgánica 2/2012, de 27 de abril.
+m) La no adopción de las medidas previstas en los planes económico-financieros y de reequilibrio, según corresponda, previstos en los artículos 21 y 22 de la Ley Orgánica 2/2012, de 27 de abril.
 
-n)	La no adopción del acuerdo de no disponibilidad o la no constitución del depósito, cuando así se haya solicitado, previstos en el artículo 25 de la Ley Orgánica 2/2012, de 27 de abril.
+n) La no adopción del acuerdo de no disponibilidad o la no constitución del depósito, cuando así se haya solicitado, previstos en el artículo 25 de la Ley Orgánica 2/2012, de 27 de abril.
 
-ñ)	La no adopción de un acuerdo de no disponibilidad, la no constitución del depósito que se hubiere solicitado o la falta de ejecución de las medidas propuestas por la Comisión de Expertos cuando se hubiere formulado el requerimiento del Gobierno previsto en el artículo 26.1 de la Ley Orgánica 2/2012, de 27 de abril.
+ñ) La no adopción de un acuerdo de no disponibilidad, la no constitución del depósito que se hubiere solicitado o la falta de ejecución de las medidas propuestas por la Comisión de Expertos cuando se hubiere formulado el requerimiento del Gobierno previsto en el artículo 26.1 de la Ley Orgánica 2/2012, de 27 de abril.
 
-o)	El incumplimiento de las instrucciones dadas por el Gobierno para ejecutar las medidas previstas en el artículo 26.1 de la Ley Orgánica 2/2012, de 27 de abril.
+o) El incumplimiento de las instrucciones dadas por el Gobierno para ejecutar las medidas previstas en el artículo 26.1 de la Ley Orgánica 2/2012, de 27 de abril.
 
-p)	El incumplimiento de la obligación de rendir cuentas regulada en el artículo 137 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria u otra normativa presupuestaria que sea aplicable.
+p) El incumplimiento de la obligación de rendir cuentas regulada en el artículo 137 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria u otra normativa presupuestaria que sea aplicable.
 
-#### Artículo 29. Infracciones disciplinarias.
+#### Artículo 29. Infracciones disciplinarias.
 
 1. Son infracciones muy graves:
 
@@ -732,19 +716,19 @@ d) La publicación o utilización indebida de la documentación o información a
 
 e) La negligencia en la custodia de secretos oficiales, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido.
 
-f)	El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.
+f) El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.
 
 g) La violación de la imparcialidad, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.
 
 h) La prevalencia de la condición de alto cargo para obtener un beneficio indebido para sí o para otro.
 
-i)	La obstaculización al ejercicio de las libertades públicas y derechos sindicales.
+i) La obstaculización al ejercicio de las libertades públicas y derechos sindicales.
 
-j)	La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
+j) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
 
 k) El acoso laboral.
 
-l)	La comisión de una infracción grave cuando el autor hubiera sido sancionado por dos infracciones graves a lo largo del año anterior contra las que no quepa recurso en la vía administrativa.
+l) La comisión de una infracción grave cuando el autor hubiera sido sancionado por dos infracciones graves a lo largo del año anterior contra las que no quepa recurso en la vía administrativa.
 
 2. Son infracciones graves:
 
@@ -758,15 +742,15 @@ d) No guardar el debido sigilo respecto a los asuntos que se conozcan por razón
 
 e) El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no suponga el mantenimiento de una situación de incompatibilidad.
 
-f)	La comisión de una infracción leve cuando el autor hubiera sido sancionado por dos infracciones leves a lo largo del año anterior contra las que no quepa recurso en la vía administrativa.
+f) La comisión de una infracción leve cuando el autor hubiera sido sancionado por dos infracciones leves a lo largo del año anterior contra las que no quepa recurso en la vía administrativa.
 
 3. Son infracciones leves:
 
 a) La incorrección con los superiores, compañeros o subordinados.
 
-b) El descuido o negligencia en el ejercicio de sus funciones y el incumplimiento de los principios de actuación del artículo 26.2.b) cuando ello no constituya infracción grave o muy grave o la conducta no se encuentre tipificada en otra norma.
+b) El descuido o negligencia en el ejercicio de sus funciones y el incumplimiento de los principios de actuación del artículo 26.2.b) cuando ello no constituya infracción grave o muy grave o la conducta no se encuentre tipificada en otra norma.
 
-#### Artículo 30. Sanciones.
+#### Artículo 30. Sanciones.
 
 1. Las infracciones leves serán sancionadas con una amonestación.
 
@@ -778,7 +762,7 @@ b) La no percepción, en el caso de que la llevara aparejada, de la correspondie
 
 4. Los sancionados por la comisión de una infracción muy grave serán destituidos del cargo que ocupen salvo que ya hubiesen cesado y no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre cinco y diez años con arreglo a los criterios previstos en el apartado siguiente.
 
-5. La comisión de infracciones muy graves, graves o leves se sancionará de acuerdo con los criterios recogidos en el artículo 131.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y los siguientes:
+5. La comisión de infracciones muy graves, graves o leves se sancionará de acuerdo con los criterios recogidos en el artículo 131.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y los siguientes:
 
 a) La naturaleza y entidad de la infracción.
 
@@ -790,21 +774,23 @@ d) Las consecuencias desfavorables de los hechos para la Hacienda Pública respe
 
 e) La circunstancia de haber procedido a la subsanación de la infracción por propia iniciativa.
 
-f)	La reparación de los daños o perjuicios causados.
+f) La reparación de los daños o perjuicios causados.
 
 En la graduación de las sanciones se valorará la existencia de perjuicios para el interés público, la repercusión de la conducta en los ciudadanos, y, en su caso, la percepción indebida de cantidades por el desempeño de actividades públicas incompatibles.
 
 6. Cuando las infracciones pudieran ser constitutivas de delito, la Administración pondrá los hechos en conocimiento del Fiscal General del Estado y se abstendrá de seguir el procedimiento mientras la autoridad judicial no dicte una resolución que ponga fin al proceso penal.
 
-7. Cuando los hechos estén tipificados como infracción en una norma administrativa especial, se dará cuenta de los mismos a la Administración competente para la instrucción del correspondiente procedimiento sancionador, suspendiéndose las actuaciones hasta la terminación de aquel. No se considerará normativa especial la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto de las infracciones previstas en el artículo 28, pudiéndose tramitar el procedimiento de responsabilidad patrimonial simultáneamente al procedimiento sancionador.
+7. Cuando los hechos estén tipificados como infracción en una norma administrativa especial, se dará cuenta de los mismos a la Administración competente para la instrucción del correspondiente procedimiento sancionador, suspendiéndose las actuaciones hasta la terminación de aquel. No se considerará normativa especial la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto de las infracciones previstas en el artículo 28, pudiéndose tramitar el procedimiento de responsabilidad patrimonial simultáneamente al procedimiento sancionador.
 
-8. En todo caso la comisión de las infracciones previstas en el artículo 28 conllevará las siguientes consecuencias:
+8. En todo caso la comisión de las infracciones previstas en el artículo 28 conllevará.
+
+las siguientes consecuencias:
 
 a) La obligación de restituir, en su caso, las cantidades percibidas o satisfechas indebidamente.
 
-b) La obligación de indemnizar a la Hacienda Pública en los términos del artículo 176 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+b) La obligación de indemnizar a la Hacienda Pública en los términos del artículo 176 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
-#### Artículo 31. Órgano competente y procedimiento.
+#### Artículo 31. Órgano competente y procedimiento.
 
 1. El procedimiento sancionador se iniciará de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, petición razonada de otros órganos o denuncia de los ciudadanos.
 
@@ -830,29 +816,29 @@ c) Cuando el procedimiento se dirija contra altos cargos de las Comunidades Aut�
 
 5. Las resoluciones que se dicten en aplicación del procedimiento sancionador regulado en este título serán recurribles ante el orden jurisdiccional contencioso-administrativo.
 
-#### Artículo 32. Prescripción.
+#### Artículo 32. Prescripción.
 
 1. El plazo de prescripción de las infracciones previstas en este título será de cinco años para las infracciones muy graves, tres años para las graves y un año para las leves.
 
 2. Las sanciones impuestas por la comisión de infracciones muy graves prescribirán a los cinco años, las impuestas por infracciones graves a los tres años y las que sean consecuencia de la comisión de infracciones leves prescribirán en el plazo de un año.
 
-3. Para el cómputo de los plazos de prescripción regulados en los dos apartados anteriores, así como para las causas de su interrupción, se estará a lo dispuesto en el artículo 132 de la Ley 30/1992, de 30 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+3. Para el cómputo de los plazos de prescripción regulados en los dos apartados anteriores, así como para las causas de su interrupción, se estará a lo dispuesto en el artículo 132 de la Ley 30/1992, de 30 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-## TÍTULO III
+## Título III
 
 **Consejo de Transparencia y Buen Gobierno**
 
-#### Artículo 33. Consejo de Transparencia y Buen Gobierno.
+#### Artículo 33. Consejo de Transparencia y Buen Gobierno.
 
-1. Se crea el Consejo de Transparencia y Buen Gobierno como organismo público de los previstos en la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. Estará adscrito al Ministerio de Hacienda y Administraciones Públicas.
+1. Se crea el Consejo de Transparencia y Buen Gobierno como organismo público de los previstos en la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. Estará adscrito al Ministerio de Hacienda y Administraciones Públicas.
 
 2. El Consejo de Transparencia y Buen Gobierno tiene personalidad jurídica propia y plena capacidad de obrar. Actúa con autonomía y plena independencia en el cumplimiento de sus fines.
 
-#### Artículo 34. Fines.
+#### Artículo 34. Fines.
 
 El Consejo de Transparencia y Buen Gobierno tiene por finalidad promover la transparencia de la actividad pública, velar por el cumplimiento de las obligaciones de publicidad, salvaguardar el ejercicio de derecho de acceso a la información pública y garantizar la observancia de las disposiciones de buen gobierno.
 
-#### Artículo 35. Composición.
+#### Artículo 35. Composición.
 
 El Consejo de Transparencia y Bueno Gobierno estará compuesto por los siguientes órganos:
 
@@ -860,7 +846,7 @@ a) La Comisión de Transparencia y Buen Gobierno.
 
 b) El Presidente del Consejo de Transparencia y Buen Gobierno que lo será también de su Comisión.
 
-#### Artículo 36. Comisión de Transparencia y Buen Gobierno.
+#### Artículo 36. Comisión de Transparencia y Buen Gobierno.
 
 1. La Comisión de Transparencia y Buen Gobierno ejercerá todas las competencias que le asigna esta Ley, así como aquellas que les sean atribuidas en su normativa de desarrollo.
 
@@ -876,7 +862,7 @@ d) Un representante del Tribunal de Cuentas.
 
 e) Un representante del Defensor del Pueblo.
 
-f)	Un representante de la Agencia Española de Protección de Datos.
+f) Un representante de la Agencia Española de Protección de Datos.
 
 g) Un representante de la Secretaría de Estado de Administraciones Públicas.
 
@@ -886,15 +872,15 @@ h) Un representante de la Autoridad Independiente de Responsabilidad Fiscal.
 
 4. Al menos una vez al año, la Comisión de Transparencia y Buen Gobierno convocará a los representantes de los organismos que, con funciones similares a las desarrolladas por ella, hayan sido creados por las Comunidades Autónomas en ejercicio de sus competencias. A esta reunión podrá ser convocado un representante de la Administración Local propuesto por la Federación Española de Municipios y Provincias.
 
-#### Artículo 37. Presidente del Consejo de Transparencia y Buen Gobierno.
+#### Artículo 37. Presidente del Consejo de Transparencia y Buen Gobierno.
 
 1. El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado por un período no renovable de cinco años mediante Real Decreto, a propuesta del titular del Ministerio de Hacienda y Administraciones Públicas, entre personas de reconocido prestigio y competencia profesional previa comparecencia de la persona propuesta para el cargo ante la Comisión correspondiente del Congreso de los Diputados. El Congreso, a través de la Comisión competente y por acuerdo adoptado por mayoría absoluta, deberá refrendar el nombramiento del candidato propuesto en el plazo de un mes natural desde la recepción de la correspondiente comunicación.
 
 2. El Presidente del Consejo de Transparencia y Buen Gobierno cesará en su cargo por la expiración de su mandato, a petición propia o por separación acordada por el Gobierno, previa instrucción del correspondiente procedimiento por el titular del Ministerio de Hacienda y Administraciones Públicas, por incumplimiento grave de sus obligaciones, incapacidad permanente para el ejercicio de su función, incompatibilidad sobrevenida o condena por delito doloso.
 
-3. El Presidente del Consejo de Transparencia y Buen Gobierno percibirá las retribuciones fijadas de acuerdo con el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+3. El Presidente del Consejo de Transparencia y Buen Gobierno percibirá las retribuciones fijadas de acuerdo con el Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
 
-#### Artículo 38. Funciones.
+#### Artículo 38. Funciones.
 
 1. Para la consecución de sus objetivos, el Consejo de Transparencia y Buen Gobierno tiene encomendadas las siguientes funciones:
 
@@ -904,11 +890,11 @@ b) Asesorar en materia de transparencia, acceso a la información pública y bue
 
 c) Informar preceptivamente los proyectos normativos de carácter estatal que desarrollen esta Ley o que estén relacionados con su objeto.
 
-d) Evaluar el grado de aplicación de esta Ley. Para ello, elaborará anualmente una memoria en la que se incluirá información sobre el cumplimiento de las obligaciones previstas y que será presentada ante las Cortes Generales.
+d) **Evaluar el grado de aplicación de esta Ley.** Para ello, elaborará anualmente una memoria en la que se incluirá información sobre el cumplimiento de las obligaciones previstas y que será presentada ante las Cortes Generales.
 
 e) Promover la elaboración de borradores de recomendaciones y de directrices y normas de desarrollo de buenas prácticas en materia de transparencia, acceso a la información pública y buen gobierno.
 
-f)	Promover actividades de formación y sensibilización para un mejor conocimiento de las materias reguladas por esta Ley.
+f) Promover actividades de formación y sensibilización para un mejor conocimiento de las materias reguladas por esta Ley.
 
 g) Colaborar, en las materias que le son propias, con órganos de naturaleza análoga.
 
@@ -918,35 +904,35 @@ h) Aquellas otras que le sean atribuidas por norma de rango legal o reglamentari
 
 a) Adoptar criterios de interpretación uniforme de las obligaciones contenidas en esta Ley.
 
-b) Velar por el cumplimiento de las obligaciones de publicidad contenidas en el capítulo II del título I de acuerdo con lo previsto en el artículo 9 de esta Ley.
+b) Velar por el cumplimiento de las obligaciones de publicidad contenidas en el capítulo II del título I de acuerdo con lo previsto en el artículo 9 de esta Ley.
 
-c) Conocer de las reclamaciones que se presenten en aplicación del artículo 24 de esta Ley.
+c) Conocer de las reclamaciones que se presenten en aplicación del artículo 24 de esta Ley.
 
 d) Responder las consultas que, con carácter facultativo, le planteen los órganos encargados de tramitar y resolver las solicitudes de acceso a la información.
 
 e) Instar el inicio del procedimiento sancionador previsto en el título II de esta Ley. El órgano competente deberá motivar, en su caso, su decisión de no incoar el procedimiento.
 
-f)	Aprobar el anteproyecto de presupuesto.
+f) Aprobar el anteproyecto de presupuesto.
 
 g) Aquellas otras que le sean atribuidas por norma de rango legal o reglamentario.
 
-#### Artículo 39. Régimen jurídico.
+#### Artículo 39. Régimen jurídico.
 
 1. El Consejo de Transparencia y Buen Gobierno se regirá, además de por lo dispuesto en esta Ley, por:
 
-a) Las disposiciones de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que le sean de aplicación. Anualmente elaborará un anteproyecto de presupuesto con la estructura que establezca el Ministerio de Hacienda y Administraciones Públicas para su elevación al Gobierno y su posterior integración en los Presupuestos Generales del Estado.
+a) Las disposiciones de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que le sean de aplicación. Anualmente elaborará un anteproyecto de presupuesto con la estructura que establezca el Ministerio de Hacienda y Administraciones Públicas para su elevación al Gobierno y su posterior integración en los Presupuestos Generales del Estado.
 
-b) El Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el Texto Refundido de la Ley de Contratos del Sector Público.
+b) El Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el Texto Refundido de la Ley de Contratos del Sector Público.
 
-c) La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y, en lo no previsto en ella, por el Derecho privado en sus adquisiciones patrimoniales.
+c) La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, y, en lo no previsto en ella, por el Derecho privado en sus adquisiciones patrimoniales.
 
-d) La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las demás normas aplicables al personal funcionario de la Administración General del Estado, en materia de medios personales.
+d) La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las demás normas aplicables al personal funcionario de la Administración General del Estado, en materia de medios personales.
 
-e) La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y por la normativa que le sea de aplicación, en lo no dispuesto por esta Ley, cuando desarrolle sus funciones públicas.
+e) La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y por la normativa que le sea de aplicación, en lo no dispuesto por esta Ley, cuando desarrolle sus funciones públicas.
 
 2. El Consejo de Ministros aprobará mediante Real Decreto el Estatuto del Consejo de Transparencia y Buen Gobierno, en el que se establecerá su organización, estructura, funcionamiento, así como todos los aspectos que sean necesarios para el cumplimiento de sus funciones.
 
-3. Con carácter general, los puestos de trabajo del Consejo de Transparencia y Bueno Gobierno serán desempeñados por funcionarios públicos de acuerdo con lo establecido en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las normas de función pública aplicables al personal funcionario de la Administración General del Estado. El personal laboral podrá desempeñar puestos de trabajo que se ajusten a la normativa de función pública de la Administración General del Estado. Asimismo, el personal que pase a prestar servicios en el Consejo de Transparencia y Buen Gobierno mediante los procedimientos de provisión previstos en la Administración General del Estado mantendrá la condición de personal funcionario o laboral, de acuerdo con la legislación aplicable.
+3. Con carácter general, los puestos de trabajo del Consejo de Transparencia y Bueno Gobierno serán desempeñados por funcionarios públicos de acuerdo con lo establecido en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las normas de función pública aplicables al personal funcionario de la Administración General del Estado. El personal laboral podrá desempeñar puestos de trabajo que se ajusten a la normativa de función pública de la Administración General del Estado. Asimismo, el personal que pase a prestar servicios en el Consejo de Transparencia y Buen Gobierno mediante los procedimientos de provisión previstos en la Administración General del Estado mantendrá la condición de personal funcionario o laboral, de acuerdo con la legislación aplicable.
 
 4. El Consejo de Transparencia y Buen Gobierno contará para el cumplimiento de sus fines con los siguientes bienes y medios económicos:
 
@@ -956,7 +942,7 @@ b) Los bienes y valores que constituyan su patrimonio, así como los productos y
 
 c) Cualesquiera otros que legalmente puedan serle atribuidos.
 
-#### Artículo 40. Relaciones con las Cortes Generales.
+#### Artículo 40. Relaciones con las Cortes Generales.
 
 El Consejo de Transparencia y Buen Gobierno elevará anualmente a las Cortes Generales una memoria sobre el desarrollo de sus actividades y sobre el grado de cumplimiento de las disposiciones establecidas en esta Ley. El Presidente del Consejo de Transparencia y Buen Gobierno comparecerá ante la Comisión correspondiente para dar cuenta de tal memoria, así como cuantas veces sea requerido para ello.
 
@@ -982,17 +968,21 @@ Para el cumplimiento de las obligaciones previstas en el título I de esta Ley, 
 
 #### Disposición adicional cuarta. Reclamación.
 
-1. La resolución de la reclamación prevista en el artículo 24 corresponderá, en los supuestos de resoluciones dictadas por las Administraciones de las Comunidades Autónomas y su sector público, y por las Entidades Locales comprendidas en su ámbito territorial, al órgano independiente que determinen las Comunidades Autónomas.
+1. La resolución de la reclamación prevista en el artículo 24 corresponderá,.
+
+en los supuestos de resoluciones dictadas por las Administraciones de las Comunidades Autónomas y su sector público, y por las Entidades Locales comprendidas en su ámbito territorial, al órgano independiente que determinen las Comunidades Autónomas.
 
 No obstante lo dispuesto en el párrafo anterior, contra las resoluciones dictadas por las Asambleas Legislativas y las instituciones análogas al Consejo de Estado, Consejo Económico y Social, Tribunal de Cuentas y Defensor del Pueblo en el caso de esas mismas reclamaciones sólo cabrá la interposición de recurso contencioso-administrativo.
 
-2. Las Comunidades Autónomas podrán atribuir la competencia para la resolución de la reclamación prevista en el artículo 24 al Consejo de Transparencia y Buen Gobierno. A tal efecto, deberán celebrar el correspondiente convenio con la Administración General del Estado, en el que se estipulen las condiciones en que la Comunidad sufragará los gastos derivados de esta asunción de competencias.
+2. Las Comunidades Autónomas podrán atribuir la competencia para la resolución de la reclamación prevista en el artículo 24 al.
+
+Consejo de Transparencia y Buen Gobierno. A tal efecto, deberán celebrar el correspondiente convenio con la Administración General del Estado, en el que se estipulen las condiciones en que la Comunidad sufragará los gastos derivados de esta asunción de competencias.
 
 3. Las Ciudades con Estatuto de Autonomía podrán designar sus propios órganos independientes o bien atribuir la competencia al Consejo de Transparencia y Buen Gobierno, celebrando al efecto un Convenio en los términos previstos en el apartado anterior.
 
 #### Disposición adicional quinta. Colaboración con la Agencia Española de Protección de Datos.
 
-El Consejo de Transparencia y Buen Gobierno y la Agencia Española de Protección de Datos adoptarán conjuntamente los criterios de aplicación, en su ámbito de actuación, de las reglas contenidas en el artículo 15 de esta Ley, en particular en lo que respecta a la ponderación del interés público en el acceso a la información y la garantía de los derechos de los interesados cuyos datos se contuviesen en la misma, de conformidad con lo dispuesto en esta Ley y en la Ley Orgánica 15/1999, de 13 de diciembre.
+El Consejo de Transparencia y Buen Gobierno y la Agencia Española de Protección de Datos adoptarán conjuntamente los criterios de aplicación, en su ámbito de actuación, de las reglas contenidas en el artículo 15 de esta Ley, en particular en lo que respecta a la ponderación del interés público en el acceso a la información y la garantía de los derechos de los interesados cuyos datos se contuviesen en la misma, de conformidad con lo dispuesto en esta Ley y en la Ley Orgánica 15/1999, de 13 de diciembre.
 
 #### Disposición adicional sexta. Información de la Casa de Su Majestad el Rey.
 
@@ -1006,33 +996,37 @@ El Gobierno aprobará un plan formativo en el ámbito de la transparencia dirigi
 
 El Congreso de los Diputados, el Senado y las Asambleas Legislativas de las Comunidades Autónomas regularán en sus respectivos reglamentos la aplicación concreta de las disposiciones de esta Ley.
 
-#### Disposición final primera. Modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+#### Disposición final primera. Modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-Se modifica la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en los siguientes términos:
+Se modifica la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en los siguientes términos:
 
-Uno. El artículo 35.h) pasa a tener la siguiente redacción:
+Uno. El artículo 35.h) pasa a tener la siguiente redacción:
 
 «h) Al acceso a la información pública, archivos y registros.»
 
-Dos. El artículo 37 pasa a tener la siguiente redacción:
+Dos. El artículo 37 pasa.
 
-«Artículo 37. Derecho de acceso a la información pública.
+a tener la siguiente redacción:
+
+«Artículo 37. Derecho de acceso a la información pública.
 
 Los ciudadanos tienen derecho a acceder a la información pública, archivos y registros en los términos y con las condiciones establecidas en la Constitución, en la Ley de transparencia, acceso a la información pública y buen gobierno y demás leyes que resulten de aplicación.»
 
-#### Disposición final segunda. Modificación de la Ley 5/2006, de 10 de abril, de regulación de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración General del Estado.
+#### Disposición final segunda. Modificación de la Ley 5/2006, de 10 de abril, de regulación de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración General del Estado.
 
-Se modifica la Ley 5/2006, de 10 de abril, de regulación de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración General del Estado en los siguientes términos:
+Se modifica la Ley 5/2006, de 10 de abril, de regulación de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración General del Estado en los siguientes términos:
 
-El apartado 4 del artículo 14 queda redactado como sigue:
+El apartado 4 del artículo 14 queda.
 
-#### Disposición final tercera. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+redactado como sigue:
 
-Se modifica el apartado 4 del artículo 136 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que quedará redactado como sigue:
+#### Disposición final tercera. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
-#### Disposición final cuarta. Modificación de la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+Se modifica el apartado 4 del artículo 136 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, que quedará redactado como sigue:
 
-Se modifica el apartado 1 de la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el cual quedará redactado en los siguientes términos:
+#### Disposición final cuarta. Modificación de la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+Se modifica el apartado 1 de la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el cual quedará redactado en los siguientes términos:
 
 «1. La Comisión Nacional del Mercado de Valores, el Consejo de Seguridad Nuclear, las Universidades no transferidas, la Agencia Española de Protección de Datos, el Consorcio de la Zona Especial Canaria, la Comisión Nacional de los Mercados y la Competencia, el Consejo de Transparencia y Buen Gobierno, el Museo Nacional del Prado y el Museo Nacional Centro de Arte Reina Sofía se regirán por su legislación específica y supletoriamente por esta Ley.»
 
@@ -1040,27 +1034,27 @@ Se modifica el apartado 1 de la disposición adicional décima de la Ley 6/199
 
 El Gobierno adoptará las medidas necesarias para optimizar el uso de los medios técnicos y humanos que se adscriban al Consejo de Transparencia y Buen Gobierno.
 
-#### Disposición final sexta. Modificación de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo.
+#### Disposición final sexta. Modificación de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo.
 
-Se modifica la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, en los siguientes términos:
+Se modifica la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, en los siguientes términos:
 
-Uno. Se añade un apartado 5 al artículo 2, con la redacción siguiente:
+Uno. Se añade un apartado 5 al artículo 2, con la redacción siguiente:
 
-«5. Serán aplicables al administrador nacional del registro de derechos de emisión previsto en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero, con las excepciones que se determinen reglamentariamente, las obligaciones de información y de control interno contenidas en los capítulos III y IV de la presente Ley.»
+«5. Serán aplicables al administrador nacional del registro de derechos de emisión previsto en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero, con las excepciones que se determinen reglamentariamente, las obligaciones de información y de control interno contenidas en los capítulos III y IV de la presente Ley.»
 
-Dos. Se añade un apartado 6 al artículo 7, con la redacción siguiente:
+Dos. Se añade un apartado 6 al artículo 7, con la redacción siguiente:
 
 «6. Reglamentariamente podrá autorizarse la no aplicación de todas o algunas de las medidas de diligencia debida o de conservación de documentos en relación con aquellas operaciones ocasionales que no excedan de un umbral cuantitativo, bien singular, bien acumulado por periodos temporales.»
 
-Tres. Se da nueva redacción al artículo 9, con el siguiente tenor literal:
+Tres. Se da nueva redacción al artículo 9, con el siguiente tenor literal:
 
-«Artículo 9. Medidas simplificadas de diligencia debida.
+«Artículo 9. Medidas simplificadas de diligencia debida.
 
 Los sujetos obligados podrán aplicar, en los supuestos y con las condiciones que se determinen reglamentariamente, medidas simplificadas de diligencia debida respecto de aquellos clientes, productos u operaciones que comporten un riesgo reducido de blanqueo de capitales o de financiación del terrorismo.»
 
-Cuatro. Se da nueva redacción al artículo 10, con el siguiente tenor literal:
+Cuatro. Se da nueva redacción al artículo 10, con el siguiente tenor literal:
 
-«Artículo 10. Aplicación de medidas simplificadas de diligencia debida.
+«Artículo 10. Aplicación de medidas simplificadas de diligencia debida.
 
 La aplicación de medidas simplificadas de diligencia debida será graduada en función del riesgo, con arreglo a los siguientes criterios:
 
@@ -1068,11 +1062,11 @@ a) Con carácter previo a la aplicación de medidas simplificadas de diligencia 
 
 b) La aplicación de las medidas simplificadas de diligencia debida será en todo caso congruente con el riesgo. Los sujetos obligados no aplicarán o cesarán de aplicar medidas simplificadas de diligencia debida tan pronto como aprecien que un cliente, producto u operación no comporta riesgos reducidos de blanqueo de capitales o de financiación del terrorismo.
 
-c) Los sujetos obligados mantendrán en todo caso un seguimiento continuo suficiente para detectar operaciones susceptibles de examen especial de conformidad con lo prevenido en el artículo 17.»
+c) Los sujetos obligados mantendrán en todo caso un seguimiento continuo suficiente para detectar operaciones susceptibles de examen especial de conformidad con lo prevenido en el artículo 17.»
 
-Cinco. Se da nueva redacción al artículo 14, con el siguiente tenor literal:
+Cinco. Se da nueva redacción al artículo 14, con el siguiente tenor literal:
 
-«Artículo 14. Personas con responsabilidad pública.
+«Artículo 14. Personas con responsabilidad pública.
 
 1. Los sujetos obligados aplicarán las medidas reforzadas de diligencia debida previstas en este artículo en las relaciones de negocio u operaciones de personas con responsabilidad pública.
 
@@ -1082,13 +1076,13 @@ a) Aquellas que desempeñen o hayan desempeñado funciones públicas importantes
 
 b) Aquellas que desempeñen o hayan desempeñado funciones públicas importantes en el Estado español, tales como los altos cargos de acuerdo con lo dispuesto en la normativa en materia de conflictos de intereses de la Administración General del Estado; los parlamentarios nacionales y del Parlamento Europeo; los magistrados del Tribunal Supremo y Tribunal Constitucional, con inclusión de los miembros equivalentes del Ministerio Fiscal; los consejeros del Tribunal de Cuentas y del Banco de España; los embajadores y encargados de negocios; el alto personal militar de las Fuerzas Armadas; y los directores, directores adjuntos y miembros del consejo de administración, o función equivalente, de una organización internacional, con inclusión de la Unión Europea.
 
-c) Asimismo, tendrán la consideración de personas con responsabilidad pública aquellas que desempeñen o hayan desempeñado funciones públicas importantes en el ámbito autonómico español, como los Presidentes y los Consejeros y demás miembros de los Consejos de Gobierno, así como los altos cargos y los diputados autonómicos y, en el ámbito local español, los alcaldes, concejales y demás altos cargos de los municipios capitales de provincia o de capital de Comunidad Autónoma de las Entidades Locales de más de 50.000 habitantes, o cargos de alta dirección en organizaciones sindicales o empresariales o partidos políticos españoles.
+c) Asimismo, tendrán la consideración de personas con responsabilidad pública aquellas que desempeñen o hayan desempeñado funciones públicas importantes en el ámbito autonómico español, como los Presidentes y los Consejeros y demás miembros de los Consejos de Gobierno, así como los altos cargos y los diputados autonómicos y, en el ámbito local español, los alcaldes, concejales y demás altos cargos de los municipios capitales de provincia o de capital de Comunidad Autónoma de las Entidades Locales de más de 50.000 habitantes, o cargos de alta dirección en organizaciones sindicales o empresariales o partidos políticos españoles.
 
 Ninguna de estas categorías incluirá empleados públicos de niveles intermedios o inferiores.
 
 2. En relación con los clientes o titulares reales que desempeñen o hayan desempeñado funciones públicas importantes por elección, nombramiento o investidura en otros Estados miembros de la Unión Europea o en un país tercero, los sujetos obligados, además de las medidas normales de diligencia debida, deberán en todo caso:
 
-a) Aplicar procedimientos adecuados de gestión del riesgo a fin de determinar si el cliente o el titular real es una persona con responsabilidad pública. Dichos procedimientos se incluirán en la política expresa de admisión de clientes a que se refiere el artículo 26.1.
+a) Aplicar procedimientos adecuados de gestión del riesgo a fin de determinar si el cliente o el titular real es una persona con responsabilidad pública. Dichos procedimientos se incluirán en la política expresa de admisión de clientes a que se refiere el artículo 26.1.
 
 b) Obtener la autorización del inmediato nivel directivo, como mínimo, para establecer o mantener relaciones de negocios.
 
@@ -1116,19 +1110,23 @@ a) Informar al inmediato nivel directivo, como mínimo, antes de proceder al pag
 
 b) Realizar un escrutinio reforzado de la entera relación de negocios con el titular de la póliza.
 
-c) Realizar el examen especial previsto en el artículo 17 a efectos de determinar si procede la comunicación por indicio de conformidad con el artículo 18.
+c) Realizar el examen especial previsto en el artículo 17 a efectos.
 
-6. Sin perjuicio del cumplimiento de lo establecido en los apartados anteriores, cuando, por concurrir las circunstancias previstas en el artículo 17, proceda el examen especial, los sujetos obligados adoptarán las medidas adecuadas para apreciar la eventual participación en el hecho u operación de quien ostente o haya ostentado en España la condición de cargo público representativo o alto cargo de las Administraciones Públicas, o de sus familiares o allegados.
+de determinar si procede la comunicación por indicio de conformidad con el artículo 18.
 
-7. Sin perjuicio de lo dispuesto en el artículo 11, cuando las personas contempladas en los apartados precedentes hayan dejado de desempeñar sus funciones, los sujetos obligados continuarán aplicando las medidas previstas en este artículo por un periodo de dos años.»
+6. Sin perjuicio del cumplimiento de lo establecido en los apartados anteriores, cuando, por concurrir las circunstancias previstas en el artículo 17, proceda el examen especial, los sujetos obligados adoptarán las medidas adecuadas para apreciar la eventual participación en el hecho u operación de quien ostente o haya ostentado en España la condición de cargo público representativo o alto cargo de las Administraciones Públicas, o de sus familiares o allegados.
 
-Seis. Se da nueva redacción al apartado 4 del artículo 26, con el siguiente tenor literal:
+7. Sin perjuicio de lo dispuesto en el artículo 11, cuando las personas contempladas en los apartados precedentes hayan dejado de desempeñar sus funciones, los sujetos obligados continuarán aplicando las medidas previstas en este artículo por un periodo de dos años.»
 
-«4. Las medidas de control interno se establecerán a nivel de grupo, con las especificaciones que se determinen reglamentariamente. A efectos de la definición de grupo, se estará a lo dispuesto en el artículo 42 del Código de Comercio.»
+Seis. Se da nueva redacción al apartado 4 del artículo 26, con el siguiente tenor literal:
 
-Siete. Se da nueva redacción al artículo 42, con el siguiente tenor literal:
+«4. Las medidas de control interno se establecerán a nivel de grupo, con las especificaciones que se determinen reglamentariamente. A efectos de la definición de grupo, se estará a lo dispuesto en el artículo 42 l.
 
-«Artículo 42. Sanciones y contramedidas financieras internacionales.
+Código de Comercio.»
+
+Siete. Se da nueva redacción al artículo 42, con el siguiente tenor literal:
+
+«Artículo 42. Sanciones y contramedidas financieras internacionales.
 
 1. Las sanciones financieras establecidas por las Resoluciones del Consejo de Seguridad de Naciones Unidas relativas a la prevención y supresión del terrorismo y de la financiación del terrorismo, y a la prevención, supresión y disrupción de la proliferación de armas de destrucción masiva y de su financiación, serán de obligada aplicación para cualquier persona física o jurídica en los términos previstos por los reglamentos comunitarios o por acuerdo del Consejo de Ministros, adoptado a propuesta del Ministro de Economía y Competitividad.
 
@@ -1152,11 +1150,11 @@ g) Prohibir, limitar o condicionar el establecimiento o mantenimiento de filiale
 
 h) Prohibir, limitar o condicionar a las entidades financieras el establecimiento o mantenimiento de filiales, sucursales u oficinas de representación en el país tercero.
 
-i)	Prohibir, limitar o condicionar las relaciones de negocio o las operaciones financieras con el país tercero o con nacionales o residentes del mismo.
+i) Prohibir, limitar o condicionar las relaciones de negocio o las operaciones financieras con el país tercero o con nacionales o residentes del mismo.
 
 j) Prohibir a los sujetos obligados la aceptación de las medidas de diligencia debida practicadas por entidades situadas en el país tercero.
 
-k)	Requerir a las entidades financieras la revisión, modificación y, en su caso, terminación, de las relaciones de corresponsalía con entidades financieras del país tercero.
+k) Requerir a las entidades financieras la revisión, modificación y, en su caso, terminación, de las relaciones de corresponsalía con entidades financieras del país tercero.
 
 l) Someter las filiales o sucursales de entidades financieras del país tercero a supervisión reforzada o a examen o auditoría externos.
 
@@ -1164,9 +1162,9 @@ m) Imponer a los grupos financieros requisitos reforzados de información o audi
 
 3. Competerá al Servicio Ejecutivo de la Comisión la supervisión e inspección del cumplimiento de lo dispuesto en este artículo.»
 
-Ocho. Se da nueva redacción al artículo 52.1.u), con el siguiente tenor literal:
+Ocho. Se da nueva redacción al artículo 52.1.u), con el siguiente tenor literal:
 
-«u) El incumplimiento de la obligación de aplicar sanciones o contramedidas financieras internacionales, en los términos del artículo 42.»
+«u) El incumplimiento de la obligación de aplicar sanciones o contramedidas financieras internacionales, en los términos del artículo 42.»
 
 #### Disposición final séptima. Desarrollo reglamentario.
 
@@ -1174,7 +1172,7 @@ El Gobierno, en el ámbito de sus competencias, podrá dictar cuantas disposicio
 
 #### Disposición final octava. Título competencial.
 
-La presente Ley se dicta al amparo de lo dispuesto en los artículos 149.1.1.ª, 149.1.13.ª y 149.1.18.ª de la Constitución. Se exceptúa lo dispuesto en el segundo párrafo del apartado 2 del artículo 6, el artículo 9, los apartados 1 y 2 del artículo 10, el artículo 11, el apartado 2 del artículo 21, el apartado 1 del artículo 25, el título III y la disposición adicional segunda.
+La presente Ley se dicta al amparo de lo dispuesto en los artículos 149.1.1.ª, 149.1.13.ª y 149.1.18.ª de la Constitución. Se exceptúa lo dispuesto en el segundo párrafo del apartado 2 del artículo 6, el artículo 9, los apartados 1 y 2 del artículo 10, el artículo 11, el apartado 2 del artículo 21, el apartado 1 del artículo 25, el título III y la disposición adicional segunda.
 
 #### Disposición final novena. Entrada en vigor.
 
@@ -1194,11 +1192,10 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
@@ -1212,6 +1209,7 @@ MARIANO RAJOY BREY
 - **Fundamento de**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)

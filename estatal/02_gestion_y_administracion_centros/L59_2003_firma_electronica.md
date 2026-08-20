@@ -4,8 +4,7 @@ codigo_sintetizado: BOE-A-2003-23399
 titulo: Ley 59/2003, de 19 de diciembre, de firma electrónica.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-12-20'
 boletin: BOE
@@ -16,27 +15,24 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- administraci-n-electr-nica-y-firmas
-- equipos-directivos
+  - administraci-n-electr-nica-y-firmas
+  - equipos-directivos
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-l-39-2015
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-1999-23750
+    - '27'
+    - norma_id: norm-es-1999-23750
 ---
+# Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 ## Preámbulo
-
-# Ley 59/2003, de 19 de diciembre, de firma electrónica.
-
-# Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**
 
@@ -46,7 +42,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
 
-## EXPOSICIÓN DE MOTIVOS
+## Exposición de motivos
 
 **I**
 
@@ -136,7 +132,7 @@ Por último, cierran el texto las disposiciones adicionales -que aluden a los re
 
 Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas previsto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas, modificada por la Directiva 98/48/CE, del Parlamento Europeo y del Consejo, de 20 de julio de 1998, y en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información.
 
-## TÍTULO I
+## Título I
 
 **Disposiciones generales**
 
@@ -208,13 +204,13 @@ Las Administraciones públicas, con el objeto de salvaguardar las garantías de 
 
 3. La prestación al público de servicios de certificación por las Administraciones públicas, sus organismos públicos o las entidades dependientes o vinculadas a las mismas se realizará con arreglo a los principios de objetividad, transparencia y no discriminación.
 
-## TÍTULO II
+## Título II
 
 **Certificados electrónicos**
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 6. Concepto de certificado electrónico y de firmante.
 
@@ -292,9 +288,7 @@ d) Cualquier otra causa lícita prevista en la declaración de prácticas de cer
 
 4. La extinción o suspensión de la vigencia de un certificado electrónico se mantendrá accesible en el servicio de consulta sobre la vigencia de los certificados al menos hasta la fecha en que hubiera finalizado su período inicial de validez.
 
-CAPÍTULO II
-
-Certificados reconocidos
+## Capítulo II. Certificados reconocidos.
 
 #### Artículo 11. Concepto y contenido de los certificados reconocidos.
 
@@ -366,9 +360,7 @@ b) Que el certificado esté garantizado por un prestador de servicios de certifi
 
 c) Que el certificado o el prestador de servicios de certificación estén reconocidos en virtud de un acuerdo bilateral o multilateral entre la Comunidad Europea y terceros países u organizaciones internacionales.
 
-CAPÍTULO III
-
-El documento nacional de identidad electrónico
+## Capítulo III. El documento nacional de identidad electrónico.
 
 #### Artículo 15. Documento nacional de identidad electrónico.
 
@@ -382,13 +374,11 @@ El documento nacional de identidad electrónico
 
 2. La Administración General del Estado empleará, en la medida de lo posible, sistemas que garanticen la compatibilidad de los instrumentos de firma electrónica incluidos en el documento nacional de identidad electrónico con los distintos dispositivos y productos de firma electrónica generalmente aceptados.
 
-## TÍTULO III
+## Título III
 
 **Prestación de servicios de certificación**
 
-CAPÍTULO I
-
-Obligaciones
+## Capítulo I. Obligaciones.
 
 #### Artículo 17. Protección de los datos personales.
 
@@ -474,9 +464,7 @@ Igualmente, comunicará cualquier otra circunstancia relevante que pueda impedir
 
 3. Los prestadores de servicios de certificación remitirán al Ministerio de Ciencia y Tecnología con carácter previo al cese definitivo de su actividad la información relativa a los certificados electrónicos cuya vigencia haya sido extinguida para que éste se haga cargo de su custodia a efectos de lo previsto en el artículo 20.1.f). Este ministerio mantendrá accesible al público un servicio de consulta específico donde figure una indicación sobre los citados certificados durante un período que considere suficiente en función de las consultas efectuadas al mismo.
 
-CAPÍTULO II
-
-Responsabilidad
+## Capítulo II. Responsabilidad.
 
 #### Artículo 22. Responsabilidad de los prestadores de servicios de certificación.
 
@@ -484,7 +472,9 @@ Responsabilidad
 
 La responsabilidad del prestador de servicios de certificación regulada en esta ley será exigible conforme a las normas generales sobre la culpa contractual o extracontractual, según proceda, si bien corresponderá al prestador de servicios de certificación demostrar que actuó con la diligencia profesional que le es exigible.
 
-2. Si el prestador de servicios de certificación no cumpliera las obligaciones señaladas en los párrafos b) al d) del artículo 12 al garantizar un certificado electrónico expedido por un prestador de servicios de certificación establecido en un Estado no perteneciente al Espacio Económico Europeo, será responsable por los daños y perjuicios causados por el uso de dicho certificado.
+2. Si el prestador de servicios de certificación no cumpliera las obligaciones señaladas en los párrafos b) al d) del artículo 12 al.
+
+garantizar un certificado electrónico expedido por un prestador de servicios de certificación establecido en un Estado no perteneciente al Espacio Económico Europeo, será responsable por los daños y perjuicios causados por el uso de dicho certificado.
 
 3. De manera particular, el prestador de servicios de certificación responderá de los perjuicios que se causen al firmante o a terceros de buena fe por la falta o el retraso en la inclusión en el servicio de consulta sobre la vigencia de los certificados de la extinción o suspensión de la vigencia del certificado electrónico.
 
@@ -522,13 +512,11 @@ b) Cuando no tenga en cuenta la suspensión o pérdida de vigencia del certifica
 
 6. La exención de responsabilidad frente a terceros obliga al prestador de servicios de certificación a probar que actuó en todo caso con la debida diligencia.
 
-## TÍTULO IV
+## Título IV
 
 **Dispositivos de firma electrónica y sistemas de certificación de prestadores de servicios de certificación y de dispositivos de firma electrónica**
 
-CAPÍTULO I
-
-Dispositivos de firma electrónica
+## Capítulo I. Dispositivos de firma electrónica.
 
 #### Artículo 24. Dispositivos de creación de firma electrónica.
 
@@ -568,9 +556,7 @@ f) Que pueda detectarse cualquier cambio relativo a su seguridad.
 
 4. Asimismo, los datos referentes a la verificación de la firma, tales como el momento en que ésta se produce o una constatación de la validez del certificado electrónico en ese momento, podrán ser almacenados por la persona que verifica la firma electrónica o por terceros de confianza.
 
-CAPÍTULO II
-
-Certificación de prestadores de servicios de certificación y de dispositivos de creación de firma electrónica
+## Capítulo II. Certificación de prestadores de servicios de certificación y de dispositivos de creación de firma electrónica.
 
 #### Artículo 26. Certificación de prestadores de servicios de certificación.
 
@@ -596,11 +582,13 @@ Los organismos de certificación asegurarán la difusión de las decisiones de r
 
 #### Artículo 28. Reconocimiento de la conformidad con la normativa aplicable a los productos de firma electrónica.
 
-1. Se presumirá que los productos de firma electrónica aludidos en el párrafo d) del apartado 1 del artículo 20 y en el apartado 3 del artículo 24 son conformes con los requisitos previstos en dichos artículos si se ajustan a las normas técnicas correspondientes cuyos números de referencia hayan sido publicados en el "Diario Oficial de la Unión Europea".
+1. Se presumirá que los productos de firma electrónica aludidos en el párrafo d) del apartado 1 del artículo 20 y en.
+
+el apartado 3 del artículo 24 son conformes con los requisitos previstos en dichos artículos si se ajustan a las normas técnicas correspondientes cuyos números de referencia hayan sido publicados en el "Diario Oficial de la Unión Europea".
 
 2. Se reconocerá eficacia a los certificados de conformidad sobre dispositivos seguros de creación de firma que hayan sido otorgados por los organismos designados para ello en cualquier Estado miembro del Espacio Económico Europeo.
 
-## TÍTULO V
+## Título V
 
 **Supervisión y control**
 
@@ -626,7 +614,7 @@ En particular, deberán permitir a sus agentes o al personal inspector el acceso
 
 3. Cuando, como consecuencia de una actuación inspectora, se tuviera conocimiento de hechos que pudieran ser constitutivos de infracciones tipificadas en otras leyes, se dará cuenta de los mismos a los órganos u organismos competentes para su supervisión y sanción.
 
-## TÍTULO VI
+## Título VI
 
 **Infracciones y sanciones**
 
@@ -652,7 +640,9 @@ c) La expedición de certificados reconocidos sin realizar todas las comprobacio
 
 d) El incumplimiento por los prestadores de servicios de certificación que no expidan certificados reconocidos de las obligaciones señaladas en el artículo 18, si se hubieran causado daños graves a los usuarios o la seguridad de los servicios de certificación se hubiera visto gravemente afectada.
 
-e) El incumplimiento por los prestadores de servicios de certificación de las obligaciones establecidas en el artículo 21 respecto al cese de actividad de los mismos o la producción de circunstancias que impidan la continuación de su actividad, cuando las mismas no sean sancionables de conformidad con lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
+e) El incumplimiento por los prestadores de servicios de certificación de las obligaciones establecidas en el artículo 21 respecto.
+
+al cese de actividad de los mismos o la producción de circunstancias que impidan la continuación de su actividad, cuando las mismas no sean sancionables de conformidad con lo dispuesto en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 f) La resistencia, obstrucción, excusa o negativa injustificada a la actuación inspectora de los órganos facultados para llevarla a cabo con arreglo a esta ley y la falta o deficiente presentación de la información solicitada por parte del Ministerio de Ciencia y Tecnología en su función de inspección y control.
 
@@ -660,7 +650,9 @@ g) El incumplimiento de las resoluciones dictadas por el Ministerio de Ciencia y
 
 4. Constituyen infracciones leves:
 
-El incumplimiento por los prestadores de servicios de certificación que no expidan certificados reconocidos, de las obligaciones señaladas en el artículo 18 y las restantes de esta ley, cuando no constituya infracción grave o muy grave, excepto las contenidas en el apartado 2 del artículo 30.
+El incumplimiento por los prestadores de servicios de certificación que no expidan certificados reconocidos, de las obligaciones señaladas en el artículo 18 y las.
+
+restantes de esta ley, cuando no constituya infracción grave o muy grave, excepto las contenidas en el apartado 2 del artículo 30.
 
 #### Artículo 32. Sanciones.
 
@@ -722,7 +714,9 @@ El órgano administrativo competente para resolver el procedimiento sancionador 
 
 1. La imposición de sanciones por el incumplimiento de lo previsto en esta ley corresponderá, en el caso de infracciones muy graves, al Ministro de Ciencia y Tecnología y en el de infracciones graves y leves, al Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información.
 
-No obstante, el incumplimiento de las obligaciones establecidas en el artículo 17 será sancionado por la Agencia de Protección de Datos con arreglo a lo establecido en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
+No obstante, el incumplimiento de las obligaciones establecidas en el artículo 17 será.
+
+sancionado por la Agencia de Protección de Datos con arreglo a lo establecido en la [Ley Orgánica 15/1999](./LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 2. La potestad sancionadora regulada en esta Ley se ejercerá de conformidad con lo establecido al respecto en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en sus normas de desarrollo.
 
@@ -786,7 +780,9 @@ Dos. Los apartados 2, 3 y 4 del artículo 38 de la Ley 34/2002, de 11 de julio, 
 
 "2. Son infracciones muy graves:
 
-a) El incumplimiento de las órdenes dictadas en virtud del artículo 8 en aquellos supuestos en que hayan sido dictadas por un órgano administrativo.
+a) El incumplimiento de las órdenes dictadas en virtud del artículo 8 en.
+
+aquellos supuestos en que hayan sido dictadas por un órgano administrativo.
 
 b) El incumplimiento de la obligación de suspender la transmisión, el alojamiento de datos, el acceso a la red o la prestación de cualquier otro servicio equivalente de intermediación, cuando un órgano administrativo competente lo ordene, en virtud de lo dispuesto en el artículo 11.
 
@@ -820,9 +816,13 @@ a) La falta de comunicación al registro público en que estén inscritos, de ac
 
 b) No informar en la forma prescrita por el artículo 10.1 sobre los aspectos señalados en los párrafos b), c), d), e) y g) del mismo, o en los párrafos a) y f) cuando no constituya infracción grave.
 
-c) El incumplimiento de lo previsto en el artículo 20 para las comunicaciones comerciales, ofertas promocionales y concursos.
+c) El incumplimiento de lo previsto en el artículo 20 para.
 
-d) El envío de comunicaciones comerciales por correo electrónico u otro medio de comunicación electrónica equivalente cuando en dichos envíos no se cumplan los requisitos establecidos en el artículo 21 y no constituya infracción grave.
+las comunicaciones comerciales, ofertas promocionales y concursos.
+
+d) El envío de comunicaciones comerciales por correo electrónico u otro medio de comunicación electrónica equivalente cuando en dichos envíos no se cumplan los requisitos establecidos en el artículo 21 y no.
+
+constituya infracción grave.
 
 e) No facilitar la información a que se refiere el artículo 27.1, cuando las partes no hayan pactado su exclusión o el destinatario sea un consumidor.
 
@@ -836,13 +836,17 @@ i) El incumplimiento de lo establecido en el apartado 3 del artículo 10, cuando
 
 Tres. Modificación del artículo 43, apartado 1, segundo párrafo de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
 
-El segundo párrafo del apartado 1 del artículo 43 queda redactado como sigue:
+El segundo párrafo del apartado 1 del artículo 43 queda.
+
+redactado como sigue:
 
 "No obstante lo anterior, la imposición de sanciones por incumplimiento de las resoluciones dictadas por los órganos competentes en función de la materia o entidad de que se trate a que se refieren los párrafos a) y b) del artículo 38.2 de esta ley corresponderá al órgano que dictó la resolución incumplida. Igualmente, corresponderá a la Agencia de Protección de Datos la imposición de sanciones por la comisión de las infracciones tipificadas en los artículos 38.3 c), d) e i) y 38.4 d), g) y h) de esta ley."
 
 Cuatro. Modificación del artículo 43, apartado 2 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
 
-El apartado 2 del artículo 43 queda redactado como sigue:
+El apartado 2 del artículo 43 queda.
+
+redactado como sigue:
 
 "2. La potestad sancionadora regulada en esta ley se ejercerá de conformidad con lo establecido al respecto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en sus normas de desarrollo. No obstante, el plazo máximo de duración del procedimiento simplificado será de tres meses."
 
@@ -890,16 +894,16 @@ El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
 - **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)

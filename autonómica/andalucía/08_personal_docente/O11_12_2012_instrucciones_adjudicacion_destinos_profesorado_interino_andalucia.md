@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-11-12-2012
 codigo_sintetizado: O11_12_2012 Adjudicacion Destinos Profesorado Interino Andalucía
-titulo: Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de
-  destinos al personal docente interino (SIPRI).
+titulo: Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 11/12/2012
 fecha_disposicion: '2012-12-11'
@@ -20,36 +18,29 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado interino
 tags:
-- sipri
-- interinos
-- adjudicacion_destinos
-- andalucia
+  - sipri
+  - interinos
+  - adjudicacion_destinos
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-lo-2-2006
 ---
+# Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
 
 ## Preámbulo
 
-# Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
-
 ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -87,17 +78,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2012
 Boletín 248
 
 ##
 
-Histórico del BOJA
-Boletín número
-248
-de
-20/12/2012
+Histórico del BOJA Boletín número 248 de 20/12/2012
 
 ## 1. Disposiciones generales
 
@@ -105,26 +90,10 @@ de
 
 ### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
 
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00018358.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00018358.
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 Desde el año 1991 la Administración de la Junta de Andalucía, a través de la Consejería competente en materia de Formación Profesional para el Empleo, ha constituido en colaboración con Entidades Locales catorce Consorcios Escuela, que vienen a constituir la denominada «Red de Consorcios Escuela de Formación para el Empleo de la Junta de Andalucía».
 
@@ -140,7 +109,7 @@ Mediante la presente Orden se aprueban las bases reguladoras para la concesión 
 
 En su virtud, y en uso de las facultades conferidas por el artículo 118.1 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo, los artículos 44.2 y 46.4 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y el artículo 26.2.a) de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de la Andalucía
 
-DISPONGO
+DISPONGO:
 
 Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
 
@@ -158,13 +127,13 @@ Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
 
 - Anexo II: Formulario de alegaciones, aceptación, reformulación y presentación de documentos.
 
-Disposición adicional primera. Convocatorias anuales.
+#### Disposición adicional primera. Convocatorias anuales.
 
 La persona titular de la Dirección-Gerencia del Servicio Andaluz de Empleo podrá efectuar la convocatoria de las subvenciones que se regulan en la presente Orden, mediante Resolución que será publicada en el
 
 La citada Resolución deberá ser informada conforme al Decreto 162/2006, de 12 de septiembre, por el que se regulan la memoria económica y el informe en las actuaciones con incidencia económico-financiera.
 
-Disposición adicional segunda. Convocatoria para el año 2012.
+#### Disposición adicional segunda. Convocatoria para el año 2012.
 
 1. Se convocan para el año 2012 la concesión de subvenciones, en las modalidades de proyectos formativos e inversiones, siendo el plazo de presentación de solicitudes de cinco días naturales, contados desde el día siguiente a la entrada en vigor de la presente Orden.
 
@@ -172,25 +141,19 @@ Disposición adicional segunda. Convocatoria para el año 2012.
 
 3. Las subvenciones objeto de la presente convocatoria se concederán, de acuerdo con las disponibilidades presupuestarias existentes, con cargo a los créditos presupuestarios de la Consejería de Economía, Innovación, Ciencia y Empleo, correspondientes a las siguientes aplicaciones presupuestarias, y por una cuantía máxima de 18.589.670,00 euros:
 
-Línea
-Cuantía máxima
-Aplicaciones presupuestarias
+Línea Cuantía máxima Aplicaciones presupuestarias
 
-Proyecto formativo
-17.142.181,00
+Proyecto formativo 17.142.181,00
 
-31.14.39.01.00.8025.745.00 32L.0.2013
-31.14.39.16.00.8025.745.00.32L.7.2013
+31.14.39.01.00.8025.745.00 32L.0.2013 31.14.39.16.00.8025.745.00.32L.7.2013
 
-Proyecto de inversiones
-1.447.489,00
-31.14.39.17.00.8025.745.01.32L.7.2013
+Proyecto de inversiones 1.447.489,00 31.14.39.17.00.8025.745.01.32L.7.2013
 
-Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a la presente Orden y, expresamente, la Orden de 10 de mayo de 2005, por la que se establecen las bases reguladoras y la convocatoria para el año 2005 de las subvenciones destinadas a Consorcios Escuela de Formación para el Empleo participados por la Junta de Andalucía.
 
-Disposición final única. Entrada en vigor.
+#### Disposición final única. Entrada en vigor.
 
 La presente Orden entrará en vigor el día siguiente al de su publicación en el
 
@@ -202,13 +165,13 @@ Consejero de Economía, Innovación, Ciencia y Empleo
 
 BASES REGULADORAS TIPO PARA LA CONCESIÓN DE SUBVENCIONES EN RÉGIMEN DE CONCURRENCIA NO COMPETITIVA
 
-Artículo 1. Objeto de las subvenciones y conceptos subvencionables.
+#### Artículo 1. Objeto de las subvenciones y conceptos subvencionables.
 
 1. Constituye el objeto de las presentes subvenciones el establecido en el apartado 1 del cuadro resumen correspondiente.
 
 2. Serán subvencionables los conceptos indicados en el apartado 2.a) del cuadro resumen correspondiente.
 
-Artículo 2. Régimen jurídico.
+#### Artículo 2. Régimen jurídico.
 
 1. Las subvenciones se regirán, por las normas específicas indicadas, en su caso, en el apartado 3 del cuadro resumen correspondiente, por lo previsto en las presentes bases reguladoras y en las siguientes normas:
 
@@ -232,7 +195,7 @@ i) El Decreto 183/2003, de 24 de junio, por el que se regula la información y a
 
 2. Las subvenciones cofinanciadas con Fondos Europeos se ajustarán a la normativa comunitaria, nacional y autonómica que, con carácter específico, se indique en el apartado 3 del Cuadro resumen correspondiente.
 
-Artículo 3. Requisitos que deben reunir las personas solicitantes para la obtención de la subvención.
+#### Artículo 3. Requisitos que deben reunir las personas solicitantes para la obtención de la subvención.
 
 1. Podrán solicitar las subvenciones objeto de las presentes bases reguladoras las personas o entidades contempladas en el apartado 4.a).1.º del cuadro resumen correspondiente, que reúnan todos los requisitos indicados en su apartado 4.a).2.º
 
@@ -264,7 +227,7 @@ k) En el supuesto de asociaciones, estar incursa en alguna de las prohibiciones 
 
 4. En el supuesto de que en el apartado 4.a).1.º del cuadro resumen correspondiente se hubiera previsto que puedan acceder a la condición de beneficiarias las agrupaciones previstas en el segundo párrafo del artículo 11.3 de la Ley 38/2003, de 17 de noviembre, las prohibiciones anteriores tampoco podrán concurrir en cualquiera de sus miembros.
 
-Artículo 4. Cuantía de las subvenciones y gastos subvencionables.
+#### Artículo 4. Cuantía de las subvenciones y gastos subvencionables.
 
 1. La forma de concretar la cuantía de la subvención se especificará en el apartado 5.a) del cuadro resumen correspondiente, pudiendo consistir en un porcentaje máximo de la subvención a conceder en relación al presupuesto total de las actividades subvencionadas, una cuantía máxima, una cuantía mínima, o un importe cierto sin referencia a un porcentaje o fracción, o en otras formas o métodos de concreción.
 
@@ -296,19 +259,21 @@ c) Los gastos de procedimientos judiciales.
 
 12. En los términos establecidos en el artículo 31.3 de la Ley 38/2003, de 17 de noviembre, cuando el importe del gasto subvencionable supere la cuantía de 30.000 euros en el supuesto de coste por ejecución de obra, o de 12.000 euros en el supuesto de suministro de bienes de equipo o prestación de servicios por empresas de consultaría o asistencia técnica, la persona beneficiaria deberá solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso para la prestación del servicio o la entrega del bien.
 
-Artículo 5. Limitaciones presupuestarias y control.
+#### Artículo 5. Limitaciones presupuestarias y control.
 
 1. La concesión de las subvenciones estará limitada por las disponibilidades presupuestarias existentes, de acuerdo con el artículo 119.2.j) del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
 
 2. Las subvenciones se concederán con cargo a los créditos presupuestarios que se establezcan en la correspondiente convocatoria, en la que se especificará la cuantía total máxima destinada a cada línea de subvención en dicha convocatoria.
 
-3. Cuando se prevea en la convocatoria, se podrán adquirir compromisos de gasto de carácter plurianual de conformidad con lo establecido en el artículo 40 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía y su normativa de desarrollo, conforme a la distribución por anualidades e importes que en ella se establezca.
+3. Cuando se prevea en la convocatoria, se podrán adquirir compromisos de gasto de carácter plurianual de conformidad con lo establecido en el artículo 40 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía y su normativa de desarrollo, conforme a la distribución por anualidades e importes que en ella se establezca.
 
 4. La convocatoria podrá también prever que eventuales aumentos sobrevenidos en el crédito disponible, posibiliten una resolución complementaria de la concesión de la subvención que incluya solicitudes que, aún cumpliendo todos los requisitos, no hayan sido beneficiarias por agotamiento del mismo.
 
 5. El régimen de control de las subvenciones se realizará conforme a lo establecido en el apartado 6 del cuadro resumen correspondiente.
 
-Artículo 6. Financiación y régimen de compatibilidad de las subvenciones.
+#### Artículo 6. Financiación y régimen de compatibilidad de las subvenciones.
 
 1. Siempre que se especifique en el apartado 7.a) del cuadro resumen correspondiente, la persona beneficiaria tendrá que efectuar una aportación de fondos propios para cubrir la actividad subvencionada, teniendo que acreditarse al justificar la subvención.
 
@@ -318,7 +283,7 @@ Artículo 6. Financiación y régimen de compatibilidad de las subvenciones.
 
 4. Si la Unión Europea participa en la financiación de estas subvenciones, en el apartado 7.d) del cuadro resumen correspondiente se indicará el fondo europeo que corresponda, así como si participan la Administración General del Estado y otras Administraciones Públicas.
 
-Artículo 7. Entidades colaboradoras.
+#### Artículo 7. Entidades colaboradoras.
 
 1. La entrega y distribución de los fondos públicos a las personas o entidades beneficiarias y/o la colaboración en la gestión de las subvenciones se efectuará por entidad/es colaboradora/s cuando así se haya previsto en el apartado 8.a) del cuadro resumen correspondiente.
 
@@ -334,7 +299,7 @@ Artículo 7. Entidades colaboradoras.
 
 7. Las funciones y obligaciones de las entidades colaboradoras serán las indicadas en el apartado 8.g) del cuadro resumen correspondiente.
 
-Artículo 8. Subcontratación.
+#### Artículo 8. Subcontratación.
 
 1. Las personas beneficiarias de las subvenciones podrán subcontratar la ejecución de la actividad subvencionada cuando así se haya previsto en el apartado 9 del cuadro resumen correspondiente.
 
@@ -372,11 +337,11 @@ e) Personas o entidades solicitantes de ayuda o subvención en la misma convocat
 
 9. En los demás aspectos relativos a la subcontratación se estará a lo dispuesto en el artículo 29 de la Ley 38/2003, de 17 de noviembre y al artículo 68 del Real Decreto 887/2006, de 21 de julio.
 
-Artículo 9. Procedimiento de concesión.
+#### Artículo 9. Procedimiento de concesión.
 
 El procedimiento de concesión de subvenciones se iniciará siempre a solicitud de la persona interesada, y se tramitará y resolverá en régimen de concurrencia no competitiva. Se tramitará en atención a la mera concurrencia de la determinada situación de la persona perceptora, sin que sea necesario establecer la comparación de las solicitudes ni la prelación entre las mismas.
 
-Artículo 10. Solicitud.
+#### Artículo 10. Solicitud.
 
 1. Las solicitudes se presentarán ajustándose al formulario incorporado en la convocatoria, cumplimentando:
 
@@ -394,7 +359,9 @@ f) En su caso, el consentimiento expreso al órgano instructor para que recabe d
 
 g) La declaración responsable de la veracidad de todos los datos reflejados en la solicitud.
 
-2. Conforme al artículo 23 del Reglamento de los Procedimientos de Concesión de Subvenciones de la Administración de la Junta de Andalucía, la presentación de la solicitud conlleva la autorización al órgano instructor para recabar las certificaciones o la remisión de datos de la Agencia Estatal de Administración Tributaria, de la Tesorería General de la Seguridad Social y de la Consejería competente en materia de Hacienda que estas bases reguladoras requieran aportar, salvo que haya quedado exceptuado por el apartado 4.c) del cuadro resumen correspondiente.
+2. Conforme al artículo 23 l.
+
+Reglamento de los Procedimientos de Concesión de Subvenciones de la Administración de la Junta de Andalucía, la presentación de la solicitud conlleva la autorización al órgano instructor para recabar las certificaciones o la remisión de datos de la Agencia Estatal de Administración Tributaria, de la Tesorería General de la Seguridad Social y de la Consejería competente en materia de Hacienda que estas bases reguladoras requieran aportar, salvo que haya quedado exceptuado por el apartado 4.c) del cuadro resumen correspondiente.
 
 3. El formulario de solicitud se podrá obtener en los lugares indicados en el apartado 10.a) del cuadro resumen correspondiente.
 
@@ -408,13 +375,13 @@ b) Por limitarse a cumplimentar en la solicitud una declaración responsable de 
 
 6. Con carácter general, cuando se trate de información o documentos que obren en poder de la Administración de la Junta de Andalucía o sus agencias, podrá ejercerse el derecho a no presentarlos, autorizando al órgano instructor para que los recabe de otra Consejería o agencia, para lo cual deberá indicarse el órgano al que fueron presentados o por el que fueron emitidos, la fecha de dicha presentación o emisión, y el procedimiento al que corresponden, siempre que no hayan transcurrido más de cinco años desde la finalización de este.
 
-Artículo 11. Lugares y medios de presentación de solicitudes.
+#### Artículo 11. Lugares y medios de presentación de solicitudes.
 
 1. La solicitud se podrá presentar en los lugares y registros indicados en el apartado 10.c) del cuadro resumen correspondiente.
 
 2. Para utilizar el medio de presentación electrónico, se deberá disponer de un certificado electrónico reconocido expedido por cualquiera de los prestadores de servicios de certificación cuyos certificados reconoce la Administración de la Junta de Andalucía. La relación de prestadores de servicios de certificación cuyos certificados electrónicos reconoce la Administración de la Junta de Andalucía se puede consultar en la dirección electrónica indicada en el apartado 10.d) del cuadro resumen correspondiente. Igualmente se podrá utilizar los sistemas de firma electrónica incorporados al Documento Nacional de Identidad, para personas físicas, en los términos de los artículos 13 y 14 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
 
-Artículo 12. Plazo de presentación de solicitudes.
+#### Artículo 12. Plazo de presentación de solicitudes.
 
 1. El plazo de presentación de solicitudes será el establecido en el apartado 11.a) del cuadro resumen correspondiente.
 
@@ -422,7 +389,7 @@ No obstante, siempre que así se establezca en el apartado 11.b) del cuadro resu
 
 2. Serán inadmitidas las solicitudes presentadas fuera de dicho plazo; la resolución de inadmisión será notificada personalmente a la persona interesada en los términos del artículo 59 de la Ley 30/1992, de 26 de noviembre.
 
-Artículo 13. Comunicación.
+#### Artículo 13. Comunicación.
 
 Dentro de los diez días siguientes a la recepción de la solicitud en el registro del órgano competente para su tramitación, este dirigirá a la persona solicitante una comunicación con el siguiente contenido mínimo que, en caso de proceder la subsanación prevista en el artículo siguiente, se incluirá en el propio requerimiento:
 
@@ -430,7 +397,7 @@ Dentro de los diez días siguientes a la recepción de la solicitud en el regist
 
 2.º El plazo máximo establecido para adoptar y notificar la resolución del procedimiento de concesión de la subvención, así como el efecto desestimatorio que produciría el silencio administrativo.
 
-Artículo 14. Subsanación de la solicitud.
+#### Artículo 14. Subsanación de la solicitud.
 
 1. Si en la solicitud no se hubieran cumplimentado los extremos contenidos en las letras a), b), c), d), e) y g) del artículo 10.1, el órgano instructor requerirá a la persona interesada para que en el plazo de diez días proceda a la subsanación, con la indicación de que, si así no lo hiciera, se le tendrá por desistida de su solicitud de acuerdo con lo dispuesto en el artículo 71 de la Ley 30/1992, de 26 de noviembre, previa resolución que deberá ser dictada en los términos del artículo 42.1 de la referida Ley.
 
@@ -440,13 +407,13 @@ Artículo 14. Subsanación de la solicitud.
 
 4. El escrito mediante el que la persona interesada efectúe la subsanación podrá presentarse en cualquiera de los lugares y por cualquiera de los medios indicados en el apartado 10.c) del cuadro resumen correspondiente.
 
-Artículo 15. Órganos competentes para la instrucción y resolución.
+#### Artículo 15. Órganos competentes para la instrucción y resolución.
 
 1. Los órganos competentes para la instrucción y resolución del procedimiento de concesión de subvenciones serán los indicados en el apartado 12 del cuadro resumen correspondiente.
 
 2. Cuando así se establezca en el apartado 12 del cuadro resumen correspondiente, el análisis de cada solicitud y, en su caso, la emisión de las correspondientes propuestas de resolución, se llevarán a cabo por un órgano colegiado con la composición indicada en dicho apartado.
 
-Artículo 16. Tramitación.
+#### Artículo 16. Tramitación.
 
 1. De acuerdo con el artículo 74.2 de la Ley 30/1992, de 26 de noviembre, la instrucción de las solicitudes se efectuará siguiendo el orden correlativo de entrada en el registro del órgano competente para su tramitación, siempre que exista consignación presupuestaria.
 
@@ -454,7 +421,7 @@ Artículo 16. Tramitación.
 
 3. La persona interesada en el procedimiento de concesión de subvenciones, podrá conocer a través de un acceso restringido en la dirección electrónica indicada en el apartado 13 del cuadro resumen correspondiente, el estado de tramitación del mismo. El acceso y consulta se podrá realizar en tiempo real, previa identificación mediante alguno de los sistemas de firma electrónica indicados en el artículo 11.2. La información sobre el estado de la tramitación del procedimiento comprenderá la relación de los actos de trámite realizados, su contenido y fecha en la que fueron dictados. Todo ello, sin perjuicio de lo previsto en el artículo 35.a) de la Ley 30/1992, de 26 de noviembre.
 
-Artículo 17. Audiencia, reformulación, aportación de documentación y aceptación.
+#### Artículo 17. Audiencia, reformulación, aportación de documentación y aceptación.
 
 1. El órgano instructor, tras haberse dictado la propuesta provisional de resolución, concederá a la persona solicitante un plazo de diez días para que, utilizando el formulario-anexo II, pueda:
 
@@ -462,7 +429,7 @@ a) Alegar lo que estime pertinente, en los términos que prevé el artículo 84 
 
 b) Reformular su solicitud siempre que, habiéndose previsto en el apartado 2.b) del cuadro resumen correspondiente, el importe de la subvención de la propuesta de resolución provisional sea inferior al que figura en su solicitud, en orden a ajustar los compromisos y condiciones a la subvención otorgable; en todo caso se respetará el objeto, las condiciones y la finalidad establecidos en estas bases reguladoras.
 
-c) Comunicar su aceptación a la subvención propuesta. Sin perjuicio de lo previsto en el apartado 4.º de este artículo, la propuesta provisional se tendrá por aceptada:
+c) **Comunicar su aceptación a la subvención propuesta.** Sin perjuicio de lo previsto en el apartado 4.º de este artículo, la propuesta provisional se tendrá por aceptada:
 
 1.º Cuando se proponga la concesión de la subvención por un importe inferior al solicitado, al transcurrir el plazo para reformular sin que la persona solicitante comunique su desistimiento.
 
@@ -492,11 +459,11 @@ c) Que en el apartado 2.c) del cuadro resumen correspondiente no se haya estable
 
 En tal caso, esta propuesta tendrá el carácter de definitiva.
 
-Artículo 18. Propuesta definitiva de resolución.
+#### Artículo 18. Propuesta definitiva de resolución.
 
 Salvo en el supuesto previsto en el último apartado del artículo anterior, el órgano competente analizará las alegaciones presentadas durante el trámite de audiencia, comprobará la documentación aportada y formulará la propuesta definitiva de resolución.
 
-Artículo 19. Resolución.
+#### Artículo 19. Resolución.
 
 1. La resolución del procedimiento será adoptada por el órgano competente con el siguiente contenido mínimo:
 
@@ -520,7 +487,7 @@ f) El plazo y la forma de justificación por parte de las personas o entidades b
 
 5. La resolución pondrá fin al procedimiento y agotará la vía administrativa, pudiendo interponerse contra ella recurso contencioso-administrativo, en la forma y los plazos establecidos en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa o, potestativamente, recurso de reposición en los términos establecidos en la Ley 30/1992, de 26 de noviembre.
 
-Artículo 20. Terminación convencional.
+#### Artículo 20. Terminación convencional.
 
 1. Cuando así se haya establecido en el apartado 17.a) del cuadro resumen correspondiente, el procedimiento de concesión de subvenciones podrá también finalizarse mediante acuerdo entre el órgano concedente y la persona interesada sobre la determinación de la cuantía de la subvención a conceder, debiendo respetarse en todo caso el objeto, condiciones y finalidad de las subvenciones.
 
@@ -530,11 +497,11 @@ Artículo 20. Terminación convencional.
 
 4. El acuerdo formalizado producirá iguales efectos que la resolución del procedimiento, debiendo contener los extremos mínimos exigidos en el artículo anterior.
 
-Artículo 21. Notificación.
+#### Artículo 21. Notificación.
 
 Las notificaciones se cursarán personalmente y se practicarán en el lugar o por el medio indicado en las solicitudes, salvo que se hubiera establecido en el apartado 18 del cuadro resumen correspondiente la obligatoriedad de la notificación electrónica.
 
-Artículo 22. Publicación trimestral de las subvenciones concedidas.
+#### Artículo 22. Publicación trimestral de las subvenciones concedidas.
 
 1. A efectos de general conocimiento, de acuerdo con lo dispuesto en los artículos 18.1 de la Ley 38/2003, de 17 de noviembre, y 123 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, las subvenciones concedidas se publicarán trimestralmente en el
 
@@ -542,7 +509,7 @@ Artículo 22. Publicación trimestral de las subvenciones concedidas.
 
 3. Se exceptúan de las obligaciones previstas en este artículo las subvenciones cuando la publicación de los datos de las personas beneficiarias pueda ser contraria al respeto y salvaguarda del honor, la intimidad personal y familiar de las personas físicas en virtud de lo establecido en la Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
 
-Artículo 23. Modificación de la resolución de concesión.
+#### Artículo 23. Modificación de la resolución de concesión.
 
 1. El procedimiento para modificar la resolución de concesión se iniciará siempre de oficio por acuerdo del órgano que la otorgó, bien por propia iniciativa, como consecuencia de petición razonada de otros órganos o bien a instancia de la persona beneficiaria.
 
@@ -556,7 +523,7 @@ En el plazo máximo de 15 días desde que el escrito haya tenido entrada en el r
 
 5. La resolución de modificación será dictada y notificada en un plazo no superior a dos meses, y siempre antes de finalizar el plazo que, en su caso, sea modificado. La resolución se adoptará por el órgano concedente de la subvención tras la instrucción del correspondiente procedimiento en el que, junto a la propuesta razonada del órgano instructor, se acompañarán los informes pertinentes y las alegaciones que, en su caso, hubiera presentado la persona o entidad beneficiaria.
 
-Artículo 24. Obligaciones de las personas beneficiarias.
+#### Artículo 24. Obligaciones de las personas beneficiarias.
 
 1. Son obligaciones de la persona beneficiaria:
 
@@ -594,15 +561,15 @@ d) El libre acceso a información de las cuentas bancarias en las entidades fina
 
 3. La negativa al cumplimiento de estas obligaciones se considerará resistencia, excusa, obstrucción o negativa a los efectos previstos en el artículo 28, sin perjuicio de las sanciones que, en su caso, pudieran corresponder.
 
-Artículo 25. Forma y secuencia del pago.
+#### Artículo 25. Forma y secuencia del pago.
 
 1. El pago de la subvención se efectuará en la forma o formas y con la secuencia señalada en el apartado 23.a) del cuadro resumen correspondiente.
 
 2. Formas de pago:
 
-a) Pago previa justificación: En el supuesto de haberse señalado esta forma de pago en el apartado 23.a).1.º del cuadro resumen correspondiente, la persona o entidad beneficiaria, deberá justificar previamente al cobro de la subvención, la realización de la actividad, proyecto, objetivo o adopción del comportamiento que motivó la concesión de la misma en los términos establecidos en estas bases reguladoras. En este supuesto, el pago se realizará, según la subopción señalada en el apartado 23.a).1.º del cuadro resumen correspondiente, mediante pago del 100% del importe de la subvención o, cuando la naturaleza de la subvención así lo justifique, mediante pago fraccionado.
+a) **Pago previa justificación.** En el supuesto de haberse señalado esta forma de pago en el apartado 23.a).1.º del cuadro resumen correspondiente, la persona o entidad beneficiaria, deberá justificar previamente al cobro de la subvención, la realización de la actividad, proyecto, objetivo o adopción del comportamiento que motivó la concesión de la misma en los términos establecidos en estas bases reguladoras. En este supuesto, el pago se realizará, según la subopción señalada en el apartado 23.a).1.º del cuadro resumen correspondiente, mediante pago del 100% del importe de la subvención o, cuando la naturaleza de la subvención así lo justifique, mediante pago fraccionado.
 
-b) Pago anticipado: En el supuesto de haberse señalado esta forma de pago en el apartado 23.a).2.º del cuadro resumen correspondiente, el pago se realizará mediante uno o varios pagos anticipados con anterioridad a la justificación de la realización de la actuación o proyecto, según la secuencia del pago y el porcentaje del importe de la subvención que se abonará en cada uno de ellos que se señala en el apartado 23.b) del cuadro resumen correspondiente. La forma y cuantía de las garantías que, en su caso, habrán de aportar las personas o entidades beneficiarias será la señalada en el apartado 23.a).2.º del cuadro resumen correspondiente.
+b) **Pago anticipado.** En el supuesto de haberse señalado esta forma de pago en el apartado 23.a).2.º del cuadro resumen correspondiente, el pago se realizará mediante uno o varios pagos anticipados con anterioridad a la justificación de la realización de la actuación o proyecto, según la secuencia del pago y el porcentaje del importe de la subvención que se abonará en cada uno de ellos que se señala en el apartado 23.b) del cuadro resumen correspondiente. La forma y cuantía de las garantías que, en su caso, habrán de aportar las personas o entidades beneficiarias será la señalada en el apartado 23.a).2.º del cuadro resumen correspondiente.
 
 En esta forma de pago, no podrá abonarse a la persona o entidad beneficiaria un importe superior al 75% de la subvención concedida, sin que se justifiquen previamente los pagos anteriores, excepto en los supuestos en que el importe de aquella sea igual o inferior a 6.050 euros. Excepcionalmente podrá abonarse un importe superior al 75% y hasta el límite del 100% del importe de la subvención en los supuestos expresamente establecidos por la Ley del Presupuesto de la Comunidad Autónoma para cada ejercicio económico.
 
@@ -612,7 +579,9 @@ Siempre que se haya alcanzado el objetivo o finalidad perseguidos, si no se just
 
 4. No podrá proponerse el pago de subvenciones a personas o entidades beneficiarias que no hayan justificado en tiempo y forma las subvenciones concedidas con anterioridad con cargo al mismo programa presupuestario por la Administración de la Junta de Andalucía y sus agencias.
 
-El órgano que, a tenor del artículo 115 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, sea titular de la competencia para la concesión de subvenciones, así como el competente para proponer el pago, podrán, mediante resolución motivada, exceptuar la limitación contenida en este apartado cuando concurran circunstancias de especial interés social, sin que en ningún caso pueda delegarse esta competencia.
+El órgano que, a tenor del artículo 115 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, sea titular de la competencia para la concesión de subvenciones, así como el competente para proponer el pago, podrán, mediante resolución motivada, exceptuar la limitación contenida en este apartado cuando concurran circunstancias de especial interés social, sin que en ningún caso pueda delegarse esta competencia.
 
 5. Cuando se establezca en el apartado 23.c) del cuadro resumen correspondiente, las personas o entidades beneficiarias deberán acreditar, antes de proponerse el pago, que se encuentran al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, así como que no son deudoras de la Administración de la Junta de Andalucía por cualquier otro ingreso de derecho público. Esta previsión es independiente del requisito que, en su caso, resulte aplicable en el momento previo a la concesión.
 
@@ -624,11 +593,11 @@ En el apartado 23.c) del cuadro resumen correspondiente se establecen, en su cas
 
 8. En el apartado 23.d) del cuadro resumen correspondiente se especifica, cuando proceda, si se establece el compromiso de pago de las subvenciones en una fecha determinada.
 
-Artículo 26. Medidas de garantía en favor de los intereses públicos.
+#### Artículo 26. Medidas de garantía en favor de los intereses públicos.
 
 Las medidas de garantía en favor de los intereses públicos, distintas de las previstas en el artículo anterior, requeridas a las personas o entidades interesadas, serán las que, en su caso, se establezcan en el apartado 24 del cuadro resumen correspondiente.
 
-Artículo 27. Justificación de la subvención.
+#### Artículo 27. Justificación de la subvención.
 
 1. En el apartado 25.f) del cuadro resumen correspondiente se concreta la forma de justificación por parte de la persona o entidad beneficiaria o, en su caso, de la entidad colaboradora, del cumplimiento de la finalidad para la que se concedió la subvención y de la aplicación de los fondos percibidos. Por justificación se entenderá, en todo caso, la aportación al órgano concedente de los documentos justificativos de los gastos realizados con cargo a la cantidad concedida debiendo comprender el gasto total de la actividad subvencionada aunque la cuantía de la subvención fuera inferior. El plazo máximo para la presentación de la justificación será el establecido en apartado 25.b) del cuadro resumen correspondiente.
 
@@ -732,9 +701,9 @@ En el caso en que los justificantes sean facturas, para que éstas tengan valide
 
 8. Podrán utilizarse medios electrónicos en los procedimientos de justificación de las subvenciones siempre que en el apartado 25.d) del cuadro resumen correspondiente, se haya señalado su admisibilidad. A estos efectos, en dicho apartado se indicarán los trámites que, en su caso, puedan ser cumplimentados por vía electrónica y los medios electrónicos y sistemas de comunicación utilizables que deberán ajustarse a las especificaciones establecidas por Orden de la Consejería competente.
 
-Artículo 28. Reintegro.
+#### Artículo 28. Reintegro.
 
-1. Además de los casos de nulidad y anulabilidad de la resolución de concesión previstos en el artícu- lo 36 de la Ley 38/2003, de 17 de noviembre, procederá también el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente desde el momento del pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro, en los siguientes casos:
+1. Además de los casos de nulidad y anulabilidad de la resolución de concesión previstos en el artícu- lo 36 de la Ley 38/2003, de 17 de noviembre, procederá también el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente desde el momento del pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro, en los siguientes casos:
 
 a) Obtención de la subvención falseando las condiciones requeridas para ello u ocultando aquéllas que lo hubieran impedido.
 
@@ -768,9 +737,11 @@ El procedimiento, cuyo plazo máximo para resolver y notificar la resolución se
 
 6. La resolución de reintegro será notificada a la persona interesada con indicación de la forma y plazo en que deba efectuarse.
 
-Artículo 29. Régimen sancionador.
+#### Artículo 29. Régimen sancionador.
 
-1. Las infracciones administrativas cometidas en relación con las subvenciones se sancionarán conforme a lo establecido en el artículo 129 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
+1. Las infracciones administrativas cometidas en relación con las subvenciones se sancionarán conforme a lo establecido en el artículo 129 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
 
 2. La incoación, instrucción y la resolución del procedimiento sancionador corresponden a los órganos señalados en el apartado 27 del cuadro resumen correspondiente.
 
@@ -888,24 +859,17 @@ Forma de concretar la cuantía:
 
 a) Los módulos económicos máximos de las acciones formativas se calcularán, por participante y hora de formación, en función de la modalidad de impartición y el nivel de la formación, de acuerdo con las siguientes cuantías:
 
-Modalidad de impartición
-Nivel de formación
+Modalidad de impartición Nivel de formación
 
-Básico
-Superior
+Básico Superior
 
-Presencial
-9,00 euros
-13,00 euros
+Presencial 9,00 euros 13,00 euros
 
-Teleformación
-7,50 euros
+Teleformación 7,50 euros
 
-A distancia convencional
-5,50 euros
+A distancia convencional 5,50 euros
 
-Mixta
-Se aplicarán los módulos anteriores en función de las horas de formación presencial y a distancia convencional o teleformación que tenga la acción formativa
+Mixta Se aplicarán los módulos anteriores en función de las horas de formación presencial y a distancia convencional o teleformación que tenga la acción formativa
 
 b) Podrá autorizarse un incremento de hasta un 50 por 100 del módulo económico superior de la modalidad presencial, en función de la singularidad de determinadas acciones formativas que por su especialidad y características técnicas precisen de una financiación mayor y queden debidamente acreditadas.
 
@@ -935,19 +899,21 @@ d) Los gastos de publicidad para la organización y difusión de las acciones fo
 
 e) Los gastos de alquiler, arrendamiento financiero, excluidos sus intereses, o amortización de las aulas, talleres y demás superficies utilizadas en el desarrollo de la formación. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción, en función del número de horas de formación por participantes.
 
-f) Gastos de seguros de accidentes de los participantes. Estos gastos deberán presentarse desglosados por acción formativa y su imputación se hará por el número de participantes.
+f) **Gastos de seguros de accidentes de los participantes.** Estos gastos deberán presentarse desglosados por acción formativa y su imputación se hará por el número de participantes.
 
 g) Los costes de desplazamiento, alojamiento y manutención del alumnado en el desarrollo de la formación y programas de prácticas, tanto nacionales como transnacionales. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el número de participantes.
 
-h) Los gastos de alquiler de equipo, maquinaria e instalaciones. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción en función del número de horas de formación por participantes.
+h) **Los gastos de alquiler de equipo, maquinaria e instalaciones.** Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción en función del número de horas de formación por participantes.
 
 i) Los gastos financieros directamente relacionados con la actividad subvencionada y que resulten indispensables para la adecuada preparación o ejecución de la misma. No serán subvencionables los intereses deudores de las cuentas bancarias. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción en función del número de horas de formación por participantes.
 
-j) Gastos generales. Tales como, luz, agua, calefacción, mensajería, correo, limpieza y vigilancia, asociados a la ejecución de la actividad formativa. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción, en función del número de horas de formación por participantes.
+j) **Gastos generales.** Tales como, luz, agua, calefacción, mensajería, correo, limpieza y vigilancia, asociados a la ejecución de la actividad formativa. Estos gastos deberán presentarse debidamente desglosados por acción formativa y se imputarán por el periodo de duración de la acción, en función del número de horas de formación por participantes.
 
 k) Gastos de evaluación y control de la calidad de la formación, con un límite del 3% del importe de la subvención concedida, siendo el tamaño de la muestra representativa a evaluar de al menos el 5% de las acciones formativas impartidas.
 
-l) Gastos derivados de la realización del informe de auditor, para la presentación de la cuenta justificativa, de acuerdo con lo previsto en el artículo 74 del Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+l) Gastos derivados de la realización del informe de auditor, para la presentación de la cuenta justificativa, de acuerdo con lo previsto en el artículo 74 l.
+
+Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
 
 2. En ningún caso, serán susceptibles de financiación con cargo a esta modalidad de ayuda la adquisición en propiedad de inmuebles, instalaciones, maquinarias o equipos.
 
@@ -1169,7 +1135,9 @@ Las entidades beneficiarias deberán llevar una contabilidad separada o codifica
 
 22.a) Medidas específicas de información y publicidad que debe adoptar la persona beneficiaria:
 
-Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 del Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general, recogidas en el apartado 22 del Cuadro Resumen, cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
+Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 l.
+
+Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general, recogidas en el apartado 22 del Cuadro Resumen, cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
 
 A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la página Web de la Consejería de Economía, Innovación, Ciencia y Empleo.
 
@@ -1179,11 +1147,15 @@ A este respecto, serán de aplicación, según lo previsto en el artículo 51 de
 
 - Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006.
 
-- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones, tal y como, establece el artículo 90 del Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
+- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones, tal y como, establece el artículo 90 l.
+
+Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
 
 - Medir la situación inicial de los partícipes al acceder a la formación de modo que se permita proporcionar los datos completos requeridos en el Anexo XXIII del R (CE) 1828/2006, y su situación socio-laboral pasados al menos seis meses desde el final de la misma.
 
-- Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 del Decreto 149/2012, de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c) En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
+- Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 l.
+
+Decreto 149/2012, de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c) En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
 
 - Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
 
@@ -1209,32 +1181,19 @@ Anticipo máximo de un 75% de la subvención.
 
 23.b) Secuencia del pago:
 
-IMPORTE O PORCENTAJE DE PAGO
-MOMENTO O FECHA DE PAGO
-PLAZO DE JUSTIFICACIÓN
+IMPORTE O PORCENTAJE DE PAGO MOMENTO O FECHA DE PAGO PLAZO DE JUSTIFICACIÓN
 
-IMPORTE
-O PORCENTAJE JUSTIFICADO
+IMPORTE O PORCENTAJE JUSTIFICADO
 
-1º
-Hasta 75%
+1º Hasta 75%
 
-A la firma de la resolución de concesión
-o una vez que los créditos estén disponibles presupuestariamente, en el caso
-de que dicho anticipo se abone en parte
-con cargo a anualidades futuras.
+A la firma de la resolución de concesión o una vez que los créditos estén disponibles presupuestariamente, en el caso de que dicho anticipo se abone en parte con cargo a anualidades futuras.
 
-3 meses antes de que finalice el período de ejecución
-de la subvención.
-25%
+3 meses antes de que finalice el período de ejecución de la subvención. 25%
 
-2º
-25%
+2º 25%
 
-Una vez que se justifique al menos el 25%
-del importe total de la subvención.
-3 meses a partir de la fecha de finalización de las acciones objeto de la subvención.
-100%
+Una vez que se justifique al menos el 25% del importe total de la subvención. 3 meses a partir de la fecha de finalización de las acciones objeto de la subvención. 100%
 
 23.c) Requisitos previos a la propuesta de pago de la subvención:
 
@@ -1274,7 +1233,9 @@ No se establece.
 
 25.f).2.º Cuenta justificativa con aportación de informe de auditor:
 
-Alcance de la revisión de cuentas por el auditor: la revisión de la cuenta justificativa de las subvenciones por parte del auditor, así como la elaboración del correspondiente informe, deberán adecuarse a lo establecido en la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, previstos en el artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio.
+Alcance de la revisión de cuentas por el auditor: la revisión de la cuenta justificativa de las subvenciones por parte del auditor, así como la elaboración del correspondiente informe, deberán adecuarse a lo establecido en la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, previstos en el artículo 74 l.
+
+Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio.
 
 Contenido de la memoria económica abreviada:
 
@@ -1444,7 +1405,9 @@ f) Gastos notariales y los gastos periciales para la realización del proyecto s
 
 3. En ningún caso serán subvencionables los intereses, recargos y sanciones administrativas y penales, los gastos de procedimientos judiciales, ni los gastos financieros y registrales.
 
-4. Los gastos subvencionables deberán estar a lo dispuesto en el artículo 7 del Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo de 5 de julio de 2006 relativo al Fondo Europeo de Desarrollo Regional (en adelante FEDER), y al artículo 56 del Reglamento (CE) núm. 1083/2006 del Consejo de 11 de julio de 2006, así como a la Orden EHA/524/2008, de 26 de febrero (BOE núm. 53, de 1.3.08), por la que se aprueban las normas sobre los gastos subvencionables de los programas operativos del Fondo Europeo de Desarrollo Regional y del Fondo de Cohesión.
+4. Los gastos subvencionables deberán estar a lo dispuesto en el artículo 7 l.
+
+Reglamento (CE) núm. 1080/2006 del Parlamento Europeo y del Consejo de 5 de julio de 2006 relativo al Fondo Europeo de Desarrollo Regional (en adelante FEDER), y al artículo 56 del Reglamento (CE) núm. 1083/2006 del Consejo de 11 de julio de 2006, así como a la Orden EHA/524/2008, de 26 de febrero (BOE núm. 53, de 1.3.08), por la que se aprueban las normas sobre los gastos subvencionables de los programas operativos del Fondo Europeo de Desarrollo Regional y del Fondo de Cohesión.
 
 5. En el caso de que los proyectos sean cofinanciados con fondos FEDER, la selección de las operaciones se realizará de conformidad con los criterios aprobados por el Comité de seguimiento del Programa Operativo FEDER de Andalucía 2007-2013.
 
@@ -1480,7 +1443,7 @@ a) Que la adquisición de los bienes amortizados no haya sido objeto de cofinanc
 
 b) Que la amortización se calcule de conformidad con la normativa contable nacional pública y privada,
 
-c) que el coste se refiera exclusivamente al período de elegibilidad de la operación.
+c) Que el coste se refiera exclusivamente al período de elegibilidad de la operación.
 
 6. Régimen de control. (Artículo 5).
 
@@ -1644,7 +1607,9 @@ Las entidades beneficiarias deberán llevar una contabilidad separada o codifica
 
 22.a) Medidas específicas de información y publicidad que debe adoptar la persona beneficiaria:
 
-Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 del Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general (recogidas en el apartado 22 del Cuadro Resumen), cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento, y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
+Publicidad en actuaciones cofinanciadas con Fondos Europeos: de conformidad con el artículo 9 l.
+
+Reglamento (CE) 1828/2006 de la Comisión, de 8 de diciembre de 2006, sobre información y publicidad, todas las medidas de información y publicidad destinadas a los beneficiarios, a los beneficiarios potenciales y al público en general (recogidas en el apartado 22 del Cuadro Resumen), cualquier documento o material de difusión relacionado con la subvención concedida, así como los formularios de solicitud, y de alegaciones, aceptación, reformulación y presentación de documentos, deberán incluir el emblema de la Unión Europea, de conformidad con las normas gráficas establecidas en el Anexo I de dicho Reglamento, y el logotipo con la declaración «Andalucía se mueve con Europa» previsto en el Plan de Comunicación de los Programas Operativos FEDER y FSE de Andalucía 2007-2013.
 
 A este respecto, serán de aplicación, según lo previsto en el artículo 51 de la Orden de 23 de julio de 2008, el manual y las dos guías rápidas sobre información y publicidad disponibles en la web de la Consejería de Economía, Innovación, Ciencia y Empleo.
 
@@ -1652,11 +1617,15 @@ A este respecto, serán de aplicación, según lo previsto en el artículo 51 de
 
 - Aceptación expresa de su inclusión en la lista pública de beneficiarios a que se refiere el artículo 7.2.d) del Reglamento (CE) número 1828/2006 de la Comisión de 8 de diciembre de 2006.
 
-- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones tal y como establece el artículo 90 del Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
+- Conservar la documentación justificativa, financiera y de gestión de las actuaciones cofinanciadas por Fondos Europeos durante los tres años siguientes al cierre del Programa Operativo que financie las actuaciones tal y como establece el artículo 90 l.
+
+Reglamento (CE) núm. 1083/2006 del Consejo, de 11 de julio de 2006, por el que se establecen las disposiciones generales relativas al FEDER y al FSE.
 
 - Medir la situación inicial de los partícipes al acceder a la formación de modo que se permita proporcionar los datos completos requeridos en el Anexo XXIII del R (CE) 1828/2006, y su situación socio-laboral pasados al menos seis meses desde el final de la misma.
 
-- Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 del Decreto 149/2012 de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, atribuye a este centro Directivo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c). En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
+- Someterse a las actuaciones de verificación y control realizadas por la Dirección General de Fondos Europeos y Planificación, en virtud de las competencias de seguimiento y control que el artículo 10 l.
+
+Decreto 149/2012 de 5 de junio, por el que se regula la estructura orgánica de la Consejería de Economía, Innovación, Ciencia y Empleo, atribuye a este centro Directivo, y las de otros entes comunitarios competentes, de acuerdo con lo previsto en el artículo 24.1.c). En la ejecución de estos controles se gozará de las mismas prerrogativas previstas en el artículo 24.2.
 
 - Remitir, en el plazo de tres meses desde la recepción de cada uno de los abonos de la subvención, a la Dirección-Gerencia del Servicio Andaluz de Empleo, certificado expedido por el Interventor de la entidad beneficiaria, u órgano similar, en el que se hará constar que la subvención ha sido ingresada en su contabilidad, con especificación del número de asiento contable practicado.
 
@@ -1682,28 +1651,15 @@ Anticipo máximo de un 75% de la subvención.
 
 23.b) Secuencia del pago:
 
-IMPORTE O PORCENTAJE DE PAGO
-MOMENTO O FECHA DE PAGO
-PLAZO DE JUSTIFICACIÓN
+IMPORTE O PORCENTAJE DE PAGO MOMENTO O FECHA DE PAGO PLAZO DE JUSTIFICACIÓN
 
-IMPORTE
-O PORCENTAJE JUSTIFICADO
+IMPORTE O PORCENTAJE JUSTIFICADO
 
-1º
-Hasta 75%
+1º Hasta 75%
 
-A la firma de la resolución de concesión
-o una vez que los créditos estén disponibles presupuestariamente, en el caso
-de que dicho anticipo se abone en parte
-con cargo a anualidades futuras.
-3 meses antes de que finalice el período de ejecución de la subvención.
-25%
+A la firma de la resolución de concesión o una vez que los créditos estén disponibles presupuestariamente, en el caso de que dicho anticipo se abone en parte con cargo a anualidades futuras. 3 meses antes de que finalice el período de ejecución de la subvención. 25%
 
-2º
-25%
-Una vez que se justifique al menos el 25% del importe total de la subvención.
-3 meses a partir de la fecha de finalización de las acciones objeto de la subvención.
-100%
+2º 25% Una vez que se justifique al menos el 25% del importe total de la subvención. 3 meses a partir de la fecha de finalización de las acciones objeto de la subvención. 100%
 
 23.c) Requisitos previos a la propuesta de pago de la subvención:
 
@@ -1743,7 +1699,9 @@ No se establece.
 
 25.f).2.º Cuenta justificativa con aportación de informe de auditor:
 
-Alcance de la revisión de cuentas por el auditor: la revisión de las cuentas justificativas de las subvenciones por parte del auditor, así como la elaboración del correspondiente informe, deberán adecuarse a lo establecido en la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, previstos en el artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio.
+Alcance de la revisión de cuentas por el auditor: la revisión de las cuentas justificativas de las subvenciones por parte del auditor, así como la elaboración del correspondiente informe, deberán adecuarse a lo establecido en la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, previstos en el artículo 74 l.
+
+Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio.
 
 Contenido de la memoria económica abreviada:
 
@@ -1817,17 +1775,11 @@ Si la actividad subvencionable se compone de varias fases o actuaciones y se pue
 
 - Presidencia del Servicio Andaluz de Empleo.
 
-<a title="Descargar PDF de la disposición"
-class="item_pdf_disposicion item_pdf_grupo"
-href="BOJA12-248-00038-20220-01_00018358.pdf"
-target="_blank"> Descargar PDF
+<a title="Descargar PDF de la disposición" class="item_pdf_disposicion item_pdf_grupo" href="BOJA12-248-00038-20220-01_00018358.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-248
-de
-20/12/2012
+248 de 20/12/2012
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -1841,12 +1793,9 @@ de
 
 5.2. Otros anuncios oficiales
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="BOJA12-248-00266.pdf">
-Descargar boletín nº 248 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="BOJA12-248-00266.pdf"> Descargar boletín nº 248 completo
 
-<a target="_blank" title="Descargar el sumario en PDF"
-href="BOJA12-248-00010_00000250.pdf">
+<a target="_blank" title="Descargar el sumario en PDF" href="BOJA12-248-00010_00000250.pdf">
 
 ## Temas
 
@@ -1861,3 +1810,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

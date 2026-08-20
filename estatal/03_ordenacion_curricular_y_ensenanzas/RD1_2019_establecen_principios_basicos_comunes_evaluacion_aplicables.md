@@ -1,14 +1,10 @@
 ---
 id: norm-es-2019-317
 codigo_sintetizado: BOE-A-2019-317
-titulo: Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios
-  básicos comunes de evaluación aplicables a las pruebas de certificación oficial
-  de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas
-  de idiomas de régimen especial.
+titulo: Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2019-01-12'
 boletin: BOE
@@ -19,48 +15,45 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- curriculo
-- ense-anzas-de-idiomas
-- eoi
-- evaluacion
-- profesorado
-- titulacion
+  - curriculo
+  - ense-anzas-de-idiomas
+  - eoi
+  - evaluacion
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
   desarrollado_por: []
   fundamento_de:
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-055
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-can-res-053
+    - norma_id: norm-can-res-boc-2019-234-52
+    - norma_id: norm-can-res-059
+    - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-boc-2020-236-82
+    - norma_id: norm-can-res-boc-2026-077-49
+    - norma_id: norm-can-res-055
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 
 ## Preámbulo
-
-# Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
-
-# Real Decreto 1/2019, de 11 de enero, por el que se establecen los principios básicos comunes de evaluación aplicables a las pruebas de certificación oficial de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2 de las enseñanzas de idiomas de régimen especial.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, regula, en sus artículos 59 a 62, las enseñanzas de idiomas de régimen especial. Por lo que respecta a la certificación de estas enseñanzas, la citada ley, en su artículo 61.1, determina que la superación de las exigencias académicas establecidas para cada uno de los niveles de las enseñanzas de idiomas de régimen especial dará derecho a la obtención del certificado correspondiente, cuyos efectos se establecerán en la definición de los aspectos básicos del currículo de las distintas lenguas. Asimismo, en el apartado 2 de su artículo 61, la ley establece que la evaluación de los alumnos que cursen sus estudios en las escuelas oficiales de idiomas, a los efectos de lo previsto en dicho artículo 61, será hecha por el profesorado respectivo, y que las administraciones educativas regularán las pruebas terminales, que realizará el profesorado, para la obtención de los certificados oficiales de los niveles básico, intermedio y avanzado.
 
@@ -154,25 +147,25 @@ Las especificaciones de examen recogerán los siguientes aspectos:
 
 a) El tipo de evaluación del que se trata y los destinatarios de la misma;
 
-b) una descripción de la prueba incluyendo las partes que la conforman;
+b) Una descripción de la prueba incluyendo las partes que la conforman;
 
-c) la duración de cada parte y de la prueba en su conjunto;
+c) La duración de cada parte y de la prueba en su conjunto;
 
-d) la puntuación de cada parte y de la prueba en su conjunto;
+d) La puntuación de cada parte y de la prueba en su conjunto;
 
-e) la puntuación mínima de superación de cada parte y de la prueba en su conjunto;
+e) La puntuación mínima de superación de cada parte y de la prueba en su conjunto;
 
-f)	las competencias que se evalúan en cada parte de la prueba, por referencia a los objetivos curriculares;
+f) Las competencias que se evalúan en cada parte de la prueba, por referencia a los objetivos curriculares;
 
-g) los criterios de evaluación que se aplican, por referencia al currículo;
+g) Los criterios de evaluación que se aplican, por referencia al currículo;
 
-h) las características de los textos orales o escritos que se propongan como soporte de las tareas para cada parte de la prueba: fuente; formato; tipología; longitud o duración, y grado de complejidad (temática y conceptual; estructural; discursiva; sintáctica; léxica; orto-tipográfica; fonético-fonológica);
+h) Las características de los textos orales o escritos que se propongan como soporte de las tareas para cada parte de la prueba: fuente; formato; tipología; longitud o duración, y grado de complejidad (temática y conceptual; estructural; discursiva; sintáctica; léxica; orto-tipográfica; fonético-fonológica);
 
-i)	el número y el tipo de tareas de evaluación para cada parte de la prueba, así como el número de ítems de cada tarea, el procedimiento de su resolución, y las puntuaciones por ítem y por tarea;
+i) El número y el tipo de tareas de evaluación para cada parte de la prueba, así como el número de ítems de cada tarea, el procedimiento de su resolución, y las puntuaciones por ítem y por tarea;
 
-j)	el procedimiento, en términos generales, de la administración, en su caso, de las tareas para evaluar actividades de producción y coproducción oral, y de actividades de mediación;
+j) El procedimiento, en términos generales, de la administración, en su caso, de las tareas para evaluar actividades de producción y coproducción oral, y de actividades de mediación;
 
-k) las características, en su caso, que se esperan de las producciones orales o escritas de los candidatos a certificación, por referencia a los criterios de evaluación recogidos en el currículo.
+k) Las características, en su caso, que se esperan de las producciones orales o escritas de los candidatos a certificación, por referencia a los criterios de evaluación recogidos en el currículo.
 
 El documento de especificaciones de examen se hará público para conocimiento de los candidatos a certificación y de cualesquiera otros interesados, y en él constará el año de publicación, que deberá corresponder al año en que se administren las pruebas especificadas.
 
@@ -198,15 +191,15 @@ d) No se utilizará para la evaluación de certificación ningún material que, 
 
 e) Se desestimará cualquier material de evaluación y cualesquiera tareas e ítems elaborados a partir del mismo cuyo tema u orientación pudieran resultar inapropiados, ofensivos, o discriminatorios en cualquier sentido para individuos o colectivos.
 
-f)	Para cada parte de la prueba se elaborarán tareas para cubrir todas las competencias que se deban evaluar según se recoge en los currículos respectivos y en las especificaciones de examen. El formato de las tareas será variado y adecuado a las competencias que cada tarea deba evaluar dentro de una misma parte de la prueba.
+f) Para cada parte de la prueba se elaborarán tareas para cubrir todas las competencias que se deban evaluar según se recoge en los currículos respectivos y en las especificaciones de examen. El formato de las tareas será variado y adecuado a las competencias que cada tarea deba evaluar dentro de una misma parte de la prueba.
 
 g) De las tareas que conformen cada parte de la prueba, se emplazarán las más sencillas en primer lugar. Los ítems en cada tarea se elaborarán atendiendo al grado de dificultad, emplazando los más sencillos en primer lugar.
 
 h) Los ítems en cada tarea se redactarán de modo claro, conciso, correcto, y asequible para el nivel correspondiente; no serán interdependientes; estarán exentos de ambigüedad; y se redactarán sobre la información general o específica relevante, y, en su caso, siempre por referencia al texto soporte de manera que no puedan resolverse correctamente con la simple ayuda del conocimiento del mundo o enciclopédico, o mediante mera inferencia lógica.
 
-i)	Todas las tareas que conformen cada parte de una prueba incluirán un ítem 0 que, a modo de ejemplo, oriente a los candidatos en el procedimiento de resolución de los ítems contenidos en la tarea.
+i) Todas las tareas que conformen cada parte de una prueba incluirán un ítem 0 que, a modo de ejemplo, oriente a los candidatos en el procedimiento de resolución de los ítems contenidos en la tarea.
 
-j)	Todas las tareas irán precedidas de unas instrucciones escritas, y debidamente señaladas, sobre su realización. Dichas instrucciones serán suficientes, concisas, claras y relevantes; se redactarán en un tipo de lenguaje asequible para el nivel correspondiente, y no contendrán expresiones metalingüísticas o técnicas propias de un conocimiento especializado de la lengua, ni referencias a, o mención de, exponentes lingüísticos, léxicos, sintácticos o discursivos, que pudieran ser necesarios o adecuados para la realización de la tarea.
+j) Todas las tareas irán precedidas de unas instrucciones escritas, y debidamente señaladas, sobre su realización. Dichas instrucciones serán suficientes, concisas, claras y relevantes; se redactarán en un tipo de lenguaje asequible para el nivel correspondiente, y no contendrán expresiones metalingüísticas o técnicas propias de un conocimiento especializado de la lengua, ni referencias a, o mención de, exponentes lingüísticos, léxicos, sintácticos o discursivos, que pudieran ser necesarios o adecuados para la realización de la tarea.
 
 k) Para cada tarea de las que conste cada parte de la prueba se indicará, en las instrucciones correspondientes, la puntuación global por tarea y la puntuación de cada uno de los ítems de los que conste. En cada tarea de cada parte de la prueba se reservarán espacios para la inserción de las respuestas de los candidatos y para la anotación de las puntuaciones parciales por ítems.
 
@@ -284,11 +277,10 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA ISABEL CELAÁ DIÉGUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -303,6 +295,7 @@ MARÍA ISABEL CELAÁ DIÉGUEZ
 - **Fundamento de**: [**Resolucion BOC 55**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

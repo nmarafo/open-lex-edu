@@ -1,13 +1,10 @@
 ---
 id: norm-es-1995-22212
 codigo_sintetizado: BOE-A-1995-22212
-titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado
-  de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación
-  Profesional a las especialidades propias de la formación profesional específica.
+titulo: Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-10-10'
 boletin: BOE
@@ -18,40 +15,37 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Especialidades y habilitaciones
 tags:
-- bachillerato
-- curriculo
-- eso
-- especialidades-y-habilitaciones
-- formacion-profesional
-- profesorado
+  - bachillerato
+  - curriculo
+  - eso
+  - especialidades-y-habilitaciones
+  - formacion-profesional
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1993-23257
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-lo-8-1985
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1993-23257
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-1996-3102
-  - norma_id: norm-es-1998-10720
-  - norma_id: norm-es-rd-1364-2010
-fundamentos_derecho:
-- norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-1996-3102
+    - norma_id: norm-es-1998-10720
+    - norma_id: norm-es-rd-1364-2010
+  fundamentos_derecho:
+    - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-lo-8-1985
-- norma_id: norm-es-1993-23257
+    - '1'
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1993-23257
 ---
+# Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
 ## Preámbulo
-
-# Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
-
-# Real Decreto 1635/1995, de 6 de octubre, por el que se adscribe el profesorado de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional a las especialidades propias de la formación profesional específica.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, en su disposición adicional décima, crea los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional y determina que el primero de estos Cuerpos desempeñará sus funciones en la educación secundaria obligatoria, bachillerato y formación profesional y el segundo lo hará en la formación profesional específica y, en las condiciones que se establezcan, en la educación secundaria obligatoria y en el bachillerato.
 
@@ -111,9 +105,9 @@ Por el Ministerio de Educación y Ciencia, previa consulta con las Administracio
 
 Los profesores de las especialidades «Educadores» del Cuerpo de Profesores de Enseñanza Secundaria y «Actividades» del Cuerpo de Profesores Técnicos de Formación Profesional, así como los de aquellas otras especialidades de estos Cuerpos para las que no se haya establecido ninguna correspondencia, continuarán desempeñando las mismas funciones que tuvieran asignadas a la entrada en vigor del presente Real Decreto, sin perjuicio de que por las Administraciones educativas, oídos los interesados, pueda adscribírseles a otros puestos o funciones teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes.
 
-#### Disposición adicional cuarta.
+#### Disposición adicional cuarta. El artículo 4 l.
 
-El artículo 4 del Real Decreto 1701/1991, de 29 de noviembre, queda redactado de la manera siguiente:
+Real Decreto 1701/1991, de 29 de noviembre, queda redactado de la manera siguiente:
 
 «Artículo 4.
 
@@ -145,11 +139,13 @@ Las Administraciones educativas determinarán, en sus ámbitos respectivos, qué
 
 #### Disposición adicional octava.
 
-Se crea la especialidad de «Economía» que se incluye en los anexos I y V del Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria. Los titulares de esta especialidad tendrán competencia docente para impartir las materias «Economía» y «Economía y Organización de Empresas» del bachillerato. Además tendrán atribución docente para impartir los módulos profesionales que se especifican en el anexo III, en las condiciones establecidas en el artículo 3 del presente Real Decreto.
+Se crea la especialidad de «Economía» que se incluye en los anexos I y V del Real Decreto 1701/1991, de 29 de noviembre, por el que se establecen especialidades del Cuerpo de Profesores de Enseñanza Secundaria. Los titulares de esta especialidad tendrán competencia docente para impartir las materias «Economía» y «Economía y Organización de Empresas» del bachillerato. Además tendrán atribución docente para impartir los módulos profesionales que se especifican en el anexo III, en las condiciones establecidas en el artículo 3 l.
 
-#### Disposición adicional novena.
+presente Real Decreto.
 
-De acuerdo con lo establecido en el apartado 2 del artículo 1 del Real Decreto 1701/1991, de 29 de noviembre, en las Comunidades Autónomas que tengan lengua propia cooficial con el castellano, el Cuerpo de Profesores de Enseñanza Secundaria tendrá, asimismo, la especialidad correspondiente a la lengua respectiva. En consecuencia, y de conformidad con lo dispuesto en el artículo 2.1 de la Ley 16/1990, de 13 de julio, sobre régimen especial del Valle de Arán («Diario Oficial de la Generalidad de Cataluña» de 3 de agosto), en la Comunidad Autónoma de Cataluña se establece la especialidad «Lengua Aranesa» entre las del Cuerpo de Profesores de Enseñanza Secundaria.
+#### Disposición adicional novena. De acuerdo con lo establecido en el apartado 2 del artículo 1 l.
+
+Real Decreto 1701/1991, de 29 de noviembre, en las Comunidades Autónomas que tengan lengua propia cooficial con el castellano, el Cuerpo de Profesores de Enseñanza Secundaria tendrá, asimismo, la especialidad correspondiente a la lengua respectiva. En consecuencia, y de conformidad con lo dispuesto en el artículo 2.1 de la Ley 16/1990, de 13 de julio, sobre régimen especial del Valle de Arán («Diario Oficial de la Generalidad de Cataluña» de 3 de agosto), en la Comunidad Autónoma de Cataluña se establece la especialidad «Lengua Aranesa» entre las del Cuerpo de Profesores de Enseñanza Secundaria.
 
 #### Disposición adicional décima.
 
@@ -179,9 +175,9 @@ En las condiciones y con los requisitos que cada Administración educativa deter
 
 Igualmente, hasta que finalice el calendario del proceso de implantación del sistema educativo establecido por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de abril, a los funcionarios del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores Técnicos de Formación Profesional con destino definitivo podrá reconocérseles preferencia en los términos que cada Administración educativa establezca, sin perjuicio de lo dispuesto en la disposición adicional quinta del presente Real Decreto, para ser adscritos a las plazas a las que hace referencia la citada disposición adicional quinta.
 
-#### Disposición transitoria quinta.
+#### Disposición transitoria quinta. Sin perjuicio de lo establecido en el artículo 5 y en.
 
-Sin perjuicio de lo establecido en el artículo 5 y en la disposición adicional tercera de este Real Decreto, hasta la finalización del calendario de implantación del sistema educativo establecido en la Ley Orgánica de Ordenación General del Sistema Educativo, los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que estén en posesión de las titulaciones relacionadas en el anexo V podrán optar, por una sola vez y con ocasión de vacante, a las plazas de esas especialidades en su propio centro o en otro distinto dentro del ámbito de gestión de la Administración educativa donde tengan destino, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional tercera del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
+la disposición adicional tercera de este Real Decreto, hasta la finalización del calendario de implantación del sistema educativo establecido en la Ley Orgánica de Ordenación General del Sistema Educativo, los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional que estén en posesión de las titulaciones relacionadas en el anexo V podrán optar, por una sola vez y con ocasión de vacante, a las plazas de esas especialidades en su propio centro o en otro distinto dentro del ámbito de gestión de la Administración educativa donde tengan destino, a través de los procedimientos de provisión de puestos que se convoquen. Dichos profesores tendrán preferencia, sin perjuicio de lo dispuesto en la disposición adicional tercera del presente Real Decreto, para ser adscritos a esas plazas en el caso de tener ya destino definitivo en el centro al que corresponda la vacante.
 
 #### Disposición transitoria sexta.
 
@@ -201,9 +197,7 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 Todas las referencias a las Administraciones educativas contenidas en el presente Real Decreto se entenderán referidas a aquellas que se encuentren en el pleno ejercicio de sus competencias educativas.
 
-#### Disposición final tercera.
-
-Dado en Madrid a 6 de octubre de 1995.
+#### Disposición final tercera. Dado en Madrid a 6 de octubre de 1995.
 
 JUAN CARLOS R.
 
@@ -211,7 +205,7 @@ El Ministro de Educación y Ciencia,
 
 JERÓNIMO SAAVEDRA ACEVEDO
 
-ANEXO I
+## Anexo I
 
 Familia profesional
 
@@ -495,7 +489,7 @@ Fabricación y transformación de productos de vidrio.
 
 Desarrollo y fabricación de productos cerámicos.
 
-ANEXO II.a)
+## Anexo II. a)
 
 Especialidades del Cuerpo de Profesores de Enseñanza Secundaria correspondientes a la formación profesional específica
 
@@ -549,7 +543,7 @@ Sistemas Electrónicos.
 
 Sistemas Electrotécnicos y Automáticos.
 
-ANEXO II.b)
+## Anexo II. b)
 
 Profesores de Enseñanza Secundaria
 
@@ -3245,7 +3239,7 @@ Relaciones en el entorno de trabajo.
 
 Mantenimiento y montaje de instalaciones de edificio y proceso.
 
-ANEXO II c)
+## Anexo II. c)
 
 Atribución de competencia docente a los profesores de las nuevas especialidades de Secundaria para la docencia en el Bachillerato
 
@@ -3333,7 +3327,7 @@ Materias Bachillerato
 
 (1) Título de Licenciado en Administración y Dirección de Empresas, Licenciado en Ciencias Empresariales, Licenciado en Ciencias Actuariales y Financieras, Licenciado en Economía, Licenciado en Investigación y Técnicas de Mercado, Diplomado en Ciencias Empresariales y Diplomado en Gestión y Administración Pública.
 
-ANEXO II.d)
+## Anexo II. d)
 
 Profesores de Enseñanza Secundaria
 
@@ -3437,7 +3431,7 @@ Formación Empresarial.
 
 Formación y Orientación Laboral.
 
-ANEXO III
+## Anexo III
 
 Atribución de competencia docente a los profesores de las especialidades relacionadas en el anexo I del Real Decreto 1701/1991, para la docencia en la formación profesional específica
 
@@ -3569,7 +3563,7 @@ Lengua extranjera (3).
 
 Lengua extranjera (3).
 
-Segunda lengua extranjera (3).
+#### Segunda. lengua extranjera (3).
 
 Cocina.
 
@@ -3585,7 +3579,7 @@ Lengua extranjera (3).
 
 Agencias de viajes.
 
-Segunda lengua extranjera (3)
+#### Segunda. lengua extranjera (3).
 
 Agencias de viajes.
 
@@ -3593,7 +3587,7 @@ Lengua extranjera (3).
 
 Información y comercialización turísticas.
 
-Segunda lengua extranjera (3).
+#### Segunda. lengua extranjera (3).
 
 Información y comercialización turísticas.
 
@@ -3653,7 +3647,7 @@ Italiano.
 
 Portugués.
 
-Segunda Lengua extranjera (4).
+#### Segunda. Lengua extranjera (4).
 
 Secretariado.
 
@@ -3775,7 +3769,7 @@ Desarrollo proyectos mecánicos.
 
 (6) Título de: Ingeniero, Ingeniero Técnico Aeronáutico, Ingeniero Técnico Industrial, Ingeniero Técnico Minas o Ingeniero Técnico Naval.
 
-ANEXO IV.a)
+## Anexo IV. a)
 
 Especialidades del Cuerpo de Profesores Técnicos de Formación Profesional
 
@@ -3837,7 +3831,7 @@ Soldadura.
 
 Técnicas y Procedimientos de Imagen y Sonido.
 
-ANEXO IV.b)
+## Anexo IV. b)
 
 Profesores Técnicos de Formación Profesional
 
@@ -5219,7 +5213,7 @@ Fotografía macro y microscópica.
 
 Anatomía patológica y citología.
 
-ANEXO IV.c)
+## Anexo IV. c)
 
 Profesores Técnicos de Formación Profesional
 
@@ -5325,7 +5319,7 @@ Taller Textil.
 
 Producción Textil y Tratamientos Físico-Químicos.
 
-ANEXO V
+## Anexo V
 
 Especialidades
 
@@ -5415,11 +5409,10 @@ Licenciado en Farmacia.
 
 Ingeniero Técnico Agrícola.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
@@ -5430,6 +5423,7 @@ Ingeniero Técnico Agrícola.
 - **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./LO1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
 
 ### Fundamentos de Derecho
+
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

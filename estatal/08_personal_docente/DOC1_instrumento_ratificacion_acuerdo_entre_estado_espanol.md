@@ -1,13 +1,10 @@
 ---
 id: norm-es-1979-29491
 codigo_sintetizado: BOE-A-1979-29491
-titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa
-  Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el
-  3 de enero de 1979.
+titulo: Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1979-12-15'
 boletin: BOE
@@ -18,27 +15,24 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Profesorado de religión
 tags:
-- convivencia-escolar
-- profesorado
-- profesorado-de-religi-n
+  - convivencia-escolar
+  - profesorado
+  - profesorado-de-religi-n
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
-fundamentos_derecho:
-- norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
+    - '1'
 ---
+# Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
 
 ## Preámbulo
-
-# Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
-
-# Instrumento de Ratificación del Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales, firmado en la Ciudad del Vaticano el 3 de enero de 1979.
 
 Por cuanto el día 3 de enero de 1979 el Plenipotenciario de España firmó en la Ciudad del Vaticano, juntamente con el Plenipotenciario de la Santa Sede, ambos nombrados en buena y debida forma al efecto, el Acuerdo entre el Estado español y la Santa Sede sobre Enseñanza y Asuntos Culturales.
 
@@ -130,13 +124,13 @@ Los Centros docentes de nivel no universitario, cualquiera que sea su grado y es
 
 ARTÍCULO X
 
-1)	Las Universidades, Colegios Universitarios, Escuelas universitarias y otros Centros universitarios que se establezcan por la Iglesia Católica se acomodarán a la legislación que se promulgue con carácter general, en cuanto al modo de ejercer estas actividades.
+1) Las Universidades, Colegios Universitarios, Escuelas universitarias y otros Centros universitarios que se establezcan por la Iglesia Católica se acomodarán a la legislación que se promulgue con carácter general, en cuanto al modo de ejercer estas actividades.
 
 Para el reconocimiento a efectos civiles de los estudios realizados en dichos Centros se estará a lo que disponga la legislación vigente en la materia en cada momento.
 
-2)	El Estado reconoce la existencia legal de las Universidades de la Iglesia establecidas en España en el momento de entrada en vigor de este Acuerdo, cuyo régimen jurídico habrá de acomodarse a la legislación vigente, salvo lo previsto en el artículo XVII, 2.
+2) El Estado reconoce la existencia legal de las Universidades de la Iglesia establecidas en España en el momento de entrada en vigor de este Acuerdo, cuyo régimen jurídico habrá de acomodarse a la legislación vigente, salvo lo previsto en el artículo XVII, 2.
 
-3)	Los alumnos de estas Universidades gozarán de los mismos beneficios en materia de sanidad, seguridad escolar, ayudas al estudio y a la investigación y demás modalidades de protección al estudiante que se establezcan para los alumnos de las Universidades del Estado.
+3) Los alumnos de estas Universidades gozarán de los mismos beneficios en materia de sanidad, seguridad escolar, ayudas al estudio y a la investigación y demás modalidades de protección al estudiante que se establezcan para los alumnos de las Universidades del Estado.
 
 ARTÍCULO XI
 
@@ -170,15 +164,15 @@ La Santa Sede y el Gobierno español procederán de común acuerdo en la resoluc
 
 ARTÍCULO XVII
 
-1)	Quedan derogados los artículos XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del vigente Concordato.
+1) Quedan derogados los artículos XXVI, XXVII, XXVIII, XXIX, XXX y XXXI del vigente Concordato.
 
 2) Quedan asegurados, no obstante, los derechos adquiridos de las Universidades de la Iglesia establecidas en España en el momento de la firma del presente Acuerdo, las cuales, sin embargo, podrán optar por su adaptación a la legislación general sobre Universidades no estatales.
 
 [precepto]DISPOSICIONES TRANSITORIAS
 
-1)	El reconocimiento a efectos civiles de los estudios que se cursen en las Universidades de la Iglesia actualmente existentes seguirá rigiéndose, transitoriamente, por la normativa ahora vigente hasta el momento en que, para cada Centro o carrera, se dicten las oportunas disposiciones de reconocimiento, de acuerdo con la legislación general, que no exigirá requisitos superiores a los que se impongan a las Universidades del Estado o de los entes públicos.
+1) El reconocimiento a efectos civiles de los estudios que se cursen en las Universidades de la Iglesia actualmente existentes seguirá rigiéndose, transitoriamente, por la normativa ahora vigente hasta el momento en que, para cada Centro o carrera, se dicten las oportunas disposiciones de reconocimiento, de acuerdo con la legislación general, que no exigirá requisitos superiores a los que se impongan a las Universidades del Estado o de los entes públicos.
 
-[precepto]2)	Quienes al entrar en vigor el presente Acuerdo en España estén en posesión de grados mayores en Ciencias Eclesiásticas y, en virtud del párrafo 1 del artículo XXX del Concordato, sean Profesores titulares de las disciplinas de la Sección de Letras en Centros de enseñanza dependientes de la autoridad eclesiástica, seguirán considerados con titulación suficiente para la enseñanza en tales Centros, no obstante la derogación de dicho artículo.
+[precepto]2) Quienes al entrar en vigor el presente Acuerdo en España estén en posesión de grados mayores en Ciencias Eclesiásticas y, en virtud del párrafo 1 del artículo XXX del Concordato, sean Profesores titulares de las disciplinas de la Sección de Letras en Centros de enseñanza dependientes de la autoridad eclesiástica, seguirán considerados con titulación suficiente para la enseñanza en tales Centros, no obstante la derogación de dicho artículo.
 
 [precepto]PROTOCOLO FINAL
 
@@ -204,14 +198,14 @@ Lo que se hace público para conocimiento general.
 
 [ignorar]Madrid, 5 de diciembre de 1979.–El Secretario general Técnico del Ministerio de Asuntos Exteriores, Juan Antonio Pérez-Urruti Maura.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 
 ### Fundamentos de Derecho
+
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)

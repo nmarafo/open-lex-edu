@@ -1,12 +1,10 @@
 ---
 id: norm-es-2019-3307
 codigo_sintetizado: BOE-A-2019-3307
-titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño
-  de la docencia y la enseñanza en el ámbito de la educación no universitaria.
+titulo: Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2019-03-08'
 boletin: BOE
@@ -17,45 +15,42 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-- curriculo
-- ebep
-- educacion-primaria
-- ensenanzas-universitarias
-- eso
-- gestion-economica
-- jornada-laboral-y-horarios
-- oposiciones
-- personal-no-docente
-- profesorado
+  - curriculo
+  - ebep
+  - educacion-primaria
+  - ensenanzas-universitarias
+  - eso
+  - gestion-economica
+  - jornada-laboral-y-horarios
+  - oposiciones
+  - personal-no-docente
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2012-5337
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2012-5337
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-l-39-2015
+    - '1'
+    - '2'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-2012-5337
+    - '1'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2012-5337
 ---
+# Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 ## Preámbulo
-
-# Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
-
-# Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 **FELIPE VI**
 
@@ -64,8 +59,6 @@ fundamentos_derecho:
 A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
-
-## PREÁMBULO
 
 El Real Decreto-[ley 14/2012](RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, estableció una serie de decisiones que pretendían conjugar los objetivos de calidad y eficiencia del sistema educativo con el cumplimiento de los objetivos de estabilidad presupuestaria y su reflejo en la contención del gasto público y en la oferta de empleo público. La justificación de la introducción de estas medidas, que se definieron como excepcionales en el Real Decreto-ley, vino referida a la coyuntura económica del momento.
 
@@ -79,11 +72,15 @@ El Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_raci
 
 Siendo este un aspecto que venía siendo regulado por cada Administración Educativa, y aunque el Tribunal Constitucional ha avalado la competencia del Estado para regular con carácter básico la jornada lectiva mínima de los docentes (SSTC 26/2016 y 54/2016, entre otras), ante el cambio de coyuntura económica y al no concurrir ya las circunstancias que motivaron la aprobación de la medida en el Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), parece razonable revertir la situación y dejar nuevamente margen a las diferentes Administraciones Educativas para la regulación de la materia. Hay que tener presente además que esto no afecta a la jornada laboral de los docentes, que se mantiene en los mismos límites que para el resto de los empleados públicos.
 
-Por otra parte, el artículo 4 del Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), referido a la sustitución de profesores en los centros docentes públicos, establece que el nombramiento de funcionarios interinos por sustitución transitoria de los profesores titulares se producirá únicamente cuando hayan transcurrido diez días lectivos desde la situación que da origen a dicho nombramiento, debiendo ser atendido el período previo con los recursos del propio centro docente. Tras la modificación del citado artículo por la disposición final décima quinta de la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para 2016, se establecen una serie de supuestos en los que podrá procederse inmediatamente al nombramiento de funcionarios interinos por sustitución transitoria de los profesores titulares: cuando el profesor sustituido preste atención al alumnado con necesidades específicas de apoyo educativo, cuando preste servicio en centros docentes que tengan implantadas menos de dos líneas educativas, cuando imparta docencia en segundo curso de Bachillerato y cuando la causa de la sustitución sea la situación de maternidad, paternidad, adopción o acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen.
+Por otra parte, el artículo 4 l.
+
+Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), referido a la sustitución de profesores en los centros docentes públicos, establece que el nombramiento de funcionarios interinos por sustitución transitoria de los profesores titulares se producirá únicamente cuando hayan transcurrido diez días lectivos desde la situación que da origen a dicho nombramiento, debiendo ser atendido el período previo con los recursos del propio centro docente. Tras la modificación del citado artículo por la disposición final décima quinta de la Ley 48/2015, de 29 de octubre, de Presupuestos Generales del Estado para 2016, se establecen una serie de supuestos en los que podrá procederse inmediatamente al nombramiento de funcionarios interinos por sustitución transitoria de los profesores titulares: cuando el profesor sustituido preste atención al alumnado con necesidades específicas de apoyo educativo, cuando preste servicio en centros docentes que tengan implantadas menos de dos líneas educativas, cuando imparta docencia en segundo curso de Bachillerato y cuando la causa de la sustitución sea la situación de maternidad, paternidad, adopción o acogimiento, tanto preadoptivo como permanente o simple, de conformidad con el Código Civil o las leyes civiles de las Comunidades Autónomas que lo regulen.
 
 Si bien esta modificación alivió la situación de las Administraciones Educativas, lo cierto es que la medida recogida en el citado artículo 4 ha sido especialmente gravosa y excesivamente rígida para la organización de la actividad ordinaria de los centros docentes y ha tenido repercusiones negativas en la eficacia organizativa de los centros docentes así como en la calidad de la enseñanza y en la atención al alumnado.
 
-Con la presente Ley se persigue, por tanto, reestablecer la situación anterior al Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, al haber desaparecido las circunstancias que motivaron la aprobación de unas medidas calificadas de carácter excepcional e implicar su supresión una clara mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, disponiéndose los efectos inmediatos derivados de la derogación del artículo 4 del Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, mientras que, por razones de planificación y organización del curso escolar, lo dispuesto en el artículo único de la Ley se aplicará a partir del inicio del curso escolar inmediatamente posterior a la entrada en vigor de la misma.
+Con la presente Ley se persigue, por tanto, reestablecer la situación anterior al Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, al haber desaparecido las circunstancias que motivaron la aprobación de unas medidas calificadas de carácter excepcional e implicar su supresión una clara mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, disponiéndose los efectos inmediatos derivados de la derogación del artículo 4 l.
+
+Real Decreto-[ley 14/2012](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md), de 20 de abril, mientras que, por razones de planificación y organización del curso escolar, lo dispuesto en el artículo único de la Ley se aplicará a partir del inicio del curso escolar inmediatamente posterior a la entrada en vigor de la misma.
 
 La presente Ley se adecua a los principios de buena regulación establecidos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
@@ -123,11 +120,10 @@ El Presidente del Gobierno,
 
 PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -136,6 +132,7 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

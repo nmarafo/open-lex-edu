@@ -1,12 +1,10 @@
 ---
 id: norm-and-d-206-2006
 codigo_sintetizado: D206_2006 Ordenacion Bachillerato Andalucía
-titulo: Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación
-  del Bachillerato en Andalucía.
+titulo: Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 206/2006
 fecha_disposicion: '2006-11-28'
@@ -20,33 +18,26 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- bachillerato
-- ordenacion
-- andalucia
+  - bachillerato
+  - ordenacion
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
 
 ## Preámbulo
 
-# Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
-
 Resolución de 29 de noviembre de 2006, del Instituto Andaluz de Administración Pública, por la que se convoca el "VI Curso de Especialización en Gestión Pública Local" CEM0702H.10119, a celebrar en Granada, en el marco del Convenio de Cooperación de 7 de julio de 1993 suscrito con el CEMCI, Organismo Autónomo de la Diputación Provincial de Granada.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -84,17 +75,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2006
 Boletín 239
 
 ##
 
-Histórico del BOJA
-Boletín número
-239
-de
-13/12/2006
+Histórico del BOJA Boletín número 239 de 13/12/2006
 
 ## 1. Disposiciones generales
 
@@ -102,21 +87,14 @@ de
 
 ### Resolución de 29 de noviembre de 2006, del Instituto Andaluz de Administración Pública, por la que se convoca el "VI Curso de Especialización en Gestión Pública Local" CEM0702H.10119, a celebrar en Granada, en el marco del Convenio de Cooperación de 7 de julio de 1993 suscrito con el CEMCI, Organismo Autónomo de la Diputación Provincial de Granada.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 El Instituto Andaluz de Administración Pública convoca el "VI Curso de Especialización en Gestión Pública Local" CEM0702H.10119, organizado por el Centro de Estudios Municipales y de Cooperación Internacional (CEMCI) de Granada, en colaboración con la Universidad Carlos III de Madrid, con sujeción a las siguientes bases:
 
-Primera. Contenido, fecha y lugar de celebración: Este curso, que se enmarca dentro del Programa de Formación Superior, engloba seis módulos:
+#### Primera. Contenido, fecha y lugar de celebración: Este curso, que se enmarca dentro del Programa de Formación Superior, engloba seis módulos:
 
 - Módulo I. Procesos de modernización y cambio en las Administraciones Públicas (5 y 6 de febrero de 2007) CEM0702-1.10120
 
@@ -130,19 +108,17 @@ Primera. Contenido, fecha y lugar de celebración: Este curso, que se enmarca de
 
 - Módulo VI. Negociación y resolución de conflictos (2 y 3 de julio de 2007) CEM0702-6.10162.
 
-Estos módulos, aun formando parte de una acción formativa integral, son independientes entre sí y tienen autonomía docente singularizada, de tal manera que se admitirá la ma-
-
-triculación en uno solo o en varios de los seis módulos programados.
+Estos módulos, aun formando parte de una acción formativa integral, son independientes entre sí y tienen autonomía docente singularizada, de tal manera que se admitirá la matriculación en uno solo o en varios de los seis módulos programados.
 
 Todos los módulos se celebrarán en la sede del CEMCI, Plaza Mariana Pineda, núm. 8 (Granada), en horario de mañana y tarde, de 9,30 a 14,30 horas y de 16,30 a 19,30 horas.
 
 La celebración efectiva del curso programado quedará supeditada a que exista un número idóneo de alumnos matriculados.
 
-Segunda. Condiciones generales de admisión: El curso estará dirigido a cargos electos, directivos y funcionarios de Administración Local con habilitación de carácter nacional, y personal al servicio de las Entidades que integran la Administración Local de Andalucía.
+#### Segunda. Condiciones generales de admisión: El curso estará dirigido a cargos electos, directivos y funcionarios de Administración Local con habilitación de carácter nacional, y personal al servicio de las Entidades que integran la Administración Local de Andalucía.
 
 Si el número de solicitudes lo permitiese, podrán ser admitidos al curso quienes presten servicios en la Junta de Andalucía y otras Administraciones y Entidades Públicas actuantes en el territorio de la Comunidad Autónoma, y que lo hubieran solicitado.
 
-Tercera. Criterios de selección: El número de asistentes al curso será limitado, por lo que, si fuese necesario, la selección de solicitantes se atendría a los siguientes criterios:
+#### Tercera. Criterios de selección: El número de asistentes al curso será limitado, por lo que, si fuese necesario, la selección de solicitantes se atendría a los siguientes criterios:
 
 - Puesto de trabajo desempeñado.
 
@@ -154,13 +130,13 @@ Tercera. Criterios de selección: El número de asistentes al curso será limita
 
 El CEMCI podrá reservar el 10% de las plazas para su adjudicación discrecional a los colaboradores de ese Centro o a otras personas que presten servicio en entidades con las que el CEMCI mantenga relaciones de colaboración.
 
-Cuarta. Solicitudes: El plazo de presentación de solicitudes para participar en el curso o módulos respectivos que se convocan se extenderá desde la fecha de publicación de esta convocatoria en el
+#### Cuarta. Solicitudes: El plazo de presentación de solicitudes para participar en el curso o módulos respectivos que se convocan se extenderá desde la fecha de publicación de esta convocatoria en el
 
 Las solicitudes deberán dirigirse, según modelo adjunto, al CEMCI, Plaza Mariana Pineda, número 8. C.P. 18009 - Granada (información en el teléfono 958 247 217), por fax al número 958 247 218, o bien a través de internet, en la página web: http://www.cemci.org, y también podrán presentarse a través de cualquiera de los registros u oficinas a que se refiere el artículo 38 de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 Los datos personales que se aporten en estas solicitudes se incorporarán a un fichero informático del CEMCI, que será el responsable de su tratamiento, con el fin de mantener al interesado informado de las distintas actividades formativas solicitadas por el mismo. Puede acceder, rectificar o cancelar sus datos, enviando un escrito a Plaza Mariana Pineda, 8, 18009, Granada, o a la cuenta de correo electrónico formacion@cemci.org.
 
-Quinta. Derechos de matrícula y expedición del certificado: En concepto de derechos de matrícula y expedición de certificado, los solicitantes, tanto del Curso completo como de módulos, deberán abonar en la fecha de finalización del plazo de admisión (8 de enero) la cantidad de 250 euros por módulo o 1.500 euros por el curso completo.
+#### Quinta. Derechos de matrícula y expedición del certificado: En concepto de derechos de matrícula y expedición de certificado, los solicitantes, tanto del Curso completo como de módulos, deberán abonar en la fecha de finalización del plazo de admisión (8 de enero) la cantidad de 250 euros por módulo o 1.500 euros por el curso completo.
 
 Finalizado el plazo de admisión de inscripciones, en el caso de que pudieran ser seleccionados solicitantes que no hubieran abonado los derechos de matrícula, deberán abonarlos en la fecha que expresamente señale el CEMCI en la carta de admisión, siendo dicho requisito indispensable para que su admisión sea firme.
 
@@ -170,21 +146,21 @@ En el supuesto de que no fuese posible la admisión del solicitante, el pago le 
 
 La cancelación de matrícula, para que conlleve la devolución del importe de los derechos abonados, deberá comunicarse por escrito al CEMCI al menos cinco días hábiles antes del primer módulo en caso de renuncia al curso completo o comienzo de la actividad a que se refiera. Pasado ese plazo, sólo se procederá a la devolución del 50% del importe de los derechos. Una vez comenzado el curso o módulo, no procederá devolución alguna.
 
-Sexta. Puntuación: La puntuación otorgada a este curso, de conformidad con la Resolución del INAP de 26 de octubre de 1994 (BOE de 8 de noviembre), será la siguiente:
+#### Sexta. Puntuación: La puntuación otorgada a este curso, de conformidad con la Resolución del INAP de 26 de octubre de 1994 (BOE de 8 de noviembre), será la siguiente:
 
 - Por la asistencia al curso (96 horas): 0,90 puntos.
 
 - Por la asistencia al curso con aprovechamiento evaluado mediante trabajo individualizado (120 horas): 1,50 puntos.
 
-Séptima. Certificado de asistencia/Diploma de Especialización: Finalizado el curso, o cada módulo, con una asistencia mínima del 90% del total de horas lectivas, los participantes tendrán derecho a la expedición del oportuno certificado acreditativo. Quienes asistan al curso de Especialización en su integridad (seis módulos), obtendrán a la finalización de las actividades un Certificado de Asistencia por el total de horas de presencia activa (96 horas), y en caso de que presenten el trabajo de evaluación, y éste sea considerado apto por el Director Académico del curso, entonces obtendrán un Diploma de Especialización con aprovechamiento (120 horas). Quienes asistan a alguno/s de los módulos sin llegar a completar el curso obtendrán un Certificado de Asistencia diferente por cada una de las concretas actividades realizadas (16 horas), sin posibilidad de obtenerlo con aprovechamiento ni puntuación.
+#### Séptima. Certificado de asistencia/Diploma de Especialización: Finalizado el curso, o cada módulo, con una asistencia mínima del 90% del total de horas lectivas, los participantes tendrán derecho a la expedición del oportuno certificado acreditativo. Quienes asistan al curso de Especialización en su integridad (seis módulos), obtendrán a la finalización de las actividades un Certificado de Asistencia por el total de horas de presencia activa (96 horas), y en caso de que presenten el trabajo de evaluación, y éste sea considerado apto por el Director Académico del curso, entonces obtendrán un Diploma de Especialización con aprovechamiento (120 horas). Quienes asistan a alguno/s de los módulos sin llegar a completar el curso obtendrán un Certificado de Asistencia diferente por cada una de las concretas actividades realizadas (16 horas), sin posibilidad de obtenerlo con aprovechamiento ni puntuación.
 
 El CEMCI podrá disponer de los sistemas de control que estime oportunos para comprobar la asistencia.
 
-Octava. Diploma de Experto y Máster: De acuerdo con el Plan de Formación para 2007, la realización del presente Curso de Especialización y la obtención del correspondiente Diploma de Aprovechamiento será computable para la posterior obtención del Diploma de Experto en Derecho y Gestión Pública Local y del Máster en Dirección y Gestión Pública Local, para lo que será imprescindible que el alumno acredite estar en posesión de la titulación de Diplomado o Licenciado Universitario, respectivamente, y además, que se cumplan el resto de requisitos contemplados por ese Centro para la obtención de dichas titulaciones.
+#### Octava. Diploma de Experto y Máster: De acuerdo con el Plan de Formación para 2007, la realización del presente Curso de Especialización y la obtención del correspondiente Diploma de Aprovechamiento será computable para la posterior obtención del Diploma de Experto en Derecho y Gestión Pública Local y del Máster en Dirección y Gestión Pública Local, para lo que será imprescindible que el alumno acredite estar en posesión de la titulación de Diplomado o Licenciado Universitario, respectivamente, y además, que se cumplan el resto de requisitos contemplados por ese Centro para la obtención de dichas titulaciones.
 
 Sevilla, 29 de noviembre de 2006.- El Director, Joaquín Castillo Sempere.
 
-ANEXO I
+## Anexo I
 
 "VI CURSO DE ESPECIALIZACION EN GESTION PUBLICA LOCAL"
 
@@ -221,19 +197,11 @@ IV. Avance de programa.
 Se puede consultar en la siguiente página web: http://www.cemci.org.
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-239
-de
-13/12/2006
+239 de 13/12/2006
 
 2.2. Oposiciones y concursos
 
@@ -241,15 +209,11 @@ de
 
 4. Administración de justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2006/239/boletin.239.pdf">Descargar boletín nº
-239 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2006/239/boletin.239.pdf">Descargar boletín nº 239 completo
 
 PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -270,3 +234,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

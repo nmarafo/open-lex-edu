@@ -1,8 +1,7 @@
 ---
 id: norm-es-l-53-1984
 codigo_sintetizado: L53_1984 Incompatibilidades del Personal Publico
-titulo: Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio
-  de las Administraciones Públicas.
+titulo: Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,37 +18,34 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- empleados-p-blicos
-- empleados-publicos
-- funcion-publica
-- gestion-economica
-- incompatibilidades
+  - empleados-p-blicos
+  - empleados-publicos
+  - funcion-publica
+  - gestion-economica
+  - incompatibilidades
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-1985-7820
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2005-21534
-  - norma_id: norm-es-2012-9364
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-l-9-2017
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-o-1-9-2010
+    - norma_id: norm-es-1985-7820
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-2005-21534
+    - norma_id: norm-es-2012-9364
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-l-9-2017
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-o-1-9-2010
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '103.3'
+    - '103.3'
 ---
-
-## Preámbulo
-
 # Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
 
-# Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
+## Preámbulo
 
 **JUAN CARLOS I,**
 
@@ -67,7 +63,7 @@ La Ley viene a cumplimentar, en esta materia, el mandato de los artículos 103.3
 
 Por otra parte, la regulación de esta Ley exige de los servidores públicos un esfuerzo testimonial de ejemplaridad ante los ciudadanos, constituyendo en este sentido un importante avance hacia la solidaridad, la moralización de la vida pública y la eficacia de la Administración.
 
-CAPÍTULO PRIMERO
+### Capítulo PRIMERO
 
 Principios generales
 
@@ -83,9 +79,7 @@ A los efectos del párrafo anterior, se entenderá por remuneración cualquier d
 
 3. En cualquier caso, el desempeño de un puesto de trabajo por el personal incluido en el ámbito de aplicación de esta Ley será incompatible con el ejercicio de cualquier cargo, profesión o actividad, público o privado, que pueda impedir o menoscabar el estricto cumplimiento de sus deberes o comprometer su imparcialidad o independencia.
 
-CAPÍTULO II
-
-Ámbito de aplicación
+## Capítulo II. Ámbito de aplicación.
 
 #### Artículo segundo.
 
@@ -113,9 +107,7 @@ j) El restante personal al que resulte de aplicación el régimen estatutario de
 
 2. En el ámbito delimitado en el apartado anterior se entenderá incluido todo el personal, cualquiera que sea la naturaleza jurídica de la relación de empleo.
 
-CAPÍTULO III
-
-Actividades públicas
+## Capítulo III. Actividades públicas.
 
 #### Artículo tercero.
 
@@ -199,9 +191,7 @@ A falta de opción en el plazo señalado se entenderá que optan por el nuevo pu
 
 Si se tratara de puestos susceptibles de compatibilidad, previa autorización, deberán instarla en los diez primeros días del aludido plazo de toma de posesión, entendiéndose éste prorrogado en tanto recae resolución.
 
-CAPÍTULO IV
-
-Actividades privadas
+## Capítulo IV. Actividades privadas.
 
 #### Artículo once.
 
@@ -245,9 +235,7 @@ Quienes se hallen autorizados para el desempeño de un segundo puesto o activida
 
 El personal a que se refiere esta Ley no podrá invocar o hacer uso de su condición pública para el ejercicio de actividad mercantil, industrial o profesional.
 
-CAPÍTULO V
-
-Disposiciones comunes
+## Capítulo V. Disposiciones comunes.
 
 #### Artículo dieciséis.
 
@@ -421,7 +409,7 @@ Lo dispuesto en los párrafos anteriores de este apartado se entenderá sin perj
 
 2. La adecuación a las normas de esta Ley de los reconocimientos de compatibilidad de actividades privadas, efectuados con anterioridad a su entrada en vigor, se realizará en la forma que reglamentariamente se determine.
 
-#### DISPOSICIÓN DEROGATORIA
+#### Disposición derogatoria ....
 
 Quedan derogadas todas las disposiciones con rango de Ley o inferior, sean de carácter general o especial, en cuanto se opongan a lo dispuesto en la presente Ley, quedando subsistentes las incompatibilidades más rigurosas establecidas para personal determinado de acuerdo con la especial naturaleza de su función.
 
@@ -437,11 +425,10 @@ El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
 - **Fundamento de**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
@@ -455,4 +442,5 @@ FELIPE GONZÁLEZ MÁRQUEZ
 - **Fundamento de**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)

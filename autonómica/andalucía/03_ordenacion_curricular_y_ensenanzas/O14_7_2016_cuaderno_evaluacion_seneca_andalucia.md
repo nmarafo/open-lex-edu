@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-14-7-2016
 codigo_sintetizado: O14_7_2016 Cuaderno Evaluacion Seneca Andalucía
-titulo: Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno
-  de Evaluación del Profesorado en Séneca.
+titulo: Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 14/07/2016
 fecha_disposicion: '2016-07-14'
@@ -20,30 +18,25 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Gestión digital
 tags:
-- seneca
-- cuaderno_evaluacion
-- gestion_digital
-- andalucia
+  - seneca
+  - cuaderno_evaluacion
+  - gestion_digital
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
 
 ## Preámbulo
 
-# Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
-
 Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
 
-<link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/>
-<link rel="alternate" type="application/atom+xml"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+<link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xml" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -81,15 +74,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2016
 Boletín 143
 
 ##
 
-Histórico del BOJA
-Boletín número 143 de
-27/07/2016
+Histórico del BOJA Boletín número 143 de 27/07/2016
 
 ## 1. Disposiciones generales
 
@@ -97,26 +86,10 @@ Boletín número 143 de
 
 ### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
 
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00095983.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00095983.
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 Para dar cumplimiento al compromiso adquirido por el Gobierno andaluz, de devolución de los primeros 44 días de la paga extraordinaria, paga adicional del complemento específico, o pagas adicionales del mes de diciembre de 2012, o importes equivalentes, mediante Resolución de esta Secretaría General, de 30 de diciembre de 2015, se dictaron Instrucciones para proceder al abono de las cantidades recuperadas.
 
@@ -138,7 +111,9 @@ A los efectos de esta Resolución, se consideran instituciones el Consejo Consul
 
 b) Las agencias de régimen especial.
 
-c) Las agencias públicas empresariales, sociedades mercantiles del sector público andaluz, y consorcios, fundaciones y demás entidades a que se refiere el artículo 5 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
+c) Las agencias públicas empresariales, sociedades mercantiles del sector público andaluz, y consorcios, fundaciones y demás entidades a que se refiere el artículo 5 l.
+
+Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, aprobado por Decreto Legislativo 1/2010, de 2 de marzo.
 
 2. Criterios generales.
 
@@ -242,13 +217,9 @@ En los respectivos ámbitos sectoriales se dictará las Instrucciones complement
 
 Sevilla, 21 de julio de 2016.- La Secretaria General, Lidia Sánchez Milán.
 
-<a target="_blank" href="BOJA16-143-00006-13610-01_00095983.pdf"
-class="item_pdf_disposicion item_pdf_grupo"
-title="Descargar PDF de la disposición"> Descargar PDF
+<a target="_blank" href="BOJA16-143-00006-13610-01_00095983.pdf" class="item_pdf_disposicion item_pdf_grupo" title="Descargar PDF de la disposición"> Descargar PDF
 
 Disposición siguiente
-
-BOJA nº 143 de 27/07/2016
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -262,15 +233,9 @@ BOJA nº 143 de 27/07/2016
 
 5.2. Otros anuncios oficiales
 
-<a title="Descargar el boletín completo en PDF" target="_blank"
-href="BOJA16-143-00159.pdf"> Descargar boletín
-nº
-143 completo
+<a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA16-143-00159.pdf"> Descargar boletín nº 143 completo
 
-<a title="Descargar el sumario en PDF" target="_blank"
-href="BOJA16-143-00008_00001690.pdf"> Sumario boletín
-nº
-143
+<a title="Descargar el sumario en PDF" target="_blank" href="BOJA16-143-00008_00001690.pdf"> Sumario boletín nº 143
 
 ## Temas
 
@@ -285,3 +250,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

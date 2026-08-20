@@ -1,12 +1,10 @@
 ---
 id: norm-es-rd-1533-1986
 codigo_sintetizado: RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)
-titulo: Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones
-  de padres de alumnos.
+titulo: Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 1533/1986
 fecha_disposicion: '1986-07-11'
@@ -20,36 +18,33 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Asociaciones de Padres y Madres (AMPAS)
 tags:
-- ampas
-- asociaciones-de-padres-y-madres-ampas
-- bachillerato
-- comunidad-educativa
-- formacion-profesional
-- fp-basica
-- participacion-familias
-- profesorado
+  - ampas
+  - asociaciones-de-padres-y-madres-ampas
+  - bachillerato
+  - comunidad-educativa
+  - formacion-profesional
+  - fp-basica
+  - participacion-familias
+  - profesorado
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-lo-8-1985
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   desarrollado_por:
-  - norma_id: norm-can-d-234-1996
+    - norma_id: norm-can-d-234-1996
   fundamento_de: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-8-1985
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-8-1985
   articulos:
-  - '5'
-- norma_id: norm-es-ce-1978
+    - '5'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
+    - '27'
 ---
-
-## Preámbulo
-
 # Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos.
 
-# Real Decreto 1533/1986 por el que se regulan las asociaciones de padres de alumnos
+## Preámbulo
 
 El artículo 5.º de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, garantiza la libertad de asociación de padres de alumnos remitiendo a un reglamento posterior la regulación de las características específicas de dichas asociaciones. Por ello, el presente Real Decreto viene a dar cumplimiento a dicha previsión legal, dictándose de acuerdo con la autorización que al Gobierno le concede la disposición final primera de la citada Ley Orgánica.
 
@@ -57,23 +52,23 @@ En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe d
 
 **DISPONGO:**
 
-#### Artículo 1.º
+#### Artículo 1.
 
 De acuerdo con lo dispuesto en el artículo 5.º de la Ley Orgánica reguladora del Derecho a la Educación, los padres de alumnos tienen garantizada la libertad de asociación en el ámbito educativo.
 
-#### Art. 2.º
+#### Artículo 2.
 
 A efectos de lo dispuesto en este Real Decreto, se considerarán asociaciones de padres de alumnos las que se constituyan en los Centros docentes, públicos o privados, que impartan enseñanzas de Educación Preescolar, Educación General Básica, Bachillerato y Formación Profesional.
 
-#### Art. 3.º
+#### Artículo 3.
 
 Únicamente podrán ser miembros de las citadas asociaciones los padres o tutores de los alumnos que cursen estudios en los Centros docentes a que se refiere el artículo anterior.
 
-#### Art. 4.º
+#### Artículo 4.
 
 Las asociaciones de padres de alumnos se regirán por la Ley Orgánica reguladora del Derecho a la Educación y por el presente Real Decreto en lo referente a sus características específicas, y por la legislación de asociaciones en los aspectos generales que les sean de aplicación.
 
-#### Art. 5.º
+#### Artículo 5.
 
 Las asociaciones de padres de alumnos asumirán las siguientes finalidades:
 
@@ -87,33 +82,33 @@ d) Asistir a los padres de alumnos en el ejercicio de su derecho a intervenir en
 
 e) Facilitar la representación y la participación de los padres de alumnos en los Consejos Escolares de los Centros públicos y concertados y en otros órganos colegiados.
 
-f)	Cualesquiera otras que, en el marco de la normativa a que se refiere el artículo anterior, le asignen sus respectivos estatutos.
+f) Cualesquiera otras que, en el marco de la normativa a que se refiere el artículo anterior, le asignen sus respectivos estatutos.
 
-#### Art. 6.º
+#### Artículo 6.
 
 La constitución de las asociaciones de padres de alumnos se efectuará mediante acta en la que conste la voluntad de varios padres o tutores de alumnos de crear una asociación para el cumplimiento de las finalidades a que se refiere el artículo anterior.
 
-#### Art. 7.º
+#### Artículo 7.
 
 Los estatutos de las asociaciones de padres de alumnos deberán contener, al menos, los siguientes extremos:
 
-a)	Denominación de la asociación, que deberá contener una referencia que la singularice y una indicación al Centro docente en que se constituye.
+a) Denominación de la asociación, que deberá contener una referencia que la singularice y una indicación al Centro docente en que se constituye.
 
-b)	Finalidades de la asociación, de acuerdo con lo dispuesto en el artículo 5.º
+b) Finalidades de la asociación, de acuerdo con lo dispuesto en el artículo 5.º
 
-c)	Domicilio, que podrá ser el del Centro docente en el que la asociación se constituye.
+c) Domicilio, que podrá ser el del Centro docente en el que la asociación se constituye.
 
-d)	Composición y funcionamiento de sus órganos de gobierno, que en todo caso deberán ser democráticos.
+d) Composición y funcionamiento de sus órganos de gobierno, que en todo caso deberán ser democráticos.
 
-e)	Procedimiento de admisión de los asociados. La admisión será, en todo caso, voluntaria y previa solicitud de inscripción, no pudiendo exigirse más requisitos que el de ser padre o tutor de alumno matriculado en el Centro, abonar, en su caso, las correspondientes cuotas y aceptar expresamente los correspondientes estatutos.
+e) **Procedimiento de admisión de los asociados.** La admisión será, en todo caso, voluntaria y previa solicitud de inscripción, no pudiendo exigirse más requisitos que el de ser padre o tutor de alumno matriculado en el Centro, abonar, en su caso, las correspondientes cuotas y aceptar expresamente los correspondientes estatutos.
 
-f)	Derechos y deberes de los asociados.
+f) Derechos y deberes de los asociados.
 
-g)	Patrimonio fundacional, recursos económicos previstos y aplicación que haya de darse al patrimonio de la asociación en caso de disolución.
+g) Patrimonio fundacional, recursos económicos previstos y aplicación que haya de darse al patrimonio de la asociación en caso de disolución.
 
-h)	Régimen de modificación de los estatutos.
+h) Régimen de modificación de los estatutos.
 
-#### Art. 8.º
+#### Artículo 8.
 
 1. Las asociaciones de padres de alumnos presentarán en el Ministerio de Educación y Ciencia el acta y los estatutos, así como las modificaciones de éstos, cambios de domicilio, o en su caso, cualquier circunstancia relevante en la vida de la asociación.
 
@@ -121,7 +116,7 @@ h)	Régimen de modificación de los estatutos.
 
 3. La inclusión en el censo, que en todo caso tendrá carácter declarativo, se entenderá producida si, transcurridos dos meses desde la presentación del acta y de los estatutos, no hubiera recaído resolución expresa.
 
-#### Art. 9.º
+#### Artículo 9.
 
 1. Las asociaciones de padres de alumnos podrán utilizar los locales de los Centros docentes para la realización de las actividades que les son propias, a cuyo efecto los Directores de los Centros facilitarán la integración de dichas actividades en la vida escolar, teniendo en cuenta el normal desarrollo de la misma.
 
@@ -129,7 +124,7 @@ h)	Régimen de modificación de los estatutos.
 
 3. Los Directores de los Centros públicos, dentro de los medios materiales de que dispongan, facilitarán el uso de un local para el desarrollo de las actividades internas de carácter permanente de las asociaciones constituidas en los mismos, siempre que sea solicitado por éstas.
 
-#### Art. 10.
+#### Artículo 10.
 
 1. Las asociaciones de padres de alumnos no podrán desarrollar en los Centros docentes otras actividades que las previstas en sus estatutos dentro del marco de los fines que la Ley les asigna como propios.
 
@@ -139,29 +134,29 @@ h)	Régimen de modificación de los estatutos.
 
 4. Cuando las asociaciones tengan que abonar gastos al Centro derivados del uso de las instalaciones y servicios del mismo, y no haya acuerdo en lo que a la cuantía se refiere entre el Director del Centro y la asociación resolverán los correspondientes órganos provinciales del Ministerio de Educación y Ciencia. En el caso de los Centros públicos de Educación General Básica será preceptivo el informe de la autoridad municipal correspondiente.
 
-#### Art. 11.
+#### Artículo 11.
 
 1. Las asociaciones de padres de alumnos podrán federarse en el nivel local o en ámbitos territoriales más amplios, así como confederarse.
 
-2. La constitución de federaciones o confederaciones se comunicará al Ministerio de Educación y Ciencia a los efectos de su inclusión en el censo a que se refiere el artículo 8.º
+2. La constitución de federaciones o confederaciones se comunicará al Ministerio de Educación y Ciencia a los efectos de su inclusión en el censo a que se refiere el artículo 8.º
 
-#### Art. 12.
+#### Artículo 12.
 
 La participación de los padres de alumnos en los consejos escolares a que se refiere el artículo 35 de la Ley Orgánica reguladora del Derecho a la Educación, se realizará a través de las federaciones de asociaciones de padres de alumnos más representativas en la forma que establezcan las disposiciones de organización y funcionamiento de dichos consejos.
 
-#### Art. 13.
+#### Artículo 13.
 
 La participación de los padres de alumnos en el Consejo Escolar del Estado se realizará a través de las confederaciones de asociaciones de padres de alumnos más representativa en función del número de padres asociados en cada una de las asociaciones o federaciones integradas en la confederación.
 
-#### Art. 14.
+#### Artículo 14.
 
 Las entidades objeto de este Real Decreto que se incorporen a otras agrupaciones o entidades de carácter internacional, o adopten denominaciones alusivas a las mismas, deberán comunicarlo al Ministerio de Educación y Ciencia.
 
-#### Art. 15.
+#### Artículo 15.
 
 El Ministerio de Educación y Ciencia facilitará la constitución de asociaciones, federaciones y confederaciones de padres de alumnos mediante la prestación del asesoramiento técnico que se solicite de sus órganos centrales y provinciales competentes en la materia.
 
-#### Art. 16.
+#### Artículo 16.
 
 El Ministerio de Educación y Ciencia fomentará las actividades de las asociaciones, federaciones y confederaciones de padres de alumnos mediante la concesión, conforme a criterios de publicidad, concurrencia y objetividad, de las ayudas que para tales fines figuren en los Presupuestos Generales del Estado. En todo caso, tendrán preferencia para la concesión de tales ayudas aquellas asociaciones constituidas en Centros que atiendan poblaciones escolares de condiciones socioeconómicas desfavorables, así como las federaciones o confederaciones que comprendan asociaciones de tal carácter u ostenten más amplia representatividad por razón de afiliación.
 
@@ -175,7 +170,7 @@ El Ministerio de Educación y Ciencia adaptará lo dispuesto en este Real Decret
 
 Este reglamento será de aplicación en el ámbito territorial de las Comunidades Autónomas que tengan atribuida competencia al efecto en tanto no desarrollen lo establecido en el artículo 5.º de la Ley Orgánica reguladora del Derecho a la Educación, de conformidad con su disposición adicional primera punto uno, y mientras no tengan transferidos los servicios correspondientes; en todo caso, este reglamento se aplicará para integrar las disposiciones autonómicas.
 
-#### DISPOSICIÓN TRANSITORIA
+#### Disposición transitoria ....
 
 En el plazo de seis meses, las asociaciones, federaciones y confederaciones de padres de alumnos ya existentes, bajo esta denominación u otra análoga, se acomodarán a lo dispuesto en este Real Decreto y normas que lo desarrollen.
 
@@ -197,15 +192,15 @@ El Ministro de Educación y Ciencia,
 
 JOSÉ MARÍA MARAVALL HERRERO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Desarrollado por**: [**D234_1996 Regulacion de AMPAS y Federaciones en Canarias**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D234_1996_regulan_asociaciones_madres_padres_alumnos_federaciones.md)
 
 ### Fundamentos de Derecho
+
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

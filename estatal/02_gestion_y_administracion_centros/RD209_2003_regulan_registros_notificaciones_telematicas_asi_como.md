@@ -1,13 +1,10 @@
 ---
 id: norm-es-2003-4151
 codigo_sintetizado: BOE-A-2003-4151
-titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros
-  y las notificaciones telemáticas, así como la utilización de medios telemáticos
-  para la sustitución de la aportación de certificados por los ciudadanos.
+titulo: Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2003-02-28'
 boletin: BOE
@@ -18,26 +15,23 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Administración electrónica y firmas
 tags:
-- administraci-n-electr-nica-y-firmas
-- gestion-economica
-- procedimiento-administrativo
-- rgpd
+  - administraci-n-electr-nica-y-firmas
+  - gestion-economica
+  - procedimiento-administrativo
+  - rgpd
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-l-39-2015
-fundamentos_derecho:
-- norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-l-39-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1999-23750
+    - '1'
+    - norma_id: norm-es-1999-23750
 ---
+# Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
 ## Preámbulo
-
-# Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
-
-# Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos.
 
 La llamada sociedad de la información, es decir, la plena incorporación de las tecnologías de la información y la comunicación a las actividades sociales y económicas, constituye un factor estratégico esencial para garantizar el desarrollo de nuestro país en un escenario de un vertiginoso progreso de la tecnología y de mundialización de mercados, en el que ya no es posible competir si no es a través de productos con un alto valor añadido.
 
@@ -55,7 +49,9 @@ Es importante resaltar que el uso de los medios y técnicas telemáticas se har�
 
 El real decreto se estructura en tres artículos, tres disposiciones adicionales, una disposición transitoria, una disposición derogatoria y dos disposiciones finales.
 
-El artículo 2 modifica el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, a fin de desarrollar la regulación de las notificaciones telemáticas, los certificados telemáticos y transmisiones de datos.
+El artículo 2 modifica.
+
+el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, a fin de desarrollar la regulación de las notificaciones telemáticas, los certificados telemáticos y transmisiones de datos.
 
 Mediante las notificaciones telemáticas se introduce un nuevo instrumento de comunicación entre el ciudadano y la Administración que contribuirá a simplificar tanto estas relaciones como la actividad de la Administración. La reducción de las cargas y barreras burocráticas que la actividad administrativa impone se ha convertido en el correlato indispensable de las medidas de liberalización económica y fomento de la iniciativa privada y la libre competencia.
 
@@ -63,7 +59,9 @@ Una de las ideas subyacentes a este real decreto es el fomento de una nueva cult
 
 Por otro lado, las transmisiones de datos permitirán el intercambio de información entre los distintos órganos de la Administración General del Estado, liberando así al ciudadano de la carga de tener que aportar dichos datos.
 
-En el artículo 3 se introducen las modificaciones al Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro, al añadir un nuevo capítulo en el que se regulan los registros telemáticos.
+En el artículo 3 se.
+
+introducen las modificaciones al Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro, al añadir un nuevo capítulo en el que se regulan los registros telemáticos.
 
 A pesar de la denominación de los mismos como registros, nos encontramos ante una figura radicalmente distinta a los registros convencionales, de tal modo que las funciones y funcionamiento de los registros telemáticos no pueden asimilarse al resto de los registros administrativos.
 
@@ -93,7 +91,9 @@ Notificaciones telemáticas
 
 1. Los órganos administrativos y los organismos públicos podrán habilitar sistemas de notificación utilizando medios telemáticos de acuerdo con lo dispuesto en el presente artículo.
 
-2. Podrá practicarse la notificación por medios telemáticos a los interesados cuando, además de los requisitos especificados en el artículo 7 del presente real decreto, aquéllos así lo hayan manifes tado expresamente, bien indicando el medio telemático como preferente para la recepción de notificaciones en su solicitud, escrito o comunicación, o bien consintiendo dicho medio a propuesta del correspondiente órgano u organismo público.
+2. Podrá practicarse la notificación por medios telemáticos a los interesados cuando, además de los requisitos especificados en el artículo 7 l.
+
+presente real decreto, aquéllos así lo hayan manifes tado expresamente, bien indicando el medio telemático como preferente para la recepción de notificaciones en su solicitud, escrito o comunicación, o bien consintiendo dicho medio a propuesta del correspondiente órgano u organismo público.
 
 3. Para la eficacia de lo dispuesto en el presente artículo, todo interesado que manifieste su voluntad de ser notificado por medios telemáticos en cualesquiera procedimientos deberá disponer, con las condiciones que se establezcan, de una dirección electrónica habilitada para ello, que será única para todas las posibles notificaciones a practicar por la Administración General del Estado y sus organismos públicos. La dirección electrónica única deberá cumplir los siguientes requisitos:
 
@@ -141,7 +141,9 @@ A tal efecto, su contenido deberá poder ser impreso en soporte papel, en el que
 
 [ignorar]Artículo 15. Transmisiones de datos.
 
-1. Las transmisiones de datos sustituyen a los certificados administrativos en soporte papel por el envío, a través de medios telemáticos y con los requisitos de seguridad previstos en el artículo 4 del presente real decreto, de aquellos datos que sean necesarios para el ejercicio por un órgano u organismo de sus competencias en el marco de un procedimiento administrativo.
+1. Las transmisiones de datos sustituyen a los certificados administrativos en soporte papel por el envío, a través de medios telemáticos y con los requisitos de seguridad previstos en el artículo 4 l.
+
+presente real decreto, de aquellos datos que sean necesarios para el ejercicio por un órgano u organismo de sus competencias en el marco de un procedimiento administrativo.
 
 2. La aportación de certificados previstos en las vigentes normas reguladoras de procedimientos y actuaciones administrativas se entenderán sustituidos, a todos los efectos y con plena validez y eficacia, por las transmisiones de datos que se realicen de acuerdo con lo dispuesto en este artículo.
 
@@ -161,7 +163,9 @@ A tal efecto, su contenido deberá poder ser impreso en soporte papel, en el que
 
 [ignorar]Disposición adicional cuarta. Convenios de colaboración con otras Administraciones públicas.
 
-La Administración General de Estado podrá celebrar convenios de colaboración con la Administración de las comunidades autónomas y las entidades integrantes de la Administración local, con el fin de facilitar la utilización por parte de estas Administraciones, en sus relaciones con los ciudadanos, del servicio de dirección electrónica única a la que se refiere el artículo 12 del presente real decreto.»
+La Administración General de Estado podrá celebrar convenios de colaboración con la Administración de las comunidades autónomas y las entidades integrantes de la Administración local, con el fin de facilitar la utilización por parte de estas Administraciones, en sus relaciones con los ciudadanos, del servicio de dirección electrónica única a la que se refiere el artículo 12 l.
+
+presente real decreto.»
 
 4. Lo dispuesto en los apartados anteriores será de aplicación a las notificaciones previstas en los apartados 3 y 8 del artículo 105 de la Ley 230/1963, de 28 de diciembre, General Tributaria.
 
@@ -237,11 +241,15 @@ c) Los registros telemáticos no realizarán ni anotarán salidas de escritos y 
 
 #### Disposición adicional primera. Modificación del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado.
 
-1. Se añade un nuevo apartado 4 al artículo 8 del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, con la siguiente redacción:
+1. Se añade un nuevo apartado 4 al artículo 8 l.
+
+Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, con la siguiente redacción:
 
 «4. Todo modelo normalizado de solicitud correspondiente a procedimientos en los que se requiera la aportación de cualquier tipo de certificaciones emitidas por los órganos de la Administración General del Estado y los organismos vinculados o dependientes de aquélla deberá establecer un apartado para que el interesado deje constancia, en su caso, de su consentimiento expreso para que los datos objeto de certificación puedan ser transmitidos o certificados por medios telemáticos directamente al órgano requirente.»
 
-2. El apartado 2 del artículo 9 del Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, queda redactado de la siguiente forma:
+2. El apartado 2 del artículo 9 l.
+
+Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen los criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, queda redactado de la siguiente forma:
 
 #### Disposición adicional segunda. Uso de medios electrónicos, informáticos y telemáticos en el ámbito de la Seguridad Social.
 
@@ -285,14 +293,14 @@ El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 
 ### Fundamentos de Derecho
+
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)

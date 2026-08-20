@@ -1,12 +1,10 @@
 ---
 id: norm-es-2002-12018
 codigo_sintetizado: BOE-A-2002-12018
-titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación
-  Profesional.
+titulo: Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-06-20'
 boletin: BOE
@@ -17,53 +15,50 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- convivencia
-- convivencia-escolar
-- evaluacion
-- formacion-profesional
-- orientacion-educativa
+  - convivencia
+  - convivencia-escolar
+  - evaluacion
+  - formacion-profesional
+  - orientacion-educativa
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-31-1995
-  - norma_id: norm-es-l-53-1984
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-31-1995
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-2005-21534
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2010-13564
-  - norma_id: norm-es-2011-12632
-  - norma_id: norm-es-2013-10219
-  - norma_id: norm-es-2014-5591
-  - norma_id: norm-es-2015-9462
-  - norma_id: norm-es-2022-1274
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-rd-217-2022
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-res-boc-2019-143-74
+    - norma_id: norm-es-2005-21534
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2010-13564
+    - norma_id: norm-es-2011-12632
+    - norma_id: norm-es-2013-10219
+    - norma_id: norm-es-2014-5591
+    - norma_id: norm-es-2015-9462
+    - norma_id: norm-es-2022-1274
+    - norma_id: norm-es-2025-2039
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-3-2022
+    - norma_id: norm-es-rd-217-2022
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-res-boc-2019-143-74
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-31-1995
+    - '27'
+    - norma_id: norm-es-l-31-1995
   articulos:
-  - '1'
-- norma_id: norm-es-l-53-1984
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-lo-8-1985
+    - '1'
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
 ---
+# Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 ## Preámbulo
-
-# Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
-
-# Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**
 
@@ -73,7 +68,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
 
-## EXPOSICIÓN DE MOTIVOS
+## Exposición de motivos
 
 El derecho a la educación, que el artículo 27 de la Constitución reconoce a todos con el fin de alcanzar el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales, tiene en la formación profesional una vertiente de significación individual y social creciente. En esta misma línea y dentro de los principios rectores de la política social y económica, la Constitución, en su artículo 40, exige de los poderes públicos el fomento de la formación y readaptación profesionales, instrumentos ambos de esencial importancia para hacer realidad el derecho al trabajo, la libre elección de profesión u oficio o la promoción a través del trabajo. En efecto, la cualificación profesional que proporciona esta formación sirve tanto a los fines de la elevación del nivel y calidad de vida de las personas como a los de la cohesión social y económica y del fomento del empleo.
 
@@ -101,7 +96,7 @@ En el marco del Sistema Nacional de Cualificaciones y Formación Profesional se 
 
 Finalmente con esta Ley, que no deroga el actual marco legal de la formación profesional establecido por la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, se pretende conseguir el mejor aprovechamiento de la experiencia y conocimientos de todos los profesionales en la impartición de las distintas modalidades de formación profesional y con tal finalidad se posibilita a los funcionarios de los Cuerpos de Profesores de Enseñanza Secundaria y Profesores Técnicos de Formación Profesional el desempeño de funciones en las diferentes ofertas de formación profesional reguladas en la presente Ley.
 
-TÍTULO PRELIMINAR
+## Título Preliminar
 
 #### Artículo 1. Finalidad de la Ley.
 
@@ -183,7 +178,7 @@ d) La evaluación y mejora de la calidad del Sistema Nacional de Cualificaciones
 
 4. La formación favorecerá la realización de prácticas profesionales de los alumnos en empresas y otras entidades. Dichas prácticas no tendrán carácter laboral.
 
-## TÍTULO I
+## Título I
 
 **De las cualificaciones profesionales**
 
@@ -195,9 +190,9 @@ d) La evaluación y mejora de la calidad del Sistema Nacional de Cualificaciones
 
 3. A los efectos de la presente Ley, se entenderá por:
 
-a) Cualificación profesional: el conjunto de competencias profesionales con significación para el empleo que pueden ser adquiridas mediante formación modular u otros tipos de formación y a través de la experiencia laboral.
+a) **Cualificación profesional.** El conjunto de competencias profesionales con significación para el empleo que pueden ser adquiridas mediante formación modular u otros tipos de formación y a través de la experiencia laboral.
 
-b) Competencia profesional: el conjunto de conocimientos y capacidades que permitan el ejercicio de la actividad profesional conforme a las exigencias de la producción y el empleo.
+b) **Competencia profesional.** El conjunto de conocimientos y capacidades que permitan el ejercicio de la actividad profesional conforme a las exigencias de la producción y el empleo.
 
 #### Artículo 8. Reconocimiento, evaluación, acreditación y registro de las cualificaciones profesionales.
 
@@ -209,7 +204,7 @@ b) Competencia profesional: el conjunto de conocimientos y capacidades que permi
 
 4. El Gobierno, previa consulta al Consejo General de la Formación Profesional, fijará los requisitos y procedimientos para la evaluación y acreditación de las competencias, así como los efectos de las mismas.
 
-## TÍTULO II
+## Título II
 
 **De la formación profesional**
 
@@ -267,7 +262,7 @@ podrán incorporar módulos apropiados para la adaptación a las necesidades esp
 
 2. Las competencias profesionales ofertadas y adquiridas mediante las acciones formativas indicadas en el apartado anterior, podrán ser acreditadas cuando sean incorporadas al Catálogo de Cualificaciones, de acuerdo con lo previsto en el artículo 8 de la presente Ley.
 
-## TÍTULO III
+## Título III
 
 **Información y orientación profesional**
 
@@ -287,7 +282,7 @@ En el marco del Sistema Nacional de Cualificaciones y Formación Profesional la 
 
 Asimismo, corresponde a las Administraciones públicas poner a disposición de los interlocutores sociales información sobre el sistema que pueda servir de referente orientativo en la negociación colectiva, sin perjuicio de la autonomía de las partes en la misma.
 
-## TÍTULO IV
+## Título IV
 
 **Calidad y evaluación del Sistema Nacional de Cualificaciones y Formación Profesional**
 
@@ -325,13 +320,17 @@ El Gobierno, previa consulta al Consejo General de la Formación Profesional, fi
 
 2. Al amparo de lo establecido en el artículo 149.1.1.a y 30.a de la Constitución, en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, es competencia exclusiva del Estado el desarrollo de los siguientes preceptos:
 
-El apartado 1 del artículo 1, los artículos 2 a 5, los apartados 3 y 4 del artículo 6, los artículos 7 a 9, el apartado 1 del artículo 10 y el apartado 6 del artículo 11.
+El apartado 1 del artículo 1, los artículos 2 a 5, los apartados 3 y 4 del artículo 6, los artículos 7 a 9, el apartado 1 del artículo 10 y el.
+
+apartado 6 del artículo 11.
 
 La disposición adicional tercera.
 
 Igualmente, al amparo de lo establecido en el artículo 149.1.1.a y 30.a de la Constitución y en lo que se refiere a la regulación de la formación profesional en el ámbito del Sistema Educativo, son normas básicas de la presente Ley las siguientes:
 
-Los apartados 2 y 3 del artículo 1, los apartados 1 y 2 del artículo 6, los apartados 2 a 7 del artículo 10, los apartados 1 a 5 y 7 del artículo 11 y los artículos 12 a 17.
+Los apartados 2 y 3 del artículo 1, los apartados 1 y 2 del artículo 6, los apartados 2 a 7 del artículo 10, los apartados 1 a 5 y 7 del artículo 11 y los.
+
+artículos 12 a 17.
 
 Las disposiciones adicionales primera y segunda.
 
@@ -359,11 +358,10 @@ El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
@@ -387,6 +385,7 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - **Fundamento de**: [**Resolucion BOC 74**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)

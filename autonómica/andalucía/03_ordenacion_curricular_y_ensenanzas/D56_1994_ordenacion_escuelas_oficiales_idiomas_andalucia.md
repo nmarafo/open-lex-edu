@@ -1,12 +1,10 @@
 ---
 id: norm-and-d-56-1994
 codigo_sintetizado: D56_1994 Ordenacion Escuelas Oficiales Idiomas Andalucia
-titulo: Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las
-  Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
+titulo: Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 56/1994
 fecha_disposicion: '1994-03-01'
@@ -20,34 +18,27 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas de Idiomas
 tags:
-- eoi
-- idiomas
-- ensenanzas_especializadas
-- andalucia
+  - eoi
+  - idiomas
+  - ensenanzas_especializadas
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
 
 ## Preámbulo
 
-# Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
-
 RESOLUCION de 9 de marzo de 1994, del Instituto Andaluz de Administración Pública, por la que se aprueba la relación provisional de aspirantes admitidos/as y excluidos/as, con indicación de las causas correspondientes a las pruebas selectivas para ingreso en el cuerpo de auxiliares administrativos (D1000).
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.2. Oposiciones, concursos y otras convocatorias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.2.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="2.2. Oposiciones, concursos y otras convocatorias - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s2.2.xml"/>
 
 ###
 
@@ -85,18 +76,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-1994
-Boletín 31
-2.2 Oposiciones y concursos
+Boletín 31 2.2 Oposiciones y concursos
 
 ##
 
-Histórico del BOJA
-Boletín número
-31
-de
-15/3/1994
+Histórico del BOJA Boletín número 31 de 15/3/1994
 
 ## 2. Autoridades y personal2.2 Oposiciones y concursos
 
@@ -104,10 +88,7 @@ de
 
 ### RESOLUCION de 9 de marzo de 1994, del Instituto Andaluz de Administración Pública, por la que se aprueba la relación provisional de aspirantes admitidos/as y excluidos/as, con indicación de las causas correspondientes a las pruebas selectivas para ingreso en el cuerpo de auxiliares administrativos (D1000).
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
 De conformidad con lo establecido en la base 5 de la Orden de 26 de abril de 1993, BOJA núm. 46, de 4 de mayo, de la Consejería de Gobernación, por la que se convocan pruebas selectivas para el ingreso en el Cuerpo de Auxiliares Administrativos, este Instituto
 
@@ -145,7 +126,7 @@ Una vez subsanados los errores y reclamaciones, por Resolución del Director del
 
 Sevilla, 9 de marzo de 1994.- El Director, Antonio Roig López.
 
-ANEXO
+## Anexo
 
 01 Sistema de acceso en blanco
 
@@ -186,19 +167,11 @@ ANEXO
 19 No cumplimenta datos minusvalía
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-31
-de
-15/3/1994
+31 de 15/3/1994
 
 2.2. Oposiciones y concursos
 
@@ -206,15 +179,11 @@ de
 
 4. Administración de justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1994/31/boletin.31.pdf">Descargar boletín nº
-31 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../1994/31/boletin.31.pdf">Descargar boletín nº 31 completo
 
 ## Temas
 
@@ -229,3 +198,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

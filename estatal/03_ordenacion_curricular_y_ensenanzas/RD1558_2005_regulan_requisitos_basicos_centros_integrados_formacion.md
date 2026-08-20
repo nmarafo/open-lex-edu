@@ -1,12 +1,10 @@
 ---
 id: norm-es-2005-21534
 codigo_sintetizado: BOE-A-2005-21534
-titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos
-  básicos de los Centros integrados de formación profesional.
+titulo: Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2005-12-30'
 boletin: BOE
@@ -17,36 +15,33 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Formación Profesional
 tags:
-- formacion-profesional
-- roc
-- titulacion
-- transparencia
+  - formacion-profesional
+  - roc
+  - titulacion
+  - transparencia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-l-53-1984
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-rd-1834-2008
-  - norma_id: norm-can-res-043
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-can-res-043
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '6'
-  - 6bis
-- norma_id: norm-can-l-6-2014
+    - '6'
+    - 6bis
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '22'
-- norma_id: norm-es-l-53-1984
-- norma_id: norm-es-2002-12018
+    - '22'
+    - norma_id: norm-es-l-53-1984
+    - norma_id: norm-es-2002-12018
 ---
+# Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 ## Preámbulo
-
-# Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
-
-# Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».
 
@@ -124,7 +119,9 @@ b) Desarrollar vínculos con el sistema productivo del entorno (sectorial y coma
 
 c) Informar y orientar a los usuarios, tanto individual como colectivamente, para facilitar el acceso, la movilidad y el progreso en los itinerarios formativos y profesionales, en colaboración con los servicios públicos de empleo.
 
-2. Además de las funciones establecidas en el apartado anterior, los centros integrantes de la Red a la que se refiere el artículo 4 y los Centros integrados privados concertados, que cuenten con autorización administrativa a tales efectos, podrán desarrollar las funciones siguientes:
+2. Además de las funciones establecidas en el apartado anterior, los centros integrantes de la Red a la que se refiere el artículo 4 y los.
+
+Centros integrados privados concertados, que cuenten con autorización administrativa a tales efectos, podrán desarrollar las funciones siguientes:
 
 a) Participar en los procedimientos de evaluación y, en su caso, realizar la propuesta de acreditación oficial de las competencias profesionales adquiridas por las personas a través de la experiencia laboral o de vías no formales de formación, de acuerdo con lo que se establezca en desarrollo del artículo 8 de la [Ley Orgánica 5/2002](./LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
@@ -192,9 +189,9 @@ Corresponde a las Administraciones educativa y laboral, cada una en el ámbito d
 
 2. En todo caso, serán órganos de gobierno y participación de los Centros integrados de formación profesional los siguientes:
 
-a) Órganos unipersonales de gobierno: Director; Jefe de Estudios, Secretario o equivalentes; cuantos otros determinen las Administraciones competentes. Estos órganos de gobierno constituirán el equipo directivo del centro.
+a) **Órganos unipersonales de gobierno.** Director; Jefe de Estudios, Secretario o equivalentes; cuantos otros determinen las Administraciones competentes. Estos órganos de gobierno constituirán el equipo directivo del centro.
 
-b) Órganos colegiados de participación: Consejo Social; Claustro de profesores o equivalente y aquellos otros que determinen las Administraciones competentes.
+b) **Órganos colegiados de participación.** Consejo Social; Claustro de profesores o equivalente y aquellos otros que determinen las Administraciones competentes.
 
 3. Los Centros integrados contarán con los órganos de coordinación necesarios para garantizar las siguientes funciones: la formación integrada y de calidad, la información y la orientación profesional, el reconocimiento y evaluación de competencias profesionales y las relaciones con las empresas.
 
@@ -312,11 +309,10 @@ La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
 
 MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
 - **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
@@ -324,6 +320,7 @@ MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
 - **Fundamento de**: [**Resolucion BOC 43**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L6_2014 Ley Canaria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)

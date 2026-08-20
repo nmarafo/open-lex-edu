@@ -1,13 +1,10 @@
 ---
 id: norm-es-1995-8730
 codigo_sintetizado: BOE-A-1995-8730
-titulo: Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento
-  de Situaciones Administrativas de los Funcionarios Civiles de la Administración
-  General del Estado.
+titulo: Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '1995-04-10'
 boletin: BOE
@@ -18,30 +15,27 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Empleados públicos
 tags:
-- ebep
-- empleados-p-blicos
-- igualdad-genero
-- procedimiento-administrativo
-- proteccion-menores
+  - ebep
+  - empleados-p-blicos
+  - igualdad-genero
+  - procedimiento-administrativo
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1985-5392
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-1985-5392
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2.1'
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-1985-5392
+    - '1'
+    - '2.1'
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-1985-5392
 ---
+# Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 ## Preámbulo
-
-# Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
-
-# Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado.
 
 La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la [Ley 30/1984](L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.
 
@@ -71,9 +65,9 @@ JERÓNIMO SAAVEDRA ACEVEDO
 
 [encabezado]REGLAMENTO DE SITUACIONES ADMINISTRATIVAS DE LOS FUNCIONARIOS CIVILES DE LA ADMINISTRACION GENERAL DEL ESTADO
 
-CAPÍTULO I
+### Capítulo I
 
-Disposiciones generales
+### Disposiciones generales
 
 #### Artículo 1. Ámbito de aplicación.
 
@@ -99,7 +93,7 @@ f) Excedencia para el cuidado de hijos.
 
 g) Excedencia voluntaria por servicios en el sector público.
 
-h)  Excedencia voluntaria por interés particular.
+h) Excedencia voluntaria por interés particular.
 
 i) Excedencia voluntaria por agrupación familiar.
 
@@ -107,9 +101,7 @@ j) Excedencia voluntaria incentivada.
 
 k) Suspensión de funciones.
 
-CAPÍTULO II
-
-Servicio activo
+## Capítulo II. Servicio activo.
 
 #### Artículo 3. Servicio activo.
 
@@ -139,9 +131,7 @@ k) Cuando, por razón de su condición de funcionario exigida por disposición l
 
 l) En el supuesto de cesación progresiva de actividades.
 
-CAPÍTULO III
-
-Servicios especiales
+## Capítulo III. Servicios especiales.
 
 #### Artículo 4. Servicios especiales.
 
@@ -185,7 +175,9 @@ Para declarar el pase a la situación de servicios especiales en el supuesto del
 
 1. El pase a la situación de servicios especiales se declarará de oficio o a instancia del interesado, una vez verificado el supuesto que la ocasione, con efectos desde el momento en que se produjo.
 
-2. En el supuesto previsto en el artículo 4 a) de este Reglamento, la autorización para realizar la misión de carácter internacional requerirá que conste el interés de la Administración, conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.
+2. En el supuesto previsto en el artículo 4 a).
+
+de este Reglamento, la autorización para realizar la misión de carácter internacional requerirá que conste el interés de la Administración, conforme a los criterios que establezca el Ministerio de Asuntos Exteriores.
 
 #### Artículo 7. Reserva de puestos de trabajo.
 
@@ -211,9 +203,7 @@ Asimismo, de darse estas circunstancias, respecto al abono de la cuota de Seguri
 
 2. Los Diputados, Senadores, miembros de las Asambleas Legislativas de las Comunidades Autónomas o del Parlamento Europeo que pierdan dicha condición por disolución de las correspondientes Cámaras o terminación del mandato de las mismas podrán permanecer en situación de servicios especiales hasta su nueva constitución.
 
-CAPÍTULO IV
-
-Servicio en Comunidades Autónomas
+## Capítulo IV. Servicio en Comunidades Autónomas.
 
 #### Artículo 10. Funcionarios transferidos.
 
@@ -229,11 +219,9 @@ En los Cuerpos o Escalas de la Administración del Estado de los que procedieran
 
 2. En todo caso les serán aplicables las normas relativas a promoción profesional, promoción interna, régimen retributivo, situaciones administrativas, incompatibilidades y régimen disciplinario de la Administración pública en que se hallen destinados, con excepción de la sanción de separación del servicio, que se acordará por el Ministro del Departamento al que esté adscrito el Cuerpo o Escala al que pertenezca el funcionario, previa incoación de expediente disciplinario por la Administración de la Comunidad Autónoma de destino.
 
-CAPÍTULO V
+## Capítulo V. Expectativa de destino.
 
-Expectativa de destino
-
-#### Artículo 12. Expectativa de destino
+#### Artículo 12. Expectativa de destino.
 
 1. Los funcionarios afectados por un procedimiento de reasignación de efectivos, que no hayan obtenido puesto en las dos primeras fases previstas en el apartado g) del artículo 20.1 de la [Ley 30/1984](./L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, pasarán a la situación de expectativa de destino. Los funcionarios en expectativa de destino se adscribirán al Ministerio para las Administraciones Públicas, a través de relaciones específicas de puestos en reasignación, pudiendo ser reasignados por éste en los términos establecidos en el mencionado artículo.
 
@@ -251,11 +239,9 @@ El incumplimiento de estas obligaciones determinará el pase a la situación de 
 
 A los restantes efectos, incluido el régimen de incompatibilidades, esta situación se equipara a la de servicio activo.
 
-CAPÍTULO VI
+## Capítulo VI. Excedencia forzosa.
 
-Excedencia forzosa
-
-#### Artículo 13. Excedencia forzosa
+#### Artículo 13. Excedencia forzosa.
 
 1. La excedencia forzosa se produce por las siguientes causas:
 
@@ -277,9 +263,7 @@ b) Cuando el funcionario declarado en la situación de suspensión firme, que no
 
 La declaración de excedencia forzosa prevista en el párrafo b) del apartado 1 y, en su caso, la de excedencia voluntaria por interés particular o por prestación de otros servicios en el sector público de estos excedentes forzosos, corresponderá a los Departamentos ministeriales en relación con los funcionarios de los Cuerpos o Escalas adscritos a los mismos, y a la Dirección General de la Función Pública en relación con los funcionarios de los Cuerpos y Escalas adscritos al Ministerio para las Administraciones Públicas y dependientes de la Secretaría de Estado para la Administración Pública.
 
-CAPÍTULO VII
-
-Excedencia para el cuidado de hijos
+## Capítulo VII. Excedencia para el cuidado de hijos.
 
 #### Artículo 14. Excedencia para el cuidado de hijos.
 
@@ -297,9 +281,7 @@ Cada sucesivo hijo dará derecho a un nuevo período de excedencia que, en su ca
 
 4. A efectos de lo dispuesto en este artículo, el acogimiento de menores producirá los mismos efectos que la adopción durante el tiempo de duración del mismo.
 
-CAPÍTULO VIII
-
-Excedencia voluntaria
+## Capítulo VIII. Excedencia voluntaria.
 
 #### Artículo 15. Excedencia voluntaria por prestación de servicios en el sector público.
 
@@ -345,9 +327,7 @@ Cuando el funcionario pertenezca a un Cuerpo o Escala que tenga reservados puest
 
 Las distintas modalidades de excedencia voluntaria no producen, en ningún caso, reserva de puesto de trabajo y los funcionarios que se encuentren en las mismas no devengarán retribuciones, salvo lo previsto en el apartado 5 del artículo anterior. No será computable el tiempo permanecido en esta situación a efectos de promoción, trienios y derechos pasivos.
 
-CAPÍTULO IX
-
-Suspensión de funciones
+## Capítulo IX. Suspensión de funciones.
 
 #### Artículo 20. Suspensión de funciones.
 
@@ -379,9 +359,7 @@ Suspensión de funciones
 
 5. Si una vez solicitado el reingreso al servicio activo no se concede en el plazo de seis meses, el funcionario será declarado, de oficio, en la situación de excedencia forzosa prevista en el artículo 13.1.b) con efectos de la fecha de extinción de la responsabilidad penal o disciplinaria.
 
-CAPÍTULO X
-
-Cambio de situaciones administrativas
+## Capítulo X. Cambio de situaciones administrativas.
 
 #### Artículo 23. Requisitos y efectos.
 
@@ -435,16 +413,16 @@ a) A partir del 23 de agosto de 1984, si la excedencia les fue concedida con ant
 
 b) Desde la fecha del pase a dicha situación, si la excedencia les fue concedida con posterioridad a la entrada en vigor de la Ley expresada.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1984-17387**](./L30_1984_medidas_reforma_funcion_publica.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)

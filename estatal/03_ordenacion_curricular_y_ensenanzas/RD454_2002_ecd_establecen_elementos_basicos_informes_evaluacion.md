@@ -1,15 +1,10 @@
 ---
 id: norm-es-2002-4371
 codigo_sintetizado: BOE-A-2002-4371
-titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos
-  básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención
-  de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997,
-  de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación
-  que son necesarios para garantizar la movilidad de los alumnos.
+titulo: Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2002-03-05'
 boletin: BOE
@@ -20,46 +15,45 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Enseñanzas Deportivas
 tags:
-- consejo-escolar
-- ense-anzas-deportivas
-- ensenanzas-deportivas
-- evaluacion
-- formacion-profesional
-- titulacion
+  - consejo-escolar
+  - ense-anzas-deportivas
+  - ensenanzas-deportivas
+  - evaluacion
+  - formacion-profesional
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2000-5990
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2010-13564
-  - norma_id: norm-es-2011-12632
-  - norma_id: norm-es-2011-15628
-  - norma_id: norm-es-2013-10219
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2019-143-74
+    - norma_id: norm-es-2000-5990
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2010-13564
+    - norma_id: norm-es-2011-12632
+    - norma_id: norm-es-2011-15628
+    - norma_id: norm-es-2013-10219
+    - norma_id: norm-can-res-boc-2017-036-75
+    - norma_id: norm-can-res-boc-2019-143-74
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '6'
-  - 6bis
-- norma_id: norm-can-l-6-2014
+    - '6'
+    - 6bis
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '22'
-- norma_id: norm-es-2001-7022
+    - '22'
+    - norma_id: norm-es-2001-7022
 ---
+# Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 ## Preámbulo
 
-# Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+De conformidad con la habilitación que el artículo 3.4 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, confiere al Gobierno, y en desarrollo del artículo 55 de la Ley 10/1990, de 15 de octubre, del Deporte, se dictó el Real Decreto 1913/1997, de 19 de diciembre, que otorga la consideración de Enseñanzas de Régimen Especial a aquellas que conducen a la obtención de los títulos de técnicos deportivos.
 
-# Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
+En el artículo 24 l.
 
-De conformidad con la habilitación que el artículo 3.4 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, confiere al Gobierno, y en desarrollo del articulo 55 de la Ley 10/1990, de 15 de octubre, del Deporte, se dictó el Real Decreto 1913/1997, de 19 de diciembre, que otorga la consideración de Enseñanzas de Régimen Especial a aquellas que conducen a la obtención de los títulos de técnicos deportivos.
-
-En el artículo 24 del Real Decreto 1913/1997, se determina que el Ministerio de Educación, Cultura y Deporte, previo informe de los órganos competentes de las Comunidades Autónomas, establecerá los elementos básicos de los informes de evaluación de las enseñanzas, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos.
+Real Decreto 1913/1997, se determina que el Ministerio de Educación, Cultura y Deporte, previo informe de los órganos competentes de las Comunidades Autónomas, establecerá los elementos básicos de los informes de evaluación de las enseñanzas, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos.
 
 Por todo ello, resulta ahora preciso proceder a dicha determinación para asegurar la consecución de los fines que anteceden.
 
@@ -69,7 +63,9 @@ En consecuencia, previo informe de los órganos competentes de las Comunidades A
 
 #### [precepto]Primero. Objeto de la Orden.
 
-Es objeto de la presente Orden establecer los elementos básicos de los informes de evaluación correspondientes a los Grados Medio y Superior de las enseñanzas de técnicos deportivos, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos, de conformidad con el artículo 24 del Real Decreto 1913/1997, de 19 de diciembre.
+Es objeto de la presente Orden establecer los elementos básicos de los informes de evaluación correspondientes a los Grados Medio y Superior de las enseñanzas de técnicos deportivos, así como los requisitos formales derivados del proceso de evaluación que son precisos para garantizar la movilidad de los alumnos, de conformidad con el artículo 24 l.
+
+Real Decreto 1913/1997, de 19 de diciembre.
 
 #### [precepto]Segundo. Documentos de la evaluación.
 
@@ -205,7 +201,9 @@ Todos los documentos de evaluación llevarán la firma del Director y del Secret
 
 #### [precepto]Decimonoveno. Condiciones.
 
-1. Sin perjuicio de lo establecido en los puntos 2 y 3 del artículo 8 del Real Decreto 1913/1997, de 19 de diciembre, el traslado de un centro a otro solo podrá autorizarse para:
+1. Sin perjuicio de lo establecido en los puntos 2 y 3 del artículo 8 l.
+
+Real Decreto 1913/1997, de 19 de diciembre, el traslado de un centro a otro solo podrá autorizarse para:
 
 a) Iniciar las enseñanzas del Segundo Nivel del Grado Medio o las enseñanzas del Grado Superior.
 
@@ -223,9 +221,13 @@ b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del G
 
 4. Cuando un traslado se refiera a un alumno afectado por un cambio de plan de estudios, la Certificación Académica deberá recoger expresamente el plan de estudios al que se refieren las enseñanzas cursadas.
 
-5. En el caso de alumnos afectados por procesos de convalidación u homologación de formaciones deportivas anteriores, a las que se refieren el artículo 42 y la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, a la Certificación Académica Oficial se adjuntará fotocopia visada por el centro de origen, de la resolución o resoluciones correspondientes.
+5. En el caso de alumnos afectados por procesos de convalidación u homologación de formaciones deportivas anteriores, a las que se refieren el artículo 42 y la.
 
-6. En el caso de alumnos con requisitos académicos logrados a través de pruebas de madurez a las que se refieren el artículo 9 del Real Decreto 1913/1997, de 19 de diciembre, y de alumnos que para el acceso hayan acreditado la condición de deportistas de alto nivel a la que se refiere el artículo 10 del mencionado Real Decreto 1913/1997, o que hayan superado tales pruebas en las condiciones a las que se refiere el artículo 11 de dicha norma, a la Certificación Académica se incorporará una fotocopia visada del documento acreditativo correspondiente.
+disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, a la Certificación Académica Oficial se adjuntará fotocopia visada por el centro de origen, de la resolución o resoluciones correspondientes.
+
+6. En el caso de alumnos con requisitos académicos logrados a través de pruebas de madurez a las que se refieren el artículo 9 l.
+
+Real Decreto 1913/1997, de 19 de diciembre, y de alumnos que para el acceso hayan acreditado la condición de deportistas de alto nivel a la que se refiere el artículo 10 del mencionado Real Decreto 1913/1997, o que hayan superado tales pruebas en las condiciones a las que se refiere el artículo 11 de dicha norma, a la Certificación Académica se incorporará una fotocopia visada del documento acreditativo correspondiente.
 
 7. Cuando excepcionalmente se realice el traslado de un centro a otro sin haber concluido el curso, la Certificación Académica Oficial se acompañará de un Informe de Evaluación Individualizado. A su vez, el centro receptor incorporará al expediente los datos contenidos en el informe relativos a las posibles medidas de adaptación, y pondrá el referido informe a disposición del profesorado que corresponda.
 
@@ -237,15 +239,21 @@ b) Continuar las enseñanzas ya iniciadas en cualquiera de los dos niveles del G
 
 2. La descripción de la clave identificativa se realizará de conformidad con el contenido del anexo IV de la presente Orden.
 
-3. El Ministerio de Educación, Cultura y Deporte determinará y dará a conocer a los órganos competentes de las Comunidades Autónomas, los elementos que representen las especialidades deportivas de los títulos que establezcan los sucesivos Reales Decretos, conforme a lo dispuesto en el artículo 14 del Real Decreto 1913/1997, de 19 de diciembre.
+3. El Ministerio de Educación, Cultura y Deporte determinará y dará a conocer a los órganos competentes de las Comunidades Autónomas, los elementos que representen las especialidades deportivas de los títulos que establezcan los sucesivos Reales Decretos, conforme a lo dispuesto en el artículo 14 l.
+
+Real Decreto 1913/1997, de 19 de diciembre.
 
 **[precepto]VII. Disposiciones finales**
 
 #### [precepto]Primera. Ámbito de aplicación.
 
-1. La presente Orden que se dicta en virtud de lo dispuesto en el artículo 24 del Real Decreto 1913/1997, de 19 de diciembre, es de aplicación en todo el territorio nacional.
+1. La presente Orden que se dicta en virtud de lo dispuesto en el artículo 24 l.
 
-2. Esta Orden se aplicará asimismo a la evaluación de las enseñanzas conducentes a la obtención de los títulos de técnicos deportivos que se establezcan de conformidad con lo previsto en el artículo 14 del mencionado Real Decreto 1913/1997, de 19 de diciembre.
+Real Decreto 1913/1997, de 19 de diciembre, es de aplicación en todo el territorio nacional.
+
+2. Esta Orden se aplicará asimismo a la evaluación de las enseñanzas conducentes a la obtención de los títulos de técnicos deportivos que se establezcan de conformidad con lo previsto en el artículo 14 l.
+
+mencionado Real Decreto 1913/1997, de 19 de diciembre.
 
 #### [precepto]Segunda. Instrucciones para la aplicación de lo dispuesto en la presente Orden.
 
@@ -263,11 +271,11 @@ DEL CASTILLO VERA
 
 Excmo. Sr. Secretario de Estado-Presidente del Consejo Superior de Deportes.
 
-ANEXO I
+## Anexo I
 
 Esquema gráfico y contenido del Certificado de Superación del Primer Nivel
 
-ANEXO II
+## Anexo II
 
 Formato y características mínimas del soporte de papel para la edición y expedición de la Certificación Académica Oficial y del Certificado de Superación del Primer Nivel
 
@@ -297,7 +305,7 @@ Numeración alfanumérica con seis dígitos.
 
 Elementos adicionales como sellos en seco, marcas al agua y otros elementos que proporcionen seguridad al documento, especialmente contra eventuales falsificaciones y/o modificaciones fraudulentas.
 
-ANEXO III
+## Anexo III
 
 Contenido de la Certificación Académica Oficial
 
@@ -377,7 +385,7 @@ Se utilizarán tantas páginas como sean necesarias.
 
 Cada página llevará estampado un cajetín en el que se indicará la referencia identificativa, el número total de hojas que la componen y su ordinal. Sobre el cajetín se estampillará el sello del centro.
 
-ANEXO IV
+## Anexo IV
 
 Claves identificativas del Certificado de Superación del Primer Nivel y de la Certificación Académica Oficial
 
@@ -541,11 +549,10 @@ Barrancos
 
 MOBA
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamento de**: [**BOE-A-2000-5990**](./RD320_2000_establecen_titulos_tecnico_deportivo_tecnico_deportivo.md)
@@ -558,6 +565,7 @@ MOBA
 - **Fundamento de**: [**Resolucion BOC 74**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L6_2014 Ley Canaria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2013-13756
 codigo_sintetizado: BOE-A-2013-13756
-titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la
-  Administración Local.
+titulo: Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2013-12-30'
 boletin: BOE
@@ -17,28 +15,25 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Cooperación con entidades locales
 tags:
-- cooperaci-n-con-entidades-locales
-- curriculo
-- fp-basica
+  - cooperaci-n-con-entidades-locales
+  - curriculo
+  - fp-basica
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1985-5392
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1985-5392
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-l-40-2015
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-l-40-2015
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-1985-5392
+    - '27'
+    - norma_id: norm-es-1985-5392
 ---
+# Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 ## Preámbulo
-
-# Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
-
-# Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**
 
@@ -48,9 +43,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
 
-## PREÁMBULO
-
-La reforma del artículo 135 de la Constitución española, en su nueva redacción dada en 2011, consagra la estabilidad presupuestaria como principio rector que debe presidir las actuaciones de todas las Administraciones Públicas. En desarrollo de este precepto constitucional se aprobó la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, que exige nuevas adaptaciones de la normativa básica en materia de Administración local para la adecuada aplicación de los principios de estabilidad presupuestaria, sostenibilidad financiera o eficiencia en el uso de los recursos públicos locales. Todo ello exige adaptar algunos aspectos de la organización y funcionamiento de la Administración local así como mejorar su control económico-financiero.
+La reforma del artículo 135 de la Constitución española, en su nueva redacción dada en 2011, consagra la estabilidad presupuestaria como principio rector que debe presidir las actuaciones de todas las Administraciones Públicas. En desarrollo de este precepto constitucional se aprobó la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, que exige nuevas adaptaciones de la normativa básica en materia de Administración local para la adecuada aplicación de los principios de estabilidad presupuestaria, sostenibilidad financiera o eficiencia en el uso de los recursos públicos locales. Todo ello exige adaptar algunos aspectos de la organización y funcionamiento de la Administración local así como mejorar su control económico-financiero.
 
 Por todo lo expuesto, transcurridos casi treinta años desde la entrada en vigor de la [Ley 7/1985](L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, y con más de una veintena de modificaciones de su texto original, cabe señalar que ha llegado el momento de someter a una revisión profunda el conjunto de disposiciones relativas al completo estatuto jurídico de la Administración local.
 
@@ -64,9 +57,9 @@ Por una parte, este sistema competencial municipal hace que se difumine la respo
 
 Por otra parte, existe una estrecha vinculación entre la disfuncionalidad del modelo competencial y las haciendas locales. En un momento en el que el cumplimiento de los compromisos europeos sobre consolidación fiscal son de máxima prioridad, la Administración local también debe contribuir a este objetivo racionalizando su estructura, en algunas ocasiones sobredimensionada, y garantizando su sostenibilidad financiera.
 
-Precisamente esta estrecha vinculación determina que resulte justificada, de acuerdo con la Jurisprudencia del Tribunal Constitucional, STC 233/99, la cita conjunta de los títulos competenciales recogidos en el artículo 149.1.14.ª, sobre Hacienda general y Deuda del Estado, y en el artículo 149.1.18.ª, sobre Bases del régimen jurídico de las Administraciones Públicas. En este sentido, el Tribunal Constitucional ha justificado no solo la cita conjunta de ambos títulos, sino con carácter limitado la prevalencia del referido a la Hacienda general en supuestos determinados. Así, ha precisado que dado que frecuentemente la regulación de la Hacienda local estará llamada a incidir sobre dicho régimen jurídico, solo de manera puntual podrá el Estado regular con carácter exclusivo tal materia haciendo prevalecer el otro título competencial a que hace referencia en la actualidad, el artículo 1.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales. Esto es, el de la Hacienda general del artículo 149.1.14.ª de la Constitución. Así ocurrirá, en efecto, en aquellos casos en los que la normativa estatal tenga por objeto la regulación de instituciones comunes a las distintas Haciendas o de medidas de coordinación entre la Hacienda estatal y las Haciendas de las Corporaciones Locales. O también cuando su finalidad sea la salvaguarda de la suficiencia financiera de las Haciendas locales garantizada por el artículo 142 de la Constitución, en cuanto presupuesto indispensable para el ejercicio de la autonomía local constitucionalmente reconocido en los artículos 137, 140 y 141 de la Constitución.
+Precisamente esta estrecha vinculación determina que resulte justificada, de acuerdo con la Jurisprudencia del Tribunal Constitucional, STC 233/99, la cita conjunta de los títulos competenciales recogidos en el artículo 149.1.14.ª, sobre Hacienda general y Deuda del Estado, y en el artículo 149.1.18.ª, sobre Bases del régimen jurídico de las Administraciones Públicas. En este sentido, el Tribunal Constitucional ha justificado no solo la cita conjunta de ambos títulos, sino con carácter limitado la prevalencia del referido a la Hacienda general en supuestos determinados. Así, ha precisado que dado que frecuentemente la regulación de la Hacienda local estará llamada a incidir sobre dicho régimen jurídico, solo de manera puntual podrá el Estado regular con carácter exclusivo tal materia haciendo prevalecer el otro título competencial a que hace referencia en la actualidad, el artículo 1.1 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales. Esto es, el de la Hacienda general del artículo 149.1.14.ª de la Constitución. Así ocurrirá, en efecto, en aquellos casos en los que la normativa estatal tenga por objeto la regulación de instituciones comunes a las distintas Haciendas o de medidas de coordinación entre la Hacienda estatal y las Haciendas de las Corporaciones Locales. O también cuando su finalidad sea la salvaguarda de la suficiencia financiera de las Haciendas locales garantizada por el artículo 142 de la Constitución, en cuanto presupuesto indispensable para el ejercicio de la autonomía local constitucionalmente reconocido en los artículos 137, 140 y 141 de la Constitución.
 
-Así, la política presupuestaria de todos los poderes públicos, incluidos los locales, deberá adecuarse a los principios rectores de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, dictada en desarrollo del artículo 135 de la Constitución.
+Así, la política presupuestaria de todos los poderes públicos, incluidos los locales, deberá adecuarse a los principios rectores de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, dictada en desarrollo del artículo 135 de la Constitución.
 
 Con este respaldo constitucional, el Estado ejerce su competencia de reforma de la Administración local para tratar de definir con precisión las competencias que deben ser desarrolladas por la Administración local, diferenciándolas de las competencias estatales y autonómicas. En este sentido, se enumera un listado de materias en que los municipios han de ejercer, en todo caso, competencias propias, estableciéndose una reserva formal de ley para su determinación, así como una serie de garantías para su concreción y ejercicio. Las Entidades Locales no deben volver a asumir competencias que no les atribuye la ley y para las que no cuenten con la financiación adecuada. Por tanto, solo podrán ejercer competencias distintas de las propias o de las atribuidas por delegación cuando no se ponga en riesgo la sostenibilidad financiera del conjunto de la Hacienda municipal, y no se incurra en un supuesto de ejecución simultánea del mismo servicio público con otra Administración Pública. De igual modo, la estabilidad presupuestaria vincula de una forma directa la celebración de convenios entre administraciones y la eliminación de duplicidades administrativas.
 
@@ -112,11 +105,15 @@ La Ley se cierra con una disposición derogatoria única y seis disposiciones fi
 
 La [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, queda modificada como sigue:
 
-Uno. El apartado 1 del artículo 2 queda redactado del siguiente modo:
+Uno. El apartado 1 del artículo 2 queda.
+
+redactado del siguiente modo:
 
 «1. Para la efectividad de la autonomía garantizada constitucionalmente a las Entidades Locales, la legislación del Estado y la de las Comunidades Autónomas, reguladora de los distintos sectores de acción pública, según la distribución constitucional de competencias, deberá asegurar a los Municipios, las Provincias y las Islas su derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles las competencias que proceda en atención a las características de la actividad pública de que se trate y a la capacidad de gestión de la Entidad Local, de conformidad con los principios de descentralización, proximidad, eficacia y eficiencia, y con estricta sujeción a la normativa de estabilidad presupuestaria y sostenibilidad financiera.»
 
-Dos. El apartado 2 del artículo 3 queda redactado del siguiente modo:
+Dos. El apartado 2 del artículo 3 queda.
+
+redactado del siguiente modo:
 
 «2. Gozan, asimismo, de la condición de Entidades Locales:
 
@@ -126,7 +123,9 @@ b) Las Áreas Metropolitanas.
 
 c) Las Mancomunidades de Municipios.»
 
-Tres. El artículo 7 queda redactado del siguiente modo:
+Tres. El artículo 7 queda.
+
+redactado del siguiente modo:
 
 «1. Las competencias de las Entidades Locales son propias o atribuidas por delegación.
 
@@ -140,13 +139,17 @@ Las competencias delegadas se ejercen en los términos establecidos en la dispos
 
 En todo caso, el ejercicio de estas competencias deberá realizarse en los términos previstos en la legislación del Estado y de las Comunidades Autónomas.»
 
-Cuatro. Se modifica el apartado 3 y se añade un nuevo apartado 4 al artículo 10 con la siguiente redacción:
+Cuatro. Se modifica el apartado 3 y se añade un nuevo apartado 4 al artículo 10 con.
+
+la siguiente redacción:
 
 «3. En especial, la coordinación de las Entidades Locales tendrá por objeto asegurar el cumplimiento de la legislación de estabilidad presupuestaria y sostenibilidad financiera.
 
 4. Las funciones de coordinación serán compatibles con la autonomía de las Entidades Locales.»
 
-Cinco. Se modifica el artículo 13 que queda redactado como sigue:
+Cinco. Se modifica el artículo 13 que.
+
+queda redactado como sigue:
 
 «Artículo 13.
 
@@ -164,13 +167,17 @@ a) El coeficiente de ponderación que resulte de aplicación de acuerdo con el a
 
 b) El esfuerzo fiscal y el inverso de la capacidad tributaria que le corresponda en ningún caso podrá ser inferior al más elevado de los valores previos que tuvieran cada municipio por separado antes de la fusión de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
 
-c) Su financiación mínima será la suma de las financiaciones mínimas que tuviera cada municipio por separado antes de la fusión de acuerdo con el artículo 124.2 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
+c) Su financiación mínima será la suma de las financiaciones mínimas que tuviera cada municipio por separado antes de la fusión de acuerdo con el artículo 124.2 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo.
 
-d) De la aplicación de las reglas contenidas en las letras anteriores no podrá derivarse, para cada ejercicio, un importe total superior al que resulte de lo dispuesto en el artículo 123 del citado texto refundido de la Ley Reguladora de las Haciendas Locales.
+d) De la aplicación de las reglas contenidas en las letras anteriores no podrá derivarse, para cada ejercicio, un importe total superior al que resulte de lo dispuesto en el artículo 123 l.
+
+citado texto refundido de la Ley Reguladora de las Haciendas Locales.
 
 e) Se sumarán los importes de las compensaciones que, por separado, corresponden a los municipios que se fusionen y que se derivan de la reforma del Impuesto sobre Actividades Económicas de la disposición adicional décima de la Ley 51/2002, de 27 de diciembre, de Reforma de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, actualizadas en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2004, así como la compensación adicional, regulada en la disposición adicional segunda de la Ley 22/2005, de 18 de noviembre, actualizada en los mismos términos que los ingresos tributarios del Estado en cada ejercicio respecto a 2006.
 
-f) Queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que le corresponda por razón de su aumento poblacional.
+f) Queda dispensado de prestar nuevos servicios mínimos de los previstos en el artículo 26 que.
+
+le corresponda por razón de su aumento poblacional.
 
 g) Durante, al menos, los cinco primeros años desde la adopción del convenio de fusión, tendrá preferencia en la asignación de planes de cooperación local, subvenciones, convenios u otros instrumentos basados en la concurrencia. Este plazo podrá prorrogarse por la Ley de Presupuestos Generales del Estado.
 
@@ -192,7 +199,9 @@ f) El nuevo municipio aprobará un nuevo presupuesto para el ejercicio presupues
 
 6. El convenio de fusión deberá ser aprobado por mayoría simple de cada uno de los plenos de los municipios fusionados. La adopción de los acuerdos previstos en el artículo 47.2, siempre que traigan causa de una fusión, será por mayoría simple de los miembros de la corporación.»
 
-Seis. Se modifica la letra f) del apartado 2 del artículo 16 en los siguientes términos:
+Seis. Se modifica la letra f) del apartado 2 del artículo 16 en.
+
+los siguientes términos:
 
 «f) Número de documento nacional de identidad o, tratándose de extranjeros:
 
@@ -200,7 +209,11 @@ Seis. Se modifica la letra f) del apartado 2 del artículo 16 en los siguientes 
 
 – Número de identificación de extranjero que conste en documento, en vigor, expedido por las autoridades españolas o, en su defecto, por no ser titulares de éstos, el número del pasaporte en vigor expedido por las autoridades del país de procedencia, tratándose de ciudadanos nacionales de Estados no comprendidos en el inciso anterior de este párrafo, salvo que, por virtud de Tratado o Acuerdo Internacional, disfruten de un régimen específico de exención de visado en materia de pequeño tráfico fronterizo con el municipio en el que se pretenda el empadronamiento, en cuyo caso, se exigirá el correspondiente visado.»
 
-Siete. Se incluye un nuevo artículo 24 bis con la siguiente redacción:
+Siete. Se incluye un nuevo
+
+#### Artículo 24 bis. con.
+
+la siguiente redacción:
 
 «Artículo 24 bis.
 
@@ -210,15 +223,17 @@ Siete. Se incluye un nuevo artículo 24 bis con la siguiente redacción:
 
 3. Solo podrán crearse este tipo de entes si resulta una opción más eficiente para la administración desconcentrada de núcleos de población separados de acuerdo con los principios previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.»
 
-Ocho. El artículo 25 queda redactado como sigue:
+Ocho. El artículo 25 queda.
+
+redactado como sigue:
 
 «1. El Municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal en los términos previstos en este artículo.
 
 2. El Municipio ejercerá en todo caso como competencias propias, en los términos de la legislación del Estado y de las Comunidades Autónomas, en las siguientes materias:
 
-a) Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Protección y gestión del Patrimonio histórico. Promoción y gestión de la vivienda de protección pública con criterios de sostenibilidad financiera. Conservación y rehabilitación de la edificación.
+a) **Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística.** Protección y gestión del Patrimonio histórico. Promoción y gestión de la vivienda de protección pública con criterios de sostenibilidad financiera. Conservación y rehabilitación de la edificación.
 
-b) Medio ambiente urbano: en particular, parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas.
+b) **Medio ambiente urbano.** En particular, parques y jardines públicos, gestión de los residuos sólidos urbanos y protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas.
 
 c) Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales.
 
@@ -228,7 +243,7 @@ e) Evaluación e información de situaciones de necesidad social y la atención 
 
 f) Policía local, protección civil, prevención y extinción de incendios.
 
-g) Tráfico, estacionamiento de vehículos y movilidad. Transporte colectivo urbano.
+g) **Tráfico, estacionamiento de vehículos y movilidad.** Transporte colectivo urbano.
 
 h) Información y promoción de la actividad turística de interés y ámbito local.
 
@@ -254,17 +269,19 @@ Los proyectos de leyes estatales se acompañarán de un informe del Ministerio d
 
 5. La Ley determinará la competencia municipal propia de que se trate, garantizando que no se produce una atribución simultánea de la misma competencia a otra Administración Pública».
 
-Nueve. El artículo 26 queda redactado como sigue:
+Nueve. El artículo 26 queda.
+
+redactado como sigue:
 
 «1. Los Municipios deberán prestar, en todo caso, los servicios siguientes:
 
-a) En todos los Municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.
+a) **En todos los Municipios.** Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.
 
-b) En los Municipios con población superior a 5.000 habitantes, además: parque público, biblioteca pública y tratamiento de residuos.
+b) **En los Municipios con población superior a 5.000 habitantes, además.** Parque público, biblioteca pública y tratamiento de residuos.
 
-c) En los Municipios con población superior a 20.000 habitantes, además: protección civil, evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público.
+c) **En los Municipios con población superior a 20.000 habitantes, además.** Protección civil, evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público.
 
-d) En los Municipios con población superior a 50.000 habitantes, además: transporte colectivo urbano de viajeros y medio ambiente urbano.
+d) **En los Municipios con población superior a 50.000 habitantes, además.** Transporte colectivo urbano de viajeros y medio ambiente urbano.
 
 2. En los municipios con población inferior a 20.000 habitantes será la Diputación provincial o entidad equivalente la que coordinará la prestación de los siguientes servicios:
 
@@ -288,7 +305,9 @@ Cuando la Diputación o entidad equivalente asuma la prestación de estos servic
 
 3. La asistencia de las Diputaciones o entidades equivalentes a los Municipios, prevista en el artículo 36, se dirigirá preferentemente al establecimiento y adecuada prestación de los servicios mínimos.»
 
-Diez. El artículo 27 queda redactado como sigue:
+Diez. El artículo 27 queda.
+
+redactado como sigue:
 
 «1. El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en los Municipios el ejercicio de sus competencias.
 
@@ -348,7 +367,11 @@ El incumplimiento de las obligaciones financieras por parte de la Administració
 
 Once. Se suprime el contenido del artículo 28.
 
-Doce. Se introduce un nuevo artículo 32 bis con la siguiente redacción:
+Doce. Se introduce un nuevo
+
+#### Artículo 32 bis. con.
+
+la siguiente redacción:
 
 «Artículo 32 bis. Personal Directivo de Diputaciones, Cabildos y Consejos Insulares.
 
@@ -392,9 +415,13 @@ c) Garantiza el desempeño de las funciones públicas necesarias en los Ayuntami
 
 d) Da soporte a los Ayuntamientos para la tramitación de procedimientos administrativos y realización de actividades materiales y de gestión, asumiéndolas cuando aquéllos se las encomienden.»
 
-Catorce. El artículo 45 queda sin contenido.
+Catorce. El artículo 45 queda.
 
-Quince. El artículo 55 queda redactado como sigue:
+sin contenido.
+
+Quince. El artículo 55 queda.
+
+redactado como sigue:
 
 «Artículo 55.
 
@@ -410,7 +437,9 @@ d) Facilitar a las otras Administraciones la información sobre la propia gesti�
 
 e) Prestar, en el ámbito propio, la cooperación y asistencia activas que las otras Administraciones pudieran precisar para el eficaz cumplimiento de sus tareas.»
 
-Dieciséis. El artículo 57 queda redactado como sigue:
+Dieciséis. El artículo 57 queda.
+
+redactado como sigue:
 
 «Artículo 57.
 
@@ -422,7 +451,11 @@ De cada acuerdo de cooperación formalizado por alguna de estas Administraciones
 
 3. La constitución de un consorcio solo podrá tener lugar cuando la cooperación no pueda formalizarse a través de un convenio y siempre que, en términos de eficiencia económica, aquélla permita una asignación más eficiente de los recursos económicos. En todo caso, habrá de verificarse que la constitución del consorcio no pondrá en riesgo la sostenibilidad financiera del conjunto de la Hacienda de la Entidad Local de que se trate, así como del propio consorcio, que no podrá demandar más recursos de los inicialmente previstos.»
 
-Diecisiete. Se incluye un nuevo artículo 57 bis con la siguiente redacción:
+Diecisiete. Se incluye un nuevo
+
+#### Artículo 57 bis. con.
+
+la siguiente redacción:
 
 «Artículo 57 bis. Garantía de pago en el ejercicio de competencias delegadas.
 
@@ -432,7 +465,11 @@ Diecisiete. Se incluye un nuevo artículo 57 bis con la siguiente redacción:
 
 3. El procedimiento para la aplicación de las retenciones mencionadas en el apartado 1 anterior y la correspondiente puesta a disposición a favor de las Entidades Locales de los fondos retenidos a las Comunidades Autónomas se regulará mediante Orden del Ministerio de Hacienda y Administraciones Públicas a la que se refiere la disposición adicional septuagésima segunda de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.»
 
-Dieciocho. Se introduce un nuevo artículo 75 bis con la siguiente redacción:
+Dieciocho. Se introduce un nuevo
+
+#### Artículo 75 bis. con.
+
+la siguiente redacción:
 
 «Artículo 75 bis. Régimen retributivo de los miembros de las Corporaciones Locales y del personal al servicio de las Entidades Locales.
 
@@ -506,7 +543,11 @@ Los concejales que sean proclamados diputados provinciales o equivalentes deber�
 
 4. En el marco de lo establecido en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y en el artículo 93.2 de esta Ley, las Leyes anuales de Presupuestos Generales del Estado podrán establecer un límite máximo y mínimo total que por todos los conceptos retributivos pueda percibir el personal al servicio de las Entidades Locales y entidades de ellas dependientes en función del grupo profesional de los funcionarios públicos o equivalente del personal laboral, así como de otros factores que se puedan determinar en las Leyes de Presupuestos Generales del Estado de cada año.»
 
-Diecinueve. Se introduce un nuevo artículo 75 ter con la siguiente redacción:
+Diecinueve. Se introduce un nuevo
+
+#### Artículo 75 ter. con.
+
+la siguiente redacción:
 
 «Artículo 75 ter. Limitación en el número de los cargos públicos de las Entidades Locales con dedicación exclusiva.
 
@@ -514,29 +555,29 @@ Diecinueve. Se introduce un nuevo artículo 75 ter con la siguiente redacción:
 
 a) En los Ayuntamientos de Municipios con población inferior a 1.000 habitantes, ningún miembro podrá prestar sus servicios en régimen de dedicación exclusiva.
 
-b) En los Ayuntamientos de Municipios con población comprendida entre 1.001 y 2.000 habitantes, solo un miembro podrá prestar sus servicios en régimen de dedicación exclusiva.
+b) En los Ayuntamientos de Municipios con población comprendida entre 1.001 y 2.000 habitantes, solo un miembro podrá prestar sus servicios en régimen de dedicación exclusiva.
 
-c) En los Ayuntamientos de Municipios con población comprendida entre 2.001 y 3.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de dos.
+c) En los Ayuntamientos de Municipios con población comprendida entre 2.001 y 3.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de dos.
 
-d) En los Ayuntamientos de Municipios con población comprendida entre 3.001 y 10.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de tres.
+d) En los Ayuntamientos de Municipios con población comprendida entre 3.001 y 10.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de tres.
 
-e) En los Ayuntamientos de Municipios con población comprendida entre 10.001 y 15.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de cinco.
+e) En los Ayuntamientos de Municipios con población comprendida entre 10.001 y 15.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de cinco.
 
-f) En Ayuntamientos de Municipios con población comprendida entre 15.001 y 20.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de siete.
+f) En Ayuntamientos de Municipios con población comprendida entre 15.001 y 20.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de siete.
 
-g) En los Ayuntamientos de Municipios con población comprendida entre 20.001 y 35.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de diez.
+g) En los Ayuntamientos de Municipios con población comprendida entre 20.001 y 35.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de diez.
 
-h) En los Ayuntamientos de Municipios con población comprendida entre 35.001 y 50.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de once.
+h) En los Ayuntamientos de Municipios con población comprendida entre 35.001 y 50.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de once.
 
-i) En los Ayuntamientos de Municipios con población comprendida entre 50.001 y 100.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de quince.
+i) En los Ayuntamientos de Municipios con población comprendida entre 50.001 y 100.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de quince.
 
-j) En los Ayuntamientos de Municipios con población comprendida entre 100.001 y 300.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de dieciocho.
+j) En los Ayuntamientos de Municipios con población comprendida entre 100.001 y 300.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de dieciocho.
 
-k) En los Ayuntamientos de Municipios con población comprendida entre 300.001 y 500.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veinte.
+k) En los Ayuntamientos de Municipios con población comprendida entre 300.001 y 500.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veinte.
 
-l) En los Ayuntamientos de Municipios con población comprendida entre 500.001 y 700.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veintidós.
+l) En los Ayuntamientos de Municipios con población comprendida entre 500.001 y 700.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veintidós.
 
-m) En los Ayuntamientos de Municipios con población comprendida entre 700.001 y 1.000.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veinticinco.
+m) En los Ayuntamientos de Municipios con población comprendida entre 700.001 y 1.000.000 habitantes, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederá de veinticinco.
 
 n) En los Ayuntamientos de Municipios de Madrid y Barcelona, los miembros que podrán prestar sus servicios en régimen de dedicación exclusiva no excederán, respectivamente, de cuarenta y cinco y de treinta y dos.
 
@@ -544,7 +585,9 @@ n) En los Ayuntamientos de Municipios de Madrid y Barcelona, los miembros que po
 
 3. En los Cabildos y Consejos Insulares el número máximo de miembros que podrán prestar sus servicios en régimen de dedicación exclusiva se determinará en función del siguiente criterio: en las islas con más de 800.000 habitantes se reduce en 2 respecto al número actual de miembros de cabildo, y en las de menos de 800.000 habitantes el 60% de los cargos electos en cada Cabildo Insular.»
 
-Veinte. Se modifica el artículo 84 bis que queda redactado como sigue:
+Veinte. Se modifica el artículo 84 bis que.
+
+queda redactado como sigue:
 
 «Artículo 84 bis.
 
@@ -556,7 +599,7 @@ a) Cuando esté justificado por razones de orden público, seguridad pública, s
 
 b) Cuando por la escasez de recursos naturales, la utilización de dominio público, la existencia de inequívocos impedimentos técnicos o en función de la existencia de servicios públicos sometidos a tarifas reguladas, el número de operadores económicos del mercado sea limitado.
 
-2. Las instalaciones o infraestructuras físicas para el ejercicio de actividades económicas solo se someterán a un régimen de autorización cuando lo establezca una Ley que defina sus requisitos esenciales y las mismas sean susceptibles de generar daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico y resulte proporcionado. La evaluación de este riesgo se determinará en función de las características de las instalaciones, entre las que estarán las siguientes:
+2. Las instalaciones o infraestructuras físicas para el ejercicio de actividades económicas solo se someterán a un régimen de autorización cuando lo establezca una Ley que defina sus requisitos esenciales y las mismas sean susceptibles de generar daños sobre el medioambiente y el entorno urbano, la seguridad o la salud públicas y el patrimonio histórico y resulte proporcionado. La evaluación de este riesgo se determinará en función de las características de las instalaciones, entre las que estarán las siguientes:
 
 a) La potencia eléctrica o energética de la instalación.
 
@@ -570,11 +613,11 @@ e) La existencia de materiales inflamables o contaminantes.
 
 f) Las instalaciones que afecten a bienes declarados integrantes del patrimonio histórico.
 
-3. En caso de existencia de licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración, la Entidad Local deberá motivar expresamente en la justificación de la necesidad de la autorización o licencia el interés general concreto que se pretende proteger y que éste no se encuentra ya cubierto mediante otra autorización ya existente.»
+3. En caso de existencia de licencias o autorizaciones concurrentes entre una Entidad Local y otra Administración, la Entidad Local deberá motivar expresamente en la justificación de la necesidad de la autorización o licencia el interés general concreto que se pretende proteger y que éste no se encuentra ya cubierto mediante otra autorización ya existente.»
 
 Veintiuno. Se suprime el apartado 3, y se modifica el apartado 2 del artículo 85, que queda redactado como sigue:
 
-«2. Los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas a continuación:
+«2. Los servicios públicos de competencia local habrán de gestionarse de la forma más sostenible y eficiente de entre las enumeradas a continuación:
 
 A) Gestión directa:
 
@@ -590,13 +633,19 @@ Solo podrá hacerse uso de las formas previstas en las letras c) y d) cuando que
 
 B) Gestión indirecta, mediante las distintas formas previstas para el contrato de gestión de servicios públicos en el texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
 
-La forma de gestión por la que se opte deberá tener en cuenta lo dispuesto en el artículo 9 del Estatuto Básico del Empleado Público, aprobado por Ley 7/2007, de 12 de abril, en lo que respecta al ejercicio de funciones que corresponden en exclusiva a funcionarios públicos.»
+La forma de gestión por la que se opte deberá tener en cuenta lo dispuesto en el artículo 9 l.
 
-Veintidós. Se modifica el apartado 2 del artículo 85 ter que queda redactado como sigue:
+Estatuto Básico del Empleado Público, aprobado por Ley 7/2007, de 12 de abril, en lo que respecta al ejercicio de funciones que corresponden en exclusiva a funcionarios públicos.»
+
+Veintidós. Se modifica el apartado 2 del artículo 85 ter que.
+
+queda redactado como sigue:
 
 «2. La sociedad deberá adoptar una de las formas previstas en el texto refundido de la Ley de Sociedades de Capital aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y en la escritura de constitución constará el capital que deberá ser aportado por las Administraciones Públicas o por las entidades del sector público dependientes de las mismas a las que corresponda su titularidad.»
 
-Veintitrés. El artículo 86 queda redactado como sigue:
+Veintitrés. El artículo 86 queda.
+
+redactado como sigue:
 
 «1. Las Entidades Locales podrán ejercer la iniciativa pública para el desarrollo de actividades económicas, siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera del ejercicio de sus competencias. En el expediente acreditativo de la conveniencia y oportunidad de la medida habrá de justificarse que la iniciativa no genera riesgo para la sostenibilidad financiera del conjunto de la Hacienda municipal debiendo contener un análisis del mercado, relativo a la oferta y a la demanda existente, a la rentabilidad y a los posibles efectos de la actividad local sobre la concurrencia empresarial.
 
@@ -608,7 +657,9 @@ La efectiva ejecución de estas actividades en régimen de monopolio requiere, a
 
 3. En todo caso, la Administración del Estado podrá impugnar los actos y acuerdos previstos en este artículo, con arreglo a lo dispuesto en el Capítulo III del Título V de esta Ley, cuando incumplan la legislación de estabilidad presupuestaria y sostenibilidad financiera.»
 
-Veinticuatro. El artículo 92 queda redactado como sigue:
+Veinticuatro. El artículo 92 queda.
+
+redactado como sigue:
 
 «Artículo 92. Funcionarios al servicio de la Administración local.
 
@@ -618,7 +669,11 @@ Veinticuatro. El artículo 92 queda redactado como sigue:
 
 3. Corresponde exclusivamente a los funcionarios de carrera al servicio de la Administración local el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales. Igualmente son funciones públicas, cuyo cumplimiento queda reservado a funcionarios de carrera, las que impliquen ejercicio de autoridad, y en general, aquellas que en desarrollo de la presente Ley, se reserven a los funcionarios para la mejor garantía de la objetividad, imparcialidad e independencia en el ejercicio de la función.»
 
-Veinticinco. Se incluye un nuevo artículo 92 bis con la siguiente redacción:
+Veinticinco. Se incluye un nuevo
+
+#### Artículo 92 bis. con.
+
+la siguiente redacción:
 
 «Artículo 92 bis. Funcionarios de administración local con habilitación de carácter nacional.
 
@@ -650,7 +705,7 @@ Los méritos generales, de preceptiva valoración, se determinarán por la Admin
 
 Existirán dos concursos anuales: el concurso ordinario y el concurso unitario. El concurso unitario será convocado por la Administración del Estado. Las Corporaciones locales con puestos vacantes aprobarán las bases del concurso ordinario, de acuerdo con el modelo de convocatoria y bases comunes que se aprueben en el real decreto previsto en el apartado anterior, y efectuarán las convocatorias, remitiéndolas a la correspondiente Comunidad Autónoma para su publicación simultánea en los diarios oficiales.
 
-Excepcionalmente, los puestos de trabajo reservados a funcionarios de administración local con habilitación de carácter nacional podrán cubrirse por el sistema de libre designación, en los municipios incluidos en el ámbito subjetivo definido en los artículos 111 y 135 del texto refundido de la Ley Reguladora de Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, así como las Diputaciones Provinciales, Áreas Metropolitanas, Cabildos y Consejos Insulares y las ciudades con estatuto de autonomía de Ceuta y Melilla, entre funcionarios de la subescala y categoría correspondiente. Cuando se trate de puestos de trabajo que tengan asignadas las funciones contenidas en el apartado 1.b) de este artículo, será precisa la autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas locales.
+Excepcionalmente, los puestos de trabajo reservados a funcionarios de administración local con habilitación de carácter nacional podrán cubrirse por el sistema de libre designación, en los municipios incluidos en el ámbito subjetivo definido en los artículos 111 y 135 del texto refundido de la Ley Reguladora de Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, así como las Diputaciones Provinciales, Áreas Metropolitanas, Cabildos y Consejos Insulares y las ciudades con estatuto de autonomía de Ceuta y Melilla, entre funcionarios de la subescala y categoría correspondiente. Cuando se trate de puestos de trabajo que tengan asignadas las funciones contenidas en el apartado 1.b) de este artículo, será precisa la autorización expresa del órgano competente de la Administración General del Estado en materia de Haciendas locales.
 
 Igualmente, será necesario informe preceptivo previo del órgano competente de la Administración General del Estado en materia de Haciendas locales para el cese de aquellos funcionarios que tengan asignadas las funciones contenidas en el apartado 1.b) de este artículo y que hubieran sido nombrados por libre designación.
 
@@ -696,7 +751,11 @@ Veintiséis. Se modifica el artículo 100.1, que queda redactado como sigue:
 
 «1. Es competencia de cada Corporación local la selección de los funcionarios con la excepción de los funcionarios con habilitación de carácter nacional.»
 
-Veintisiete. Se introduce un nuevo artículo 103 bis con la siguiente redacción:
+Veintisiete. Se introduce un nuevo
+
+#### Artículo 103 bis. con.
+
+la siguiente redacción:
 
 «Artículo 103 bis. Masa salarial del personal laboral del sector público local.
 
@@ -710,13 +769,17 @@ b) Que su patrimonio fundacional, con un carácter de permanencia, esté formado
 
 3. La masa salarial aprobada será publicada en la sede electrónica de la Corporación y en el Boletín Oficial de la Provincia o, en su caso, de la Comunidad Autónoma uniprovincial en el plazo de 20 días.»
 
-Veintiocho. Se introduce un nuevo artículo 104 bis con la siguiente redacción:
+Veintiocho. Se introduce un nuevo
+
+#### Artículo 104 bis. con.
+
+la siguiente redacción:
 
 «Artículo 104 bis. Personal eventual de las Entidades Locales.
 
 1. Las dotaciones de puestos de trabajo cuya cobertura corresponda a personal eventual en los Ayuntamientos deberán ajustarse a los siguientes límites y normas:
 
-a) Los Municipios de población entre 2.000 a 5.000 habitantes podrán excepcionalmente contar con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva.
+a) Los Municipios de población entre 2.000 a 5.000 habitantes podrán excepcionalmente contar con un puesto de trabajo cuya cobertura corresponda a personal eventual cuando no haya miembros de la corporación local con dedicación exclusiva.
 
 b) Los Ayuntamientos de Municipios con población superior a 5.000 y no superior a 10.000 habitantes podrán incluir en sus plantillas puestos de trabajo de personal eventual por un número que no podrá exceder de uno.
 
@@ -748,7 +811,11 @@ Lo previsto en este apartado se aplicará de conformidad con lo dispuesto en la 
 
 2. La extinción total o parcial de las deudas de derecho público que las Comunidades Autónomas y cualesquiera otras entidades de Derecho público dependientes de ellas tengan con las entidades de Derecho público o sociedades vinculadas, dependientes o íntegramente participadas por las Entidades Locales, o viceversa, podrá acordarse por vía de compensación, cuando se trate de deudas vencidas, líquidas y exigibles.»
 
-Treinta. Se incluye un nuevo artículo 116 bis con la siguiente redacción:
+Treinta. Se incluye un nuevo
+
+#### Artículo 116 bis. con.
+
+la siguiente redacción:
 
 «Artículo 116 bis. Contenido y seguimiento del plan económico-financiero.
 
@@ -770,7 +837,11 @@ f) Una propuesta de fusión con un municipio colindante de la misma provincia.
 
 3. La Diputación provincial o entidad equivalente asistirá al resto de corporaciones locales y colaborará con la Administración que ejerza la tutela financiera, según corresponda, en la elaboración y el seguimiento de la aplicación de las medidas contenidas en los planes económicos-financiero. La Diputación o entidad equivalente propondrá y coordinará las medidas recogidas en el apartado anterior cuando tengan carácter supramunicipal, que serán valoradas antes de aprobarse el plan económico-financiero, así como otras medidas supramunicipales distintas que se hubieran previsto, incluido el seguimiento de la fusión de Entidades Locales que se hubiera acordado.»
 
-Treinta y uno. Se añade un nuevo artículo 116 ter con la siguiente redacción:
+Treinta y uno. Se añade un nuevo
+
+#### Artículo 116 ter. con.
+
+la siguiente redacción:
 
 «Artículo 116 ter. Coste efectivo de los servicios.
 
@@ -780,15 +851,19 @@ Treinta y uno. Se añade un nuevo artículo 116 ter con la siguiente redacción:
 
 3. Todas las Entidades Locales comunicarán los costes efectivos de cada uno de los servicios al Ministerio de Hacienda y Administraciones Públicas para su publicación.»
 
-Treinta y dos. Se modifica la letra m) y se añade una nueva letra n) al apartado 1 del artículo 127 con la siguiente redacción:
+Treinta y dos. Se modifica la letra m) y se añade una nueva letra n) al apartado 1 del artículo 127 con.
+
+la siguiente redacción:
 
 «m) Designar a los representantes municipales en los órganos colegiados de gobierno o administración de los entes, fundaciones o sociedades, sea cual sea su naturaleza, en los que el Ayuntamiento sea partícipe.
 
 n) Las demás que le correspondan, de acuerdo con las disposiciones legales vigentes.»
 
-Treinta y tres. Se modifica el apartado 3 del artículo 130 que queda redactado como sigue:
+Treinta y tres. Se modifica el apartado 3 del artículo 130 que.
 
-«3. El nombramiento de los coordinadores generales y de los directores generales, atendiendo a criterios de competencia profesional y experiencia deberá efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas, de las Entidades Locales o con habilitación de carácter nacional que pertenezcan a cuerpos o escalas clasificados en el subgrupo A1, salvo que el Reglamento Orgánico Municipal permita que, en atención a las características específicas de las funciones de tales órganos directivos, su titular no reúna dicha condición de funcionario.»
+queda redactado como sigue:
+
+«3. El nombramiento de los coordinadores generales y de los directores generales, atendiendo a criterios de competencia profesional y experiencia deberá efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas, de las Entidades Locales o con habilitación de carácter nacional que pertenezcan a cuerpos o escalas clasificados en el subgrupo A1, salvo que el Reglamento Orgánico Municipal permita que, en atención a las características específicas de las funciones de tales órganos directivos, su titular no reúna dicha condición de funcionario.»
 
 Treinta y cuatro. Se modifica la disposición adicional segunda, que queda redactada como sigue:
 
@@ -814,13 +889,15 @@ Asimismo, en relación con el artículo 116 bis de esta Ley, en ejercicio de las
 
 Igualmente, de acuerdo con lo previsto en la disposición transitoria cuarta de la Ley 27/2013 de racionalización y sostenibilidad de la Administración Local, las entidades de ámbito territorial inferior al municipio comunicarán a las Instituciones Forales sus cuentas y serán estas Instituciones Forales quienes acuerden su disolución si así procede en aplicación de la mencionada disposición.
 
-7. En el ámbito de la Comunidad Autónoma del País Vasco, la normativa reguladora de los funcionarios de administración local con habilitación de carácter nacional prevista en el artículo 92 bis y concordantes de esta Ley, se aplicará de conformidad con la disposición adicional primera de la Constitución, con el artículo 149.1.18.ª de la misma y con la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, teniendo en cuenta que todas las facultades previstas respecto a dicho personal serán ostentadas por las instituciones competentes, en los términos que establezca la normativa autonómica, incluyendo la facultad de convocar exclusivamente para su territorio los concursos para las plazas vacantes en el mismo, así como la facultad de nombramiento de los funcionarios, en dichos concursos.
+7. En el ámbito de la Comunidad Autónoma del País Vasco, la normativa reguladora de los funcionarios de administración local con habilitación de carácter nacional prevista en el artículo 92 bis y concordantes.
+
+de esta Ley, se aplicará de conformidad con la disposición adicional primera de la Constitución, con el artículo 149.1.18.ª de la misma y con la Ley Orgánica 3/1979, de 18 de diciembre, por la que se aprueba el Estatuto de Autonomía para el País Vasco, teniendo en cuenta que todas las facultades previstas respecto a dicho personal serán ostentadas por las instituciones competentes, en los términos que establezca la normativa autonómica, incluyendo la facultad de convocar exclusivamente para su territorio los concursos para las plazas vacantes en el mismo, así como la facultad de nombramiento de los funcionarios, en dichos concursos.
 
 8. El porcentaje de baremo reservado al Estado en el artículo 92 bis.6 se establece en el 65 por 100, atribuyéndose un 30 por 100 del total posible a las instituciones competentes de la Comunidad Autónoma del País Vasco para que fije los méritos que correspondan al conocimiento de las especialidades jurídicas y económico-administrativas que se derivan de sus derechos históricos y especialmente del Concierto Económico.
 
 Dentro del 5 por 100 restante, la Corporación Local interesada podrá establecer libremente los méritos específicos que estime convenientes en razón a las características locales.
 
-9. En el convenio que se establecerá entre Instituciones que tengan encomendada la formación de este personal en el ámbito nacional y el Instituto Vasco de Administración Pública (IVAP) para la formación por este último de los funcionarios a que se refiere el artículo 92 bis de esta Ley, la Comunidad Autónoma del País Vasco podrá incluir materias o disciplinas propias de sus específicas peculiaridades, con la única condición del cumplimiento de los requisitos mínimos de orden académico que con carácter general estén establecidos para las cuestiones de exigencia común en todo el Estado, nunca superiores a los que rijan para el propio Instituto Nacional de Administración Pública.
+9. En el convenio que se establecerá entre Instituciones que tengan encomendada la formación de este personal en el ámbito nacional y el Instituto Vasco de Administración Pública (IVAP) para la formación por este último de los funcionarios a que se refiere el artículo 92 bis de esta Ley, la Comunidad Autónoma del País Vasco podrá incluir materias o disciplinas propias de sus específicas peculiaridades, con la única condición del cumplimiento de los requisitos mínimos de orden académico que con carácter general estén establecidos para las cuestiones de exigencia común en todo el Estado, nunca superiores a los que rijan para el propio Instituto Nacional de Administración Pública.
 
 10. El control y la fiscalización interna de la gestión económico-financiera y presupuestaria y la contabilidad, tesorería y recaudación de las Diputaciones Forales se organizará libremente por éstas en el marco del Concierto Económico sin que sea de aplicación lo dispuesto en el artículo 92 bis de la presente Ley.
 
@@ -830,9 +907,13 @@ Treinta y cinco. Se modifica el apartado 3 y se incluye un nuevo apartado 4 a la
 
 «3. Dichas asociaciones, en el ámbito propio de sus funciones, podrán celebrar convenios con las distintas Administraciones Públicas. Asimismo, de conformidad con lo establecido en el artículo 12.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, podrán actuar como entidades colaboradoras de la Administración en la gestión de las subvenciones de la que puedan ser beneficiarias las Entidades Locales y sus organismos dependientes.
 
-Las asociaciones de Entidades Locales podrán adherirse al sistema de contratación centralizada estatal regulado en el artículo 206 del Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, en los mismos términos que las Entidades Locales.
+Las asociaciones de Entidades Locales podrán adherirse al sistema de contratación centralizada estatal regulado en el artículo 206 l.
 
-Conforme a lo previsto en el artículo 203 del Texto Refundido de la Ley de Contratos del Sector Público, estas asociaciones podrán crear centrales de contratación. Las Entidades Locales a ellas asociadas, podrán adherirse a dichas centrales para aquéllos servicios, suministros y obras cuya contratación se haya efectuado por aquéllas, de acuerdo con las normas previstas en ese Texto Refundido, para la preparación y adjudicación de los contratos de las Administraciones Públicas.
+Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, en los mismos términos que las Entidades Locales.
+
+Conforme a lo previsto en el artículo 203 l.
+
+Texto Refundido de la Ley de Contratos del Sector Público, estas asociaciones podrán crear centrales de contratación. Las Entidades Locales a ellas asociadas, podrán adherirse a dichas centrales para aquéllos servicios, suministros y obras cuya contratación se haya efectuado por aquéllas, de acuerdo con las normas previstas en ese Texto Refundido, para la preparación y adjudicación de los contratos de las Administraciones Públicas.
 
 4. Las asociaciones de Entidades Locales de ámbito estatal con mayor implantación en todo el territorio ostentarán la representación institucional de la Administración local en sus relaciones con la Administración General del Estado.»
 
@@ -920,7 +1001,11 @@ d) La entrada de la Corporación Local en los mecanismos extraordinarios de fina
 
 El Texto Refundido de la Ley reguladora de las Haciendas Locales, aprobado mediante Real Decreto Legislativo 2/2004, de 5 de marzo, queda modificado como sigue:
 
-Uno. Se incluye un nuevo artículo 193 bis con la siguiente redacción:
+Uno. Se incluye un nuevo
+
+#### Artículo 193 bis. con.
+
+la siguiente redacción:
 
 «Artículo 193 bis. Derechos de difícil o imposible recaudación.
 
@@ -934,7 +1019,9 @@ c) Los derechos pendientes de cobro liquidados dentro de los presupuestos de los
 
 d) Los derechos pendientes de cobro liquidados dentro de los presupuestos de los restantes ejercicios anteriores al que corresponde la liquidación, se minorarán en un 100 por ciento.»
 
-Dos. Se modifica el artículo 213 que queda redactado como sigue:
+Dos. Se modifica el artículo 213 que.
+
+queda redactado como sigue:
 
 «Artículo 213. Control interno.
 
@@ -944,7 +1031,9 @@ A propuesta del Ministerio de Hacienda y Administraciones Públicas, el Gobierno
 
 Los órganos interventores de las Entidades Locales remitirán con carácter anual a la Intervención General de la Administración del Estado un informe resumen de los resultados de los citados controles desarrollados en cada ejercicio, en el plazo y con el contenido que se regulen en las normas indicadas en el párrafo anterior.»
 
-Tres. El artículo 218 queda redactado como sigue:
+Tres. El artículo 218 queda.
+
+redactado como sigue:
 
 «Artículo 218. Informes sobre resolución de discrepancias.
 
@@ -966,15 +1055,21 @@ Cuatro. Se modifica la disposición adicional octava que queda redactada como si
 
 Las instituciones vascas podrán, en sus respectivos ámbitos competenciales, atribuir competencias como propias a los municipios de sus respectivos territorios, con sujeción, en todo caso, a los criterios señalados en los apartados 3, 4 y 5 del artículo 25 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
-2. De conformidad con la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y de la cláusula subrogatoria prevista en el artículo 48 quinto de la Ley del Concierto Económico con el País Vasco, los Territorios Históricos recibirán los informes a que se refieren los artículos 193 bis y 218 de la presente Ley. Asimismo, los órganos interventores de las administraciones locales del País Vasco remitirán también al Tribunal Vasco de Cuentas Públicas, sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, los informes a que se refiere el artículo 218 de la presente Ley.
+2. De conformidad con la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, y de la cláusula subrogatoria prevista en el artículo 48 quinto.
 
-3. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, y de la cláusula subrogatoria prevista en el artículo 48 quinto de la Ley del Concierto Económico con el País Vasco, las Diputaciones Forales en sus respectivos ámbitos territoriales serán las competentes para formalizar convenios con las Entidades Locales para reforzar la autonomía y eficacia de los órganos responsables del control y fiscalización interna de la gestión económico-financiera, contable y presupuestaria de las citadas Entidades Locales.»
+de la Ley del Concierto Económico con el País Vasco, los Territorios Históricos recibirán los informes a que se refieren los artículos 193 bis y 218 de la presente Ley. Asimismo, los órganos interventores de las administraciones locales del País Vasco remitirán también al Tribunal Vasco de Cuentas Públicas, sin perjuicio de las competencias atribuidas al Tribunal de Cuentas, los informes a que se refiere el artículo 218 de la presente Ley.
+
+3. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, y de la cláusula subrogatoria prevista en el artículo 48 quinto.
+
+de la Ley del Concierto Económico con el País Vasco, las Diputaciones Forales en sus respectivos ámbitos territoriales serán las competentes para formalizar convenios con las Entidades Locales para reforzar la autonomía y eficacia de los órganos responsables del control y fiscalización interna de la gestión económico-financiera, contable y presupuestaria de las citadas Entidades Locales.»
 
 Cinco. Se añade una nueva disposición adicional decimoquinta con el siguiente contenido:
 
 «Disposición adicional decimoquinta. Gestión integrada o coordinada de servicios.
 
-Cuando la Diputación o entidad equivalente acredite en un informe que el acuerdo de dos o más municipios para la gestión integrada de todos los servicios municipales que sean coincidentes conlleva un ahorro de al menos el 10% respecto el coste efectivo total en el que incurría cada municipio por separado, el coeficiente de ponderación que resulte de aplicación a cada municipio de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, se incrementará en 0,04. De la aplicación de esta regla no se podrá derivar, para cada ejercicio, un importe total superior al que resulte de lo dispuesto en el artículo 123 del texto refundido de la Ley Reguladora de las Haciendas Locales.»
+Cuando la Diputación o entidad equivalente acredite en un informe que el acuerdo de dos o más municipios para la gestión integrada de todos los servicios municipales que sean coincidentes conlleva un ahorro de al menos el 10% respecto el coste efectivo total en el que incurría cada municipio por separado, el coeficiente de ponderación que resulte de aplicación a cada municipio de acuerdo con el artículo 124.1 del texto refundido de la Ley Reguladora de las Haciendas Locales, se incrementará en 0,04. De la aplicación de esta regla no se podrá derivar, para cada ejercicio, un importe total superior al que resulte de lo dispuesto en el artículo 123 l.
+
+texto refundido de la Ley Reguladora de las Haciendas Locales.»
 
 #### Disposición adicional primera. Régimen aplicable a la Comunidad Autónoma del País Vasco.
 
@@ -988,7 +1083,7 @@ Cuando la Diputación o entidad equivalente acredite en un informe que el acuerd
 
 2. La Comunidad Foral de Navarra, podrá, en su ámbito competencial, atribuir competencias como propias a los municipios de su territorio así como del resto de las Entidades Locales de Navarra, con sujeción en todo caso, a los criterios señalados en los apartados 3, 4 y 5 del artículo 25 de la Ley reguladora de las Bases de Régimen Local.
 
-3. Las funciones que los artículos 7.4 y 26.2 de esta Ley atribuyen a la Administración que ejerce la tutela financiera, corresponderán a la Comunidad Foral de Navarra, de conformidad con lo previsto en la disposición adicional séptima del Convenio Económico entre el Estado y la Comunidad Foral de Navarra, aprobado por la Ley 25/2003, de 15 de julio.
+3. Las funciones que los artículos 7.4 y 26.2 de esta Ley atribuyen a la Administración que ejerce la tutela financiera, corresponderán a la Comunidad Foral de Navarra, de conformidad con lo previsto en la disposición adicional séptima del Convenio Económico entre el Estado y la Comunidad Foral de Navarra, aprobado por la Ley 25/2003, de 15 de julio.
 
 4. De conformidad con la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y con la disposición adicional séptima de la Ley 25/2003, de 15 de julio, la Comunidad Foral de Navarra recibirá también los informes emitidos, en cumplimiento de la normativa básica, por los órganos interventores de las Entidades Locales de Navarra, para su remisión inmediata al Ministerio de Hacienda y de Administraciones Públicas. Asimismo, los órganos interventores de las Entidades Locales de Navarra, remitirán también dicha información a la Cámara de Comptos, sin perjuicio de las competencias atribuidas al Tribunal de Cuentas.
 
@@ -1006,7 +1101,7 @@ Cuando la Diputación o entidad equivalente acredite en un informe que el acuerd
 
 #### Disposición adicional cuarta. Especialidades de las Ciudades de Ceuta y Melilla.
 
-1. La organización y funcionamiento de las instituciones de Gobierno de las Ciudades de Ceuta y Melilla se regularán de acuerdo con lo previsto en la Ley Orgánica 1/1995, de 13 de marzo, de Estatuto de Autonomía de Ceuta, la Ley Orgánica 2/1995, de 13 de marzo, de Estatuto de Autonomía de Melilla y por las normas de desarrollo dictadas en virtud de la potestad reglamentaria de sus respectivas Asambleas, no rigiéndose, en el citado ámbito, por lo dispuesto en la normativa de régimen local.
+1. La organización y funcionamiento de las instituciones de Gobierno de las Ciudades de Ceuta y Melilla se regularán de acuerdo con lo previsto en la Ley Orgánica 1/1995, de 13 de marzo, de Estatuto de Autonomía de Ceuta, la Ley Orgánica 2/1995, de 13 de marzo, de Estatuto de Autonomía de Melilla y por las normas de desarrollo dictadas en virtud de la potestad reglamentaria de sus respectivas Asambleas, no rigiéndose, en el citado ámbito, por lo dispuesto en la normativa de régimen local.
 
 2. Corresponde a las Ciudades de Ceuta y Melilla, en el marco de las Leyes Orgánicas 1/1995 y 2/1995, de 13 de marzo, y de las normas reglamentarias dictadas en su desarrollo, determinar la forma de gestión de los servicios públicos con respeto a los principios de estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, responsabilidad, lealtad institucional y eficacia en el uso de los recursos públicos, de acuerdo a lo establecido en la presente Ley y demás normativa estatal que resulte de aplicación a las Ciudades con Estatuto de Autonomía.
 
@@ -1044,13 +1139,13 @@ En el supuesto de incumplimiento de lo dispuesto en el artículo 81.1.d) del tex
 
 2. La adaptación a las previsiones de esta Ley de los instrumentos de cooperación suscritos por las Entidades Locales para el funcionamiento de Centros Asociados de la Universidad Nacional de Educación a Distancia deberá realizarse en el plazo de tres años desde su entrada en vigor. Durante el plazo de adaptación de los instrumentos de cooperación, la financiación de las Administraciones locales a los centros asociados no se extenderá a los servicios académicos que se presten a los alumnos matriculados con posterioridad a la entrada en vigor de esta Ley.
 
-#### Disposición adicional décima. Convenios de colaboración entre el Estado y las Entidades Locales.
+#### Disposición adicional décima. Convenios de colaboración entre el Estado y las Entidades Locales.
 
-Los convenios de colaboración que el Estado celebre con las Entidades Locales para la obtención y mantenimiento de la información que debe suministrarles para la aplicación de los tributos locales se regularán por lo dispuesto en su normativa específica. Dichos convenios, que podrán celebrarse en régimen de encomienda de gestión, de delegación de competencias o mixto, no comportarán la transferencia de medios materiales ni personales, ni contraprestación económica de ningún tipo entre las partes por cuanto permiten mejorar la recaudación tributaria de las Entidades Locales que los suscriben.
+Los convenios de colaboración que el Estado celebre con las Entidades Locales para la obtención y mantenimiento de la información que debe suministrarles para la aplicación de los tributos locales se regularán por lo dispuesto en su normativa específica. Dichos convenios, que podrán celebrarse en régimen de encomienda de gestión, de delegación de competencias o mixto, no comportarán la transferencia de medios materiales ni personales, ni contraprestación económica de ningún tipo entre las partes por cuanto permiten mejorar la recaudación tributaria de las Entidades Locales que los suscriben.
 
-#### Disposición adicional undécima. Compensación de deudas entre Administraciones por asunción de servicios y competencias.
+#### Disposición adicional undécima. Compensación de deudas entre Administraciones por asunción de servicios y competencias.
 
-Realizada la asunción de los servicios y competencias a la que se refieren las disposiciones transitorias primera y segunda, en sus respectivos apartados segundos, las Comunidades Autónomas, con referencia a cada Municipio de su ámbito territorial, la comunicarán al Ministerio de Hacienda y Administraciones Públicas, junto con el importe de las obligaciones que tuvieren reconocidas pendientes de pago a los citados Municipios, al objeto de la realización, en los términos que se determinen reglamentariamente, de compensaciones entre los derechos y las obligaciones recíprocos, y el posterior ingreso del saldo resultante a favor de la Administración Pública a la que corresponda, y, en su caso, recuperación mediante la aplicación de retenciones en el sistema de financiación de la Administración Pública que resulte deudora.
+Realizada la asunción de los servicios y competencias a la que se refieren las disposiciones transitorias primera y segunda, en sus respectivos apartados segundos, las Comunidades Autónomas, con referencia a cada Municipio de su ámbito territorial, la comunicarán al Ministerio de Hacienda y Administraciones Públicas, junto con el importe de las obligaciones que tuvieren reconocidas pendientes de pago a los citados Municipios, al objeto de la realización, en los términos que se determinen reglamentariamente, de compensaciones entre los derechos y las obligaciones recíprocos, y el posterior ingreso del saldo resultante a favor de la Administración Pública a la que corresponda, y, en su caso, recuperación mediante la aplicación de retenciones en el sistema de financiación de la Administración Pública que resulte deudora.
 
 #### Disposición adicional duodécima. Información en materia de tutela financiera.
 
@@ -1070,13 +1165,13 @@ Lo previsto en la disposición adicional vigésima de la Ley 30/1992, de 26 de n
 
 Las normas reguladoras del sistema de financiación de las Comunidades Autónomas y de las haciendas locales fijarán los términos en los que las Comunidades Autónomas asumirán la titularidad de las competencias que se prevén como propias del Municipio, aún cuando hayan sido ejercidas por éstas, por Diputaciones Provinciales o entidades equivalentes, o por cualquier otra Entidad Local, relativas a participar en la vigilancia del cumplimiento de la escolaridad obligatoria y cooperar con las Administraciones educativas correspondientes en la obtención de los solares necesarios para la construcción de nuevos centros docentes, así como la conservación, mantenimiento y vigilancia de los edificios de titularidad local destinados a centros públicos de educación infantil, de educación primaria o de educación especial, para lo que se contemplará el correspondiente traspaso de medios económicos, materiales y personales.
 
-#### Disposición adicional decimosexta. Cabildos y Consejos Insulares.
+Disposición adicional decimosexta.... Cabildos y Consejos Insulares.
 
 1. La aplicación de esta Ley a los Cabildos Insulares Canarios se realizará en los términos previstos en su legislación específica y con estricta sujeción a los principios de estabilidad presupuestaria y sostenibilidad financiera.
 
 2. La aplicación de esta Ley a los Consejos Insulares de las Illes Balears se realizará en los términos previstos en su legislación específica y con estricta sujeción a los principios de estabilidad presupuestaria y sostenibilidad financiera.
 
-#### Disposición adicional decimoséptima. Apertura de lugares de culto.
+Disposición adicional decimoséptima.... Apertura de lugares de culto.
 
 Para la apertura de lugares de culto las iglesias, confesiones o comunidades religiosas deberán acreditar su personalidad jurídica civil mediante certificado del Registro de Entidades Religiosas, emitido al efecto, en el que constará la ubicación del lugar de culto que se pretenda constituir. Obtenida esa certificación, su tramitación se ajustará a lo dispuesto en el artículo 84.1.c) de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local, sin perjuicio de recabar la licencia urbanística que corresponda.
 
@@ -1156,7 +1251,7 @@ Lo previsto en el apartado tercero del artículo 130 de la [Ley 7/1985](./L7_198
 
 #### Disposición transitoria décima. Aplicación de las limitaciones referidas al número de personal eventual y cargos públicos con dedicación exclusiva.
 
-1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015.
+1. A las Entidades Locales que cumplan con los objetivos de estabilidad presupuestaria y deuda pública, y además su período medio de pago a los proveedores no supere en más de 30 días el plazo máximo previsto de la normativa de morosidad, no les aplicará, con carácter excepcional, los límites previstos en los artículos 75 bis y ter y 104 bis de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local hasta el 30 de junio de 2015.
 
 2. El cumplimiento de los requisitos previstos en el apartado anterior, será verificado por la Secretaría General de Coordinación Autonómica y Local del Ministerio de Hacienda y Administraciones Públicas, que, en virtud de la información comunicada por las Entidades Locales al mencionado Ministerio, publicará una lista de las Entidades Locales que cumplen los requisitos previstos en el apartado anterior.
 
@@ -1176,13 +1271,15 @@ a) Que el personal que estuviera al servicio de la mancomunidad disuelta quedar�
 
 b) Las Entidades Locales que formaran parte de la mancomunidad disuelta quedan subrogadas en todos sus derechos y obligaciones.
 
-#### Disposición derogatoria. Derogación normativa.
+Disposición derogatoria .... Derogación normativa.
 
 A la entrada en vigor de esta Ley quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a o contradigan lo en ella establecido. En particular, quedan derogadas la disposición adicional segunda y la disposición transitoria séptima de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
 
 #### Disposición final primera. Modificación del Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local.
 
-Se modifica el apartado segundo del artículo 97 del texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local, aprobado por el Real Decreto Legislativo 781/1986, de 18 de abril, que queda redactado en los siguientes términos:
+Se modifica el apartado segundo del artículo 97 l.
+
+texto refundido de las Disposiciones Legales vigentes en materia de Régimen Local, aprobado por el Real Decreto Legislativo 781/1986, de 18 de abril, que queda redactado en los siguientes términos:
 
 «2. Para la ejecución efectiva en régimen de monopolio de las actividades reservadas de acuerdo con lo dispuesto en el artículo 86.2 de la [Ley 7/1985](./L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, Reguladora de las Bases de Régimen Local, se requerirá el cumplimiento de los trámites previstos en el número anterior referidos a la conveniencia del régimen de monopolio y se recabará informe de la autoridad de competencia correspondiente, si bien el acuerdo a que se refiere su apartado d) deberá ser optado por mayoría absoluta del número legal de miembros de la Corporación.
 
@@ -1226,7 +1323,7 @@ h) Tenga mayor número de habitantes o extensión territorial dependiendo de si 
 
 Se modifica el apartado 1 del artículo 36 de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, en los siguientes términos:
 
-«1. En el supuesto de que las Entidades Locales incumplan la obligación de remitir al Ministerio de Hacienda y Administraciones Públicas toda la información relativa a la liquidación de sus respectivos presupuestos de cada ejercicio, de acuerdo con lo establecido en el artículo 193.5 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, la Secretaría General de Coordinación Autonómica y Local, procederá a retener a partir del mes de junio del ejercicio siguiente al que corresponda aquella liquidación, y hasta que se produzca la regularización de la citada remisión, así como la de las liquidaciones de los ejercicios a los que resulta de aplicación la presente norma, el importe de las entregas a cuenta y, en su caso, anticipos y liquidaciones definitivas de la participación en los tributos del Estado que les corresponda.
+«1. En el supuesto de que las Entidades Locales incumplan la obligación de remitir al Ministerio de Hacienda y Administraciones Públicas toda la información relativa a la liquidación de sus respectivos presupuestos de cada ejercicio, de acuerdo con lo establecido en el artículo 193.5 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, la Secretaría General de Coordinación Autonómica y Local, procederá a retener a partir del mes de junio del ejercicio siguiente al que corresponda aquella liquidación, y hasta que se produzca la regularización de la citada remisión, así como la de las liquidaciones de los ejercicios a los que resulta de aplicación la presente norma, el importe de las entregas a cuenta y, en su caso, anticipos y liquidaciones definitivas de la participación en los tributos del Estado que les corresponda.
 
 Asimismo, en el supuesto de que las Entidades Locales incumplan la obligación de remitir al Tribunal de Cuentas la información a la que se refiere el artículo 212.5 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo, se podrá retener el importe de las entregas a cuenta y, en su caso, anticipos y liquidaciones definitivas de la participación en los tributos del Estado que les corresponda, y hasta que se considere cumplida tal obligación de remisión. Para que la anterior retención, o suspensión de la misma, se pueda practicar será necesaria una comunicación del Tribunal de Cuentas a la Secretaría General de Coordinación Autonómica y Local.
 
@@ -1234,7 +1331,9 @@ A estos efectos, será objeto de retención la cuantía resultante, una vez prac
 
 #### Disposición final cuarta. Modificación del Real Decreto Legislativo 2/2008, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley de Suelo.
 
-Se incorpora un nuevo apartado 5 al artículo 39 con la siguiente redacción:
+Se incorpora un nuevo apartado 5 al artículo 39 con.
+
+la siguiente redacción:
 
 «5. Excepcionalmente, los municipios que dispongan de un patrimonio público del suelo, podrán destinarlo a reducir la deuda comercial y financiera del Ayuntamiento, siempre que se cumplan todos los requisitos siguientes:
 
@@ -1254,7 +1353,7 @@ Asimismo, los presupuestos de los ejercicios siguientes al de adopción del Acue
 
 #### Disposición final quinta. Título competencial.
 
-Esta Ley se dicta al amparo de los títulos competenciales recogidos en los apartados 14 y 18 del artículo 149.1 de la Constitución.
+Esta Ley se dicta al amparo de los títulos competenciales recogidos en los apartados 14 y 18 del artículo 149.1 de la Constitución.
 
 #### Disposición final sexta. Entrada en vigor.
 
@@ -1270,16 +1369,16 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
 - **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)

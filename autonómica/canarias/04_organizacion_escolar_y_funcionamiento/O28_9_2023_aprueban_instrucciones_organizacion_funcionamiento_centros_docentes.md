@@ -1,9 +1,7 @@
 ---
 id: norm-can-o-2023-09-28
 codigo_sintetizado: O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros
-titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones
-  de organización y funcionamiento de los centros docentes públicos no universitarios
-  de la Comunidad Autónoma de Canarias.
+titulo: Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Ordenación, Inclusión e Innovación
@@ -21,61 +19,56 @@ clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de organización y funcionamiento
 tags:
-- admision-alumnado
-- instrucciones-de-organizacion-y-funcionamiento
-- instrucciones-inicio-curso
-- oposiciones
-- organizacion-centros
-- personal-no-docente
-- profesorado
+  - admision-alumnado
+  - instrucciones-de-organizacion-y-funcionamiento
+  - instrucciones-inicio-curso
+  - oposiciones
+  - organizacion-centros
+  - personal-no-docente
+  - profesorado
 relaciones:
   desarrolla:
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-l-19-2013
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-es-rdl-5-2015
-  - norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-can-l-6-2014
   fundamento_de:
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-055
+    - norma_id: norm-can-res-boc-2026-116-87
   modifica:
-  - norma_id: norm-can-o-2013-10-09
-fundamentos_derecho:
-- norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-o-2013-10-09
+  fundamentos_derecho:
+    - norma_id: norm-can-d-81-2010
   articulos:
-  - '1'
-- norma_id: norm-es-lo-2-2006
+    - '1'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '120'
-- norma_id: norm-can-res-boc-2019-069-48
-- norma_id: norm-es-l-19-2013
-- norma_id: norm-es-l-39-2015
-- norma_id: norm-es-l-40-2015
-- norma_id: norm-es-rdl-5-2015
-- norma_id: norm-es-lo-3-2018
-- norma_id: norm-es-2007-6115
-- norma_id: norm-es-2010-4518
-- norma_id: norm-es-lo-1-2004
-- norma_id: norm-es-rdl-2-2015
+    - '120'
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-es-l-19-2013
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-rdl-2-2015
 ---
-
-## Preámbulo
-
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
-
-Comunidad Autónoma de Canarias
+## Preámbulo
 
 Archivo
 
@@ -91,15 +84,11 @@ Año 2023
 
 2023/198.
 
-Viernes 6 de octubre de 2023
-
 Siguiente
 
 Viernes 6 de octubre de 2023 - 3254
 
 ATENCION. La versión HTML de este documento no es oficial. Para obtener una versión oficial, debe descargar el archivo en formato PDF.
-
-II. Autoridades y personal
 
 - Oposiciones y concursos
 
@@ -127,7 +116,9 @@ ACUERDO DE LA MESA DEL PARLAMENTO DE CANARIAS DE 21 DE SEPTIEMBRE DE 2023, SOBRE
 
 Las Normas de Gobierno Interior del Parlamento de Canarias (en adelante, NGI), en la disposición adicional segunda, sobre el régimen de supletoriedad, señala que en todo lo no previsto por las mismas se aplicará supletoriamente la normativa vigente sobre el régimen funcionarial de la Administración de la Comunidad Autónoma de Canarias y, en su caso, la legislación estatal, en cuanto no resultare incompatible con la actividad parlamentaria.
 
-Dichas Normas, en el artículo 37.3, establece que: el personal laboral al servicio del Parlamento de Canarias se rige, además de por las presentes normas en lo que les sea de aplicación, por el convenio colectivo que apruebe la Cámara para dicho personal, así como por la legislación laboral y demás disposiciones vigentes que les resulten aplicables. Asimismo, en el artículo 80 regula la valoración de los méritos que se han de tener en cuenta en los concursos de méritos.
+Dichas Normas, en el artículo 37.3, establece que: el personal laboral al servicio del Parlamento de Canarias se rige, además de por las presentes normas en lo que les sea de aplicación, por el convenio colectivo que apruebe la Cámara para dicho personal, así como por la legislación laboral y demás disposiciones vigentes que les resulten aplicables. Asimismo, en el artículo 80 regula.
+
+la valoración de los méritos que se han de tener en cuenta en los concursos de méritos.
 
 El I Convenio Colectivo del Personal Laboral del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009, en adelante, Convenio Colectivo), regula, en el artículo 4, en relación con el régimen de supletoriedad, lo siguiente: las normas contenidas en el presente Convenio regularán las relaciones entre el Parlamento de Canarias y su personal laboral, con carácter preferente y prioritario a otras disposiciones de carácter general. Con carácter supletorio, para lo no previsto en el presente Convenio, se estará, por este orden, a lo dispuesto en el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, que en ningún caso podrá ir en contra de lo establecido en el presente Convenio Colectivo.
 
@@ -149,11 +140,15 @@ Por Acuerdo de la Mesa del Parlamento de Canarias, de 20 de mayo de 2022, se apr
 
 En relación con la ejecución, el punto 7.1 de la referida Oferta de Empleo Público, respecto a las plazas del personal laboral, señala que las convocatorias de los procesos selectivos que emanan de la oferta de empleo público ordinaria se producirán dentro de los ejercicios 2023-2024, y su resolución finalizará en el plazo improrrogable de tres años desde la convocatoria.
 
-En los artículos 16 y siguientes del Convenio Colectivo se regulan las bases de la convocatoria pública. En concreto, en el artículo 17 dispone, respecto a la convocatoria pública para el personal de nuevo ingreso, que: la selección del personal laboral fijo, previa a su contratación, se realizará, preferentemente, por el sistema de concurso-oposición u oposición libre, según el nivel de conocimientos específicos que requiera el puesto de trabajo, de acuerdo con los principios constitucionales de igualdad, mérito y capacidad y con lo previsto en el presente Convenio y en el resto del ordenamiento jurídico.
+En los artículos 16 y siguientes del Convenio Colectivo se regulan las bases de la convocatoria pública. En concreto, en el artículo 17 dispone,.
+
+respecto a la convocatoria pública para el personal de nuevo ingreso, que: la selección del personal laboral fijo, previa a su contratación, se realizará, preferentemente, por el sistema de concurso-oposición u oposición libre, según el nivel de conocimientos específicos que requiera el puesto de trabajo, de acuerdo con los principios constitucionales de igualdad, mérito y capacidad y con lo previsto en el presente Convenio y en el resto del ordenamiento jurídico.
 
 Por Acuerdo de la Mesa de 8 de septiembre de 2023 se aprobó el anteproyecto de las bases de la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre. Asimismo, las mencionadas bases fueron informadas por el representante de personal laboral y ha sido objeto de negociación en la Mesa de Negociación de Personal Laboral celebrada el 18 de septiembre de 2023.
 
-En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 del I Convenio Colectivo, con el parecer favorable del letrado-secretario general, la Mesa acuerda:
+En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 l.
+
+I Convenio Colectivo, con el parecer favorable del letrado-secretario general, la Mesa acuerda:
 
 1.- Aprobar la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre, en los términos que figuran en el anexo a este Acuerdo.
 
@@ -161,7 +156,7 @@ En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en 
 
 En la Sede del Parlamento de Canarias, a 21 de septiembre de 2023.- El Secretario Primero, Mario Cabrera González.-V.º B.º La Presidenta, Astrid María Pérez Batista.
 
-ANEXO
+## Anexo
 
 ACUERDO DE LA MESA DEL PARLAMENTO DE CANARIAS, DE 21 DE SEPTIEMBRE DE 2023, POR EL QUE SE APRUEBA LA CONVOCATORIA DE PRUEBAS SELECTIVAS PARA LA PROVISIÓN, EN RÉGIMEN DE CONTRATACIÓN LABORAL FIJA, DE UNA PLAZA CON LA CATEGORÍA DE JEFE/A DE DESARROLLO (GRUPO I) DEL PARLAMENTO DE CANARIAS, POR EL SISTEMA DE CONCURSO-OPOSICIÓN, TURNO DE ACCESO LIBRE.
 
@@ -169,7 +164,7 @@ En ejecución de lo dispuesto en la Oferta de Empleo Público ordinaria y de est
 
 BASES
 
-Primera.- Objeto de la convocatoria, régimen jurídico y publicación.
+#### Primera. Objeto de la convocatoria, régimen jurídico y publicación.
 
 1.- Es objeto de la presente convocatoria la selección por el sistema de concurso-oposición, turno de acceso libre, para cubrir una plaza con la categoría de Jefe/a de Desarrollo, Grupo I, vacante en la Plantilla Orgánica y Relación de Puestos de Trabajo del Parlamento de Canarias, para su contratación como personal laboral fijo, con las siguientes características y funciones: organización, coordinación y control del trabajo del Área de Desarrollo. Colaboración en la realización de las propuestas de Planes Informáticos. Estudio de los proyectos que se vayan a realizar, elección de herramientas que se vayan a utilizar. Control estratégico de cada proyecto, de la calidad de las aplicaciones y de su puesta en marcha. Definición de los requisitos de integridad de los datos y de confidencialidad de la información contenida en las aplicaciones. Seguimiento del mantenimiento de las aplicaciones del servicio, con adopción de las medidas necesarias para su optimización, evaluando las modificaciones solicitadas y asignando los recursos de personal necesario para su realización. Diseño de la documentación de las aplicaciones terminadas y de los programas de formación de usuarios correspondientes. Elaboración de estudios para la implantación de nuevas técnicas. Cualquier otra análoga que se le encomiende.
 
@@ -179,7 +174,7 @@ Primera.- Objeto de la convocatoria, régimen jurídico y publicación.
 
 La publicación del acuerdo en el Boletín Oficial de Canarias será determinante de los plazos a efectos de posibles impugnaciones o recursos.
 
-Segunda.- Requisitos de las personas aspirantes.
+#### Segunda. Requisitos de las personas aspirantes.
 
 1.- Para participar en el concurso-oposición será necesario reunir los siguientes requisitos:
 
@@ -187,7 +182,7 @@ a) Poseer la nacionalidad española, sin perjuicio de lo establecido en el artí
 
 b) Ser mayor de edad y no haber alcanzado, en su caso, la edad de jubilación forzosa.
 
-c) Estar en posesión de la titulación de Grado en Ingeniería Informática. Licenciatura en Informática o Ingeniería Informática.
+c) **Estar en posesión de la titulación de Grado en Ingeniería Informática.** Licenciatura en Informática o Ingeniería Informática.
 
 En el caso de titulaciones obtenidas en el extranjero deberán estar en posesión de la correspondiente credencial que acredite su homologación o, en su caso, del correspondiente certificado de equivalencias.
 
@@ -225,7 +220,7 @@ presentación de solicitudes o de subsanación previsto en la base cuarta de la 
 
 Si no aporta la documentación requerida para la adaptación de las pruebas selectivas, se entenderá que la persona aspirante ha desistido de su solicitud de adaptación, pudiendo, en todo caso, participar en las pruebas selectivas si reúne los requisitos exigidos.
 
-Tercera.- Solicitudes de participación en las pruebas selectivas.
+#### Tercera. Solicitudes de participación en las pruebas selectivas.
 
 1.- En virtud de lo dispuesto en el artículo 66.6 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las solicitudes para participar en el presente proceso selectivo se cumplimentaran y presentarán exclusivamente por vía electrónica a través del formulario oficial al que se accederá a través de la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
 
@@ -241,9 +236,11 @@ Junto con la solicitud para participar en el proceso selectivo se acompañará, 
 
 4.- El importe a abonar en concepto de derechos de examen a satisfacer para participar en la presente convocatoria es de setenta y cinco euros con cinco céntimos (75,05 euros), de acuerdo con lo dispuesto en la Resolución de la Viceconsejería de Hacienda, Planificación y Asuntos Europeos, de 3 de enero de 2023, por la que se informa sobre las cuantías fijas de las tasas de la Comunidad Autónoma de Canarias para el año 2023 (BOC n.º 7, de 11.1.2023).
 
-Tal cantidad deberá abonarse mediante ingreso o transferencia a la cuenta del Parlamento de Canarias en la entidad bancaria “CaixaBank, S.A.”: ES 75 2100 9169 0522 0005 8864, haciendo constar como observación la indicación “DNI, nombre y apellidos, Jefe/a de Desarrollo (I)”.
+Tal cantidad deberá abonarse mediante ingreso o transferencia a la cuenta del Parlamento de Canarias en la entidad bancaria "CaixaBank, S.A.": ES 75 2100 9169 0522 0005 8864, haciendo constar como observación la indicación "DNI, nombre y apellidos, Jefe/a de Desarrollo (I)".
 
-Conforme a lo previsto en el artículo 33 del texto refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias, aprobado por Decreto Legislativo 1/1994, de 29 de julio, en la redacción operada, con vigencia indefinida y con efectos desde el 1 de enero de 2019, por el apartado uno de la disposición final sexta de la Ley 7/2018, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2019, las personas aspirantes tendrán derecho a aplicar alguna de las siguientes exenciones o bonificaciones sobre el pago de derechos de examen, aportando al efecto, junto a la solicitud, en el momento de su presentación, alguno de los documentos acreditativos a continuación relacionados:
+Conforme a lo previsto en el artículo 33 l.
+
+texto refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias, aprobado por Decreto Legislativo 1/1994, de 29 de julio, en la redacción operada, con vigencia indefinida y con efectos desde el 1 de enero de 2019, por el apartado uno de la disposición final sexta de la Ley 7/2018, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2019, las personas aspirantes tendrán derecho a aplicar alguna de las siguientes exenciones o bonificaciones sobre el pago de derechos de examen, aportando al efecto, junto a la solicitud, en el momento de su presentación, alguno de los documentos acreditativos a continuación relacionados:
 
 Ver anexo en las páginas 52546-52547 del documento
 
@@ -271,7 +268,7 @@ Los errores materiales, de hecho o aritméticos que se adviertan en las solitude
 
 7.- Los datos personales recogidos en la solicitud de admisión serán tratados con la única finalidad de la gestión de las pruebas selectivas y las comunicaciones necesarias para ello. El nombre, apellidos y número del documento nacional de identidad se publicarán en la forma que determina la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
-Cuarta.- Admisión de las personas aspirantes.
+#### Cuarta. Admisión de las personas aspirantes.
 
 1.- Expirado el plazo de presentación de solicitudes, y a la vista de las presentadas, la Mesa del Parlamento adoptará acuerdo declarando aprobada la relación provisional de las personas aspirantes admitidas y excluidas, con expresión de los motivos de exclusión en cada caso.
 
@@ -283,7 +280,7 @@ Quienes dentro del plazo de subsanación de defectos no lo hicieran, serán excl
 
 Comenzado el proceso selectivo no será obligatoria la publicación de los sucesivos anuncios de la celebración de las restantes pruebas en el BOPC. Los anuncios de estas pruebas, así como la de otros anuncios que deba realizar el órgano de selección, se harán públicos en la página web del Parlamento, portal de transparencia.
 
-Quinta.- Tribunal calificador.
+#### Quinta. Tribunal calificador.
 
 1.- El tribunal calificador se compondrá de cinco personas y sus suplentes y estará integrado por una presidenta o presidente, una secretaria o secretario y, al menos, tres vocales.
 
@@ -315,13 +312,13 @@ Asimismo, podrá disponer de personal colaborador, que será designado por el le
 
 9.- El Tribunal Calificador queda facultado para resolver las dudas que se presenten en todo lo no previsto en estas bases.
 
-Sexta.- Sistema selectivo.
+#### Sexta. Sistema selectivo.
 
 La selección se realizará por el sistema de concurso-oposición. La puntuación obtenida será la que determine el orden final de las personas aspirantes, quedando seleccionadas de entre las mismas, por dicho orden y como máximo, un número de aspirantes igual al de las plazas convocadas.
 
 La puntuación máxima de este proceso selectivo será de 40 puntos.
 
-Séptima.- Fase de oposición.
+#### Séptima. Fase de oposición.
 
 La puntuación máxima de esta fase será de 30 puntos.
 
@@ -365,7 +362,7 @@ El tiempo máximo para la realización de la prueba será de 4 horas.
 
 Este ejercicio tendrá carácter eliminatorio.
 
-Octava.- Calificación de la fase de oposición.
+#### Octava. Calificación de la fase de oposición.
 
 Los ejercicios de la fase de oposición se calificarán de la siguiente forma:
 
@@ -399,7 +396,7 @@ La calificación final obtenida en este ejercicio será la media aritmética de 
 
 La puntuación máxima de este ejercicio será de 12 puntos, siendo necesario obtener un mínimo de 6 puntos para superarlo.
 
-Novena.- Fase de concurso.
+#### Novena. Fase de concurso.
 
 El máximo de puntuación en esta fase será de 10 puntos.
 
@@ -425,7 +422,7 @@ Por este concepto podrá alcanzarse un máximo de 3 puntos.
 
 Los cursos en materia de prevención de riesgos laborales impartidos por los servicios de prevención legalmente reconocidos serán valorados sin que la puntuación que pueda concederse por ellos sea superior a 0,10 puntos, con arreglo a la tabla que figura en este apartado.
 
-Se entiende por cursos relacionados “directamente” con la plaza convocada los recibidos o impartidos en las materias específicas de las funciones propias de la plaza objeto de la convocatoria. Se incluyen entre estos los recibidos o impartidos en materia de igualdad entre mujeres y hombres y de género.
+Se entiende por cursos relacionados "directamente" con la plaza convocada los recibidos o impartidos en las materias específicas de las funciones propias de la plaza objeto de la convocatoria. Se incluyen entre estos los recibidos o impartidos en materia de igualdad entre mujeres y hombres y de género.
 
 Cuando el certificado no especifique el número de horas lectivas, se computará como un curso mínimo establecido en la tabla. Asimismo, los cursos convocados u organizados por el Parlamento de Canarias serán valorados adicionalmente con 0,05 puntos sobre la valoración recogida en la tabla según corresponda.
 
@@ -463,7 +460,7 @@ Se valorarán los méritos académicos, distintos a aquellas titulaciones exigid
 
 La acreditación de estos méritos se hará mediante certificación oficial del órgano competente, fotocopia compulsada o copia auténtica.
 
-Décima.- Lugar de celebración, comienzo y desarrollo de los ejercicios.
+#### Décima. Lugar de celebración, comienzo y desarrollo de los ejercicios.
 
 1.- Los ejercicios de la oposición no podrán comenzar hasta transcurridos ocho meses desde la fecha en que aparezca publicado el anuncio de la convocatoria en el Boletín Oficial de Canarias.
 
@@ -471,11 +468,11 @@ Décima.- Lugar de celebración, comienzo y desarrollo de los ejercicios.
 
 La representación del personal laboral de la Cámara podrá estar presente en el desarrollo de los ejercicios, previa comunicación designando a las personas titulares y, en su caso, suplentes que pretendan asistir, a los efectos de su posterior traslado al tribunal calificador.
 
-3.- Según la Resolución de 11 de mayo de 2023, de la Dirección General de la Función Pública, por la que se hace público el resultado del sorteo anual que determinará el orden de actuación de las personas aspirantes en las pruebas selectivas para el acceso a la condición de empleado público o empleada pública de la Administración General de la Comunidad Autónoma de Canarias, el orden de actuación se iniciará alfabéticamente por las personas aspirantes cuyo primer apellido comience por la letra “K”, atendiendo, a estos efectos, a la ordenación alfabética del listado de personas aspirantes admitidas definitivamente a los correspondientes procesos selectivos.
+3.- Según la Resolución de 11 de mayo de 2023, de la Dirección General de la Función Pública, por la que se hace público el resultado del sorteo anual que determinará el orden de actuación de las personas aspirantes en las pruebas selectivas para el acceso a la condición de empleado público o empleada pública de la Administración General de la Comunidad Autónoma de Canarias, el orden de actuación se iniciará alfabéticamente por las personas aspirantes cuyo primer apellido comience por la letra "K", atendiendo, a estos efectos, a la ordenación alfabética del listado de personas aspirantes admitidas definitivamente a los correspondientes procesos selectivos.
 
-En el supuesto de que no exista ningún aspirante cuyo primer apellido comience por la letra “K”, el orden de actuación se iniciará por aquellos cuyo primer apellido comience por la letra “L”, y así sucesivamente.
+En el supuesto de que no exista ningún aspirante cuyo primer apellido comience por la letra "K", el orden de actuación se iniciará por aquellos cuyo primer apellido comience por la letra "L", y así sucesivamente.
 
-Undécima.- Relación de la calificación de las personas aspirantes.
+#### Undécima. Relación de la calificación de las personas aspirantes.
 
 1.- Finalizado el proceso selectivo el tribunal, en el plazo máximo de quince días a contar desde calificación definitiva, hará pública la relación de personas aspirantes, con la puntuación otorgada en cada ejercicio y la suma de todas ellas, más la puntuación obtenida en la fase de concurso, que determinará el orden final de las mismas.
 
@@ -495,11 +492,11 @@ Las personas aspirantes podrán solicitar la revisión de la puntuación otorgad
 
 3.- Las personas aspirantes que hayan superado la fase de oposición y no hayan obtenido plaza, entrarán a formar parte de una lista de reserva para futuros nombramientos como personal laboral en régimen de interinidad para cubrir, en su caso, posibles vacantes de plazas del mismo grupo de clasificación y titulación por orden de puntuación obtenida. La lista de reserva resultante será elevada a la Mesa de la Cámara para, en su caso, su aprobación y su publicación en el BOPC.
 
-Duodécima.- Propuesta de contratación.
+#### Duodécima. Propuesta de contratación.
 
 Con una antelación de dos meses al vencimiento del plazo máximo para resolver previsto en la base quinta, apartado 8, o, en su caso, terminado el proceso selectivo, el tribunal elevará la relación de personas aspirantes con la puntuación obtenida y el número de orden -a través del Letrado-Secretario General de la Cámara-, a la Mesa del Parlamento, en unión de la correspondiente propuesta de contratación con la relación de personas aspirantes seleccionadas sin que pueda superar el número de plazas convocadas, conforme a la puntuación obtenida, en unión del expediente con todos los ejercicios, la valoración de méritos y todas las actas de las sesiones del tribunal.
 
-Decimotercera.- Aportación de documentación.
+#### Decimotercera. Aportación de documentación.
 
 1.- La persona aspirante propuesta por el tribunal calificador deberá presentar en el Registro de Personal del Servicio de Personal, Documentación, Biblioteca y Archivo de la Cámara, en el plazo de veinte (20) días naturales desde que se haga pública la relación a la que se refiere la base undécima, mediante la correspondiente solicitud, la siguiente documentación:
 
@@ -515,7 +512,7 @@ Decimotercera.- Aportación de documentación.
 
 En este caso, se formulará la propuesta de nombramiento según el orden de puntuación a favor de quienes, como consecuencia de la referida anulación, tuvieran cabida en el número de plazas convocadas.
 
-Decimocuarta.- Formalización del contrato y periodo de prueba.
+#### Decimocuarta. Formalización del contrato y periodo de prueba.
 
 No se podrá formalizar más contrato que el correspondiente a la plaza convocada.
 
@@ -527,13 +524,13 @@ Durante el periodo de prueba, la Mesa de la Cámara por acuerdo motivado, a prop
 
 El contrato de trabajo quedará formalizado por escrito y con las cláusulas y requisitos establecidos en el I Convenio Colectivo del Personal Laboral del Parlamento de Canarias y demás legislación que le sea de aplicación, y, con carácter supletorio, el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento.
 
-Decimoquinta.- Régimen de impugnaciones.
+#### Decimoquinta. Régimen de impugnaciones.
 
 1.- El tribunal queda facultado para resolver las dudas que se presenten y tomar los acuerdos necesarios para el buen orden de la oposición en todo lo no previsto en estas bases.
 
 2.- Contra la presente convocatoria y sus bases, se podrá interponer con carácter potestativo recurso de reposición en el plazo de un mes ante el órgano que las haya dictado según lo establecido en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común, o directamente recurso contencioso-administrativo en el plazo de dos meses, ante la Sala de lo Contencioso-administrativo de Santa Cruz de Tenerife del Tribunal Superior de Justicia de Canarias, de conformidad con lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
-ANEXO
+## Anexo
 
 TEMARIO DE LA CONVOCATORIA DE PRUEBAS SELECTIVAS PARA LA PROVISIÓN, EN RÉGIMEN DE CONTRATACIÓN LABORAL FIJA, DE UNA PLAZA CON LA CATEGORÍA DE JEFE/A DE DESARROLLO (GRUPO I) DEL PARLAMENTO DE CANARIAS, POR EL SISTEMA DE CONCURSO-OPOSICIÓN, TURNO DE ACCESO LIBRE.
 
@@ -761,11 +758,10 @@ Tema 109.- Técnicas criptográficas y protocolos seguros. Mecanismos de firma d
 
 Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. Servicios: evolución, estado actual y perspectivas de futuro. La web 2.0. La web semántica. Internet de las Cosas (IoT).
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
@@ -784,6 +780,7 @@ Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. S
 - **Modifica**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 
 ### Fundamentos de Derecho
+
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)

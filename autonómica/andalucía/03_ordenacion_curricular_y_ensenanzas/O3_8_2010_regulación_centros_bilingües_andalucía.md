@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-3-8-2010
 codigo_sintetizado: O3_8_2010 Desarrollo Programa Bilinguismo Andalucía
-titulo: Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en
-  los centros docentes públicos de Andalucía.
+titulo: Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en los centros docentes públicos de Andalucía.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 03/08/2010
 fecha_disposicion: '2010-08-03'
@@ -20,2027 +18,226 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bilingüismo
 tags:
-- bilinguismo
-- auxiliares_conversacion
-- plurilinguismo
-- andalucia
+  - bilinguismo
+  - auxiliares_conversacion
+  - plurilinguismo
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en los centros docentes públicos de Andalucía.
 
 ## Preámbulo
 
-# Orden de 3 de agosto de 2010, por la que se adapta la enseñanza bilingüe en los centros docentes públicos de Andalucía.
-
-Página núm. 98 
-Sevilla, 17 de agosto 2010
- CONSEJERÍA DE LA PRESIDENCIA
-DECRETO 353/2010, de 3 de agosto, por el que se 
-aprueba el Plan Anual de la Cooperación Andaluza 2010.
-El Estatuto de Autonomía de Andalucía, aprobado por la 
-Ley Orgánica 2/2007, de 19 de marzo, recoge en su artículo 10 como uno de los objetivos básicos de la Comunidad Autónoma «la cooperación internacional con el objetivo de contribuir al desarrollo solidario de los pueblos».
-Por su parte, el Capítulo V del Título IX del texto estatutario, que se refiere a la Cooperación al Desarrollo, dispone en 
-su artículo 245 que «el pueblo andaluz participa de la solidaridad internacional con los países menos desarrollados promoviendo un orden internacional basado en una más justa distribución de la riqueza», así como que la «Comunidad Autónoma 
-de Andalucía desplegará actividades de cooperación para el 
-desarrollo en dichos países, dirigidas a la erradicación de la 
-pobreza, la defensa de los derechos humanos y la promoción 
-de la paz y los valores democráticos, particularmente en Iberoamérica, el Magreb y el conjunto de África».
-La Ley 14/2003, de 22 de diciembre, de Cooperación 
-Internacional para el Desarrollo, establece en su artículo 6, 
-relativo a la Planificación de la Cooperación Internacional para 
-el Desarrollo, que la política de la Junta de Andalucía en materia de cooperación internacional para el desarrollo se articula 
-mediante el Plan Andaluz de Cooperación para el Desarrollo, 
-los Planes Anuales y los Programas Operativos por países, 
-así como que los Planes Anuales desarrollarán los objetivos, 
-prioridades y recursos contenidos en el Plan Andaluz para el 
-ejercicio correspondiente.
-De conformidad con lo establecido en los artículos 11.2 y 
-12.a) de la Ley 14/2003, los Planes Anuales serán aprobados 
-por el Consejo de Gobierno, siendo la Consejería competente 
-en materia de coordinación de la cooperación internacional 
-para el desarrollo la encargada de la elaboración y seguimiento de los mismos.
-El Decreto 78/2010, de 30 de marzo, por el que se establece la estructura orgánica de la Consejería de la Presidencia, 
-dispone que corresponde a dicha Consejería, a través de la 
-Agencia Andaluza de Cooperación Internacional para el Desarrollo, la coordinación y asesoramiento de las actuaciones de 
-la Junta de Andalucía en materia de cooperación internacional 
-para el desarrollo.
-El artículo 5 de la Ley 2/2006, de creación de la Agencia 
-Andaluza de Cooperación Internacional para el Desarrollo, así 
-como el artículo 6 de los Estatutos de la misma aprobados por 
-el Decreto 1/2008, de 8 de marzo, recogen, entre las funciones de la Agencia, la de proponer a la Consejería a la que esté 
-adscrita los Planes Anuales.
-El artículo 14.3.c) de la Ley 14/2003, de 22 de diciembre, establece que corresponde a la Comisión de 
-Cooperación para el Desarrollo aprobar la propuesta del 
-Plan Anual de la Cooperación Andaluza elaborada por la 
-Consejería competente en materia de coordinación de 
-la cooperación internacional para el desarrollo. El artículo 13.3.a) de la Ley 14/2003, de 22 de diciembre, establece 
-que corresponde al Consejo Andaluz de Cooperación Internacional para el Desarrollo informar el proyecto del Plan Anual 
-de la Cooperación Andaluza.
-La Comisión de Cooperación para el Desarrollo ha aprobado la propuesta del Plan Anual de la Cooperación Andaluza 
-para el ejercicio 2010, en su reunión de 26 de julio de 2010. 
-Asimismo, el Consejo Andaluz de Cooperación Internacional 
-para el Desarrollo ha informado favorablemente el proyecto de 
-dicho Plan, en su reunión de 26 de julio de 2010.
-En su virtud, previo informe de la Dirección General de 
-Presupuestos y de la Dirección General de Planificación, a 
-propuesta de la Consejera de la Presidencia, de conformidad 
-con el artículo 21.3 de la Ley 6/2006, de 24 de octubre, de 
-Gobierno de la Comunidad Autónoma de Andalucía, y previa 
-deliberación del Consejo de Gobierno en su reunión del día 3 
-de agosto de 2010,
-D I S P O N G O
-Artículo único. Aprobación del Plan Anual de la Cooperación Andaluza 2010.
-Se aprueba el Plan Anual de la Cooperación Andaluza 
-2010 como instrumento de planificación y coordinación de 
-todas las actuaciones de la Administración de la Junta de Andalucía en materia de cooperación internacional para el desarrollo para el año 2010, cuyo texto se adjunta en Anexo.
+Página núm. 98 Sevilla, 17 de agosto 2010 CONSEJERÍA DE LA PRESIDENCIA DECRETO 353/2010, de 3 de agosto, por el que se aprueba el Plan Anual de la Cooperación Andaluza 2010. El Estatuto de Autonomía de Andalucía, aprobado por la Ley Orgánica 2/2007, de 19 de marzo, recoge en su artículo 10 como uno de los objetivos básicos de la Comunidad Autónoma «la cooperación internacional con el objetivo de contribuir al desarrollo solidario de los pueblos». Por su parte, el Capítulo V del Título IX del texto estatutario, que se refiere a la Cooperación al Desarrollo, dispone en su artículo 245 que «el pueblo andaluz participa de la solidaridad internacional con los países menos desarrollados promoviendo un orden internacional basado en una más justa distribución de la riqueza», así como que la «Comunidad Autónoma de Andalucía desplegará actividades de cooperación para el desarrollo en dichos países, dirigidas a la erradicación de la pobreza, la defensa de los derechos humanos y la promoción de la paz y los valores democráticos, particularmente en Iberoamérica, el Magreb y el conjunto de África». La Ley 14/2003, de 22 de diciembre, de Cooperación Internacional para el Desarrollo, establece en su artículo 6, relativo a la Planificación de la Cooperación Internacional para el Desarrollo, que la política de la Junta de Andalucía en materia de cooperación internacional para el desarrollo se articula mediante el Plan Andaluz de Cooperación para el Desarrollo, los Planes Anuales y los Programas Operativos por países, así como que los Planes Anuales desarrollarán los objetivos, prioridades y recursos contenidos en el Plan Andaluz para el ejercicio correspondiente. De conformidad con lo establecido en los artículos 11.2 y 12.a) de la Ley 14/2003, los Planes Anuales serán aprobados por el Consejo de Gobierno, siendo la Consejería competente en materia de coordinación de la cooperación internacional para el desarrollo la encargada de la elaboración y seguimiento de los mismos. El Decreto 78/2010, de 30 de marzo, por el que se establece la estructura orgánica de la Consejería de la Presidencia, dispone que corresponde a dicha Consejería, a través de la Agencia Andaluza de Cooperación Internacional para el Desarrollo, la coordinación y asesoramiento de las actuaciones de la Junta de Andalucía en materia de cooperación internacional para el desarrollo. El artículo 5 de la Ley 2/2006, de creación de la Agencia Andaluza de Cooperación Internacional para el Desarrollo, así como el artículo 6 de los Estatutos de la misma aprobados por el Decreto 1/2008, de 8 de marzo, recogen, entre las funciones de la Agencia, la de proponer a la Consejería a la que esté adscrita los Planes Anuales. El artículo 14.3.c) de la Ley 14/2003, de 22 de diciembre, establece que corresponde a la Comisión de Cooperación para el Desarrollo aprobar la propuesta del Plan Anual de la Cooperación Andaluza elaborada por la Consejería competente en materia de coordinación de la cooperación internacional para el desarrollo. El artículo 13.3.a) de la Ley 14/2003, de 22 de diciembre, establece que corresponde al Consejo Andaluz de Cooperación Internacional para el Desarrollo informar el proyecto del Plan Anual de la Cooperación Andaluza. La Comisión de Cooperación para el Desarrollo ha aprobado la propuesta del Plan Anual de la Cooperación Andaluza para el ejercicio 2010, en su reunión de 26 de julio de 2010. Asimismo, el Consejo Andaluz de Cooperación Internacional para el Desarrollo ha informado favorablemente el proyecto de dicho Plan, en su reunión de 26 de julio de 2010. En su virtud, previo informe de la Dirección General de Presupuestos y de la Dirección General de Planificación, a propuesta de la Consejera de la Presidencia, de conformidad con el artículo 21.3 de la Ley 6/2006, de 24 de octubre, de Gobierno de la Comunidad Autónoma de Andalucía, y previa deliberación del Consejo de Gobierno en su reunión del día 3 de agosto de 2010,
+DISPONGO:
+Artículo único. Aprobación del Plan Anual de la Cooperación Andaluza 2010. Se aprueba el Plan Anual de la Cooperación Andaluza 2010 como instrumento de planificación y coordinación de todas las actuaciones de la Administración de la Junta de Andalucía en materia de cooperación internacional para el desarrollo para el año 2010, cuyo texto se adjunta en Anexo.
 
 #### Disposición final primera. Desarrollo y ejecución.
 
-Se faculta a la Consejera de la Presidencia para dictar 
-las disposiciones necesarias para el desarrollo y ejecución del 
-presente Decreto.
+Se faculta a la Consejera de la Presidencia para dictar las disposiciones necesarias para el desarrollo y ejecución del presente Decreto.
 
 #### Disposición final segunda. Entrada en vigor.
 
-El presente Decreto entrará en vigor al día siguiente de su 
-publicación en el Boletín Oficial de la Junta de Andalucía.
-Sevilla, 3 de agosto de 2010
-JOSÉ ANTONIO GRIÑÁN MARTÍNEZ
-Presidente de la Junta de Andalucía
-MARÍA DEL MAR MORENO RUIZ
-Consejera de la Presidencia
-PLAN ANUAL DE LA COOPERACIÓN ANDALUZA 2010
-Í N D I C E
-Listado de acrónimos.
-Presentación.
-Objetivo 1: Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza.
-Cooperación bilateral.
-Cooperación con Enfoque Regional, Regional-Sectorial y 
-Continental.
-Cooperación Sur-Sur.
-Objetivo 2: Consolidar la Acción Humanitaria Andaluza.
-Adecuar el marco procedimental y normativo incluyendo 
-las especificidades de la AH.
-Apoyar la ejecución de intervenciones de AH.
-Identificar y reforzar las capacidades de los agentes de cooperación de Andalucía.
-Crear y poner en marcha dispositivos de coordinación y 
-participación.
-Facilitar la información, sensibilización y testimonio sobre 
-la AH.
-Objetivo 3: Fortalecer la Educación para el Desarrollo de la 
-población andaluza.
-Dinamizar la coordinación de los agentes de Educación 
-para el Desarrollo.
-
-Sevilla, 17 de agosto 2010 
-Página núm. 99
-Apoyar las intervenciones de Educación para el Desarrollo 
-financiadas a los diferentes agentes.
-Intervenir en procesos educativos.
-Promover la sensibilización.
-Incentivar la Cultura de Paz.
-Objetivo 4: Mejorar el ciclo de la cooperación andaluza.
-Consolidar el ciclo de la planificación derivado del PACODE.
-Simplificar los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía.
-Fortalecer los mecanismos de seguimiento y evaluación de 
-la cooperación andaluza.
-Objetivo 5: Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones.
-Promover la participación y coordinación de los agentes andaluces en el desarrollo del PACODE.
-Apoyar al voluntariado y a cooperantes.
-Fortalecer las capacidades de los agentes andaluces mediante la Formación y la Investigación.
-Objetivo 6: Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación andaluza.
-Incluir las PPHH en la planificación estratégica y operativa 
-y en la gestión de la cooperación.
-Formar y comunicar sobre las PPHH.
-Desarrollar la actuaciones previstas como G+.
-Marco presupuestario (previsiones).
-
-## Anexo 1. Tabla de medidas y resultados esperados. 
-
-Página núm. 100 
-Sevilla, 17 de agosto 2010
-
-Listado de acrónimos 
-AACID: 
-Agencia 
-Andaluza 
-de 
-Cooperación 
-Internacional para el Desarrollo 
-AECID: 
-Agencia 
-Española 
-de 
-Cooperación 
-Internacional para el Desarrollo 
-AGE: Administración General del Estado 
-AH: Acción Humanitaria 
-AOD: Ayuda Oficial al Desarrollo 
-BOJA: Boletín Oficial de la Junta de Andalucía 
-CACID: 
-Consejo 
-Andaluz 
-de 
-Cooperación 
-Internacional para el Desarrollo 
-CAD: Comité de Ayuda al Desarrollo 
-CAONGD: Coordinadora Andaluza de ONGDs 
-CC.AA: Comunidades Autónomas 
-CEA: Confederación de Empresarios de Andalucía 
-CEPES: Confederación de Entidades para la 
-Economía Social 
-CIPD: Conferencia Internacional sobre la Población y 
-el Desarrollo 
-CODEG: Programa Europeo de Formación en 
-Género
-DOE G+: Documento de Orientaciones Estratégicas 
-de Género 
-ECHO: Oficina de Ayuda Humanitaria de la Comisión 
-Europea
-ED: Educación para el Desarrollo 
-EPES: Empresa Pública de Emergencias Sanitarias 
-FAMP: Federación Andaluza de Municipios y 
-Provincias
-FAMSI: Fondo Andaluz de Municipios por la 
-Solidaridad Internacional 
-GREA: Grupo de Emergencias de Andalucía 
-LACID: Ley Andaluza de Cooperación Internacional 
-para el Desarrollo 14/2003, de 22 de diciembre 
-OCDE: Organización para la Cooperación y el 
-Desarrollo Económico 
-OCHA: Oficina de Coordinación de Asuntos 
-Humanitarios de Naciones Unidas  
-ODM: Objetivos de Desarrollo del Milenio 
-OMS: Organización Mundial de la Salud 
-ONGDs: Organizaciones No Gubernamentales de 
-Desarrollo
-OMUDES: Organismos Multilaterales de Desarrollo 
-OTC: Oficina Técnica de Cooperación 
-OPS: Organización Panamericana de la Salud 
-PACA: Plan Anual de la Cooperación Andaluza 
-PACI: Plan Anual de Cooperación Internacional 
-PACODE: Plan Andaluz de Cooperación para el 
-Desarrollo
-POAH: Programa Operativo de Acción Humanitaria 
-POCER: Programa Operativo con Enfoque Regional 
-POCES: Programa Operativo con Enfoque Sectorial 
-POED: Programa Operativo de Educación para el 
-Desarrollo
-POFI: Programa Operativo de Formación e 
-Investigación
-POPP: Programa Operativo por País Prioritario 
-PPHH: Prioridades Horizontales 
-RACDA: Registro de Agentes de Cooperación para 
-el Desarrollo en Andalucía 
-SEGIB: Secretaría General Iberoamericana 
-SICA: Sistema de la Integración Centroamericana 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 101
-
-Presentación 
-La aprobación del Plan Anual de la Cooperación Andaluza 2009 por el Consejo de Gobierno de la Junta 
-de Andalucía supuso el afianzamiento de la planificación de la cooperación andaluza, sentando las bases 
-para la ejecución del Plan Andaluz de Cooperación para el Desarrollo.
-El principal reto del Plan Anual anterior era consolidar los principios que sustentan el modelo de 
-cooperación de Andalucía. El de 2010 consiste en reforzar la coordinación y el avance en la participación 
-e implicación de los agentes de cooperación andaluces en la definición y ejecución de la política de 
-cooperación, todo ello sin obviar la necesidad de continuar con la apuesta por la calidad y la eficacia de la 
-cooperación. Asimismo, y apoyando el mensaje del Gobierno de España, ahora más que nunca la Ayuda 
-es necesaria, recogido explícitamente en el Plan Anual de la Cooperación Internacional española para 
-2010, el Plan Anual apuesta por continuar con la ayuda al desarrollo en el actual contexto económico que 
-está azotando con especial virulencia a los países en situación de mayor vulnerabilidad. 
-Durante 2009 se crearon, en el seno del Consejo Andaluz de Cooperación Internacional para el 
-Desarrollo, los cinco Grupos de Trabajo previstos: Ayuda al Desarrollo, Acción Humanitaria, Educación 
-para el Desarrollo, Formación e Investigación y Seguimiento y Evaluación. Además del espacio de 
-participación que estos Grupos ofrecen, en 2010 se potenciará el diálogo permanente con los 
-protagonistas de la cooperación andaluza, al objeto de mejorar la complementariedad y la generación de 
-sinergias.
-Junto a esta coordinación en el ámbito andaluz, también se fortalecerá la coordinación con los actores 
-locales de los países en los que se focalizan las actuaciones, a fin de establecer relaciones de 
-cooperación estables que faciliten la apropiación y el fortalecimiento de sus instituciones. Además, con 
-objeto de garantizar la coherencia de la planificación y ejecución de la política andaluza de cooperación 
-con las directrices que establece el III Plan Director de la Cooperación Española se participará desde 
-Andalucía en los mecanismos y procedimientos de coordinación y complementariedad que se 
-desarrollarán desde la Administración General del Estado tal y como se ha recogido en el Plan Anual de 
-la Cooperación Internacional de la cooperación española para 2010.  
-En el plano institucional, la Conferencia Sectorial de Cooperación, constituida en 2009, fortalecerá la 
-coordinación de las Administraciones Públicas: Administración General del Estado, Comunidades 
-Autónomas y Entidades Locales. La consolidación de este espacio y la participación de Andalucía en el 
-mismo, así como en los foros y organismos internacionales formando parte de la Delegación española,
-reforzarán la necesaria intervención de la Comunidad Autónoma en la configuración de una agenda de 
-trabajo común alineada con las directrices nacionales e internacionales. En el plano operativo, la 
-renovación del Convenio entre la AACID y la AECID, además de actualizar el marco de relación entre 
-ambas instituciones, permitirá abordar la coordinación en las actuaciones de la acción humanitaria, el 
-tratamiento del personal y oficinas en los países socios y su relación con las Oficinas Técnicas de 
-Cooperación española y la cofinanciación y nuevos instrumentos de cooperación.
-Uno de los avances de la cooperación andaluza en 2009 ha sido el establecimiento de marcos 
-estratégicos plurianuales con Organismos Internacionales como UNICEF, UNRWA y ACNUR y el apoyo a 
-sus líneas estratégicas de intervención. En 2010, la AACID continuará apoyando los fondos temáticos y 
-las líneas estratégicas de las referidas Agencias especializadas de las Naciones Unidas y avanzará en la 
-complementariedad entre la cooperación multilateral y la cooperación bilateral, incorporando las 
-contribuciones a Organismos Multilaterales de Desarrollo (OMUDES) en los distintos niveles de 
-planificación, especialmente en los Programas Operativos por País Prioritario (POPP). 
-
-Página núm. 102 
-Sevilla, 17 de agosto 2010
-
-En materia de género, la AACID destaca por su calificación como G+ por el Programa de Presupuestos 
-Sensibles al Género de la Consejería de Economía y Hacienda. Cumpliendo con este compromiso se 
-pondrán en marcha actuaciones relativas a la formación y generación de conocimientos, elaboración de 
-diagnósticos sensibles al género, economía de los cuidados y violencia de género, contando con una 
-asignación presupuestaria propia. 
-En 2010 se abordarán reformas procedimentales tendentes a concentrar, simplificar y agilizar los trámites 
-necesarios para acceder a la financiación que la AACID otorga a los agentes andaluces de cooperación. 
-Las tradicionales Convocatorias Anuales de Ayudas a las ONGDs para las distintas modalidades de 
-cooperación fueron revisadas en el año 2009 y en el año 2010 se va publicar una nueva Orden de Bases 
-destinadas a las ONGDs, en la que se agruparán las relativas a la Ayuda al Desarrollo y a la Educación 
-para el Desarrollo y se incorporarán la Acción Humanitaria y la Formación e Investigación. Estas reformas 
-se incardinan en el proceso de aumentar el impacto, la eficacia y calidad de la ayuda. 
-A todo lo anterior, hay que añadir que en el año 2010 se procederá a la revisión de los Objetivos de 
-Desarrollo del Milenio (ODM), que se llevará a cabo en el mes de septiembre y que marcará gran parte de 
-la agenda política de las agencias y organismos internacionales de cooperación y que, en el caso de 
-España, adquiere una especial dimensión al coincidir los trabajos preparatorios de la Reunión de Alto 
-Nivel con la presidencia española de la Unión Europea.  
-Esquema de planificación 
-Frente al lógico carácter de avance de este Plan con respecto al anterior, puesto que como se indicaba 
-entonces se trata de desarrollar paulatinamente lo establecido en el PACODE, sus principales elementos 
-diferenciadores están relacionados con la reagrupación de algunas de las medidas propuestas en 2009, 
-en aras de una mayor simplificación del esquema de planificación, y la inclusión de aquellas que, tras dos 
-años de vigencia del PACODE, se han considerado pertinentes para potenciar el logro de sus resultados 
-esperados para 2011. 
-Puesto que el objetivo de los Planes Anuales es anualizar las medidas recogidas en otros marcos de 
-planificación de la cooperación andaluza en vigor, geográficos y sectoriales, este Plan es la plataforma 
-temporal de planificación que da respuesta, de manera coherente, a los objetivos y prioridades 
-establecidas en el PACODE y en los Programas Operativos elaborados. Así, en este documento, se 
-recogen las estrategias propuestas en los Programas Operativos para los Países Prioritarios (POPP) para 
-los que se aprobaron estos documentos, así como algunas de las propuestas debatidas en torno a la 
-Acción Humanitaria y la Educación para el Desarrollo en los Grupos de Trabajo del Consejo Andaluz de 
-Cooperación Internacional para el Desarrollo. La consecución de esta coherencia integral del sistema, 
-criterio de calidad definido para la cooperación andaluza, irá configurándose con mayor claridad conforme 
-se vaya avanzando en la definición de los Programas Operativos que restan. 
-Partiendo de los objetivos específicos perseguidos por el PACODE, marco de referencia para toda la 
-planificación andaluza, estratégica y operativa, se ha añadido un nuevo objetivo, de carácter horizontal, 
-que recoge las actuaciones tendentes a integrar las prioridades horizontales en todo el ciclo de la 
-cooperación andaluza. También se ha definido, en el marco del Objetivo 4, el Plan Anual de Evaluación 
-para 2010, donde se incluyen las actuaciones que en materia de evaluación se llevarán a cabo. 
-El presente Plan recoge, junto a la estrategia a seguir en el marco de los seis objetivos, en cuya definición 
-se ha buscado una coherencia con la Cooperación Española, según lo recogido en el PACI 2010, un 
-
-## Anexo con la relación de las medidas concretas a acometer y los resultados esperados a alcanzar por la 
-
-cooperación andaluza en el año 2010. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 103
-
-Objetivo 1: Generar procesos de desarrollo en las áreas geográficas 
-prioritarias de la cooperación andaluza 
-Con el objetivo de contribuir a erradicar la pobreza y a consolidar procesos encaminados a asegurar un 
-desarrollo humano sostenible, durante 2010 se van a apoyar intervenciones de los agentes andaluces de 
-cooperación que serán desarrolladas principalmente en los 23 países que en el PACODE se definieron 
-como prioritarios.
-Cooperación bilateral 
-La apuesta por la concentración geográfica de la cooperación, contemplada en el PACODE, y 
-determinada en función de las capacidades y experiencia de los agentes andaluces y de la cooperación 
-de la Administración de la Junta de Andalucía, persigue aumentar la eficacia e impacto de las 
-actuaciones, de manera que, no excluyendo la posibilidad de financiar intervenciones en otros países1, se 
-centren los esfuerzos en consolidar el trabajo en aquellos con los que tradicionalmente se ha cooperado y 
-con los que se ha iniciado recientemente el trabajo por parte de la Administración de la Junta de 
-Andalucía.  
-Con el fin de mejorar los resultados de la cooperación andaluza y la calidad de las intervenciones de 
-cooperación de todos los agentes andaluces involucrados en el desarrollo sostenible de los países del 
-Sur, en 2010 se acometerán las siguientes tareas: i) consolidar la estrategia de cooperación para el 
-desarrollo en los distintos países prioritarios; ii) promover una coordinación activa, participativa e 
-integradora de las intervenciones en el exterior y, iii) optimizar la ejecución y seguimiento de los proyectos 
-y programas de cooperación para el desarrollo. 
-Consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritarios 
-Durante el año 2009 se elaboraron y aprobaron los Programas Operativos de once de los países 
-prioritarios: Guatemala, Nicaragua, El Salvador, Costa Rica, Panamá, Bolivia, Paraguay, Cuba, República 
-Dominicana, Mozambique y Territorios Palestinos. 
-Toda vez que estos once POPP están en vigor, y asumiendo en 2010 la elaboración de los borradores de 
-la planificación para Burkina Faso, Ecuador, Guinea Bissau, Honduras, Malí, Marruecos, Mauritania, 
-Perú, República Democrática del Congo, Togo y Senegal, se iniciará el proceso de identificación y 
-selección de intervenciones y agentes que, de manera congruente con las líneas estratégicas definidas 
-en estos Programas, aporten mayor valor añadido a la cooperación andaluza. 
-Se identificarán nuevas intervenciones de la cooperación de la Administración de la Junta de Andalucía 
-en países en los que se ha venido cooperando en años anteriores, así como en países en los que la 
-Administración inicia su intervención en el año 2010 de manera gradual y coordinada. Se asegurará la 
-total integración de las nuevas intervenciones con las políticas nacionales y programas estratégicos 
-
-1 Como Colombia, México y Uruguay para los que se ha previsto la financiación de intervenciones principalmente dirigidas hacia 
-la ordenación física, territorial y urbanística y política de suelo y vivienda. 
-
-Página núm. 104 
-Sevilla, 17 de agosto 2010
-
-sectoriales, en respuesta siempre a las necesidades priorizadas por los Gobiernos de los países y a las 
-prioridades sectoriales y estratégicas de los POPP. 
-Igualmente, las propuestas de proyectos y programas de los distintos agentes de cooperación: ONGDs, 
-organizaciones sindicales y empresariales, Entidades Locales, Universidades, organismos multilaterales 
-de Naciones Unidas, etc., que se van a apoyar en el 2010 se incardinarán en las líneas prioritarias y 
-medidas establecidas en los Programas Operativos y en el PACODE, garantizando la coherencia integral 
-del sistema andaluz de cooperación y la correspondencia entre las iniciativas de cooperación y los POPP 
-en vigor. 
-La puesta en marcha de medidas en cada país prioritario, siguiendo los requisitos de los POPP en cuanto 
-a la correcta transversalización del enfoque de género, medio ambiente, fortalecimiento institucional y 
-diversidad cultural, conlleva el alcance de los resultados y cumplimiento de los objetivos previstos en los 
-Programas, afianzando y consolidando la estrategia de actuación de la cooperación andaluza en pro de 
-una gestión orientada a resultados que refuerza la apropiación, la alineación, la coordinación y la 
-complementariedad entre los distintos agentes. 
-Promover una coordinación activa, participativa e integradora de las intervenciones en el exterior 
-Para afianzar este cometido, durante 2010 se reforzará el personal técnico de apoyo en el terreno en 
-parte de los países prioritarios, que trabajarán en coordinación con las Oficinas Técnicas de la 
-Cooperación Española. Este seguimiento desde terreno facilitará un seguimiento pormenorizado de la 
-ejecución de los proyectos y la identificación de sinergias y complementariedades entre las actuaciones, 
-al tiempo que mejorará la interlocución con las instituciones locales contrapartes, promoviendo el 
-alineamiento con sus necesidades y prioridades, la apropiación de los procesos de desarrollo y su 
-fortalecimiento institucional. Asimismo, permitirá asentar las bases técnicas y logísticas en el terreno para 
-una mejor coordinación de la eficacia de la ayuda en países prioritarios del PACODE. De esta forma, las 
-intervenciones de los agentes de cooperación y de la Administración de la Junta de Andalucía formarán 
-parte de un sistema integrado y coordinado que permita identificar en todo momento las necesidades a 
-nivel nacional, comunitario, institucional, y de la población destinataria, incidiendo en los intereses 
-estratégicos de las mujeres y su participación en la toma de decisiones en los distintos niveles. 
-Para el caso de la cooperación de la Administración de la Junta de Andalucía, durante 2010 se procederá 
-a la elaboración y firma de los Manuales de Subvenciones que regulan los procedimientos y reglas de 
-gestión de los fondos concedidos a organismos públicos en países que aún no disponen del mismo. 
-Concretamente para Bolivia, Ecuador, Paraguay, Perú y República Dominicana en Iberoamérica y para 
-Malí y Mozambique en África Subsahariana y para Territorios Palestinos y Mauritania en el Mediterráneo. 
-Estas reglas, definidas en función de los procedimientos de cada país, y tomando como referencia los 
-procedimientos de gestión de las subvenciones de la cooperación española, se concretan posteriormente 
-en Protocolos Administrativos para cada proyecto o programa, que se suscriben con las autoridades de 
-cada país con competencias relacionadas con la intervención, definiendo las responsabilidades de cada 
-parte. 
-Optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el 
-desarrollo
-En 2010 se ejecutarán los proyectos aprobados en 2009 y aquellos de años anteriores cuyo plazo de 
-ejecución no ha concluido. La mayoría de estas intervenciones están relacionadas con la mejora de los 
-servicios sociales básicos y el fortalecimiento de las estructuras democráticas y de la sociedad civil. De 
-los aprobados en 2009 comienzan a ejecutarse 180 proyectos, localizados fundamentalmente en 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 105
-
-PACA 2010 
-Iberoamérica, si bien destaca para este período el importante número de intervenciones en los países de 
-África Subsahariana en relación con ejercicios anteriores (29 proyectos por un total de 14.062.287,61 
-euros). 
-África Subsahariana
-19,02%
-Mediterráneo
-16,44%
-Iberoamérica
-64,54%
-Organizaciones 
-Internacionales
-3,76%
-Otras entidades
-1,88%
-ONGD
-37,63%
-Organizaciones 
-Sindicales
-2,89%
-Junta de Andalucía
-51,40%
-Organismos 
-Multilaterales de 
-Desarrollo
-2,43%
-Los grandes protagonistas de esta cooperación internacional son, como en años anteriores, la 
-Administración de la Junta de Andalucía y las ONGDs, que ejecutarán el 89,03% del presupuesto 
-destinado en 2009 a este objetivo. 
-La cooperación andaluza ha hecho de la cooperación ejecutada directamente por la Junta de 
-Andalucía una de sus señas de identidad, ya que uno de los criterios adoptados como básicos en el 
-PACODE para la ayuda al desarrollo es el valor añadido de las experiencias adquiridas del modelo 
-andaluz de desarrollo derivado de las competencias asumidas por nuestra Comunidad Autónoma en 
-los últimos 30 años, de su acervo legislativo y de las capacidades de sus recursos humanos. 
-Durante 2010 también se desarrollarán los proyectos aprobados a las ONGDs y los aprobados en el 
-marco de los convenios de colaboración suscritos en 2009 entre la AACID y las organizaciones 
-sindicales andaluzas CCOO-A y UGT para el fortalecimiento institucional de las organizaciones 
-sindicales en los países del Sur y Centroamérica, la defensa de los derechos civiles y laborales y la 
-formación de los trabajadores y trabajadoras, así como el acuerdo con la Fundación Escuela Andaluza 
-de Economía Social para el fortalecimiento institucional de organizaciones nacionales o regionales 
-representativas de la economía social en Centroamérica, Perú y Ecuador, y el Convenio Suscrito con 
-la OEI para desarrollar proyectos en Centroamérica, Perú, Ecuador y Guatemala. 
-
-Página núm. 106 
-Sevilla, 17 de agosto 2010
-
-Cooperación con Enfoque Regional, Regional-Sectorial y Continental 
-Junto a la cooperación bilateral, y con el objetivo de consolidar el proceso de integración 
-centroamericana, durante 2010, y toda vez que en el año anterior se ha dado un importante impulso a 
-la programación para los países de la región (El Salvador, Guatemala, Honduras, Nicaragua, Panamá, 
-República Dominicana y Costa Rica), se iniciará la elaboración del Programa Operativo con Enfoque 
-Regional para el Sistema de Integración Centroamericana (POCER SICA), que sentará las bases de 
-las intervenciones con carácter regional que se desarrollen en el ámbito de los seis ejes ya definidos: 
-Fomento de la conciencia regional centroamericana; Mujer; Infancia y Juventud; Desarrollo Rural; 
-Municipalismo; y Pueblos Indígenas. Durante 2009 se trabajó en el eje de Municipalismo mediante el 
-apoyo al fortalecimiento de las Entidades Locales en el proceso de integración centroamericana, que 
-derivará, tras un proceso de consulta regional a través de los parlamentos nacionales y consejos 
-municipales y otras organizaciones de la sociedad civil especializadas en fortalecimiento municipal, en 
-la aprobación de la Carta de Autonomía Local Centroamericana. 
-En el marco del Memorando de Entendimiento acordado entre la Junta de Andalucía y la Organización 
-Panamericana de la Salud (OPS/OMS) para el período 2008-2011, se continuará apoyando el 
-programa sectorial que se está ejecutando en la región. Asimismo, se continuará con el Programa de 
-Fortalecimiento del Instituto Centroamericano, con sede en Guatemala, para el Desarrollo y la 
-Innovación Educativa, especializado en educación infantil.  
-Con respecto al enfoque continental, durante el 2010 se llevará a cabo una sistematización de los 
-resultados de las principales Cumbres, Conferencias Regionales y Encuentros Internacionales de 
-África y América Latina, en particular de los Encuentros de Mujeres y Conferencias Internacionales 
-relacionadas con la Equidad de Género, con el objetivo de identificar intervenciones futuras en estos 
-ámbitos.
-Cooperación Sur-Sur 
-En 2010 se trabajará, aprovechando las experiencias derivadas de las planificaciones operativas por 
-país afrontadas por la AACID, por identificar los países y sectores que puedan ser susceptibles de 
-participar en iniciativas futuras promovidas por la AACID para el establecimiento de flujos de 
-cooperación sur-sur. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 107
-
-Objetivo 2: Consolidar la Acción Humanitaria Andaluza 
-En 2010 se concretará el modelo de Acción Humanitaria andaluza que promoverá una intervención 
-integrada incluyente de todas las actuaciones orientadas hacia la población vulnerable víctima de las 
-catástrofes de origen natural o humano, con el objetivo de satisfacer sus necesidades básicas, 
-restablecer sus derechos y garantizar su protección en el futuro; todo ello con énfasis en la 
-perspectiva de género, dada la situación de mayor vulnerabilidad que enfrentan las mujeres en 
-situaciones de crisis. 
-La definición de este modelo, acorde a las capacidades y experiencias de los agentes del ámbito 
-andaluz, en el que se ha buscado el valor añadido de la acción humanitaria andaluza, se ha 
-completado en el año 2009 con el primer documento borrador del Programa Operativo de Acción 
-Humanitaria (POAH), actualmente en proceso de consulta con los agentes de cooperación andaluces 
-en el marco del Grupo de Trabajo de Acción Humanitaria creado en el seno del Consejo Andaluz de 
-Cooperación Internacional para el Desarrollo, y que será elevado para su aprobación por el Consejo 
-de Gobierno de la Junta de Andalucía en este año. 
-En la elaboración de este Programa se han considerado las directrices de la Oficina de Coordinación 
-de Asuntos Humanitarios de Naciones Unidas (OCHA) y de la Oficina de Ayuda Humanitaria de la 
-Comisión Europea (ECHO), así como la Estrategia de Acción Humanitaria de la Cooperación 
-Española, en línea con las mejores prácticas internacionales, y orientada al cumplimiento de los 
-Principios de Buena Donación Humanitaria (2003), que establece 23 principios orientadores de la 
-Acción Humanitaria. 
-Como parte del compromiso con las poblaciones más vulnerables víctimas de crisis, y con el fin de 
-promover una respuesta humanitaria eficaz, eficiente, transparente, basada en necesidades y 
-derechos y comprometida con el cumplimiento de los principios humanitarios, durante 2010 se 
-encaminarán los esfuerzos hacia la aprobación del Programa Operativo de Acción Humanitaria y a 
-avanzar conjuntamente con los agentes andaluces a partir de la puesta en marcha del Grupo de 
-Trabajo de AH hacia la consecución de los siguientes desafíos: i) adecuar el marco procedimiental y 
-normativo incluyendo las especificidades de la AH; ii) apoyar la ejecución de intervenciones de AH; iii) 
-identificar y reforzar las capacidades de los agentes de cooperación de Andalucía; iv) crear y poner en 
-marcha dispositivos de coordinación y participación y v) facilitar la información, sensibilización y 
-testimonio sobre la AH. 
-Adecuar el marco procedimental y normativo incluyendo las especificidades 
-de la AH 
-Durante 2009 se realizó una importante labor de identificación de las particularidades de la AH para su 
-inclusión en la nueva Orden de Bases reguladoras de las subvenciones y también en la Orden para la 
-Calificación de las ONGDs para acceder al nuevo instrumento de financiación que suponen los 
-programas. En este sentido, en el año 2010 se van a actualizar los criterios de valoración previa de la 
-pertinencia de las intervenciones, los formatos de formulación y seguimiento de las mismas y las 
-exigencias en materia de evaluación, considerando las características propias que presentan los 
-diferentes ámbitos de la AH. 
-
-Página núm. 108 
-Sevilla, 17 de agosto 2010
-
-En especial, la respuesta humanitaria de emergencia presenta especificidades a considerar, tales 
-como la realización de una adecuada y rápida identificación de necesidades y la existencia de 
-capacidad para hacer llegar la ayuda a quienes más la necesitan y proporcionarla a tiempo. En esta 
-línea, en el año 2009 se inició, con la crisis de Gaza, la elaboración de unas pautas de respuesta a la 
-emergencia para la adaptación del marco instrumental y administrativo existente que se han 
-actualizado a comienzos de 2010 ante el terremoto de Haití. Sobre la base de esta experiencia, y ante 
-la necesidad de normalizar el procedimiento de convocatoria de respuesta a las emergencias para 
-facilitar su agilización, en 2010 la Orden de Bases incorporará un capítulo que contendrá los criterios 
-generales para acceder a las convocatorias específicas de atención a emergencias que se realicen 
-por parte de la AACID. 
-Como parte del proceso de adecuación de procedimientos, la AACID promoverá que las actuaciones 
-humanitarias que se apoyen estén amparadas en el cumplimiento de un código o catálogo de buenas 
-prácticas suscrito por los diferentes agentes. Para ello, desde la AACID se realizará un análisis de los 
-códigos de conducta adoptados por los agentes andaluces para conocer su marco operativo. En 
-función del análisis realizado, la AACID propondrá al Grupo de Trabajo consensuar la adscripción a un 
-código de conducta en AH para las ONGDs. Igualmente, desde la AACID se elaborará una propuesta 
-de catálogo de buenas prácticas dirigido a otros agentes de cooperación que realicen AH, a ser 
-debatida entre los agentes.  
-Apoyar la ejecución de intervenciones de AH 
-Dada la importancia de conseguir que las actuaciones humanitarias vayan más allá de ser un paliativo 
-e incorporen un enfoque integral y comprensivo de la ayuda, respondiendo a necesidades 
-asistenciales y también de protección de las poblaciones, la AACID está haciendo un esfuerzo por 
-identificar y apoyar la ejecución de intervenciones de calidad, mediante el reconocimiento de los 
-objetivos de la AH, los principios que la rigen y los rasgos característicos de sus diferentes ámbitos, 
-todo ello sin perder de vista la vinculación existente con las actuaciones de desarrollo. 
-En cuanto a las situaciones de crisis crónica, se establecerán criterios para seleccionar aquellos 
-sectores y problemáticas en los que la cooperación andaluza pueda aportar mayor valor añadido, y se 
-contará con la participación de los agentes de cooperación en el marco del Grupo de Trabajo de 
-Acción Humanitaria para establecer los criterios de identificación de las crisis crónicas. En la 
-actualidad, las intervenciones se han enfocado a la Población Saharaui y a los Territorios Palestinos. 
-Durante 2010 la AACID centrará la atención en mejorar la calidad de la acción humanitaria, 
-propiciando la incorporación de criterios y estándares internacionales de calidad mediante la 
-integración y fomento del uso de herramientas como la carta humanitaria “Esfera”, metodologías del 
-Compas-Qualite o el enfoque de acción sin daño entre otros. Para ello, se han incluido estándares de 
-calidad en la Orden de bases 2010 para ONGDs, incorporándose como requisitos en los diferentes 
-formatos y herramientas de formulación, seguimiento y evaluación de proyectos. Asimismo, se tendrá 
-en cuenta la consideración de tales estándares en los análisis de pertinencia y criterios de valoración 
-que se desarrollen para la AH. 
-Identificar y reforzar las capacidades de los agentes de cooperación de 
-Andalucía
-Partiendo del reconocimiento de las especificidades que presenta la AH y dentro de ésta las 
-particularidades de cada uno de los ámbitos de la AH que el PACODE recoge, es necesario identificar 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 109
-
-las experiencias y las capacidades actuales de los distintos agentes andaluces de cooperación. Para 
-ello la AACID va a realizar un diagnóstico que favorecerá la puesta en marcha y la adaptación a la 
-realidad de Andalucía de las herramientas y los procesos de la AH que desde la cooperación 
-andaluza se desarrollen. 
-Por otro lado, y para contribuir al fortalecimiento de las capacidades de los agentes andaluces, se 
-promoverán actividades de sensibilización y formación sobre temáticas vinculadas a la AH en el 
-marco de las actuaciones propuestas para el fomento de la Educación para el Desarrollo y para la 
-Formación e Investigación.
-Crear y poner en marcha dispositivos de coordinación y participación 
-Los contextos actuales en los que se producen las crisis humanitarias y la creciente complejidad de 
-los escenarios en los que se desarrolla la AH, que a menudo dificultan poder realizar una libre y 
-adecuada valoración de necesidades, el acceso y la oportuna respuesta, junto con la proliferación de 
-actores involucrados en proporcionar respuestas a las crisis, son algunos factores que condicionan 
-que la coordinación y complementariedad, a nivel local, nacional e internacional constituya un gran 
-reto y esté directamente relacionado con la eficacia e impacto de la ayuda.  
-El fomento de la participación de los agentes andaluces en la puesta en marcha de un modelo de AH 
-para Andalucía y la existencia de canales que favorezcan que la ayuda se nutra de sus áreas de 
-experiencia y conocimiento son, de forma complementaria, fundamentales para optimizar la respuesta 
-humanitaria andaluza.  
-De ahí que en el Grupo de Trabajo de AH del CACID se va promover la reflexión, el desarrollo de los 
-contenidos y la coordinación de los agentes en la elaboración y adopción de aquellos documentos 
-estratégicos y operativos que se pretendan desarrollar. 
-En dicho marco se identificarán las capacidades de intervención y las posibilidades de colaboración 
-para las emergencias y otros ámbitos de la AH con otras Consejerías y organismos de la Junta de 
-Andalucía y con otros actores públicos, especialmente con la Empresa Pública de Emergencias 
-Sanitarias 061 de la Consejería de Salud y el Grupo de Emergencias de Andalucía (GREA) de la 
-Consejería de Gobernación y con los servicios de rescate de los Ayuntamientos y Diputaciones. Se 
-pretende elaborar un protocolo de intervención desde Andalucía en emergencias para catástrofes y 
-conflictos internacionales. 
-También se seguirá trabajando, tal y como estaba previsto en el PACODE, en la conformación de un 
-Grupo Operativo específico para las emergencias para lo que se adoptará un “protocolo de actuación 
-para emergencias”, que indique claramente cómo proceder en cada convocatoria y los mecanismos 
-de coordinación que deben operar entre los agentes ante una situación de emergencia. 
-Durante 2010 se continuará promoviendo el intercambio de información y el fortalecimiento de la 
-coordinación con la cooperación española. En este sentido, se está acordando con la AECID la 
-aprobación de un protocolo de emergencia en el seno del Estado español y se van a ofrecer a la 
-Oficina de Acción Humanitaria las capacidades de los agentes andaluces para intervenir en 
-emergencias en un plazo de tiempo razonable, fundamentalmente las relativas a la coordinación de 
-recursos humanos y equipos de rescate, sanitarios, logísticos y de comunicación para emergencias, 
-con el objetivo de que una vez que acontezca la catástrofe o el conflicto, la reacción española sea 
-integral, rápida y eficaz.
-
-Página núm. 110 
-Sevilla, 17 de agosto 2010
-
-En coherencia con lo expuesto, en 2010 se promoverá la renovación del Convenio Marco de 
-Colaboración de 2006 existente con la AECID, para la inclusión de un capítulo sobre AH y, en 
-particular, de emergencia. 
-Facilitar la información, sensibilización y testimonio sobre la AH 
-El PACODE establece, en línea con las Directrices sobre la realización de actividades de visibilidad, 
-información y comunicación en el ámbito de la ayuda humanitaria de la Comisión Europea2, que la 
-sociedad andaluza deberá ser informada sobre la situación de vulnerabilidad que sufre la población 
-afectada por desastres y sobre las medidas que la administración autonómica y demás agentes de 
-cooperación andaluces adopten para contribuir a paliarla. 
-La necesidad de una comunicación eficaz nace de la obligación de ser transparentes e informar a la 
-sociedad sobre el desarrollo de la acción humanitaria andaluza, acercando la ciudadanía a las 
-actuaciones desarrolladas por los agentes de Andalucía en esta materia. Para ello, durante 2010 se 
-informará a la sociedad andaluza sobre la AH realizada, promoviendo la sensibilización sobre las 
-problemáticas abordadas, mediante la realización de las siguientes acciones:  
-x
-La AACID publicará y difundirá la información sobre la acción humanitaria en el Informe 
-Anual, que reflejará las intervenciones ejecutadas en sus diferentes ámbitos. Para el 2010 se 
-completará la información cuantitativa presentada con aspectos más cualitativos de la 
-asistencia y protección prestada.  
-x
-Se pretende participar en foros de debate, conferencias y eventos sobre AH en general y, en 
-particular, aquellas actividades concordantes que se promuevan en el marco de la Educación 
-para el Desarrollo a realizar en el 2010 por la AACID. 
-Por otro lado, el PACODE establece el testimonio como uno de los principios a ser considerados por 
-la AH andaluza. Este testimonio debe ser entendido como una forma de avanzar hacia la protección 
-de los derechos de las poblaciones víctimas de los desastres. Desde la AACID se promoverá su 
-inclusión como parte de las actuaciones humanitarias, teniendo en cuenta las limitaciones 
-operacionales que puedan existir y siempre en articulación con los otros principios humanitarios, 
-velando para que no entren en contradicción.  
-Durante 2010 se contemplará la integración del testimonio en aquellas herramientas, criterios, bases 
-reguladoras, formatos de formulación, seguimiento y evaluación de proyectos, como ya se ha hecho 
-en la Pautas para atender la emergencia del terremoto en Haití y en la propuesta de Orden de bases 
-reguladora de las subvenciones a programas y proyectos para 2010. El objetivo es facilitar la 
-identificación y subvención de proyectos de AH que incorporen el componente testimonial junto con la 
-asistencia, redundando en intervenciones que incidan en proporcionar una mayor protección a las 
-poblaciones.
-
-2 Acuerdo/Contrato Marco de Asociación/Colaboración (en inglés: FPA–Framework Partnership Agreement; en vigor desde el 
-1 de enero de 2008), que establece directrices (derechos y obligaciones) destinadas a los socios de la Comisión sobre la 
-realización de actividades de visibilidad, información y comunicación en el ámbito de la ayuda humanitaria; intenta simplificar
-los procedimientos administrativos y optimizar la aplicación y los resultados de ayuda humanitaria.
-
-Sevilla, 17 de agosto 2010 
-Página núm. 111
-
-Objetivo 3: Fortalecer la Educación para el Desarrollo de la población 
-andaluza
-Uno de los objetivos básicos de la cooperación que se recoge en la Ley Andaluza de Cooperación 
-Internacional para el Desarrollo, en su artículo 3, es la necesidad de sensibilizar e informar a la 
-sociedad andaluza sobre la situación desfavorecida que padecen otros pueblos y grupos sociales. La 
-cooperación para el desarrollo tiene un mayor impacto cuando se informa a la ciudadanía sobre las 
-causas que producen las desigualdades en los países donde trabaja la cooperación andaluza y se 
-facilitan los cauces para la participación y solidaridad social en las acciones de cooperación. 
-Durante el año 2009 se ha elaborado el primer documento borrador del Programa Operativo de 
-Educación para el Desarrollo (POED), que se encuentra actualmente en proceso de consulta a los 
-agentes de cooperación andaluza en el marco del Grupo de Trabajo de Educación para el Desarrollo 
-del Consejo Andaluz de Cooperación Internacional para el Desarrollo y elevado para su aprobación 
-por el Consejo de Gobierno de la Junta de Andalucía en 2010. El intercambio de ideas, propuestas y 
-sugerencias está permitiendo diseñar un modelo de Educación para el Desarrollo en Andalucía 
-compartido por los agentes implicados. 
-El POED persigue la realización de actuaciones para el cumplimiento de las medidas comprendidas 
-en el PACODE, amparadas en experiencias previas y adaptadas a las características de la sociedad y 
-a la política andaluza de cooperación para el desarrollo, con la perspectiva de promover una 
-Educación para el Desarrollo comprometida con la transformación social. De este modo, se aspira a 
-mejorar el impacto sobre la población andaluza en el conocimiento, comprensión y compromiso en la 
-lucha contra la pobreza y la promoción del desarrollo humano sostenible en aras de una solidaridad 
-comprometida y perdurable. 
-Las principales iniciativas a desarrollar en 2010 se centran en: i) dinamizar la coordinación de los 
-agentes de Educación para el Desarrollo; ii); apoyar las intervenciones de ED financiadas a los 
-diferentes agentes, iii) intervenir en procesos educativos; iv) promover la sensibilización y v) incentivar 
-la cultura de paz. 
-Dinamizar la coordinación de los agentes de Educación para el Desarrollo 
-En 2010 se promoverá la relación y se fomentarán espacios de encuentro que favorezcan la 
-coordinación de los diferentes agentes de Educación para el Desarrollo, en Andalucía y con la 
-Administración General del Estado, con objeto de ejecutar las medidas previstas en el PACODE y 
-desarrolladas en el POED. Se normalizarán reuniones periódicas de trabajo, intercambio de 
-información, participación en encuentros y el establecimiento de mecanismos adecuados de 
-comunicación que respondan a la diversidad de los agentes involucrados en la ED y a sus 
-necesidades específicas vinculadas a la gestión de las subvenciones.  
-
-Página núm. 112 
-Sevilla, 17 de agosto 2010
-
-Apoyar las intervenciones de Educación para el Desarrollo financiadas a los 
-diferentes agentes 
-La AACID, mediante los instrumentos de financiación existentes, continuará apoyando las iniciativas 
-de los agentes del ámbito andaluz enmarcadas en las Líneas Prioritarias recogidas en el PACODE: 
-Intervención en procesos educativos, Sensibilización y Cultura de Paz.  
-Una de las novedades más destacadas para 2010 es la posibilidad de apoyar programas de ED a las 
-ONGDs lo que ha implicado la elaboración y adecuación de las herramientas necesarias para la 
-formulación, valoración de su pertinencia, el seguimiento técnico y administrativo de su ejecución y su 
-evaluación posterior, recogiendo las especificidades propias de la Educación para el Desarrollo. 
-Intervenir en procesos educativos 
-Uno de los grandes retos en materia de ED es alcanzar acuerdos con los órganos competentes en la 
-educación reglada. En tal sentido, se mantendrán reuniones de coordinación con la Consejería de 
-Educación y la Consejería de Economía, Innovación y Ciencia, para la implementación de las medidas 
-desarrolladas en el POED respecto a la promoción de actividades de ED en los niveles de educación, 
-formación de agentes educativos y promoción de metodología que respondan a los objetivos de la ED. 
-Asimismo, se analizarán las posibles sinergias en la labor de fomento de la Cultura de Paz. 
-Para propiciar la adecuada interrelación con los agentes de ED, se realizará un diagnóstico que 
-permita conocer el alcance de sus intervenciones en los procesos educativos (particularmente en la 
-promoción de actividades en los niveles de educación y la formación de agentes), identificando sus 
-capacidades, áreas de trabajo más significativas, experiencias y estrategias desarrolladas, en aras a 
-lograr un mayor impacto en las intervenciones de Educación para el Desarrollo. 
-Promover la sensibilización 
-La AACID continuará apoyando las intervenciones de sensibilización en el marco de la Orden de 
-proyectos y programas a ONGD.  
-Asimismo, siendo consciente del papel primordial que juegan los medios de comunicación en la 
-transmisión de la información y de la realidad desde una perspectiva crítica en los procesos de cambio 
-social, y a la luz de la cobertura del terremoto de Haití, se hace necesario se hace necesario 
-reflexionar sobre el papel que los medios de comunicación pueden  jugar en la cooperación al 
-desarrollo y, específicamente, en la acción humanitaria. Por ello, en 2010 se realizará un foro para 
-debatir y reflexionar, entre otros aspectos, el tratamiento que se da a estas cuestiones, la imagen que 
-se proyecta, el mensaje que llega a la sociedad y el modelo de solidaridad que genera. 
-Incentivar la Cultura de Paz 
-La Comunidad Autónoma Andaluza cuenta con un bagaje histórico y experiencia acumulada por 
-diferentes entidades que pueden aportar un valor añadido en el refuerzo de la imagen de Andalucía 
-como tierra de encuentro de civilizaciones y culturas. Se identificarán las capacidades de los agentes 
-y el alcance de las iniciativas desarrolladas en referencia al Plan Andaluz de Educación para la 
-promoción de la Cultura de la Paz y la No-Violencia, así como al artículo 2 de la Ley de Fomento de la 
-Educación y la Cultura de la Paz en colaboración con la Administración General del Estado.
-Dada la existencia de diferentes instituciones con sede en Andalucía (Fundación Tres Culturas, 
-Fundación El Legado Andalusí, la Casa Árabe y Fundación Barenboim), se promoverá la coordinación 
-con estas entidades y con las Universidades, culminando este proceso con la firma de acuerdos 
-específicos con dichos agentes.  
-
-Sevilla, 17 de agosto 2010 
-Página núm. 113
-
-Objetivo 4: Mejorar el ciclo de la cooperación andaluza 
-En los dos primeros años de vigencia del PACODE se han realizado importantes avances en la 
-política de cooperación andaluza en los niveles estratégico y operativo de la planificación y se ha 
-iniciado la revisión y mejora de los mecanismos de gestión, ejecución, seguimiento y evaluación. En 
-concordancia con lo establecido en el PACODE y con la filosofía de trabajo de la cooperación 
-andaluza, los procesos de planificación impulsados por la AACID han sido objeto de consulta y 
-consenso con los agentes de la cooperación andaluza: ONGDs, Entidades Locales, Universidades, 
-Organizaciones Sindicales y Organizaciones Empresariales, así como con el resto de organismos de 
-la Junta de Andalucía con competencias en los aspectos planificados. 
-Para canalizar dicha participación se han utilizado los Grupos de Trabajo creados en el seno del 
-Consejo Andaluz de Cooperación Internacional para el Desarrollo. Las reflexiones y aportaciones 
-realizadas han contribuido, por una parte, a analizar la realidad de manera más plural y contrastada, 
-compartiendo las áreas de mejora que cada agente haya detectado en su experiencia previa de 
-trabajo en el país, y, por otra, ha facilitado el establecimiento de los objetivos a alcanzar y la definición 
-de líneas prioritarias y medidas. El propósito ha sido recoger el valor añadido que cada grupo de 
-agentes puede aportar sobre la base de su experiencia, en una propuesta abierta y sumadora, lo que 
-sin duda ha facilitado el planteamiento de programas y proyectos de desarrollo concretos.  
-El esfuerzo de planificación y programación coordinado con los agentes andaluces ha supuesto un 
-ejercicio de coordinación y complementariedad de las actuaciones, sometido al seguimiento y la 
-evaluación necesaria que facilite mantener un proceso de aprendizaje continuo en la definición y 
-aplicación de las intervenciones andaluzas de cooperación para el desarrollo. 
-Las principales líneas de trabajo en relación con este objetivo son i) la consolidación del ciclo de la 
-planificación derivado del PACODE; ii) la simplificación de los procesos de gestión y ejecución de las 
-intervenciones financiadas por la Junta de Andalucía y iii) el fortalecimiento de los mecanismos de 
-seguimiento y evaluación. 
-Consolidar el ciclo de la planificación derivado del PACODE 
-La aprobación por el Consejo de Gobierno de once Programas Operativos por País Prioritario de la 
-cooperación andaluza y la elaboración de los restantes, junto con los Programas Operativos de Acción 
-Humanitaria y Educación para el Desarrollo, actualmente en proceso de finalización, ponen de 
-manifiesto el consenso de los agentes andaluces en la definición de estrategias y marcos de 
-actuación compartidos. Así, han sido la participación, concertación y complementariedad de los 
-agentes andaluces y la asociación con los actores locales en los países de destino de la cooperación 
-los principios que han guiado la elaboración de estos Programas, utilizando los espacios de diálogo 
-creados en el seno del Consejo Andaluz de Cooperación Internacional para el Desarrollo (los Grupos 
-de Trabajo), reuniones bilaterales y visitas a terreno. 
-Durante el año 2010 se continuará con la elaboración de los documentos estratégicos previstos en el 
-PACODE hasta completar la fase de planificación, siguiendo el enfoque participativo que presidió la 
-elaboración de estos documentos en 2009 y buscando el alineamiento con las necesidades y 
-prioridades de los países socios, la complementariedad y coordinación de las actuaciones de los 
-
-Página núm. 114 
-Sevilla, 17 de agosto 2010
-
-agentes andaluces de cooperación con las desarrolladas por otros actores de cooperación, y, 
-especialmente con las directrices de la política de cooperación para el desarrollo de la Administración 
-General del Estado. 
-En 2010 está previsto concluir la programación por país, la finalización de los borradores de 
-programas operativos de Mauritania, Ecuador, Perú, Burkina Faso, Guinea Bissau, Malí, República 
-Democrática del Congo, Senegal y Togo, y la aprobación de los programas de Marruecos y Honduras. 
-Además de estos marcos de planificación bilateral, durante 2010 se continuará con la concreción de 
-los seis ejes de trabajo acordados con el Sistema de Integración Centroamericana. Bajo un enfoque 
-de cooperación regional se plasmará en un Programa Operativo articulador las medidas a definir para 
-cada uno de esos ejes en los Programas Operativos de los siete países que conforman el SICA. 
-Los Programas Operativos para la Acción Humanitaria y la Educación para el Desarrollo serán 
-sometidos a aprobación por el Consejo de Gobierno durante este año, una vez concluido el proceso 
-de consultas a los agentes de cooperación andaluces. Puesto que el objetivo es comenzar su 
-implementación de manera paulatina, algunas de las actuaciones para las que ya existe consenso han 
-sido incluidas en este Plan Anual, garantizando así la coherencia del sistema de planificación. 
-Asimismo, se dará un impulso a la programación estratégica en materia de Formación e Investigación, 
-iniciada en 2009 con la creación de un grupo de trabajo con los miembros de la Red Andaluza de 
-Cooperación Universitaria, en la que se debatieron las propuestas a incluir en el futuro Programa 
-Operativo, cuyo diagnóstico estará finalizado en 2010, y en el que además de las universidades, 
-principales agentes en formación e investigación, participarán otros agentes de cooperación con 
-experiencia en estos ámbitos, tales como, entre otros, las ONGDs. 
-Simplificar los procesos de gestión y ejecución de las intervenciones 
-financiadas por la Junta de Andalucía 
-La experiencia de trabajo en estos dos años de funcionamiento de la AACID ha permitido profundizar 
-en el análisis de los mecanismos de gestión y ejecución que utiliza, identificando sus fortalezas y las 
-áreas de mejora a afrontar. 
-En 2010 se pondrá en marcha una reforma procedimental  que, como se anunciaba en la 
-presentación, tiene como objetivo aunar, simplificar y agilizar los trámites necesarios para acceder a la 
-financiación que la AACID otorga a los agentes andaluces de cooperación. 
-El referente fundamental de esta reforma es la sustitución de las tradicionales Bases reguladoras de 
-ayudas a ONGDs para proyectos de las distintas modalidades de cooperación por una única norma en 
-la que se agrupan las diferentes líneas de financiación abiertas a las ONGDs para la Ayuda al 
-Desarrollo, la Educación para el Desarrollo, la Acción Humanitaria y la Formación e Investigación. Uno 
-de los rasgos característicos de estas nuevas Bases reguladoras es la financiación de programas 
-plurianuales. Los programas se han definido como un conjunto de intervenciones enfocadas hacia el 
-logro de objetivos específicos que se complementan para la consecución de un objetivo general. 
-Estas intervenciones están orientadas hacia una población destinataria de un país con una duración 
-establecida (no mayor de 48 meses) y con financiación plurianual. El objetivo es propiciar la 
-planificación a medio plazo y abundar en la previsibilidad de la financiación en coherencia con los 
-lineamientos para la mejora de la eficacia de la ayuda. Otro de los aspectos destacados es la 
-incorporación por primera vez de la posibilidad de apoyar consorcios o agrupaciones de ONGDs, en 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 115
-
-línea con los criterios de calidad establecidas por el PACODE como son los de generar un alto valor 
-añadido y concentrar geográfica y sectorialmente las actuaciones. 
-Para la mejora del proceso de tramitación y evaluación ex ante de subvenciones, la AACID trabajará 
-en 2010 por simplificar y adaptar el sistema de verificación de la pertinencia de las intervenciones de 
-cooperación.
-En la senda de la consecución de una administración electrónica que facilite el acceso de la 
-ciudadanía a las actividades de la cooperación andaluza, 2010 será el primer año en el que se 
-comenzará la implantación paulatina de la tramitación telemática en procesos de la AACID. En este 
-sentido se va a actualizar el marco normativo del Registro de Agentes de la Cooperación Andaluza 
-(RACDA) para, entre otros aspectos, incorporar el procedimiento telemático de inscripción en el 
-Registro, y se va a regular el procedimiento telemático para la solicitud de subvenciones de las 
-ONGDs.
-Como continuación de los trabajos comenzados en 2009 en relación con las Pautas para la 
-Elaboración de los POPP, se seguirán confeccionando contenidos para Guía de la Cooperación 
-Andaluza. Esta Guía, que nace con la vocación de convertirse en referencia para los agentes 
-andaluces, y que estará actualizada permanentemente, recogerá en su primera publicación la 
-normativa de la Junta de Andalucía en materia de cooperación internacional para el desarrollo, los 
-Programas Operativos aprobados, las bases reguladoras para la concesión de subvenciones de las 
-distintas modalidades de la cooperación, el sistema de verificación de la pertinencia de las 
-intervenciones, las orientaciones pertinentes para la incorporación de las prioridades horizontales en 
-los diferentes ámbitos y fases de actuación, el Decreto con los procedimientos de seguimiento y 
-evaluación de proyectos y programas de cooperación y el sistema de funcionamiento del RACDA. 
-Fortalecer los mecanismos de seguimiento y evaluación de la cooperación 
-andaluza
-Con el objetivo de contribuir a la mejora de la eficacia y calidad de la cooperación andaluza, la AACID 
-continuará en 2010 con la apuesta por fortalecer los sistemas de seguimiento y evaluación que 
-permitan: 
-
-Disponer de insumos que retroalimenten el proceso de toma de decisiones sobre las acciones a 
-emprender y las estrategias de actuación futuras, completando la transferencia efectiva de las 
-mejores prácticas. 
-
-Satisfacer las necesidades de información de todos los actores involucrados en las 
-intervenciones, lo que permite la rendición de cuentas del destino, gestión y resultados de los 
-fondos de cooperación a la ciudadanía andaluza y a las instituciones y personas de los países en 
-los que se ejecutan las actuaciones. 
-
-Además, el acceso a esta información por parte de la ciudadanía favorecerá la concienciación y 
-sensibilización sobre los problemas de desarrollo y sobre la contribución que desde Andalucía se 
-hace. 
-La evaluación se erige como pilar básico de una gestión orientada a resultados que genera 
-información sobre lo realizado y sus efectos. Por ello, desde la AACID se promoverá el desarrollo y 
-
-Página núm. 116 
-Sevilla, 17 de agosto 2010
-
-difusión de una cultura de la evaluación entre los agentes andaluces de cooperación mediante el 
-aprovechamiento de las experiencias previas y de las evaluaciones hechas en el sector. 
-Consecuentemente, y dando cumplimiento al Artículo 9 de la Ley Andaluza de Cooperación, durante 
-2010 se normalizarán los procedimientos, pautas y herramientas necesarias para realizar el 
-seguimiento y evaluación de la cooperación de la Administración de la Junta de Andalucía. Los 
-procedimientos, que serán sometidos a consenso para la incorporación de las principales necesidades 
-y retos del sistema, integrarán los requerimientos de información que el Comité de Ayuda al Desarrollo 
-de la OCDE impone para los países que la componen, y que anualmente desde la Junta de Andalucía 
-se deben remitir al Ministerio de Asuntos Exteriores y de Cooperación para la elaboración de los 
-Informes de Seguimiento de los PACI en los que se recogen los datos de la cooperación de las 
-CC.AA.
-Estos procedimientos de seguimiento y evaluación se recogerán en un Decreto, que ya comenzó a 
-elaborarse en 2009, donde se plasmarán el objeto, el ámbito de aplicación y los fundamentos del 
-seguimiento y la evaluación, se normalizarán las actuaciones que estarán sometidas a evaluación, las 
-responsabilidades esperadas y los roles de cada agente de cooperación en las evaluaciones, así 
-como los principios y estándares de calidad de las mismas. 
-La publicación de este Decreto, que muestra el compromiso de la ACCID con la mejora de la eficacia 
-y calidad de la cooperación para el desarrollo y con la transparencia en su gestión, constituirá una 
-iniciativa pionera no sólo en el ámbito de la cooperación internacional, sino en el de las políticas 
-públicas nacionales, erigiéndose además como evidencia de la interiorización e institucionalización de 
-la función de evaluación en la administración pública andaluza. 
-En respuesta a lo establecido en el PACODE, las actividades programadas por la AACID en relación 
-con el seguimiento y la evaluación se plasman en el Plan Anual de Evaluaciones que para el año 2010 
-consistirá fundamentalmente en lo siguiente: 
-
-La realización de 102 evaluaciones externas de intervenciones canalizadas a través de ONGDs, 
-en el marco de las obligaciones que para proyectos con presupuesto validado superior a 250.000 
-euros exige desde 2006 la Junta de Andalucía a las ONGDs subvencionadas. 
-
-La realización de la evaluación intermedia del PACODE, en respuesta a lo establecido en su 
-capítulo sobre seguimiento y evaluación, y que tendrá como objetivo obtener información 
-relevante que permita valorar la idoneidad de la estrategia propuesta e identificar las acciones 
-necesarias a emprender para el correcto desarrollo del Plan. 
-
-La realización de la evaluación de la cooperación andaluza en Perú, que viene motivada por ser 
-uno de los países en el que la cooperación andaluza ha volcado más recursos humanos y 
-financieros en los últimos tres años. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 117
-
-Objetivo 5: Mejorar las capacidades de los agentes de la cooperación 
-internacional y apoyar sus intervenciones 
-Tradicionalmente la cooperación andaluza se ha caracterizado por la diversidad y pluralidad de 
-agentes que intervienen en la ejecución de acciones de cooperación para el desarrollo. En la Ley 
-Andaluza de Cooperación Internacional para el Desarrollo se recogen referencias expresas a la 
-participación de los agentes en la ejecución de la cooperación andaluza. El PACODE reconoce 
-expresamente como principales agentes de la cooperación andaluza a la Administración de la Junta 
-de Andalucía, las ONGDs, las Administraciones Locales, las Universidades, las Organizaciones 
-Sindicales y las Organizaciones Empresariales. 
-Como se recoge en el PACA 2009, los agentes andaluces han jugado un importante papel en la 
-contribución a la reducción de la pobreza, y año tras año han ido incrementando sus recursos 
-humanos y financieros destinados a este fin, aumentando su presencia en un mayor número de 
-países y diversificando su intervención en diferentes sectores prioritarios de la cooperación 
-internacional. Con objeto de fortalecer la coordinación y la armonización de las intervenciones, se 
-requiere realizar un esfuerzo orientado a reforzar sus capacidades, apoyar sus intervenciones de 
-cooperación y establecer mecanismos que aseguren la complementariedad y coordinación de sus 
-actuaciones.
-Uno de los principales mecanismos articulados por la cooperación andaluza para conseguir esta 
-mayor coordinación y complementariedad lo constituye el proceso de planificación emprendido en 
-este periodo. Con la elaboración de los Programas Operativos geográficos y horizontales se pretende 
-consensuar y establecer una agenda común de actuación para todos los agentes andaluces que 
-intervienen en procesos de desarrollo, garantizando tanto la concentración sectorial y geográfica como 
-un mayor impacto de las actuaciones en el territorio.  
-En este marco, durante 2010 los principales retos que asumirá la AACID serán: i) la promoción de la 
-participación y coordinación de los agentes andaluces en el desarrollo del PACODE; ii) el apoyo al 
-voluntariado y a los cooperantes; y iii) el fortalecimiento de las capacidades de los agentes del ámbito 
-andaluz de cooperación mediante la formación y la investigación.  
-Promover la participación y coordinación de los agentes andaluces en el 
-desarrollo del PACODE 
-La ejecución del PACODE está regida por los principios de colaboración, complementariedad y 
-calidad de la ayuda, y es precisamente en este ámbito de colaboración, como garantía de la unidad y 
-coherencia de la política andaluza de cooperación, donde tiene lugar el necesario consenso con estos 
-agentes. De ahí que el principal reto de este Plan Anual sea conseguir una mayor implicación, 
-coordinación y complementariedad de las actuaciones de cooperación para el desarrollo de los 
-agentes de la cooperación andaluces, en línea con los principios y prioridades establecidos en el 
-PACODE. Para ello, se dinamizarán y reforzarán los órganos de participación, coordinación y consulta 
-existentes, y se continuará la renovación de los Convenios de colaboración con los distintos agentes 
-iniciada el ejercicio anterior. 
-
-Página núm. 118 
-Sevilla, 17 de agosto 2010
-
-Mediante la Comisión de Cooperación para el Desarrollo, como órgano colegiado de la Administración 
-de la Junta de Andalucía para la coordinación de su política de cooperación, se seguirá trabajando en 
-el fortalecimiento de la participación de las Consejerías y organismos públicos de la Junta de 
-Andalucía en su vinculación con el desarrollo del ciclo de planificación de la cooperación andaluza, 
-especialmente en el diseño y puesta en marcha de los Programas Operativos. 
-Considerando el importante papel del Consejo Andaluz de Cooperación Internacional para el 
-Desarrollo (CACID) en el diseño de la política andaluza de cooperación, durante el año 2010 se 
-seguirá apostando por un mayor protagonismo de este órgano con el objetivo de promover su función 
-como órgano consultivo y espacio de participación y consenso que sustente las actuaciones de 
-cooperación que desarrollan todos los agentes andaluces (Administración Local, ONGDs, 
-Universidades y organizaciones sindicales y empresariales de Andalucía, junto con la Administración 
-de la Junta de Andalucía). El Consejo se reunirá, al menos, tres veces durante 2010. 
-Para concretar la participación de los agentes en la planificación, seguimiento y evaluación de la 
-cooperación andaluza, en 2009 se crearon los cinco Grupos de Trabajo previstos en el PACODE. 
-Estos Grupos, de carácter permanente, se conciben como un espacio de reflexión, debate y consulta 
-del que disponen los agentes andaluces para la participación en el proceso de ejecución del 
-PACODE, promoviendo la complementariedad y apoyo a las acciones que se desarrollan. 
-Complementan los canales de comunicación que desde la AACID se mantienen con los distintos 
-agentes de la cooperación andaluza. 
-La experiencia de trabajo con estos Grupos, cuya andadura comenzó con la elaboración de los 
-Programas Operativos, ha puesto de manifiesto la utilidad del enfoque seguido, en el que las 
-reflexiones y aportaciones de quienes participan han contribuido a analizar la realidad de manera más 
-plural y contrastada, compartiendo las áreas de mejora que cada agente haya detectado en su 
-experiencia previa de trabajo en el país. Asimismo, ha facilitado el establecimiento de los objetivos a 
-alcanzar y la definición de líneas prioritarias y medidas. 
-Para estos Programas Operativos se ha previsto la creación de Comités de Seguimiento en los que 
-estarán representados los agentes andaluces implicados en su diseño, ejecución, seguimiento y 
-evaluación.
-La participación en los espacios de diálogo creados permitirá ir configurando, de forma consensuada, 
-el rol de cada agente en la cooperación andaluza para el desarrollo. Además, para el caso de las 
-ONGDs, en 2010 se finalizará el procedimiento para la Calificación para acceder a programas iniciado 
-en 2009, nuevo instrumento para la cooperación andaluza. Esta apuesta por el apoyo a programas de 
-mayor alcance que los proyectos persigue aumentar la eficacia e impacto de la cooperación. Puesto 
-que la dotación financiera es mayor, los requisitos para acceder a ella se centran en la experiencia, 
-estructura y capacidad institucional de la ONGD. 
-Además, se firmarán Convenios con los agentes que a continuación se relacionan que tendrán como 
-finalidad la financiación de proyectos y programas definidos a partir de los ejes prioritarios de 
-colaboración previstos en el PACODE y en coherencia con los Programas Operativos vigentes: 
-
-La FAMP, mediante el FAMSI, que tendrá como principal objetivo el fortalecimiento institucional, 
-la gestión de servicios básicos a la comunidad, el desarrollo local y el apoyo a proyectos y 
-programas de ayuda al desarrollo, acción humanitaria, educación para el desarrollo, formación e 
-investigación, seguimiento y evaluación. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 119
-
-
-La Confederación de Empresarios de Andalucía, para fortalecer las estructuras empresariales de 
-los países del Sur, la promoción de su tejido productivo y la economía social y la promoción de la 
-Responsabilidad Social Empresarial. 
-
-Las Universidades, que tendrán como objetivos apoyar la formación y la investigación en materia 
-de cooperación internacional para el desarrollo, el fortalecimiento institucional y la promoción del 
-voluntariado. 
-Y se dará seguimiento a los convenios suscritos con: 
-
-La CAONGD, que tiene como objetivo fundamental reforzar el servicio que ésta presta al sector 
-de la cooperación en Andalucía mediante el asesoramiento técnico a proyectos y gestión de 
-organizaciones, el impulso y apoyo a campañas de sensibilización social, la formación y la 
-elaboración de documentos y propuestas que supongan una incidencia en las políticas andaluzas 
-de cooperación. 
-
-Las Organizaciones Sindicales UGT y Comisiones Obreras, cuya actuación se centra en la 
-promoción del fortalecimiento institucional de las organizaciones sindicales de los países del Sur, 
-el fomento del diálogo social, la puesta en marcha de actuaciones de sensibilización, educación 
-para el desarrollo y formación. 
-Apoyar al voluntariado y a cooperantes 
-Una de las medidas a desarrollar en el marco del PACODE es la elaboración del Programa Andaluz 
-de Voluntariado en la Cooperación Internacional para el Desarrollo, en colaboración con la Agencia 
-Andaluza del Voluntariado. El objetivo es fortalecer y articular este colectivo, incluyendo acciones 
-dirigidas a la cualificación y promoción del personal voluntario que vaya a trabajar, tanto en terreno 
-como en sede. 
-Aunque se han realizado acciones vinculadas a la identificación de experiencias exitosas en este 
-campo, en 2010 e plantea pretende completar la fase de diagnóstico y la definición del Programa. 
-Para ello, se contará con los agentes del ámbito andaluz directamente relacionados con la promoción 
-del voluntariado vinculado a la cooperación internacional. Este Programa abordará, entre otras, las 
-siguientes cuestiones: 
--
-La formación del personal voluntario en materia de cooperación internacional para el 
-desarrollo, acción humanitaria, educación para el desarrollo y formación e investigación. 
--
-El apoyo económico a los agentes andaluces de cooperación internacional para el desarrollo 
-que cuenten con personal voluntario. 
-En relación con el Estatuto de los cooperantes, se espera concluir con la definición de los términos de 
-la colaboración entre la AECID y la AACID en lo que respecta a la regulación del intercambio de 
-información sobre las entidades promotoras de la cooperación internacional y los contratos y acuerdos 
-
-Página núm. 120 
-Sevilla, 17 de agosto 2010
-
-complementarios de destino de las personas cooperantes; así como la determinación de la aportación 
-económica de la AACID al seguro colectivo de cooperantes promovido por la AECID3.
-La Administración de la Junta de Andalucía cumplirá el Estatuto del Cooperante en las contrataciones 
-de personal y se hará un seguimiento de su cumplimiento por parte de los distintos agentes de 
-cooperación a los que apoye, estableciéndolo como requisito previo en la concesión de subvenciones. 
-Para ello, en el Convenio Marco de Colaboración que se pretende renovar con la AECID se 
-establecerán las responsabilidades que cada administración tendrá respecto al seguimiento del 
-cumplimiento del Estatuto del Cooperante por parte de los agentes de cooperación para el desarrollo 
-que operen desde Andalucía. En esta línea, se prevé la realización de una actuación informativa del 
-Convenio firmado entre los agentes de cooperación internacional para el desarrollo. 
-Fortalecer las capacidades de los agentes andaluces mediante la Formación y 
-la Investigación 
-Entre los fines perseguidos por la cooperación andaluza se encuentra el fortalecimiento de las 
-capacidades de los agentes andaluces, tanto institucionales como técnicas, para lo que se continuará 
-con el apoyo financiero que tradicionalmente se ha prestado a aquellos agentes reconocidos en el 
-PACODE y se iniciará un nuevo marco de actuación en materia de formación, investigación e 
-innovación que tendrá como referencia el Programa Operativo de Formación e Investigación. Su 
-elaboración se acometerá en 2010, siguiendo los mismos principios que orientan la elaboración del 
-resto de Programas Operativos: participación de los agentes de cooperación en su elaboración, 
-coherencia con el resto de la programación estratégica de la cooperación andaluza y 
-complementariedad con otras estrategias nacionales que durante 2010 se lanzarán (Plan de Acción 
-de Investigación para el Desarrollo y Estudios sobre Desarrollo y con la Estrategia de Ciencia, 
-Tecnología e Innovación para el Desarrollo). 
-Desde la AACID se considera que el ámbito de la cooperación internacional para el desarrollo, como 
-campo de conocimiento, requiere de la innovación necesaria para avanzar en la consecución de 
-resultados. La elaboración del Programa partirá de la identificación de los agentes andaluces con 
-interés en la formación, investigación e innovación en cooperación para el desarrollo con el objetivo de 
-favorecer su participación en la configuración de una red multidisciplinar de colaboración e 
-intercambio de ideas y experiencias que ofrezca insumos a los procesos de planificación en este 
-ámbito. La coordinación de esta red tendrá como referencia el Grupo de Trabajo de Formación e 
-Investigación del Consejo Andaluz de Cooperación Internacional para el Desarrollo, creado en 2009. 
-Paralelamente a la elaboración del diagnóstico del Programa de Formación e Investigación se 
-firmarán Convenios de Colaboración con las Universidades andaluzas para integrar la formación y la 
-investigación en los procesos de cooperación para el desarrollo y así proveer de la capacidad 
-investigadora y del respaldo metodológico a los agentes de cooperación. 
-
-3 El Real Decreto 519/2006, de 28 de abril, por el que se establece el estatuto de los cooperantes y la orden AEC/163/2007, 
-de 25 de enero, por la que se desarrolla el Real Decreto 519/2006 aprueban el marco jurídico en el que debe desarrollarse la 
-labor de las personas cooperantes, pretendiendo garantizar los derechos de quienes desarrollan actividades de cooperación 
-y contribuir a un mejor desarrollo de las mismas. La AACID pretende contribuir a garantizar, junto con la AECID, que su 
-contenido sea respetado por la cooperación que se desarrolle a partir de fondos procedentes del Presupuesto de la 
-Comunidad Autónoma de Andalucía. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 121
-
-En 2010 se reanudará la financiación a ONGDs para la realización de proyectos y programas de 
-formación e investigación, modalidades incluidas en la propuesta de nueva Orden de Bases 
-reguladoras de las subvenciones a las ONGDs en el ámbito de la cooperación. El objetivo que se 
-persigue es facilitar el tratamiento de temas relacionados con la creación y movilización del 
-conocimiento para el cambio social y económico.  
-También se diseñará un Plan de formación para el personal de la AACID, tanto en sede como en 
-terreno, para la actualización y mejora de las capacidades técnicas, buscando respuestas a las 
-necesidades formativas que favorezcan el fortalecimiento institucional de la Agencia, con objeto de 
-conseguir un adecuado funcionamiento de su estructura organizativa y una capacidad de gestión de 
-mayor calidad. 
-
-Página núm. 122 
-Sevilla, 17 de agosto 2010
-
-Objetivo 6: Garantizar la consideración de las Prioridades Horizontales 
-en las distintas fases de la cooperación andaluza 
-En 2009 se inició el camino hacia la configuración de una estrategia para la efectiva integración de las 
-Prioridades Horizontales (PPHH) definidas en el PACODE. Durante 2010 se continuará trabajando 
-para su inclusión en los documentos de planificación y en los formularios de la nueva Orden de 
-Subvenciones a ONGDs para garantizar su consideración en todo el ciclo de las intervenciones. 
-Igualmente, se desarrollará la formación, sensibilización, comunicación y difusión de las PPHH.  
-Es necesario apuntar que la consideración sistemática de las PPHH en todos los ámbitos implica un 
-trabajo gradual que genere cambios en la cultura y prácticas de las instituciones y organizaciones de 
-la cooperación andaluza. Las medidas a realizar en 2010 son: i) incluir las PPHH en la planificación 
-estratégica y operativa y en la gestión de la cooperación; ii) formar y comunicar sobre las PPHH; y iii) 
-desarrollar las actuaciones previstas como G+. 
-Incluir las PPHH en la planificación estratégica y operativa y en la gestión de 
-la cooperación
-En el marco de la planificación estratégica, se incorporarán las PPHH en los Programas Operativos 
-que durante este año se aborden, asegurando su efectiva transversalización. Para ello, se 
-incorporarán indicaciones específicas, vinculadas a las líneas y sectores priorizados y atendiendo a la 
-problemática identificada, proponiendo medidas coherentes con lo establecido para cada prioridad 
-horizontal en el PACODE.
-Paralelamente a este análisis, y con el objetivo de insistir en la necesidad de su integración en la 
-definición y ejecución de los instrumentos de la planificación operativa, se realizará una revisión de las 
-herramientas e instrumentos usados en la identificación, formulación, ejecución, seguimiento y 
-evaluación de las actuaciones financiadas para incorporar los requerimientos de cada prioridad 
-horizontal. En concreto, se llevarán a cabo los siguientes trabajos: 
-
-Incorporación de las PPHH en la Orden de Bases reguladora de las subvenciones a 
-proyectos y programas de ONGDs y en los Convenios a suscribir con otros agentes de 
-cooperación, tanto en la definición de los criterios de valoración de la pertinencia de las 
-intervenciones como en las herramientas para su formulación, seguimiento y, en su caso, 
-evaluación.
-
-Diseño de unas Pautas para la Elaboración de diagnósticos que consideren las PPHH. Estas 
-pautas, metodológicas y prácticas, tienen como objetivo orientar a los agentes de 
-cooperación durante el proceso de identificación de los problemas y necesidades de los 
-colectivos, territorios y sectores en los que pretenden centrar sus intervenciones para 
-asegurar el análisis de necesidades desde un enfoque integral. 
-
-Definición de un sistema de datos desagregados e indicadores específicos de las PPHH que 
-permitan realizar el seguimiento y evaluación de los efectos de las intervenciones andaluzas 
-sobre la situación de partida de cada prioridad horizontal y los beneficios de su integración en 
-el ciclo de las intervenciones. 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 123
-
-
-Inclusión de criterios relativos a las PPHH en el Decreto de Seguimiento y Evaluación de la 
-Cooperación Andaluza. 
-
-Realización de la valoración, seguimiento intermedio y final de intervenciones de cooperación 
-vinculadas a las PPHH. 
-Formar y comunicar sobre las PPHH 
-En coherencia con la apuesta por fortalecer la coordinación de los agentes de cooperación andaluces, 
-en relación con las PPHH se desarrollará una línea de intervención en el ámbito de la comunicación y 
-en el de la formación de los agentes de la cooperación andaluces. 
-En cuanto a la comunicación, el objetivo es informar y mantener un proceso de actualización continuo 
-al personal de la AACID y a los agentes de la cooperación andaluza para facilitar la comprensión y la 
-incorporación de las PPHH en el ciclo de las intervenciones, así como difundir las prácticas y 
-lecciones aprendidas relevantes en estas materias. En este proceso también se pretende propiciar un 
-conocimiento de experiencias e iniciativas exitosas de organismos de la Administración Autonómica 
-Andaluza con competencias en los ámbitos de actuación de las Prioridades Horizontales. La 
-estrategia de comunicación se desarrollará en tres etapas: 1) Diagnóstico que permita recoger el nivel 
-de implantación, grado de funcionalidad y propuestas de mejora sobre la consideración de las PPHH; 
-2) Diseño y desarrollo del Plan de Comunicación y 3) Seguimiento y evaluación del Plan de 
-Comunicación. 
-En el ámbito formativo se van a desarrollar acciones destinadas a los agentes para transferir el 
-desarrollo metodológico e instrumental que desde el enfoque integral propuesto en relación con las 
-PPHH se va a llevar a cabo en 2010. Se continuará fortaleciendo las capacidades técnicas del 
-personal de la Agencia que favorezcan la integración de las PPHH en la planificación, estratégica y 
-operativa, hacia la consecución de una cooperación de mayor calidad. 
-Estos elementos, que conformarán la estrategia de las PPHH que se pretende concluir en 2011, 
-enfocados de forma práctica sobre las características de la cooperación andaluza, irán 
-incorporándose a la Guía de la Cooperación Andaluza. 
-Desarrollar las actuaciones previstas como G+ 
-Además de ser una prioridad horizontal, la promoción de la equidad de género es para la cooperación 
-andaluza tanto una prioridad sectorial (recogida en el Objetivo 1), como un fuerte compromiso 
-institucional en el marco del Programa de Presupuestos Sensibles al Género de la Junta de 
-Andalucía, dada la calificación de la AACID como G+, en reconocimiento a su gran potencial como 
-agente transformador de las relaciones de género. 
-Siguiendo las indicaciones establecidas en el Documento de Orientaciones Estratégicas (DOE G+), la 
-AACID ha concretado las actuaciones sobre la inclusión de la dimensión de género en la planificación 
-estratégica, instrumentos y herramientas de la cooperación para el desarrollo andaluza. Para 2010 
-estas actuaciones son las siguientes: 
-
-Página núm. 124 
-Sevilla, 17 de agosto 2010
-
-
-En cuanto a la producción de diagnósticos sensibles al género, se realizará el diagnóstico de 
-Ecuador, por su relevante papel en la promoción de uno de los ejes de trabajo de la AACID: 
-la economía de los cuidados4.
-
-Un diagnóstico sobre la integración de la perspectiva de género en la Acción Humanitaria en 
-el ámbito de actuación de la AACID, por la urgente necesidad de aplicar el principio del “Do 
-No Harm” paliando así los efectos de las intervenciones que no integran la perspectiva de 
-género. 
-
-Un diagnóstico sobre la integración de la perspectiva de género en las actuaciones 
-financiadas por la AACID. 
-
-Una metodología para la elaboración de diagnósticos país con enfoque de género.
-Además de lo anterior, y en cumplimiento del compromiso de la AACID como Organismo G+, se 
-enfocará sus esfuerzos, mediante el apoyo de intervenciones de cooperación, formación e 
-investigación, hacia el fortalecimiento de los siguientes tres ejes: la producción de diagnósticos 
-sensibles al género, la economía de los cuidados y la erradicación de la violencia de género. 
-
-4 Consenso de Quito, compromiso resultado de la X Conferencia Regional sobre la Mujer de América Latina y el 
-Caribe. 2007 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 125
-
-Marco presupuestario (previsiones) 
-En la tabla siguiente se presentan las previsiones de asignación presupuestaria de la cooperación 
-andaluza para el año 2010 desagregadas por objetivos.  
-Tabla 1. 
-Presupuesto por objetivos 
-Objetivo
-Presupuesto estimado 
-Generar procesos de desarrollo en las áreas geográficas prioritarias de la 
-cooperación andaluza 
-86.122.776 
-Consolidar la Acción Humanitaria Andaluza 
-11.205.297 
-Fortalecer la Educación para el Desarrollo de la población andaluza 
-11.205.297 
-Mejorar el ciclo de la cooperación andaluza 
-1.184.583 
-Mejorar las capacidades de los agentes de la cooperación internacional y apoyar 
-sus intervenciones 
-2.287.017 
-Garantizar la consideración de las Prioridades Horizontales en las distintas fases 
-de la cooperación andaluza 
-48.000 
-Total
-112.052.970 
-Gráfico 1. Porcentaje de recursos previstos para 2010 por objetivos  
-Objetivo 6
-0%
-Objetivo 5
-2%
-Objetivo 4
-1%
-Objetivo 3
-10%
-Objetivo 2
-10%
-Objetivo 1
-77%
-Iberoamérica
-58,65%
-Mediterráneo
-16,50%
-África 
-Subsahariana
-24,85%
-
-Página núm. 126 
-Sevilla, 17 de agosto 2010
-
-Las previsiones presupuestarias por países, en millones de euros, son las que se muestran en la 
-siguiente tabla: 
-País o área geográfica 
-Financiación indicativa 
-País o área geográfica 
-Financiación indicativa 
-Bolivia 
-3,8
-SICA
-2,2
-Colombia
-0,1
-SECTORIAL EN IBEROAMÉRICA 
-0,9
-Costa Rica 
-0,8 
-ÁREA DE IBEROAMÉRICA 
-50,5
-Cuba
-4,1 
-Marruecos
-8,8 
-Ecuador
-5,2 
-Mauritania 
-2,5 
-El Salvador 
-4,6 
-Territorios Palestinos 
-2,9 
-Guatemala 
-5,4 
-TOTAL MEDITERRÁNEO 
-14,2
-Honduras
-4,1 
-Malí 
-5,3 
-Nicaragua
-6,3 
-Senegal
-4,5 
-México
-0,1 
-Guinea Bissau
-2,1 
-Panamá
-0,8 
-Burkina Faso
-2,1 
-Perú
-6,3 
-Togo
-1,6 
-República Dominicana 
-1,5 
-República Democrática del Congo 
-2,0 
-Paraguay
-3,6 
-Mozambique
-3,0 
-Uruguay
-0,3 
-SECTORIAL EN ÁFRICA 
-SUBSAHARIANA
-0,8
-TRANSFRONTERIZA 
-0,4
-TOTAL ÁFRICA SUBSAHARIANA 
-21,4
-TOTAL OBJETIVO 1 
-86,1
-
-Sevilla, 17 de agosto 2010 
-Página núm. 127
-
-## Anexo 1. Tabla de medidas y resultados esperados 
-
-Objetivo específico 1 
-Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza 
-Resultado 
-esperado 
-para 2011 
-Se habrá contribuido a reducir la pobreza y a promover un desarrollo humano sostenible en los países 
-receptores de ayuda de la cooperación andaluza, concentrando las actuaciones en las zonas geográficas 
-y las líneas sectoriales del PACODE 
-Resultado 
-esperado 
-para 2010 
-Mejorada la eficacia, complementariedad, alineamiento e impacto de la ayuda para el desarrollo andaluza 
-garantizando la apropiación de las intervenciones por parte de los organismos receptores y población 
-destinataria en los países de actuación de la AACID  
-Cooperación Bilateral 
-Consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritario 
-Actuaciones propuestas 
-Resultados esperados 
-Identificación de nuevas intervenciones de cooperación de la 
-Administración de la Junta de Andalucía en áreas prioritarias 
--
-Identificadas y/o formuladas intervenciones en países 
-prioritarios de Iberoamérica, Mediterráneo y África 
-Subsahariana que potencien un desarrollo sostenible y 
-equitativo 
-Apoyo a actuaciones de los agentes de cooperación 
-internacional 
--
-Financiados proyectos de ONGD, FAMSI, Universidades, 
-Organizaciones Sindicales y Empresariales y Organismos 
-Multilaterales de Naciones Unidas que permiten aumentar la 
-eficacia e impacto de la cooperación andaluza y reducir las 
-desigualdades en los diferentes países de actuación de la 
-AACID
-Promover una coordinación activa, participativa y sumadora de las intervenciones en el exterior 
-Actuaciones propuestas 
-Resultados esperados 
-Refuerzo del seguimiento en terreno de las intervenciones de 
-cooperación financiadas 
--
-Seguimiento en terreno de las intervenciones de 
-cooperación financiadas  en países prioritarios de la 
-cooperación andaluza 
-Establecimientos de los procedimientos de gestión de 
-subvenciones y los manuales de subvenciones 
--
-Firmados los protocolos administrativos o términos de 
-referencia con las instituciones y organismos públicos 
-nacionales para la ejecución de las subvenciones en 
-alineación con los procedimientos nacionales en los 
-principales países de Iberoamérica, Mediterráneo y África 
-Subsahariana 
-Coordinación e interlocución con los agentes de cooperación, 
-con las organizaciones locales e instituciones públicas en los 
-distintos países 
--
-Realizados los contactos institucionales que permiten un 
-diálogo fluido y coordinación dinámica de las intervenciones 
-Optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el desarrollo 
-Actuaciones propuestas
-Resultados esperados
-Desarrollar intervenciones de cooperación bilateral con los 
-países prioritarios en Iberoamérica, Norte de África y Oriente 
-Medio y con los países en África Subsahariana 
--
-Iniciadas intervenciones de desarrollo aprobadas en 2009 
-para cada país prioritario de Iberoamérica, Norte de África y 
-Oriente Medio y con los países en África Subsahariana 
--
-Realizado el seguimiento de las intervenciones en ejecución 
-durante 2010 en países del área geográfica 
-Cooperación con Enfoque Regional, Regional Sectorial y Continental 
-Actuaciones propuestas 
-Resultados esperados 
-Desarrollar intervenciones con enfoque regional, regional 
-sectorial en Iberoamérica y preparar los cimientos para iniciar 
-una intervención continental a medio plazo en Iberoamérica y 
-África
--
-Elaboración del POCER-SICA 
--
-Elaborado informe sobre Cumbres, Conferencias y 
-Encuentros de carácter regional en Iberoamérica y África 
-relacionados con la temática seleccionada 
-Cooperación Sur-Sur y Cooperación Triangular 
-Actuaciones propuestas 
-Resultados esperados 
-Preparar la base para la identificación a medio plazo de 
-intervenciones de cooperación Sur-Sur y cooperación 
-triangular 
--
-Identificados los países y sectores susceptibles de formar 
-parte de un futuro programa de cooperación sur-sur y 
-cooperación triangular 
-
-Página núm. 128 
-Sevilla, 17 de agosto 2010
-
-Objetivo específico 2  
-Consolidar la Acción Humanitaria Andaluza 
-Resultado 
-esperado 
-para 2011 
-Diseñado y puesto en marcha un modelo de Acción Humanitaria adaptado a las características de la 
-cooperación andaluza y capaz de responder con la máxima prontitud y eficacia en situaciones de 
-emergencia, prevención, rehabilitación, reconstrucción y crisis permanentes 
-Resultado 
-esperado 
-para 2010 
-Consensuada la adopción de un modelo de AH adaptado a Andalucía y puesta en marcaha del mismo 
-contribuyendo a incrementar la capacidad de respuesta, eficacia y calidad de la AH andaluza 
-Adecuar el marco procedimental y normativo incluyendo las especificidades de la AH 
-Actuaciones propuestas 
-Resultados esperados 
-Elaboración de contenidos sobre cada ámbito de la AH para su 
-inclusión en las bases reguladoras para la concesión de 
-subvenciones de cooperación para el desarrollo para ONGDs 
--
-Incorporadas en las bases reguladoras para la 
-concesión de subvenciones de cooperación para 
-ONGDs las especificidades de las intervenciones de 
-prevención, 
-crisis 
-crónica 
-y 
-rehabilitaciónreconstrucción y especialmente en lo relativo a los 
-criterios de valoración de la pertinencia de las 
-intervenciones 
--
-Incorporados en las bases reguladoras para la 
-concesión de subvenciones de cooperación para 
-ONGDs criterios para intervenciones de emergencia 
-Inclusión de la especificidad de cada ámbito de la AH en los formatos y 
-herramientas de la AACID 
--
-Modelos de formulación, seguimiento y evaluación 
-adaptados a cada ámbito de la AH 
-Análisis de los códigos de conducta adoptados por las ONGDs 
-andaluzas y buenas prácticas. Propuesta para la adopción de normas 
-de conducta por parte de las ONGs y de otros agentes de cooperación 
-que realicen AH en el marco del Grupo de Trabajo de AH 
--
-Se conoce el marco operativo de los agentes 
--
-Propuestas de código de conducta y de catálogo de 
-buenas prácticas a ser adoptados por los agentes 
-andaluces de AH elaboradas y presentadas al GT 
-Apoyar la ejecución de intervenciones de AH 
-Actuaciones propuestas 
-Resultados esperados 
-Promover la incorporación del enfoque de reducción de daños, 
-prevención y gestión de riesgos así como la prevención de conflictos 
-en las intervenciones de AH 
--
-Recogida en la orden reguladora de subvenciones 
-para ONGDs, como una de las prioridades, las 
-intervenciones de prevención y gestión de riesgos 
-Elaboración de propuesta para la adopción de un marco operativo de 
-referencia incluyendo criterios para la intervención en crisis crónicas: 
-identificación, problemáticas, población objetivo y áreas geográficas 
-prioritarias
--
-Criterios para la intervención en crisis crónicas 
-definidos y documento de propuesta elaborado 
-Establecimiento de criterios y diseño de herramientas para la 
-financiación de proyectos y programas de AH a ONGDs que se ajusten 
-a las prioridades, principios y ámbitos de la AH e incorporación de 
-estándares internacionales de calidad en las intervenciones 
-humanitarias 
--
-Estándares de calidad incorporados en los formatos 
-de formulación, seguimiento y evaluación de 
-proyectos así como en los criterios de valoración y 
-herramientas que se desarrollen para AH incluidos en 
-las bases reguladoras para la concesión de 
-subvenciones de cooperación para el desarrollo para 
-ONGDs
-Gestión y seguimiento de proyectos y programas de AH 
-subvencionados por la AACID 
--
-Proyectos de convocatoria 2010 
--
-Proyectos en ejecución 
--
-Proyectos finalizados 
-Identificar y reforzar las capacidades de los agentes de cooperación en Andalucía 
-Actuaciones propuestas 
-Resultados esperados 
-Elaboración de un diagnóstico de capacidades y experiencia de los 
-agentes de cooperación en AH en Andalucía 
--
-Realizado 
-el 
-Diagnóstico 
-de 
-capacidades 
-y 
-experiencia en AH  
-Participación en la organización de jornadas, talleres y foros de debate 
-especializados sobre AH en coordinación con el Dpto. de ED de la 
-AACID y en concordancia con el POED 
--
-Contenidos sobre AH aportados para la organización 
-de jornadas, talleres, foros de debate y/o actividades 
-de sensibilización y construcción de paz 
-Preparación de contenidos sobre los diferentes ámbitos de la AH a 
-aboradar desde el POFI 
--
-La AH se incorpora en el POFI 
-Crear y poner en marcha dispositivos de coordinación y participación 
-Dinamización del Grupo de Trabajo de AH: propuesta de lineamientos 
-de trabajo y acotación de funciones, propuesta de formación de 
-subgrupos de trabajo para temáticas especializadas (crisis crónicas, 
-vinculación AH desarrollo, entre otros) 
--
-Grupo de Trabajo de AH con programa de trabajo 
-elaborado. Promovida la creación de subgrupos de 
-trabajo 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 129
-
-Colaboración con las entidades de la Junta de Andalucía que trabajan 
-emergencias (GREA-112 Grupo de Emergencias de Andalucía, 
-Consejería de Gobernación, Protección Civil, EPES, Bomberos de las 
-Diputaciones y Ayuntamientos, etc) 
--
-Identificadas las capacidades de intervención en 
-emergencias de las entidades públicas andaluzas e 
-iniciada la coordinación 
-Identificación de posibilidades de colaboración con representantes de 
-entidades públicas en acciones de AH 
--
-Identificadas 
-capacidades 
-de 
-intervención 
-en 
-emergencias de las entidades públicas andaluzas 
-Elaboración de protocolo para la actuación en emergencias 
--
-Protocolo para la actuación en emergencias desde 
-Andalucía para catástrofes y conflictos internacionales 
-elaborado y operativo 
-Propuesta a la AECID para elaborar un protocolo de relación con las 
-CC.AA. para las emergencias. Disponer de información actualizada y 
-realización de reuniones con la Oficina Humanitaria de la AECID 
--
-Reuniones de coordinación con la AECID para la 
-definición del protocolo de trabajo con las CCAA en 
-las emergencias e intercambio de información 
-Revisión del Convenio marco con la AECID para incorporar el trabajo 
-en AH 
--
-Realizada propuesta con contenidos del convenio y 
-calendario de trabajo 
-Facilitar la información, sensibilización y testimonio sobre la AH 
-Actuaciones propuestas 
-Resultados esperados 
-Informar a la sociedad andaluza sobre la AH realizada por la AACID 
-promoviendo la sensibilización sobre las problemáticas tratadas: 
--
-Identificación de indicadores para la AH para incluir mayor 
-detalle sobre la AH realizada en la Memoria Anual 
--
-Elaboración de notas informativas sobre la respuesta de la 
-AACID a la emergencia de Haití 
--
-Participación en foros de debate, conferencias y foros sobre AH, 
-incluyendo los organizados en el marco del Dpto de ED
--
-Incorporada en la Memoria Anual la AH con 
-información cuantitativa y cualitativa 
--
-Divulgado a través de la web el avance en el 
-proceso de respuesta al terremoto de Haití 
--
-Se ha asistido, participado y/o presentado 
-ponencias en foros de AH 
-Promover la incorporación del testimonio y la sensibilización sobre la 
-situación de las víctimas de desastres y problemáticas humanitarias en 
-los proyectos de AH financiados por la AACID, mediante la inclusión 
-del testimonio en las normas y procedimientos de la AACID e 
-informando a los agentes 
--
-La Orden de bases para subvenciones de ONGDs 
-recoge contenidos de testimonio para la AH 
--
-Incorporado el Testimonio en los criterios de 
-valoración de proyectos de AH 
--
-Modelos de formulación, seguimiento y evaluación de 
-programas y proyectos de AH a ser financiados por la 
-AACID incluyen la consideración del testimonio y 
-protección 
-
-Página núm. 130 
-Sevilla, 17 de agosto 2010
-
-Objetivo específico 3  
-Fortalecer la Educación para el Desarrollo de la población andaluza 
-Resultado 
-esperado 
-para 2011 
-Diseñado y puesto en marcha un modelo de Educación para el Desarrollo, sensibilización y cultura de paz 
-adaptado a las características y particularidades de la sociedad andaluza y de la política andaluza de 
-cooperación para el desarrollo 
-Resultado 
-esperado 
-para 2010 
-Se impulsa la ED, favoreciendo procesos de coordinación y complementariedad del conjunto de actores 
-con competencias en ED 
-Dinamizar la coordinación de los agentes de educación para el Desarrollo 
-Actuaciones propuestas 
-Resultados esperados 
--
-Complementariedad con la AECID en la convocatoria que 
-realice a las CCAA en el marco de acciones vinculadas a ED 
--
-Colaboración con la AECID en las iniciativas 
-vinculadas a ED 
-Impulso del Grupo de Trabajo de ED 
--
-Programa de trabajo recogiendo las temáticas a 
-abordar en el año 2010 
-Apoyar las intervenciones de educación para el desarrollo 
-Actuaciones propuestas 
-Resultados esperados 
-Apoyo a intervenciones de Educación para el Desarrollo 
-Tramitación 
-de 
-la 
-Convocatoria 
-y 
-otras 
-intervenciones: 
--
-Proyectos de ONGDs 
--
-Proyectos financiados mediante firma de convenios 
--
-Gestión técnica y administrativa de subvenciones: 
-valoración de expedientes (cierre de 48 expedientes 
-y seguimiento a 49 proyectos) 
-Adecuación de los instrumentos y herramientas a las particularidades 
-de la ED (formularios de subvenciones relativos a la formulación, 
-seguimiento intermedio y final y autoevaluación) tanto en proyectos 
-como en programas para los diversos agentes de ED 
--
-Los documentos y herramientas de planificación y los 
-vinculados a convocatorias y financiación de la AACID 
-incorporan la especificidad de la ED
-Intervenir en procesos educativos 
-Actuaciones propuestas 
-Resultados esperados 
-Coordinación con la Consejería de Educación y la Consejería de 
-Innovación, Ciencia y Empresa  
--
-Reuniones en el marco del POED 
-Identificación de las actuaciones y capacidades de los agentes 
-andaluces 
--
-Documento de experiencias y capacidades de los 
-agentes andaluces en materia de: 1) promoción de 
-actividades en los niveles educativos; 2) en la 
-formación de agentes y 3) redes e intercambio de 
-experiencias, recursos y materiales didácticos entre 
-agentes andaluces y entre agentes del Sur y del Norte 
-Promover la sensibilización 
-Actuaciones propuestas 
-Resultados esperados 
-Realización de un Foro de debate sobre los medios de comunicación 
-ante las crisis humanitarias: caso de Haití 
--
-Foro realizado 
-Incentivar la cultura de paz 
-Actuaciones propuestas 
-Resultados esperados 
-Coordinación con las principales instituciones (la Fundación Tres 
-Culturas, El Legado Andalusí, la Casa Árabe y Fundación Barenboim) 
-y Universidades, en Cultura de Paz  
--
-Identificación de Iniciativas de cultura de paz en el 
-marco de la promoción de Andalucía como tierra de 
-encuentro de civilizaciones y cultura 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 131
-
-Objetivo específico 4  
-Mejorar el ciclo de la cooperación andaluza 
-Resultado 
-esperado 
-para 2011 
-Los agentes cuentan con herramientas y procedimientos comunes para la planificación, gestión, ejecución, 
-seguimiento y evaluación de las actuaciones financiadas con fondos del presupuesto andaluz 
-Resultado 
-esperado 
-para 2010 
-Se habrá completado la planificación geográfica y temática, y se habrá avanzado en la mejora de los 
-aspectos metodológicos, procedimentales e instrumentales de la AACID en materia de formulación, 
-seguimiento y evaluación y gestión técnica y financiera 
-Consolidar el ciclo de la planificación derivado del PACODE 
-Actuaciones propuestas 
-Resultados esperados 
-Elaboración de los documentos estratégicos por país 
-- Elaborados los borradores de los POPP: Honduras, 
-Marruecos, Ecuador, Perú, Burkina Faso, Guinea Bissau, 
-Malí, R.D. del Congo, Senegal, Togo y Mauritania 
-Elaboración del Programa Operativo con Enfoque Regional SICA 
-- Elaboración del POCER SICA 
-Aprobación del Programa Operativo de Acción Humanitaria 
-- Aprobado el POAH (vinculado con el Objetivo 2) 
-Aprobación del Programa Operativo de Educación para el Desarrollo 
-- Aprobado el POED (vinculado con el Objetivo 3) 
-Elaboración del Programa Operativo de Formación e Investigación  
-- Realizado el diagnóstico del POFI 
-Elaboración del PACA 2011 
-- PACA 2011 elaborado 
-Simplificar los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía 
-Actuaciones propuestas 
-Resultados esperados 
-Mejora de las Órdenes de Bases reguladoras de las subvenciones a 
-ONGDs
-- Publicada una nueva Orden de Bases reguladora de las 
-subvenciones a ONGDs para proyectos y programas 
-Financiación de programas plurianuales y Orden de Calificación de 
-ONGDs
-- Publicada la Orden de Calificación de ONGDs 
-- Incluida la modalidad de programa en la Orden de 
-concesión de subvenciones 
-Promoción de las agrupaciones de ONGDs para la ejecución de las 
-intervenciones 
-- Incluida la financiación de Agrupaciones de ONGDs en la 
-Orden de concesión de subvenciones 
-Armonización del ciclo de la planificación de los agentes de 
-cooperación andaluces 
-- Armonización de los modelos de formulación, criterios y 
-procedimientos de seguimiento y de evaluación para 
-todos los agentes de cooperación andaluces 
-Actualización del marco normativo del RACDA 
-- Publicada una nueva normativa para el RACDA, donde 
-se incluye la tramitación telemática 
-Actualizar el sistema de verificación de la pertinencia 
-- Se dispone de un sistema simple y ágil para la valoración 
-previa de las intervenciones 
-Guía de la Cooperación Andaluza 
-- Elaboración de contenidos 
-Fortalecer los mecanismos de seguimiento y evaluación de la cooperación andaluza 
-Actuaciones propuestas 
-Resultados esperados 
-Normalización de los procedimientos y herramientas necesarias de 
-seguimiento y evaluación de la cooperación de la Junta de Andalucía 
-- Aprobado el Decreto de seguimiento y evaluación de la 
-cooperación andaluza 
-- Elaboración de modelos e instrumentos para la 
-aplicación del Decreto de Seguimiento y Evaluación  
-Gestión de las Evaluaciones externas de las ONGDs 
-- Valoradas 102 evaluaciones presentadas por las ONGDs 
-- Tramitadas y gestionadas las solicitudes de autorización 
-de la contratación de evaluaciones 
-Realizar la evaluación intermedia del PACODE 
-- Iniciada la evaluación intermedia del PACODE  
-Realizar la evaluación de la cooperación andaluza en Perú 
-- Iniciada evaluación de la cooperación andaluza en Perú 
-Realizar el Informe Anual de 2010 
-- Realizado el Informe Anual 2010 
-Objetivo específico 5  
-Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones
-Resultado 
-esperado 
-para 2011 
-Los agentes de la cooperación andaluza ponen en marcha de forma coordinada las actuaciones previstas 
-en el PACODE contando para ello con apoyos específicos según su naturaleza y funciones 
-Resultado 
-esperado 
-para 2010 
-Los agentes de la cooperación andaluza participan en los procesos del ciclo de la planificación de la AACID 
-y sus actuaciones contribuyen de forma sinérgica a la consecución de los objetivos del PACODE 
-Promover la participación y coordinación de los agentes andaluces en el desarrollo del PACODE 
-
-Página núm. 132 
-Sevilla, 17 de agosto 2010
-
-Actuaciones propuestas 
-Resultados esperados 
-Reforzar el funcionamiento del COCODE, CACID, Grupos de Trabajo y 
-Comités de Seguimiento de los Programas Operativos aprobados 
--
-Reforzado el funcionamiento de los órganos de 
-participación y consulta 
--
-El CACID se habrá reunido al menos 3 veces en 2010 
-Firmas de Convenios con los agentes andaluces 
--
-Suscritos los marcos de colaboración con FAMPFAMSI 
-y 
-las 
-Organizaciones 
-Sindicales 
-y 
-Empresariales. 
-Apoyar al voluntariado y a cooperante 
-Actuaciones propuestas 
-Resultados esperados 
-Elaboración del Programa Andaluz de Voluntariado en la Cooperación 
-Internacional para el Desarrollo 
--
-Elaborada la propuesta del Programa Andaluz de 
-Voluntariado en la Cooperación Internacional para el 
-Desarrollo
-Firma de Convenio AACID-AECID para el Estatuto del Cooperante 
--
-Renovado el convenio Marco de Colaboración AACIDAECID incluyendo el seguimiento del cumplimiento del 
-Estatuto del Cooperante  
--
-Realizada una actuación informativa del Convenio 
-entre los agentes andaluces de cooperación 
-Seguimiento de los Convenios suscritos con los agentes andaluces en 
--
-Seguimiento 
-realizado 
-a 
-las 
-intervenciones 
-financiadas en el marco de los Convenios suscritos 
-con la CAONGD, UGT y CC.OO 
-Fortalecer las capacidades de los agentes andaluces mediante la Formación y la Investigación 
-Actuaciones propuestas 
-Resultados esperados 
-Gestión y seguimiento de proyectos 
--
-Valorados 
-los 
-proyectos 
-de 
-investigación 
-correspondiente a la convocatoria de subvenciones a 
-ONGDs
--
-Realizado el seguimiento a los proyectos de años 
-anteriores relativos a formación e investigación 
--
-Realizado el seguimiento a los proyectos de formación 
-e investigación aprobados en 2010 
--
-Realizado el seguimiento a los proyectos de formación 
-e investigación derivados de la firma de convenios 
-Financiar la realización de proyectos y programas de formación e 
-investigación de ONGDs 
--
-Incluidas en la Orden de Bases reguladora de las 
-subvenciones a ONGDs la realización de proyectos y 
-programas de formación e investigación 
-Financiar la realización de proyectos y programas de formación e 
-investigación de otros agentes de cooperación 
--
-Suscritos los Convenios con las Universidades 
-públicas andaluzas 
--
-Suscritos los Marcos de actuación con otros agentes 
-andaluces de cooperación en materia de formación e 
-investigación 
-Plan de formación de la AACID 
--
-Diseñado el Plan de formación del personal técnico de 
-la AACID 
-
-Sevilla, 17 de agosto 2010 
-Página núm. 133
-
-Objetivo específico 6 
-Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación
-andaluza
-Resultado 
-esperado 
-para 2011 
-Sentar las bases para elaborar una estrategia para la efectiva transversalización de las PPHH adaptada a 
-las características y particularidades de la cooperación andaluza 
-Resultado 
-esperado 
-para 2010 
-Se realiza la incorporación de las PPHH en las actuaciones de cooperación financiadas por la AACID a 
-partir de la aplicación de las herramientas elaboradas 
-Incluir las PPHH en la planificación estratégica y operativa y en la gestión de la cooperación 
-Actuaciones propuestas 
-Resultados esperados 
-Incorporación de las PPHH en los documentos de planificación: POPP 
-de Togo, Guinea Bissau, Senegal, Mauritania, Burkina Faso, Perú y 
-Ecuador; el POED; el POAH; el POFI; en la  Memoria de Evaluación, 
-Decreto de Evaluación, y Guía de la Cooperación Andaluza 
--
-Incorporadas indicaciones específicas sobre las 
-PPHH en los Programas Operativos aprobados en 
-Elaboración de los contenidos de las PPHH para su inclusión en las 
-bases reguladoras para la concesión de subvenciones de AACID. 
-Adecuación de formularios, informes, bases de datos y formatos 
-desde la perspectiva de las PPHH. 
--
-Las Bases reguladoras de las subvenciones a ONGDs 
-y los formularios tienen incorporadas la perspectiva de 
-las PPHH para su transversalización 
-Diseñar una metodología para elaborar los diagnósticos de las 
-intervenciones de cooperación desde la perspectiva de PPHH 
--
-Se cuenta con una metodología para un correcto 
-diagnóstico que considere las PPHH 
-Establecimiento de un sistema de datos desagregados e indicadores 
-específicos para cada PPHH 
--
-Se cuentan con datos e indicadores sobre las PPHH 
-para el seguimiento y evaluación 
-Apoyo en la gestión de proyectos y programas vinculados a las áreas 
-de las PPHH y asesoramiento continuo a las unidades geográficas en 
-relación a proyectos de sus respectivos ámbitos 
--
-Proyectos 
-gestionados, 
-incluyendo 
-valoración, 
-justificación 
-y 
-modificación. 
-Recomendaciones 
-formuladas sobre proyectos o programas concretos, o 
-ámbitos de las PPHH. 
-Formar y comunicar sobre las PPHH 
-Realización del análisis sobre el nivel de implantación, grado de 
-funcionalidad y propuestas de mejora sobre las PPHH para la 
-elaboración de la línea de intervención en comunicación y formación 
-para la AACID y los agentes de cooperación 
--
-Elaborada la línea de intervención en comunicación y 
-formación y puesta en marcha de la estrategia de 
-comunicación y de acciones de formación 
-Fortalecimiento de las capacidades técnicas del personal de la la 
-AACID
--
-Inclusión de contenidos relacionados con las PPHH 
-en el Plan de Formación de la AACID 
-Intercambio de experiencias exitosas y lecciones aprendidas de las 
-PPHH con organismos de la Junta de Andalucía en los ámbitos de 
-interés de éstas 
--
-Se ha establecido la relación con entidades claves de 
-la JA vinculadas a las PPHH 
-Desarrollar las actuaciones previstas como G+ 
-Actuaciones propuestas 
-Resultados esperados 
-Realización de actuaciones previstas como G+ (en el marco del 
-programa de Presupuestos Sensibles al Género) 
--
-Realizada una formación en Presupuestos sensibles 
-al género 
--
-Realizados los diagnósticos de: 
-o Ecuador (objetivo: análisis ajustado a la realidad 
-desde la perspectiva de género). 
-o La integración de la perspectiva de género en la AH 
-en el ámbito de actuación de la AACID (propuestas 
-concretas que orienten la consideración de la 
-perspectiva de género) 
-o La integración de la perspectiva de género en las 
-actuaciones financiadas por la AACID (mejorar el 
-enfoque GED- identificar actores y sectores para 
-crear sinergias) 
--
-Metodología para la elaboración de diagnósticos país 
-con enfoque de género (dotar de guía de referencia 
-para considerar el enfoque G)
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 3 de agosto de 2010 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía MARÍA DEL MAR MORENO RUIZ Consejera de la Presidencia PLAN ANUAL DE LA COOPERACIÓN ANDALUZA 2010 Í N D I C E Listado de acrónimos. Presentación. Objetivo 1: Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza. Cooperación bilateral. Cooperación con Enfoque Regional, Regional-Sectorial y Continental. Cooperación Sur-Sur. Objetivo 2: Consolidar la Acción Humanitaria Andaluza. Adecuar el marco procedimental y normativo incluyendo las especificidades de la AH. Apoyar la ejecución de intervenciones de AH. Identificar y reforzar las capacidades de los agentes de cooperación de Andalucía. Crear y poner en marcha dispositivos de coordinación y participación. Facilitar la información, sensibilización y testimonio sobre la AH. Objetivo 3: Fortalecer la Educación para el Desarrollo de la población andaluza. Dinamizar la coordinación de los agentes de Educación para el Desarrollo.
+
+Sevilla, 17 de agosto 2010 Página núm. 99 Apoyar las intervenciones de Educación para el Desarrollo financiadas a los diferentes agentes. Intervenir en procesos educativos. Promover la sensibilización. Incentivar la Cultura de Paz. Objetivo 4: Mejorar el ciclo de la cooperación andaluza. Consolidar el ciclo de la planificación derivado del PACODE. Simplificar los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía. Fortalecer los mecanismos de seguimiento y evaluación de la cooperación andaluza. Objetivo 5: Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones. Promover la participación y coordinación de los agentes andaluces en el desarrollo del PACODE. Apoyar al voluntariado y a cooperantes. Fortalecer las capacidades de los agentes andaluces mediante la Formación y la Investigación. Objetivo 6: Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación andaluza. Incluir las PPHH en la planificación estratégica y operativa y en la gestión de la cooperación. Formar y comunicar sobre las PPHH. Desarrollar la actuaciones previstas como G+. Marco presupuestario (previsiones).
+
+## Anexo 1. Tabla de medidas y resultados esperados.
+
+Página núm. 100 Sevilla, 17 de agosto 2010
+
+Listado de acrónimos AACID:
+Agencia Andaluza de Cooperación Internacional para el Desarrollo AECID:
+Agencia Española de Cooperación Internacional para el Desarrollo AGE: Administración General del Estado AH: Acción Humanitaria AOD: Ayuda Oficial al Desarrollo CACID:
+Consejo Andaluz de Cooperación Internacional para el Desarrollo CAD: Comité de Ayuda al Desarrollo CAONGD: Coordinadora Andaluza de ONGDs CC.AA: Comunidades Autónomas CEA: Confederación de Empresarios de Andalucía CEPES: Confederación de Entidades para la Economía Social CIPD: Conferencia Internacional sobre la Población y el Desarrollo CODEG: Programa Europeo de Formación en Género DOE G+: Documento de Orientaciones Estratégicas de Género ECHO: Oficina de Ayuda Humanitaria de la Comisión Europea ED: Educación para el Desarrollo EPES: Empresa Pública de Emergencias Sanitarias FAMP: Federación Andaluza de Municipios y Provincias FAMSI: Fondo Andaluz de Municipios por la Solidaridad Internacional GREA: Grupo de Emergencias de Andalucía LACID: Ley Andaluza de Cooperación Internacional para el Desarrollo 14/2003, de 22 de diciembre OCDE: Organización para la Cooperación y el Desarrollo Económico OCHA: Oficina de Coordinación de Asuntos Humanitarios de Naciones Unidas ODM: Objetivos de Desarrollo del Milenio OMS: Organización Mundial de la Salud ONGDs: Organizaciones No Gubernamentales de Desarrollo OMUDES: Organismos Multilaterales de Desarrollo OTC: Oficina Técnica de Cooperación OPS: Organización Panamericana de la Salud PACA: Plan Anual de la Cooperación Andaluza PACI: Plan Anual de Cooperación Internacional PACODE: Plan Andaluz de Cooperación para el Desarrollo POAH: Programa Operativo de Acción Humanitaria POCER: Programa Operativo con Enfoque Regional POCES: Programa Operativo con Enfoque Sectorial POED: Programa Operativo de Educación para el Desarrollo POFI: Programa Operativo de Formación e Investigación POPP: Programa Operativo por País Prioritario PPHH: Prioridades Horizontales RACDA: Registro de Agentes de Cooperación para el Desarrollo en Andalucía SEGIB: Secretaría General Iberoamericana SICA: Sistema de la Integración Centroamericana
+
+Sevilla, 17 de agosto 2010 Página núm. 101
+
+Presentación La aprobación del Plan Anual de la Cooperación Andaluza 2009 por el Consejo de Gobierno de la Junta de Andalucía supuso el afianzamiento de la planificación de la cooperación andaluza, sentando las bases para la ejecución del Plan Andaluz de Cooperación para el Desarrollo. El principal reto del Plan Anual anterior era consolidar los principios que sustentan el modelo de cooperación de Andalucía. El de 2010 consiste en reforzar la coordinación y el avance en la participación e implicación de los agentes de cooperación andaluces en la definición y ejecución de la política de cooperación, todo ello sin obviar la necesidad de continuar con la apuesta por la calidad y la eficacia de la cooperación. Asimismo, y apoyando el mensaje del Gobierno de España, ahora más que nunca la Ayuda es necesaria, recogido explícitamente en el Plan Anual de la Cooperación Internacional española para 2010, el Plan Anual apuesta por continuar con la ayuda al desarrollo en el actual contexto económico que está azotando con especial virulencia a los países en situación de mayor vulnerabilidad. Durante 2009 se crearon, en el seno del Consejo Andaluz de Cooperación Internacional para el Desarrollo, los cinco Grupos de Trabajo previstos: Ayuda al Desarrollo, Acción Humanitaria, Educación para el Desarrollo, Formación e Investigación y Seguimiento y Evaluación. Además del espacio de participación que estos Grupos ofrecen, en 2010 se potenciará el diálogo permanente con los protagonistas de la cooperación andaluza, al objeto de mejorar la complementariedad y la generación de sinergias. Junto a esta coordinación en el ámbito andaluz, también se fortalecerá la coordinación con los actores locales de los países en los que se focalizan las actuaciones, a fin de establecer relaciones de cooperación estables que faciliten la apropiación y el fortalecimiento de sus instituciones. Además, con objeto de garantizar la coherencia de la planificación y ejecución de la política andaluza de cooperación con las directrices que establece el III Plan Director de la Cooperación Española se participará desde Andalucía en los mecanismos y procedimientos de coordinación y complementariedad que se desarrollarán desde la Administración General del Estado tal y como se ha recogido en el Plan Anual de la Cooperación Internacional de la cooperación española para 2010. En el plano institucional, la Conferencia Sectorial de Cooperación, constituida en 2009, fortalecerá la coordinación de las Administraciones Públicas: Administración General del Estado, Comunidades Autónomas y Entidades Locales. La consolidación de este espacio y la participación de Andalucía en el mismo, así como en los foros y organismos internacionales formando parte de la Delegación española, reforzarán la necesaria intervención de la Comunidad Autónoma en la configuración de una agenda de trabajo común alineada con las directrices nacionales e internacionales. En el plano operativo, la renovación del Convenio entre la AACID y la AECID, además de actualizar el marco de relación entre ambas instituciones, permitirá abordar la coordinación en las actuaciones de la acción humanitaria, el tratamiento del personal y oficinas en los países socios y su relación con las Oficinas Técnicas de Cooperación española y la cofinanciación y nuevos instrumentos de cooperación. Uno de los avances de la cooperación andaluza en 2009 ha sido el establecimiento de marcos estratégicos plurianuales con Organismos Internacionales como UNICEF, UNRWA y ACNUR y el apoyo a sus líneas estratégicas de intervención. En 2010, la AACID continuará apoyando los fondos temáticos y las líneas estratégicas de las referidas Agencias especializadas de las Naciones Unidas y avanzará en la complementariedad entre la cooperación multilateral y la cooperación bilateral, incorporando las contribuciones a Organismos Multilaterales de Desarrollo (OMUDES) en los distintos niveles de planificación, especialmente en los Programas Operativos por País Prioritario (POPP).
+
+Página núm. 102 Sevilla, 17 de agosto 2010
+
+En materia de género, la AACID destaca por su calificación como G+ por el Programa de Presupuestos Sensibles al Género de la Consejería de Economía y Hacienda. Cumpliendo con este compromiso se pondrán en marcha actuaciones relativas a la formación y generación de conocimientos, elaboración de diagnósticos sensibles al género, economía de los cuidados y violencia de género, contando con una asignación presupuestaria propia. En 2010 se abordarán reformas procedimentales tendentes a concentrar, simplificar y agilizar los trámites necesarios para acceder a la financiación que la AACID otorga a los agentes andaluces de cooperación. Las tradicionales Convocatorias Anuales de Ayudas a las ONGDs para las distintas modalidades de cooperación fueron revisadas en el año 2009 y en el año 2010 se va publicar una nueva Orden de Bases destinadas a las ONGDs, en la que se agruparán las relativas a la Ayuda al Desarrollo y a la Educación para el Desarrollo y se incorporarán la Acción Humanitaria y la Formación e Investigación. Estas reformas se incardinan en el proceso de aumentar el impacto, la eficacia y calidad de la ayuda. A todo lo anterior, hay que añadir que en el año 2010 se procederá a la revisión de los Objetivos de Desarrollo del Milenio (ODM), que se llevará a cabo en el mes de septiembre y que marcará gran parte de la agenda política de las agencias y organismos internacionales de cooperación y que, en el caso de España, adquiere una especial dimensión al coincidir los trabajos preparatorios de la Reunión de Alto Nivel con la presidencia española de la Unión Europea. Esquema de planificación Frente al lógico carácter de avance de este Plan con respecto al anterior, puesto que como se indicaba entonces se trata de desarrollar paulatinamente lo establecido en el PACODE, sus principales elementos diferenciadores están relacionados con la reagrupación de algunas de las medidas propuestas en 2009, en aras de una mayor simplificación del esquema de planificación, y la inclusión de aquellas que, tras dos años de vigencia del PACODE, se han considerado pertinentes para potenciar el logro de sus resultados esperados para 2011. Puesto que el objetivo de los Planes Anuales es anualizar las medidas recogidas en otros marcos de planificación de la cooperación andaluza en vigor, geográficos y sectoriales, este Plan es la plataforma temporal de planificación que da respuesta, de manera coherente, a los objetivos y prioridades establecidas en el PACODE y en los Programas Operativos elaborados. Así, en este documento, se recogen las estrategias propuestas en los Programas Operativos para los Países Prioritarios (POPP) para los que se aprobaron estos documentos, así como algunas de las propuestas debatidas en torno a la Acción Humanitaria y la Educación para el Desarrollo en los Grupos de Trabajo del Consejo Andaluz de Cooperación Internacional para el Desarrollo. La consecución de esta coherencia integral del sistema, criterio de calidad definido para la cooperación andaluza, irá configurándose con mayor claridad conforme se vaya avanzando en la definición de los Programas Operativos que restan. Partiendo de los objetivos específicos perseguidos por el PACODE, marco de referencia para toda la planificación andaluza, estratégica y operativa, se ha añadido un nuevo objetivo, de carácter horizontal, que recoge las actuaciones tendentes a integrar las prioridades horizontales en todo el ciclo de la cooperación andaluza. También se ha definido, en el marco del Objetivo 4, el Plan Anual de Evaluación para 2010, donde se incluyen las actuaciones que en materia de evaluación se llevarán a cabo. El presente Plan recoge, junto a la estrategia a seguir en el marco de los seis objetivos, en cuya definición se ha buscado una coherencia con la Cooperación Española, según lo recogido en el PACI 2010, un
+
+## Anexo C. on la relación de las medidas concretas a acometer y los resultados esperados a alcanzar por la
+
+cooperación andaluza en el año 2010.
+
+Sevilla, 17 de agosto 2010 Página núm. 103
+
+Objetivo 1: Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza Con el objetivo de contribuir a erradicar la pobreza y a consolidar procesos encaminados a asegurar un desarrollo humano sostenible, durante 2010 se van a apoyar intervenciones de los agentes andaluces de cooperación que serán desarrolladas principalmente en los 23 países que en el PACODE se definieron como prioritarios. Cooperación bilateral La apuesta por la concentración geográfica de la cooperación, contemplada en el PACODE, y determinada en función de las capacidades y experiencia de los agentes andaluces y de la cooperación de la Administración de la Junta de Andalucía, persigue aumentar la eficacia e impacto de las actuaciones, de manera que, no excluyendo la posibilidad de financiar intervenciones en otros países1, se centren los esfuerzos en consolidar el trabajo en aquellos con los que tradicionalmente se ha cooperado y con los que se ha iniciado recientemente el trabajo por parte de la Administración de la Junta de Andalucía. Con el fin de mejorar los resultados de la cooperación andaluza y la calidad de las intervenciones de cooperación de todos los agentes andaluces involucrados en el desarrollo sostenible de los países del Sur, en 2010 se acometerán las siguientes tareas: i) consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritarios; ii) promover una coordinación activa, participativa e integradora de las intervenciones en el exterior y, iii) optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el desarrollo. Consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritarios Durante el año 2009 se elaboraron y aprobaron los Programas Operativos de once de los países prioritarios: Guatemala, Nicaragua, El Salvador, Costa Rica, Panamá, Bolivia, Paraguay, Cuba, República Dominicana, Mozambique y Territorios Palestinos. Toda vez que estos once POPP están en vigor, y asumiendo en 2010 la elaboración de los borradores de la planificación para Burkina Faso, Ecuador, Guinea Bissau, Honduras, Malí, Marruecos, Mauritania, Perú, República Democrática del Congo, Togo y Senegal, se iniciará el proceso de identificación y selección de intervenciones y agentes que, de manera congruente con las líneas estratégicas definidas en estos Programas, aporten mayor valor añadido a la cooperación andaluza. Se identificarán nuevas intervenciones de la cooperación de la Administración de la Junta de Andalucía en países en los que se ha venido cooperando en años anteriores, así como en países en los que la Administración inicia su intervención en el año 2010 de manera gradual y coordinada. Se asegurará la total integración de las nuevas intervenciones con las políticas nacionales y programas estratégicos
+
+1 Como Colombia, México y Uruguay para los que se ha previsto la financiación de intervenciones principalmente dirigidas hacia la ordenación física, territorial y urbanística y política de suelo y vivienda.
+
+Página núm. 104 Sevilla, 17 de agosto 2010
+
+sectoriales, en respuesta siempre a las necesidades priorizadas por los Gobiernos de los países y a las prioridades sectoriales y estratégicas de los POPP. Igualmente, las propuestas de proyectos y programas de los distintos agentes de cooperación: ONGDs, organizaciones sindicales y empresariales, Entidades Locales, Universidades, organismos multilaterales de Naciones Unidas, etc., que se van a apoyar en el 2010 se incardinarán en las líneas prioritarias y medidas establecidas en los Programas Operativos y en el PACODE, garantizando la coherencia integral del sistema andaluz de cooperación y la correspondencia entre las iniciativas de cooperación y los POPP en vigor. La puesta en marcha de medidas en cada país prioritario, siguiendo los requisitos de los POPP en cuanto a la correcta transversalización del enfoque de género, medio ambiente, fortalecimiento institucional y diversidad cultural, conlleva el alcance de los resultados y cumplimiento de los objetivos previstos en los Programas, afianzando y consolidando la estrategia de actuación de la cooperación andaluza en pro de una gestión orientada a resultados que refuerza la apropiación, la alineación, la coordinación y la complementariedad entre los distintos agentes. Promover una coordinación activa, participativa e integradora de las intervenciones en el exterior Para afianzar este cometido, durante 2010 se reforzará el personal técnico de apoyo en el terreno en parte de los países prioritarios, que trabajarán en coordinación con las Oficinas Técnicas de la Cooperación Española. Este seguimiento desde terreno facilitará un seguimiento pormenorizado de la ejecución de los proyectos y la identificación de sinergias y complementariedades entre las actuaciones, al tiempo que mejorará la interlocución con las instituciones locales contrapartes, promoviendo el alineamiento con sus necesidades y prioridades, la apropiación de los procesos de desarrollo y su fortalecimiento institucional. Asimismo, permitirá asentar las bases técnicas y logísticas en el terreno para una mejor coordinación de la eficacia de la ayuda en países prioritarios del PACODE. De esta forma, las intervenciones de los agentes de cooperación y de la Administración de la Junta de Andalucía formarán parte de un sistema integrado y coordinado que permita identificar en todo momento las necesidades a nivel nacional, comunitario, institucional, y de la población destinataria, incidiendo en los intereses estratégicos de las mujeres y su participación en la toma de decisiones en los distintos niveles. Para el caso de la cooperación de la Administración de la Junta de Andalucía, durante 2010 se procederá a la elaboración y firma de los Manuales de Subvenciones que regulan los procedimientos y reglas de gestión de los fondos concedidos a organismos públicos en países que aún no disponen del mismo. Concretamente para Bolivia, Ecuador, Paraguay, Perú y República Dominicana en Iberoamérica y para Malí y Mozambique en África Subsahariana y para Territorios Palestinos y Mauritania en el Mediterráneo. Estas reglas, definidas en función de los procedimientos de cada país, y tomando como referencia los procedimientos de gestión de las subvenciones de la cooperación española, se concretan posteriormente en Protocolos Administrativos para cada proyecto o programa, que se suscriben con las autoridades de cada país con competencias relacionadas con la intervención, definiendo las responsabilidades de cada parte. Optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el desarrollo En 2010 se ejecutarán los proyectos aprobados en 2009 y aquellos de años anteriores cuyo plazo de ejecución no ha concluido. La mayoría de estas intervenciones están relacionadas con la mejora de los servicios sociales básicos y el fortalecimiento de las estructuras democráticas y de la sociedad civil. De los aprobados en 2009 comienzan a ejecutarse 180 proyectos, localizados fundamentalmente en
+
+Sevilla, 17 de agosto 2010 Página núm. 105
+
+PACA 2010 Iberoamérica, si bien destaca para este período el importante número de intervenciones en los países de África Subsahariana en relación con ejercicios anteriores (29 proyectos por un total de 14.062.287,61 euros). África Subsahariana 19,02% Mediterráneo 16,44% Iberoamérica 64,54% Organizaciones Internacionales 3,76% Otras entidades 1,88% ONGD 37,63% Organizaciones Sindicales 2,89% Junta de Andalucía 51,40% Organismos Multilaterales de Desarrollo 2,43% Los grandes protagonistas de esta cooperación internacional son, como en años anteriores, la Administración de la Junta de Andalucía y las ONGDs, que ejecutarán el 89,03% del presupuesto destinado en 2009 a este objetivo. La cooperación andaluza ha hecho de la cooperación ejecutada directamente por la Junta de Andalucía una de sus señas de identidad, ya que uno de los criterios adoptados como básicos en el PACODE para la ayuda al desarrollo es el valor añadido de las experiencias adquiridas del modelo andaluz de desarrollo derivado de las competencias asumidas por nuestra Comunidad Autónoma en los últimos 30 años, de su acervo legislativo y de las capacidades de sus recursos humanos. Durante 2010 también se desarrollarán los proyectos aprobados a las ONGDs y los aprobados en el marco de los convenios de colaboración suscritos en 2009 entre la AACID y las organizaciones sindicales andaluzas CCOO-A y UGT para el fortalecimiento institucional de las organizaciones sindicales en los países del Sur y Centroamérica, la defensa de los derechos civiles y laborales y la formación de los trabajadores y trabajadoras, así como el acuerdo con la Fundación Escuela Andaluza de Economía Social para el fortalecimiento institucional de organizaciones nacionales o regionales representativas de la economía social en Centroamérica, Perú y Ecuador, y el Convenio Suscrito con la OEI para desarrollar proyectos en Centroamérica, Perú, Ecuador y Guatemala.
+
+Página núm. 106 Sevilla, 17 de agosto 2010
+
+Cooperación con Enfoque Regional, Regional-Sectorial y Continental Junto a la cooperación bilateral, y con el objetivo de consolidar el proceso de integración centroamericana, durante 2010, y toda vez que en el año anterior se ha dado un importante impulso a la programación para los países de la región (El Salvador, Guatemala, Honduras, Nicaragua, Panamá, República Dominicana y Costa Rica), se iniciará la elaboración del Programa Operativo con Enfoque Regional para el Sistema de Integración Centroamericana (POCER SICA), que sentará las bases de las intervenciones con carácter regional que se desarrollen en el ámbito de los seis ejes ya definidos:
+Fomento de la conciencia regional centroamericana; Mujer; Infancia y Juventud; Desarrollo Rural; Municipalismo; y Pueblos Indígenas. Durante 2009 se trabajó en el eje de Municipalismo mediante el apoyo al fortalecimiento de las Entidades Locales en el proceso de integración centroamericana, que derivará, tras un proceso de consulta regional a través de los parlamentos nacionales y consejos municipales y otras organizaciones de la sociedad civil especializadas en fortalecimiento municipal, en la aprobación de la Carta de Autonomía Local Centroamericana. En el marco del Memorando de Entendimiento acordado entre la Junta de Andalucía y la Organización Panamericana de la Salud (OPS/OMS) para el período 2008-2011, se continuará apoyando el programa sectorial que se está ejecutando en la región. Asimismo, se continuará con el Programa de Fortalecimiento del Instituto Centroamericano, con sede en Guatemala, para el Desarrollo y la Innovación Educativa, especializado en educación infantil. Con respecto al enfoque continental, durante el 2010 se llevará a cabo una sistematización de los resultados de las principales Cumbres, Conferencias Regionales y Encuentros Internacionales de África y América Latina, en particular de los Encuentros de Mujeres y Conferencias Internacionales relacionadas con la Equidad de Género, con el objetivo de identificar intervenciones futuras en estos ámbitos. Cooperación Sur-Sur En 2010 se trabajará, aprovechando las experiencias derivadas de las planificaciones operativas por país afrontadas por la AACID, por identificar los países y sectores que puedan ser susceptibles de participar en iniciativas futuras promovidas por la AACID para el establecimiento de flujos de cooperación sur-sur.
+
+Sevilla, 17 de agosto 2010 Página núm. 107
+
+Objetivo 2: Consolidar la Acción Humanitaria Andaluza En 2010 se concretará el modelo de Acción Humanitaria andaluza que promoverá una intervención integrada incluyente de todas las actuaciones orientadas hacia la población vulnerable víctima de las catástrofes de origen natural o humano, con el objetivo de satisfacer sus necesidades básicas, restablecer sus derechos y garantizar su protección en el futuro; todo ello con énfasis en la perspectiva de género, dada la situación de mayor vulnerabilidad que enfrentan las mujeres en situaciones de crisis. La definición de este modelo, acorde a las capacidades y experiencias de los agentes del ámbito andaluz, en el que se ha buscado el valor añadido de la acción humanitaria andaluza, se ha completado en el año 2009 con el primer documento borrador del Programa Operativo de Acción Humanitaria (POAH), actualmente en proceso de consulta con los agentes de cooperación andaluces en el marco del Grupo de Trabajo de Acción Humanitaria creado en el seno del Consejo Andaluz de Cooperación Internacional para el Desarrollo, y que será elevado para su aprobación por el Consejo de Gobierno de la Junta de Andalucía en este año. En la elaboración de este Programa se han considerado las directrices de la Oficina de Coordinación de Asuntos Humanitarios de Naciones Unidas (OCHA) y de la Oficina de Ayuda Humanitaria de la Comisión Europea (ECHO), así como la Estrategia de Acción Humanitaria de la Cooperación Española, en línea con las mejores prácticas internacionales, y orientada al cumplimiento de los Principios de Buena Donación Humanitaria (2003), que establece 23 principios orientadores de la Acción Humanitaria. Como parte del compromiso con las poblaciones más vulnerables víctimas de crisis, y con el fin de promover una respuesta humanitaria eficaz, eficiente, transparente, basada en necesidades y derechos y comprometida con el cumplimiento de los principios humanitarios, durante 2010 se encaminarán los esfuerzos hacia la aprobación del Programa Operativo de Acción Humanitaria y a avanzar conjuntamente con los agentes andaluces a partir de la puesta en marcha del Grupo de Trabajo de AH hacia la consecución de los siguientes desafíos: i) adecuar el marco procedimiental y normativo incluyendo las especificidades de la AH; ii) apoyar la ejecución de intervenciones de AH; iii) identificar y reforzar las capacidades de los agentes de cooperación de Andalucía; iv) crear y poner en marcha dispositivos de coordinación y participación y v) facilitar la información, sensibilización y testimonio sobre la AH. Adecuar el marco procedimental y normativo incluyendo las especificidades de la AH Durante 2009 se realizó una importante labor de identificación de las particularidades de la AH para su inclusión en la nueva Orden de Bases reguladoras de las subvenciones y también en la Orden para la Calificación de las ONGDs para acceder al nuevo instrumento de financiación que suponen los programas. En este sentido, en el año 2010 se van a actualizar los criterios de valoración previa de la pertinencia de las intervenciones, los formatos de formulación y seguimiento de las mismas y las exigencias en materia de evaluación, considerando las características propias que presentan los diferentes ámbitos de la AH.
+
+Página núm. 108 Sevilla, 17 de agosto 2010
+
+En especial, la respuesta humanitaria de emergencia presenta especificidades a considerar, tales como la realización de una adecuada y rápida identificación de necesidades y la existencia de capacidad para hacer llegar la ayuda a quienes más la necesitan y proporcionarla a tiempo. En esta línea, en el año 2009 se inició, con la crisis de Gaza, la elaboración de unas pautas de respuesta a la emergencia para la adaptación del marco instrumental y administrativo existente que se han actualizado a comienzos de 2010 ante el terremoto de Haití. Sobre la base de esta experiencia, y ante la necesidad de normalizar el procedimiento de convocatoria de respuesta a las emergencias para facilitar su agilización, en 2010 la Orden de Bases incorporará un capítulo que contendrá los criterios generales para acceder a las convocatorias específicas de atención a emergencias que se realicen por parte de la AACID. Como parte del proceso de adecuación de procedimientos, la AACID promoverá que las actuaciones humanitarias que se apoyen estén amparadas en el cumplimiento de un código o catálogo de buenas prácticas suscrito por los diferentes agentes. Para ello, desde la AACID se realizará un análisis de los códigos de conducta adoptados por los agentes andaluces para conocer su marco operativo. En función del análisis realizado, la AACID propondrá al Grupo de Trabajo consensuar la adscripción a un código de conducta en AH para las ONGDs. Igualmente, desde la AACID se elaborará una propuesta de catálogo de buenas prácticas dirigido a otros agentes de cooperación que realicen AH, a ser debatida entre los agentes. Apoyar la ejecución de intervenciones de AH Dada la importancia de conseguir que las actuaciones humanitarias vayan más allá de ser un paliativo e incorporen un enfoque integral y comprensivo de la ayuda, respondiendo a necesidades asistenciales y también de protección de las poblaciones, la AACID está haciendo un esfuerzo por identificar y apoyar la ejecución de intervenciones de calidad, mediante el reconocimiento de los objetivos de la AH, los principios que la rigen y los rasgos característicos de sus diferentes ámbitos, todo ello sin perder de vista la vinculación existente con las actuaciones de desarrollo. En cuanto a las situaciones de crisis crónica, se establecerán criterios para seleccionar aquellos sectores y problemáticas en los que la cooperación andaluza pueda aportar mayor valor añadido, y se contará con la participación de los agentes de cooperación en el marco del Grupo de Trabajo de Acción Humanitaria para establecer los criterios de identificación de las crisis crónicas. En la actualidad, las intervenciones se han enfocado a la Población Saharaui y a los Territorios Palestinos. Durante 2010 la AACID centrará la atención en mejorar la calidad de la acción humanitaria, propiciando la incorporación de criterios y estándares internacionales de calidad mediante la integración y fomento del uso de herramientas como la carta humanitaria "Esfera", metodologías del Compas-Qualite o el enfoque de acción sin daño entre otros. Para ello, se han incluido estándares de calidad en la Orden de bases 2010 para ONGDs, incorporándose como requisitos en los diferentes formatos y herramientas de formulación, seguimiento y evaluación de proyectos. Asimismo, se tendrá en cuenta la consideración de tales estándares en los análisis de pertinencia y criterios de valoración que se desarrollen para la AH. Identificar y reforzar las capacidades de los agentes de cooperación de Andalucía Partiendo del reconocimiento de las especificidades que presenta la AH y dentro de ésta las particularidades de cada uno de los ámbitos de la AH que el PACODE recoge, es necesario identificar
+
+Sevilla, 17 de agosto 2010 Página núm. 109
+
+las experiencias y las capacidades actuales de los distintos agentes andaluces de cooperación. Para ello la AACID va a realizar un diagnóstico que favorecerá la puesta en marcha y la adaptación a la realidad de Andalucía de las herramientas y los procesos de la AH que desde la cooperación andaluza se desarrollen. Por otro lado, y para contribuir al fortalecimiento de las capacidades de los agentes andaluces, se promoverán actividades de sensibilización y formación sobre temáticas vinculadas a la AH en el marco de las actuaciones propuestas para el fomento de la Educación para el Desarrollo y para la Formación e Investigación. Crear y poner en marcha dispositivos de coordinación y participación Los contextos actuales en los que se producen las crisis humanitarias y la creciente complejidad de los escenarios en los que se desarrolla la AH, que a menudo dificultan poder realizar una libre y adecuada valoración de necesidades, el acceso y la oportuna respuesta, junto con la proliferación de actores involucrados en proporcionar respuestas a las crisis, son algunos factores que condicionan que la coordinación y complementariedad, a nivel local, nacional e internacional constituya un gran reto y esté directamente relacionado con la eficacia e impacto de la ayuda. El fomento de la participación de los agentes andaluces en la puesta en marcha de un modelo de AH para Andalucía y la existencia de canales que favorezcan que la ayuda se nutra de sus áreas de experiencia y conocimiento son, de forma complementaria, fundamentales para optimizar la respuesta humanitaria andaluza. De ahí que en el Grupo de Trabajo de AH del CACID se va promover la reflexión, el desarrollo de los contenidos y la coordinación de los agentes en la elaboración y adopción de aquellos documentos estratégicos y operativos que se pretendan desarrollar. En dicho marco se identificarán las capacidades de intervención y las posibilidades de colaboración para las emergencias y otros ámbitos de la AH con otras Consejerías y organismos de la Junta de Andalucía y con otros actores públicos, especialmente con la Empresa Pública de Emergencias Sanitarias 061 de la Consejería de Salud y el Grupo de Emergencias de Andalucía (GREA) de la Consejería de Gobernación y con los servicios de rescate de los Ayuntamientos y Diputaciones. Se pretende elaborar un protocolo de intervención desde Andalucía en emergencias para catástrofes y conflictos internacionales. También se seguirá trabajando, tal y como estaba previsto en el PACODE, en la conformación de un Grupo Operativo específico para las emergencias para lo que se adoptará un "protocolo de actuación para emergencias", que indique claramente cómo proceder en cada convocatoria y los mecanismos de coordinación que deben operar entre los agentes ante una situación de emergencia. Durante 2010 se continuará promoviendo el intercambio de información y el fortalecimiento de la coordinación con la cooperación española. En este sentido, se está acordando con la AECID la aprobación de un protocolo de emergencia en el seno del Estado español y se van a ofrecer a la Oficina de Acción Humanitaria las capacidades de los agentes andaluces para intervenir en emergencias en un plazo de tiempo razonable, fundamentalmente las relativas a la coordinación de recursos humanos y equipos de rescate, sanitarios, logísticos y de comunicación para emergencias, con el objetivo de que una vez que acontezca la catástrofe o el conflicto, la reacción española sea integral, rápida y eficaz.
+
+Página núm. 110 Sevilla, 17 de agosto 2010
+
+En coherencia con lo expuesto, en 2010 se promoverá la renovación del Convenio Marco de Colaboración de 2006 existente con la AECID, para la inclusión de un capítulo sobre AH y, en particular, de emergencia. Facilitar la información, sensibilización y testimonio sobre la AH El PACODE establece, en línea con las Directrices sobre la realización de actividades de visibilidad, información y comunicación en el ámbito de la ayuda humanitaria de la Comisión Europea2, que la sociedad andaluza deberá ser informada sobre la situación de vulnerabilidad que sufre la población afectada por desastres y sobre las medidas que la administración autonómica y demás agentes de cooperación andaluces adopten para contribuir a paliarla. La necesidad de una comunicación eficaz nace de la obligación de ser transparentes e informar a la sociedad sobre el desarrollo de la acción humanitaria andaluza, acercando la ciudadanía a las actuaciones desarrolladas por los agentes de Andalucía en esta materia. Para ello, durante 2010 se informará a la sociedad andaluza sobre la AH realizada, promoviendo la sensibilización sobre las problemáticas abordadas, mediante la realización de las siguientes acciones:
+x La AACID publicará y difundirá la información sobre la acción humanitaria en el Informe Anual, que reflejará las intervenciones ejecutadas en sus diferentes ámbitos. Para el 2010 se completará la información cuantitativa presentada con aspectos más cualitativos de la asistencia y protección prestada. x Se pretende participar en foros de debate, conferencias y eventos sobre AH en general y, en particular, aquellas actividades concordantes que se promuevan en el marco de la Educación para el Desarrollo a realizar en el 2010 por la AACID. Por otro lado, el PACODE establece el testimonio como uno de los principios a ser considerados por la AH andaluza. Este testimonio debe ser entendido como una forma de avanzar hacia la protección de los derechos de las poblaciones víctimas de los desastres. Desde la AACID se promoverá su inclusión como parte de las actuaciones humanitarias, teniendo en cuenta las limitaciones operacionales que puedan existir y siempre en articulación con los otros principios humanitarios, velando para que no entren en contradicción. Durante 2010 se contemplará la integración del testimonio en aquellas herramientas, criterios, bases reguladoras, formatos de formulación, seguimiento y evaluación de proyectos, como ya se ha hecho en la Pautas para atender la emergencia del terremoto en Haití y en la propuesta de Orden de bases reguladora de las subvenciones a programas y proyectos para 2010. El objetivo es facilitar la identificación y subvención de proyectos de AH que incorporen el componente testimonial junto con la asistencia, redundando en intervenciones que incidan en proporcionar una mayor protección a las poblaciones.
+
+2 Acuerdo/Contrato Marco de Asociación/Colaboración (en inglés: FPA–Framework Partnership Agreement; en vigor desde el 1 de enero de 2008), que establece directrices (derechos y obligaciones) destinadas a los socios de la Comisión sobre la realización de actividades de visibilidad, información y comunicación en el ámbito de la ayuda humanitaria; intenta simplificar los procedimientos administrativos y optimizar la aplicación y los resultados de ayuda humanitaria.
+
+Sevilla, 17 de agosto 2010 Página núm. 111
+
+Objetivo 3: Fortalecer la Educación para el Desarrollo de la población andaluza Uno de los objetivos básicos de la cooperación que se recoge en la Ley Andaluza de Cooperación Internacional para el Desarrollo, en su artículo 3, es la necesidad de sensibilizar e informar a la sociedad andaluza sobre la situación desfavorecida que padecen otros pueblos y grupos sociales. La cooperación para el desarrollo tiene un mayor impacto cuando se informa a la ciudadanía sobre las causas que producen las desigualdades en los países donde trabaja la cooperación andaluza y se facilitan los cauces para la participación y solidaridad social en las acciones de cooperación. Durante el año 2009 se ha elaborado el primer documento borrador del Programa Operativo de Educación para el Desarrollo (POED), que se encuentra actualmente en proceso de consulta a los agentes de cooperación andaluza en el marco del Grupo de Trabajo de Educación para el Desarrollo del Consejo Andaluz de Cooperación Internacional para el Desarrollo y elevado para su aprobación por el Consejo de Gobierno de la Junta de Andalucía en 2010. El intercambio de ideas, propuestas y sugerencias está permitiendo diseñar un modelo de Educación para el Desarrollo en Andalucía compartido por los agentes implicados. El POED persigue la realización de actuaciones para el cumplimiento de las medidas comprendidas en el PACODE, amparadas en experiencias previas y adaptadas a las características de la sociedad y a la política andaluza de cooperación para el desarrollo, con la perspectiva de promover una Educación para el Desarrollo comprometida con la transformación social. De este modo, se aspira a mejorar el impacto sobre la población andaluza en el conocimiento, comprensión y compromiso en la lucha contra la pobreza y la promoción del desarrollo humano sostenible en aras de una solidaridad comprometida y perdurable. Las principales iniciativas a desarrollar en 2010 se centran en: i) dinamizar la coordinación de los agentes de Educación para el Desarrollo; ii); apoyar las intervenciones de ED financiadas a los diferentes agentes, iii) intervenir en procesos educativos; iv) promover la sensibilización y v) incentivar la cultura de paz. Dinamizar la coordinación de los agentes de Educación para el Desarrollo En 2010 se promoverá la relación y se fomentarán espacios de encuentro que favorezcan la coordinación de los diferentes agentes de Educación para el Desarrollo, en Andalucía y con la Administración General del Estado, con objeto de ejecutar las medidas previstas en el PACODE y desarrolladas en el POED. Se normalizarán reuniones periódicas de trabajo, intercambio de información, participación en encuentros y el establecimiento de mecanismos adecuados de comunicación que respondan a la diversidad de los agentes involucrados en la ED y a sus necesidades específicas vinculadas a la gestión de las subvenciones.
+
+Página núm. 112 Sevilla, 17 de agosto 2010
+
+Apoyar las intervenciones de Educación para el Desarrollo financiadas a los diferentes agentes La AACID, mediante los instrumentos de financiación existentes, continuará apoyando las iniciativas de los agentes del ámbito andaluz enmarcadas en las Líneas Prioritarias recogidas en el PACODE:
+Intervención en procesos educativos, Sensibilización y Cultura de Paz. Una de las novedades más destacadas para 2010 es la posibilidad de apoyar programas de ED a las ONGDs lo que ha implicado la elaboración y adecuación de las herramientas necesarias para la formulación, valoración de su pertinencia, el seguimiento técnico y administrativo de su ejecución y su evaluación posterior, recogiendo las especificidades propias de la Educación para el Desarrollo. Intervenir en procesos educativos Uno de los grandes retos en materia de ED es alcanzar acuerdos con los órganos competentes en la educación reglada. En tal sentido, se mantendrán reuniones de coordinación con la Consejería de Educación y la Consejería de Economía, Innovación y Ciencia, para la implementación de las medidas desarrolladas en el POED respecto a la promoción de actividades de ED en los niveles de educación, formación de agentes educativos y promoción de metodología que respondan a los objetivos de la ED. Asimismo, se analizarán las posibles sinergias en la labor de fomento de la Cultura de Paz. Para propiciar la adecuada interrelación con los agentes de ED, se realizará un diagnóstico que permita conocer el alcance de sus intervenciones en los procesos educativos (particularmente en la promoción de actividades en los niveles de educación y la formación de agentes), identificando sus capacidades, áreas de trabajo más significativas, experiencias y estrategias desarrolladas, en aras a lograr un mayor impacto en las intervenciones de Educación para el Desarrollo. Promover la sensibilización La AACID continuará apoyando las intervenciones de sensibilización en el marco de la Orden de proyectos y programas a ONGD. Asimismo, siendo consciente del papel primordial que juegan los medios de comunicación en la transmisión de la información y de la realidad desde una perspectiva crítica en los procesos de cambio social, y a la luz de la cobertura del terremoto de Haití, se hace necesario se hace necesario reflexionar sobre el papel que los medios de comunicación pueden  jugar en la cooperación al desarrollo y, específicamente, en la acción humanitaria. Por ello, en 2010 se realizará un foro para debatir y reflexionar, entre otros aspectos, el tratamiento que se da a estas cuestiones, la imagen que se proyecta, el mensaje que llega a la sociedad y el modelo de solidaridad que genera. Incentivar la Cultura de Paz La Comunidad Autónoma Andaluza cuenta con un bagaje histórico y experiencia acumulada por diferentes entidades que pueden aportar un valor añadido en el refuerzo de la imagen de Andalucía como tierra de encuentro de civilizaciones y culturas. Se identificarán las capacidades de los agentes y el alcance de las iniciativas desarrolladas en referencia al Plan Andaluz de Educación para la promoción de la Cultura de la Paz y la No-Violencia, así como al artículo 2 de la Ley de Fomento de la Educación y la Cultura de la Paz en colaboración con la Administración General del Estado. Dada la existencia de diferentes instituciones con sede en Andalucía (Fundación Tres Culturas, Fundación El Legado Andalusí, la Casa Árabe y Fundación Barenboim), se promoverá la coordinación con estas entidades y con las Universidades, culminando este proceso con la firma de acuerdos específicos con dichos agentes.
+
+Sevilla, 17 de agosto 2010 Página núm. 113
+
+Objetivo 4: Mejorar el ciclo de la cooperación andaluza En los dos primeros años de vigencia del PACODE se han realizado importantes avances en la política de cooperación andaluza en los niveles estratégico y operativo de la planificación y se ha iniciado la revisión y mejora de los mecanismos de gestión, ejecución, seguimiento y evaluación. En concordancia con lo establecido en el PACODE y con la filosofía de trabajo de la cooperación andaluza, los procesos de planificación impulsados por la AACID han sido objeto de consulta y consenso con los agentes de la cooperación andaluza: ONGDs, Entidades Locales, Universidades, Organizaciones Sindicales y Organizaciones Empresariales, así como con el resto de organismos de la Junta de Andalucía con competencias en los aspectos planificados. Para canalizar dicha participación se han utilizado los Grupos de Trabajo creados en el seno del Consejo Andaluz de Cooperación Internacional para el Desarrollo. Las reflexiones y aportaciones realizadas han contribuido, por una parte, a analizar la realidad de manera más plural y contrastada, compartiendo las áreas de mejora que cada agente haya detectado en su experiencia previa de trabajo en el país, y, por otra, ha facilitado el establecimiento de los objetivos a alcanzar y la definición de líneas prioritarias y medidas. El propósito ha sido recoger el valor añadido que cada grupo de agentes puede aportar sobre la base de su experiencia, en una propuesta abierta y sumadora, lo que sin duda ha facilitado el planteamiento de programas y proyectos de desarrollo concretos. El esfuerzo de planificación y programación coordinado con los agentes andaluces ha supuesto un ejercicio de coordinación y complementariedad de las actuaciones, sometido al seguimiento y la evaluación necesaria que facilite mantener un proceso de aprendizaje continuo en la definición y aplicación de las intervenciones andaluzas de cooperación para el desarrollo. Las principales líneas de trabajo en relación con este objetivo son i) la consolidación del ciclo de la planificación derivado del PACODE; ii) la simplificación de los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía y iii) el fortalecimiento de los mecanismos de seguimiento y evaluación. Consolidar el ciclo de la planificación derivado del PACODE La aprobación por el Consejo de Gobierno de once Programas Operativos por País Prioritario de la cooperación andaluza y la elaboración de los restantes, junto con los Programas Operativos de Acción Humanitaria y Educación para el Desarrollo, actualmente en proceso de finalización, ponen de manifiesto el consenso de los agentes andaluces en la definición de estrategias y marcos de actuación compartidos. Así, han sido la participación, concertación y complementariedad de los agentes andaluces y la asociación con los actores locales en los países de destino de la cooperación los principios que han guiado la elaboración de estos Programas, utilizando los espacios de diálogo creados en el seno del Consejo Andaluz de Cooperación Internacional para el Desarrollo (los Grupos de Trabajo), reuniones bilaterales y visitas a terreno. Durante el año 2010 se continuará con la elaboración de los documentos estratégicos previstos en el PACODE hasta completar la fase de planificación, siguiendo el enfoque participativo que presidió la elaboración de estos documentos en 2009 y buscando el alineamiento con las necesidades y prioridades de los países socios, la complementariedad y coordinación de las actuaciones de los
+
+Página núm. 114 Sevilla, 17 de agosto 2010
+
+agentes andaluces de cooperación con las desarrolladas por otros actores de cooperación, y, especialmente con las directrices de la política de cooperación para el desarrollo de la Administración General del Estado. En 2010 está previsto concluir la programación por país, la finalización de los borradores de programas operativos de Mauritania, Ecuador, Perú, Burkina Faso, Guinea Bissau, Malí, República Democrática del Congo, Senegal y Togo, y la aprobación de los programas de Marruecos y Honduras. Además de estos marcos de planificación bilateral, durante 2010 se continuará con la concreción de los seis ejes de trabajo acordados con el Sistema de Integración Centroamericana. Bajo un enfoque de cooperación regional se plasmará en un Programa Operativo articulador las medidas a definir para cada uno de esos ejes en los Programas Operativos de los siete países que conforman el SICA. Los Programas Operativos para la Acción Humanitaria y la Educación para el Desarrollo serán sometidos a aprobación por el Consejo de Gobierno durante este año, una vez concluido el proceso de consultas a los agentes de cooperación andaluces. Puesto que el objetivo es comenzar su implementación de manera paulatina, algunas de las actuaciones para las que ya existe consenso han sido incluidas en este Plan Anual, garantizando así la coherencia del sistema de planificación. Asimismo, se dará un impulso a la programación estratégica en materia de Formación e Investigación, iniciada en 2009 con la creación de un grupo de trabajo con los miembros de la Red Andaluza de Cooperación Universitaria, en la que se debatieron las propuestas a incluir en el futuro Programa Operativo, cuyo diagnóstico estará finalizado en 2010, y en el que además de las universidades, principales agentes en formación e investigación, participarán otros agentes de cooperación con experiencia en estos ámbitos, tales como, entre otros, las ONGDs. Simplificar los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía La experiencia de trabajo en estos dos años de funcionamiento de la AACID ha permitido profundizar en el análisis de los mecanismos de gestión y ejecución que utiliza, identificando sus fortalezas y las áreas de mejora a afrontar. En 2010 se pondrá en marcha una reforma procedimental  que, como se anunciaba en la presentación, tiene como objetivo aunar, simplificar y agilizar los trámites necesarios para acceder a la financiación que la AACID otorga a los agentes andaluces de cooperación. El referente fundamental de esta reforma es la sustitución de las tradicionales Bases reguladoras de ayudas a ONGDs para proyectos de las distintas modalidades de cooperación por una única norma en la que se agrupan las diferentes líneas de financiación abiertas a las ONGDs para la Ayuda al Desarrollo, la Educación para el Desarrollo, la Acción Humanitaria y la Formación e Investigación. Uno de los rasgos característicos de estas nuevas Bases reguladoras es la financiación de programas plurianuales. Los programas se han definido como un conjunto de intervenciones enfocadas hacia el logro de objetivos específicos que se complementan para la consecución de un objetivo general. Estas intervenciones están orientadas hacia una población destinataria de un país con una duración establecida (no mayor de 48 meses) y con financiación plurianual. El objetivo es propiciar la planificación a medio plazo y abundar en la previsibilidad de la financiación en coherencia con los lineamientos para la mejora de la eficacia de la ayuda. Otro de los aspectos destacados es la incorporación por primera vez de la posibilidad de apoyar consorcios o agrupaciones de ONGDs, en
+
+Sevilla, 17 de agosto 2010 Página núm. 115
+
+línea con los criterios de calidad establecidas por el PACODE como son los de generar un alto valor añadido y concentrar geográfica y sectorialmente las actuaciones. Para la mejora del proceso de tramitación y evaluación ex ante de subvenciones, la AACID trabajará en 2010 por simplificar y adaptar el sistema de verificación de la pertinencia de las intervenciones de cooperación. En la senda de la consecución de una administración electrónica que facilite el acceso de la ciudadanía a las actividades de la cooperación andaluza, 2010 será el primer año en el que se comenzará la implantación paulatina de la tramitación telemática en procesos de la AACID. En este sentido se va a actualizar el marco normativo del Registro de Agentes de la Cooperación Andaluza (RACDA) para, entre otros aspectos, incorporar el procedimiento telemático de inscripción en el Registro, y se va a regular el procedimiento telemático para la solicitud de subvenciones de las ONGDs. Como continuación de los trabajos comenzados en 2009 en relación con las Pautas para la Elaboración de los POPP, se seguirán confeccionando contenidos para Guía de la Cooperación Andaluza. Esta Guía, que nace con la vocación de convertirse en referencia para los agentes andaluces, y que estará actualizada permanentemente, recogerá en su primera publicación la normativa de la Junta de Andalucía en materia de cooperación internacional para el desarrollo, los Programas Operativos aprobados, las bases reguladoras para la concesión de subvenciones de las distintas modalidades de la cooperación, el sistema de verificación de la pertinencia de las intervenciones, las orientaciones pertinentes para la incorporación de las prioridades horizontales en los diferentes ámbitos y fases de actuación, el Decreto con los procedimientos de seguimiento y evaluación de proyectos y programas de cooperación y el sistema de funcionamiento del RACDA. Fortalecer los mecanismos de seguimiento y evaluación de la cooperación andaluza Con el objetivo de contribuir a la mejora de la eficacia y calidad de la cooperación andaluza, la AACID continuará en 2010 con la apuesta por fortalecer los sistemas de seguimiento y evaluación que permitan:
+ Disponer de insumos que retroalimenten el proceso de toma de decisiones sobre las acciones a emprender y las estrategias de actuación futuras, completando la transferencia efectiva de las mejores prácticas.  Satisfacer las necesidades de información de todos los actores involucrados en las intervenciones, lo que permite la rendición de cuentas del destino, gestión y resultados de los fondos de cooperación a la ciudadanía andaluza y a las instituciones y personas de los países en los que se ejecutan las actuaciones.  Además, el acceso a esta información por parte de la ciudadanía favorecerá la concienciación y sensibilización sobre los problemas de desarrollo y sobre la contribución que desde Andalucía se hace. La evaluación se erige como pilar básico de una gestión orientada a resultados que genera información sobre lo realizado y sus efectos. Por ello, desde la AACID se promoverá el desarrollo y
+
+Página núm. 116 Sevilla, 17 de agosto 2010
+
+difusión de una cultura de la evaluación entre los agentes andaluces de cooperación mediante el aprovechamiento de las experiencias previas y de las evaluaciones hechas en el sector. Consecuentemente, y dando cumplimiento al artículo 9 de la Ley Andaluza de Cooperación, durante 2010 se normalizarán los procedimientos, pautas y herramientas necesarias para realizar el seguimiento y evaluación de la cooperación de la Administración de la Junta de Andalucía. Los procedimientos, que serán sometidos a consenso para la incorporación de las principales necesidades y retos del sistema, integrarán los requerimientos de información que el Comité de Ayuda al Desarrollo de la OCDE impone para los países que la componen, y que anualmente desde la Junta de Andalucía se deben remitir al Ministerio de Asuntos Exteriores y de Cooperación para la elaboración de los Informes de Seguimiento de los PACI en los que se recogen los datos de la cooperación de las CC.AA. Estos procedimientos de seguimiento y evaluación se recogerán en un Decreto, que ya comenzó a elaborarse en 2009, donde se plasmarán el objeto, el ámbito de aplicación y los fundamentos del seguimiento y la evaluación, se normalizarán las actuaciones que estarán sometidas a evaluación, las responsabilidades esperadas y los roles de cada agente de cooperación en las evaluaciones, así como los principios y estándares de calidad de las mismas. La publicación de este Decreto, que muestra el compromiso de la ACCID con la mejora de la eficacia y calidad de la cooperación para el desarrollo y con la transparencia en su gestión, constituirá una iniciativa pionera no sólo en el ámbito de la cooperación internacional, sino en el de las políticas públicas nacionales, erigiéndose además como evidencia de la interiorización e institucionalización de la función de evaluación en la administración pública andaluza. En respuesta a lo establecido en el PACODE, las actividades programadas por la AACID en relación con el seguimiento y la evaluación se plasman en el Plan Anual de Evaluaciones que para el año 2010 consistirá fundamentalmente en lo siguiente:
+ La realización de 102 evaluaciones externas de intervenciones canalizadas a través de ONGDs, en el marco de las obligaciones que para proyectos con presupuesto validado superior a 250.000 euros exige desde 2006 la Junta de Andalucía a las ONGDs subvencionadas.  La realización de la evaluación intermedia del PACODE, en respuesta a lo establecido en su
+capítulo sobre seguimiento y evaluación, y que tendrá como objetivo obtener información relevante que permita valorar la idoneidad de la estrategia propuesta e identificar las acciones necesarias a emprender para el correcto desarrollo del Plan.  La realización de la evaluación de la cooperación andaluza en Perú, que viene motivada por ser uno de los países en el que la cooperación andaluza ha volcado más recursos humanos y financieros en los últimos tres años.
+
+Sevilla, 17 de agosto 2010 Página núm. 117
+
+Objetivo 5: Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones Tradicionalmente la cooperación andaluza se ha caracterizado por la diversidad y pluralidad de agentes que intervienen en la ejecución de acciones de cooperación para el desarrollo. En la Ley Andaluza de Cooperación Internacional para el Desarrollo se recogen referencias expresas a la participación de los agentes en la ejecución de la cooperación andaluza. El PACODE reconoce expresamente como principales agentes de la cooperación andaluza a la Administración de la Junta de Andalucía, las ONGDs, las Administraciones Locales, las Universidades, las Organizaciones Sindicales y las Organizaciones Empresariales. Como se recoge en el PACA 2009, los agentes andaluces han jugado un importante papel en la contribución a la reducción de la pobreza, y año tras año han ido incrementando sus recursos humanos y financieros destinados a este fin, aumentando su presencia en un mayor número de países y diversificando su intervención en diferentes sectores prioritarios de la cooperación internacional. Con objeto de fortalecer la coordinación y la armonización de las intervenciones, se requiere realizar un esfuerzo orientado a reforzar sus capacidades, apoyar sus intervenciones de cooperación y establecer mecanismos que aseguren la complementariedad y coordinación de sus actuaciones. Uno de los principales mecanismos articulados por la cooperación andaluza para conseguir esta mayor coordinación y complementariedad lo constituye el proceso de planificación emprendido en este periodo. Con la elaboración de los Programas Operativos geográficos y horizontales se pretende consensuar y establecer una agenda común de actuación para todos los agentes andaluces que intervienen en procesos de desarrollo, garantizando tanto la concentración sectorial y geográfica como un mayor impacto de las actuaciones en el territorio. En este marco, durante 2010 los principales retos que asumirá la AACID serán: i) la promoción de la participación y coordinación de los agentes andaluces en el desarrollo del PACODE; ii) el apoyo al voluntariado y a los cooperantes; y iii) el fortalecimiento de las capacidades de los agentes del ámbito andaluz de cooperación mediante la formación y la investigación. Promover la participación y coordinación de los agentes andaluces en el desarrollo del PACODE La ejecución del PACODE está regida por los principios de colaboración, complementariedad y calidad de la ayuda, y es precisamente en este ámbito de colaboración, como garantía de la unidad y coherencia de la política andaluza de cooperación, donde tiene lugar el necesario consenso con estos agentes. De ahí que el principal reto de este Plan Anual sea conseguir una mayor implicación, coordinación y complementariedad de las actuaciones de cooperación para el desarrollo de los agentes de la cooperación andaluces, en línea con los principios y prioridades establecidos en el PACODE. Para ello, se dinamizarán y reforzarán los órganos de participación, coordinación y consulta existentes, y se continuará la renovación de los Convenios de colaboración con los distintos agentes iniciada el ejercicio anterior.
+
+Página núm. 118 Sevilla, 17 de agosto 2010
+
+Mediante la Comisión de Cooperación para el Desarrollo, como órgano colegiado de la Administración de la Junta de Andalucía para la coordinación de su política de cooperación, se seguirá trabajando en el fortalecimiento de la participación de las Consejerías y organismos públicos de la Junta de Andalucía en su vinculación con el desarrollo del ciclo de planificación de la cooperación andaluza, especialmente en el diseño y puesta en marcha de los Programas Operativos. Considerando el importante papel del Consejo Andaluz de Cooperación Internacional para el Desarrollo (CACID) en el diseño de la política andaluza de cooperación, durante el año 2010 se seguirá apostando por un mayor protagonismo de este órgano con el objetivo de promover su función como órgano consultivo y espacio de participación y consenso que sustente las actuaciones de cooperación que desarrollan todos los agentes andaluces (Administración Local, ONGDs, Universidades y organizaciones sindicales y empresariales de Andalucía, junto con la Administración de la Junta de Andalucía). El Consejo se reunirá, al menos, tres veces durante 2010. Para concretar la participación de los agentes en la planificación, seguimiento y evaluación de la cooperación andaluza, en 2009 se crearon los cinco Grupos de Trabajo previstos en el PACODE. Estos Grupos, de carácter permanente, se conciben como un espacio de reflexión, debate y consulta del que disponen los agentes andaluces para la participación en el proceso de ejecución del PACODE, promoviendo la complementariedad y apoyo a las acciones que se desarrollan. Complementan los canales de comunicación que desde la AACID se mantienen con los distintos agentes de la cooperación andaluza. La experiencia de trabajo con estos Grupos, cuya andadura comenzó con la elaboración de los Programas Operativos, ha puesto de manifiesto la utilidad del enfoque seguido, en el que las reflexiones y aportaciones de quienes participan han contribuido a analizar la realidad de manera más plural y contrastada, compartiendo las áreas de mejora que cada agente haya detectado en su experiencia previa de trabajo en el país. Asimismo, ha facilitado el establecimiento de los objetivos a alcanzar y la definición de líneas prioritarias y medidas. Para estos Programas Operativos se ha previsto la creación de Comités de Seguimiento en los que estarán representados los agentes andaluces implicados en su diseño, ejecución, seguimiento y evaluación. La participación en los espacios de diálogo creados permitirá ir configurando, de forma consensuada, el rol de cada agente en la cooperación andaluza para el desarrollo. Además, para el caso de las ONGDs, en 2010 se finalizará el procedimiento para la Calificación para acceder a programas iniciado en 2009, nuevo instrumento para la cooperación andaluza. Esta apuesta por el apoyo a programas de mayor alcance que los proyectos persigue aumentar la eficacia e impacto de la cooperación. Puesto que la dotación financiera es mayor, los requisitos para acceder a ella se centran en la experiencia, estructura y capacidad institucional de la ONGD. Además, se firmarán Convenios con los agentes que a continuación se relacionan que tendrán como finalidad la financiación de proyectos y programas definidos a partir de los ejes prioritarios de colaboración previstos en el PACODE y en coherencia con los Programas Operativos vigentes:
+ La FAMP, mediante el FAMSI, que tendrá como principal objetivo el fortalecimiento institucional, la gestión de servicios básicos a la comunidad, el desarrollo local y el apoyo a proyectos y programas de ayuda al desarrollo, acción humanitaria, educación para el desarrollo, formación e investigación, seguimiento y evaluación.
+
+Sevilla, 17 de agosto 2010 Página núm. 119
+
+ La Confederación de Empresarios de Andalucía, para fortalecer las estructuras empresariales de los países del Sur, la promoción de su tejido productivo y la economía social y la promoción de la Responsabilidad Social Empresarial.  Las Universidades, que tendrán como objetivos apoyar la formación y la investigación en materia de cooperación internacional para el desarrollo, el fortalecimiento institucional y la promoción del voluntariado. Y se dará seguimiento a los convenios suscritos con:
+ La CAONGD, que tiene como objetivo fundamental reforzar el servicio que ésta presta al sector de la cooperación en Andalucía mediante el asesoramiento técnico a proyectos y gestión de organizaciones, el impulso y apoyo a campañas de sensibilización social, la formación y la elaboración de documentos y propuestas que supongan una incidencia en las políticas andaluzas de cooperación.  Las Organizaciones Sindicales UGT y Comisiones Obreras, cuya actuación se centra en la promoción del fortalecimiento institucional de las organizaciones sindicales de los países del Sur, el fomento del diálogo social, la puesta en marcha de actuaciones de sensibilización, educación para el desarrollo y formación. Apoyar al voluntariado y a cooperantes Una de las medidas a desarrollar en el marco del PACODE es la elaboración del Programa Andaluz de Voluntariado en la Cooperación Internacional para el Desarrollo, en colaboración con la Agencia Andaluza del Voluntariado. El objetivo es fortalecer y articular este colectivo, incluyendo acciones dirigidas a la cualificación y promoción del personal voluntario que vaya a trabajar, tanto en terreno como en sede. Aunque se han realizado acciones vinculadas a la identificación de experiencias exitosas en este campo, en 2010 e plantea pretende completar la fase de diagnóstico y la definición del Programa. Para ello, se contará con los agentes del ámbito andaluz directamente relacionados con la promoción del voluntariado vinculado a la cooperación internacional. Este Programa abordará, entre otras, las siguientes cuestiones:
+La formación del personal voluntario en materia de cooperación internacional para el desarrollo, acción humanitaria, educación para el desarrollo y formación e investigación. El apoyo económico a los agentes andaluces de cooperación internacional para el desarrollo que cuenten con personal voluntario. En relación con el Estatuto de los cooperantes, se espera concluir con la definición de los términos de la colaboración entre la AECID y la AACID en lo que respecta a la regulación del intercambio de información sobre las entidades promotoras de la cooperación internacional y los contratos y acuerdos
+
+Página núm. 120 Sevilla, 17 de agosto 2010
+
+complementarios de destino de las personas cooperantes; así como la determinación de la aportación económica de la AACID al seguro colectivo de cooperantes promovido por la AECID3. La Administración de la Junta de Andalucía cumplirá el Estatuto del Cooperante en las contrataciones de personal y se hará un seguimiento de su cumplimiento por parte de los distintos agentes de cooperación a los que apoye, estableciéndolo como requisito previo en la concesión de subvenciones. Para ello, en el Convenio Marco de Colaboración que se pretende renovar con la AECID se establecerán las responsabilidades que cada administración tendrá respecto al seguimiento del cumplimiento del Estatuto del Cooperante por parte de los agentes de cooperación para el desarrollo que operen desde Andalucía. En esta línea, se prevé la realización de una actuación informativa del Convenio firmado entre los agentes de cooperación internacional para el desarrollo. Fortalecer las capacidades de los agentes andaluces mediante la Formación y la Investigación Entre los fines perseguidos por la cooperación andaluza se encuentra el fortalecimiento de las capacidades de los agentes andaluces, tanto institucionales como técnicas, para lo que se continuará con el apoyo financiero que tradicionalmente se ha prestado a aquellos agentes reconocidos en el PACODE y se iniciará un nuevo marco de actuación en materia de formación, investigación e innovación que tendrá como referencia el Programa Operativo de Formación e Investigación. Su elaboración se acometerá en 2010, siguiendo los mismos principios que orientan la elaboración del resto de Programas Operativos: participación de los agentes de cooperación en su elaboración, coherencia con el resto de la programación estratégica de la cooperación andaluza y complementariedad con otras estrategias nacionales que durante 2010 se lanzarán (Plan de Acción de Investigación para el Desarrollo y Estudios sobre Desarrollo y con la Estrategia de Ciencia, Tecnología e Innovación para el Desarrollo). Desde la AACID se considera que el ámbito de la cooperación internacional para el desarrollo, como campo de conocimiento, requiere de la innovación necesaria para avanzar en la consecución de resultados. La elaboración del Programa partirá de la identificación de los agentes andaluces con interés en la formación, investigación e innovación en cooperación para el desarrollo con el objetivo de favorecer su participación en la configuración de una red multidisciplinar de colaboración e intercambio de ideas y experiencias que ofrezca insumos a los procesos de planificación en este ámbito. La coordinación de esta red tendrá como referencia el Grupo de Trabajo de Formación e Investigación del Consejo Andaluz de Cooperación Internacional para el Desarrollo, creado en 2009. Paralelamente a la elaboración del diagnóstico del Programa de Formación e Investigación se firmarán Convenios de Colaboración con las Universidades andaluzas para integrar la formación y la investigación en los procesos de cooperación para el desarrollo y así proveer de la capacidad investigadora y del respaldo metodológico a los agentes de cooperación.
+
+3 El Real Decreto 519/2006, de 28 de abril, por el que se establece el estatuto de los cooperantes y la orden AEC/163/2007, de 25 de enero, por la que se desarrolla el Real Decreto 519/2006 aprueban el marco jurídico en el que debe desarrollarse la labor de las personas cooperantes, pretendiendo garantizar los derechos de quienes desarrollan actividades de cooperación y contribuir a un mejor desarrollo de las mismas. La AACID pretende contribuir a garantizar, junto con la AECID, que su contenido sea respetado por la cooperación que se desarrolle a partir de fondos procedentes del Presupuesto de la Comunidad Autónoma de Andalucía.
+
+Sevilla, 17 de agosto 2010 Página núm. 121
+
+En 2010 se reanudará la financiación a ONGDs para la realización de proyectos y programas de formación e investigación, modalidades incluidas en la propuesta de nueva Orden de Bases reguladoras de las subvenciones a las ONGDs en el ámbito de la cooperación. El objetivo que se persigue es facilitar el tratamiento de temas relacionados con la creación y movilización del conocimiento para el cambio social y económico. También se diseñará un Plan de formación para el personal de la AACID, tanto en sede como en terreno, para la actualización y mejora de las capacidades técnicas, buscando respuestas a las necesidades formativas que favorezcan el fortalecimiento institucional de la Agencia, con objeto de conseguir un adecuado funcionamiento de su estructura organizativa y una capacidad de gestión de mayor calidad.
+
+Página núm. 122 Sevilla, 17 de agosto 2010
+
+Objetivo 6: Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación andaluza En 2009 se inició el camino hacia la configuración de una estrategia para la efectiva integración de las Prioridades Horizontales (PPHH) definidas en el PACODE. Durante 2010 se continuará trabajando para su inclusión en los documentos de planificación y en los formularios de la nueva Orden de Subvenciones a ONGDs para garantizar su consideración en todo el ciclo de las intervenciones. Igualmente, se desarrollará la formación, sensibilización, comunicación y difusión de las PPHH. Es necesario apuntar que la consideración sistemática de las PPHH en todos los ámbitos implica un trabajo gradual que genere cambios en la cultura y prácticas de las instituciones y organizaciones de la cooperación andaluza. Las medidas a realizar en 2010 son: i) incluir las PPHH en la planificación estratégica y operativa y en la gestión de la cooperación; ii) formar y comunicar sobre las PPHH; y iii) desarrollar las actuaciones previstas como G+. Incluir las PPHH en la planificación estratégica y operativa y en la gestión de la cooperación En el marco de la planificación estratégica, se incorporarán las PPHH en los Programas Operativos que durante este año se aborden, asegurando su efectiva transversalización. Para ello, se incorporarán indicaciones específicas, vinculadas a las líneas y sectores priorizados y atendiendo a la problemática identificada, proponiendo medidas coherentes con lo establecido para cada prioridad horizontal en el PACODE. Paralelamente a este análisis, y con el objetivo de insistir en la necesidad de su integración en la definición y ejecución de los instrumentos de la planificación operativa, se realizará una revisión de las herramientas e instrumentos usados en la identificación, formulación, ejecución, seguimiento y evaluación de las actuaciones financiadas para incorporar los requerimientos de cada prioridad horizontal. En concreto, se llevarán a cabo los siguientes trabajos:
+ Incorporación de las PPHH en la Orden de Bases reguladora de las subvenciones a proyectos y programas de ONGDs y en los Convenios a suscribir con otros agentes de cooperación, tanto en la definición de los criterios de valoración de la pertinencia de las intervenciones como en las herramientas para su formulación, seguimiento y, en su caso, evaluación.  Diseño de unas Pautas para la Elaboración de diagnósticos que consideren las PPHH. Estas pautas, metodológicas y prácticas, tienen como objetivo orientar a los agentes de cooperación durante el proceso de identificación de los problemas y necesidades de los colectivos, territorios y sectores en los que pretenden centrar sus intervenciones para asegurar el análisis de necesidades desde un enfoque integral.  Definición de un sistema de datos desagregados e indicadores específicos de las PPHH que permitan realizar el seguimiento y evaluación de los efectos de las intervenciones andaluzas sobre la situación de partida de cada prioridad horizontal y los beneficios de su integración en el ciclo de las intervenciones.
+
+Sevilla, 17 de agosto 2010 Página núm. 123
+
+ Inclusión de criterios relativos a las PPHH en el Decreto de Seguimiento y Evaluación de la Cooperación Andaluza.  Realización de la valoración, seguimiento intermedio y final de intervenciones de cooperación vinculadas a las PPHH. Formar y comunicar sobre las PPHH En coherencia con la apuesta por fortalecer la coordinación de los agentes de cooperación andaluces, en relación con las PPHH se desarrollará una línea de intervención en el ámbito de la comunicación y en el de la formación de los agentes de la cooperación andaluces. En cuanto a la comunicación, el objetivo es informar y mantener un proceso de actualización continuo al personal de la AACID y a los agentes de la cooperación andaluza para facilitar la comprensión y la incorporación de las PPHH en el ciclo de las intervenciones, así como difundir las prácticas y lecciones aprendidas relevantes en estas materias. En este proceso también se pretende propiciar un conocimiento de experiencias e iniciativas exitosas de organismos de la Administración Autonómica Andaluza con competencias en los ámbitos de actuación de las Prioridades Horizontales. La estrategia de comunicación se desarrollará en tres etapas: 1) Diagnóstico que permita recoger el nivel de implantación, grado de funcionalidad y propuestas de mejora sobre la consideración de las PPHH;
+2) Diseño y desarrollo del Plan de Comunicación y 3) Seguimiento y evaluación del Plan de Comunicación. En el ámbito formativo se van a desarrollar acciones destinadas a los agentes para transferir el desarrollo metodológico e instrumental que desde el enfoque integral propuesto en relación con las PPHH se va a llevar a cabo en 2010. Se continuará fortaleciendo las capacidades técnicas del personal de la Agencia que favorezcan la integración de las PPHH en la planificación, estratégica y operativa, hacia la consecución de una cooperación de mayor calidad. Estos elementos, que conformarán la estrategia de las PPHH que se pretende concluir en 2011, enfocados de forma práctica sobre las características de la cooperación andaluza, irán incorporándose a la Guía de la Cooperación Andaluza. Desarrollar las actuaciones previstas como G+ Además de ser una prioridad horizontal, la promoción de la equidad de género es para la cooperación andaluza tanto una prioridad sectorial (recogida en el Objetivo 1), como un fuerte compromiso institucional en el marco del Programa de Presupuestos Sensibles al Género de la Junta de Andalucía, dada la calificación de la AACID como G+, en reconocimiento a su gran potencial como agente transformador de las relaciones de género. Siguiendo las indicaciones establecidas en el Documento de Orientaciones Estratégicas (DOE G+), la AACID ha concretado las actuaciones sobre la inclusión de la dimensión de género en la planificación estratégica, instrumentos y herramientas de la cooperación para el desarrollo andaluza. Para 2010 estas actuaciones son las siguientes:
+
+Página núm. 124 Sevilla, 17 de agosto 2010
+
+ En cuanto a la producción de diagnósticos sensibles al género, se realizará el diagnóstico de Ecuador, por su relevante papel en la promoción de uno de los ejes de trabajo de la AACID:
+la economía de los cuidados4.  Un diagnóstico sobre la integración de la perspectiva de género en la Acción Humanitaria en el ámbito de actuación de la AACID, por la urgente necesidad de aplicar el principio del "Do No Harm" paliando así los efectos de las intervenciones que no integran la perspectiva de género.  Un diagnóstico sobre la integración de la perspectiva de género en las actuaciones financiadas por la AACID.  Una metodología para la elaboración de diagnósticos país con enfoque de género. Además de lo anterior, y en cumplimiento del compromiso de la AACID como Organismo G+, se enfocará sus esfuerzos, mediante el apoyo de intervenciones de cooperación, formación e investigación, hacia el fortalecimiento de los siguientes tres ejes: la producción de diagnósticos sensibles al género, la economía de los cuidados y la erradicación de la violencia de género.
+
+4 Consenso de Quito, compromiso resultado de la X Conferencia Regional sobre la Mujer de América Latina y el Caribe. 2007
+
+Sevilla, 17 de agosto 2010 Página núm. 125
+
+Marco presupuestario (previsiones) En la tabla siguiente se presentan las previsiones de asignación presupuestaria de la cooperación andaluza para el año 2010 desagregadas por objetivos. Tabla 1. Presupuesto por objetivos Objetivo Presupuesto estimado Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza 86.122.776 Consolidar la Acción Humanitaria Andaluza 11.205.297 Fortalecer la Educación para el Desarrollo de la población andaluza 11.205.297 Mejorar el ciclo de la cooperación andaluza 1.184.583 Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones 2.287.017 Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación andaluza 48.000 Total 112.052.970 Gráfico 1. Porcentaje de recursos previstos para 2010 por objetivos Objetivo 6 0% Objetivo 5 2% Objetivo 4 1% Objetivo 3 10% Objetivo 2 10% Objetivo 1 77% Iberoamérica 58,65% Mediterráneo 16,50% África Subsahariana 24,85%
+
+Página núm. 126 Sevilla, 17 de agosto 2010
+
+Las previsiones presupuestarias por países, en millones de euros, son las que se muestran en la siguiente tabla:
+País o área geográfica Financiación indicativa País o área geográfica Financiación indicativa Bolivia SICA Colombia SECTORIAL EN IBEROAMÉRICA Costa Rica ÁREA DE IBEROAMÉRICA Cuba Marruecos Ecuador Mauritania El Salvador Territorios Palestinos Guatemala TOTAL MEDITERRÁNEO Honduras Malí Nicaragua Senegal México Guinea Bissau Panamá Burkina Faso Perú Togo República Dominicana República Democrática del Congo Paraguay Mozambique Uruguay SECTORIAL EN ÁFRICA SUBSAHARIANA TRANSFRONTERIZA TOTAL ÁFRICA SUBSAHARIANA TOTAL OBJETIVO 1
+
+Sevilla, 17 de agosto 2010 Página núm. 127
+
+## Anexo 1. Tabla de medidas y resultados esperados
+
+Objetivo específico 1 Generar procesos de desarrollo en las áreas geográficas prioritarias de la cooperación andaluza Resultado esperado para 2011 Se habrá contribuido a reducir la pobreza y a promover un desarrollo humano sostenible en los países receptores de ayuda de la cooperación andaluza, concentrando las actuaciones en las zonas geográficas y las líneas sectoriales del PACODE Resultado esperado para 2010 Mejorada la eficacia, complementariedad, alineamiento e impacto de la ayuda para el desarrollo andaluza garantizando la apropiación de las intervenciones por parte de los organismos receptores y población destinataria en los países de actuación de la AACID Cooperación Bilateral Consolidar la estrategia de cooperación para el desarrollo en los distintos países prioritario Actuaciones propuestas Resultados esperados Identificación de nuevas intervenciones de cooperación de la Administración de la Junta de Andalucía en áreas prioritarias Identificadas y/o formuladas intervenciones en países prioritarios de Iberoamérica, Mediterráneo y África Subsahariana que potencien un desarrollo sostenible y equitativo Apoyo a actuaciones de los agentes de cooperación internacional Financiados proyectos de ONGD, FAMSI, Universidades, Organizaciones Sindicales y Empresariales y Organismos Multilaterales de Naciones Unidas que permiten aumentar la eficacia e impacto de la cooperación andaluza y reducir las desigualdades en los diferentes países de actuación de la AACID Promover una coordinación activa, participativa y sumadora de las intervenciones en el exterior Actuaciones propuestas Resultados esperados Refuerzo del seguimiento en terreno de las intervenciones de cooperación financiadas Seguimiento en terreno de las intervenciones de cooperación financiadas  en países prioritarios de la cooperación andaluza Establecimientos de los procedimientos de gestión de subvenciones y los manuales de subvenciones Firmados los protocolos administrativos o términos de referencia con las instituciones y organismos públicos nacionales para la ejecución de las subvenciones en alineación con los procedimientos nacionales en los principales países de Iberoamérica, Mediterráneo y África Subsahariana Coordinación e interlocución con los agentes de cooperación, con las organizaciones locales e instituciones públicas en los distintos países Realizados los contactos institucionales que permiten un diálogo fluido y coordinación dinámica de las intervenciones Optimizar la ejecución y seguimiento de los proyectos y programas de cooperación para el desarrollo Actuaciones propuestas Resultados esperados Desarrollar intervenciones de cooperación bilateral con los países prioritarios en Iberoamérica, Norte de África y Oriente Medio y con los países en África Subsahariana Iniciadas intervenciones de desarrollo aprobadas en 2009 para cada país prioritario de Iberoamérica, Norte de África y Oriente Medio y con los países en África Subsahariana Realizado el seguimiento de las intervenciones en ejecución durante 2010 en países del área geográfica Cooperación con Enfoque Regional, Regional Sectorial y Continental Actuaciones propuestas Resultados esperados Desarrollar intervenciones con enfoque regional, regional sectorial en Iberoamérica y preparar los cimientos para iniciar una intervención continental a medio plazo en Iberoamérica y África Elaboración del POCER-SICA Elaborado informe sobre Cumbres, Conferencias y Encuentros de carácter regional en Iberoamérica y África relacionados con la temática seleccionada Cooperación Sur-Sur y Cooperación Triangular Actuaciones propuestas Resultados esperados Preparar la base para la identificación a medio plazo de intervenciones de cooperación Sur-Sur y cooperación triangular Identificados los países y sectores susceptibles de formar parte de un futuro programa de cooperación sur-sur y cooperación triangular
+
+Página núm. 128 Sevilla, 17 de agosto 2010
+
+Objetivo específico 2 Consolidar la Acción Humanitaria Andaluza Resultado esperado para 2011 Diseñado y puesto en marcha un modelo de Acción Humanitaria adaptado a las características de la cooperación andaluza y capaz de responder con la máxima prontitud y eficacia en situaciones de emergencia, prevención, rehabilitación, reconstrucción y crisis permanentes Resultado esperado para 2010 Consensuada la adopción de un modelo de AH adaptado a Andalucía y puesta en marcaha del mismo contribuyendo a incrementar la capacidad de respuesta, eficacia y calidad de la AH andaluza Adecuar el marco procedimental y normativo incluyendo las especificidades de la AH Actuaciones propuestas Resultados esperados Elaboración de contenidos sobre cada ámbito de la AH para su inclusión en las bases reguladoras para la concesión de subvenciones de cooperación para el desarrollo para ONGDs Incorporadas en las bases reguladoras para la concesión de subvenciones de cooperación para ONGDs las especificidades de las intervenciones de prevención, crisis crónica y rehabilitaciónreconstrucción y especialmente en lo relativo a los criterios de valoración de la pertinencia de las intervenciones Incorporados en las bases reguladoras para la concesión de subvenciones de cooperación para ONGDs criterios para intervenciones de emergencia Inclusión de la especificidad de cada ámbito de la AH en los formatos y herramientas de la AACID Modelos de formulación, seguimiento y evaluación adaptados a cada ámbito de la AH Análisis de los códigos de conducta adoptados por las ONGDs andaluzas y buenas prácticas. Propuesta para la adopción de normas de conducta por parte de las ONGs y de otros agentes de cooperación que realicen AH en el marco del Grupo de Trabajo de AH Se conoce el marco operativo de los agentes Propuestas de código de conducta y de catálogo de buenas prácticas a ser adoptados por los agentes andaluces de AH elaboradas y presentadas al GT Apoyar la ejecución de intervenciones de AH Actuaciones propuestas Resultados esperados Promover la incorporación del enfoque de reducción de daños, prevención y gestión de riesgos así como la prevención de conflictos en las intervenciones de AH Recogida en la orden reguladora de subvenciones para ONGDs, como una de las prioridades, las intervenciones de prevención y gestión de riesgos Elaboración de propuesta para la adopción de un marco operativo de referencia incluyendo criterios para la intervención en crisis crónicas:
+identificación, problemáticas, población objetivo y áreas geográficas prioritarias Criterios para la intervención en crisis crónicas definidos y documento de propuesta elaborado Establecimiento de criterios y diseño de herramientas para la financiación de proyectos y programas de AH a ONGDs que se ajusten a las prioridades, principios y ámbitos de la AH e incorporación de estándares internacionales de calidad en las intervenciones humanitarias Estándares de calidad incorporados en los formatos de formulación, seguimiento y evaluación de proyectos así como en los criterios de valoración y herramientas que se desarrollen para AH incluidos en las bases reguladoras para la concesión de subvenciones de cooperación para el desarrollo para ONGDs Gestión y seguimiento de proyectos y programas de AH subvencionados por la AACID Proyectos de convocatoria 2010 Proyectos en ejecución Proyectos finalizados Identificar y reforzar las capacidades de los agentes de cooperación en Andalucía Actuaciones propuestas Resultados esperados Elaboración de un diagnóstico de capacidades y experiencia de los agentes de cooperación en AH en Andalucía Realizado el Diagnóstico de capacidades y experiencia en AH Participación en la organización de jornadas, talleres y foros de debate especializados sobre AH en coordinación con el Dpto. de ED de la AACID y en concordancia con el POED Contenidos sobre AH aportados para la organización de jornadas, talleres, foros de debate y/o actividades de sensibilización y construcción de paz Preparación de contenidos sobre los diferentes ámbitos de la AH a aboradar desde el POFI La AH se incorpora en el POFI Crear y poner en marcha dispositivos de coordinación y participación Dinamización del Grupo de Trabajo de AH: propuesta de lineamientos de trabajo y acotación de funciones, propuesta de formación de subgrupos de trabajo para temáticas especializadas (crisis crónicas, vinculación AH desarrollo, entre otros) Grupo de Trabajo de AH con programa de trabajo elaborado. Promovida la creación de subgrupos de trabajo
+
+Sevilla, 17 de agosto 2010 Página núm. 129
+
+Colaboración con las entidades de la Junta de Andalucía que trabajan emergencias (GREA-112 Grupo de Emergencias de Andalucía, Consejería de Gobernación, Protección Civil, EPES, Bomberos de las Diputaciones y Ayuntamientos, etc) Identificadas las capacidades de intervención en emergencias de las entidades públicas andaluzas e iniciada la coordinación Identificación de posibilidades de colaboración con representantes de entidades públicas en acciones de AH Identificadas capacidades de intervención en emergencias de las entidades públicas andaluzas Elaboración de protocolo para la actuación en emergencias Protocolo para la actuación en emergencias desde Andalucía para catástrofes y conflictos internacionales elaborado y operativo Propuesta a la AECID para elaborar un protocolo de relación con las CC.AA. para las emergencias. Disponer de información actualizada y realización de reuniones con la Oficina Humanitaria de la AECID Reuniones de coordinación con la AECID para la definición del protocolo de trabajo con las CCAA en las emergencias e intercambio de información Revisión del Convenio marco con la AECID para incorporar el trabajo en AH Realizada propuesta con contenidos del convenio y calendario de trabajo Facilitar la información, sensibilización y testimonio sobre la AH Actuaciones propuestas Resultados esperados Informar a la sociedad andaluza sobre la AH realizada por la AACID promoviendo la sensibilización sobre las problemáticas tratadas:
+Identificación de indicadores para la AH para incluir mayor detalle sobre la AH realizada en la Memoria Anual Elaboración de notas informativas sobre la respuesta de la AACID a la emergencia de Haití Participación en foros de debate, conferencias y foros sobre AH, incluyendo los organizados en el marco del Dpto de ED Incorporada en la Memoria Anual la AH con información cuantitativa y cualitativa Divulgado a través de la web el avance en el proceso de respuesta al terremoto de Haití Se ha asistido, participado y/o presentado ponencias en foros de AH Promover la incorporación del testimonio y la sensibilización sobre la situación de las víctimas de desastres y problemáticas humanitarias en los proyectos de AH financiados por la AACID, mediante la inclusión del testimonio en las normas y procedimientos de la AACID e informando a los agentes La Orden de bases para subvenciones de ONGDs recoge contenidos de testimonio para la AH Incorporado el Testimonio en los criterios de valoración de proyectos de AH Modelos de formulación, seguimiento y evaluación de programas y proyectos de AH a ser financiados por la AACID incluyen la consideración del testimonio y protección
+
+Página núm. 130 Sevilla, 17 de agosto 2010
+
+Objetivo específico 3 Fortalecer la Educación para el Desarrollo de la población andaluza Resultado esperado para 2011 Diseñado y puesto en marcha un modelo de Educación para el Desarrollo, sensibilización y cultura de paz adaptado a las características y particularidades de la sociedad andaluza y de la política andaluza de cooperación para el desarrollo Resultado esperado para 2010 Se impulsa la ED, favoreciendo procesos de coordinación y complementariedad del conjunto de actores con competencias en ED Dinamizar la coordinación de los agentes de educación para el Desarrollo Actuaciones propuestas Resultados esperados Complementariedad con la AECID en la convocatoria que realice a las CCAA en el marco de acciones vinculadas a ED Colaboración con la AECID en las iniciativas vinculadas a ED Impulso del Grupo de Trabajo de ED Programa de trabajo recogiendo las temáticas a abordar en el año 2010 Apoyar las intervenciones de educación para el desarrollo Actuaciones propuestas Resultados esperados Apoyo a intervenciones de Educación para el Desarrollo Tramitación de la Convocatoria y otras intervenciones:
+Proyectos de ONGDs Proyectos financiados mediante firma de convenios Gestión técnica y administrativa de subvenciones:
+valoración de expedientes (cierre de 48 expedientes y seguimiento a 49 proyectos) Adecuación de los instrumentos y herramientas a las particularidades de la ED (formularios de subvenciones relativos a la formulación, seguimiento intermedio y final y autoevaluación) tanto en proyectos como en programas para los diversos agentes de ED Los documentos y herramientas de planificación y los vinculados a convocatorias y financiación de la AACID incorporan la especificidad de la ED Intervenir en procesos educativos Actuaciones propuestas Resultados esperados Coordinación con la Consejería de Educación y la Consejería de Innovación, Ciencia y Empresa Reuniones en el marco del POED Identificación de las actuaciones y capacidades de los agentes andaluces Documento de experiencias y capacidades de los agentes andaluces en materia de: 1) promoción de actividades en los niveles educativos; 2) en la formación de agentes y 3) redes e intercambio de experiencias, recursos y materiales didácticos entre agentes andaluces y entre agentes del Sur y del Norte Promover la sensibilización Actuaciones propuestas Resultados esperados Realización de un Foro de debate sobre los medios de comunicación ante las crisis humanitarias: caso de Haití Foro realizado Incentivar la cultura de paz Actuaciones propuestas Resultados esperados Coordinación con las principales instituciones (la Fundación Tres Culturas, El Legado Andalusí, la Casa Árabe y Fundación Barenboim) y Universidades, en Cultura de Paz Identificación de Iniciativas de cultura de paz en el marco de la promoción de Andalucía como tierra de encuentro de civilizaciones y cultura
+
+Sevilla, 17 de agosto 2010 Página núm. 131
+
+Objetivo específico 4 Mejorar el ciclo de la cooperación andaluza Resultado esperado para 2011 Los agentes cuentan con herramientas y procedimientos comunes para la planificación, gestión, ejecución, seguimiento y evaluación de las actuaciones financiadas con fondos del presupuesto andaluz Resultado esperado para 2010 Se habrá completado la planificación geográfica y temática, y se habrá avanzado en la mejora de los aspectos metodológicos, procedimentales e instrumentales de la AACID en materia de formulación, seguimiento y evaluación y gestión técnica y financiera Consolidar el ciclo de la planificación derivado del PACODE Actuaciones propuestas Resultados esperados Elaboración de los documentos estratégicos por país
+- Elaborados los borradores de los POPP: Honduras, Marruecos, Ecuador, Perú, Burkina Faso, Guinea Bissau, Malí, R.D. del Congo, Senegal, Togo y Mauritania Elaboración del Programa Operativo con Enfoque Regional SICA
+- Elaboración del POCER SICA Aprobación del Programa Operativo de Acción Humanitaria
+- Aprobado el POAH (vinculado con el Objetivo 2) Aprobación del Programa Operativo de Educación para el Desarrollo
+- Aprobado el POED (vinculado con el Objetivo 3) Elaboración del Programa Operativo de Formación e Investigación
+- Realizado el diagnóstico del POFI Elaboración del PACA 2011
+- PACA 2011 elaborado Simplificar los procesos de gestión y ejecución de las intervenciones financiadas por la Junta de Andalucía Actuaciones propuestas Resultados esperados Mejora de las Órdenes de Bases reguladoras de las subvenciones a ONGDs
+- Publicada una nueva Orden de Bases reguladora de las subvenciones a ONGDs para proyectos y programas Financiación de programas plurianuales y Orden de Calificación de ONGDs
+- Publicada la Orden de Calificación de ONGDs
+- Incluida la modalidad de programa en la Orden de concesión de subvenciones Promoción de las agrupaciones de ONGDs para la ejecución de las intervenciones
+- Incluida la financiación de Agrupaciones de ONGDs en la Orden de concesión de subvenciones Armonización del ciclo de la planificación de los agentes de cooperación andaluces
+- Armonización de los modelos de formulación, criterios y procedimientos de seguimiento y de evaluación para todos los agentes de cooperación andaluces Actualización del marco normativo del RACDA
+- Publicada una nueva normativa para el RACDA, donde se incluye la tramitación telemática Actualizar el sistema de verificación de la pertinencia
+- Se dispone de un sistema simple y ágil para la valoración previa de las intervenciones Guía de la Cooperación Andaluza
+- Elaboración de contenidos Fortalecer los mecanismos de seguimiento y evaluación de la cooperación andaluza Actuaciones propuestas Resultados esperados Normalización de los procedimientos y herramientas necesarias de seguimiento y evaluación de la cooperación de la Junta de Andalucía
+- Aprobado el Decreto de seguimiento y evaluación de la cooperación andaluza
+- Elaboración de modelos e instrumentos para la aplicación del Decreto de Seguimiento y Evaluación Gestión de las Evaluaciones externas de las ONGDs
+- Valoradas 102 evaluaciones presentadas por las ONGDs
+- Tramitadas y gestionadas las solicitudes de autorización de la contratación de evaluaciones Realizar la evaluación intermedia del PACODE
+- Iniciada la evaluación intermedia del PACODE Realizar la evaluación de la cooperación andaluza en Perú
+- Iniciada evaluación de la cooperación andaluza en Perú Realizar el Informe Anual de 2010
+- Realizado el Informe Anual 2010 Objetivo específico 5 Mejorar las capacidades de los agentes de la cooperación internacional y apoyar sus intervenciones Resultado esperado para 2011 Los agentes de la cooperación andaluza ponen en marcha de forma coordinada las actuaciones previstas en el PACODE contando para ello con apoyos específicos según su naturaleza y funciones Resultado esperado para 2010 Los agentes de la cooperación andaluza participan en los procesos del ciclo de la planificación de la AACID y sus actuaciones contribuyen de forma sinérgica a la consecución de los objetivos del PACODE Promover la participación y coordinación de los agentes andaluces en el desarrollo del PACODE
+
+Página núm. 132 Sevilla, 17 de agosto 2010
+
+Actuaciones propuestas Resultados esperados Reforzar el funcionamiento del COCODE, CACID, Grupos de Trabajo y Comités de Seguimiento de los Programas Operativos aprobados Reforzado el funcionamiento de los órganos de participación y consulta El CACID se habrá reunido al menos 3 veces en 2010 Firmas de Convenios con los agentes andaluces Suscritos los marcos de colaboración con FAMPFAMSI y las Organizaciones Sindicales y Empresariales. Apoyar al voluntariado y a cooperante Actuaciones propuestas Resultados esperados Elaboración del Programa Andaluz de Voluntariado en la Cooperación Internacional para el Desarrollo Elaborada la propuesta del Programa Andaluz de Voluntariado en la Cooperación Internacional para el Desarrollo Firma de Convenio AACID-AECID para el Estatuto del Cooperante Renovado el convenio Marco de Colaboración AACIDAECID incluyendo el seguimiento del cumplimiento del Estatuto del Cooperante Realizada una actuación informativa del Convenio entre los agentes andaluces de cooperación Seguimiento de los Convenios suscritos con los agentes andaluces en Seguimiento realizado a las intervenciones financiadas en el marco de los Convenios suscritos con la CAONGD, UGT y CC.OO Fortalecer las capacidades de los agentes andaluces mediante la Formación y la Investigación Actuaciones propuestas Resultados esperados Gestión y seguimiento de proyectos Valorados los proyectos de investigación correspondiente a la convocatoria de subvenciones a ONGDs Realizado el seguimiento a los proyectos de años anteriores relativos a formación e investigación Realizado el seguimiento a los proyectos de formación e investigación aprobados en 2010 Realizado el seguimiento a los proyectos de formación e investigación derivados de la firma de convenios Financiar la realización de proyectos y programas de formación e investigación de ONGDs Incluidas en la Orden de Bases reguladora de las subvenciones a ONGDs la realización de proyectos y programas de formación e investigación Financiar la realización de proyectos y programas de formación e investigación de otros agentes de cooperación Suscritos los Convenios con las Universidades públicas andaluzas Suscritos los Marcos de actuación con otros agentes andaluces de cooperación en materia de formación e investigación Plan de formación de la AACID Diseñado el Plan de formación del personal técnico de la AACID
+
+Sevilla, 17 de agosto 2010 Página núm. 133
+
+Objetivo específico 6 Garantizar la consideración de las Prioridades Horizontales en las distintas fases de la cooperación andaluza Resultado esperado para 2011 Sentar las bases para elaborar una estrategia para la efectiva transversalización de las PPHH adaptada a las características y particularidades de la cooperación andaluza Resultado esperado para 2010 Se realiza la incorporación de las PPHH en las actuaciones de cooperación financiadas por la AACID a partir de la aplicación de las herramientas elaboradas Incluir las PPHH en la planificación estratégica y operativa y en la gestión de la cooperación Actuaciones propuestas Resultados esperados Incorporación de las PPHH en los documentos de planificación: POPP de Togo, Guinea Bissau, Senegal, Mauritania, Burkina Faso, Perú y Ecuador; el POED; el POAH; el POFI; en la  Memoria de Evaluación, Decreto de Evaluación, y Guía de la Cooperación Andaluza Incorporadas indicaciones específicas sobre las PPHH en los Programas Operativos aprobados en Elaboración de los contenidos de las PPHH para su inclusión en las bases reguladoras para la concesión de subvenciones de AACID. Adecuación de formularios, informes, bases de datos y formatos desde la perspectiva de las PPHH. Las Bases reguladoras de las subvenciones a ONGDs y los formularios tienen incorporadas la perspectiva de las PPHH para su transversalización Diseñar una metodología para elaborar los diagnósticos de las intervenciones de cooperación desde la perspectiva de PPHH Se cuenta con una metodología para un correcto diagnóstico que considere las PPHH Establecimiento de un sistema de datos desagregados e indicadores específicos para cada PPHH Se cuentan con datos e indicadores sobre las PPHH para el seguimiento y evaluación Apoyo en la gestión de proyectos y programas vinculados a las áreas de las PPHH y asesoramiento continuo a las unidades geográficas en relación a proyectos de sus respectivos ámbitos Proyectos gestionados, incluyendo valoración, justificación y modificación. Recomendaciones formuladas sobre proyectos o programas concretos, o ámbitos de las PPHH. Formar y comunicar sobre las PPHH Realización del análisis sobre el nivel de implantación, grado de funcionalidad y propuestas de mejora sobre las PPHH para la elaboración de la línea de intervención en comunicación y formación para la AACID y los agentes de cooperación Elaborada la línea de intervención en comunicación y formación y puesta en marcha de la estrategia de comunicación y de acciones de formación Fortalecimiento de las capacidades técnicas del personal de la la AACID Inclusión de contenidos relacionados con las PPHH en el Plan de Formación de la AACID Intercambio de experiencias exitosas y lecciones aprendidas de las PPHH con organismos de la Junta de Andalucía en los ámbitos de interés de éstas Se ha establecido la relación con entidades claves de la JA vinculadas a las PPHH Desarrollar las actuaciones previstas como G+ Actuaciones propuestas Resultados esperados Realización de actuaciones previstas como G+ (en el marco del programa de Presupuestos Sensibles al Género) Realizada una formación en Presupuestos sensibles al género Realizados los diagnósticos de:
+o Ecuador (objetivo: análisis ajustado a la realidad desde la perspectiva de género). o La integración de la perspectiva de género en la AH en el ámbito de actuación de la AACID (propuestas concretas que orienten la consideración de la perspectiva de género) o La integración de la perspectiva de género en las actuaciones financiadas por la AACID (mejorar el enfoque GED- identificar actores y sectores para crear sinergias) Metodología para la elaboración de diagnósticos país con enfoque de género (dotar de guía de referencia para considerar el enfoque G)

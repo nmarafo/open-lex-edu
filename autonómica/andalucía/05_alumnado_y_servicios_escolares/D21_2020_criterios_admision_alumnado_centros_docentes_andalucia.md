@@ -1,14 +1,10 @@
 ---
 id: norm-and-d-21-2020
 codigo_sintetizado: D21_2020 Criterios Admision Alumnado Centros Andalucia
-titulo: Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el
-  procedimiento de admisión del alumnado en los centros docentes públicos y privados
-  concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria,
-  Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
+titulo: Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 21/2020
 fecha_disposicion: '2020-02-17'
@@ -22,31 +18,24 @@ clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
 tags:
-- admision
-- escolarizacion
-- zonas_escolares
-- baremo
-- andalucia
+  - admision
+  - escolarizacion
+  - zonas_escolares
+  - baremo
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
 
 ## Preámbulo
 
-# Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
-
-Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
-
-<link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/>
-<link rel="alternate" type="application/atom+xml"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xml" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -84,15 +73,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2020
 Boletín 34
 
 ##
 
-Histórico del BOJA
-Boletín número 34 de
-19/02/2020
+Histórico del BOJA Boletín número 34 de 19/02/2020
 
 ## 1. Disposiciones generales
 
@@ -100,23 +85,13 @@ Boletín número 34 de
 
 ### Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00169991.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00169991.
 
 El artículo 21.3 del Estatuto de Autonomía para Andalucía proclama el derecho de todas las personas a acceder en condiciones de igualdad a los centros educativos sostenidos con fondos públicos y prevé el establecimiento de criterios de admisión, al objeto de garantizarla en condiciones de igualdad y no discriminación.
 
-Por otra parte, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre los criterios de admisión del alumnado, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 del texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+Por otra parte, el artículo 52.2 del Estatuto de Autonomía para Andalucía reconoce la competencia compartida de la Comunidad Autónoma sobre los criterios de admisión del alumnado, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 l.
+
+texto constitucional, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 Asimismo, el artículo 47.1.1.º del Estatuto de Autonomía para Andalucía establece, como competencia exclusiva de la Comunidad Autónoma, el procedimiento administrativo derivado de las especialidades de la organización propia de la Comunidad Autónoma, respetando, en todo caso, lo dispuesto en el artículo 149.1.18.º de la Constitución, que faculta al Estado para fijar las bases del régimen jurídico de las Administraciones públicas.
 
@@ -140,19 +115,19 @@ En la elaboración de la presente norma se han cumplimentado los trámites de au
 
 En su virtud, a propuesta del Consejero de Educación y Deporte, de conformidad con lo establecido en el artículo 27.9 de la Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo Consultivo de Andalucía y previa deliberación del Consejo de Gobierno en su reunión del día 17 de febrero de 2020,
 
-DISPONGO
+DISPONGO:
 
-CAPÍTULO I
+### Capítulo I
 
-DISPOSICIONES GENERALES
+### Disposiciones generales
 
-Artículo 1. Objeto y ámbito de aplicación.
+#### Artículo 1. Objeto y ámbito de aplicación.
 
 1. Este Decreto tiene por objeto la regulación de los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Andalucía para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato que estén sostenidas con fondos públicos.
 
 2. Quedan excluidas del ámbito de aplicación del presente Decreto la educación secundaria obligatoria para personas adultas y el bachillerato para personas adultas.
 
-Artículo 2. Principios generales.
+#### Artículo 2. Principios generales.
 
 1. Todas las personas entre tres y dieciocho años tienen derecho a una plaza escolar gratuita que les garantice, en condiciones de calidad, cursar el segundo ciclo de educación infantil, la enseñanza básica y el bachillerato sin más limitaciones que los requisitos de edad y, en el caso del bachillerato, las condiciones académicas establecidas en la legislación vigente.
 
@@ -182,11 +157,11 @@ Asimismo, en los centros privados concertados que impartan varias etapas educati
 
 11. De acuerdo con el artículo 74 de la Ley Orgánica 2/2006, de 3 de mayo, el límite de edad para poder permanecer escolarizado el alumnado con necesidades educativas especiales debidas a diferentes grados y tipos de capacidades personales de orden físico, psíquico, cognitivo o sensorial en los centros docentes específicos de educación especial y en los centros docentes de educación secundaria, cursando la enseñanza básica en la modalidad de aula específica de educación especial, será de veintiún años. A tales efectos se entenderá que el último curso escolar en el que podrá permanecer escolarizado este alumnado es aquél en el que cumple dicha edad.
 
-Artículo 3. Requisitos.
+#### Artículo 3. Requisitos.
 
 Los requisitos de edad y, en su caso, los académicos para ser admitido o admitida en un centro docente serán los establecidos por la ordenación académica vigente para la enseñanza y curso a los que se pretenda acceder, sin que de la aplicación de los criterios regulados en el presente Decreto se pueda derivar modificación alguna que afecte a dichos requisitos.
 
-Artículo 4. Programación de la red de centros y de la oferta educativa.
+#### Artículo 4. Programación de la red de centros y de la oferta educativa.
 
 1. Corresponde a la Consejería competente en materia de educación la planificación del Sistema Educativo Público de Andalucía que, además de los centros docentes públicos y los privados concertados, está compuesto por los servicios, programas y actividades de las administraciones públicas de la Comunidad Autónoma o vinculados a las mismas, orientados a garantizar el derecho de la ciudadanía a una educación permanente y de carácter compensatorio.
 
@@ -198,7 +173,7 @@ Artículo 4. Programación de la red de centros y de la oferta educativa.
 
 5. La programación de la oferta educativa incluirá, para cada uno de los centros docentes públicos y privados concertados, las unidades sostenidas con fondos públicos para las enseñanzas a las que se refiere el presente Decreto, las adscripciones entre centros docentes y las áreas de influencia de los mismos a efectos de escolarización.
 
-Artículo 5. Plazas escolares.
+#### Artículo 5. Plazas escolares.
 
 1. En la programación de la oferta educativa, el número máximo de alumnos y alumnas a considerar por unidad escolar será:
 
@@ -214,7 +189,7 @@ c) En bachillerato, treinta y cinco.
 
 4. En los centros docentes privados concertados, las personas representantes de su titularidad no podrán reservar plazas concertadas para el alumnado del propio centro que curse una enseñanza no sostenida con fondos públicos.
 
-Artículo 6. Adscripción de centros docentes.
+#### Artículo 6. Adscripción de centros docentes.
 
 1. Con objeto de favorecer una adecuada transición del alumnado entre las distintas etapas educativas a las que se refiere este Decreto y facilitar la continuidad de su proceso educativo, de acuerdo con lo establecido en los artículos 44.1, 54.1 y 61.1 de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía, la Consejería competente en materia de educación podrá establecer, en el marco de la programación de la red de centros, la adscripción entre distintos centros docentes, atendiendo a criterios de proximidad, enseñanzas impartidas y unidades autorizadas.
 
@@ -224,7 +199,7 @@ Artículo 6. Adscripción de centros docentes.
 
 4. En función de la proximidad entre los centros, las enseñanzas impartidas y las unidades autorizadas, podrá establecerse la adscripción a más de un centro. En tales casos, para determinar la prioridad en la admisión del alumnado en uno de los centros, se aplicarán los criterios que se recogen en el artículo 10, garantizándose, en todo caso, la admisión en alguno de ellos.
 
-Artículo 7. Elección de centro docente, acceso y continuidad en el mismo.
+#### Artículo 7. Elección de centro docente, acceso y continuidad en el mismo.
 
 1. Los padres, madres, tutores o guardadores del alumnado o, en su caso, el alumnado mayor de edad, tienen derecho a elegir libremente centro docente, dentro de la programación de la red de centros realizada por la Consejería competente en materia de educación. Solo en el supuesto de que el número de plazas escolares vacantes de las enseñanzas financiadas con fondos públicos en un centro fuera inferior al número de solicitudes, se aplicarán los criterios de admisión recogidos en el presente Decreto.
 
@@ -240,7 +215,7 @@ A tales efectos, el cambio de curso, ciclo o etapa no requerirá un nuevo proced
 
 6. Cuando la persona solicitante obtenga plaza escolar en alguno de los centros docentes solicitados, deberá formalizar la matrícula en el plazo que se establezca mediante Orden de la persona titular de la Consejería competente en materia de educación.
 
-Artículo 8. Información al alumnado y a las familias.
+#### Artículo 8. Información al alumnado y a las familias.
 
 1. Las personas que ejercen la dirección o la titularidad de los centros docentes sostenidos con fondos públicos informarán a los padres, madres, tutores o guardadores del alumnado que desee ser admitido en los mismos y, en su caso, a éste si es mayor de edad de las etapas educativas sostenidas con fondos públicos que se imparten, del contenido del Plan de Centro y, si procede, de la adscripción autorizada con otros centros docentes.
 
@@ -250,13 +225,11 @@ Igualmente, informarán de los recursos específicos para la atención del alumn
 
 3. Para favorecer la igualdad de oportunidades y promover la adecuada elección de centro, la Consejería competente en materia de educación pondrá a disposición de las familias, de forma fácilmente accesible, a través de su sede electrónica o, en su caso, página web, la información relevante correspondiente a todos los centros sostenidos con fondos públicos en la que se incluirá, entre otros aspectos, las adscripciones, la oferta educativa, los servicios complementarios y, en su caso, el carácter bilingüe o plurilingüe de los mismos.
 
-CAPÍTULO II
+## Capítulo II. Áreas de influencia, criterios de admisión, acreditación y prioridad.
 
-ÁREAS DE INFLUENCIA, CRITERIOS DE ADMISIÓN, ACREDITACIÓN Y PRIORIDAD
+#### Sección 1. ª Áreas de influencia
 
-Sección 1.ª Áreas de influencia
-
-Artículo 9. Áreas de influencia y limítrofes.
+#### Artículo 9. Áreas de influencia y limítrofes.
 
 1. Para cada enseñanza, el área de influencia de un centro es el conjunto de todas las direcciones catastrales en las que se obtiene la máxima puntuación por el criterio de proximidad del domicilio o lugar de trabajo.
 
@@ -264,13 +237,13 @@ Artículo 9. Áreas de influencia y limítrofes.
 
 Asimismo, se determinarán como áreas limítrofes a las anteriores aquellas que, ubicadas en el mismo municipio, compartan parte de las líneas de demarcación que las delimitan, a los efectos de lo dispuesto en el artículo 22.
 
-3. La delimitación de las áreas de influencia y limítrofes a las que se refiere el apartado 2 se realizará para cada una de las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato. En el caso de la modalidad de artes del bachillerato se podrán delimitar áreas de influencia y limítrofes específicas.
+3. La delimitación de las áreas de influencia y limítrofes a las que se refiere el apartado 2 se realizará para cada una de las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato. En el caso de la modalidad de artes del bachillerato se podrán delimitar áreas de influencia y limítrofes específicas.
 
 4. En los municipios, entidades o núcleos poblacionales en los que haya centros docentes públicos y privados concertados, las áreas de influencia para cada enseñanza se configurarán de forma que las personas solicitantes tengan la máxima puntuación por el criterio de proximidad al centro del domicilio familiar o del lugar de trabajo en, al menos, un centro de cada tipo.
 
-Sección 2.ª Criterios de admisión
+#### Sección 2. ª Criterios de admisión
 
-Artículo 10. Criterios para la admisión del alumnado.
+#### Artículo 10. Criterios para la admisión del alumnado.
 
 1. En aquellos centros docentes donde hubiera suficientes plazas disponibles para atender todas las solicitudes recibidas serán admitidos todos los alumnos y alumnas.
 
@@ -296,7 +269,7 @@ i) Que el alumno o la alumna esté matriculado en el primer ciclo de la educaci�
 
 3. Para las enseñanzas de bachillerato, además de los criterios establecidos en el apartado anterior, se considerará el expediente académico de los alumnos y alumnas.
 
-Artículo 11. Hermanos o hermanas del alumno o alumna matriculados en el centro.
+#### Artículo 11. Hermanos o hermanas del alumno o alumna matriculados en el centro.
 
 1. Para la consideración de hermanos o hermanas matriculados en el mismo centro docente o en sus centros adscritos, se tendrán en cuenta los que lo estén en una plaza escolar sostenida con fondos públicos a la fecha de finalización del plazo de presentación de las solicitudes.
 
@@ -304,7 +277,7 @@ Artículo 11. Hermanos o hermanas del alumno o alumna matriculados en el centro.
 
 3. Los efectos previstos en los apartados anteriores, así como en el artículo 10.2.g), serán de aplicación a los hijos e hijas de los dos cónyuges o parejas de hecho legalmente inscritas, así como a las personas sometidas a tutela o acogimiento familiar legalmente constituido.
 
-Artículo 12. Domicilio familiar o lugar de trabajo.
+#### Artículo 12. Domicilio familiar o lugar de trabajo.
 
 1. En la solicitud de admisión la persona solicitante deberá indicar que opta, a efectos de su valoración, por el domicilio familiar o por el del lugar de trabajo.
 
@@ -314,43 +287,43 @@ Artículo 12. Domicilio familiar o lugar de trabajo.
 
 4. En los casos de menores cuya medida de protección a la infancia sea el acogimiento residencial, el domicilio del centro de protección en el que resida tendrá la consideración de domicilio familiar.
 
-Artículo 13. Renta per cápita anual de la unidad familiar.
+#### Artículo 13. Renta per cápita anual de la unidad familiar.
 
 1. La unidad familiar a tener en cuenta será aquella a la que pertenecía el alumno o la alumna a fecha 31 de diciembre del ejercicio fiscal del Impuesto sobre la Renta de las Personas Físicas inmediatamente anterior, con plazo de presentación vencido, a la fecha de finalización del periodo de presentación de la solicitud de admisión.
 
 2. Mediante Orden de la persona titular de la Consejería competente en materia de educación se determinará el procedimiento de cálculo de la renta per cápita anual de la unidad familiar, de acuerdo con la normativa del Impuesto sobre la Renta de las Personas Físicas que le sea de aplicación.
 
-Artículo 14. Discapacidad o trastorno en el desarrollo.
+#### Artículo 14. Discapacidad o trastorno en el desarrollo.
 
 1. El criterio de discapacidad solo se valorará cuando el alumno o alumna, alguno de sus tutores o guardadores o alguno de sus hermanos o hermanas o menores en acogimiento o guarda en la misma unidad familiar, tengan reconocido un grado de discapacidad igual o superior al treinta y tres por ciento.
 
 2. El criterio de presentar trastorno en el desarrollo solo se tendrá en cuenta cuando el alumno o alumna solicite plaza para el segundo ciclo de educación infantil y se disponga de la certificación correspondiente, emitida por el órgano competente de acuerdo con lo que a tales efectos se establezca por Orden de la persona titular de la Consejería competente en materia de educación.
 
-Artículo 15. Condición de familia numerosa y de familia monoparental.
+#### Artículo 15. Condición de familia numerosa y de familia monoparental.
 
 1. El concepto de familia numerosa que se tendrá en cuenta, a efectos de su valoración, será el establecido en el artículo 2 de la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas.
 
 2. A los efectos de lo establecido en este Decreto, se entenderá que el alumno o alumna menor de edad o mayor de edad sujeta a patria potestad prorrogada o tutela pertenece a una familia con la condición de monoparental, cuando su patria potestad esté ejercida por una sola persona o, cuando siendo ejercida por dos personas, exista orden de alejamiento de una de ellas con respecto a la otra con la que convive el alumno o alumna.
 
-Artículo 16. Guardadores legales que realizan actividad laboral o profesional remunerada.
+#### Artículo 16. Guardadores legales que realizan actividad laboral o profesional remunerada.
 
 Para la consideración de este criterio las personas que ostenten la guarda y custodia legal del alumno o alumna deberán estar realizando una actividad laboral o profesional remunerada desde, al menos, seis meses ininterrumpidos antes de la fecha de inicio del plazo de presentación de solicitudes en el procedimiento de admisión, con una jornada mínima de 20 horas semanales.
 
-Artículo 17. Alumnado que cursa el primer ciclo de la educación infantil.
+#### Artículo 17. Alumnado que cursa el primer ciclo de la educación infantil.
 
 Para la consideración de este criterio el alumno o alumna deberá estar matriculado en el primer ciclo de la educación infantil en un centro autorizado para ello, desde el inicio del curso escolar anterior a aquel para el que solicita la admisión.
 
-Artículo 18. Expediente académico.
+#### Artículo 18. Expediente académico.
 
 En el expediente académico se valorará la calificación media de las materias del último curso finalizado de las enseñanzas que dan acceso al bachillerato. En el caso de que se solicite la admisión para el segundo curso de esta etapa educativa, se considerarán las calificaciones de primero en el supuesto de que lo hubiera finalizado.
 
-Artículo 19. Documentación acreditativa.
+#### Artículo 19. Documentación acreditativa.
 
 Mediante Orden de la persona titular de la Consejería competente en materia de educación se determinará la documentación que las personas participantes en el procedimiento de admisión del alumnado deberán aportar para acreditar las circunstancias a que se refiere el artículo 10. En dicha Orden se respetará el derecho de las personas interesadas en el procedimiento a no aportar documentos que ya se encuentren en poder de las Administraciones públicas o hayan sido elaborados por éstas, de conformidad con lo dispuesto en los artículos 28 y 53.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-Sección 3.ª Prioridad en la admisión
+#### Sección 3. ª Prioridad en la admisión
 
-Artículo 20. Prioridad en la admisión del alumnado.
+#### Artículo 20. Prioridad en la admisión del alumnado.
 
 1. El alumnado procedente de los centros adscritos tendrá prioridad en la admisión en el centro que le corresponda, de conformidad con lo establecido en el artículo 6.3.
 
@@ -364,17 +337,13 @@ Artículo 20. Prioridad en la admisión del alumnado.
 
 6. Por Orden de la Consejería competente en materia de educación se establecerá la documentación que deberá aportarse para la acreditación de la prioridad en la admisión del alumnado a que se refiere este artículo, respetando lo dispuesto en los artículos 28 y 53.1 de la Ley 39/2015, de 1 de octubre.
 
-Sección 4.ª Valoración de los criterios de admisión
+#### Sección 4. ª Valoración de los criterios de admisión artículo 21 Valoración de la existencia de hermanos o hermanas matriculados en el centro docente. A los efectos de la valoración de la existencia de hermanos o hermanas matriculados en el centro docente, a la que se refiere artículo 11, se otorgarán veinte puntos por cada uno de ellos.
 
-Artículo 21. Valoración de la existencia de hermanos o hermanas matriculados en el centro docente.
-
-A los efectos de la valoración de la existencia de hermanos o hermanas matriculados en el centro docente, a la que se refiere artículo 11, se otorgarán veinte puntos por cada uno de ellos.
-
-Artículo 22. Valoración de la proximidad del domicilio o del lugar de trabajo.
+#### Artículo 22. Valoración de la proximidad del domicilio o del lugar de trabajo.
 
 1. La proximidad del domicilio, a la que se refiere el artículo 12, solo podrá ser objeto de valoración en los siguientes casos y con arreglo al baremo que seguidamente se establece:
 
-a) Cuando el domicilio se encuentre en el área de influencia del centro: catorce puntos.
+a) **Cuando el domicilio se encuentre en el área de influencia del centro.** Catorce puntos.
 
 b) Cuando el domicilio se encuentre en un área limítrofe al área de influencia del centro: diez puntos.
 
@@ -384,9 +353,11 @@ a) Cuando el lugar de trabajo se encuentre en el área de influencia del centro:
 
 b) Cuando el lugar de trabajo se encuentre en un área limítrofe al área de influencia del centro: seis puntos.
 
-Artículo 23. Valoración de la renta per cápita anual de la unidad familiar.
+#### Artículo 23. Valoración de la renta per cápita anual de la unidad familiar.
 
-1. La renta per cápita de la unidad familiar a la que se refiere el artículo 13 solo podrá ser objeto de valoración en los casos que se recogen a continuación y con arreglo al baremo que seguidamente se establece, teniendo en cuenta el indicador público de renta de efectos múltiples, en adelante IPREM, establecido en el Real Decreto-ley 3/2004, de 25 de junio, para la racionalización de la regulación del salario mínimo interprofesional y para el incremento de su cuantía:
+1. La renta per cápita de la unidad familiar a la que se refiere el artículo 13 solo.
+
+podrá ser objeto de valoración en los casos que se recogen a continuación y con arreglo al baremo que seguidamente se establece, teniendo en cuenta el indicador público de renta de efectos múltiples, en adelante IPREM, establecido en el Real Decreto-ley 3/2004, de 25 de junio, para la racionalización de la regulación del salario mínimo interprofesional y para el incremento de su cuantía:
 
 a) Rentas per cápita inferiores al resultado de dividir entre cuatro el IPREM: cuatro puntos.
 
@@ -402,7 +373,7 @@ e) Rentas per cápita iguales o superiores al resultado de multiplicar por uno y
 
 3. En el caso de que el patrimonio imputable a los miembros de la unidad familiar supere los umbrales establecidos en la normativa estatal vigente sobre becas y ayudas al estudio, la puntuación establecida en el apartado 1 se reducirá a la mitad.
 
-Artículo 24. Valoración de la discapacidad o trastorno en el desarrollo.
+#### Artículo 24. Valoración de la discapacidad o trastorno en el desarrollo.
 
 1. La valoración de que el alumno o alumna presenta una discapacidad que alcanza o supera el treinta y tres y es inferior al sesenta y seis por ciento, o un trastorno en el desarrollo, de acuerdo con lo recogido en el artículo 14, será de tres puntos. En el caso de que el alumno o alumna tenga reconocido un grado de discapacidad igual o superior al sesenta y seis por ciento se otorgarán cuatro puntos.
 
@@ -410,41 +381,43 @@ Artículo 24. Valoración de la discapacidad o trastorno en el desarrollo.
 
 3. En el caso de que uno o varios hermanos o hermanas del alumno o alumna o menores en acogimiento o guarda en la misma unidad familiar tengan reconocida una discapacidad de, al menos, el treinta y tres por ciento, se otorgará medio punto por cada uno de los hermanos o hermanas con discapacidad, con un máximo de dos puntos.
 
-Artículo 25. Valoración de la pertenencia a familia numerosa, a familia monoparental o a familia con dos hijos o hijas.
+#### Artículo 25. Valoración de la pertenencia a familia numerosa, a familia monoparental o a familia con dos hijos o hijas.
 
 1. Por pertenecer el alumno o alumna, en los términos establecidos en el artículo 15, a una familia numerosa o monoparental se otorgará la siguiente puntuación:
 
-a) Familia numerosa especial: 2,5.
+a) **Familia numerosa especial.** 2,5.
 
-b) Familia numerosa general o monoparental: 2 puntos.
+b) **Familia numerosa general o monoparental.** 2 puntos.
 
 2. En el caso de que en una misma familia coincidan las dos condiciones de numerosa y monoparental se otorgarán 2,5 puntos si la familia numerosa es general y 3 puntos si la familia numerosa es especial.
 
 3. Asimismo, cuando el alumno o alumna pertenezca a una familia no numerosa ni monoparental en la que tenga un único hermano o hermana, en los términos establecidos en el artículo 10.2.g) y 11.3, se le otorgará 1 punto.
 
-Artículo 26. Valoración de la actividad laboral o profesional de los tutores o guardadores.
+#### Artículo 26. Valoración de la actividad laboral o profesional de los tutores o guardadores.
 
 La valoración de que las personas que ostentan la guarda y custodia legal del alumno o alumna realizan una actividad laboral o profesional remunerada, en las condiciones establecidas en el artículo 16, será de dos puntos.
 
-Artículo 27. Valoración de la matrícula en el primer ciclo de la educación infantil.
+#### Artículo 27. Valoración de la matrícula en el primer ciclo de la educación infantil.
 
 Por estar matriculado el alumno o alumna en el primer ciclo de la educación infantil en un centro autorizado para ello, en los términos previstos en el artículo 17, se otorgará un punto.
 
-Artículo 28. Valoración del expediente académico del alumno o alumna.
+#### Artículo 28. Valoración del expediente académico del alumno o alumna.
 
 En la admisión del alumnado para cursar las enseñanzas de bachillerato el expediente académico, a que se refiere el artículo 18, se valorará según el siguiente baremo:
 
-a) Nota media mayor o igual a 9: cinco puntos.
+a) **Nota media mayor o igual a 9.** Cinco puntos.
 
-b) Nota media mayor o igual a 8 e inferior a 9: cuatro puntos.
+b) **Nota media mayor o igual a 8 e inferior a 9.** Cuatro puntos.
 
-c) Nota media mayor o igual a 7 e inferior a 8: tres puntos.
+c) **Nota media mayor o igual a 7 e inferior a 8.** Tres puntos.
 
-d) Nota media mayor o igual a 6 e inferior a 7: dos puntos.
+d) **Nota media mayor o igual a 6 e inferior a 7.** Dos puntos.
 
-Artículo 29. Puntuación total según el baremo.
+#### Artículo 29. Puntuación total según el baremo.
 
-1. La puntuación total que obtengan los alumnos o alumnas, en aplicación del baremo establecido en los artículos 21 al 28, decidirá el orden de admisión, sin perjuicio de lo dispuesto en el artículo 20 respecto de la prioridad en la admisión del alumnado.
+1. La puntuación total que obtengan los alumnos o alumnas, en aplicación del baremo establecido en los artículos 21 al 28, decidirá el orden de admisión, sin perjuicio de lo dispuesto en el artículo 20 respecto.
+
+de la prioridad en la admisión del alumnado.
 
 2. En caso de empate, se dilucidará el mismo mediante la selección de aquellos alumnos y alumnas que obtengan mayor puntuación, aplicando uno a uno y con carácter excluyente los criterios que se exponen a continuación en el siguiente orden:
 
@@ -474,7 +447,7 @@ k) Por pertenecer a una familia no numerosa ni monoparental en la que tenga un �
 
 4. Si una vez aplicado lo recogido en los apartados anteriores aún se mantuviera el empate, éste se resolverá conforme a lo dispuesto en el artículo 30.
 
-Artículo 30. Sorteo público.
+#### Artículo 30. Sorteo público.
 
 1. La persona titular de la Dirección General competente en materia de escolarización del alumnado convocará, anualmente, un sorteo público para resolver las posibles situaciones de empate que subsistan tras la aplicación de los criterios de prioridad regulados en el artículo 29, mediante una resolución que será publicada en el
 
@@ -496,11 +469,9 @@ b) El resultado del sorteo se obtendrá dividiendo entre diez mil el número que
 
 8. Las personas que ejercen la dirección de los centros docentes públicos o las personas físicas o jurídicas titulares, en el caso de los centros docentes privados concertados, harán público el resultado del sorteo en el tablón de anuncios de cada centro.
 
-CAPÍTULO III
+## Capítulo III. Admisión del alumnado con necesidades específicas de apoyo educativo.
 
-ADMISIÓN DEL ALUMNADO CON NECESIDADES ESPECÍFICAS DE APOYO EDUCATIVO
-
-Artículo 31. Alumnado con necesidades específicas de apoyo educativo.
+#### Artículo 31. Alumnado con necesidades específicas de apoyo educativo.
 
 1. El Sistema Educativo Público de Andalucía garantizará la igualdad efectiva en el acceso y permanencia en el mismo al alumnado con necesidades específicas de apoyo educativo y asegurará su no discriminación.
 
@@ -508,7 +479,7 @@ Artículo 31. Alumnado con necesidades específicas de apoyo educativo.
 
 3. A los efectos de este Decreto se entiende que el alumnado que precisa de acciones de carácter compensatorio es aquel que, por motivos familiares, se encuentra en situación de dificultad social extrema o riesgo de exclusión, quedando incluidos en este supuesto los hijos e hijas de mujeres atendidas en centros de acogida para mujeres víctimas de la violencia de género y el alumnado víctima directa de acto terrorista o familiar hasta el primer grado por consanguinidad, así como los menores que estén sujetos a tutela o guarda por la Entidad Pública competente en materia de protección de menores o que procedan de adopción, y los hijos e hijas de familias que se dediquen a tareas agrícolas de temporada o a profesiones itinerantes.
 
-Artículo 32. Distribución equilibrada.
+#### Artículo 32. Distribución equilibrada.
 
 1. La escolarización del alumnado con necesidades específicas de apoyo educativo garantizará las condiciones más favorables para el mismo, teniendo en cuenta los recursos disponibles en el municipio o ámbito territorial correspondiente. La Consejería competente en materia de educación realizará una distribución equilibrada de este alumnado entre los centros docentes sostenidos con fondos públicos, en condiciones que faciliten su adecuada atención educativa y su inclusión social.
 
@@ -520,7 +491,7 @@ Artículo 32. Distribución equilibrada.
 
 5. Mediante Orden de la persona titular de la Consejería competente en materia de educación se determinará la documentación complementaria que, en su caso, deberán aportar las personas solicitantes en el procedimiento de admisión del alumnado con necesidades específicas de apoyo educativo, respetando lo dispuesto en los artículos 28 y 53.1 de la Ley 39/2015, de 1 de octubre.
 
-Artículo 33. Admisión del alumnado con necesidades educativas especiales.
+#### Artículo 33. Admisión del alumnado con necesidades educativas especiales.
 
 1. Con objeto de garantizar las condiciones más favorables para la escolarización del alumnado con necesidades educativas especiales a que se refiere el artículo 113.2 de la Ley 17/2007, de 10 de diciembre, la admisión de este alumnado se llevará a cabo, en función de la identificación y valoración de sus necesidades que realice el personal con la debida cualificación, en centros docentes ordinarios o, oídos los representantes legales, en centros específicos de educación especial, cuando por sus especiales características o grado de discapacidad sus necesidades no puedan ser satisfechas en el marco de las medidas de atención a la diversidad de los centros ordinarios.
 
@@ -528,31 +499,29 @@ Artículo 33. Admisión del alumnado con necesidades educativas especiales.
 
 3. En caso de que el centro al que se ha dirigido la solicitud no disponga de los correspondientes recursos o el alumno o alumna no haya obtenido plaza escolar, la correspondiente comisión territorial de garantías de admisión le adjudicará una plaza escolar en un centro docente de su ámbito de actuación que cuente con plaza vacante y disponga de dichos recursos. Si no es posible adjudicar al alumno o alumna una plaza escolar en el ámbito territorial de la comisión, la solicitud será remitida a la correspondiente comisión provincial de garantías de admisión que le asignará una plaza escolar en un centro que disponga de recursos para su escolarización.
 
-4. Para favorecer el agrupamiento de hermanos y hermanas, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación, a solicitud de los tutores o guardadores legales y una vez finalizado el procedimiento ordinario a que se refiere la Sección 2.ª del Capítulo IV, podrán autorizar la matriculación de los hermanos o hermanas en el centro en el que se encuentre matriculado el alumnado al que se refiere el apartado anterior.
+4. Para favorecer el agrupamiento de hermanos y hermanas, las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación, a solicitud de los tutores o guardadores legales y una vez finalizado el procedimiento ordinario a que se refiere la Sección 2.ª del Capítulo IV, podrán autorizar la matriculación de los hermanos o hermanas en el centro en el que se encuentre matriculado el alumnado al que se refiere el apartado anterior.
 
-CAPÍTULO IV
+## Capítulo IV. Procedimiento.
 
-PROCEDIMIENTO
+#### Sección 1. ª Órganos de admisión
 
-Sección 1.ª Órganos de admisión
-
-Artículo 34. Competencias del Consejo Escolar.
+#### Artículo 34. Competencias del Consejo Escolar.
 
 1. De conformidad con lo establecido en el artículo 127.e) de la Ley Orgánica 2/2006, de 3 de mayo, el Consejo Escolar de los centros docentes públicos informará sobre la admisión del alumnado en los términos que regule mediante Orden la persona titular de la Consejería competente en materia de educación, con sujeción a lo establecido en la normativa vigente que le sea de aplicación.
 
 2. En los centros docentes privados concertados, corresponde a la persona física o jurídica titular de los mismos la admisión del alumnado, debiendo garantizar el Consejo Escolar el cumplimiento de las normas generales sobre dicha admisión, de acuerdo con lo dispuesto en el artículo 57.c) de la Ley Orgánica 8/1985, de 3 de julio. Con este fin, el referido Consejo Escolar asesorará a la persona física o jurídica titular del centro, que será la responsable del cumplimiento de las citadas normas.
 
-Artículo 35. Competencias de la dirección de los centros públicos.
+#### Artículo 35. Competencias de la dirección de los centros públicos.
 
 De conformidad con lo dispuesto en el artículo 132.n) de la Ley Orgánica 2/2006, de 3 de mayo, la persona que ejerza la dirección del centro docente público decidirá sobre la admisión del alumnado, con sujeción a lo establecido en la normativa vigente que resulte de aplicación.
 
-Artículo 36. Comisiones de garantías de admisión.
+#### Artículo 36. Comisiones de garantías de admisión.
 
 1. En cada órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación se constituirá una comisión de garantías de admisión de ámbito provincial.
 
 2. Asimismo, se constituirán comisiones territoriales de garantías de admisión en los municipios o ámbitos territoriales supramunicipales en los que funcione más de un centro docente que imparta las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria o bachillerato. En los municipios que cuenten con un número elevado de centros docentes sostenidos con fondos públicos, podrán constituirse comisiones territoriales de garantías de admisión para ámbitos territoriales inferiores al municipio o para determinadas enseñanzas.
 
-Artículo 37. Funciones de las comisiones de garantías de admisión.
+#### Artículo 37. Funciones de las comisiones de garantías de admisión.
 
 1. Las comisiones territoriales de garantías de admisión tendrán las siguientes funciones en su ámbito territorial de actuación:
 
@@ -578,7 +547,7 @@ h) Aquellas otras que se determinen mediante Orden de la persona titular de la C
 
 4. Las comisiones de garantías de admisión podrán recabar la documentación que estimen necesaria para el ejercicio de sus funciones de los diferentes órganos o unidades de la Consejería competente en materia de educación y de sus entidades vinculadas o dependientes, así como de otras Administraciones públicas relacionadas con el procedimiento de admisión.
 
-Artículo 38. Composición de las comisiones provinciales de garantías de admisión.
+#### Artículo 38. Composición de las comisiones provinciales de garantías de admisión.
 
 1. Las comisiones provinciales de garantías de admisión estarán integradas por los siguientes miembros:
 
@@ -612,7 +581,7 @@ m) Una persona representante de la Diputación Provincial de la provincia respec
 
 3. La subcomisión técnica a la que se refiere el artículo 37.3 estará integrada por los miembros a los que se refieren los párrafos d), e), f), g), i) y j) del apartado 1, será presidida por la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación o persona en quien delegue y ejercerá la secretaría de la misma la persona que actúa como tal en la comisión provincial de garantías de admisión.
 
-Artículo 39. Composición de las comisiones territoriales de garantías de admisión.
+#### Artículo 39. Composición de las comisiones territoriales de garantías de admisión.
 
 1. Las comisiones territoriales de garantías de admisión estarán integradas por los siguientes miembros:
 
@@ -642,7 +611,7 @@ j) Un profesor o profesora que preste sus servicios en un centro docente privado
 
 4. Las comisiones territoriales de garantías de admisión podrán constituir, cuando lo considere oportuno la presidencia, subcomisiones de las mismas para una determinada enseñanza.
 
-Artículo 40. Normas comunes sobre las comisiones de garantías de admisión.
+#### Artículo 40. Normas comunes sobre las comisiones de garantías de admisión.
 
 1. El régimen de constitución y funcionamiento de las comisiones de garantías de admisión se regirá por lo previsto en el presente Decreto, en el Capítulo II del Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, en las disposiciones de carácter básico de la Sección 3.ª del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en las normas que se dicten en desarrollo de los anteriores.
 
@@ -654,7 +623,7 @@ Artículo 40. Normas comunes sobre las comisiones de garantías de admisión.
 
 5. De acuerdo con lo recogido en el artículo 94.3 de la Ley 9/2007, de 22 de octubre, las organizaciones representadas en las comisiones de garantías de admisión podrán sustituir a sus vocales por otros, acreditándolo previamente ante la secretaría, sin perjuicio del respeto a la representación equilibrada de hombres y mujeres a que se refiere el apartado anterior.
 
-Artículo 41. Régimen de sesiones de las comisiones de garantías de admisión.
+#### Artículo 41. Régimen de sesiones de las comisiones de garantías de admisión.
 
 1. Las comisiones de garantías de admisión se reunirán como mínimo una vez al año, cuando lo acuerde su presidencia o cuando así lo soliciten, al menos, un tercio de sus miembros.
 
@@ -664,9 +633,9 @@ Artículo 41. Régimen de sesiones de las comisiones de garantías de admisión.
 
 4. De las sesiones se levantará acta, que podrá aprobarse en la propia sesión o en la siguiente. El acta se firmará por la persona titular de la secretaría con el visto bueno de la persona titular de la presidencia. Las actas de las sesiones de las comisiones de garantías de admisión se custodiarán en el servicio competente en materia de planificación y escolarización del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación.
 
-Sección 2.ª Procedimiento ordinario
+#### Sección 2. ª Procedimiento ordinario
 
-Artículo 42. Anuncio de la programación educativa.
+#### Artículo 42. Anuncio de la programación educativa.
 
 1. El Consejo Escolar de cada centro docente público anunciará la oferta de su programación educativa, por cursos, de acuerdo con la planificación de la Consejería competente en materia de educación. En el caso de los centros docentes privados concertados el anuncio de la oferta de su programación educativa lo realizará la persona representante de la titularidad de los mismos, de acuerdo con el número de unidades concertadas y los puestos escolares autorizados para ellas.
 
@@ -678,7 +647,7 @@ b) Las plazas que se reservan para el alumnado del centro y, en su caso, para el
 
 c) Las plazas que se reservan para el alumnado con necesidades específicas de apoyo educativo.
 
-Artículo 43. Solicitudes.
+#### Artículo 43. Solicitudes.
 
 1. La solicitud de plaza escolar será única y se presentará en el centro docente en el que el alumno o alumna pretende ser admitido prioritariamente, sin perjuicio de lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, en cuyo caso, para agilizar el procedimiento, podrá remitirse una copia al centro docente al que se dirige la solicitud.
 
@@ -692,13 +661,13 @@ Artículo 43. Solicitudes.
 
 6. La presentación de la solicitud fuera del plazo establecido, así como la presentación de más de una solicitud, dará lugar a la pérdida de todos los derechos de prioridad que puedan corresponder al alumno o alumna. El correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación adoptará las medidas que sean necesarias para garantizar la adecuada escolarización del alumnado que incurra en estas circunstancias en un centro sostenido con fondos públicos que disponga de plazas vacantes.
 
-Artículo 44. Subsanación de las solicitudes y requerimiento de documentación.
+#### Artículo 44. Subsanación de las solicitudes y requerimiento de documentación.
 
 1. Si la solicitud no reuniera los requisitos exigidos o no se acompañase de los documentos preceptivos, la persona que ejerce la dirección del centro docente público o la persona representante de la titularidad del centro privado concertado requerirá, por escrito y con acuse de recibo a la persona interesada, para que, en el plazo de diez días hábiles, subsane la falta o acompañe los documentos preceptivos, de conformidad con el artículo 68 de la Ley 39/2015, de 1 de octubre, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21 de la referida Ley.
 
 2. La persona que ejerce la dirección de los centros docentes públicos o la persona representante de la titularidad de los centros privados concertados, así como las comisiones de garantías de admisión, podrán recabar de las personas solicitantes la documentación establecida en orden a la justificación de las situaciones y circunstancias alegadas.
 
-Artículo 45. Presentación electrónica de las solicitudes.
+#### Artículo 45. Presentación electrónica de las solicitudes.
 
 1. Las solicitudes se podrán cursar de forma electrónica a través del acceso al portal de atención a la ciudadanía www.juntadeandalucia.es o mediante el acceso a las direcciones oficiales de Internet de la Administración de la Junta de Andalucía o de la Consejería competente en materia de educación.
 
@@ -712,7 +681,7 @@ Artículo 45. Presentación electrónica de las solicitudes.
 
 6. Respecto a las solicitudes que se hayan presentado por medios electrónicos, las personas solicitantes podrán aportar la documentación que en cada momento se requiera mediante copias digitalizadas de los documentos cuya fidelidad con el original garantizará el firmante de la solicitud mediante la utilización de la firma electrónica avanzada. Asimismo las personas solicitantes podrán presentar documentos originales electrónicos, copias electrónicas de documentos electrónicos y copias electrónicas de documentos emitidos originalmente en soporte papel, que incluyan un código generado electrónicamente u otros sistemas de verificación que permitan constatar su autenticidad mediante el acceso a los archivos electrónicos de la Administración pública, órgano o entidad emisora.
 
-Artículo 46. Garantías en el procedimiento y veracidad de los datos.
+#### Artículo 46. Garantías en el procedimiento y veracidad de los datos.
 
 1. Los centros docentes públicos y privados concertados deberán tramitar, en todo caso, las solicitudes de admisión que les sean presentadas.
 
@@ -724,17 +693,19 @@ Artículo 46. Garantías en el procedimiento y veracidad de los datos.
 
 5. Asimismo, la Administración educativa procederá a comunicar al Ministerio Fiscal y al Juzgado de Instrucción competente los hechos a los que se hace referencia en el apartado 3 para que adopte las medidas oportunas en relación con las responsabilidades en las que la persona solicitante hubiera podido incurrir.
 
-Artículo 47. Instrucción y resolución del procedimiento.
+#### Artículo 47. Instrucción y resolución del procedimiento.
 
 1. Cuando el número de solicitudes presentadas para un curso supere al de plazas escolares vacantes, la persona que ejerce la dirección del centro docente público o la persona representante de la titularidad del centro privado concertado otorgará las puntuaciones correspondientes a cada alumno o alumna, de acuerdo con lo establecido en el presente Decreto y dará publicidad a la puntuación total obtenida por cada uno de ellos, observando las previsiones de la normativa vigente en materia de protección de datos personales.
 
 2. En el plazo que se establezca mediante Orden de la persona titular de la Consejería competente en materia de educación, las personas solicitantes podrán formular las alegaciones que estimen convenientes ante la persona que ejerce la dirección en el caso de los centros docentes públicos o ante la persona representante de su titularidad en el caso de los centros docentes privados concertados.
 
-3. Transcurrido el plazo a que se refiere el apartado anterior, el Consejo Escolar emitirá un informe sobre las alegaciones que se hubieran presentado y lo elevará a la persona que ejerza la dirección del centro docente público o a la persona representante de la titularidad del centro docente privado concertado, quien establecerá la puntuación definitiva que corresponde a cada persona solicitante, dará publicidad a la resolución del procedimiento de admisión y la comunicará a la correspondiente comisión territorial de garantías de admisión. La relación de personas admitidas y no admitidas deberá especificar, en su caso, la puntuación total obtenida por la aplicación de los criterios establecidos en el artículo 10 y los motivos, en caso de denegación.
+3. Transcurrido el plazo a que se refiere el apartado anterior, el Consejo Escolar emitirá un informe sobre las alegaciones que se hubieran presentado y lo elevará a la persona que ejerza la dirección del centro docente público o a la persona representante de la titularidad del centro docente privado concertado, quien establecerá la puntuación definitiva que corresponde a cada persona solicitante, dará publicidad a la resolución del procedimiento de admisión y la comunicará a la correspondiente comisión territorial de garantías de admisión. La relación de personas admitidas y no admitidas deberá especificar, en su caso, la puntuación total obtenida por la aplicación de los criterios establecidos en el artículo 10 y los.
+
+motivos, en caso de denegación.
 
 4. Con anterioridad a la publicación de la resolución del procedimiento de admisión, la persona que ejerza la dirección del centro docente público o la persona física o jurídica titular del centro docente privado concertado remitirá a la correspondiente comisión territorial de garantías de admisión una copia de los expedientes completos del alumnado al que se le haya otorgado, en alguno de los apartados del baremo, una puntuación diferente a la recogida en el sistema de información Séneca.
 
-Artículo 48. Recursos y reclamaciones en el procedimiento ordinario.
+#### Artículo 48. Recursos y reclamaciones en el procedimiento ordinario.
 
 1. Las decisiones que adopten las personas que ejercen la dirección de los centros docentes públicos sobre la admisión del alumnado, así como los acuerdos de las comisiones de garantías de admisión, podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
@@ -742,11 +713,11 @@ Artículo 48. Recursos y reclamaciones en el procedimiento ordinario.
 
 3. El recurso de alzada y la reclamación a los que se refieren los apartados anteriores deberán resolverse y notificarse a las personas interesadas en el plazo máximo de tres meses desde su interposición, debiendo, en todo caso, quedar garantizada la adecuada escolarización del alumno o alumna.
 
-Artículo 49. Adjudicación de plaza escolar al alumnado no admitido en el centro elegido como prioritario.
+#### Artículo 49. Adjudicación de plaza escolar al alumnado no admitido en el centro elegido como prioritario.
 
 Las comisiones de garantías de admisión adjudicarán una plaza escolar a los alumnos o alumnas que resultaron no admitidos en el centro elegido como prioritario, de acuerdo con lo que a tales efectos se establezca mediante Orden de la persona titular de la Consejería competente en materia de educación, considerando los centros docentes elegidos como subsidiarios, la puntuación total otorgada en los mismos y, en caso de empate, la aplicación del resultado del sorteo regulado en el artículo 30.
 
-Artículo 50. Plazas vacantes tras la certificación de matrícula.
+#### Artículo 50. Plazas vacantes tras la certificación de matrícula.
 
 1. Las plazas vacantes que pudieran producirse tras la certificación del número total de alumnos y alumnas que se hayan matriculado para el siguiente curso escolar serán ofertadas al alumnado solicitante que resultó no admitido en el centro solicitado como prioritario, siguiendo el orden de admisión establecido y de acuerdo con lo que a tales efectos se establezca mediante Orden de la persona titular de la Consejería competente en materia de educación.
 
@@ -754,9 +725,9 @@ Artículo 50. Plazas vacantes tras la certificación de matrícula.
 
 3. En el caso de que esté pendiente de resolución algún recurso de alzada o reclamación a los que se refiere el artículo 48, que afecte al alumnado del propio centro, lo establecido en los apartados anteriores se llevará a cabo una vez se resuelvan los mismos.
 
-Sección 3.ª Procedimiento extraordinario
+#### Sección 3. ª Procedimiento extraordinario
 
-Artículo 51. Admisión en el procedimiento extraordinario.
+#### Artículo 51. Admisión en el procedimiento extraordinario.
 
 1. El procedimiento extraordinario de admisión del alumnado comienza una vez finalizado el plazo de matrícula del alumnado que resultó no admitido en el centro solicitado como prioritario, al que hace referencia el artículo 50.1.
 
@@ -776,17 +747,15 @@ Esta actuación también podrá realizarse para el alumnado que figure en la lis
 
 7. Sin perjuicio de lo establecido en los apartados anteriores y en la disposición adicional quinta, en la asignación de plaza escolar se considerará la distribución equilibrada del alumnado con necesidades específicas de apoyo educativo en los términos establecidos en el artículo 32.1 y la escolarización de los hermanos y hermanas en un mismo centro.
 
-Artículo 52. Recursos y reclamaciones en el procedimiento extraordinario.
+#### Artículo 52. Recursos y reclamaciones en el procedimiento extraordinario.
 
 1. En materia de recursos y reclamaciones a las decisiones adoptadas por las personas que ejercen la dirección de los centros docentes públicos o por las personas representantes de la titularidad de los centros docentes privados concertados en el procedimiento extraordinario de admisión del alumnado se estará a lo dispuesto en el artículo 48.
 
 2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la admisión del alumnado en el procedimiento extraordinario podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
-CAPÍTULO V
+## Capítulo V. Escolarización en determinados supuestos.
 
-ESCOLARIZACIÓN EN DETERMINADOS SUPUESTOS
-
-Artículo 53. Escolarización del alumnado en supuestos excepcionales de enfermedad.
+#### Artículo 53. Escolarización del alumnado en supuestos excepcionales de enfermedad.
 
 1. El alumnado que se encuentre en una situación excepcional por razón de enfermedad grave podrá solicitar, en cualquier momento del curso, la escolarización en un centro docente más próximo a su domicilio familiar o al centro sanitario donde esté recibiendo tratamiento, de acuerdo con el siguiente procedimiento:
 
@@ -798,7 +767,7 @@ c) A la vista del informe de la Inspección educativa, de la certificación méd
 
 2. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la escolarización del alumnado podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
-Artículo 54. Escolarización del alumnado en supuestos de prematuridad extrema.
+#### Artículo 54. Escolarización del alumnado en supuestos de prematuridad extrema.
 
 1. En el caso de niños o niñas con condiciones de prematuridad extrema se podrán aplicar en su escolarización las medidas de flexibilización previstas en los apartados siguientes.
 
@@ -806,7 +775,7 @@ Artículo 54. Escolarización del alumnado en supuestos de prematuridad extrema.
 
 3. En el segundo ciclo de educación infantil la flexibilización consistirá en la incorporación del alumno o alumna a un curso inferior al que le correspondería por edad cuando acceda por primera vez a cualquiera de los cursos del referido ciclo, no pudiéndose optar a la misma si ya se hubiese aplicado alguna medida de flexibilización para su escolarización en el primer ciclo.
 
-4. La aplicación de las medidas de flexibilización a las que se refieren los apartados 2 y 3 deberá ser autorizada por la persona titular del órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación que corresponda, previa solicitud de los padres, madres, tutores o guardadores legales del alumnado, presentada en el momento de solicitar la reserva de plaza para el curso siguiente, en el caso del primer ciclo de educación infantil, o la admisión en cualquiera de los dos ciclos.
+4. La aplicación de las medidas de flexibilización a las que se refieren los apartados 2 y 3 deberá ser autorizada por la persona titular del órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación que corresponda, previa solicitud de los padres, madres, tutores o guardadores legales del alumnado, presentada en el momento de solicitar la reserva de plaza para el curso siguiente, en el caso del primer ciclo de educación infantil, o la admisión en cualquiera de los dos ciclos.
 
 5. En la referida solicitud se comunicará la existencia de la condición de prematuridad extrema en el alumno o alumna y se solicitará para el mismo, la escolarización según su edad conforme a la fecha en la que habría nacido tras la semana cuarenta de gestación. Esta solicitud irá acompañada de una certificación emitida al efecto por la autoridad sanitaria correspondiente que acredite la condición de prematuridad extrema, de acuerdo con lo que, a tales efectos, se establezca por Orden de la persona titular de la Consejería competente en materia de educación.
 
@@ -816,17 +785,15 @@ Artículo 54. Escolarización del alumnado en supuestos de prematuridad extrema.
 
 8. Las decisiones que adopten las personas titulares de los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación sobre la escolarización del alumnado podrán ser objeto de recurso de alzada ante la persona titular de la Consejería competente en materia de educación, cuya resolución pondrá fin a la vía administrativa.
 
-CAPÍTULO VI
+## Capítulo VI. Sanciones.
 
-SANCIONES
-
-Artículo 55. Responsabilidades disciplinarias y sanciones.
+#### Artículo 55. Responsabilidades disciplinarias y sanciones.
 
 1. La infracción de las normas sobre admisión del alumnado en los centros docentes públicos dará lugar a las responsabilidades disciplinarias que se deriven de la misma, de acuerdo con la normativa vigente en esta materia.
 
 2. La infracción de las normas sobre admisión del alumnado en los centros docentes privados concertados será causa de incumplimiento grave del concierto por parte de la persona titular del centro, en los términos previstos en el artículo 62 de la Ley Orgánica 8/1985, de 3 de julio, y podrá dar lugar a las sanciones previstas en dicho artículo.
 
-Disposición adicional primera. Protección de datos de carácter personal.
+#### Disposición adicional primera. Protección de datos de carácter personal.
 
 1. En relación con los datos de carácter personal de las personas interesadas en los procedimientos que se regulan en el presente Decreto se aplicará lo establecido en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos), en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo.
 
@@ -838,57 +805,57 @@ Cuando la persona afectada careciera de cualquiera de los documentos mencionados
 
 4. La Consejería competente en materia de educación podrá solicitar la colaboración de otras Administraciones públicas para garantizar la autenticidad de los datos que las personas interesadas y los centros aporten en el procedimiento de admisión del alumnado.
 
-Disposición adicional segunda. Admisión del alumnado de Residencias Escolares y de Escuelas Hogar.
+#### Disposición adicional segunda. Admisión del alumnado de Residencias Escolares y de Escuelas Hogar.
 
 Para la determinación de las plazas escolares vacantes del centro o centros docentes públicos o privados concertados en cuyas áreas de influencia quede comprendido el domicilio de una Residencia Escolar o de una Escuela Hogar, la Consejería competente en materia de educación reducirá del total de plazas escolares vacantes en dichos centros docentes un número suficiente para garantizar la escolarización en los mismos del alumnado residente.
 
-Disposición adicional tercera. Admisión del alumnado con derecho a la prestación gratuita del servicio complementario de transporte escolar.
+#### Disposición adicional tercera. Admisión del alumnado con derecho a la prestación gratuita del servicio complementario de transporte escolar.
 
 Para la determinación de las plazas escolares vacantes de los centros docentes receptores de alumnado con derecho a la prestación gratuita del servicio complementario de transporte escolar, a los que se refiere el artículo 8.1 del Decreto 287/2009, de 30 de junio, por el que se regula la prestación gratuita del servicio complementario de transporte para el alumnado de centros docentes sostenidos con fondos públicos, la Consejería competente en materia de educación reducirá del total de plazas escolares vacantes en dichos centros docentes un número suficiente para garantizar la escolarización en los mismos del alumnado transportado.
 
-Disposición adicional cuarta. Admisión del alumnado en los centros docentes acogidos a convenio.
+#### Disposición adicional cuarta. Admisión del alumnado en los centros docentes acogidos a convenio.
 
 Lo dispuesto en el presente Decreto será de aplicación en los centros docentes acogidos a convenios entre la Consejería competente en materia de educación y otras Administraciones públicas, sin perjuicio de la normativa específica que, en su caso, les sea de aplicación.
 
-Disposición adicional quinta. Cambio de centro docente en determinados supuestos.
+#### Disposición adicional quinta. Cambio de centro docente en determinados supuestos.
 
 Los órganos territoriales provinciales de la Administración de la Junta de Andalucía competentes en materia de educación adoptarán, en los centros docentes públicos y privados concertados de su ámbito territorial, las medidas oportunas para asegurar la escolarización inmediata del alumnado que se vea afectado por cambio de centro docente en los supuestos de violencia de género o acoso escolar, una vez acreditados los mismos. Igualmente, facilitarán que los centros docentes presten especial atención a dicho alumnado.
 
 Esta actuación se realizará también en los casos de cambio de centro de protección de menores o de familia de acogimiento.
 
-Disposición adicional sexta. Alumnado de centros cuyo funcionamiento o concierto se extingue.
+#### Disposición adicional sexta. Alumnado de centros cuyo funcionamiento o concierto se extingue.
 
 El alumnado matriculado en las enseñanzas sostenidas con fondos públicos a las que se refiere este Decreto, en centros cuyo funcionamiento o concierto educativo vaya a extinguirse al siguiente curso escolar, tendrá garantizada una plaza escolar en alguno de los centros docentes sostenidos con fondos públicos situados en el mismo ámbito territorial del centro en el que estaba matriculado. Dichas plazas les serán adjudicadas por resolución de la persona titular del correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación, contra la que se podrá interponer recurso de alzada ante la persona titular de dicha Consejería.
 
-Disposición adicional séptima. Alumnado que simultanea las enseñanzas de educación secundaria con las enseñanzas profesionales de música y/o danza.
+#### Disposición adicional séptima. Alumnado que simultanea las enseñanzas de educación secundaria con las enseñanzas profesionales de música y/o danza.
 
 La Consejería competente en materia de educación podrá regular por Orden la admisión del alumnado que simultanea las enseñanzas de educación secundaria y las enseñanzas profesionales de música y/o danza en unidades que desarrollen un currículo integrado de ambas enseñanzas.
 
-Disposición adicional octava. Admisión del alumnado en otras enseñanzas.
+#### Disposición adicional octava. Admisión del alumnado en otras enseñanzas.
 
 La admisión del alumnado para cursar formación profesional básica e inicial, educación permanente de personas adultas y enseñanzas de régimen especial se llevará a cabo de acuerdo con la regulación específica que se realice mediante Orden de la Consejería competente en materia de educación.
 
-Disposición adicional novena. Admisión del alumnado en centros docentes privados no concertados.
+#### Disposición adicional novena. Admisión del alumnado en centros docentes privados no concertados.
 
 De acuerdo con lo dispuesto en el artículo 25 de la Ley Orgánica 8/1985, de 3 de julio, los centros docentes privados no concertados dispondrán de autonomía para establecer los criterios y determinar el procedimiento de admisión del alumnado en los mismos.
 
-Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
 Queda derogado el Decreto 40/2011, de 22 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato, así como cuantas normas de igual o inferior rango se opongan a lo establecido en el presente Decreto.
 
-Disposición final primera. Reproducción de normativa estatal.
+#### Disposición final primera. Reproducción de normativa estatal.
 
 Los artículos 2.1, 2.2, 2.3, primer párrafo, 2.4, 2.6, 2.7, primer párrafo, 2.8, 4.2, 4.4, 5.2, 10.2, párrafos a), b), c) y d), 10.3, 20.1, 20.3 y 46.1, así como la disposición adicional quinta, párrafo primero, reproducen normas dictadas por el Estado al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Española y recogidas en los artículos 84.1, 84.2, 84.3, 84.5, 84.7 y 84.9 de la «Admisión de alumnos», 85.1 y 85.3 de las «Condiciones específicas de admisión de alumnos en las etapas postobligatorias», 86.3 de la «Igualdad en la aplicación de las normas de admisión», 87.2 y 87.4 del «Equilibrio en la admisión de alumnos», 88.1 de las «Garantías de gratuidad», 109.1 y 109. 2 de la «Programación de la red de centros» y en la disposición adicional vigesimoprimera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-Disposición final segunda. Reproducción de normativa autonómica.
+#### Disposición final segunda. Reproducción de normativa autonómica.
 
 Los artículos 2.9, 2.10, 4.1, 32.1 y 32.2 reproducen normas dictadas por la Comunidad Autónoma de Andalucía y recogidas en los artículos 3.1 del «Sistema Educativo Público Andaluz» y 113.5 y 113.6 de los «Principios de Equidad» de la Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
 
-Disposición final tercera. Desarrollo y ejecución.
+#### Disposición final tercera. Desarrollo y ejecución.
 
 Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución del presente Decreto.
 
-Disposición final cuarta. Entrada en vigor.
+#### Disposición final cuarta. Entrada en vigor.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el
 
@@ -902,13 +869,9 @@ FRANCISCO JAVIER IMBRODA ORTIZ
 
 Consejero de Educación y Deporte
 
-<a target="_blank" href="BOJA20-034-00029-2534-01_00169991.pdf"
-class="item_pdf_disposicion item_pdf_grupo"
-title="Descargar PDF de la disposición"> Descargar PDF
+<a target="_blank" href="BOJA20-034-00029-2534-01_00169991.pdf" class="item_pdf_disposicion item_pdf_grupo" title="Descargar PDF de la disposición"> Descargar PDF
 
 Disposición siguiente
-
-BOJA nº 34 de 19/02/2020
 
 2.2. Oposiciones, concursos y otras convocatorias
 
@@ -918,15 +881,9 @@ BOJA nº 34 de 19/02/2020
 
 5.2. Otros anuncios oficiales
 
-<a title="Descargar el boletín completo en PDF" target="_blank"
-href="BOJA20-034-00153.pdf"> Descargar boletín
-nº
-34 completo
+<a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA20-034-00153.pdf"> Descargar boletín nº 34 completo
 
-<a title="Descargar el sumario en PDF" target="_blank"
-href="BOJA20-034-00009_00003157.pdf"> Sumario boletín
-nº
-34
+<a title="Descargar el sumario en PDF" target="_blank" href="BOJA20-034-00009_00003157.pdf"> Sumario boletín nº 34
 
 ## Temas
 
@@ -941,3 +898,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

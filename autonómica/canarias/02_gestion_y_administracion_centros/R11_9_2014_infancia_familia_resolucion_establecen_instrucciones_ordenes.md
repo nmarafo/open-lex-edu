@@ -1,12 +1,7 @@
 ---
 id: norm-can-res-juriscan-71394-16
 codigo_sintetizado: Resolucion BOC 16
-titulo: Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de
-  septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio
-  del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros
-  de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma
-  de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad
-  interior (BOC n.º 188, de 29 de septiembre).
+titulo: Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General competente de la Consejería de Educación de Canarias
@@ -18,153 +13,75 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Centros de internamiento de menores
 tags:
-- centros-de-internamiento-de-menores
-- convivencia-escolar
-- ensenanzas-deportivas
-- equipos-directivos
-- proteccion-menores
+  - centros-de-internamiento-de-menores
+  - convivencia-escolar
+  - ensenanzas-deportivas
+  - equipos-directivos
+  - proteccion-menores
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-es-2004-15601
-  - norma_id: norm-es-lo-5-2000
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-can-d-212-1991
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-2004-15601
+    - norma_id: norm-es-lo-5-2000
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-132-2010
-fundamentos_derecho:
-- norma_id: norm-can-l-6-2014
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-132-2010
+  fundamentos_derecho:
+    - norma_id: norm-can-l-6-2014
   articulos:
-  - '1'
-- norma_id: norm-es-2004-15601
-- norma_id: norm-es-lo-5-2000
-- norma_id: norm-can-d-212-1991
+    - '1'
+    - norma_id: norm-es-2004-15601
+    - norma_id: norm-es-lo-5-2000
+    - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
+# Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 
 ## Preámbulo
 
-# Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
+Consejería de Cultura, Deportes, Políticas Sociales y Vivienda Documento 1 "Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias", relativo al protocolo de actuación en materia de vigilancia y seguridad interior. Existe el mandato constitucional que obliga a los poderes públicos a asegurar la protección social, económica y jurídica de los menores de manera especial y efectiva, artículo 39.4 los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos, especificando como derecho fundamental el artículo 18 el.
 
-Consejería de Cultura, Deportes, Políticas Sociales y Vivienda
-4160	 Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del
-Documento 1 “Protocolo de Registros a Personas y Dependencias en los Centros
-de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad
-Autónoma de Canarias”, relativo al protocolo de actuación en materia de vigilancia
-y seguridad interior.
-Existe el mandato constitucional que obliga a los poderes públicos a asegurar la protección social, económica y jurídica de los menores de manera especial y efectiva, artículo 39.4
-los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus
-derechos, especificando como derecho fundamental el artículo 18 el derecho al honor, a la
-intimidad personal y familiar, y a la propia imagen, derechos que gozan de mayor relevancia
-si el sujeto es un menor por requerir de una protección de especial intensidad.
-Entendiendo que el respeto de estos derechos estará presente en la delimitación de cualquier tipo de intervención, en particular de la proveniente de los poderes públicos, y dada la
-necesidad de elaborar un Protocolo de Registros a personas y dependencias en los Centros
-de Internamiento Educativo para menores infractores, en materia de seguridad y vigilancia interior de los CIEMI, en la reunión de la Comisión de Seguridad y Vigilancia de los
-Centros de Internamiento Educativo para Menores Infractores de Canarias, con fecha 11 de
-febrero de 2014, se presenta propuesta de “borrador de Protocolo de Registros a personas y
-dependencias en los Centros de Internamiento Educativo para menores infractores”, para su
-elevación a la Comisión General de Seguridad, y posteriormente, en la reunión de Comisión
-General de Seguridad, de fecha 30 de junio de 2014, encargada de la gestión de la seguridad
-y vigilancia en los Centros de Internamiento Educativo para Menores Infractores, se aprueba
-dicho borrador de Protocolo para su implantación.
-Dicho Protocolo se debe establecer conforme con los fundamentos jurídicos estatales y
-autonómicos siguientes:
-Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Responsabilidad Penal de Menores ([Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)), corresponde a la Administración Pública
-de la Comunidad Autónoma, establecer, organizar y regular los recursos, servicios y programas
-necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comunidad Autónoma de Canarias, mediante el Decreto Territorial 36/2002, de 8 de abril, se aprueba
-el Reglamento de Organización y Funcionamiento de los centros para la ejecución de medidas
-de internamiento de menores y jóvenes infractores dictadas por los Juzgados de Menores, en el
-que se regulan las normas de organización y funcionamiento de los centros para la ejecución de
-medidas de internamiento, y en el se contienen las normas administrativas conformadoras del
-régimen jurídico especial de la actuación de la entidad pública competente en la materia.
-Acorde con lo dispuesto en el artículo 3 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre,
-de organización de los Departamentos de la Administración Autonómica de Canarias, los
-órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades administrativas que les estén adscritos o dependan de ellos funcionalmente.
-boc-a-2014-188-4160
+derecho al honor, a la intimidad personal y familiar, y a la propia imagen, derechos que gozan de mayor relevancia si el sujeto es un menor por requerir de una protección de especial intensidad. Entendiendo que el respeto de estos derechos estará presente en la delimitación de cualquier tipo de intervención, en particular de la proveniente de los poderes públicos, y dada la necesidad de elaborar un Protocolo de Registros a personas y dependencias en los Centros de Internamiento Educativo para menores infractores, en materia de seguridad y vigilancia interior de los CIEMI, en la reunión de la Comisión de Seguridad y Vigilancia de los Centros de Internamiento Educativo para Menores Infractores de Canarias, con fecha 11 de febrero de 2014, se presenta propuesta de "borrador de Protocolo de Registros a personas y dependencias en los Centros de Internamiento Educativo para menores infractores", para su elevación a la Comisión General de Seguridad, y posteriormente, en la reunión de Comisión General de Seguridad, de fecha 30 de junio de 2014, encargada de la gestión de la seguridad y vigilancia en los Centros de Internamiento Educativo para Menores Infractores, se aprueba dicho borrador de Protocolo para su implantación. Dicho Protocolo se debe establecer conforme con los fundamentos jurídicos estatales y autonómicos siguientes:
+Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Responsabilidad Penal de Menores ([Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)), corresponde a la Administración Pública de la Comunidad Autónoma, establecer, organizar y regular los recursos, servicios y programas necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comunidad Autónoma de Canarias, mediante el Decreto Territorial 36/2002, de 8 de abril, se aprueba el Reglamento de Organización y Funcionamiento de los centros para la ejecución de medidas de internamiento de menores y jóvenes infractores dictadas por los Juzgados de Menores, en el que se regulan las normas de organización y funcionamiento de los centros para la ejecución de medidas de internamiento, y en el se contienen las normas administrativas conformadoras del régimen jurídico especial de la actuación de la entidad pública competente en la materia. Acorde con lo dispuesto en el artículo 3 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias, los órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades administrativas que les estén adscritos o dependan de ellos funcionalmente.
 
-De conformidad con lo establecido en el artículo 21 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los órganos administrativos podrán dirigir las actividades de sus órganos
-jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
-Según lo preceptuado en el artículo 9, letra D), apartado 2, del Reglamento Orgánico
-de la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda, aprobado por Decreto
-64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le corresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la
-ejecución de las medidas de internamiento de menores y jóvenes infractores dictadas por
-los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del [Real Decreto
-1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), se establecen los principios rectores para la realización de los registros a los
-menores y jóvenes, así como a sus bienes, enseres y a las dependencias que ocupan.
-Asimismo, y de acuerdo con la Disposición Final primera de la Orden de 1 de marzo de
-2011, de la Consejería de Bienestar Social, Juventud y Vivienda, por la que se aprueban las
-Normas de Organización y Funcionamiento de los Centros de Internamiento Educativo para
-Menores Infractores de Canarias (BOC nº 63, de 28.3.11), se faculta a la persona titular de
-la Dirección General competente en materia de Justicia Juvenil para dictar las Instrucciones
-necesarias en orden al desarrollo de las Normas de Funcionamiento Interno que se aprueban.
-En su virtud, y de conformidad con las disposiciones de general aplicación,
-R E S U E L V O:
-Primero.- Establecer el Protocolo de Actuación en Materia de Vigilancia y Seguridad
-Interior, Documento 1 “Protocolo de Registros a Personas y Dependencias en los Centros de
-Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de
-Canarias”, que figura como anexo de la presente Resolución.
-Segundo.- Dejar sin efecto cuantas instrucciones se hayan dictado en relación a los procedimientos de realización de registros personales y de habitaciones de menores y jóvenes
-en los Centros de Internamiento Educativo para Menores Infractores de Canarias, así como
-de regulación de las sustancias y objetos prohibidos y del procedimiento para su ocupación,
-en cuanto se opongan a la presente Resolución.
-Tercero.- Comuníquese la presente Resolución a todos los miembros de la Comisión de
-Seguridad y Vigilancia y de la Comisión General de Seguridad, Titulares de los Centros de
-Menores y publíquese en los tablones de anuncios de los Centros de Menores y en el Boletín
-Oficial de Canarias.
-Cuarto.- La presente Resolución surtirá efectos desde el día siguiente al de su publicación en el Boletín Oficial de Canarias.
-Las Palmas de Gran Canaria, a 11 de septiembre de 2014.- El Director General de Dependencia, Infancia y Familia, José Gilberto Moreno García.
-boc-a-2014-188-4160
+De conformidad con lo establecido en el artículo 21 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio. Según lo preceptuado en el artículo 9, letra D), apartado 2, del Reglamento Orgánico de la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda, aprobado por Decreto 64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le corresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la ejecución de las medidas de internamiento de menores y jóvenes infractores dictadas por los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del [Real Decreto 1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), se establecen los principios rectores para la realización de los registros a los menores y jóvenes, así como a sus bienes, enseres y a las dependencias que ocupan. Asimismo, y de acuerdo con la Disposición Final primera de la Orden de 1 de marzo de 2011, de la Consejería de Bienestar Social, Juventud y Vivienda, por la que se aprueban las Normas de Organización y Funcionamiento de los Centros de Internamiento Educativo para Menores Infractores de Canarias (BOC nº 63, de 28.3.11), se faculta a la persona titular de la Dirección General competente en materia de Justicia Juvenil para dictar las Instrucciones necesarias en orden al desarrollo de las Normas de Funcionamiento Interno que se aprueban. En su virtud, y de conformidad con las disposiciones de general aplicación,
+RESUELVO:
+Primero.- Establecer el Protocolo de Actuación en Materia de Vigilancia y Seguridad Interior, Documento 1 "Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias", que figura como anexo de la presente Resolución.
+Segundo.- Dejar sin efecto cuantas instrucciones se hayan dictado en relación a los procedimientos de realización de registros personales y de habitaciones de menores y jóvenes en los Centros de Internamiento Educativo para Menores Infractores de Canarias, así como de regulación de las sustancias y objetos prohibidos y del procedimiento para su ocupación, en cuanto se opongan a la presente Resolución.
+Tercero.- Comuníquese la presente Resolución a todos los miembros de la Comisión de Seguridad y Vigilancia y de la Comisión General de Seguridad, Titulares de los Centros de Menores y publíquese en los tablones de anuncios de los Centros de Menores y en el Boletín Oficial de Canarias.
+Cuarto.- La presente Resolución surtirá efectos desde el día siguiente al de su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 11 de septiembre de 2014.- El Director General de Dependencia, Infancia y Familia, José Gilberto Moreno García.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+             
 
 ÍNDICE
-1.
-OBJETO
 
-2.
-TIPOS DE REGISTROS
+1. OBJETO
+
+2. TIPOS DE REGISTROS
 
 2.1. REGISTROS ORDINARIOS
 
 2.2 REGISTROS EXTRAORDINARIOS
 
-3.
-OBJETOS Y SUSTANCIAS PROHIBIDAS
+3. OBJETOS Y SUSTANCIAS PROHIBIDAS
 
-4.
-PERSONAL ACTUANTE
+4. PERSONAL ACTUANTE
 
-5.
-PROCEDIMIENTO DE REGISTRO PERSONAL
+5. PROCEDIMIENTO DE REGISTRO PERSONAL
 
 5.1. INDICACIONES
 
 5.2. ACTO DEL REGISTRO DEL INTERNO/A
 
-6.
-PROCEDIMIENTO DE REGISTRO DE HABITACIONES
+6. PROCEDIMIENTO DE REGISTRO DE HABITACIONES
 
 INDICACIONES
 
-7.
-RESULTADO DE LOS REGISTROS
+7. RESULTADO DE LOS REGISTROS
 
 7.1. REGISTRO INTEGRAL
 
@@ -172,12 +89,9 @@ RESULTADO DE LOS REGISTROS
 
 7.3. NOTAS
 
-8.
-ACTUACIÓN SOBRE INTERNOS/AS QUE PRESENTAN SISTOMAS DE
-CONSUMO DE SUSTANCIAS PROHIBIDAS
+8. ACTUACIÓN SOBRE INTERNOS/AS QUE PRESENTAN SISTOMAS DE CONSUMO DE SUSTANCIAS PROHIBIDAS
 
-9.
-PROCEDIMIENTO DE REGISTRO DE PERTENENCIAS (RP)
+9. PROCEDIMIENTO DE REGISTRO DE PERTENENCIAS (RP)
 
 10. FUEGO
 
@@ -207,1031 +121,44 @@ DE SUSTANCIAS PROHIBIDAS
 
 14. REGISTRO DE LA ENTIDAD PÚBLICA
 
-boc-a-2014-188-4160
+                                           
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                              
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                                     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                          
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                         
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                           
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                         
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                           
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+          •  •  •  •  •  •  •               
 
-
-
-
-
-
-
-
-
-
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                                                                             
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                            
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
+                                                                
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-boc-a-2014-188-4160
-
----
+                                            
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
@@ -1242,6 +169,7 @@ boc-a-2014-188-4160
 - **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 
 ### Fundamentos de Derecho
+
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
 - [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)

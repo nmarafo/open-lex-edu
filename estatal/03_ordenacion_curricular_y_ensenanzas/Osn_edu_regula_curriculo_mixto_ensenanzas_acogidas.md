@@ -1,14 +1,10 @@
 ---
 id: norm-es-2010-12706
 codigo_sintetizado: BOE-A-2010-12706
-titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto
-  de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno
-  de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros
-  docentes españoles, así como los requisitos para su obtención.
+titulo: Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-08-07'
 boletin: BOE
@@ -19,38 +15,35 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- bachillerato
-- curriculo
-- eoi
-- eso
-- evaluacion
-- profesorado
-- titulacion
+  - bachillerato
+  - curriculo
+  - eoi
+  - eso
+  - evaluacion
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2010-4130
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2010-4130
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2010-4130
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2010-4130
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 ## Preámbulo
-
-# Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
-
-# Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, recoge en su Preámbulo, como uno de sus principios inspiradores, el compromiso decidido con los objetivos educativos planteados por la Unión Europea para los próximos años. La Unión Europea y la UNESCO han puesto de manifiesto la necesidad de abrir los sistemas educativos al mundo exterior, lo que exige, entre otros requisitos, mejorar el aprendizaje de idiomas extranjeros, aumentar la movilidad y los intercambios, y reforzar la cooperación europea.
 
@@ -62,9 +55,15 @@ En consecuencia, los representantes de España y de Francia, animados por la vol
 
 Finalmente, el [Real Decreto 102/2010](RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, ordena la aplicación de ambos acuerdos de modo que sus beneficios puedan extenderse a centros de todas las Administraciones educativas, respetando sus competencias en materia de currículo.
 
-Asimismo, su artículo 2 dispone que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
+Asimismo, su
 
-Procede, por tanto, regular el currículo mixto acordado por la Comisión de seguimiento prevista en el artículo 7 del citado Acuerdo de Doble Titulación, estableciendo los contenidos, métodos pedagógicos y criterios de evaluación propios del sistema educativo francés que deberán ser integrados en el currículo mixto por los centros acogidos al acuerdo.
+#### Artículo 2. dispone.
+
+que los centros escolares españoles que deseen ofrecer las enseñanzas conducentes a la doble titulación de Bachiller y Baccalauréat deberán implantar un currículo mixto que integre los contenidos esenciales para el conocimiento de la lengua y de la realidad histórica, social y política de Francia, así como los métodos pedagógicos y los criterios de evaluación acordados por las Partes firmantes del Acuerdo de Doble Titulación de 2008.
+
+Procede, por tanto, regular el currículo mixto acordado por la Comisión de seguimiento prevista en el artículo 7 l.
+
+citado Acuerdo de Doble Titulación, estableciendo los contenidos, métodos pedagógicos y criterios de evaluación propios del sistema educativo francés que deberán ser integrados en el currículo mixto por los centros acogidos al acuerdo.
 
 En virtud de lo expuesto, consultadas las Comunidades Autónomas en el seno de la Comisión General de Educación de la Conferencia de Educación y previo informe del Consejo Escolar del Estado y del Ministerio de Política Territorial, dispongo:
 
@@ -88,7 +87,9 @@ El currículo mixto respetará en todo caso la estructura y la carga horaria del
 
 #### Artículo 4. Prueba externa.
 
-1. De acuerdo con lo establecido en el artículo 8 del [Real Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, el alumnado de los centros docentes españoles que cursa las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat, realizará una prueba externa sobre las materias específicas del currículo mixto correspondientes al segundo curso de bachillerato.
+1. De acuerdo con lo establecido en el artículo 8 l [Real.
+
+Decreto 102/2010](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md), de 5 de febrero, el alumnado de los centros docentes españoles que cursa las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat, realizará una prueba externa sobre las materias específicas del currículo mixto correspondientes al segundo curso de bachillerato.
 
 2. La Comisión Técnica establecida en su artículo 9 será la encargada de preparar, previo acuerdo con la parte francesa, todo lo relativo a la prueba externa.
 
@@ -102,7 +103,7 @@ El currículo mixto respetará en todo caso la estructura y la carga horaria del
 
 2. El ejercicio escrito tendrá una duración total de cuatro horas y constará de dos partes.
 
-a) La primera parte tendrá una duración de dos horas. A partir de un texto que podrá ir acompañado de un documento gráfico el alumno deberá realizar un comentario respondiendo a unas cuestiones que permitan evaluar su comprensión y una redacción, de 250 palabras como máximo, sobre el texto propuesto.
+a) **La primera parte tendrá una duración de dos horas.** A partir de un texto que podrá ir acompañado de un documento gráfico el alumno deberá realizar un comentario respondiendo a unas cuestiones que permitan evaluar su comprensión y una redacción, de 250 palabras como máximo, sobre el texto propuesto.
 
 b) La segunda parte tendrá también una duración de dos horas, y consistirá en la elaboración de un ensayo, de 300 palabras como máximo, sobre uno de los temas de estudio fijados cada dos años por la Comisión de seguimiento, a partir del programa de literatura relativo a las obras y autores de los siglos XIX, XX y XXI.
 
@@ -166,7 +167,7 @@ Esta orden, se dicta al amparo de lo previsto en el artículo 149.1.30.ª de la 
 
 Madrid, 30 de julio de 2010.–El Ministro de Educación, Ángel Gabilondo Pujol.
 
-ANEXO I - A
+## Anexo I. A
 
 **LENGUA Y LITERATURA FRANCESAS**
 
@@ -264,7 +265,7 @@ A lo largo del primer curso, el aprendizaje deberá estar dirigido fundamentalme
 
 El contacto continuado con la literatura en francés es un instrumento esencial para alcanzar los conocimientos necesarios para el dominio de la lengua francesa.
 
-1) Los profesores consultarán detenidamente las Instructions officielles de la enseñanza del francés en el liceo, así como los Documents d’accompagnement. El conjunto de textos reglamentarios, orientativos en este caso, figura en la página web EduSCOL del Ministère de l’Education Nationales: http://eduscol.education.fr/D0011/LLPDPR01.htm.
+1) Los profesores consultarán detenidamente las Instructions officielles de la enseñanza del francés en el liceo, así como los Documents d'accompagnement. El conjunto de textos reglamentarios, orientativos en este caso, figura en la página web EduSCOL del Ministère de l'Education Nationales: http://eduscol.education.fr/D0011/LLPDPR01.htm.
 
 A-1. Contenidos:
 
@@ -274,7 +275,7 @@ Escuchar y comprender:
 
 Comprender la idea general y específica, el tema, el contenido de un texto oral mantenido por otros (relato breve, conferencia, diálogo, debate…);
 
-Seguir las distintas etapas de una conversación o de una argumentación siempre que el tema sea relativamente conocido;
+Seguir las distintas etapas de una conversación o de una argumentación siempre que el tema sea relativamente conocido;
 
 Escuchar y comprender casi todas las noticias emitidas en diferido (radio, televisión...);
 
@@ -322,7 +323,7 @@ Redactar un trabajo coherente, bien estructurado, correctamente puntuado, respet
 
 Adaptar el propósito o intención al destinatario y al efecto buscado;
 
-Respetar las reglas de ortografía léxica y gramatical;
+Respetar las reglas de ortografía léxica y gramatical;
 
 Respetar las consignas relativas a las diferentes evaluaciones certificativas.
 
@@ -404,15 +405,15 @@ Phrase (simple / complexe) Proposition Syntagme ou groupe nominal, verbal… Suj
 
 **3. Texte**
 
-Anaphore (rhétorique: reprise d’un terme; linguistique: terme de reprise) Connecteur (logique, spatial, temporel) Structuration textuelle (organisation, cohésion)  Genre Modalité
+Anaphore (rhétorique: reprise d'un terme; linguistique: terme de reprise) Connecteur (logique, spatial, temporel) Structuration textuelle (organisation, cohésion)  Genre Modalité
 
-Période Plan de l’expression / Plan du contenu Premier plan / Second plan Temporalité (succession / simultanéité) Thème / Propos Progressions dans le texte
+Période Plan de l'expression / Plan du contenu Premier plan / Second plan Temporalité (succession / simultanéité) Thème / Propos Progressions dans le texte
 
 **4. Enonciation - Discours**
 
-Énonciation  Aspect (accompli / non accompli; inchoatif, duratif, itératif…)  Attitude énonciative (engagement /  détachement) Enonciation / Enoncé Position énonciative Modalisation  Niveau de langue Registre (comique, tragique, épique…) Situation d’énonciation Valeur Textes et formes de discours Enonciation, interaction, usage. Texte argumentatif (démontrer,  convaincre, persuader, délibérer) Texte descriptif Texte narratif  Texte explicatif Point de vue  Récit, narration, narrateur
+Énonciation  Aspect (accompli / non accompli; inchoatif, duratif, itératif…)  Attitude énonciative (engagement /  détachement) Enonciation / Enoncé Position énonciative Modalisation  Niveau de langue Registre (comique, tragique, épique…) Situation d'énonciation Valeur Textes et formes de discours Enonciation, interaction, usage. Texte argumentatif (démontrer,  convaincre, persuader, délibérer) Texte descriptif Texte narratif  Texte explicatif Point de vue  Récit, narration, narrateur
 
-Opérations de discours Citation / Reformulation Énonciation rapportée (directe, indirecte, indirecte libre, narrativisée) Pragmatique  Acte de langage (direct et indirect) Auditoire Communication Débat Destinataire Dialogue Explicite / Implicite (présupposition, inférence) Ironie Réception Marques de l’oralité Accent Intonation  Redondance  Rythme  Syntaxe de l’oral
+Opérations de discours Citation / Reformulation Énonciation rapportée (directe, indirecte, indirecte libre, narrativisée) Pragmatique  Acte de langage (direct et indirect) Auditoire Communication Débat Destinataire Dialogue Explicite / Implicite (présupposition, inférence) Ironie Réception Marques de l'oralité Accent Intonation  Redondance  Rythme  Syntaxe de l'oral
 
 **5. Langage et variation**
 
@@ -468,13 +469,13 @@ Balzac: Eugénie Grandet, Le Père Goriot, La Cousine Bette
 
 Dumas: Les Trois mousquetaires
 
-Mérimée: La Vénus d’Ille, Carmen
+Mérimée: La Vénus d'Ille, Carmen
 
 Théophile Gautier: Contes et récits fantastiques
 
 Flaubert: Madame Bovary
 
-Zola: L’Assommoir, Germinal, Thérèse Raquin
+Zola: L'Assommoir, Germinal, Thérèse Raquin
 
 Jules Verne: Le Tour du monde en 80 jours
 
@@ -484,7 +485,7 @@ Proust: Un Amour de Swann (fragmentos)
 
 Saint- Exupéry: Le petit prince, Vol de nuit, Terre des hommes
 
-Camus: L’Etranger, La Peste
+Camus: L'Etranger, La Peste
 
 Gide: La symphonie pastorale
 
@@ -494,23 +495,23 @@ Albert Cohen: Les valeureux, Le livre de ma mère (fragmentos)
 
 Tournier: Vendredi ou les limbes du Pacifique
 
-Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le chercheur d’or….
+Le Clézio: Mondo et autres histoires, La Ronde et autres faits divers, Le chercheur d'or….
 
 Duras: Un Barrage contre le Pacifique
 
-Yourcenar: Mémoires d’Hadrien, Nouvelles orientales
+Yourcenar: Mémoires d'Hadrien, Nouvelles orientales
 
 Raymond Queneau: Zazie dans le métro
 
-Boris Vian: L’Écume des jours
+Boris Vian: L'Écume des jours
 
 Modiano: La ronde de nuit, Villa triste
 
-Pennac: La petite marchande de prose, Chagrin d’école
+Pennac: La petite marchande de prose, Chagrin d'école
 
-Ben Jelloun: L’Enfant de sable, La Nuit sacrée
+Ben Jelloun: L'Enfant de sable, La Nuit sacrée
 
-Maalouf: Léon l’Africain
+Maalouf: Léon l'Africain
 
 Nothomb: Stupeur et tremblements
 
@@ -522,7 +523,7 @@ Assia Djebar: Nulle part dans la maison de mon père
 
 Irène Némirovsky: Suite française
 
-Anna Gavalda: Ensemble, c’est tout
+Anna Gavalda: Ensemble, c'est tout
 
 Pascal Quignard: Tous les matins du monde
 
@@ -534,7 +535,7 @@ Siglo XVII:
 
 Corneille: Le Cid
 
-Molière: Le Malade imaginaire, L’Avare, Dom Juan, Tartuffe
+Molière: Le Malade imaginaire, L'Avare, Dom Juan, Tartuffe
 
 Racine: Phèdre, Andromaque, Bérénice
 
@@ -550,7 +551,7 @@ Rostand: Cyrano de Bergerac
 
 Siglos XX y XXI:
 
-Giraudoux: La Guerre de Troie n’aura pas lieu, Electre
+Giraudoux: La Guerre de Troie n'aura pas lieu, Electre
 
 Anouilh: Le voyageur sans bagages, Antigone
 
@@ -576,11 +577,11 @@ Siglos XX y XXI: Apollinaire; Valéry; Eluard; Aragon; Breton; Desnos; Prévert;
 
 Rousseau: Les Confessions (fragmentos), Les Rêveries du promeneur solitaire
 
-Chateaubriand: Mémoires d’Outre-tombe (fragmentos)
+Chateaubriand: Mémoires d'Outre-tombe (fragmentos)
 
 Sartre: Les Mots (fragmentos)
 
-Perec: W ou le souvenir d’enfance (fragmentos)
+Perec: W ou le souvenir d'enfance (fragmentos)
 
 Andréï Makine: Le Testament français
 
@@ -592,13 +593,13 @@ Patrick Chamoiseau: Une enfance créole
 
 Voltaire: Lettres philosophiques, Dictionnaire philosophique (fragmentos)
 
-L’Encyclopédie (artículos)
+L'Encyclopédie (artículos)
 
-Rousseau: Discours sur l’origine et le fondement de l’inégalité parmi les hommes (fragmentos)
+Rousseau: Discours sur l'origine et le fondement de l'inégalité parmi les hommes (fragmentos)
 
 Valéry: Regards sur le monde actuel (fragmentos)
 
-Sartre: L’existentialisme est un humanisme (fragmentos)
+Sartre: L'existentialisme est un humanisme (fragmentos)
 
 Camus: Le Mythe de Sisyphe (fragmentos)
 
@@ -616,7 +617,7 @@ Para la preparación de la prueba oral, que tendrá un enfoque de FLE, se recomi
 
 La prensa y los medios de comunicación: reflejo de la vida contemporánea;
 
-La actualidad política, social y económica en Francia, España y Europa en general;
+La actualidad política, social y económica en Francia, España y Europa en general;
 
 La vida cotidiana en Francia: estudios, cultura, ocio, deportes, gastronomía...
 
@@ -632,7 +633,7 @@ Los criterios de evaluación de la materia específica Lengua y literatura franc
 
 La escala global de los niveles comunes de referencia dispone, para este nivel, que el alumno será capaz de entender las ideas principales de textos complejos que traten de temas tanto concretos como abstractos, incluso si son de carácter técnico, siempre que estén dentro de su campo de especialización; que podrá relacionarse con hablantes nativos con un grado suficiente de fluidez y naturalidad, de modo que la comunicación se realice sin esfuerzo por parte de ninguno de los interlocutores; que podrá producir textos claros y detallados sobre temas diversos, así como defender un punto de vista sobre temas generales, indicando los pros y los contras de las distintas opciones.
 
-ANEXO I - B
+## Anexo I. B
 
 **HISTORIA DE ESPAÑA Y DE FRANCIA**
 
@@ -806,7 +807,7 @@ A los criterios de evaluación de esta etapa en el sistema educativo español ha
 
 6. Producir textos escritos con coherencia utilizando un registro adecuado.
 
-ANEXO II
+## Anexo II
 
 Diligencia que ha de extenderse en el Expediente académico y en el Historial académico de Bachillerato, del/de la alumno/a:
 
@@ -818,11 +819,10 @@ V.º B.º El/la Director/a
 
 y (Sello del centro)
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -830,6 +830,7 @@ y (Sello del centro)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2010-4130**](./RD102_2010_regula_ordenacion_ensenanzas_acogidas_acuerdo_entre.md)

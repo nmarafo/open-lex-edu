@@ -1,12 +1,10 @@
 ---
 id: norm-and-o-10-8-2007
 codigo_sintetizado: O10_8_2007 Evaluacion Educación Secundaria Obligatoria Andalucía
-titulo: Orden de 10 de agosto de 2007, por la que se regula la evaluación del alumnado
-  en la Educación Secundaria Obligatoria.
+titulo: Orden de 10 de agosto de 2007, por la que se regula la evaluación del alumnado en la Educación Secundaria Obligatoria.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Orden
 numero_disposicion: 10/08/2007
 fecha_disposicion: '2007-08-10'
@@ -20,2138 +18,379 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Secundaria Obligatoria
 tags:
-- eso
-- evaluacion
-- promocion
-- titulacion
-- andalucia
+  - eso
+  - evaluacion
+  - promocion
+  - titulacion
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-39-2015
 ---
+# Orden de 10 de agosto de 2007, por la que se regula la evaluación del alumnado en la Educación Secundaria Obligatoria.
 
 ## Preámbulo
 
-# Orden de 10 de agosto de 2007, por la que se regula la evaluación del alumnado en la Educación Secundaria Obligatoria.
+Página núm. 4 Sevilla, 30 de agosto 2007 CONSEJERÍA DE EDUCACIÓN ORDEN de 10 de agosto de 2007, por la que se desarrolla el currículo correspondiente a la Educación Primaria en Andalucía. La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de la norma fundamental, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. En el ejercicio de esta competencia, el Decreto 230/2007, de 31 de julio, ha establecido la ordenación y las enseñanzas correspondientes a la educación primaria. En el artículo 5.2 dispone que los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo de esta etapa educativa serán regulados por Orden de la Consejería competente en materia de educación. Esta misma norma establece que el currículo de la educación primaria se plasmará en aprendizajes relevantes, significativos y motivadores para el alumnado y que tomará en consideración, como elementos transversales, el fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Considerando las necesidades de flexibilidad y adaptabilidad de las estructuras educativas a las demandas que exige la sociedad del conocimiento, son necesarias fórmulas de organización del currículo que permitan llevar a cabo con facilidad las adaptaciones de la cultura escolar a dicha sociedad de la información. Por ello, el citado Decreto 230/2007, de 31 de julio, establece que los centros docentes que imparten la educación primaria disponen de autonomía para desarrollar un proyecto educativo y de gestión propios que permita formas de organización distintas para favorecer la mejora continua de la educación. Al mismo tiempo se reconoce la capacidad y la responsabilidad de los centros y del profesorado en el desarrollo curricular, constituyendo una de las dimensiones más notorias de la autonomía profesional. La educación primaria se organizará, de acuerdo con los principios de educación común y atención a la diversidad del alumnado, de modo que permita a éste alcanzar los objetivos de la etapa. A tales efectos, se pondrá especial énfasis en la adquisición de las competencias básicas, en la detección y tratamiento de las dificultades de aprendizaje tan pronto como se produzcan, en la tutoría y orientación educativa del alumnado y en la relación con las familias para apoyar el proceso educativo de sus hijos e hijas. Procede, en consecuencia, desarrollar el currículo que conforma esta etapa educativa, fijar el horario mínimo semanal y establecer orientaciones para el desarrollo de la autonomía curricular de los centros docentes. Por todo ello y en virtud de lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en la disposición final
 
-Página núm. 4 
-Sevilla, 30 de agosto 2007
- CONSEJERÍA DE EDUCACIÓN
-ORDEN de 10 de agosto de 2007, por la que se 
-desarrolla el currículo correspondiente a la Educación 
-Primaria en Andalucía.
-La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo 
-dispuesto en el artículo 52.2 del Estatuto de Autonomía para 
-Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª 
-de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de la 
-norma fundamental, a fin de garantizar el cumplimiento de las 
-obligaciones de los poderes públicos en esta materia.
-En el ejercicio de esta competencia, el Decreto 230/2007, 
-de 31 de julio, ha establecido la ordenación y las enseñanzas 
-correspondientes a la educación primaria. En el artículo 5.2 
-dispone que los objetivos, competencias básicas, contenidos 
-y criterios de evaluación del currículo de esta etapa educativa 
-serán regulados por Orden de la Consejería competente en 
-materia de educación.
-Esta misma norma establece que el currículo de la educación primaria se plasmará en aprendizajes relevantes, significativos y motivadores para el alumnado y que tomará en consideración, como elementos transversales, el fortalecimiento del 
-respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir 
-una vida responsable en una sociedad libre y democrática.
-Considerando las necesidades de flexibilidad y adaptabilidad de las estructuras educativas a las demandas que exige la 
-sociedad del conocimiento, son necesarias fórmulas de organización del currículo que permitan llevar a cabo con facilidad 
-las adaptaciones de la cultura escolar a dicha sociedad de la 
-información.
-Por ello, el citado Decreto 230/2007, de 31 de julio, establece que los centros docentes que imparten la educación 
-primaria disponen de autonomía para desarrollar un proyecto 
-educativo y de gestión propios que permita formas de organización distintas para favorecer la mejora continua de la educación. 
-Al mismo tiempo se reconoce la capacidad y la responsabilidad de los centros y del profesorado en el desarrollo curricular, constituyendo una de las dimensiones más notorias de 
-la autonomía profesional. 
-La educación primaria se organizará, de acuerdo con los 
-principios de educación común y atención a la diversidad del 
-alumnado, de modo que permita a éste alcanzar los objetivos 
-de la etapa. A tales efectos, se pondrá especial énfasis en la 
-adquisición de las competencias básicas, en la detección y tratamiento de las dificultades de aprendizaje tan pronto como se 
-produzcan, en la tutoría y orientación educativa del alumnado 
-y en la relación con las familias para apoyar el proceso educativo de sus hijos e hijas. 
-Procede, en consecuencia, desarrollar el currículo que 
-conforma esta etapa educativa, fijar el horario mínimo semanal y establecer orientaciones para el desarrollo de la autonomía curricular de los centros docentes.
-Por todo ello y en virtud de lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de 
-la Comunidad Autónoma de Andalucía, y en la disposición final 
-primera del Decreto 230/2007, de 31 de julio, la Consejera de 
-Educación
-HA DISPUESTO
+#### Primera. del Decreto 230/2007, de 31 de julio, la Consejera de Educación HA DISPUESTO.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente Orden tiene por objeto desarrollar los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo de la educación primaria, fijar el horario 
-lectivo semanal mínimo obligatorio de la etapa y establecer 
-orientaciones para el desarrollo de la autonomía pedagógica de los centros docentes, de conformidad con el Decreto 
-230/2007, de 31 de julio, por el que se establece la ordenación y las enseñanzas correspondientes a la educación primaria en Andalucía.
-2. Será de aplicación en todos los centros docentes de la 
-Comunidad Autónoma de Andalucía que impartan las enseñanzas correspondientes a la educación primaria.
+1. La presente Orden tiene por objeto desarrollar los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo de la educación primaria, fijar el horario lectivo semanal mínimo obligatorio de la etapa y establecer orientaciones para el desarrollo de la autonomía pedagógica de los centros docentes, de conformidad con el Decreto 230/2007, de 31 de julio, por el que se establece la ordenación y las enseñanzas correspondientes a la educación primaria en Andalucía.
+
+2. Será de aplicación en todos los centros docentes de la Comunidad Autónoma de Andalucía que impartan las enseñanzas correspondientes a la educación primaria.
 
 #### Artículo 2. Componentes del currículo.
 
-1. Las competencias básicas de la educación primaria son 
-las establecidas en el Anexo I del Real Decreto 1513/2006, de 
-7 de diciembre, por el que se establecen las enseñanzas mínimas de la educación primaria, y en el artículo 6.2 del Decreto 
-230/2007, de 31 de julio. 
-2. Los objetivos, contenidos, y criterios de evaluación 
-para cada una de las áreas de conocimiento de la educación 
-primaria son los establecidos en el Anexo II del Real Decreto 
-1513/2006, de 7 de diciembre, y en el Anexo I de la presente 
-Orden en el que se establecen las enseñanzas que son propias de la Comunidad Autónoma.
-3. En el desarrollo y concreción de los aspectos del currículo dispuestos en el Real Decreto 1513/2006, de 7 de diciembre, se tendrá en cuenta que la flexibilidad que dicho Real 
-Decreto establece para la ordenación de los contenidos en bloques temáticos dentro de cada ciclo, permite que los centros 
-puedan agrupar los contenidos en distintas opciones. 
-4. Los contenidos propios de la Comunidad Autónoma 
-de Andalucía versarán sobre el tratamiento de la realidad andaluza en sus aspectos geográficos, económicos, sociales, 
-históricos y culturales, así como sobre las contribuciones de 
-carácter social y científico que mejoran la ciudadanía, la dimensión histórica del conocimiento y el progreso humano en 
-el siglo XXI. 
+1. Las competencias básicas de la educación primaria son las establecidas en el Anexo I del Real Decreto 1513/2006, de 7 de diciembre, por el que se establecen las enseñanzas mínimas de la educación primaria, y en el artículo 6.2 del Decreto 230/2007, de 31 de julio.
+
+2. Los objetivos, contenidos, y criterios de evaluación para cada una de las áreas de conocimiento de la educación primaria son los establecidos en el Anexo II del Real Decreto 1513/2006, de 7 de diciembre, y en el Anexo I de la presente Orden en el que se establecen las enseñanzas que son propias de la Comunidad Autónoma.
+
+3. En el desarrollo y concreción de los aspectos del currículo dispuestos en el Real Decreto 1513/2006, de 7 de diciembre, se tendrá en cuenta que la flexibilidad que dicho Real Decreto establece para la ordenación de los contenidos en bloques temáticos dentro de cada ciclo, permite que los centros puedan agrupar los contenidos en distintas opciones.
+
+4. Los contenidos propios de la Comunidad Autónoma de Andalucía versarán sobre el tratamiento de la realidad andaluza en sus aspectos geográficos, económicos, sociales, históricos y culturales, así como sobre las contribuciones de carácter social y científico que mejoran la ciudadanía, la dimensión histórica del conocimiento y el progreso humano en el siglo XXI.
 
 #### Artículo 3. Principios para el desarrollo de los contenidos.
 
-Con objeto de impulsar el sentido formativo de estas enseñanzas y su utilización para la comprensión del mundo, así 
-como para favorecer los aprendizajes y afianzar la motivación 
-del alumnado, el desarrollo y concreción de los contenidos de 
-las áreas y, en su caso, los ámbitos de esta etapa educativa 
-incorporarán los siguientes aspectos:
-a) La dimensión histórica del conocimiento, el contexto en 
-el que se producen los avances y el papel desempeñado por 
-quienes los hicieron posibles.
-b) La visión interdisciplinar del conocimiento, resaltando 
-las conexiones entre diferentes áreas y la aportación de cada 
-una a la comprensión global de los fenómenos estudiados.
-c) La aplicación de lo aprendido a las situaciones de la 
-vida cotidiana, favoreciendo las actividades que capaciten 
-para el conocimiento y análisis del medio que nos circunda y 
-de las variadas actividades humanas y modos de vida.
-d) La consideración de la vida cotidiana y de los recursos del medio cercano como un instrumento para relacionar 
-la experiencia del alumno o alumna con los aprendizajes escolares.
+Con objeto de impulsar el sentido formativo de estas enseñanzas y su utilización para la comprensión del mundo, así como para favorecer los aprendizajes y afianzar la motivación del alumnado, el desarrollo y concreción de los contenidos de las áreas y, en su caso, los ámbitos de esta etapa educativa incorporarán los siguientes aspectos:
+a) La dimensión histórica del conocimiento, el contexto en el que se producen los avances y el papel desempeñado por quienes los hicieron posibles.
+b) La visión interdisciplinar del conocimiento, resaltando las conexiones entre diferentes áreas y la aportación de cada una a la comprensión global de los fenómenos estudiados.
+c) La aplicación de lo aprendido a las situaciones de la vida cotidiana, favoreciendo las actividades que capaciten para el conocimiento y análisis del medio que nos circunda y de las variadas actividades humanas y modos de vida.
+d) La consideración de la vida cotidiana y de los recursos del medio cercano como un instrumento para relacionar la experiencia del alumno o alumna con los aprendizajes escolares.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 5
-e) El aprovechamiento de las diversas fuentes de información, cultura, ocio y estudio presentes en la sociedad del 
-conocimiento.
-f) La toma de conciencia sobre temas y problemas que 
-afectan a todas las personas en un mundo globalizado, entre 
-los que se considerarán la salud, la pobreza en el mundo, el 
-agotamiento de los recursos naturales, la superpoblación, la 
-contaminación, el calentamiento de la Tierra, la violencia, el 
-racismo, la emigración y la desigualdad entre las personas, 
-pueblos y naciones.
-g) El análisis de las formas de exclusión social que dificultan la igualdad de los seres humanos, con especial dedicación 
-a la desigualdad de las mujeres.
-h) La adopción de una perspectiva que permita apreciar 
-la contribución al desarrollo de la humanidad de las diferentes 
-sociedades, civilizaciones y culturas.
-i) El análisis y la valoración de las contribuciones más importantes para el progreso humano en los campos de la salud, 
-el bienestar, las comunicaciones, la difusión del conocimiento, 
-las formas de gobierno y las maneras de satisfacer las necesidades humanas básicas.
+Sevilla, 30 de agosto 2007 Página núm. 5
+e) El aprovechamiento de las diversas fuentes de información, cultura, ocio y estudio presentes en la sociedad del conocimiento.
+f) La toma de conciencia sobre temas y problemas que afectan a todas las personas en un mundo globalizado, entre los que se considerarán la salud, la pobreza en el mundo, el agotamiento de los recursos naturales, la superpoblación, la contaminación, el calentamiento de la Tierra, la violencia, el racismo, la emigración y la desigualdad entre las personas, pueblos y naciones.
+g) El análisis de las formas de exclusión social que dificultan la igualdad de los seres humanos, con especial dedicación a la desigualdad de las mujeres.
+h) La adopción de una perspectiva que permita apreciar la contribución al desarrollo de la humanidad de las diferentes sociedades, civilizaciones y culturas.
+i) El análisis y la valoración de las contribuciones más importantes para el progreso humano en los campos de la salud, el bienestar, las comunicaciones, la difusión del conocimiento, las formas de gobierno y las maneras de satisfacer las necesidades humanas básicas.
 
 #### Artículo 4. Orientaciones metodológicas.
 
-1. Los centros docentes elaborarán sus propuestas pedagógicas para esta etapa desde la consideración de la atención a la diversidad y del acceso de todo el alumnado a la 
-educación común. Asimismo, arbitrarán métodos que tengan 
-en cuenta los diferentes ritmos de aprendizaje del alumnado, 
-favorezcan la capacidad de aprender por sí mismos y promuevan el trabajo en equipo.
-2. En esta etapa educativa se fomentará especialmente 
-una metodología centrada en la actividad y participación del 
-alumnado, que favorezca el pensamiento racional y crítico, el 
-trabajo individual y cooperativo del alumnado en el aula, así 
-como las diferentes posibilidades de expresión. Asimismo, se 
-integrarán en todas las áreas referencias a la vida cotidiana y 
-al entorno inmediato del alumnado.
-3. Se asegurará el trabajo en equipo del profesorado, con 
-objeto de proporcionar un enfoque multidisciplinar del proceso 
-educativo, garantizando la coordinación de todos los miembros del equipo docente que atienda a cada alumno o alumna 
-en su grupo.
-4. Las tecnologías de la información y de la comunicación 
-formarán parte del uso habitual como instrumento facilitador 
-para el desarrollo del currículo.
+1. Los centros docentes elaborarán sus propuestas pedagógicas para esta etapa desde la consideración de la atención a la diversidad y del acceso de todo el alumnado a la educación común. Asimismo, arbitrarán métodos que tengan en cuenta los diferentes ritmos de aprendizaje del alumnado, favorezcan la capacidad de aprender por sí mismos y promuevan el trabajo en equipo.
+
+2. En esta etapa educativa se fomentará especialmente una metodología centrada en la actividad y participación del alumnado, que favorezca el pensamiento racional y crítico, el trabajo individual y cooperativo del alumnado en el aula, así como las diferentes posibilidades de expresión. Asimismo, se integrarán en todas las áreas referencias a la vida cotidiana y al entorno inmediato del alumnado.
+
+3. Se asegurará el trabajo en equipo del profesorado, con objeto de proporcionar un enfoque multidisciplinar del proceso educativo, garantizando la coordinación de todos los miembros del equipo docente que atienda a cada alumno o alumna en su grupo.
+
+4. Las tecnologías de la información y de la comunicación formarán parte del uso habitual como instrumento facilitador para el desarrollo del currículo.
+
 5. Las programaciones didácticas de todas las áreas incluirán actividades en las que el alumnado deberá leer, escribir y expresarse de forma oral.
 
 #### Artículo 5. Autonomía de los centros.
 
-1. Los centros docentes dispondrán de autonomía pedagógica y de organización para el desarrollo y concreción del 
-currículo de la educación primaria y su adaptación a las necesidades de su alumnado y a las características específicas del 
-entorno social y cultural en el que se encuentren.
-2. Los centros docentes establecerán en su proyecto educativo la concreción del currículo, al menos, en los siguientes 
-aspectos: los objetivos generales, los acuerdos para la mejora de las competencias básicas, los criterios comunes para 
-la evaluación y promoción del alumnado, la distribución del 
-tiempo escolar, así como los objetivos y programas de intervención en el tiempo extraescolar, las medidas de atención a 
-la diversidad, el plan de orientación y acción tutorial, el plan de 
-convivencia y, en su caso, el plan de compensación educativa, 
-así como cualesquiera otras consideraciones que favorezcan 
-la mejora de los resultados escolares del alumnado.
-3. Los equipos de ciclo desarrollarán las programaciones 
-didácticas de las áreas que correspondan al mismo, mediante 
-la concreción de los objetivos, ordenación de los contenidos, 
-establecimiento de la metodología y de los procedimientos 
-y criterios de evaluación, incluyendo las distintas medidas 
-de atención a la diversidad que pudieran llevarse a cabo, de 
-acuerdo con las necesidades del alumnado y con las posibilidades de atención establecidas en el Capítulo V del Decreto 
-230/2007, de 31 de julio, y disposiciones que lo desarrollen.
-4. En la elaboración de dichas programaciones didácticas se incorporarán los núcleos temáticos del currículo propio 
-de Andalucía, recogidos en el Anexo I, así como los principios 
-para el desarrollo de los contenidos y orientaciones metodológicas establecidas en la presente Orden. 
-5. El profesorado del centro educativo desarrollará su actividad docente de acuerdo con las programaciones didácticas 
-a que se refiere el apartado anterior.
-6. Las áreas que componen el currículo de la educación 
-primaria se podrán integrar en ámbitos para facilitar un planteamiento integrado y relevante del proceso de enseñanza 
-aprendizaje del alumnado.
-7. En el conjunto de la etapa, la acción tutorial orientará el 
-proceso educativo individual y colectivo del alumnado.
+1. Los centros docentes dispondrán de autonomía pedagógica y de organización para el desarrollo y concreción del currículo de la educación primaria y su adaptación a las necesidades de su alumnado y a las características específicas del entorno social y cultural en el que se encuentren.
+
+2. Los centros docentes establecerán en su proyecto educativo la concreción del currículo, al menos, en los siguientes aspectos: los objetivos generales, los acuerdos para la mejora de las competencias básicas, los criterios comunes para la evaluación y promoción del alumnado, la distribución del tiempo escolar, así como los objetivos y programas de intervención en el tiempo extraescolar, las medidas de atención a la diversidad, el plan de orientación y acción tutorial, el plan de convivencia y, en su caso, el plan de compensación educativa, así como cualesquiera otras consideraciones que favorezcan la mejora de los resultados escolares del alumnado.
+
+3. Los equipos de ciclo desarrollarán las programaciones didácticas de las áreas que correspondan al mismo, mediante la concreción de los objetivos, ordenación de los contenidos, establecimiento de la metodología y de los procedimientos y criterios de evaluación, incluyendo las distintas medidas de atención a la diversidad que pudieran llevarse a cabo, de acuerdo con las necesidades del alumnado y con las posibilidades de atención establecidas en el Capítulo V del Decreto 230/2007, de 31 de julio, y disposiciones que lo desarrollen.
+
+4. En la elaboración de dichas programaciones didácticas se incorporarán los núcleos temáticos del currículo propio de Andalucía, recogidos en el Anexo I, así como los principios para el desarrollo de los contenidos y orientaciones metodológicas establecidas en la presente Orden.
+
+5. El profesorado del centro educativo desarrollará su actividad docente de acuerdo con las programaciones didácticas a que se refiere el apartado anterior.
+
+6. Las áreas que componen el currículo de la educación primaria se podrán integrar en ámbitos para facilitar un planteamiento integrado y relevante del proceso de enseñanza aprendizaje del alumnado.
+
+7. En el conjunto de la etapa, la acción tutorial orientará el proceso educativo individual y colectivo del alumnado.
 
 #### Artículo 6. Medidas de apoyo al profesorado para el desarrollo del currículo.
 
-1. La Consejería competente en materia de educación 
-impulsará la investigación, la experimentación y la innovación 
-educativas, incentivando la creación de equipos de profesores 
-y profesoras, así como la colaboración con las Universidades.
-2. La Consejería competente en materia de educación 
-favorecerá la elaboración de materiales de apoyo al profesorado que desarrollen el currículo y dictará disposiciones que 
-orienten su trabajo en este sentido. A tales efectos, se podrán 
-establecer convenios de colaboración con instituciones académicas, científicas y de carácter cultural.
-3. La Consejería competente en materia de educación 
-realizará una oferta de actividades formativas dirigida al profesorado, adecuada a la demanda efectuada por los centros 
-docentes y a las necesidades que se desprendan de los programas educativos y de los resultados de la evaluación del 
-alumnado.
-4. Las actividades de formación permanente del profesorado tendrán como objetivo el perfeccionamiento de la práctica educativa que incida en la mejora de los rendimientos del 
-alumnado y en su desarrollo personal y social. 
+1. La Consejería competente en materia de educación impulsará la investigación, la experimentación y la innovación educativas, incentivando la creación de equipos de profesores y profesoras, así como la colaboración con las Universidades.
+
+2. La Consejería competente en materia de educación favorecerá la elaboración de materiales de apoyo al profesorado que desarrollen el currículo y dictará disposiciones que orienten su trabajo en este sentido. A tales efectos, se podrán establecer convenios de colaboración con instituciones académicas, científicas y de carácter cultural.
+
+3. La Consejería competente en materia de educación realizará una oferta de actividades formativas dirigida al profesorado, adecuada a la demanda efectuada por los centros docentes y a las necesidades que se desprendan de los programas educativos y de los resultados de la evaluación del alumnado.
+
+4. Las actividades de formación permanente del profesorado tendrán como objetivo el perfeccionamiento de la práctica educativa que incida en la mejora de los rendimientos del alumnado y en su desarrollo personal y social.
 
 #### Artículo 7. Horario.
 
-1. El horario lectivo semanal de cada uno de los cursos de 
-la educación primaria será de veinticinco horas, incluyéndose 
-en este cómputo dos horas y media destinadas al recreo. 
-2. El horario lectivo mínimo que obligatoriamente deben 
-dedicar todos los centros docentes para el desarrollo de cada 
-una de las áreas de la etapa se establece, por ciclos, en el 
+1. El horario lectivo semanal de cada uno de los cursos de la educación primaria será de veinticinco horas, incluyéndose en este cómputo dos horas y media destinadas al recreo.
 
-## Anexo II de la presente Orden. 
+2. El horario lectivo mínimo que obligatoriamente deben dedicar todos los centros docentes para el desarrollo de cada una de las áreas de la etapa se establece, por ciclos, en el
 
-3. Los centros docentes, en el ejercicio de su autonomía 
-organizativa y pedagógica, incrementarán el citado horario mínimo hasta completar las veinticinco horas lectivas semanales 
-previstas para cada uno de los cursos, teniendo en cuenta que 
-las áreas de Matemáticas, Lengua castellana y literatura y Lengua extranjera, dado su carácter instrumental para la adquisición de otros conocimientos, recibirán especial consideración 
-en el horario del centro.
-4. Los centros docentes, en el ejercicio de su autonomía, 
-podrán adoptar distintas formas de organización del horario 
-escolar. Además, podrán ampliar el mismo para contribuir al 
-desarrollo de las medidas de atención a la diversidad a las que 
-se refiere el artículo 15 del Decreto 230/2007, de 31 de julio, 
-sin que, en ningún caso, se impongan aportaciones a la familia ni exigencias para la Administración educativa, y para la 
-realización de actividades complementarias y extraescolares. 
-5. Los centros docentes incluirán el área de Educación 
-para la ciudadanía y los derechos humanos en el primer curso 
+## Anexo II. de la presente Orden.
 
-Página núm. 6 
-Sevilla, 30 de agosto 2007
-del tercer ciclo de la etapa, en la que se prestará especial 
-atención a la igualdad entre hombres y mujeres.
-6. Los centros docentes podrán añadir en el tercer ciclo 
-de la etapa una segunda lengua extranjera. Los centros autorizados a impartir secciones bilingües implantarán, en todo 
-caso, la segunda lengua extranjera. 
-7. Los centros docentes fijarán el horario lectivo semanal 
-en función de las necesidades de aprendizaje de su alumnado. 
-Para ello podrán revisar y, en su caso, modificar los horarios 
-en cualquier momento del curso, respetando, en todo caso, lo 
-establecido en el presente artículo.
+3. Los centros docentes, en el ejercicio de su autonomía organizativa y pedagógica, incrementarán el citado horario mínimo hasta completar las veinticinco horas lectivas semanales previstas para cada uno de los cursos, teniendo en cuenta que las áreas de Matemáticas, Lengua castellana y literatura y Lengua extranjera, dado su carácter instrumental para la adquisición de otros conocimientos, recibirán especial consideración en el horario del centro.
+
+4. Los centros docentes, en el ejercicio de su autonomía, podrán adoptar distintas formas de organización del horario escolar. Además, podrán ampliar el mismo para contribuir al desarrollo de las medidas de atención a la diversidad a las que se refiere el artículo 15 l.
+
+Decreto 230/2007, de 31 de julio, sin que, en ningún caso, se impongan aportaciones a la familia ni exigencias para la Administración educativa, y para la realización de actividades complementarias y extraescolares.
+
+5. Los centros docentes incluirán el área de Educación para la ciudadanía y los derechos humanos en el primer curso
+
+Página núm. 6 Sevilla, 30 de agosto 2007 del tercer ciclo de la etapa, en la que se prestará especial atención a la igualdad entre hombres y mujeres.
+
+6. Los centros docentes podrán añadir en el tercer ciclo de la etapa una segunda lengua extranjera. Los centros autorizados a impartir secciones bilingües implantarán, en todo caso, la segunda lengua extranjera.
+
+7. Los centros docentes fijarán el horario lectivo semanal en función de las necesidades de aprendizaje de su alumnado. Para ello podrán revisar y, en su caso, modificar los horarios en cualquier momento del curso, respetando, en todo caso, lo establecido en el presente artículo.
 
 #### Artículo 8. Participación de las familias.
 
-1. De conformidad con el artículo 8.3 del Decreto 
-230/2007, de 31 de julio, los padres y madres o tutores legales del alumnado podrán suscribir con el centro docente 
-un compromiso educativo para procurar un adecuado seguimiento del proceso de aprendizaje de sus hijos e hijas. 
+1. De conformidad con el artículo 8.3 del Decreto 230/2007, de 31 de julio, los padres y madres o tutores legales del alumnado podrán suscribir con el centro docente un compromiso educativo para procurar un adecuado seguimiento del proceso de aprendizaje de sus hijos e hijas.
+
 2. El compromiso educativo estará especialmente indicado para aquel alumnado que presente dificultades de aprendizaje y podrá suscribirse en cualquier momento del curso.
-3. El Consejo Escolar realizará el seguimiento de los compromisos educativos suscritos en el centro para garantizar su 
-efectividad y proponer la adopción de medidas e iniciativas en 
-caso de incumplimiento.
+
+3. El Consejo Escolar realizará el seguimiento de los compromisos educativos suscritos en el centro para garantizar su efectividad y proponer la adopción de medidas e iniciativas en caso de incumplimiento.
 
 #### Disposición final primera. Desarrollo de la presente Orden.
 
-Se autoriza a las personas titulares de las Direcciones 
-Generales de la Consejería de Educación a dictar cuantas instrucciones resulten necesarias para el desarrollo y ejecución 
-de la presente Orden, en el marco de sus respectivas competencias. 
+Se autoriza a las personas titulares de las Direcciones Generales de la Consejería de Educación a dictar cuantas instrucciones resulten necesarias para el desarrollo y ejecución de la presente Orden, en el marco de sus respectivas competencias.
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de 
-su publicación en el Boletín Oficial de la Junta de Andalucía.
-Sevilla, 10 de agosto de 2007
-CÁNDIDA MARTÍNEZ LÓPEZ
-Consejera de Educación
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 10 de agosto de 2007 CÁNDIDA MARTÍNEZ LÓPEZ Consejera de Educación
 
-## ANEXO I
+## Anexo I
 
-ENSEÑANZAS PROPIAS DE LA COMUNIDAD AUTÓNOMA
-DE ANDALUCÍA PARA LA EDUCACIÓN PRIMARIA
-Las enseñanzas propias de la Comunidad Autónoma de 
-Andalucía para la educación primaria suponen la opción específica que ésta ejerce, en el ámbito de sus competencias, con 
-objeto de reflejar en el currículo aquellos aspectos cuya inclusión se considera necesaria para la formación del alumnado y 
-para alcanzar los objetivos propios del currículo de Andalucía 
-recogidos en el artículo 4 del Decreto 230/2007, de 31 de 
-julio, por el que se establece la ordenación y las enseñanzas 
-correspondientes a la educación primaria en Andalucía.
-La propia organización y selección de los contenidos 
-muestra la perspectiva particular del currículo de Andalucía 
-que incorpora, por un lado, los principios de desarrollo de los 
-contenidos incluidos en el artículo 3 de la presente Orden y, 
-además, plantea grandes núcleos de trabajo, permitiendo al 
-profesorado concretarlos en sus programaciones de aula, haciendo uso de su autonomía y adaptando los contenidos a las 
-peculiaridades de su contexto y su alumnado.
-En ocasiones los contenidos se sitúan en los límites de 
-las disciplinas y muestran la evolución del conocimiento, los 
-intereses a los que ha respondido, las contribuciones más importantes para el progreso humano y cuestiones éticas que 
-están aún sin resolver. Muestran una mirada cercana a la vida 
-y a la sociedad del alumnado andaluz, particular y universal a 
-la vez, y una mirada reflexiva hacia el uso y la aplicación del 
-conocimiento escolar.
-El currículo propio de Andalucía incluye aspectos relacionados con el medio natural, la historia, la cultura, la economía y otros hechos diferenciadores para que sean conocidos, 
-valorados y respetados como patrimonio propio, en el marco 
-cultural español y de la cultura universal. Dichos aspectos se 
-han vinculado a las áreas de Conocimiento del medio natural, 
-social y cultural, Lengua castellana y literatura, Lengua extranjera y Matemáticas.
-Para ello, se propone trabajar sobre una selección de núcleos temáticos dentro de cada una de estas áreas, que no pretenden constituir un listado exhaustivo, sino servir como ejemplos para estructurar un proyecto educativo. A través de los 
-temas contemplados se puede profundizar en el conocimiento 
-y valoración de algunas de las peculiaridades de Andalucía, así 
-como analizar problemas considerados relevantes desde la 
-perspectiva educativa de nuestra Comunidad Autónoma. 
-Se ha mantenido una formulación sensiblemente paralela 
-a la establecida para la educación secundaria obligatoria, con 
-el fin de dar continuidad a los procesos de enseñanza en ambas etapas educativas, si bién la formulación en la educación 
-secundaria obligatoria será, lógicamente, más compleja.
-Esta propuesta de núcleos temáticos no pretende sustituir 
-ni superponerse a los bloques de contenidos presentes en el 
-Real Decreto 1513/2006, de 7 de diciembre, para cada ciclo 
-de la etapa, sino contribuir a la consecución de las finalidades 
-educativas fundamentales mediante una estructura curricular 
-que aproxime al alumnado al tratamiento de problemas sociales relevantes, utilizando para ello los contenidos que se ofrecen en los bloques y otros que se consideran adecuados. Así, 
-en cada núcleo temático se justifica su sentido educativo, se 
-concretan formulaciones a modo de ejemplos para la puesta 
-en práctica de las propuestas educativas y se especifican diversos contenidos para trabajarlos. 
-Para el desarrollo de las materias de Lengua castellana y 
-literatura y de Lengua extranjera, los núcleos temáticos que se 
-proponen giran en torno a las competencias lingüísticas básicas. Por ello se han denominado, a diferencia del resto de las 
-áreas, núcleos de destrezas básicas.
-El área de conocimiento de Educación para la ciudadanía 
-y los derechos humanos incluirá específicamente la formación 
-del alumnado en el funcionamiento de las instituciones de la 
-Comunidad Autónoma de Andalucía y en el conocimiento del 
-Estatuto de Autonomía para Andalucía.
-El currículo propio de Andalucía incluye, además, como 
-características peculiares que impregnan todas sus áreas o 
-ámbitos, aspectos relacionados con:
-a) La igualdad real y efectiva entre hombres y mujeres. El 
-currículo permitirá apreciar la contribución de las mujeres al 
-desarrollo de nuestra sociedad y al conocimiento acumulado 
-por la humanidad.
-b) La diversidad cultural en todos los ámbitos de la vida 
-política y social.
-c) El uso de las tecnologías de la información y de la comunicación. Los medios tecnológicos son hoy día herramientas 
-esenciales para enseñar y aprender, por lo que su presencia 
-debe ser habitual en los procesos de enseñanza y aprendizaje. 
-En este sentido, la adopción de medidas para el impulso de 
-la sociedad del conocimiento y, en particular, la apuesta por 
-la introducción de las TIC en el ámbito educativo, constituyen 
-una importante contribución de carácter social en Andalucía 
-que debe aprovecharse para la mejora de los procesos de enseñanza y aprendizaje en general.
-d) El fortalecimiento del respeto de los derechos humanos 
-y de las libertades fundamentales y los valores que preparan al 
-alumnado para asumir una vida responsable en una sociedad 
-libre y democrática. El ejercicio responsable de estos derechos 
-y deberes comportará una preparación para los retos de una 
+ENSEÑANZAS PROPIAS DE LA COMUNIDAD AUTÓNOMA DE ANDALUCÍA PARA LA EDUCACIÓN PRIMARIA Las enseñanzas propias de la Comunidad Autónoma de Andalucía para la educación primaria suponen la opción específica que ésta ejerce, en el ámbito de sus competencias, con objeto de reflejar en el currículo aquellos aspectos cuya inclusión se considera necesaria para la formación del alumnado y para alcanzar los objetivos propios del currículo de Andalucía recogidos en el artículo 4 l.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 7
-sociedad cambiante que requiere ciudadanos y ciudadanas 
-dispuestos a una convivencia basada en el respeto mutuo y 
-en la cultura de paz y no-violencia, capaces de reconocer y 
-respetar las diferencias culturales y que rechacen todo tipo de 
-discriminación por razón de nacimiento, de capacidad económica o condición social, de género, de raza o de religión. 
-e) La adquisición de hábitos de vida saludable y deportiva, 
-la capacitación para decidir entre las opciones que favorezcan 
-un adecuado bienestar físico, mental y social, para sí y para 
-los demás, la educación vial, la educación para el consumo, 
-la salud laboral, el respeto al medio ambiente, la utilización 
-responsable del tiempo libre y del ocio y el fomento de la capacidad emprendedora del alumno.
-ÁREA DE CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y 
-CULTURAL
-Relevancia y sentido educativo.
-Desde el área de Conocimiento del medio natural, social 
-y cultural se ofrece la posibilidad de organizar el currículo en 
-torno a una serie de grandes problemáticas o núcleos temáticos que presentan ciertas características: son problemas reales del medio natural, social y cultural, tienen posibilidades de 
-conectar con los conocimientos e intereses del alumnado y 
-pueden ser trabajados con el apoyo del conocimiento ofrecido 
-por las ciencias naturales y sociales. Estos núcleos temáticos, 
-sin pretender ser un listado exhaustivo, se presentan como 
-ejemplos de suficiente relevancia para orientar los proyectos educativos en coherencia con los objetivos del área y de 
-la etapa. En ese sentido, se han destacado cuestiones que 
-desde la perspectiva de Andalucía permiten, por una parte, 
-profundizar en el tratamiento educativo de algunas de nuestras peculiaridades y, por otra, abordar problemáticas sobre 
-cuya relevancia se pretende llamar la atención desde nuestra 
-Comunidad Autónoma. 
-Es necesario resaltar que, tomando como referencia básica los objetivos educativos generales de la educación primaria, esta área puede funcionar como eje organizador de los 
-posibles proyectos curriculares, al ofrecer la posibilidad de 
-estructurar dichos proyectos en torno a cuestiones básicas 
-de la realidad social y natural, facilitando así la integración de 
-aportaciones procedentes de otras áreas mediante enfoques 
-de carácter interdisciplinar, transdisciplinar o globalizados.
-Núcleos temáticos.
+Decreto 230/2007, de 31 de julio, por el que se establece la ordenación y las enseñanzas correspondientes a la educación primaria en Andalucía. La propia organización y selección de los contenidos muestra la perspectiva particular del currículo de Andalucía que incorpora, por un lado, los principios de desarrollo de los contenidos incluidos en el artículo 3 de la presente Orden y, además, plantea grandes núcleos de trabajo, permitiendo al profesorado concretarlos en sus programaciones de aula, haciendo uso de su autonomía y adaptando los contenidos a las peculiaridades de su contexto y su alumnado. En ocasiones los contenidos se sitúan en los límites de las disciplinas y muestran la evolución del conocimiento, los intereses a los que ha respondido, las contribuciones más importantes para el progreso humano y cuestiones éticas que están aún sin resolver. Muestran una mirada cercana a la vida y a la sociedad del alumnado andaluz, particular y universal a la vez, y una mirada reflexiva hacia el uso y la aplicación del conocimiento escolar. El currículo propio de Andalucía incluye aspectos relacionados con el medio natural, la historia, la cultura, la economía y otros hechos diferenciadores para que sean conocidos, valorados y respetados como patrimonio propio, en el marco cultural español y de la cultura universal. Dichos aspectos se han vinculado a las áreas de Conocimiento del medio natural, social y cultural, Lengua castellana y literatura, Lengua extranjera y Matemáticas. Para ello, se propone trabajar sobre una selección de núcleos temáticos dentro de cada una de estas áreas, que no pretenden constituir un listado exhaustivo, sino servir como ejemplos para estructurar un proyecto educativo. A través de los temas contemplados se puede profundizar en el conocimiento y valoración de algunas de las peculiaridades de Andalucía, así como analizar problemas considerados relevantes desde la perspectiva educativa de nuestra Comunidad Autónoma. Se ha mantenido una formulación sensiblemente paralela a la establecida para la educación secundaria obligatoria, con el fin de dar continuidad a los procesos de enseñanza en ambas etapas educativas, si bién la formulación en la educación secundaria obligatoria será, lógicamente, más compleja. Esta propuesta de núcleos temáticos no pretende sustituir ni superponerse a los bloques de contenidos presentes en el Real Decreto 1513/2006, de 7 de diciembre, para cada ciclo de la etapa, sino contribuir a la consecución de las finalidades educativas fundamentales mediante una estructura curricular que aproxime al alumnado al tratamiento de problemas sociales relevantes, utilizando para ello los contenidos que se ofrecen en los bloques y otros que se consideran adecuados. Así, en cada núcleo temático se justifica su sentido educativo, se concretan formulaciones a modo de ejemplos para la puesta en práctica de las propuestas educativas y se especifican diversos contenidos para trabajarlos. Para el desarrollo de las materias de Lengua castellana y literatura y de Lengua extranjera, los núcleos temáticos que se proponen giran en torno a las competencias lingüísticas básicas. Por ello se han denominado, a diferencia del resto de las áreas, núcleos de destrezas básicas. El área de conocimiento de Educación para la ciudadanía y los derechos humanos incluirá específicamente la formación del alumnado en el funcionamiento de las instituciones de la Comunidad Autónoma de Andalucía y en el conocimiento del Estatuto de Autonomía para Andalucía. El currículo propio de Andalucía incluye, además, como características peculiares que impregnan todas sus áreas o ámbitos, aspectos relacionados con:
+a) **La igualdad real y efectiva entre hombres y mujeres.** El currículo permitirá apreciar la contribución de las mujeres al desarrollo de nuestra sociedad y al conocimiento acumulado por la humanidad.
+b) La diversidad cultural en todos los ámbitos de la vida política y social.
+c) **El uso de las tecnologías de la información y de la comunicación.** Los medios tecnológicos son hoy día herramientas esenciales para enseñar y aprender, por lo que su presencia debe ser habitual en los procesos de enseñanza y aprendizaje. En este sentido, la adopción de medidas para el impulso de la sociedad del conocimiento y, en particular, la apuesta por la introducción de las TIC en el ámbito educativo, constituyen una importante contribución de carácter social en Andalucía que debe aprovecharse para la mejora de los procesos de enseñanza y aprendizaje en general.
+d) El fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. El ejercicio responsable de estos derechos y deberes comportará una preparación para los retos de una
+
+Sevilla, 30 de agosto 2007 Página núm. 7 sociedad cambiante que requiere ciudadanos y ciudadanas dispuestos a una convivencia basada en el respeto mutuo y en la cultura de paz y no-violencia, capaces de reconocer y respetar las diferencias culturales y que rechacen todo tipo de discriminación por razón de nacimiento, de capacidad económica o condición social, de género, de raza o de religión.
+e) La adquisición de hábitos de vida saludable y deportiva, la capacitación para decidir entre las opciones que favorezcan un adecuado bienestar físico, mental y social, para sí y para los demás, la educación vial, la educación para el consumo, la salud laboral, el respeto al medio ambiente, la utilización responsable del tiempo libre y del ocio y el fomento de la capacidad emprendedora del alumno. ÁREA DE CONOCIMIENTO DEL MEDIO NATURAL, SOCIAL Y CULTURAL Relevancia y sentido educativo. Desde el área de Conocimiento del medio natural, social y cultural se ofrece la posibilidad de organizar el currículo en torno a una serie de grandes problemáticas o núcleos temáticos que presentan ciertas características: son problemas reales del medio natural, social y cultural, tienen posibilidades de conectar con los conocimientos e intereses del alumnado y pueden ser trabajados con el apoyo del conocimiento ofrecido por las ciencias naturales y sociales. Estos núcleos temáticos, sin pretender ser un listado exhaustivo, se presentan como ejemplos de suficiente relevancia para orientar los proyectos educativos en coherencia con los objetivos del área y de la etapa. En ese sentido, se han destacado cuestiones que desde la perspectiva de Andalucía permiten, por una parte, profundizar en el tratamiento educativo de algunas de nuestras peculiaridades y, por otra, abordar problemáticas sobre cuya relevancia se pretende llamar la atención desde nuestra Comunidad Autónoma. Es necesario resaltar que, tomando como referencia básica los objetivos educativos generales de la educación primaria, esta área puede funcionar como eje organizador de los posibles proyectos curriculares, al ofrecer la posibilidad de estructurar dichos proyectos en torno a cuestiones básicas de la realidad social y natural, facilitando así la integración de aportaciones procedentes de otras áreas mediante enfoques de carácter interdisciplinar, transdisciplinar o globalizados. Núcleos temáticos.
+
 1. La construcción histórica, social y cultural de Andalucía.
+
 2. Paisajes andaluces.
+
 3. El patrimonio en Andalucía.
+
 4. Igualdad, convivencia e interculturalidad.
+
 5. Salud y bienestar.
+
 6. Progreso tecnológico y modelos de desarrollo.
+
 7. El uso responsable de los recursos.
+
 8. La incidencia de la actividad humana en el medio.
-1. La construcción histórica, social y cultural de Andalucía.
-Relevancia y sentido educativo.
-La problemática de la identidad histórica, social y cultural de cualquier comunidad es una cuestión compleja, que se 
-hace presente en muy diversos contextos de la sociedad. La 
-escuela juega un importante papel en dicho proceso de construcción, no sólo al aportar conocimientos relevantes y promover actitudes adecuadas, sino también al tomar en consideración, según los casos, determinadas aportaciones sociales 
-relacionadas con dichas identidades.
-Contenidos y problemáticas relevantes.
-Siendo la andaluza una sociedad caracterizada por el proceso de mestizaje y aculturación, tanto en el pasado como en 
-la actualidad, la educación escolar debería contribuir a una 
-construcción compleja y crítica de Andalucía, trabajando nuestras peculiaridades y promoviendo, a un tiempo, el carácter 
-abierto y universalista que ha caracterizado a los andaluces y 
-andaluzas. En esa línea, sería interesante analizar en las aulas 
-algunas de las causas naturales y sociales que explican estas 
-características: nuestra posición geográfica, nuestro clima, 
-nuestro relieve, nuestra historia, etc. Junto a la consideración 
-del legado histórico también se debería tener en cuenta la situación actual y los proyectos de futuro, valorando, por ejemplo, aspectos como las perspectivas de desarrollo de nuestra 
-Comunidad Autónoma o el papel de los andaluces y andaluzas 
-en otras comunidades autónomas españolas, en Europa, en 
-Latinoamérica, en el Magreb y en otros lugares del mundo.
-Esta problemática ha de trabajarse otorgando un papel 
-importante a los valores, que han de combinarse adecuadamente con la gran diversidad de conocimientos disponibles. 
-Para ello, se pueden adoptar diversos enfoques a lo largo de 
-los distintos ciclos de la educación primaria, en función del 
-proyecto educativo existente y de los contenidos que se consideren más adecuados utilizar.
-Así, por ejemplo, en el primer ciclo se pueden hacer planteamientos más descriptivos, como:
+
+1. La construcción histórica, social y cultural de Andalucía. Relevancia y sentido educativo. La problemática de la identidad histórica, social y cultural de cualquier comunidad es una cuestión compleja, que se hace presente en muy diversos contextos de la sociedad. La escuela juega un importante papel en dicho proceso de construcción, no sólo al aportar conocimientos relevantes y promover actitudes adecuadas, sino también al tomar en consideración, según los casos, determinadas aportaciones sociales relacionadas con dichas identidades. Contenidos y problemáticas relevantes. Siendo la andaluza una sociedad caracterizada por el proceso de mestizaje y aculturación, tanto en el pasado como en la actualidad, la educación escolar debería contribuir a una construcción compleja y crítica de Andalucía, trabajando nuestras peculiaridades y promoviendo, a un tiempo, el carácter abierto y universalista que ha caracterizado a los andaluces y andaluzas. En esa línea, sería interesante analizar en las aulas algunas de las causas naturales y sociales que explican estas características: nuestra posición geográfica, nuestro clima, nuestro relieve, nuestra historia, etc. Junto a la consideración del legado histórico también se debería tener en cuenta la situación actual y los proyectos de futuro, valorando, por ejemplo, aspectos como las perspectivas de desarrollo de nuestra Comunidad Autónoma o el papel de los andaluces y andaluzas en otras comunidades autónomas españolas, en Europa, en Latinoamérica, en el Magreb y en otros lugares del mundo. Esta problemática ha de trabajarse otorgando un papel importante a los valores, que han de combinarse adecuadamente con la gran diversidad de conocimientos disponibles. Para ello, se pueden adoptar diversos enfoques a lo largo de los distintos ciclos de la educación primaria, en función del proyecto educativo existente y de los contenidos que se consideren más adecuados utilizar. Así, por ejemplo, en el primer ciclo se pueden hacer planteamientos más descriptivos, como:
 - ¿Qué rasgos sociales o culturales nos parecen característicos de Andalucía? ¿Por qué?
-- ¿Qué elementos son peculiares de nuestro entorno? (en 
-el paisaje, en las construcciones, en las fiestas, etc.).
-En el segundo ciclo, se podrían analizar diversas dimensiones que han contribuido a la construcción de Andalucía, 
-como, por ejemplo:
-- ¿Qué aspectos de la Historia de Andalucía nos resultan 
-más interesantes? ¿Por qué?
-- ¿Cómo han contribuido las mujeres y los hombres a esa 
-Historia?
-- ¿Cuál es la situación actual de Andalucía en diversos ámbitos (por ejemplo, en cuanto a su patrimonio, en la situación 
-de su economía, en las características de sus ciudades...)?
-En el tercer ciclo se podría trabajar en la línea de integrar 
-la Comunidad Autónoma en el contexto nacional e internacional, con cuestiones como: 
+- ¿Qué elementos son peculiares de nuestro entorno? (en el paisaje, en las construcciones, en las fiestas, etc.). En el segundo ciclo, se podrían analizar diversas dimensiones que han contribuido a la construcción de Andalucía, como, por ejemplo:
+- ¿Qué aspectos de la Historia de Andalucía nos resultan más interesantes? ¿Por qué?
+- ¿Cómo han contribuido las mujeres y los hombres a esa Historia?
+- ¿Cuál es la situación actual de Andalucía en diversos ámbitos (por ejemplo, en cuanto a su patrimonio, en la situación de su economía, en las características de sus ciudades...)? En el tercer ciclo se podría trabajar en la línea de integrar la Comunidad Autónoma en el contexto nacional e internacional, con cuestiones como:
 - ¿Podemos ser, a la vez, ciudadanos o ciudadanas de Andalucía, de España y de Europa?
-- ¿Cómo nos ven a los andaluces y andaluzas desde diversos países del mundo?
-Interacción con otros núcleos temáticos y de actividades.
-Como se planteaba en el apartado anterior, son numerosos los contenidos que pueden confluir en el tratamiento de 
-este núcleo. Así, los contenidos contemplados en el Bloque 4 
-del Real Decreto 1513/2006, de 7 de diciembre, (Personas, 
-culturas y organización social) constituyen un bagaje importante para trabajar este núcleo temático, pudiéndose utilizar, 
-asimismo, los contenidos de otros bloques, como puede ser el 
-caso del Bloque 1 (El entorno y su conservación). Asimismo, 
-el Bloque 5 (Cambios en el tiempo) puede ofrecer abundantes 
-ejemplos históricos para trabajar el núcleo temático, ejemplos 
-que deberían ser analizados en relación con otras informaciones aportadas desde la perspectiva de la actualidad y de los 
-proyectos de futuro.
-En todo caso, esta es una problemática básica en la 
-aportación de Andalucía al currículo y tiene un carácter transversal, pudiendo adoptar, por tanto, una gran polivalencia. En 
-ese sentido, la construcción histórica, social y cultural de Andalucía pueda tratarse en relación con prácticamente todos 
-los demás núcleos temáticos del área, especialmente con El 
-patrimonio en Andalucía y con Igualdad, convivencia e interculturalidad. Estas mismas características hacen que esta temática deba ser considerada, también, desde diversas áreas 
-y con un enfoque eminentemente interdisciplinar. Al menos, 
+- ¿Cómo nos ven a los andaluces y andaluzas desde diversos países del mundo? Interacción con otros núcleos temáticos y de actividades. Como se planteaba en el apartado anterior, son numerosos los contenidos que pueden confluir en el tratamiento de este núcleo. Así, los contenidos contemplados en el Bloque 4 del Real Decreto 1513/2006, de 7 de diciembre, (Personas, culturas y organización social) constituyen un bagaje importante para trabajar este núcleo temático, pudiéndose utilizar, asimismo, los contenidos de otros bloques, como puede ser el caso del Bloque 1 (El entorno y su conservación). Asimismo, el Bloque 5 (Cambios en el tiempo) puede ofrecer abundantes ejemplos históricos para trabajar el núcleo temático, ejemplos que deberían ser analizados en relación con otras informaciones aportadas desde la perspectiva de la actualidad y de los proyectos de futuro. En todo caso, esta es una problemática básica en la aportación de Andalucía al currículo y tiene un carácter transversal, pudiendo adoptar, por tanto, una gran polivalencia. En ese sentido, la construcción histórica, social y cultural de Andalucía pueda tratarse en relación con prácticamente todos los demás núcleos temáticos del área, especialmente con El patrimonio en Andalucía y con Igualdad, convivencia e interculturalidad. Estas mismas características hacen que esta temática deba ser considerada, también, desde diversas áreas y con un enfoque eminentemente interdisciplinar. Al menos,
 
-Página núm. 8 
-Sevilla, 30 de agosto 2007
-parece evidente la necesidad de integrar en este enfoque Conocimiento del medio natural, social y cultural con Educación 
-para la ciudadanía y los derechos humanos, pudiendo aportar, 
-asimismo, el área de Lengua y literatura una perspectiva muy 
-enriquecedora. 
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-Como se ha podido ver, el desarrollo de este núcleo se 
-puede abordar mediante la formulación de problemas de progresiva complejidad, desde planteamientos más descriptivos 
-hacia problemas que demanden análisis y valoraciones de 
-carácter más global. Por otra parte, dado el carácter interdisciplinar de este núcleo, son numerosos los recursos y actividades que pueden resultar de interés en el tratamiento de los 
-problemas propuestos, sin olvidar que la propia experiencia 
-de los distintos alumnos y alumnas (con las concepciones que 
-manejan a este respecto) constituye una información de especial relevancia. El uso de documentos de opinión sobre la 
-temática (elaborados a partir de la prensa), la realización de 
-debates y la visita a lugares de especial interés en relación con 
-nuestra Comunidad Autónoma pueden ser actividades recomendables.
-Criterios de valoración de los procesos de aprendizaje
-La evolución de los alumnos y alumnas a lo largo de la 
-educación primaria respecto a este núcleo temático debería 
-mostrar una progresión hacia una concepción más compleja, 
-relativista y crítica del mismo, que les permitiera conocerse 
-mejor como personas y como grupo, sentir orgullo de sus características como miembros de la Comunidad Autónoma de 
-Andalucía y sentirse capaces de participar en un proyecto social de futuro de manera solidaria.
-2. Paisajes andaluces.
-Relevancia y sentido educativo.
-Los paisajes son el reflejo de una larga interacción entre 
-las personas y el medio y, por ello, constituyen parte importante de nuestra memoria común. Son, a la vez, fuente de 
-información relevante sobre nuestra historia natural y social, 
-motivo de disfrute emocional y fuente de inspiración estética. 
-Es destacable, por tanto, la relevancia educativa de este núcleo temático, cuyo tratamiento debe ayudar a que los alumnos y alumnas reconozcan y valoren su medio y se comprometan en su gestión y preservación.
-Contenidos y problemáticas relevantes.
-La situación geográfica de Andalucía (en el sur de la Península Ibérica, entre el océano Atlántico y el mar Mediterráneo), su relieve (desde las cumbres más elevadas de la Península hasta sus amplias zonas al nivel del mar), su historia (el 
-asentamiento de tantos pueblos y de culturas tan diversas), 
-etc. hacen que podamos encontrar en Andalucía una gran diversidad de paisajes. Estos paisajes son casi siempre paisajes 
-culturales, son el resultado y reflejo de una interacción prolongada entre las personas, con su organización social, y el 
-medio físico; son, en definitiva, el testimonio de las complejas 
-relaciones entre las comunidades humanas y su medio. 
-El análisis de esta realidad puede ser el hilo conductor 
-que permita constatar, en el aula, la riqueza de ambientes, 
-usos, etc. que conforman nuestro entorno. Junto a esta idea 
-de diversidad, es interesante trabajar, a medida que se avanza 
-en la educación primaria, la idea de unidad, que ayudará al 
-alumnado a elaborar una concepción del paisaje como resultado de la interacción entre elementos físico-químicos, naturales y sociales, interacción que se desarrolla de una forma 
-peculiar y que otorga a los paisajes unos determinados valores 
-(ecológicos, estéticos, económicos, históricos...). 
-En el primer ciclo de la educación primaria la presentación de algunos problemas sencillos, de carácter descriptivo, 
-puede facilitar el desarrollo del conocimiento relacionado con 
-este núcleo. Así, por ejemplo:
-- ¿Cómo es el paisaje de nuestro entorno? (en diversos 
-aspectos sencillos).
-- ¿Qué otros paisajes conocemos? 
-En el segundo ciclo se pueden plantear los problemas a 
-mayor escala y profundizando en el análisis. Así:
-- ¿Qué paisajes son más abundantes en Andalucía? ¿Por 
-qué?
-- ¿Podemos reconocer algunas manifestaciones de la acción humana en el medio a través del estudio del paisaje?
-En el tercer ciclo, la perspectiva de análisis podría concretarse en problemas como los siguientes:
-- ¿Cómo se han generado los paisajes que conocemos en 
-Andalucía?
+Página núm. 8 Sevilla, 30 de agosto 2007 parece evidente la necesidad de integrar en este enfoque Conocimiento del medio natural, social y cultural con Educación para la ciudadanía y los derechos humanos, pudiendo aportar, asimismo, el área de Lengua y literatura una perspectiva muy enriquecedora. Sugerencias acerca de líneas metodológicas y utilización de recursos. Como se ha podido ver, el desarrollo de este núcleo se puede abordar mediante la formulación de problemas de progresiva complejidad, desde planteamientos más descriptivos hacia problemas que demanden análisis y valoraciones de carácter más global. Por otra parte, dado el carácter interdisciplinar de este núcleo, son numerosos los recursos y actividades que pueden resultar de interés en el tratamiento de los problemas propuestos, sin olvidar que la propia experiencia de los distintos alumnos y alumnas (con las concepciones que manejan a este respecto) constituye una información de especial relevancia. El uso de documentos de opinión sobre la temática (elaborados a partir de la prensa), la realización de debates y la visita a lugares de especial interés en relación con nuestra Comunidad Autónoma pueden ser actividades recomendables. Criterios de valoración de los procesos de aprendizaje La evolución de los alumnos y alumnas a lo largo de la educación primaria respecto a este núcleo temático debería mostrar una progresión hacia una concepción más compleja, relativista y crítica del mismo, que les permitiera conocerse mejor como personas y como grupo, sentir orgullo de sus características como miembros de la Comunidad Autónoma de Andalucía y sentirse capaces de participar en un proyecto social de futuro de manera solidaria.
+
+2. Paisajes andaluces. Relevancia y sentido educativo. Los paisajes son el reflejo de una larga interacción entre las personas y el medio y, por ello, constituyen parte importante de nuestra memoria común. Son, a la vez, fuente de información relevante sobre nuestra historia natural y social, motivo de disfrute emocional y fuente de inspiración estética. Es destacable, por tanto, la relevancia educativa de este núcleo temático, cuyo tratamiento debe ayudar a que los alumnos y alumnas reconozcan y valoren su medio y se comprometan en su gestión y preservación. Contenidos y problemáticas relevantes. La situación geográfica de Andalucía (en el sur de la Península Ibérica, entre el océano Atlántico y el mar Mediterráneo), su relieve (desde las cumbres más elevadas de la Península hasta sus amplias zonas al nivel del mar), su historia (el asentamiento de tantos pueblos y de culturas tan diversas), etc. hacen que podamos encontrar en Andalucía una gran diversidad de paisajes. Estos paisajes son casi siempre paisajes culturales, son el resultado y reflejo de una interacción prolongada entre las personas, con su organización social, y el medio físico; son, en definitiva, el testimonio de las complejas relaciones entre las comunidades humanas y su medio. El análisis de esta realidad puede ser el hilo conductor que permita constatar, en el aula, la riqueza de ambientes, usos, etc. que conforman nuestro entorno. Junto a esta idea de diversidad, es interesante trabajar, a medida que se avanza en la educación primaria, la idea de unidad, que ayudará al alumnado a elaborar una concepción del paisaje como resultado de la interacción entre elementos físico-químicos, naturales y sociales, interacción que se desarrolla de una forma peculiar y que otorga a los paisajes unos determinados valores (ecológicos, estéticos, económicos, históricos...). En el primer ciclo de la educación primaria la presentación de algunos problemas sencillos, de carácter descriptivo, puede facilitar el desarrollo del conocimiento relacionado con este núcleo. Así, por ejemplo:
+- ¿Cómo es el paisaje de nuestro entorno? (en diversos aspectos sencillos).
+- ¿Qué otros paisajes conocemos? En el segundo ciclo se pueden plantear los problemas a mayor escala y profundizando en el análisis. Así:
+- ¿Qué paisajes son más abundantes en Andalucía? ¿Por qué?
+- ¿Podemos reconocer algunas manifestaciones de la acción humana en el medio a través del estudio del paisaje? En el tercer ciclo, la perspectiva de análisis podría concretarse en problemas como los siguientes:
+- ¿Cómo se han generado los paisajes que conocemos en Andalucía?
 - ¿Qué valor tienen para nosotros y para nuestra Comunidad los paisajes que nos rodean?
-- ¿Qué se puede modificar y qué se debe conservar en 
-los paisajes andaluces? (se puede trabajar con ejemplos concretos).
-- ¿Qué otros paisajes son característicos de otras zonas 
-de España y de la Tierra?
-Interacción con otros núcleos temáticos y de actividades.
-Los problemas integrados en este núcleo pueden trabajarse con contenidos procedentes, sobre todo, de los siguientes bloques del Real Decreto 1513/2006, de 7 de diciembre,: 
-Bloque 1 (El entorno y su conservación), 2 (La diversidad de 
-los seres vivos) y 4 (Personas, culturas y organización social), 
-integrando así planteamientos de las Ciencias naturales y de 
-las Ciencias sociales. También resulta indispensable acudir al 
-Bloque 5 (Cambios en el tiempo) para rescatar ejemplos históricos, que pueden contrastarse con ejemplos actuales. Algunos contenidos del Bloque 7 (Objetos, máquinas y tecnologías), por su parte, pueden facilitar el análisis de la incidencia 
-del desarrollo tecnológico en los paisajes.
-Este núcleo temático se halla estrechamente relacionado 
-con otros del área, como La construcción histórica, social y 
-cultural de Andalucía, El patrimonio en Andalucía o La incidencia de la actividad humana en el medio. Siendo un núcleo muy 
-pertinente para ser trabajado desde este área, se podría contar con la colaboración de otras áreas como, especialmente, 
-la de Educación artística, o la de Educación física, debiendo 
-estar presente, en todo caso, la perspectiva aportada por la 
-educación ambiental.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-El tratamiento de problemas relativos a esta temática 
-puede seguir una lógica de complejidad creciente, tal como 
-se propone para el conjunto de los núcleos temáticos del área. 
-Son numerosos los recursos y actividades que pueden ser útiles en este proceso, resultando especialmente relevante en 
-esta etapa el trabajo de campo, que puede facilitar el contacto 
-directo con el objeto de estudio. En ese sentido, las actividades que se proponen desde distintos programas educativos, 
-como por ejemplo el programa Aldea de educación ambiental, pueden resultar de gran interés. Por otro lado, distintos 
-organismos de la propia administración (como, por ejemplo, 
-el Instituto Geográfico Nacional o el Instituto de Cartografía de 
-Andalucía) ofrecen informaciones detalladas sobre aspectos 
-involucrados en este núcleo, lo que puede constituir una aportación importante al tratamiento de los problemas.
+- ¿Qué se puede modificar y qué se debe conservar en los paisajes andaluces? (se puede trabajar con ejemplos concretos).
+- ¿Qué otros paisajes son característicos de otras zonas de España y de la Tierra? Interacción con otros núcleos temáticos y de actividades. Los problemas integrados en este núcleo pueden trabajarse con contenidos procedentes, sobre todo, de los siguientes bloques del Real Decreto 1513/2006, de 7 de diciembre,:
+Bloque 1 (El entorno y su conservación), 2 (La diversidad de los seres vivos) y 4 (Personas, culturas y organización social), integrando así planteamientos de las Ciencias naturales y de las Ciencias sociales. También resulta indispensable acudir al Bloque 5 (Cambios en el tiempo) para rescatar ejemplos históricos, que pueden contrastarse con ejemplos actuales. Algunos contenidos del Bloque 7 (Objetos, máquinas y tecnologías), por su parte, pueden facilitar el análisis de la incidencia del desarrollo tecnológico en los paisajes. Este núcleo temático se halla estrechamente relacionado con otros del área, como La construcción histórica, social y cultural de Andalucía, El patrimonio en Andalucía o La incidencia de la actividad humana en el medio. Siendo un núcleo muy pertinente para ser trabajado desde este área, se podría contar con la colaboración de otras áreas como, especialmente, la de Educación artística, o la de Educación física, debiendo estar presente, en todo caso, la perspectiva aportada por la educación ambiental. Sugerencias acerca de líneas metodológicas y utilización de recursos. El tratamiento de problemas relativos a esta temática puede seguir una lógica de complejidad creciente, tal como se propone para el conjunto de los núcleos temáticos del área. Son numerosos los recursos y actividades que pueden ser útiles en este proceso, resultando especialmente relevante en esta etapa el trabajo de campo, que puede facilitar el contacto directo con el objeto de estudio. En ese sentido, las actividades que se proponen desde distintos programas educativos, como por ejemplo el programa Aldea de educación ambiental, pueden resultar de gran interés. Por otro lado, distintos organismos de la propia administración (como, por ejemplo, el Instituto Geográfico Nacional o el Instituto de Cartografía de Andalucía) ofrecen informaciones detalladas sobre aspectos involucrados en este núcleo, lo que puede constituir una aportación importante al tratamiento de los problemas.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 9
-Criterios de valoración de los procesos de aprendizaje.
-El tratamiento de los problemas propuestos, y de los contenidos y valores asociados, debería favorecer un aprendizaje 
-progresivo de los alumnos y alumnas, partiendo, al principio, 
-de aquellos elementos y relaciones más relevantes en la conformación de un determinado paisaje, así como analizando 
-y comparando algunos de nuestros paisajes más peculiares, 
-para ir abordando paulatinamente los elementos y las relaciones propios de otros paisajes cuyas características resultaran 
-menos evidentes. Al ir progresando en el aprendizaje, habría 
-de atenderse, asimismo, a la génesis y al valor de los paisajes, 
-vinculando las valoraciones al compromiso en la conservación 
-y gestión adecuada de dichos paisajes.
-3. El patrimonio en Andalucía.
-Relevancia y sentido educativo.
-El patrimonio de una sociedad constituye una referencia 
-básica para quienes integran esa comunidad humana. En el 
-patrimonio, como reflejo de la cultura, las personas se reconocen como miembros de una comunidad. El patrimonio es, 
-así, a un tiempo, raíz compartida y embrión de proyectos de 
-futuro. De ahí el interés educativo de este núcleo temático, 
-cuyo tratamiento puede contribuir a que los alumnos y alumnas vayan reconociendo y apreciando, en sus diversos aspectos, aquello que, desde la perspectiva de nuestra sociedad, es 
-considerado como patrimonio de los andaluces y andaluzas. 
-Contenidos y problemáticas relevantes.
-Nuestra Comunidad Autónoma y nuestro Estado tienen 
-una gran riqueza patrimonial, que debe ser abordada en la 
-educación, desde una perspectiva holística, que evite la fragmentación disciplinar con que tradicionalmente se ha considerado el patrimonio en la escuela. Particularmente, la riqueza 
-patrimonial de Andalucía se manifiesta en muy diversos aspectos. Nuestro patrimonio natural se plasma en una gran 
-cantidad de parques naturales, reservas, espacios protegidos, 
-etc. (como puede ser Doñana o Sierra Nevada, por ejemplo) 
-que ocupan una parte importante del territorio andaluz. Nuestro patrimonio histórico-artístico es, asimismo, de una enorme 
-riqueza y variedad, como corresponde al legado de muy distintas culturas. No menos importante sería el patrimonio etnográfico y, en general, todo el patrimonio inmaterial, que puede 
-proporcionar, asimismo, abundantes ejemplos para el trabajo 
-en las aulas.
-La valoración del rico bagaje patrimonial andaluz no 
-debe hacernos olvidar que el patrimonio traduce sistemas de 
-valores que se han ido tejiendo a lo largo del tiempo y que 
-constituyen una construcción social, que, por tanto, ha de ser 
-considerada desde una óptica distanciada y crítica, óptica que 
-conviene ir trabajando con los escolares desde la etapa de 
-educación primaria, en orden a evitar los sesgos de carácter 
-etnocéntrico. Por otro lado, es importante tener en cuenta el 
-carácter limitado y frágil de gran parte de los bienes patrimoniales, lo que los convierte en bienes en estado crítico, que es 
-necesario preservar e integrar en los contextos sociales actuales. Por ello, es conveniente ir planteando, también, a los 
-estudiantes el debate sobre las relaciones entre conservación 
-del patrimonio, disfrute del mismo y desarrollo económico y 
-social, fomentando, a este respecto, su responsabilidad como 
-ciudadanos actuales y futuros.
-Los problemas para desarrollar este núcleo temático en 
-el aula pueden partir en el primer ciclo de ejemplos como los 
-siguientes:
-- ¿Qué monumentos (o costumbres o tradiciones...) de 
-nuestra ciudad consideramos importantes? ¿Por qué?
-- ¿Cómo es la reserva o el parque natural de...? (se puede 
-elegir algún ejemplo).
-En el segundo ciclo se pueden plantear cuestiones como 
-éstas:
-- ¿Desde cuándo existen los monumentos (o las tradiciones o las costumbres...) de nuestra ciudad? ¿Cómo surgieron? 
-(se pueden elegir ejemplos relevantes).
-- ¿Cómo podemos contribuir a la conservación de los monumentos de nuestra ciudad?
-El trabajo en el tercer ciclo permite el planteamiento de 
-problemas más complejos como:
-- ¿Por qué algunos bienes son considerados como parte 
-de nuestro patrimonio y otros no?
+Sevilla, 30 de agosto 2007 Página núm. 9 Criterios de valoración de los procesos de aprendizaje. El tratamiento de los problemas propuestos, y de los contenidos y valores asociados, debería favorecer un aprendizaje progresivo de los alumnos y alumnas, partiendo, al principio, de aquellos elementos y relaciones más relevantes en la conformación de un determinado paisaje, así como analizando y comparando algunos de nuestros paisajes más peculiares, para ir abordando paulatinamente los elementos y las relaciones propios de otros paisajes cuyas características resultaran menos evidentes. Al ir progresando en el aprendizaje, habría de atenderse, asimismo, a la génesis y al valor de los paisajes, vinculando las valoraciones al compromiso en la conservación y gestión adecuada de dichos paisajes.
+
+3. El patrimonio en Andalucía. Relevancia y sentido educativo. El patrimonio de una sociedad constituye una referencia básica para quienes integran esa comunidad humana. En el patrimonio, como reflejo de la cultura, las personas se reconocen como miembros de una comunidad. El patrimonio es, así, a un tiempo, raíz compartida y embrión de proyectos de futuro. De ahí el interés educativo de este núcleo temático, cuyo tratamiento puede contribuir a que los alumnos y alumnas vayan reconociendo y apreciando, en sus diversos aspectos, aquello que, desde la perspectiva de nuestra sociedad, es considerado como patrimonio de los andaluces y andaluzas. Contenidos y problemáticas relevantes. Nuestra Comunidad Autónoma y nuestro Estado tienen una gran riqueza patrimonial, que debe ser abordada en la educación, desde una perspectiva holística, que evite la fragmentación disciplinar con que tradicionalmente se ha considerado el patrimonio en la escuela. Particularmente, la riqueza patrimonial de Andalucía se manifiesta en muy diversos aspectos. Nuestro patrimonio natural se plasma en una gran cantidad de parques naturales, reservas, espacios protegidos, etc. (como puede ser Doñana o Sierra Nevada, por ejemplo) que ocupan una parte importante del territorio andaluz. Nuestro patrimonio histórico-artístico es, asimismo, de una enorme riqueza y variedad, como corresponde al legado de muy distintas culturas. No menos importante sería el patrimonio etnográfico y, en general, todo el patrimonio inmaterial, que puede proporcionar, asimismo, abundantes ejemplos para el trabajo en las aulas. La valoración del rico bagaje patrimonial andaluz no debe hacernos olvidar que el patrimonio traduce sistemas de valores que se han ido tejiendo a lo largo del tiempo y que constituyen una construcción social, que, por tanto, ha de ser considerada desde una óptica distanciada y crítica, óptica que conviene ir trabajando con los escolares desde la etapa de educación primaria, en orden a evitar los sesgos de carácter etnocéntrico. Por otro lado, es importante tener en cuenta el carácter limitado y frágil de gran parte de los bienes patrimoniales, lo que los convierte en bienes en estado crítico, que es necesario preservar e integrar en los contextos sociales actuales. Por ello, es conveniente ir planteando, también, a los estudiantes el debate sobre las relaciones entre conservación del patrimonio, disfrute del mismo y desarrollo económico y social, fomentando, a este respecto, su responsabilidad como ciudadanos actuales y futuros. Los problemas para desarrollar este núcleo temático en el aula pueden partir en el primer ciclo de ejemplos como los siguientes:
+- ¿Qué monumentos (o costumbres o tradiciones...) de nuestra ciudad consideramos importantes? ¿Por qué?
+- ¿Cómo es la reserva o el parque natural de...? (se puede elegir algún ejemplo). En el segundo ciclo se pueden plantear cuestiones como éstas:
+- ¿Desde cuándo existen los monumentos (o las tradiciones o las costumbres...) de nuestra ciudad? ¿Cómo surgieron? (se pueden elegir ejemplos relevantes).
+- ¿Cómo podemos contribuir a la conservación de los monumentos de nuestra ciudad? El trabajo en el tercer ciclo permite el planteamiento de problemas más complejos como:
+- ¿Por qué algunos bienes son considerados como parte de nuestro patrimonio y otros no?
 - ¿Qué nos dice nuestro patrimonio acerca de quiénes somos los andaluces y andaluzas?
-- ¿Cómo se puede hacer compatible nuestro disfrute con 
-la conservación del patrimonio?
-Interacción con otros núcleos temáticos y de actividades.
-Esta problemática puede ser trabajada, especialmente, 
-con los siguientes contenidos propuestos en el Real Decreto 
-1513/2006, de 7 de diciembre: Bloque 4 (Personas, culturas 
-y organización social) y 1 (El entorno y su conservación). Asimismo, los contenidos del Bloque 5 (Cambios en el tiempo) 
-pueden aportar los necesarios ejemplos históricos. También 
-se pueden manejar, de forma complementaria, contenidos del 
-Bloque 2 (La diversidad de los seres vivos).
-Este núcleo temático se halla estrechamente relacionado 
-con otros del área, como La construcción histórica, social y 
-cultural de Andalucía, Paisajes andaluces o La incidencia de 
-la actividad humana en el medio. Constituyendo el patrimonio 
-una problemática tan amplia y diversa, otras áreas, como las 
-de Lengua o la de Educación artística, pueden colaborar en 
-proyectos educativos interdisciplinares relativos a esta temática. Por lo demás, una educación relacionada con el patrimonio ha de contar también con otras perspectivas, como la de 
-la Educación para la ciudadanía y los derechos humanos, y 
-con otras aportaciones transversales, como la de la educación 
-ambiental. 
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-El estudio de este núcleo temático se puede desarrollar 
-de manera progresiva, desde el tratamiento de problemas focalizados en la percepción y descripción de aspectos relevantes de nuestro patrimonio, hacia los que precisan del análisis 
-de su origen y hasta los que conducen a plantearse su conservación. De nuevo, resulta decisivo en esta etapa facilitar un 
-contacto directo con los distintos aspectos del patrimonio que 
-sean objeto de estudio. La visita a zonas protegidas, monumentos, museos, etc. o las distintas herramientas audiovisuales pueden facilitar dicho contacto. Por otro lado, la prensa, 
-las publicaciones de grupos ecologistas, de asociaciones culturales, etc., pueden aportar informaciones de interés para el 
-debate sobre la gestión del patrimonio.
-Criterios de valoración de los procesos de aprendizaje.
-El aprendizaje de los alumnos y alumnas en este núcleo 
-debería evolucionar desde la percepción e identificación de 
-elementos relevantes del patrimonio hacia la descripción más 
-sistemática de los mismos y el análisis de su situación, génesis 
-y porvenir, consolidando, de forma paralela, actitudes de sensibilidad, valoración y compromiso en relación con el mismo.
-4. Igualdad, convivencia e interculturalidad.
-Relevancia y sentido educativo.
-Este es un núcleo relacionado con situaciones y problemáticas de una gran diversidad y complejidad, cuyo tratamiento viene exigido por los objetivos básicos de una educación que debe favorecer la inserción de los alumnos y alumnas 
+- ¿Cómo se puede hacer compatible nuestro disfrute con la conservación del patrimonio? Interacción con otros núcleos temáticos y de actividades. Esta problemática puede ser trabajada, especialmente, con los siguientes contenidos propuestos en el Real Decreto 1513/2006, de 7 de diciembre: Bloque 4 (Personas, culturas y organización social) y 1 (El entorno y su conservación). Asimismo, los contenidos del Bloque 5 (Cambios en el tiempo) pueden aportar los necesarios ejemplos históricos. También se pueden manejar, de forma complementaria, contenidos del Bloque 2 (La diversidad de los seres vivos). Este núcleo temático se halla estrechamente relacionado con otros del área, como La construcción histórica, social y cultural de Andalucía, Paisajes andaluces o La incidencia de la actividad humana en el medio. Constituyendo el patrimonio una problemática tan amplia y diversa, otras áreas, como las de Lengua o la de Educación artística, pueden colaborar en proyectos educativos interdisciplinares relativos a esta temática. Por lo demás, una educación relacionada con el patrimonio ha de contar también con otras perspectivas, como la de la Educación para la ciudadanía y los derechos humanos, y con otras aportaciones transversales, como la de la educación ambiental. Sugerencias acerca de líneas metodológicas y utilización de recursos. El estudio de este núcleo temático se puede desarrollar de manera progresiva, desde el tratamiento de problemas focalizados en la percepción y descripción de aspectos relevantes de nuestro patrimonio, hacia los que precisan del análisis de su origen y hasta los que conducen a plantearse su conservación. De nuevo, resulta decisivo en esta etapa facilitar un contacto directo con los distintos aspectos del patrimonio que sean objeto de estudio. La visita a zonas protegidas, monumentos, museos, etc. o las distintas herramientas audiovisuales pueden facilitar dicho contacto. Por otro lado, la prensa, las publicaciones de grupos ecologistas, de asociaciones culturales, etc., pueden aportar informaciones de interés para el debate sobre la gestión del patrimonio. Criterios de valoración de los procesos de aprendizaje. El aprendizaje de los alumnos y alumnas en este núcleo debería evolucionar desde la percepción e identificación de elementos relevantes del patrimonio hacia la descripción más sistemática de los mismos y el análisis de su situación, génesis y porvenir, consolidando, de forma paralela, actitudes de sensibilidad, valoración y compromiso en relación con el mismo.
 
-Página núm. 10 
-Sevilla, 30 de agosto 2007
-en la sociedad en que vivimos. En ese sentido, la escuela debe 
-facilitar el camino hacia una sociedad más igualitaria, en la 
-que sea posible la convivencia pacífica de distintas personas 
-y culturas. De ahí la necesidad del tratamiento de este núcleo 
-temático en el currículo. 
-Contenidos y problemáticas relevantes.
-Educar en el conocimiento y respeto de los derechos fundamentales implica, entre otros aspectos, prestar atención al 
-reconocimiento de los derechos de colectivos que con anterioridad han venido sufriendo una situación de olvido o marginación, como ocurre concretamente con la situación tradicional 
-de la mujer. La educación ha de atender al respeto de las diversas opciones vitales de las personas y los grupos sociales, 
-desarrollando la sensibilidad y la actitud crítica hacia estereotipos racistas, xenófobos, machistas y homófobos, presentes 
-con demasiada frecuencia en nuestra sociedad. La existencia de estas situaciones en el propio contexto escolar (como 
-ocurre, por ejemplo, con el maltrato entre iguales) ofrece una 
-oportunidad de trabajar estos problemas integrándolos en el 
-currículo.
-Una especial importancia tiene la comprensión, el análisis 
-y el desarrollo de actitudes y valores en relación con los fenómenos de interacción de culturas diversas que se están dando 
-en nuestra comunidad, tanto por el arraigo de comunidades 
-con una fuerte tradición propia, como es el caso de la comunidad gitana, como por la presencia, más reciente, de otros 
-colectivos llegados a través de flujos migratorios. Estas realidades hacen necesario adoptar una mirada respetuosa con 
-otras culturas, sin renunciar a los valores que, en el proyecto 
-educativo, se consideren como deseables. La perspectiva de 
-interacción entre culturas puede ser utilizada también, desde 
-el punto de vista educativo, para abordar el análisis del desajuste (a veces, incluso, confrontación) existente entre diversas generaciones en nuestra propia sociedad. En todos estos 
-casos la perspectiva del debate y el diálogo constituye una 
-clave para el tratamiento de posibles conflictos y para favorecer la convivencia.
-La valoración crítica de nuestra propia cultura, el respeto 
-de otras culturas, la empatía, la sensibilidad ante las desigualdades, la capacidad de negociación, la regulación pacífica de 
-los conflictos, la actitud de colaboración y el compromiso social constituyen, junto con otros aspectos, un bagaje de contenidos indispensables para poder trabajar adecuadamente este 
-núcleo, adecuándolos, en todo caso, a las posibilidades del 
-alumnado y a los requerimientos del contexto social en el que 
-se esté desarrollando el proyecto educativo. 
-Para su tratamiento en el aula, y teniendo en cuenta una 
-perspectiva de progresión a lo largo de los tres ciclos de la 
-etapa, se pueden plantear problemas como los que se ejemplifican a continuación.
-En el primer ciclo, los problemas deben estar más contextualizados en el centro escolar y en el entorno próximo, como, 
-por ejemplo:
+4. Igualdad, convivencia e interculturalidad. Relevancia y sentido educativo. Este es un núcleo relacionado con situaciones y problemáticas de una gran diversidad y complejidad, cuyo tratamiento viene exigido por los objetivos básicos de una educación que debe favorecer la inserción de los alumnos y alumnas
+
+Página núm. 10 Sevilla, 30 de agosto 2007 en la sociedad en que vivimos. En ese sentido, la escuela debe facilitar el camino hacia una sociedad más igualitaria, en la que sea posible la convivencia pacífica de distintas personas y culturas. De ahí la necesidad del tratamiento de este núcleo temático en el currículo. Contenidos y problemáticas relevantes. Educar en el conocimiento y respeto de los derechos fundamentales implica, entre otros aspectos, prestar atención al reconocimiento de los derechos de colectivos que con anterioridad han venido sufriendo una situación de olvido o marginación, como ocurre concretamente con la situación tradicional de la mujer. La educación ha de atender al respeto de las diversas opciones vitales de las personas y los grupos sociales, desarrollando la sensibilidad y la actitud crítica hacia estereotipos racistas, xenófobos, machistas y homófobos, presentes con demasiada frecuencia en nuestra sociedad. La existencia de estas situaciones en el propio contexto escolar (como ocurre, por ejemplo, con el maltrato entre iguales) ofrece una oportunidad de trabajar estos problemas integrándolos en el currículo. Una especial importancia tiene la comprensión, el análisis y el desarrollo de actitudes y valores en relación con los fenómenos de interacción de culturas diversas que se están dando en nuestra comunidad, tanto por el arraigo de comunidades con una fuerte tradición propia, como es el caso de la comunidad gitana, como por la presencia, más reciente, de otros colectivos llegados a través de flujos migratorios. Estas realidades hacen necesario adoptar una mirada respetuosa con otras culturas, sin renunciar a los valores que, en el proyecto educativo, se consideren como deseables. La perspectiva de interacción entre culturas puede ser utilizada también, desde el punto de vista educativo, para abordar el análisis del desajuste (a veces, incluso, confrontación) existente entre diversas generaciones en nuestra propia sociedad. En todos estos casos la perspectiva del debate y el diálogo constituye una clave para el tratamiento de posibles conflictos y para favorecer la convivencia. La valoración crítica de nuestra propia cultura, el respeto de otras culturas, la empatía, la sensibilidad ante las desigualdades, la capacidad de negociación, la regulación pacífica de los conflictos, la actitud de colaboración y el compromiso social constituyen, junto con otros aspectos, un bagaje de contenidos indispensables para poder trabajar adecuadamente este núcleo, adecuándolos, en todo caso, a las posibilidades del alumnado y a los requerimientos del contexto social en el que se esté desarrollando el proyecto educativo. Para su tratamiento en el aula, y teniendo en cuenta una perspectiva de progresión a lo largo de los tres ciclos de la etapa, se pueden plantear problemas como los que se ejemplifican a continuación. En el primer ciclo, los problemas deben estar más contextualizados en el centro escolar y en el entorno próximo, como, por ejemplo:
 - ¿Qué rasgos y costumbres diferentes tenemos las personas que convivimos en nuestra clase? ¿Qué tenemos en común?
-- ¿Necesitamos tener normas para el funcionamiento de 
-nuestra vida diaria en la escuela?
-En el segundo ciclo se podrían plantear problemas como 
-los siguientes:
+- ¿Necesitamos tener normas para el funcionamiento de nuestra vida diaria en la escuela? En el segundo ciclo se podrían plantear problemas como los siguientes:
 - ¿Qué derechos y obligaciones tenemos como ciudadanos y ciudadanas de nuestro pueblo (o de nuestra ciudad)?
-- ¿Tienen los mismos derechos y obligaciones las personas de tu familia o de tu entorno?
-En el tercer ciclo se podría plantear, por ejemplo:
+- ¿Tienen los mismos derechos y obligaciones las personas de tu familia o de tu entorno? En el tercer ciclo se podría plantear, por ejemplo:
 - ¿Qué beneficios y dificultades encuentras en la convivencia entre personas de distintas culturas?
-- ¿Qué vías pacíficas conoces para resolver conflictos entre países (o entre comunidades de un mismo país)? (pueden 
-elegirse ejemplos históricos y actuales).
-Interacción con otros núcleos temáticos y de actividades.
-En este núcleo se puede hacer uso, sobre todo, de la gran 
-diversidad de contenidos recogidos en el Bloque 4 del Real 
-Decreto 1513/2006, de 7 de diciembre, (Personas, culturas y 
-organización social). Hay, asimismo, determinados contenidos 
-del Bloque 3 (La salud y el desarrollo personal), relacionados 
-con el conocimiento personal, con el mundo de los sentimientos o con la toma de decisiones, que pueden jugar un papel 
-relevante en el trabajo con los problemas propuestos. Por su 
-parte, el Bloque 5 (Cambios en el tiempo) puede proporcionar 
-contenidos para la adopción de una interesante perspectiva 
-histórica, como puede ser el caso de la larga lucha de los 
-obreros por unos derechos básicos o de las mujeres por la 
-igualdad. Esa perspectiva histórica también puede ayudar a 
-entender mejor cómo los andaluces y andaluzas, que en otros 
-momentos hemos sido emigrantes, ahora somos receptores 
-de inmigrantes, y a obrar en consecuencia. Por lo demás, pueden ponerse en juego contenidos contemplados por diversos 
-ejes transversales, como es el caso de la educación para la 
-convivencia y de la educación para la paz.
-Este núcleo temático puede relacionarse con otros del 
-área, como La construcción histórica, social y cultural de Andalucía o Salud y bienestar. Por lo demás, muchos de los problemas que se pueden formular en el marco de este núcleo 
-merecerían un tratamiento integrado en el proyecto educativo, 
-con especial atención desde la tutoría, debiendo ser asumidos, 
-lógicamente, también por el área de Educación para la ciudadanía y los derechos humanos. En todo caso, parece lógico 
-atribuir una responsabilidad especial al área de Conocimiento 
-del medio natural, social y cultural, especialmente desde la 
-perspectiva de las ciencias sociales, buscando posibles colaboraciones con otras áreas curriculares. 
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-En el desarrollo de este núcleo resulta de especial importancia plantear problemas contextualizados y que afecten 
-directamente al aula y a la comunidad en que se esté trabajando. De ahí se puede pasar a la formulación de problemas 
-que faciliten una perspectiva un poco más general sobre las 
-temáticas que se aborden, involucrando cada vez más elementos y relaciones. En este caso, y dada la naturaleza de 
-los problemas planteados, puede resultar interesante la realización de actividades con implicaciones concretas en el medio 
-(el aula, el colegio, el barrio...), por ejemplo la negociación y 
-adopción de normas, las campañas de información y concienciación, etc. Entre los recursos que pueden aportar informaciones de interés están los informes de distintas instituciones, 
-como por ejemplo el Instituto Nacional de Estadística, el Instituto de Estadística de Andalucía, la prensa local, los materiales y recursos de diversas ONG y asociaciones, etc.
-Criterios de valoración de los procesos de aprendizaje.
-La progresión a lo largo de la etapa debería llevar al 
-alumnado desde una comprensión más sencilla de elementos 
-relacionados con la convivencia hasta análisis que pusieran 
-en juego una mayor diversidad de elementos, situaciones y 
-perspectivas, dando cabida a valoraciones en las que se manifieste el respeto hacia otras culturas y hacia otras opciones 
-personales y sociales.
-5. Salud y bienestar.
-Relevancia y sentido educativo.
-La salud y el bienestar son cuestiones básicas que han de 
-ser contempladas en muy distintos ámbitos de la vida social. 
+- ¿Qué vías pacíficas conoces para resolver conflictos entre países (o entre comunidades de un mismo país)? (pueden elegirse ejemplos históricos y actuales). Interacción con otros núcleos temáticos y de actividades. En este núcleo se puede hacer uso, sobre todo, de la gran diversidad de contenidos recogidos en el Bloque 4 del Real Decreto 1513/2006, de 7 de diciembre, (Personas, culturas y organización social). Hay, asimismo, determinados contenidos del Bloque 3 (La salud y el desarrollo personal), relacionados con el conocimiento personal, con el mundo de los sentimientos o con la toma de decisiones, que pueden jugar un papel relevante en el trabajo con los problemas propuestos. Por su parte, el Bloque 5 (Cambios en el tiempo) puede proporcionar contenidos para la adopción de una interesante perspectiva histórica, como puede ser el caso de la larga lucha de los obreros por unos derechos básicos o de las mujeres por la igualdad. Esa perspectiva histórica también puede ayudar a entender mejor cómo los andaluces y andaluzas, que en otros momentos hemos sido emigrantes, ahora somos receptores de inmigrantes, y a obrar en consecuencia. Por lo demás, pueden ponerse en juego contenidos contemplados por diversos ejes transversales, como es el caso de la educación para la convivencia y de la educación para la paz. Este núcleo temático puede relacionarse con otros del área, como La construcción histórica, social y cultural de Andalucía o Salud y bienestar. Por lo demás, muchos de los problemas que se pueden formular en el marco de este núcleo merecerían un tratamiento integrado en el proyecto educativo, con especial atención desde la tutoría, debiendo ser asumidos, lógicamente, también por el área de Educación para la ciudadanía y los derechos humanos. En todo caso, parece lógico atribuir una responsabilidad especial al área de Conocimiento del medio natural, social y cultural, especialmente desde la perspectiva de las ciencias sociales, buscando posibles colaboraciones con otras áreas curriculares. Sugerencias acerca de líneas metodológicas y utilización de recursos. En el desarrollo de este núcleo resulta de especial importancia plantear problemas contextualizados y que afecten directamente al aula y a la comunidad en que se esté trabajando. De ahí se puede pasar a la formulación de problemas que faciliten una perspectiva un poco más general sobre las temáticas que se aborden, involucrando cada vez más elementos y relaciones. En este caso, y dada la naturaleza de los problemas planteados, puede resultar interesante la realización de actividades con implicaciones concretas en el medio (el aula, el colegio, el barrio...), por ejemplo la negociación y adopción de normas, las campañas de información y concienciación, etc. Entre los recursos que pueden aportar informaciones de interés están los informes de distintas instituciones, como por ejemplo el Instituto Nacional de Estadística, el Instituto de Estadística de Andalucía, la prensa local, los materiales y recursos de diversas ONG y asociaciones, etc. Criterios de valoración de los procesos de aprendizaje. La progresión a lo largo de la etapa debería llevar al alumnado desde una comprensión más sencilla de elementos relacionados con la convivencia hasta análisis que pusieran en juego una mayor diversidad de elementos, situaciones y perspectivas, dando cabida a valoraciones en las que se manifieste el respeto hacia otras culturas y hacia otras opciones personales y sociales.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 11
-La educación escolar juega un importante papel al respecto, 
-tanto por la aportación de conocimientos rigurosos sobre estas problemáticas como por el carácter de contexto socializador que juega la propia escuela. En todo caso, la colaboración 
-entre escuela y familia resulta, a este respecto, indispensable.
-La salud y el bienestar afectan, en primer lugar, al ámbito de lo personal, pero son inseparables del marco social 
-en el que se disfruta (o no) de las mismas, de forma que la 
-calidad de vida es una cuestión básicamente social que depende, en último término, del modelo de desarrollo vigente. El 
-tratamiento de estas cuestiones implica, por tanto, afrontar un 
-cierto debate acerca del sentido de lo público en relación con 
-lo privado. 
-Contenidos y problemáticas relevantes.
-La escuela debe ofrecer oportunidades de trabajar estos 
-problemas, aportando una perspectiva que vincule más claramente el conocimiento académico (frecuentemente fragmentado en distintos campos disciplinares) con el mundo del alumnado y con el contexto social, donde se dan problemas como 
-los de las dietas desequilibradas, la disminución de la actividad 
-física, los estereotipos promovidos por las modas, la proliferación de ambientes excesivamente ruidosos, las desigualdades 
-en el disfrute de los servicios públicos o el papel que se le ha 
-venido atribuyendo a la mujer como responsable de la salud 
-familiar. Por lo demás, el contexto andaluz proporciona oportunidades específicas para trabajar estos problemas. Así, puede 
-hacerse, por ejemplo, en torno a las peculiaridades climáticas, 
-las tradiciones culturales relacionadas con el desarrollo de la 
-vida social, la dieta mediterránea o el impulso a determinadas 
-líneas de investigación relacionadas con la salud.
-La propuesta de distintos problemas que vayan profundizando en la temática puede servir para organizar el desarrollo 
-de este núcleo en el aula a lo largo de toda la etapa. Así puede 
-verse en los ejemplos siguientes.
-Los problemas para trabajar en el primer ciclo podrían partir de las experiencias más directas de los niños y las niñas:
+5. Salud y bienestar. Relevancia y sentido educativo. La salud y el bienestar son cuestiones básicas que han de ser contempladas en muy distintos ámbitos de la vida social.
+
+Sevilla, 30 de agosto 2007 Página núm. 11 La educación escolar juega un importante papel al respecto, tanto por la aportación de conocimientos rigurosos sobre estas problemáticas como por el carácter de contexto socializador que juega la propia escuela. En todo caso, la colaboración entre escuela y familia resulta, a este respecto, indispensable. La salud y el bienestar afectan, en primer lugar, al ámbito de lo personal, pero son inseparables del marco social en el que se disfruta (o no) de las mismas, de forma que la calidad de vida es una cuestión básicamente social que depende, en último término, del modelo de desarrollo vigente. El tratamiento de estas cuestiones implica, por tanto, afrontar un cierto debate acerca del sentido de lo público en relación con lo privado. Contenidos y problemáticas relevantes. La escuela debe ofrecer oportunidades de trabajar estos problemas, aportando una perspectiva que vincule más claramente el conocimiento académico (frecuentemente fragmentado en distintos campos disciplinares) con el mundo del alumnado y con el contexto social, donde se dan problemas como los de las dietas desequilibradas, la disminución de la actividad física, los estereotipos promovidos por las modas, la proliferación de ambientes excesivamente ruidosos, las desigualdades en el disfrute de los servicios públicos o el papel que se le ha venido atribuyendo a la mujer como responsable de la salud familiar. Por lo demás, el contexto andaluz proporciona oportunidades específicas para trabajar estos problemas. Así, puede hacerse, por ejemplo, en torno a las peculiaridades climáticas, las tradiciones culturales relacionadas con el desarrollo de la vida social, la dieta mediterránea o el impulso a determinadas líneas de investigación relacionadas con la salud. La propuesta de distintos problemas que vayan profundizando en la temática puede servir para organizar el desarrollo de este núcleo en el aula a lo largo de toda la etapa. Así puede verse en los ejemplos siguientes. Los problemas para trabajar en el primer ciclo podrían partir de las experiencias más directas de los niños y las niñas:
 - ¿Por qué nos ponemos enfermos? ¿Qué tenemos que hacer para curarnos?
-- ¿Qué necesitamos para vivir en nuestro barrio?
-En el segundo ciclo, se podrían abordar problemas como:
+- ¿Qué necesitamos para vivir en nuestro barrio? En el segundo ciclo, se podrían abordar problemas como:
 - ¿Nuestras costumbres y tradiciones (en distintos aspectos de nuestra vida) son beneficiosas para nuestra salud?
-- ¿Qué podríamos cambiar para vivir mejor en nuestro entorno?
-En el tercer ciclo pueden plantearse problemas del tipo 
-siguiente:
-¿Cómo es el funcionamiento de nuestro sistema público 
-de salud?
-¿Todas las personas disfrutan del mismo bienestar en 
-nuestra ciudad (o en nuestro pueblo)?
-Interacción con otros núcleos temáticos y de actividades
-El tratamiento educativo de problemas relativos a la salud y al bienestar puede adoptar perspectivas y formulaciones 
-muy variadas, abarcando ámbitos tan diversos como el conocimiento del propio cuerpo, la educación afectiva y sexual o la 
-participación pública como ciudadano. Se dispone, por tanto, 
-de una gran abundancia de contenidos para trabajar esos problemas. Resaltamos, especialmente, el Bloque 3 del Real Decreto 1513/2006, de 7 de diciembre, (La salud y el desarrollo 
-personal), que constituye el conjunto de contenidos básicos 
-para este tipo de trabajo, sin olvidar que hay que manejar estos contenidos en relación con otros que nos permitan entender el marco social en el que se dan estos problemas, es decir, los del Bloque 4 (Personas, culturas y organización social). 
-De forma complementaria, algunos contenidos del Bloque 7 
-(Objetos, máquinas y tecnologías) pueden ayudar a analizar 
-las dimensiones relacionadas con el progreso y su incidencia 
-en la salud y el bienestar. Asimismo el Bloque 5 (Cambios en 
-el tiempo) puede proporcionar ejemplos históricos que permitan entender mejor las problemáticas actuales. Disponemos 
-también de informaciones de gran relevancia procedentes del 
-ámbito no escolar, que es necesario aprovechar, como es el 
-caso de las proporcionadas por instituciones relacionadas con 
-el campo de la salud. 
-Este núcleo se puede relacionar con otros núcleos del 
-área, como Igualdad, convivencia e interculturalidad, Progreso 
-tecnológico y modelos de desarrollo o El uso responsable de 
-los recursos. Por lo demás, el carácter complejo de los problemas relacionados con la salud y el bienestar obliga a recurrir 
-a la colaboración de otras áreas, como es el caso de la Educación física o la Educación para la ciudadanía y los derechos 
-humanos, sin olvidar la aportación de ejes transversales como 
-los de educación para la salud, educación del consumidor, 
-educación vial o educación ambiental. 
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-En esta temática se puede partir de núcleos de problemas cercanos al alumnado, relativos al funcionamiento de su 
-propio cuerpo, para ir progresivamente relacionando su propio 
-estado con las características del medio natural y social en el 
-que viven, avanzando, asimismo, desde lo más vivencial y relacionado con su propio entorno a lo más general y estructural. 
-Distintos organismos de la administración, especialmente 
-los relacionados con la salud, así como diversas instituciones públicas y privadas, proporcionan numerosos datos que 
-permitirán el desarrollo de diversas actividades que pueden 
-ser interesantes para el trabajo con esta temática. Concretamente, pueden utilizarse las informaciones proporcionadas 
-por los sucesivos planes andaluces de salud e incluir materiales relacionados con los problemas de alimentación (anorexia 
-y bulimia) en el tercer ciclo.
-Criterios de valoración de los procesos de aprendizaje.
-El progreso en el aprendizaje de los alumnos y alumnas a 
-lo largo de la etapa debería de seguir un camino hacia una mayor comprensión de los fenómenos relacionados con la salud y 
-el bienestar como cuestiones que, afectando a lo personal, tienen una importante dimensión social. Por tanto, las causas de 
-los problemas y las posibles soluciones hay que buscarlas, en 
-último término, en los diversos aspectos de la estructura social. Al final de la etapa, el alumnado debería haberse aproximado a esa visión más social de estos problemas, mostrando 
-sensibilidad en relación con las desigualdades en relación con 
-la calidad de vida.
-6. Progreso tecnológico y modelos de desarrollo.
-Relevancia y sentido educativo.
-El ritmo de los avances tecnológicos hace que con frecuencia se pierda de vista el sentido del progreso y el modelo 
-de desarrollo que subyace a esta dinámica. Si queremos formar ciudadanas y ciudadanos críticos, al tiempo que responsables y comprometidos con su comunidad, la educación debe 
-ayudar a que los alumnos y alumnas reconozcan, analicen y 
-contrasten, dentro de su contexto, distintos modelos de desarrollo, así como sus posibilidades y limitaciones para contribuir 
-a un futuro más sostenible para la humanidad. 
-Contenidos y problemáticas relevantes.
-La Comunidad andaluza está sufriendo una acelerada 
-transición desde situaciones profundamente tradicionales en 
-ciertos ámbitos a posiciones de desarrollo avanzado en otros. 
-Así, los alumnos y alumnas están viviendo a diario estas experiencias en su contexto social, experiencias que deben ser 
-reflexionadas y profundizadas en el ámbito educativo. 
+- ¿Qué podríamos cambiar para vivir mejor en nuestro entorno? En el tercer ciclo pueden plantearse problemas del tipo siguiente:
+¿Cómo es el funcionamiento de nuestro sistema público de salud? ¿Todas las personas disfrutan del mismo bienestar en nuestra ciudad (o en nuestro pueblo)? Interacción con otros núcleos temáticos y de actividades El tratamiento educativo de problemas relativos a la salud y al bienestar puede adoptar perspectivas y formulaciones muy variadas, abarcando ámbitos tan diversos como el conocimiento del propio cuerpo, la educación afectiva y sexual o la participación pública como ciudadano. Se dispone, por tanto, de una gran abundancia de contenidos para trabajar esos problemas. Resaltamos, especialmente, el Bloque 3 del Real Decreto 1513/2006, de 7 de diciembre, (La salud y el desarrollo personal), que constituye el conjunto de contenidos básicos para este tipo de trabajo, sin olvidar que hay que manejar estos contenidos en relación con otros que nos permitan entender el marco social en el que se dan estos problemas, es decir, los del Bloque 4 (Personas, culturas y organización social). De forma complementaria, algunos contenidos del Bloque 7 (Objetos, máquinas y tecnologías) pueden ayudar a analizar las dimensiones relacionadas con el progreso y su incidencia en la salud y el bienestar. Asimismo el Bloque 5 (Cambios en el tiempo) puede proporcionar ejemplos históricos que permitan entender mejor las problemáticas actuales. Disponemos también de informaciones de gran relevancia procedentes del ámbito no escolar, que es necesario aprovechar, como es el caso de las proporcionadas por instituciones relacionadas con el campo de la salud. Este núcleo se puede relacionar con otros núcleos del área, como Igualdad, convivencia e interculturalidad, Progreso tecnológico y modelos de desarrollo o El uso responsable de los recursos. Por lo demás, el carácter complejo de los problemas relacionados con la salud y el bienestar obliga a recurrir a la colaboración de otras áreas, como es el caso de la Educación física o la Educación para la ciudadanía y los derechos humanos, sin olvidar la aportación de ejes transversales como los de educación para la salud, educación del consumidor, educación vial o educación ambiental. Sugerencias acerca de líneas metodológicas y utilización de recursos. En esta temática se puede partir de núcleos de problemas cercanos al alumnado, relativos al funcionamiento de su propio cuerpo, para ir progresivamente relacionando su propio estado con las características del medio natural y social en el que viven, avanzando, asimismo, desde lo más vivencial y relacionado con su propio entorno a lo más general y estructural. Distintos organismos de la administración, especialmente los relacionados con la salud, así como diversas instituciones públicas y privadas, proporcionan numerosos datos que permitirán el desarrollo de diversas actividades que pueden ser interesantes para el trabajo con esta temática. Concretamente, pueden utilizarse las informaciones proporcionadas por los sucesivos planes andaluces de salud e incluir materiales relacionados con los problemas de alimentación (anorexia y bulimia) en el tercer ciclo. Criterios de valoración de los procesos de aprendizaje. El progreso en el aprendizaje de los alumnos y alumnas a lo largo de la etapa debería de seguir un camino hacia una mayor comprensión de los fenómenos relacionados con la salud y el bienestar como cuestiones que, afectando a lo personal, tienen una importante dimensión social. Por tanto, las causas de los problemas y las posibles soluciones hay que buscarlas, en último término, en los diversos aspectos de la estructura social. Al final de la etapa, el alumnado debería haberse aproximado a esa visión más social de estos problemas, mostrando sensibilidad en relación con las desigualdades en relación con la calidad de vida.
 
-Página núm. 12 
-Sevilla, 30 de agosto 2007
-Este núcleo temático se refiere, por tanto, a cuestiones 
-de una clara dimensión global, pero que se manifiestan en el 
-entorno de los alumnos y alumnas, quienes ya desde la etapa 
-de educación primaria pueden realizar una aproximación a las 
-mismas. De ahí la necesidad de trabajar especialmente la sensibilidad, el sentido crítico en el análisis y el compromiso en 
-relación con la búsqueda de las mejores alternativas a cómo 
-progresar y desarrollarnos. En este núcleo se muestra aún 
-con más claridad que en otros la urgencia de que la educación escolar dirija su mirada al futuro y no se conforme con la 
-mera aportación de conocimientos limitados al presente o al 
-pasado.
-Ya desde el primer ciclo se podría hacer una cierta aproximación a los aspectos mencionados trabajando problemas 
-relativos a las experiencias del alumnado relacionadas con las 
-costumbres y formas de vida habituales, estrechamente ligadas al progreso tecnológico. Así se podrían trabajar problemas 
-como:
-- ¿Qué tipo de máquinas y aparatos utilizamos en nuestra 
-vida diaria? ¿Cómo son? ¿Desde cuándo existen?
-- ¿Cómo se desarrollaría nuestra vida si no dispusiéramos 
-de los avances tecnológicos a los que estamos acostumbrados?
-En el segundo ciclo se pueden proponer problemas que 
-permitan desarrollar análisis más sistemáticos, como por 
-ejemplo:
-- ¿Cómo era la vida cotidiana en otras épocas? (se pueden 
-elegir ejemplos adecuados).
-- ¿Cómo es la vida cotidiana en otros sitios del mundo con 
-un desarrollo diferente del nuestro? (se pueden elegir ejemplos 
-de contraste).
-En el tercer ciclo se podrían manejar perspectivas más 
-globales y que impliquen ya un compromiso del alumnado 
-como ciudadanos y ciudadanas responsables, trabajando problemas como los siguientes:
-- ¿Qué tipos de cambios importantes han transformado la 
-vida en Andalucía en el último siglo? ¿Qué valoración podemos 
-hacer de esos cambios de cara al futuro?
-- ¿Por qué no se han dado los mismos avances tecnológicos en diversos sitios del mundo?
-Interacción con otros núcleos temáticos y de actividades.
-En primera instancia, los contenidos del Bloque 7 del 
-Real Decreto 1513/2006, de 7 de diciembre (Objetos, máquinas y tecnologías), con cierto apoyo en contenidos del Bloque 
-6 (Materia y energía), constituyen una base importante para el 
-trabajo en torno a los problemas propuestos, pero se requiere, 
-como en otros casos, la aportación de contenidos relativos al 
-marco social en el que se produce el fenómeno del progreso 
-tecnológico y en el que se plasma el modelo de desarrollo vigente; por tanto, es indispensables el manejo de los contenidos recogidos en el Bloque 4 (Personas, culturas y organización social). Tratándose, especialmente en este núcleo, de 
-análisis de procesos de largo recorrido, resulta indispensable 
-la concurrencia de la perspectiva histórica, por lo que el Bloque 5 (Cambios en el tiempo) puede ofrecer aportaciones de 
-interés. De forma más indirecta, el análisis de las implicaciones del modelo de desarrollo dominante puede requerir el uso 
-de contenidos del Bloque 1 (El entorno y su conservación) y 
-del Bloque 2 (La diversidad de los seres vivos).
-Este núcleo temático se halla más estrechamente relacionado con otros del área como Salud y bienestar, El uso responsable de los recursos y La incidencia de la actividad humana 
-en el medio. El trabajo con esta problemática requiere, lógicamente, la adopción de una perspectiva de educación para 
-la sostenibilidad, resultando indispensable la colaboración del 
-área de Conocimiento del medio natural, social y cultural con 
-otras áreas, especialmente con la de Educación para la ciudadanía y los derechos humanos. Asimismo, en determinados 
-aspectos del tratamiento de este tipo de problemas puede 
-colaborar también el área de Matemáticas. Por lo demás, no 
-hay que perder de vista que la vida diaria del centro escolar 
-proporciona múltiples oportunidades para trabajar este tipo 
-de problemas, existiendo en Andalucía programas, como el de 
-Ecoescuelas (integrado en Aldea) que permiten potenciar y dar 
-un sentido más global a este trabajo.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-El planteamiento de problemas vinculados a la experiencia directa con ejemplos de desarrollo tecnológico tiene que 
-ser la base para planteamientos, posteriores, más reflexivos 
-y con una escala espacial y temporal progresivamente mayor. 
-Resulta indispensable, a este respecto, el trabajo sobre situaciones bien conocidas, que permitan incluso el contacto físico 
-directo. El uso de las tecnologías de la información y la comunicación con las que el alumnado está familiarizado debe ser, 
-a este respecto, un recurso habitual. Estos análisis deben contrastarse con el de otras situaciones (distantes en el tiempo o 
-en cuanto al marco cultural), que pueden conocerse a través 
-de documentos escritos, de narraciones orales, de documentales, etc. El debate se presenta, pues, como una actividad 
-muy adecuada para someter a crítica las visiones propias y 
-para elaborar nuevas conclusiones. Por otra parte el uso del 
-taller y/o laboratorio y la visita a Museos de Ciencias de nuestra Comunidad Autónoma pueden permitir la aproximación a 
-determinados procesos vinculados al desarrollo tecnológico y 
-al uso de distintas energías.
-Criterios de valoración de los procesos de aprendizaje.
-Aunque las metas educativas relacionadas con estos 
-problemas son complejas y sólo se pueden conseguir a largo 
-plazo, durante la etapa de educación primaria el alumnado 
-puede ir progresando desde aprendizajes más centrados en 
-la descripción y análisis de aspectos diversos del desarrollo 
-técnico y económico hasta análisis más complejos y de mayor 
-escala que se aproximen a la idea de modelo de desarrollo 
-con cierta perspectiva crítica y con una escala que supere la 
-mirada local.
-7. El uso responsable de los recursos.
-Relevancia y sentido educativo.
-En la etapa de educación primaria la escuela debe educar 
-para utilizar de forma responsable los recursos de que disponemos las comunidades humanas. Esta finalidad educativa 
-se enmarcaría en una perspectiva más general de educación 
-ambiental que debe impregnar cualquier proyecto educativo y 
-que resulta esencial para contribuir a un futuro sostenible.
-Cuando el currículo escolar tradicional se ha ocupado de 
-la problemática del agotamiento de los recursos, generalmente 
-lo ha hecho desde una perspectiva excesivamente compartimentada y centrada, en todo caso, en un análisis geográfico 
-y económico tradicional, sin otorgar suficiente relevancia a la 
-incidencia de la acción humana con perspectiva de futuro y, 
-por tanto, sin cuestionar un modelo de desarrollo que está 
-provocando ya consecuencias muy graves. Habría que educar, 
-pues, no sólo para el análisis de estos problemas sino, sobre 
-todo, para la concienciación y el cambio de comportamientos, 
-en orden a hacer posible un futuro sostenible para la humanidad y una distribución más justa de los recursos del planeta. 
-Contenidos y problemáticas relevantes.
-El trabajo en este núcleo temático se puede concretar 
-en relación a diversos recursos. Uno de los recursos básicos 
-para Andalucía es el agua, un bien escaso y valioso, con distribución desigual dentro de nuestro territorio y sometido a 
-los vaivenes de las dinámicas económicas desarrollistas de 
+6. Progreso tecnológico y modelos de desarrollo. Relevancia y sentido educativo. El ritmo de los avances tecnológicos hace que con frecuencia se pierda de vista el sentido del progreso y el modelo de desarrollo que subyace a esta dinámica. Si queremos formar ciudadanas y ciudadanos críticos, al tiempo que responsables y comprometidos con su comunidad, la educación debe ayudar a que los alumnos y alumnas reconozcan, analicen y contrasten, dentro de su contexto, distintos modelos de desarrollo, así como sus posibilidades y limitaciones para contribuir a un futuro más sostenible para la humanidad. Contenidos y problemáticas relevantes. La Comunidad andaluza está sufriendo una acelerada transición desde situaciones profundamente tradicionales en ciertos ámbitos a posiciones de desarrollo avanzado en otros. Así, los alumnos y alumnas están viviendo a diario estas experiencias en su contexto social, experiencias que deben ser reflexionadas y profundizadas en el ámbito educativo.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 13
-las últimas décadas. En ese sentido, la expansión de nuevos 
-modelos agrícolas intensivos, la expansión acelerada de la 
-urbanización y el aumento del turismo constituyen factores 
-que están incidiendo de una forma determinante sobre este 
-recurso. Ello, entre otras razones, hace recomendable orientar 
-el trabajo utilizando como caso paradigmático el agua.
-Igualmente se podría trabajar sobre el agotamiento de 
-los recursos energéticos en los que se basa el funcionamiento 
-habitual de nuestra vida cotidiana; una cuestión, por cierto, 
-que afecta no sólo a los transportes o al uso doméstico, sino, 
-sobre todo a la producción de alimentos (basada en un porcentaje enorme en el uso de energía derivada, directa o indirectamente, del petróleo). Ello hace inaplazable el tratamiento 
-de esta problemática, existiendo, además, en Andalucía, ejemplos para trabajar sobre la validez de posibles alternativas 
-energéticas (centrales solares de Almería, Sanlúcar la Mayor, 
-parques eólicos, utilización de determinadas producciones vegetales para obtener biocombustibles, etc.).
-Por lo demás, la Estrategia Andaluza de Educación Ambiental ha realizado diversas recomendaciones en relación 
-con la educación escolar relativa al uso de los recursos. Y 
-ello es realizable ya desde la educación primaria, al menos 
-en aquellos aspectos más vinculados con la vida de los escolares, como es el caso del uso doméstico del agua o del uso 
-de los transportes colectivos. Concretamente, los transportes 
-alternativos al vehículo privado se presentan como una medida necesaria en nuestro mundo y perfectamente aplicable 
-en nuestra Comunidad Autónoma, pudiéndose conectar este 
-enfoque con la sensibilización en relación con los accidentes 
-de circulación y otros objetivos de la educación vial.
-Dado que los niños y niñas tienen abundantes experiencias de uso de los recursos en su vida cotidiana, puede plantearse ya desde el primer ciclo, el desarrollo de este núcleo en 
-relación con problemas como los siguientes:
-- ¿Cuánta agua utilizamos en nuestra casa? ¿De dónde 
-viene el agua que consumimos?
-- ¿Qué medios de transporte utilizamos para movernos en 
-la ciudad? ¿Cómo y dónde se puede utilizar la bicicleta?
-En el segundo ciclo, se podrían plantear:
-- ¿Se puede agotar el agua que llega a nuestra ciudad? 
-¿Cómo podríamos ahorrar agua?
+Página núm. 12 Sevilla, 30 de agosto 2007 Este núcleo temático se refiere, por tanto, a cuestiones de una clara dimensión global, pero que se manifiestan en el entorno de los alumnos y alumnas, quienes ya desde la etapa de educación primaria pueden realizar una aproximación a las mismas. De ahí la necesidad de trabajar especialmente la sensibilidad, el sentido crítico en el análisis y el compromiso en relación con la búsqueda de las mejores alternativas a cómo progresar y desarrollarnos. En este núcleo se muestra aún con más claridad que en otros la urgencia de que la educación escolar dirija su mirada al futuro y no se conforme con la mera aportación de conocimientos limitados al presente o al pasado. Ya desde el primer ciclo se podría hacer una cierta aproximación a los aspectos mencionados trabajando problemas relativos a las experiencias del alumnado relacionadas con las costumbres y formas de vida habituales, estrechamente ligadas al progreso tecnológico. Así se podrían trabajar problemas como:
+- ¿Qué tipo de máquinas y aparatos utilizamos en nuestra vida diaria? ¿Cómo son? ¿Desde cuándo existen?
+- ¿Cómo se desarrollaría nuestra vida si no dispusiéramos de los avances tecnológicos a los que estamos acostumbrados? En el segundo ciclo se pueden proponer problemas que permitan desarrollar análisis más sistemáticos, como por ejemplo:
+- ¿Cómo era la vida cotidiana en otras épocas? (se pueden elegir ejemplos adecuados).
+- ¿Cómo es la vida cotidiana en otros sitios del mundo con un desarrollo diferente del nuestro? (se pueden elegir ejemplos de contraste). En el tercer ciclo se podrían manejar perspectivas más globales y que impliquen ya un compromiso del alumnado como ciudadanos y ciudadanas responsables, trabajando problemas como los siguientes:
+- ¿Qué tipos de cambios importantes han transformado la vida en Andalucía en el último siglo? ¿Qué valoración podemos hacer de esos cambios de cara al futuro?
+- ¿Por qué no se han dado los mismos avances tecnológicos en diversos sitios del mundo? Interacción con otros núcleos temáticos y de actividades. En primera instancia, los contenidos del Bloque 7 del Real Decreto 1513/2006, de 7 de diciembre (Objetos, máquinas y tecnologías), con cierto apoyo en contenidos del Bloque 6 (Materia y energía), constituyen una base importante para el trabajo en torno a los problemas propuestos, pero se requiere, como en otros casos, la aportación de contenidos relativos al marco social en el que se produce el fenómeno del progreso tecnológico y en el que se plasma el modelo de desarrollo vigente; por tanto, es indispensables el manejo de los contenidos recogidos en el Bloque 4 (Personas, culturas y organización social). Tratándose, especialmente en este núcleo, de análisis de procesos de largo recorrido, resulta indispensable la concurrencia de la perspectiva histórica, por lo que el Bloque 5 (Cambios en el tiempo) puede ofrecer aportaciones de interés. De forma más indirecta, el análisis de las implicaciones del modelo de desarrollo dominante puede requerir el uso de contenidos del Bloque 1 (El entorno y su conservación) y del Bloque 2 (La diversidad de los seres vivos). Este núcleo temático se halla más estrechamente relacionado con otros del área como Salud y bienestar, El uso responsable de los recursos y La incidencia de la actividad humana en el medio. El trabajo con esta problemática requiere, lógicamente, la adopción de una perspectiva de educación para la sostenibilidad, resultando indispensable la colaboración del área de Conocimiento del medio natural, social y cultural con otras áreas, especialmente con la de Educación para la ciudadanía y los derechos humanos. Asimismo, en determinados aspectos del tratamiento de este tipo de problemas puede colaborar también el área de Matemáticas. Por lo demás, no hay que perder de vista que la vida diaria del centro escolar proporciona múltiples oportunidades para trabajar este tipo de problemas, existiendo en Andalucía programas, como el de Ecoescuelas (integrado en Aldea) que permiten potenciar y dar un sentido más global a este trabajo. Sugerencias acerca de líneas metodológicas y utilización de recursos. El planteamiento de problemas vinculados a la experiencia directa con ejemplos de desarrollo tecnológico tiene que ser la base para planteamientos, posteriores, más reflexivos y con una escala espacial y temporal progresivamente mayor. Resulta indispensable, a este respecto, el trabajo sobre situaciones bien conocidas, que permitan incluso el contacto físico directo. El uso de las tecnologías de la información y la comunicación con las que el alumnado está familiarizado debe ser, a este respecto, un recurso habitual. Estos análisis deben contrastarse con el de otras situaciones (distantes en el tiempo o en cuanto al marco cultural), que pueden conocerse a través de documentos escritos, de narraciones orales, de documentales, etc. El debate se presenta, pues, como una actividad muy adecuada para someter a crítica las visiones propias y para elaborar nuevas conclusiones. Por otra parte el uso del taller y/o laboratorio y la visita a Museos de Ciencias de nuestra Comunidad Autónoma pueden permitir la aproximación a determinados procesos vinculados al desarrollo tecnológico y al uso de distintas energías. Criterios de valoración de los procesos de aprendizaje. Aunque las metas educativas relacionadas con estos problemas son complejas y sólo se pueden conseguir a largo plazo, durante la etapa de educación primaria el alumnado puede ir progresando desde aprendizajes más centrados en la descripción y análisis de aspectos diversos del desarrollo técnico y económico hasta análisis más complejos y de mayor escala que se aproximen a la idea de modelo de desarrollo con cierta perspectiva crítica y con una escala que supere la mirada local.
+
+7. El uso responsable de los recursos. Relevancia y sentido educativo. En la etapa de educación primaria la escuela debe educar para utilizar de forma responsable los recursos de que disponemos las comunidades humanas. Esta finalidad educativa se enmarcaría en una perspectiva más general de educación ambiental que debe impregnar cualquier proyecto educativo y que resulta esencial para contribuir a un futuro sostenible. Cuando el currículo escolar tradicional se ha ocupado de la problemática del agotamiento de los recursos, generalmente lo ha hecho desde una perspectiva excesivamente compartimentada y centrada, en todo caso, en un análisis geográfico y económico tradicional, sin otorgar suficiente relevancia a la incidencia de la acción humana con perspectiva de futuro y, por tanto, sin cuestionar un modelo de desarrollo que está provocando ya consecuencias muy graves. Habría que educar, pues, no sólo para el análisis de estos problemas sino, sobre todo, para la concienciación y el cambio de comportamientos, en orden a hacer posible un futuro sostenible para la humanidad y una distribución más justa de los recursos del planeta. Contenidos y problemáticas relevantes. El trabajo en este núcleo temático se puede concretar en relación a diversos recursos. Uno de los recursos básicos para Andalucía es el agua, un bien escaso y valioso, con distribución desigual dentro de nuestro territorio y sometido a los vaivenes de las dinámicas económicas desarrollistas de
+
+Sevilla, 30 de agosto 2007 Página núm. 13 las últimas décadas. En ese sentido, la expansión de nuevos modelos agrícolas intensivos, la expansión acelerada de la urbanización y el aumento del turismo constituyen factores que están incidiendo de una forma determinante sobre este recurso. Ello, entre otras razones, hace recomendable orientar el trabajo utilizando como caso paradigmático el agua. Igualmente se podría trabajar sobre el agotamiento de los recursos energéticos en los que se basa el funcionamiento habitual de nuestra vida cotidiana; una cuestión, por cierto, que afecta no sólo a los transportes o al uso doméstico, sino, sobre todo a la producción de alimentos (basada en un porcentaje enorme en el uso de energía derivada, directa o indirectamente, del petróleo). Ello hace inaplazable el tratamiento de esta problemática, existiendo, además, en Andalucía, ejemplos para trabajar sobre la validez de posibles alternativas energéticas (centrales solares de Almería, Sanlúcar la Mayor, parques eólicos, utilización de determinadas producciones vegetales para obtener biocombustibles, etc.). Por lo demás, la Estrategia Andaluza de Educación Ambiental ha realizado diversas recomendaciones en relación con la educación escolar relativa al uso de los recursos. Y ello es realizable ya desde la educación primaria, al menos en aquellos aspectos más vinculados con la vida de los escolares, como es el caso del uso doméstico del agua o del uso de los transportes colectivos. Concretamente, los transportes alternativos al vehículo privado se presentan como una medida necesaria en nuestro mundo y perfectamente aplicable en nuestra Comunidad Autónoma, pudiéndose conectar este enfoque con la sensibilización en relación con los accidentes de circulación y otros objetivos de la educación vial. Dado que los niños y niñas tienen abundantes experiencias de uso de los recursos en su vida cotidiana, puede plantearse ya desde el primer ciclo, el desarrollo de este núcleo en relación con problemas como los siguientes:
+- ¿Cuánta agua utilizamos en nuestra casa? ¿De dónde viene el agua que consumimos?
+- ¿Qué medios de transporte utilizamos para movernos en la ciudad? ¿Cómo y dónde se puede utilizar la bicicleta? En el segundo ciclo, se podrían plantear:
+- ¿Se puede agotar el agua que llega a nuestra ciudad? ¿Cómo podríamos ahorrar agua?
 - ¿Podríamos ahorrar también en el consumo de otros productos?
-- ¿Deberíamos utilizar más los autobuses y los trenes? 
-¿Cómo hay que organizar la ciudad para que funcionen bien 
-los transportes colectivos?
-En el tercer ciclo se pueden realizar aproximaciones a 
-análisis más amplios y valorativos, como:
+- ¿Deberíamos utilizar más los autobuses y los trenes? ¿Cómo hay que organizar la ciudad para que funcionen bien los transportes colectivos? En el tercer ciclo se pueden realizar aproximaciones a análisis más amplios y valorativos, como:
 - ¿Puede llegar a haber guerras por controlar algunos recursos básicos para la Humanidad (como el agua, el petróleo...)?
-- ¿Si empezara a faltar el petróleo, qué cambios importantes podría haber en nuestra vida cotidiana? ¿Cómo podríamos 
-afrontar dichos cambios?
-Interacción con otros núcleos temáticos y de actividades.
-Los problemas relativos al uso responsable de los recursos deberían trabajarse combinando adecuadamente contenidos del Bloque 1 del Real Decreto 1513/2006, de 7 de diciembre (El entorno y su conservación) y del Bloque 4 (Personas, 
-culturas y organización social), con el apoyo indispensable de 
-otros contenidos de los Bloques 6 (Materia y energía) y 7 (Objetos, máquinas y tecnología), otorgando, en todo caso, una 
-importante presencia a la educación ambiental. Como en 
-otros problemas, se puede recurrir a contenidos del Bloque 
-5 (Cambios en el tiempo), así como a ejemplos de otras situaciones actuales en el mundo, para rescatar ejemplos que permitan entender la problemática desde una perspectiva más 
-compleja y crítica.
-Las temáticas de este núcleo guardan estrecha relación 
-con las de otros núcleos del área, como Salud y bienestar, 
-Progreso tecnológico y modelos de desarrollo y La incidencia 
-de la actividad humana en el medio. El enfoque de educación 
-para la sostenibilidad que debe orientar el tratamiento de esta 
-problemática resulta perfectamente compatible con las características del área de Conocimiento del medio natural, social 
-y cultural. En todo caso, se puede incorporar la perspectiva 
-de educación para el consumo y establecer vinculaciones, 
-asimismo, con el área de Educación para la ciudadanía y los 
-derechos humanos.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-El desarrollo de este núcleo se realizará preferentemente 
-en torno a la resolución de problemas como los ya mencionados. Su selección, formulación y tratamiento debe establecerse de forma progresiva. Se puede partir, como se ha sugerido, del análisis de uno de los recursos más relevantes en 
-nuestra Comunidad Autónoma y más significativos para esta 
-etapa, como es el agua, pero debe abordarse también el análisis del uso de otros recursos que nos afectan especialmente 
-(por ejemplo, algunas de las fuentes energéticas), tendiendo a 
-establecer comparaciones y ciertas generalizaciones. 
-Entre los recursos didácticos cabe destacar, por la naturaleza de los problemas planteados, el uso de actividades experimentales, así como las visitas a algunas instalaciones apropiadas (potabilizadoras, centrales eléctricas de diverso tipo...). 
-Además, los datos proporcionados por algunos organismos 
-de la administración (como, por ejemplo, la Agencia Andaluza 
-del Agua o la Agencia Andaluza de la Energía), por diversas 
-entidades (como la Fundación Nueva Cultura del Agua), y los 
-materiales producidos por equipamientos ambientales y algunos documentos de divulgación constituyen una buena base 
-de informaciones y actividades para trabajar estos problemas 
-en nuestros centros educativos. 
-Criterios de valoración de los procesos de aprendizaje.
-El progreso del aprendizaje de los alumnos y alumnas en 
-relación con el uso de los recursos debería manifestarse en la 
-capacidad de realizar análisis que superen la mera descripción 
-de situaciones y aborden las causas y las consecuencias de dicho uso, fortaleciendo comportamientos de progresiva responsabilidad como ciudadanos y ciudadanas, en el marco de una 
-cierta aproximación al análisis crítico del modelo de desarrollo 
-vigente, que favorece los comportamientos consumistas. 
-8. La incidencia de la actividad humana en el medio.
-Relevancia y sentido educativo.
-La acción humana en el medio da lugar a una amplia variedad de interacciones cuyo análisis y valoración es de gran 
-interés educativo, como se ha visto al tratar los núcleos temáticos relativos al modelo de desarrollo o al uso de los recursos. Este núcleo es, por tanto, de gran relevancia para que los 
-alumnos y alumnas desarrollen una perspectiva global y crítica 
-sobre dichas interacciones. Su tratamiento se puede realizar 
-de forma global o situando los análisis en distintos sectores en 
-los que se desarrolla la actividad humana.
-Contenidos y problemáticas relevantes.
-Si se atiende a diferentes aspectos de la actividad de las 
-comunidades humanas, se puede analizar y valorar con más 
-precisión la incidencia de dicha actividad en el medio. Así, se 
-puede hacer, para el caso de Andalucía, con diversos ámbitos 
-de la actividad humana, susceptibles de ser trabajados como 
-problemáticas en el currículo escolar, como ocurre con la 
-transformación del medio rural andaluz, con los cambios pro-
+- ¿Si empezara a faltar el petróleo, qué cambios importantes podría haber en nuestra vida cotidiana? ¿Cómo podríamos afrontar dichos cambios? Interacción con otros núcleos temáticos y de actividades. Los problemas relativos al uso responsable de los recursos deberían trabajarse combinando adecuadamente contenidos del Bloque 1 del Real Decreto 1513/2006, de 7 de diciembre (El entorno y su conservación) y del Bloque 4 (Personas, culturas y organización social), con el apoyo indispensable de otros contenidos de los Bloques 6 (Materia y energía) y 7 (Objetos, máquinas y tecnología), otorgando, en todo caso, una importante presencia a la educación ambiental. Como en otros problemas, se puede recurrir a contenidos del Bloque 5 (Cambios en el tiempo), así como a ejemplos de otras situaciones actuales en el mundo, para rescatar ejemplos que permitan entender la problemática desde una perspectiva más compleja y crítica. Las temáticas de este núcleo guardan estrecha relación con las de otros núcleos del área, como Salud y bienestar, Progreso tecnológico y modelos de desarrollo y La incidencia de la actividad humana en el medio. El enfoque de educación para la sostenibilidad que debe orientar el tratamiento de esta problemática resulta perfectamente compatible con las características del área de Conocimiento del medio natural, social y cultural. En todo caso, se puede incorporar la perspectiva de educación para el consumo y establecer vinculaciones, asimismo, con el área de Educación para la ciudadanía y los derechos humanos. Sugerencias acerca de líneas metodológicas y utilización de recursos. El desarrollo de este núcleo se realizará preferentemente en torno a la resolución de problemas como los ya mencionados. Su selección, formulación y tratamiento debe establecerse de forma progresiva. Se puede partir, como se ha sugerido, del análisis de uno de los recursos más relevantes en nuestra Comunidad Autónoma y más significativos para esta etapa, como es el agua, pero debe abordarse también el análisis del uso de otros recursos que nos afectan especialmente (por ejemplo, algunas de las fuentes energéticas), tendiendo a establecer comparaciones y ciertas generalizaciones. Entre los recursos didácticos cabe destacar, por la naturaleza de los problemas planteados, el uso de actividades experimentales, así como las visitas a algunas instalaciones apropiadas (potabilizadoras, centrales eléctricas de diverso tipo...). Además, los datos proporcionados por algunos organismos de la administración (como, por ejemplo, la Agencia Andaluza del Agua o la Agencia Andaluza de la Energía), por diversas entidades (como la Fundación Nueva Cultura del Agua), y los materiales producidos por equipamientos ambientales y algunos documentos de divulgación constituyen una buena base de informaciones y actividades para trabajar estos problemas en nuestros centros educativos. Criterios de valoración de los procesos de aprendizaje. El progreso del aprendizaje de los alumnos y alumnas en relación con el uso de los recursos debería manifestarse en la capacidad de realizar análisis que superen la mera descripción de situaciones y aborden las causas y las consecuencias de dicho uso, fortaleciendo comportamientos de progresiva responsabilidad como ciudadanos y ciudadanas, en el marco de una cierta aproximación al análisis crítico del modelo de desarrollo vigente, que favorece los comportamientos consumistas.
 
-Página núm. 14 
-Sevilla, 30 de agosto 2007
-fundos de la actividad industrial, con la expansión de la urbanización o con las diversas posibilidades del turismo y del ocio.
-En relación, concretamente, con la problemática de la tradición y modernización en el medio rural andaluz, se puede 
-partir del hecho de que Andalucía sigue siendo una comunidad en la que lo rural tiene una gran importancia; pero el 
-mundo rural andaluz ha sufrido profundas modificaciones, 
-que han transformado el paisaje y, sobre todo los modos de 
-vida, que se han hecho cada vez más semejantes a los urbanos. Estos cambios están provocando situaciones que deben 
-ser conocidos y trabajados desde la educación, con especial 
-atención al entorno en el que se encuentren los centros escolares. Así, pueden ser objeto de estudio las tradiciones rurales 
-y su progresiva desaparición, los problemas de deforestación y 
-desertización del territorio, la expansión de modelos agrícolas 
-intensivos con fuertes requerimientos de agua y de recursos 
-energéticos...
-Para el desarrollo de estos aspectos, dentro del núcleo temático, en el primer ciclo se podrían trabajar problemas como 
-las siguientes:
-- ¿Cómo se vive en un pequeño pueblo andaluz? (se pueden elegir diversos ejemplos). 
-- ¿En qué se diferencia la vida en el pueblo de la vida en 
-una ciudad grande?
-- ¿En qué consiste el trabajo de quienes se dedican a la 
-agricultura en Andalucía? (se pueden elegir diversos ejemplos).
-En el segundo ciclo se puede diversificar el análisis con 
-cuestiones como las siguientes:
-- ¿Cómo se vivía en los pueblos andaluces en la primera 
-mitad del siglo XX?
-- ¿Qué productos de la agricultura andaluza consumimos 
-en nuestras casas? ¿Cómo llegan hasta nosotros desde el 
-campo?
-En el tercer ciclo, desde una perspectiva más compleja, 
-se puede plantear, por ejemplo:
-- ¿En qué consiste la moderna agricultura andaluza de 
-regadío? (se pueden elegir diversos casos). ¿Qué ventajas e 
-inconvenientes puede tener?
-- ¿Por qué se producen incendios en nuestros bosques? 
-¿Qué podríamos hacer para evitarlos?
-- ¿Qué costumbres y tradiciones de nuestros pueblos están 
-desapareciendo? ¿Qué podríamos hacer para conservarlas?
-Respecto a la problemática de la industrialización en Andalucía, conviene recordar que históricamente ha sido ésta 
-una de las cuestiones pendientes en el desarrollo andaluz. 
-Pese a algunas iniciativas tempranas, nunca ha llegado a desarrollarse un tejido industrial extenso y estable en nuestra 
-Comunidad Autónoma. En las últimas décadas, la situación de 
-la industria andaluza está mostrando, junto a determinadas 
-iniciativas innovadoras, las sombras de la lógica de la globalización, con los problemas a ella asociados, como reconversiones, deslocalizaciones, etc. De ahí el interés de aproximar al 
-alumnado al conocimiento del funcionamiento de la industria 
-en Andalucía, a través de manifestaciones de diverso tipo y a 
-distintas escalas.
-En relación con esta problemática, en el primer ciclo se 
-podrían trabajar cuestiones como las siguientes:
-- ¿Cómo funciona una fábrica? (se pueden elegir diversos 
-ejemplos sencillos).
-- ¿En qué consiste el trabajo de los obreros y obreras de 
-una industria? (se pueden elegir ejemplos diversos).
-En el segundo ciclo se puede orientar el análisis hacia 
-cuestiones como las siguientes:
-- ¿Dónde y cómo se fabrican determinados productos que 
-utilizamos en nuestra vida diaria? ¿Cómo llegan hasta nosotros?
-- ¿Cómo ha cambiado la industria a lo largo del siglo XX? 
-(elegir algunos ejemplos concretos para el análisis).
-En el tercer ciclo se puede plantear, por ejemplo:
-- ¿Qué tipos de industrias existen en Andalucía? (se pueden elegir diversos casos). 
+8. La incidencia de la actividad humana en el medio. Relevancia y sentido educativo. La acción humana en el medio da lugar a una amplia variedad de interacciones cuyo análisis y valoración es de gran interés educativo, como se ha visto al tratar los núcleos temáticos relativos al modelo de desarrollo o al uso de los recursos. Este núcleo es, por tanto, de gran relevancia para que los alumnos y alumnas desarrollen una perspectiva global y crítica sobre dichas interacciones. Su tratamiento se puede realizar de forma global o situando los análisis en distintos sectores en los que se desarrolla la actividad humana. Contenidos y problemáticas relevantes. Si se atiende a diferentes aspectos de la actividad de las comunidades humanas, se puede analizar y valorar con más precisión la incidencia de dicha actividad en el medio. Así, se puede hacer, para el caso de Andalucía, con diversos ámbitos de la actividad humana, susceptibles de ser trabajados como problemáticas en el currículo escolar, como ocurre con la transformación del medio rural andaluz, con los cambios proPágina núm. 14 Sevilla, 30 de agosto 2007 fundos de la actividad industrial, con la expansión de la urbanización o con las diversas posibilidades del turismo y del ocio. En relación, concretamente, con la problemática de la tradición y modernización en el medio rural andaluz, se puede partir del hecho de que Andalucía sigue siendo una comunidad en la que lo rural tiene una gran importancia; pero el mundo rural andaluz ha sufrido profundas modificaciones, que han transformado el paisaje y, sobre todo los modos de vida, que se han hecho cada vez más semejantes a los urbanos. Estos cambios están provocando situaciones que deben ser conocidos y trabajados desde la educación, con especial atención al entorno en el que se encuentren los centros escolares. Así, pueden ser objeto de estudio las tradiciones rurales y su progresiva desaparición, los problemas de deforestación y desertización del territorio, la expansión de modelos agrícolas intensivos con fuertes requerimientos de agua y de recursos energéticos... Para el desarrollo de estos aspectos, dentro del núcleo temático, en el primer ciclo se podrían trabajar problemas como las siguientes:
+- ¿Cómo se vive en un pequeño pueblo andaluz? (se pueden elegir diversos ejemplos).
+- ¿En qué se diferencia la vida en el pueblo de la vida en una ciudad grande?
+- ¿En qué consiste el trabajo de quienes se dedican a la agricultura en Andalucía? (se pueden elegir diversos ejemplos). En el segundo ciclo se puede diversificar el análisis con cuestiones como las siguientes:
+- ¿Cómo se vivía en los pueblos andaluces en la primera mitad del siglo XX?
+- ¿Qué productos de la agricultura andaluza consumimos en nuestras casas? ¿Cómo llegan hasta nosotros desde el campo? En el tercer ciclo, desde una perspectiva más compleja, se puede plantear, por ejemplo:
+- ¿En qué consiste la moderna agricultura andaluza de regadío? (se pueden elegir diversos casos). ¿Qué ventajas e inconvenientes puede tener?
+- ¿Por qué se producen incendios en nuestros bosques? ¿Qué podríamos hacer para evitarlos?
+- ¿Qué costumbres y tradiciones de nuestros pueblos están desapareciendo? ¿Qué podríamos hacer para conservarlas? Respecto a la problemática de la industrialización en Andalucía, conviene recordar que históricamente ha sido ésta una de las cuestiones pendientes en el desarrollo andaluz. Pese a algunas iniciativas tempranas, nunca ha llegado a desarrollarse un tejido industrial extenso y estable en nuestra Comunidad Autónoma. En las últimas décadas, la situación de la industria andaluza está mostrando, junto a determinadas iniciativas innovadoras, las sombras de la lógica de la globalización, con los problemas a ella asociados, como reconversiones, deslocalizaciones, etc. De ahí el interés de aproximar al alumnado al conocimiento del funcionamiento de la industria en Andalucía, a través de manifestaciones de diverso tipo y a distintas escalas. En relación con esta problemática, en el primer ciclo se podrían trabajar cuestiones como las siguientes:
+- ¿Cómo funciona una fábrica? (se pueden elegir diversos ejemplos sencillos).
+- ¿En qué consiste el trabajo de los obreros y obreras de una industria? (se pueden elegir ejemplos diversos). En el segundo ciclo se puede orientar el análisis hacia cuestiones como las siguientes:
+- ¿Dónde y cómo se fabrican determinados productos que utilizamos en nuestra vida diaria? ¿Cómo llegan hasta nosotros?
+- ¿Cómo ha cambiado la industria a lo largo del siglo XX? (elegir algunos ejemplos concretos para el análisis). En el tercer ciclo se puede plantear, por ejemplo:
+- ¿Qué tipos de industrias existen en Andalucía? (se pueden elegir diversos casos).
 - ¿Quiénes reciben los beneficios de dichas industrias?
-- ¿Qué consecuencias puede tener una industria sobre el 
-entorno natural? (se pueden elegir diversos ejemplos).
-Respecto a los procesos de urbanización en el territorio 
-andaluz, se trata de un fenómeno de expansión continuada con 
-fuerte impacto sobre el territorio, sobre todo en áreas costeras 
-de carácter turístico y en las coronas metropolitanas de las 
-grandes ciudades andaluzas. Esta dinámica está dando lugar 
-a que la opinión ciudadana termine por considerar como algo 
-natural un fenómeno que, sin embargo, admite otras alternativas. Es necesario, en ese sentido, que los alumnos y alumnas 
-se inicien en el análisis de estas realidades, debatiendo sobre 
-las mismas y adquiriendo un cierto distanciamiento crítico que 
-les permita ir comprendiendo otras posibilidades de urbanización y otras formas de vida urbana.
-En relación con esta problemática, en el primer ciclo se 
-podrían trabajar cuestiones como las siguientes:
-- ¿Cómo es nuestro barrio? ¿En qué parte de la ciudad 
-está? ¿Cuándo y cómo se construyeron sus casas?
-- ¿Cuándo se hicieron las calles y avenidas importantes de 
-nuestra ciudad? ¿Para qué se hicieron?
-En el segundo ciclo se pueden plantear problemas como 
-los siguientes:
+- ¿Qué consecuencias puede tener una industria sobre el entorno natural? (se pueden elegir diversos ejemplos). Respecto a los procesos de urbanización en el territorio andaluz, se trata de un fenómeno de expansión continuada con fuerte impacto sobre el territorio, sobre todo en áreas costeras de carácter turístico y en las coronas metropolitanas de las grandes ciudades andaluzas. Esta dinámica está dando lugar a que la opinión ciudadana termine por considerar como algo natural un fenómeno que, sin embargo, admite otras alternativas. Es necesario, en ese sentido, que los alumnos y alumnas se inicien en el análisis de estas realidades, debatiendo sobre las mismas y adquiriendo un cierto distanciamiento crítico que les permita ir comprendiendo otras posibilidades de urbanización y otras formas de vida urbana. En relación con esta problemática, en el primer ciclo se podrían trabajar cuestiones como las siguientes:
+- ¿Cómo es nuestro barrio? ¿En qué parte de la ciudad está? ¿Cuándo y cómo se construyeron sus casas?
+- ¿Cuándo se hicieron las calles y avenidas importantes de nuestra ciudad? ¿Para qué se hicieron? En el segundo ciclo se pueden plantear problemas como los siguientes:
 - ¿Cómo ha crecido nuestra ciudad en el último siglo?
 - ¿Qué relaciones existen entre nuestra ciudad y los pueblos de alrededor?
-- ¿Qué tipos de transportes se utilizan en la ciudad?
-En el tercer ciclo se puede trabajar sobre problemas 
-como, por ejemplo:
-- ¿Hasta dónde puede seguir creciendo nuestra ciudad? ¿Qué 
-problemas nuevos surgen cuando una ciudad crece mucho?
-- ¿Qué ventajas y qué inconvenientes tienen las urbanizaciones de viviendas unifamiliares que surgen en los alrededores de las ciudades?
-Respecto al ocio y el turismo en Andalucía, son fenómenos que guardan estrecha relación entre sí, pero que podrían 
-ser analizados también de forma independiente. El turismo se 
-ha convertido en una fuente fundamental de desarrollo económico en nuestra Comunidad Autónoma, con una gran incidencia social (en el empleo, en las costumbres...) y con un fuerte 
-impacto sobre el territorio, sobre todo en las áreas de costa. 
-Existen, por lo demás, en Andalucía diversas modalidades de 
-turismo que permiten ejemplificar ampliamente el estudio de 
-esta problemática. Como ocurre con el caso de la expansión 
-urbana acelerada vinculada en gran parte al fenómeno de la 
-expansión turística, es importante que el alumnado de primaria 
-se inicie en el análisis de estos fenómenos, valorando no sólo 
-sus ventajas económicas, sino también sus posibles impactos 
-sobre el medio y sobre los modos de vida tradicionales. En 
-relación con el turismo se puede trabajar, asimismo, la problemática del ocio en el contexto de una sociedad que cada vez 
-dedica más tiempo y más recursos a las actividades de ocio, 
-que se convierten, así, en un importante sector económico. 
-En relación con esta problemática, en el primer ciclo se 
-podrían trabajar cuestiones como las siguientes:
-- ¿Qué hacen los turistas en nuestra ciudad? ¿Qué cosas 
-les podríamos enseñar a quienes vinieran de visita a nuestra 
-ciudad?
+- ¿Qué tipos de transportes se utilizan en la ciudad? En el tercer ciclo se puede trabajar sobre problemas como, por ejemplo:
+- ¿Hasta dónde puede seguir creciendo nuestra ciudad? ¿Qué problemas nuevos surgen cuando una ciudad crece mucho?
+- ¿Qué ventajas y qué inconvenientes tienen las urbanizaciones de viviendas unifamiliares que surgen en los alrededores de las ciudades? Respecto al ocio y el turismo en Andalucía, son fenómenos que guardan estrecha relación entre sí, pero que podrían ser analizados también de forma independiente. El turismo se ha convertido en una fuente fundamental de desarrollo económico en nuestra Comunidad Autónoma, con una gran incidencia social (en el empleo, en las costumbres...) y con un fuerte impacto sobre el territorio, sobre todo en las áreas de costa. Existen, por lo demás, en Andalucía diversas modalidades de turismo que permiten ejemplificar ampliamente el estudio de esta problemática. Como ocurre con el caso de la expansión urbana acelerada vinculada en gran parte al fenómeno de la expansión turística, es importante que el alumnado de primaria se inicie en el análisis de estos fenómenos, valorando no sólo sus ventajas económicas, sino también sus posibles impactos sobre el medio y sobre los modos de vida tradicionales. En relación con el turismo se puede trabajar, asimismo, la problemática del ocio en el contexto de una sociedad que cada vez dedica más tiempo y más recursos a las actividades de ocio, que se convierten, así, en un importante sector económico. En relación con esta problemática, en el primer ciclo se podrían trabajar cuestiones como las siguientes:
+- ¿Qué hacen los turistas en nuestra ciudad? ¿Qué cosas les podríamos enseñar a quienes vinieran de visita a nuestra ciudad?
 - ¿De qué forma nos divertimos? ¿Qué actividades hacemos en nuestro tiempo libre?
 
-Sevilla, 30 de agosto 2007 
-Página núm. 15
-En el segundo ciclo se pueden plantear problemas como 
-éstos:
-- ¿Qué actividades de turismo se pueden hacer en la costa 
-y en la montaña?
+Sevilla, 30 de agosto 2007 Página núm. 15 En el segundo ciclo se pueden plantear problemas como éstos:
+- ¿Qué actividades de turismo se pueden hacer en la costa y en la montaña?
 - ¿Cómo funciona una agencia de viajes?
-- ¿Cómo se puede organizar un itinerario para conocer 
-mejor algunos paisajes de nuestro entorno? (elegir ejemplos 
-concretos).
-En el tercer ciclo se puede trabajar sobre problemas de 
-carácter más complejo, como:
-- ¿Quiénes obtienen beneficios del turismo en nuestras 
-costas?
-- ¿Qué consecuencias puede tener la actividad turística 
-sobre los paisajes de Andalucía?
-- ¿Qué tipo de actividades de ocio hay en nuestra ciudad 
-para personas de diferentes edades y aficiones? ¿Puede toda 
-la gente hacer uso de esas actividades?
-Interacción con otros núcleos temáticos y de actividades.
-En el Real Decreto 1513/2006, de 7 de diciembre, podemos encontrar contenidos fundamentales para el tratamiento 
-de los problemas relativos a estos distintos ámbitos de la actividad humana y a su incidencia en el entorno, como los propuestos en el Bloque 4 (Personas, culturas y organización social) y 
-en el Bloque 1 (El entorno y su conservación), pudiéndose utilizar, asimismo, como apoyo determinados contenidos del Bloque 7 (Objetos, máquinas y tecnologías). Algunos contenidos 
-del Bloque 5 (Cambios en el tiempo) pueden aportar ejemplos 
-históricos para contrastar con las situaciones actuales.
-El amplio campo temático abarcado por este núcleo permite conectarlo con casi todos los núcleos del área, especialmente con Paisajes andaluces, Salud y bienestar, Progreso 
-tecnológico y modelos de desarrollo y El uso responsable de 
-los recursos. Por lo demás, diversos ejes transversales pueden enriquecer el tratamiento de estas cuestiones, siendo destacable el papel de la educación ambiental. Asimismo, sería 
-de gran interés la colaboración con otras áreas, como la de 
-Educación para la ciudadanía y los derechos humanos.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-En el caso de este núcleo temático, los problemas remiten 
-al análisis de una relación: la existente entre la actividad humana, en sus diversas modalidades, y el medio. Ello supone, 
-de entrada, una cierta complejidad, por lo que resulta tanto 
-más necesario acotar los términos de dicho análisis, hasta que 
-se pueda ir haciendo más compleja la perspectiva de estudio. 
-Para este tipo de trabajo se cuenta con abundantes informaciones procedentes de muy distintas fuentes de información: 
-datos sistematizados (por ejemplo del Instituto de Estadística 
-de Andalucía), informes de diversas entidades (asociaciones 
-agrarias, sindicatos, instituciones relacionadas con el urbanismo, etc.), informaciones de prensa, colecciones de material 
-audiovisual de ciertas entidades... Ello puede complementarse 
-con visitas e itinerarios adecuados al planteamiento didáctico 
-adoptado.
-Criterios de valoración de los procesos de aprendizaje.
-Trabajando en torno a problemas relacionados con la incidencia de la actividad humana en el medio, ha de suponerse 
-que el aprendizaje de los alumnos y alumnas evolucionará 
-desde una descripción y comprensión elemental de situaciones diversas (relativas al medio rural, a los problemas de la industria, a la urbanización, al desarrollo del turismo, etc.) hacia 
-análisis de causas y consecuencias y, por fin, hacia visiones de 
-conjunto que les aproximen a una comprensión de estos problemas en el marco de distintos tipos o modelos de actividad 
-económica, cuya lógica global podrían empezar a entender al 
-final de la etapa.
-ÁREAS DE LENGUA CASTELLANA Y LITERATURA 
-LENGUAS EXTRANJERAS
-Relevancia y sentido educativo.
-En la educación primaria, la adquisición de competencias 
-comunicativas, comprensión y expresión, debe entenderse 
-como motor de la formación personal, de la adquisición de conocimientos, de la autonomía personal para acceder a aprendizajes futuros y para el desarrollo integral de la persona. 
-Corresponde a las áreas de Lengua castellana y literatura y 
-de Lengua extranjera, de manera particular, pero no única, el 
-desarrollar las cuatro habilidades lingüísticas básicas: escuchar, hablar, leer y escribir. Dicho objetivo ha de conseguirse a 
-través de un enfoque funcional, un acercamiento al mundo de 
-la literatura infantil y juvenil y un uso reflexivo de las lenguas. 
-Todo el profesorado, de cualquier área, debe promover, partiendo de un trabajo coordinado, la comunicación lingüística 
-como vehículo imprescindible para garantizar un aprendizaje 
-con éxito, para aprender a pensar y como forma privilegiada 
-para construir con los y las demás relaciones de respeto y cooperación necesarias para su formación como futuros adultos. 
-Asimismo, la comunicación lingüística permitirá una mejor 
-adaptación familiar y social, considerando la familia y la sociedad, en nuestro caso la andaluza, como contextos fundamentales en el inicio y desarrollo de las competencias comunicativas de los niños y niñas. Todo ello, siempre, haciendo un 
-uso de la lengua no discriminatorio ni sexista que promueva la 
-igualdad real y efectiva entre sexos.
-Desde Andalucía se proponen, para estas materias, las 
-cuatro habilidades lingüísticas básicas citadas: escuchar, hablar, leer y escribir. A través de las mismas se pretende mostrar perspectivas educativas y sugerir posibilidades de trabajo 
-que se consideran relevantes desde nuestra Comunidad Autónoma, complementando así la propuesta de contenidos 
-mínimos recogidos en el Real Decreto 1513/2006, de 7 de 
-diciembre.
-Núcleos de destrezas básicas.
+- ¿Cómo se puede organizar un itinerario para conocer mejor algunos paisajes de nuestro entorno? (elegir ejemplos concretos). En el tercer ciclo se puede trabajar sobre problemas de carácter más complejo, como:
+- ¿Quiénes obtienen beneficios del turismo en nuestras costas?
+- ¿Qué consecuencias puede tener la actividad turística sobre los paisajes de Andalucía?
+- ¿Qué tipo de actividades de ocio hay en nuestra ciudad para personas de diferentes edades y aficiones? ¿Puede toda la gente hacer uso de esas actividades? Interacción con otros núcleos temáticos y de actividades. En el Real Decreto 1513/2006, de 7 de diciembre, podemos encontrar contenidos fundamentales para el tratamiento de los problemas relativos a estos distintos ámbitos de la actividad humana y a su incidencia en el entorno, como los propuestos en el Bloque 4 (Personas, culturas y organización social) y en el Bloque 1 (El entorno y su conservación), pudiéndose utilizar, asimismo, como apoyo determinados contenidos del Bloque 7 (Objetos, máquinas y tecnologías). Algunos contenidos del Bloque 5 (Cambios en el tiempo) pueden aportar ejemplos históricos para contrastar con las situaciones actuales. El amplio campo temático abarcado por este núcleo permite conectarlo con casi todos los núcleos del área, especialmente con Paisajes andaluces, Salud y bienestar, Progreso tecnológico y modelos de desarrollo y El uso responsable de los recursos. Por lo demás, diversos ejes transversales pueden enriquecer el tratamiento de estas cuestiones, siendo destacable el papel de la educación ambiental. Asimismo, sería de gran interés la colaboración con otras áreas, como la de Educación para la ciudadanía y los derechos humanos. Sugerencias acerca de líneas metodológicas y utilización de recursos. En el caso de este núcleo temático, los problemas remiten al análisis de una relación: la existente entre la actividad humana, en sus diversas modalidades, y el medio. Ello supone, de entrada, una cierta complejidad, por lo que resulta tanto más necesario acotar los términos de dicho análisis, hasta que se pueda ir haciendo más compleja la perspectiva de estudio. Para este tipo de trabajo se cuenta con abundantes informaciones procedentes de muy distintas fuentes de información:
+datos sistematizados (por ejemplo del Instituto de Estadística de Andalucía), informes de diversas entidades (asociaciones agrarias, sindicatos, instituciones relacionadas con el urbanismo, etc.), informaciones de prensa, colecciones de material audiovisual de ciertas entidades... Ello puede complementarse con visitas e itinerarios adecuados al planteamiento didáctico adoptado. Criterios de valoración de los procesos de aprendizaje. Trabajando en torno a problemas relacionados con la incidencia de la actividad humana en el medio, ha de suponerse que el aprendizaje de los alumnos y alumnas evolucionará desde una descripción y comprensión elemental de situaciones diversas (relativas al medio rural, a los problemas de la industria, a la urbanización, al desarrollo del turismo, etc.) hacia análisis de causas y consecuencias y, por fin, hacia visiones de conjunto que les aproximen a una comprensión de estos problemas en el marco de distintos tipos o modelos de actividad económica, cuya lógica global podrían empezar a entender al final de la etapa. ÁREAS DE LENGUA CASTELLANA Y LITERATURA LENGUAS EXTRANJERAS Relevancia y sentido educativo. En la educación primaria, la adquisición de competencias comunicativas, comprensión y expresión, debe entenderse como motor de la formación personal, de la adquisición de conocimientos, de la autonomía personal para acceder a aprendizajes futuros y para el desarrollo integral de la persona. Corresponde a las áreas de Lengua castellana y literatura y de Lengua extranjera, de manera particular, pero no única, el desarrollar las cuatro habilidades lingüísticas básicas: escuchar, hablar, leer y escribir. Dicho objetivo ha de conseguirse a través de un enfoque funcional, un acercamiento al mundo de la literatura infantil y juvenil y un uso reflexivo de las lenguas. Todo el profesorado, de cualquier área, debe promover, partiendo de un trabajo coordinado, la comunicación lingüística como vehículo imprescindible para garantizar un aprendizaje con éxito, para aprender a pensar y como forma privilegiada para construir con los y las demás relaciones de respeto y cooperación necesarias para su formación como futuros adultos. Asimismo, la comunicación lingüística permitirá una mejor adaptación familiar y social, considerando la familia y la sociedad, en nuestro caso la andaluza, como contextos fundamentales en el inicio y desarrollo de las competencias comunicativas de los niños y niñas. Todo ello, siempre, haciendo un uso de la lengua no discriminatorio ni sexista que promueva la igualdad real y efectiva entre sexos. Desde Andalucía se proponen, para estas materias, las cuatro habilidades lingüísticas básicas citadas: escuchar, hablar, leer y escribir. A través de las mismas se pretende mostrar perspectivas educativas y sugerir posibilidades de trabajo que se consideran relevantes desde nuestra Comunidad Autónoma, complementando así la propuesta de contenidos mínimos recogidos en el Real Decreto 1513/2006, de 7 de diciembre. Núcleos de destrezas básicas.
 1. ¿Qué y cómo escuchar?
 2. ¿Qué y cómo hablar?
 3. ¿Qué y cómo leer?
 4. ¿Qué y cómo escribir?
-1. ¿Qué y cómo escuchar?
-Relevancia y sentido educativo.
-Escuchar es la destreza lingüística que, en una situación 
-de normalidad, ocupa la mayor parte del tiempo de nuestro 
-intercambio comunicativo. Tiene la particularidad de tratarse 
-de una destreza que, cuando el niño y la niña inician su escolarización básica, suele venir suficientemente desarrollada (espontánea, simple y concreta), tendiéndose, con posterioridad, 
-a unos niveles de mayor complejidad y abstracción. No debe 
-entenderse como una destreza comunicativa aislada, ya que 
-mantiene una relación, más o menos directa, con las otras 
-tres destrezas, siendo, a estas edades, un punto de partida 
-obligatorio para una adecuada adquisición de las otras.
-Contenidos y problemáticas relevantes.
-El desarrollo más conveniente en el ámbito escolar debe 
-lograr un nivel de escucha propicio dentro de las más diversas 
-situaciones. El aula, y el propio Centro, y su proyección natural 
-en la familia y en el resto de su entorno social, deben ser espacios de convivencia, respeto, intercambio de información y 
-de opinión y de construcción del conocimiento. Sólo sabiendo 
-escuchar se podrá cimentar la creación colectiva de conocimientos y el enriquecimiento personal.
-En la Comunidad Autónoma de Andalucía deberemos 
-abordar, particularmente, los siguientes contenidos: 
+1. ¿Qué y cómo escuchar? Relevancia y sentido educativo. Escuchar es la destreza lingüística que, en una situación de normalidad, ocupa la mayor parte del tiempo de nuestro intercambio comunicativo. Tiene la particularidad de tratarse de una destreza que, cuando el niño y la niña inician su escolarización básica, suele venir suficientemente desarrollada (espontánea, simple y concreta), tendiéndose, con posterioridad, a unos niveles de mayor complejidad y abstracción. No debe entenderse como una destreza comunicativa aislada, ya que mantiene una relación, más o menos directa, con las otras tres destrezas, siendo, a estas edades, un punto de partida obligatorio para una adecuada adquisición de las otras. Contenidos y problemáticas relevantes. El desarrollo más conveniente en el ámbito escolar debe lograr un nivel de escucha propicio dentro de las más diversas situaciones. El aula, y el propio Centro, y su proyección natural en la familia y en el resto de su entorno social, deben ser espacios de convivencia, respeto, intercambio de información y de opinión y de construcción del conocimiento. Sólo sabiendo escuchar se podrá cimentar la creación colectiva de conocimientos y el enriquecimiento personal. En la Comunidad Autónoma de Andalucía deberemos abordar, particularmente, los siguientes contenidos:
 
-Página núm. 16 
-Sevilla, 30 de agosto 2007
-- Saber escuchar con respeto la modalidad lingüística andaluza en todas sus variedades. 
+Página núm. 16 Sevilla, 30 de agosto 2007
+- Saber escuchar con respeto la modalidad lingüística andaluza en todas sus variedades.
 - Reconocer y saber escuchar la diversidad de hablas andaluzas en los medios de comunicación (radio y televisión).
-- Reconocer, al escuchar, la relación de la modalidad lingüística andaluza con el español de América, así como con 
-otras manifestaciones lingüísticas de significativo arraigo en 
-nuestra Comunidad Autónoma (la lengua de la etnia gitana).
-- Reconocer, al escuchar, la literatura de tradición oral 
-andaluza en sus diversos niveles de expresión (flamenco, folclore...).
-Sugerencias acerca de las líneas metodológicas y utilización de recursos.
-Para un adecuado logro de las capacidades relacionadas 
-con el escuchar, contando con la colaboración familiar deberemos, primero, trabajar el mantenimiento de una atención adecuada ante los mensajes emitidos por otros interlocutores y 
-garantizar el respeto por la intencionalidad de los mismos. Se 
-trabajará, al mismo tiempo o después, la atención receptiva y 
-memorización de mensajes. También se trabajará la comprensión, partiendo, en los primeros niveles, de lo general, para 
-llegar a lo concreto en los últimos niveles, según situaciones 
-o modalidades textuales (contar, describir, opinar, dialogar...). 
-La consecución de estas capacidades debe entenderse como 
-aplicable tanto a la lengua materna como a una primera o segunda lengua extranjera.
-En el tratamiento metodológico de esta habilidad pueden 
-suscitarse innumerables actividades que necesitarían de la 
-obligada interacción entre las distintas áreas. Algunas de ellas 
-pueden ser: 
+- Reconocer, al escuchar, la relación de la modalidad lingüística andaluza con el español de América, así como con otras manifestaciones lingüísticas de significativo arraigo en nuestra Comunidad Autónoma (la lengua de la etnia gitana).
+- Reconocer, al escuchar, la literatura de tradición oral andaluza en sus diversos niveles de expresión (flamenco, folclore...). Sugerencias acerca de las líneas metodológicas y utilización de recursos. Para un adecuado logro de las capacidades relacionadas con el escuchar, contando con la colaboración familiar deberemos, primero, trabajar el mantenimiento de una atención adecuada ante los mensajes emitidos por otros interlocutores y garantizar el respeto por la intencionalidad de los mismos. Se trabajará, al mismo tiempo o después, la atención receptiva y memorización de mensajes. También se trabajará la comprensión, partiendo, en los primeros niveles, de lo general, para llegar a lo concreto en los últimos niveles, según situaciones o modalidades textuales (contar, describir, opinar, dialogar...). La consecución de estas capacidades debe entenderse como aplicable tanto a la lengua materna como a una primera o segunda lengua extranjera. En el tratamiento metodológico de esta habilidad pueden suscitarse innumerables actividades que necesitarían de la obligada interacción entre las distintas áreas. Algunas de ellas pueden ser:
 - Escuchar en diversas situaciones de nuestra vida cotidiana.
 - Escuchar en situaciones conflictivas, ante diversas opiniones.
 - Escuchar otras lenguas y otras culturas.
-- Reflexionar sobre la importancia de escuchar.
-Para ello utilizaremos recursos que sean cercanos a las 
-realidades en las que nos movemos habitualmente: exposiciones orales, debates, dramatizaciones, programas de radio y 
-televisión, canciones, etc.
-Criterios de valoración de los procesos de aprendizaje.
-Valorar esta propuesta de contenidos en niños y niñas de 
-educación primaria ha de realizarse a través de una observación continua de su actitud y pautas de comportamiento como 
-oyentes, a nivel singular, dual o plural, teniendo siempre en 
-cuenta las posibilidades y las capacidades de cada uno y de 
-cada una. El respeto por el interlocutor/a y por el contenido de 
-lo que escucha son criterios a tener, igualmente, en cuenta. 
-Asimismo se valorará la actitud ante la riqueza y variedad de 
-las hablas existentes en Andalucía (incluidas las modalidades 
-propias de la población inmigrante, hispanohablante o no). 
-Se valorará su capacidad para captar el sentido, general o 
-concreto, de los mensajes orales escuchados en diferentes 
-contextos y si son capaces de identificar la información más 
-relevante de los mismos.
-2. ¿Qué y cómo hablar?
-Relevancia y sentido educativo.
-Las situaciones comunicativas propician la interrelación 
-de las diferentes habilidades lingüísticas en las distintas áreas. 
-El uso oral espontáneo y progresivamente planificado que hacen los niños y niñas de esta etapa, tanto en lengua materna 
-como en lenguas extranjeras, les supondrá una eficaz herramienta para reconocer las normas socio-comunitarias que 
-rigen la interacción entre hablantes. Un satisfactorio desarrollo, a partir de un trabajo compartido entre el profesorado, de 
-los contenidos correspondientes a esta habilidad permitirá al 
-alumnado la construcción de su propio aprendizaje, común a 
-todas las destrezas, el desarrollo de la autonomía e iniciativa 
-personal al producir discursos propios y enriquecerá su competencia social y ciudadana.
-Contenidos y problemáticas relevantes.
-El hablar implica compartir ideas, sentimientos, necesidades, así como defender opiniones desde el respeto al otro con 
-una valoración y autoexigencia a la hora de hablar organizando 
-previamente lo que se dice con las convenciones lingüísticas 
-adecuadas. Hablar en Andalucía debe suponer propiciar la 
-comunicación desde el respetuoso intercambio de mensajes 
-(charla, conversación o diálogo) entre varias personas de la 
-misma o distinta procedencia y origen lingüístico y cultural, 
-partiendo del conocimiento y la defensa de la modalidad lingüística andaluza como seña de identidad propia. El hablar 
-debe ser, también, desde el dominio progresivo de las lenguas 
-extranjeras, una forma de proyectarse hacia otros hablantes 
-definidos por códigos lingüísticos distintos y culturas de conveniente conocimiento para crecer como personas.
-En la Comunidad Autónoma de Andalucía deberemos 
-abordar, particularmente, los siguientes contenidos: 
+- Reflexionar sobre la importancia de escuchar. Para ello utilizaremos recursos que sean cercanos a las realidades en las que nos movemos habitualmente: exposiciones orales, debates, dramatizaciones, programas de radio y televisión, canciones, etc. Criterios de valoración de los procesos de aprendizaje. Valorar esta propuesta de contenidos en niños y niñas de educación primaria ha de realizarse a través de una observación continua de su actitud y pautas de comportamiento como oyentes, a nivel singular, dual o plural, teniendo siempre en cuenta las posibilidades y las capacidades de cada uno y de cada una. El respeto por el interlocutor/a y por el contenido de lo que escucha son criterios a tener, igualmente, en cuenta. Asimismo se valorará la actitud ante la riqueza y variedad de las hablas existentes en Andalucía (incluidas las modalidades propias de la población inmigrante, hispanohablante o no). Se valorará su capacidad para captar el sentido, general o concreto, de los mensajes orales escuchados en diferentes contextos y si son capaces de identificar la información más relevante de los mismos.
+2. ¿Qué y cómo hablar? Relevancia y sentido educativo. Las situaciones comunicativas propician la interrelación de las diferentes habilidades lingüísticas en las distintas áreas. El uso oral espontáneo y progresivamente planificado que hacen los niños y niñas de esta etapa, tanto en lengua materna como en lenguas extranjeras, les supondrá una eficaz herramienta para reconocer las normas socio-comunitarias que rigen la interacción entre hablantes. Un satisfactorio desarrollo, a partir de un trabajo compartido entre el profesorado, de los contenidos correspondientes a esta habilidad permitirá al alumnado la construcción de su propio aprendizaje, común a todas las destrezas, el desarrollo de la autonomía e iniciativa personal al producir discursos propios y enriquecerá su competencia social y ciudadana. Contenidos y problemáticas relevantes. El hablar implica compartir ideas, sentimientos, necesidades, así como defender opiniones desde el respeto al otro con una valoración y autoexigencia a la hora de hablar organizando previamente lo que se dice con las convenciones lingüísticas adecuadas. Hablar en Andalucía debe suponer propiciar la comunicación desde el respetuoso intercambio de mensajes (charla, conversación o diálogo) entre varias personas de la misma o distinta procedencia y origen lingüístico y cultural, partiendo del conocimiento y la defensa de la modalidad lingüística andaluza como seña de identidad propia. El hablar debe ser, también, desde el dominio progresivo de las lenguas extranjeras, una forma de proyectarse hacia otros hablantes definidos por códigos lingüísticos distintos y culturas de conveniente conocimiento para crecer como personas. En la Comunidad Autónoma de Andalucía deberemos abordar, particularmente, los siguientes contenidos:
 - Analizar las hablas andaluzas en diversos medios de comunicación, radio y televisión.
-- Saber expresar oralmente contenidos de la literatura de 
-tradición oral andaluza en sus diversos niveles de expresión 
-(flamenco, folclore...).
+- Saber expresar oralmente contenidos de la literatura de tradición oral andaluza en sus diversos niveles de expresión (flamenco, folclore...).
 - Expresarse de forma natural mediante la modalidad lingüística andaluza, aceptándola y reconociéndola.
-- Aproximarse, cuando las circunstancias lo requieran, a 
-las hablas correspondientes a modelos variados del mundo 
-cultural y académico andaluces. 
-- Saber crear y planificar mensajes orales, partiendo de 
-su contexto más cercano, que en nuestro caso es el andaluz, 
-con una intención comunicativa.
-- Saber crear y recrear oralmente textos con intención literaria o lúdica que partan de la realidad cultural andaluza.
-Sugerencias acerca de las líneas metodológicas y utilización de recursos.
-Hablar significa aprender a poner en práctica, partiendo 
-de un uso natural de las lenguas (materna y extranjeras), las 
-convenciones del intercambio comunicativo oral. Después 
-convendría planificar y emitir mensajes breves con el conocimiento de elementos necesarios para lograr su eficacia (ideas 
-sencillas, expresión correcta, conocimiento del ámbito en el 
-que se produce o se va a producir). Más tarde se plantearía la 
-planificación y emisión de mensajes más elaborados y complejos en toda su secuencia-tipo (planificar, organizar, hablar). 
-Todo ello permitirá un adiestramiento progresivo en la combinación escuchar-hablar. La conversación, el diálogo y el debate 
-serán formas de avanzar en esta tarea.
-En el tratamiento metodológico de esta habilidad pueden 
-suscitarse innumerables actividades que necesitarían de la 
-obligada interacción entre las distintas áreas:
-- Expresarnos oralmente en nuestra vida cotidiana para: 
-manifestar nuestras ideas, sentimientos o necesidades y ser 
-entendidos apropiadamente.
-- Realizar una adecuada exposición oral: nos dirigimos 
-verbalmente a los demás y enriquecemos nuestra forma de 
-hablar.
+- Aproximarse, cuando las circunstancias lo requieran, a las hablas correspondientes a modelos variados del mundo cultural y académico andaluces.
+- Saber crear y planificar mensajes orales, partiendo de su contexto más cercano, que en nuestro caso es el andaluz, con una intención comunicativa.
+- Saber crear y recrear oralmente textos con intención literaria o lúdica que partan de la realidad cultural andaluza. Sugerencias acerca de las líneas metodológicas y utilización de recursos. Hablar significa aprender a poner en práctica, partiendo de un uso natural de las lenguas (materna y extranjeras), las convenciones del intercambio comunicativo oral. Después convendría planificar y emitir mensajes breves con el conocimiento de elementos necesarios para lograr su eficacia (ideas sencillas, expresión correcta, conocimiento del ámbito en el que se produce o se va a producir). Más tarde se plantearía la planificación y emisión de mensajes más elaborados y complejos en toda su secuencia-tipo (planificar, organizar, hablar). Todo ello permitirá un adiestramiento progresivo en la combinación escuchar-hablar. La conversación, el diálogo y el debate serán formas de avanzar en esta tarea. En el tratamiento metodológico de esta habilidad pueden suscitarse innumerables actividades que necesitarían de la obligada interacción entre las distintas áreas:
+- Expresarnos oralmente en nuestra vida cotidiana para:
+manifestar nuestras ideas, sentimientos o necesidades y ser entendidos apropiadamente.
+- Realizar una adecuada exposición oral: nos dirigimos verbalmente a los demás y enriquecemos nuestra forma de hablar.
 - Utilizar el diálogo para la resolución de conflictos.
-- Entendernos con personas con una lengua de origen distinta a la nuestra y aproximarnos a su cultura.
-Para el desarrollo de estas actividades utilizamos recursos 
-cercanos, a partir de las realidades en las que nos movemos 
-habitualmente: exposiciones orales, debates, dramatizaciones, 
-programas de radio y televisión, etc.
+- Entendernos con personas con una lengua de origen distinta a la nuestra y aproximarnos a su cultura. Para el desarrollo de estas actividades utilizamos recursos cercanos, a partir de las realidades en las que nos movemos habitualmente: exposiciones orales, debates, dramatizaciones, programas de radio y televisión, etc.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 17
-Criterios de valoración de los procesos de aprendizaje.
-La valoración que sobre el desarrollo de esta habilidad se 
-realice, teniendo siempre en cuenta las posibilidades y las capacidades de cada niño y de cada niña, ha de ir encaminada 
-a determinar la destreza para expresarse de forma clara, concisa y ordenada, según la situación comunicativa, usando el 
-léxico, la entonación, pronunciación y registro adecuados. Se 
-debe valorar, también, la capacidad para comunicar oralmente 
-hechos, vivencias o ideas, como forma más conveniente de resolver conflictos y de controlar su propia conducta con ayuda 
-del lenguaje. Se tendrá, igualmente, en cuenta el respeto por 
-la utilización de un lenguaje no discriminatorio y no sexista y 
-el uso natural del habla andaluza, en cualquiera de sus manifestaciones.
-3. ¿Qué y cómo leer?
-Relevancia y sentido educativo.
-La lectura, como proceso de interacción entre lector y 
-texto, ya sea en la lengua materna o en una lengua extranjera, siempre implica la actuación de un lector activo que lee 
-con alguna intención. Este planteamiento, llevado al inicio y 
-desarrollo del aprendizaje lector, requiere impregnar de un 
-continuo enfoque funcional cualquier lectura. El niño y la niña 
-deben vivir la lectura como una experiencia placentera y valorarla como instrumento de información, de enriquecimiento 
-léxico, de referentes culturales, de transmisión de valores y de 
-estructuras de la lengua. De ahí que todos los textos que se 
-seleccionen deban tener una función práctica y vinculada con 
-la realidad más cercana de los niños y niñas, que en nuestro 
-caso es la andaluza. La biblioteca escolar, en sentido amplio, 
-como acción educativa coordinada entre diversas áreas, a 
-través de un uso programado cooperativamente, utilitario, dinámico y abierto, se convierte en un centro de recursos, consultas, reflexión, conocimiento, encuentro. Y, por otra parte, 
-las experiencias lectoras, en sentido particular, encaminadas a 
-crear y afianzar buenos hábitos lectores y a alimentar la creatividad, la imaginación y la sensibilidad, de forma indirecta, son, 
-igualmente, actividades básicas en el desarrollo de los contenidos correspondientes a la destreza básica de la lectura. 
-Contenidos y problemáticas relevantes.
-Leer debe ser un proceso de captación y comprensión 
-del mundo que requiere la colaboración de la familia con la 
-escuela y que precisa destrezas progresivas sobre el procesamiento de lenguajes verbales y no verbales. Leer debe ser 
-conocer producciones propias y ajenas, modelos de interés 
-comunicativos de todos los ámbitos y, en especial, de Andalucía. Leer debe suponer disfrutar de ideas, historias, experiencias transmitidas desde contextos diversos en el espacio y el 
-tiempo. Se debe leer desde la variedad de formatos (papel y 
-digital) y desde la variedad de relaciones personales (lectura 
-individual y compartida); conocer la existencia de otros lenguajes (Braille, lengua de signos...) y de otras lenguas (curriculares o las propias de la inmigración, que son las que utilizan los 
-nuevos compañeros y compañeras con los que se convive en 
-la escuela). Leer debe ser comprender diversos tipos de textos, según su finalidad, intención (implícita o explícita) y modo 
-de producción (personal, oficial, periodístico, político, religioso, 
-virtual). Leer en la escuela, finalmente, también debe suponer 
-un medio privilegiado para descubrir lo desconocido, empezar 
-a dominarlo y desarrollarlo.
-En la Comunidad Autónoma de Andalucía deberemos 
-abordar, particularmente, los siguientes contenidos:
+Sevilla, 30 de agosto 2007 Página núm. 17 Criterios de valoración de los procesos de aprendizaje. La valoración que sobre el desarrollo de esta habilidad se realice, teniendo siempre en cuenta las posibilidades y las capacidades de cada niño y de cada niña, ha de ir encaminada a determinar la destreza para expresarse de forma clara, concisa y ordenada, según la situación comunicativa, usando el léxico, la entonación, pronunciación y registro adecuados. Se debe valorar, también, la capacidad para comunicar oralmente hechos, vivencias o ideas, como forma más conveniente de resolver conflictos y de controlar su propia conducta con ayuda del lenguaje. Se tendrá, igualmente, en cuenta el respeto por la utilización de un lenguaje no discriminatorio y no sexista y el uso natural del habla andaluza, en cualquiera de sus manifestaciones.
+3. ¿Qué y cómo leer? Relevancia y sentido educativo. La lectura, como proceso de interacción entre lector y texto, ya sea en la lengua materna o en una lengua extranjera, siempre implica la actuación de un lector activo que lee con alguna intención. Este planteamiento, llevado al inicio y desarrollo del aprendizaje lector, requiere impregnar de un continuo enfoque funcional cualquier lectura. El niño y la niña deben vivir la lectura como una experiencia placentera y valorarla como instrumento de información, de enriquecimiento léxico, de referentes culturales, de transmisión de valores y de estructuras de la lengua. De ahí que todos los textos que se seleccionen deban tener una función práctica y vinculada con la realidad más cercana de los niños y niñas, que en nuestro caso es la andaluza. La biblioteca escolar, en sentido amplio, como acción educativa coordinada entre diversas áreas, a través de un uso programado cooperativamente, utilitario, dinámico y abierto, se convierte en un centro de recursos, consultas, reflexión, conocimiento, encuentro. Y, por otra parte, las experiencias lectoras, en sentido particular, encaminadas a crear y afianzar buenos hábitos lectores y a alimentar la creatividad, la imaginación y la sensibilidad, de forma indirecta, son, igualmente, actividades básicas en el desarrollo de los contenidos correspondientes a la destreza básica de la lectura. Contenidos y problemáticas relevantes. Leer debe ser un proceso de captación y comprensión del mundo que requiere la colaboración de la familia con la escuela y que precisa destrezas progresivas sobre el procesamiento de lenguajes verbales y no verbales. Leer debe ser conocer producciones propias y ajenas, modelos de interés comunicativos de todos los ámbitos y, en especial, de Andalucía. Leer debe suponer disfrutar de ideas, historias, experiencias transmitidas desde contextos diversos en el espacio y el tiempo. Se debe leer desde la variedad de formatos (papel y digital) y desde la variedad de relaciones personales (lectura individual y compartida); conocer la existencia de otros lenguajes (Braille, lengua de signos...) y de otras lenguas (curriculares o las propias de la inmigración, que son las que utilizan los nuevos compañeros y compañeras con los que se convive en la escuela). Leer debe ser comprender diversos tipos de textos, según su finalidad, intención (implícita o explícita) y modo de producción (personal, oficial, periodístico, político, religioso, virtual). Leer en la escuela, finalmente, también debe suponer un medio privilegiado para descubrir lo desconocido, empezar a dominarlo y desarrollarlo. En la Comunidad Autónoma de Andalucía deberemos abordar, particularmente, los siguientes contenidos:
 - Lectura y comprensión de textos cercanos a la experiencia vital, local y regional, de niños y niñas.
-- Conocimiento y lectura de textos periodísticos relativos a 
-nuestra Comunidad Autónoma (sociedad, cultura, ciencia...).
-- Conocimiento de la literatura escrita de temática andaluza, de autores y autoras andaluces y no andaluces, como 
-forma de comprensión de la realidad histórica y cultural de 
-nuestra Comunidad Autónoma: narrativa (tradición oral, relato 
-breve, lugares y personajes andaluces...), poesía (tradición 
-oral, refranes, adivinanzas, poesía culta infantil...), teatro (leer 
-y dramatizar teatro breve...), cine (ver y analizar filmografía andaluza) y otros géneros adecuados a la edad, nivel e intereses 
-del alumnado.
-Sugerencias acerca de las líneas metodológicas y utilización de recursos.
-Debe conseguirse, inicialmente, un nivel lector correcto 
-y básico, sobre textos sencillos, que permita progresar hacia otros más complejos y variados. Esta variedad se deberá 
-fundamentar en una lectura funcional, comprensiva y expresiva, que permita un conocimiento de las finalidades y de los 
-contextos en los que se producen los textos. En un momento 
-posterior se planteará el análisis y la reflexión sobre los textos 
-leídos, literarios y no literarios. Esta misma correlación se aplicará al dominio progresivo de las lenguas extranjeras, haciéndose especial hincapié en el conocimiento cultural de otros 
-ámbitos y sociedades.
-En el tratamiento metodológico de esta habilidad pueden 
-suscitarse actividades relacionadas con:
-- La importancia de la lectura en la comprensión de otras 
-perspectivas, otras culturas y otras épocas.
-- La comprensión lectora como vehículo de expresión de 
-ideas, sentimientos, las necesidades y el mundo en el que vivimos.
+- Conocimiento y lectura de textos periodísticos relativos a nuestra Comunidad Autónoma (sociedad, cultura, ciencia...).
+- Conocimiento de la literatura escrita de temática andaluza, de autores y autoras andaluces y no andaluces, como forma de comprensión de la realidad histórica y cultural de nuestra Comunidad Autónoma: narrativa (tradición oral, relato breve, lugares y personajes andaluces...), poesía (tradición oral, refranes, adivinanzas, poesía culta infantil...), teatro (leer y dramatizar teatro breve...), cine (ver y analizar filmografía andaluza) y otros géneros adecuados a la edad, nivel e intereses del alumnado. Sugerencias acerca de las líneas metodológicas y utilización de recursos. Debe conseguirse, inicialmente, un nivel lector correcto y básico, sobre textos sencillos, que permita progresar hacia otros más complejos y variados. Esta variedad se deberá fundamentar en una lectura funcional, comprensiva y expresiva, que permita un conocimiento de las finalidades y de los contextos en los que se producen los textos. En un momento posterior se planteará el análisis y la reflexión sobre los textos leídos, literarios y no literarios. Esta misma correlación se aplicará al dominio progresivo de las lenguas extranjeras, haciéndose especial hincapié en el conocimiento cultural de otros ámbitos y sociedades. En el tratamiento metodológico de esta habilidad pueden suscitarse actividades relacionadas con:
+- La importancia de la lectura en la comprensión de otras perspectivas, otras culturas y otras épocas.
+- La comprensión lectora como vehículo de expresión de ideas, sentimientos, las necesidades y el mundo en el que vivimos.
 - La lectura realizada con ojo crítico.
 - La mejora de nuestra capacidad de comprensión lectora.
 - La libertad de expresarse a través de mensajes en diversos formatos.
-- El aprecio de la utilidad y placer que significa la lectura.
-Se utilizará una gran variedad de recursos próximos a la 
-realidad escolar: libros, manuales, prensa y otros textos de uso 
-social, películas, canciones, Internet, producciones propias o 
-de otros compañeros y compañeras, etc.).
-Criterios de valoración de los procesos de aprendizaje.
-Las pautas de evaluación para estos contenidos, teniendo siempre en cuenta las posibilidades y las capacidades 
-del alumnado, deben estar ligadas a comprobar, tanto en la 
-lengua materna como en una lengua extranjera, sus capacidades para captar las ideas generales y concretas, así como 
-valorar si son capaces de realizar inferencias basadas en las 
-lecturas. Se valorará la capacidad de procesar la información 
-procedente de diversos textos y formatos, identificándola, clasificándola y comparándola. Se deberá evaluar, también, el 
-desarrollo de destrezas en aspectos no textuales para procesar la información (códigos visuales, musicales, de expresión 
-corporal, etc.). Se observará la actitud ante la lectura y la capacidad de relación de lo aprendido con sus propias vivencias. 
-Obviamente, se valorará la comprensión de la lectura en voz 
-alta, previa lectura silenciosa, para determinar la adquisición 
-del proceso de decodificación, la pronunciación, ritmo, velocidad y entonación adecuados.
-4. ¿Qué y cómo escribir?
-Relevancia y sentido educativo.
-La escritura es la última de las destrezas en ser aplicada 
-en el proceso de aprendizaje y es, a su vez, la que con menor 
-frecuencia se pone en práctica en el uso natural del lenguaje, 
-aunque admita un tratamiento simultáneo en relación con las 
-otras destrezas. El desarrollo de esta habilidad supone una 
-mayor complejidad en la planificación y estructuración de los 
-mensajes, más propiedad, precisión y corrección, así como 
-una mayor diversificación de los contextos a lo largo de toda la 
-Etapa. En el aprendizaje de una lengua, materna o extranjera, 
-la escritura irá asociada al desarrollo de la lectura y, se procu-
-
-Página núm. 18 
-Sevilla, 30 de agosto 2007
-rará, mediante una acción educativa coordinada, la consolidación del dominio de las técnicas de decodificación, poniendo 
-interés en que las producciones sean lo suficientemente cercanas, y por lo tanto, motivadoras y con significado.
-Contenidos y problemáticas relevantes.
-Se debe tender a escribir para pensar y darle forma al 
-pensamiento y prepararlo para una producción de mensajes 
-planificados y organizados, debiendo existir una colaboración 
-de la familia con la escuela. Escribir para comunicar de forma 
-adecuada ideas o sentimientos con la posibilidad de que queden guardados, se revisen y se hable sobre ellos. Escribir para 
-transmitir mensajes cercanos y prácticos. Escribir para comprender y compartir la experiencia de autores y autoras reconocidos, que forman parte de nuestro patrimonio, en especial 
-del andaluz.
-En la Comunidad Autónoma de Andalucía deberemos 
-abordar, particularmente, los siguientes contenidos: 
-- Composición de textos a partir de la realidad más cercana al alumnado, incluyendo a los andaluces y andaluzas que 
-viven fuera de nuestra tierra (personajes, experiencias). 
-- Creación y recreación de textos con intención literaria o 
-lúdica, a partir de modelos de autores y autoras andaluces o 
-de temática andaluza. 
-- Conocimiento y composición de textos relativos a los 
-medios de comunicación periodísticos referidos a nuestra Comunidad (sociedad, cultura, ciencia).
-Sugerencias acerca de las líneas metodológicas y utilización de recursos.
-El proceso escritor debe iniciarse con la redacción de 
-mensajes sencillos con una intención clara y funcional. Más 
-tarde se abordará la composición de mensajes más complejos 
-con un conocimiento básico de los elementos que participan 
-en la composición (planificación, organización de las ideas, 
-redacción, coherencia, cohesión, corrección y adecuación). 
-Posteriormente se podrá continuar con la redacción de proyectos de escritura definidos: poesías, relatos, piezas dialogadas, álbumes de textos e ilustraciones, noticias...) en distintos 
-soportes, procurando aumentar paulatinamente el uso de las 
-TIC. Finalmente, se incorporarán al estilo personal de cada 
-alumno y alumna, la reflexión lingüística y ciertos modelos de 
-la historia de la literatura, así como el tratamiento crítico sobre 
-aspectos de significativa relevancia.
-En el tratamiento metodológico de esta habilidad pueden 
-suscitarse actividades orientadas a que el alumnado adquiera 
-un adecuado nivel de expresión escrita:
-- Como forma de relacionarnos y entendernos con los demás. 
-- Con una intención y con una finalidad, dependiendo de a 
-quién va dirigido nuestro mensaje.
-- Para mejorar nuestra comunicación a través de lo que 
-escribimos.
+- El aprecio de la utilidad y placer que significa la lectura. Se utilizará una gran variedad de recursos próximos a la realidad escolar: libros, manuales, prensa y otros textos de uso social, películas, canciones, Internet, producciones propias o de otros compañeros y compañeras, etc.). Criterios de valoración de los procesos de aprendizaje. Las pautas de evaluación para estos contenidos, teniendo siempre en cuenta las posibilidades y las capacidades del alumnado, deben estar ligadas a comprobar, tanto en la lengua materna como en una lengua extranjera, sus capacidades para captar las ideas generales y concretas, así como valorar si son capaces de realizar inferencias basadas en las lecturas. Se valorará la capacidad de procesar la información procedente de diversos textos y formatos, identificándola, clasificándola y comparándola. Se deberá evaluar, también, el desarrollo de destrezas en aspectos no textuales para procesar la información (códigos visuales, musicales, de expresión corporal, etc.). Se observará la actitud ante la lectura y la capacidad de relación de lo aprendido con sus propias vivencias. Obviamente, se valorará la comprensión de la lectura en voz alta, previa lectura silenciosa, para determinar la adquisición del proceso de decodificación, la pronunciación, ritmo, velocidad y entonación adecuados.
+4. ¿Qué y cómo escribir? Relevancia y sentido educativo. La escritura es la última de las destrezas en ser aplicada en el proceso de aprendizaje y es, a su vez, la que con menor frecuencia se pone en práctica en el uso natural del lenguaje, aunque admita un tratamiento simultáneo en relación con las otras destrezas. El desarrollo de esta habilidad supone una mayor complejidad en la planificación y estructuración de los mensajes, más propiedad, precisión y corrección, así como una mayor diversificación de los contextos a lo largo de toda la Etapa. En el aprendizaje de una lengua, materna o extranjera, la escritura irá asociada al desarrollo de la lectura y, se procuPágina núm. 18 Sevilla, 30 de agosto 2007 rará, mediante una acción educativa coordinada, la consolidación del dominio de las técnicas de decodificación, poniendo interés en que las producciones sean lo suficientemente cercanas, y por lo tanto, motivadoras y con significado. Contenidos y problemáticas relevantes. Se debe tender a escribir para pensar y darle forma al pensamiento y prepararlo para una producción de mensajes planificados y organizados, debiendo existir una colaboración de la familia con la escuela. Escribir para comunicar de forma adecuada ideas o sentimientos con la posibilidad de que queden guardados, se revisen y se hable sobre ellos. Escribir para transmitir mensajes cercanos y prácticos. Escribir para comprender y compartir la experiencia de autores y autoras reconocidos, que forman parte de nuestro patrimonio, en especial del andaluz. En la Comunidad Autónoma de Andalucía deberemos abordar, particularmente, los siguientes contenidos:
+- Composición de textos a partir de la realidad más cercana al alumnado, incluyendo a los andaluces y andaluzas que viven fuera de nuestra tierra (personajes, experiencias).
+- Creación y recreación de textos con intención literaria o lúdica, a partir de modelos de autores y autoras andaluces o de temática andaluza.
+- Conocimiento y composición de textos relativos a los medios de comunicación periodísticos referidos a nuestra Comunidad (sociedad, cultura, ciencia). Sugerencias acerca de las líneas metodológicas y utilización de recursos. El proceso escritor debe iniciarse con la redacción de mensajes sencillos con una intención clara y funcional. Más tarde se abordará la composición de mensajes más complejos con un conocimiento básico de los elementos que participan en la composición (planificación, organización de las ideas, redacción, coherencia, cohesión, corrección y adecuación). Posteriormente se podrá continuar con la redacción de proyectos de escritura definidos: poesías, relatos, piezas dialogadas, álbumes de textos e ilustraciones, noticias...) en distintos soportes, procurando aumentar paulatinamente el uso de las TIC. Finalmente, se incorporarán al estilo personal de cada alumno y alumna, la reflexión lingüística y ciertos modelos de la historia de la literatura, así como el tratamiento crítico sobre aspectos de significativa relevancia. En el tratamiento metodológico de esta habilidad pueden suscitarse actividades orientadas a que el alumnado adquiera un adecuado nivel de expresión escrita:
+- Como forma de relacionarnos y entendernos con los demás.
+- Con una intención y con una finalidad, dependiendo de a quién va dirigido nuestro mensaje.
+- Para mejorar nuestra comunicación a través de lo que escribimos.
 - Con corrección ortográfica y gramatical.
 - Comprobando el placer de la experiencia de escribir.
 - Resolviendo dilemas a través de la escritura.
-- Para utilizar otras lenguas y acceder a otras culturas.
-Los recursos utilizados parten de las realidades en las 
-que nos movemos habitualmente: producciones propias o de 
-otros compañeros y compañeras, manejo de técnicas de trabajo y estudio, proyectos de escritura, expresarse a través de 
-los medios de comunicación escrita, uso de las TIC, etc.
-Criterios de valoración de los procesos de aprendizaje.
-A la hora de valorar la escritura, tanto en lengua materna 
-como en lenguas extranjeras, procurando atender a la diversidad, además de observar la capacitación de la adquisición del 
-código escrito y sus convenciones, se valorará la capacidad 
-para redactar textos propios ajustados a su nivel, edad e intereses, procurando siempre una funcionalidad e intencionalidad 
-comunicativas. Se observará su capacidad para utilizar la escritura como medio para aprender y organizar sus propios conocimientos. Se tendrá en cuenta el proceso de elaboración, 
-la planificación, la coherencia y la corrección gramatical y ortográfica de las producciones. También se valorará el interés por 
-la creación literaria a través de la recreación de géneros afines 
-a la edad de los niños y niñas de la etapa.
-ÁREA DE MATEMÁTICAS
-Relevancia y sentido educativo.
-Las matemáticas deben concebirse como un conjunto de 
-ideas y formas de actuar que no sólo conllevan el uso de cantidades y formas, sino mucho más que eso, se asocian a hacerse preguntas, identificar estructuras, analizar fenómenos, 
-establecer modelos, etc. 
-Todo ello debe desarrollarse mediante un triple enfoque 
-en el aprendizaje de las matemáticas en esta etapa educativa 
-que nunca debe perderse de vista: se aprende matemáticas 
-porque son útiles e incluso imprescindibles para la vida cotidiana y para el desarrollo de las actividades profesionales 
-y de todo tipo; porque nos ayudan a comprender la realidad 
-que nos rodea; y también, porque su aprendizaje contribuye a 
-la formación intelectual general potenciando las capacidades 
-cognitivas de niños y niñas.
-Para estos fines, la resolución de problemas debe concebirse como un aspecto fundamental para el desarrollo de las 
-capacidades y competencias básicas en el área de matemáticas y como elemento esencial para la construcción del conocimiento matemático. Es por ello fundamental su incorporación 
-sistemática y metodológica a los contenidos de dicha materia.
-Los medios tecnológicos son hoy día herramientas esenciales para enseñar, aprender y en definitiva, para hacer matemáticas, por lo que su presencia debe ser habitual en los 
-procesos de enseñanza y aprendizaje de esta materia. En 
-este sentido, la adopción de medidas para el impulso de la 
-sociedad del conocimiento y, en particular, la apuesta por la 
-introducción de las TIC en el ámbito educativo, constituyen 
-una importante contribución de carácter social en Andalucía 
-que debe aprovecharse para la mejora de los procesos de enseñanza y aprendizaje en general y en el área de Matemáticas 
-de manera específica.
-Por otro lado, el conocimiento del desarrollo histórico de 
-las matemáticas y la contribución de éstas a la sociedad en 
-todos los tiempos y culturas servirán para concebir el saber 
-matemático como una necesidad básica para todos los ciudadanos y ciudadanas.
-Estos tres aspectos: la resolución de problemas, sobre 
-todo; el uso sistemáticamente adecuado de los medios tecnológicos; y la dimensión social y cultural de las matemáticas, 
-deben entenderse, pues, como ejes transversales que han de 
-estar siempre presentes en la construcción del conocimiento 
-matemático durante esta etapa.
-El desarrollo del sentido numérico y de la simbolización 
-algebraica, el estudio de las formas y sus propiedades, en 
-especial las de nuestro entorno, y la interpretación de los fenómenos ambientales y sociales a través del tratamiento de 
-la información y la probabilidad, completan la propuesta de 
-contenidos para esta etapa educativa.
-Núcleos temáticos.
+- Para utilizar otras lenguas y acceder a otras culturas. Los recursos utilizados parten de las realidades en las que nos movemos habitualmente: producciones propias o de otros compañeros y compañeras, manejo de técnicas de trabajo y estudio, proyectos de escritura, expresarse a través de los medios de comunicación escrita, uso de las TIC, etc. Criterios de valoración de los procesos de aprendizaje. A la hora de valorar la escritura, tanto en lengua materna como en lenguas extranjeras, procurando atender a la diversidad, además de observar la capacitación de la adquisición del código escrito y sus convenciones, se valorará la capacidad para redactar textos propios ajustados a su nivel, edad e intereses, procurando siempre una funcionalidad e intencionalidad comunicativas. Se observará su capacidad para utilizar la escritura como medio para aprender y organizar sus propios conocimientos. Se tendrá en cuenta el proceso de elaboración, la planificación, la coherencia y la corrección gramatical y ortográfica de las producciones. También se valorará el interés por la creación literaria a través de la recreación de géneros afines a la edad de los niños y niñas de la etapa. ÁREA DE MATEMÁTICAS Relevancia y sentido educativo. Las matemáticas deben concebirse como un conjunto de ideas y formas de actuar que no sólo conllevan el uso de cantidades y formas, sino mucho más que eso, se asocian a hacerse preguntas, identificar estructuras, analizar fenómenos, establecer modelos, etc. Todo ello debe desarrollarse mediante un triple enfoque en el aprendizaje de las matemáticas en esta etapa educativa que nunca debe perderse de vista: se aprende matemáticas porque son útiles e incluso imprescindibles para la vida cotidiana y para el desarrollo de las actividades profesionales y de todo tipo; porque nos ayudan a comprender la realidad que nos rodea; y también, porque su aprendizaje contribuye a la formación intelectual general potenciando las capacidades cognitivas de niños y niñas. Para estos fines, la resolución de problemas debe concebirse como un aspecto fundamental para el desarrollo de las capacidades y competencias básicas en el área de matemáticas y como elemento esencial para la construcción del conocimiento matemático. Es por ello fundamental su incorporación sistemática y metodológica a los contenidos de dicha materia. Los medios tecnológicos son hoy día herramientas esenciales para enseñar, aprender y en definitiva, para hacer matemáticas, por lo que su presencia debe ser habitual en los procesos de enseñanza y aprendizaje de esta materia. En este sentido, la adopción de medidas para el impulso de la sociedad del conocimiento y, en particular, la apuesta por la introducción de las TIC en el ámbito educativo, constituyen una importante contribución de carácter social en Andalucía que debe aprovecharse para la mejora de los procesos de enseñanza y aprendizaje en general y en el área de Matemáticas de manera específica. Por otro lado, el conocimiento del desarrollo histórico de las matemáticas y la contribución de éstas a la sociedad en todos los tiempos y culturas servirán para concebir el saber matemático como una necesidad básica para todos los ciudadanos y ciudadanas. Estos tres aspectos: la resolución de problemas, sobre todo; el uso sistemáticamente adecuado de los medios tecnológicos; y la dimensión social y cultural de las matemáticas, deben entenderse, pues, como ejes transversales que han de estar siempre presentes en la construcción del conocimiento matemático durante esta etapa. El desarrollo del sentido numérico y de la simbolización algebraica, el estudio de las formas y sus propiedades, en especial las de nuestro entorno, y la interpretación de los fenómenos ambientales y sociales a través del tratamiento de la información y la probabilidad, completan la propuesta de contenidos para esta etapa educativa. Núcleos temáticos.
+
 1. Resolución de problemas (transversal).
+
 2. Uso de los recursos TIC en la enseñanza y el aprendizaje de las matemáticas (transversal).
+
 3. Dimensión histórica, social y cultural de las matemáticas (transversal).
+
 4. Desarrollo del sentido numérico. Medida de magnitudes.
+
 5. Las formas y figuras y sus propiedades.
+
 6. Tratamiento de la información, azar y probabilidad.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 19
-Es preciso indicar que estos bloques temáticos no deben 
-considerarse compartimentos estancos. En este sentido, es 
-esencial la organización del aprendizaje desde la autonomía 
-de cada centro y de cada equipo docente. En todo caso debe 
-abordarse la enseñanza y aprendizaje de los contenidos de 
-forma cíclica y gradual y con atención a todos los bloques.
-1. Resolución de problemas.
-Relevancia y sentido educativo.
-La resolución de problemas debe entenderse como la 
-esencia fundamental del pensamiento y el saber matemático, 
-y en ese sentido ha de impregnar e inspirar todos los conocimientos que se vayan construyendo en esta etapa educativa, 
-considerándose como eje vertebrador de todo el aprendizaje 
-matemático y orientándose hacia la reflexión, el análisis, la 
-concienciación y la actitud crítica ante la realidad que nos rodea en la vida cotidiana.
-El estudio a través de la resolución de problemas fomenta 
-la autonomía e iniciativa personal, promueve la perseverancia 
-en la búsqueda de alternativas de trabajo y contribuye a la flexibilidad para modificar puntos de vista, además de fomentar 
-la lectura comprensiva, la organización de la información, el 
-diseño de un plan de trabajo y su puesta en práctica, así como 
-la interpretación y análisis de resultados en el contexto en el 
-que se ha planteado y la habilidad para comunicar con eficacia los procesos y resultados seguidos.
-La resolución de problemas debe contribuir a introducir y 
-aplicar los contenidos de forma contextualizada, a conectarlos 
-con otras áreas de conocimiento contribuyendo a su afianzamiento, a la educación en valores y al desarrollo de destrezas 
-en el ámbito lingüístico, ya que previamente al planteamiento 
-y resolución de cualquier problema se requiere la traducción 
-del lenguaje verbal al matemático y, más tarde, será necesaria 
-la expresión oral o escrita del procedimiento empleado en la 
-resolución y el análisis de los resultados. Por todo ello resulta 
-fundamental en todo el proceso la precisión en los lenguajes y 
-el desarrollo de competencias de expresión oral y escrita.
-Contenidos relevantes.
-Los niños y niñas del tercer ciclo, para los que la resolución de problemas resulta especialmente adecuada para ser 
-trabajada, deben familiarizarse con alguna estrategia heurística de resolución de problemas, como la basada en cuatro 
-pasos para resolver un problema matemático: comprender el 
-enunciado, trazar un plan o estrategia, ejecutar el plan y comprobar la solución en el contexto del problema.
-Interacción con otros núcleos temáticos y de actividades.
-Más que estar relacionado con el resto de núcleos temáticos de matemáticas, la resolución de problemas constituye en 
-sí misma la esencia del aprendizaje que ha de estar presente 
-en todos núcleos temáticos de esta materia.
-Evidentemente, la resolución de problemas tiene una 
-fuerte relación con todos los núcleos temáticos de las materias del área lingüística.
-En todos los cursos deben abordarse situaciones relacionadas con todas las materias y, de manera especial, con 
-los núcleos de problemas que se estudian en el área Conocimiento del medio natural, social y cultural. Asimismo, se incluirán en la resolución de problemas aquellas situaciones que se 
-derivan de la vida cotidiana y doméstica.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-Se introducirán los nuevos conceptos fundamentándolos 
-a través de situaciones que manifiesten su interés práctico y 
-funcional, y se profundizará en su conocimiento, manejo y propiedades a través de la resolución de problemas.
-Tanto en el estudio de situaciones problemáticas como, 
-en general, en todo proceso de construcción del aprendizaje 
-matemático deberán utilizarse como recursos habituales juegos matemáticos y materiales manipulativos e informáticos. 
-En este sentido, se potenciará el uso del taller y/o laboratorio 
-de matemáticas.
-Los estudiantes de esta etapa educativa deben pasar de 
-situaciones problemáticas concretas y sencillas, al principio en 
-los dos primeros ciclos, relacionadas con el entorno inmediato, 
-a situaciones algo más complejas, en el último ciclo, para facilitar la adquisición del pensamiento abstracto.
-En todas las situaciones problemáticas, incluyendo los 
-problemas aritméticos escolares, se graduarán los mismos, 
-pasando de situaciones que se resuelvan en una etapa a 
-aquellas de dos o tres etapas. En los problemas aritméticos se 
-deberán tener en cuenta las diferentes categorías semánticas 
-y graduarlos en función de su dificultad.
-Criterios de valoración de los aprendizajes.
-Respecto a la evaluación de la resolución de problemas, 
-mucho más que los resultados obtenidos finalmente, deben 
-valorarse, objetivamente, como aspectos imprescindibles a 
-considerar todas las destrezas que intervienen en el estudio 
-de la situación problemática, tales como la lectura comprensiva del enunciado, la formulación e interpretación de los datos que intervienen, el planteamiento de la estrategia a seguir, 
-la realización de las operaciones o la ejecución del plan, la 
-validación de los resultados obtenidos y la claridad de las explicaciones.
-2. Uso de los recursos TIC en la enseñanza y el aprendizaje de las matemáticas.
-Relevancia y sentido educativo.
-Hoy día los medios tecnológicos son esenciales para la 
-sociedad en general, tal y como se plantea en el núcleo temático «Progreso tecnológico y modelos de desarrollo» del área 
-de Conocimiento del medio natural, social y cultural, y para 
-la construcción del conocimiento matemático en particular. El 
-trabajo colaborativo y la búsqueda, selección, interpretación y 
-organización de la información son aspectos fundamentales 
-en los nuevos procesos de enseñanza y aprendizaje de todas 
-las áreas de conocimiento que, particularmente en el caso de 
-las matemáticas, deben contribuir a la aportación de otras 
-perspectivas ante la toma de decisiones, la reflexión, la comprensión de situaciones y de nuevos conceptos y el razonamiento, entre otros muchos aspectos importantes. 
-Contenidos relevantes.
-Es fundamental la incorporación a la dinámica habitual de 
-trabajo en el aula de las alternativas metodológicas existentes 
-para el uso educativo de Internet, tales como las webquests, 
-cazas del tesoro, herramientas de autor, entre otras.
-Los alumnos y alumnas deben profundizar gradualmente 
-en el conocimiento, manejo y aprovechamiento didáctico de 
-alguna aplicación básica de Geometría Dinámica, familiarizarse con el uso racional de la calculadora y utilizar simuladores y recursos interactivos como elementos habituales de sus 
-aprendizajes.
-Interacción con otros núcleos temáticos y de actividades.
-La utilización de los recursos TIC debe estar presente en 
-los procesos de enseñanza y aprendizaje de todos los núcleos 
-temáticos de matemáticas, en la medida en que ello sea posible, dependiendo del nivel de informatización del centro.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-En general, la introducción del uso generalizado de los 
-recursos TIC en el ámbito educativo debe entenderse como 
-un proceso progresivo y no traumático de adaptación del profesorado, que ha de partir del enriquecimiento del abanico de 
-recursos disponibles en el aula, para llegar, en un plazo de 
+Sevilla, 30 de agosto 2007 Página núm. 19 Es preciso indicar que estos bloques temáticos no deben considerarse compartimentos estancos. En este sentido, es esencial la organización del aprendizaje desde la autonomía de cada centro y de cada equipo docente. En todo caso debe abordarse la enseñanza y aprendizaje de los contenidos de forma cíclica y gradual y con atención a todos los bloques.
 
-Página núm. 20 
-Sevilla, 30 de agosto 2007
-tiempo variable y dependiendo de la diversidad del profesorado, hacia cambios verdaderamente significativos en los procesos de enseñanza y aprendizaje, que han desarrollarse en 
-un marco más amplio de acontecimientos que afectan fundamentalmente a la formación del profesorado, a la organización 
-de los recursos y a la planificación del centro, etc.
-Más concretamente, en el área de Matemáticas, las calculadoras, las aplicaciones informáticas específicas y los recursos interactivos y simuladores virtuales deben suponer, no 
-sólo un apoyo para la realización de cálculos, sino mucho más 
-que eso, deben convertirse en herramientas para la construcción del pensamiento matemático y facilitar la comprensión 
-del significado de los contenidos, ya que permiten liberar de 
-una parte considerable de carga algorítmica.
-Es conveniente que la elección y el uso de las aplicaciones didácticas sea consensuado y programado por los equipos 
-docentes de cada centro. El mismo criterio debe tenerse en 
-cuenta respecto al uso de calculadoras.
-Criterios de valoración de los aprendizajes.
-De la mano de los cambios metodológicos en los procesos de enseñanza y aprendizaje que emanan de la introducción de las TIC en el ámbito escolar, debe producirse evidentemente diversificación y enriquecimiento en los procesos de 
-evaluación que han de contemplar los aspectos relevantes del 
-aprendizaje de los alumnos y alumnas: capacidad de interpretar, sintetizar, razonar, expresar situaciones, tomar decisiones, 
-manejo diestro de las herramientas, facilidad de trabajar en 
-equipo, entre otros aspectos a considerar.
-Por otro lado, las TIC nos ofrecen un amplio abanico de 
-nuevas herramientas que pueden introducir elementos novedosos, como las aplicaciones multimedia, y que, en cualquier caso, 
-deben enriquecer el proceso de evaluación del alumnado, tales 
-como simuladores, cuestionarios de corrección automatizada, 
-webquests, cazas del tesoro, autoevaluaciones, etc.
-3. Dimensión histórica, social y cultural de las matemáticas.
-Relevancia y sentido educativo.
-La perspectiva histórica nos acerca a las matemáticas 
-como ciencia humana, no endiosada, ni apartada de la realidad y en ocasiones falible, pero capaz también de corregir 
-sus errores. Nos aproxima a las interesantes personalidades 
-de los hombres y mujeres que han ayudado a impulsar las matemáticas a lo largo de muchos siglos, por motivaciones muy 
-distintas, y nos hace plenamente conscientes del carácter profundamente histórico, es decir, dependiente del momento y de 
-las circunstancias sociales, ambientales, prejuicios, así como 
-de los mutuos y fuertes impactos que la cultura en general, las 
-matemáticas, la tecnología y las diversas ciencias han ejercido 
-unas sobre otras.
-La historia se puede y se debe utilizar, por ejemplo, para 
-entender y hacer comprender una idea más o menos compleja 
-del modo más adecuado, pero además nos puede ayudar a 
-contrastar las situaciones sociales de otros tiempos y culturas 
-con las realidades de nuestra sociedad actual, a hacer patente 
-la forma peculiar de aparecer las ideas matemáticas, a enmarcar temporal y espacialmente las grandes ideas y problemas 
-junto con su motivación y precedentes, a señalar los problemas de cada época y su evolución, y a apuntar las conexiones 
-históricas de las matemáticas con otras ciencias.
-Contenidos relevantes.
-El estudio de la historia de las matemáticas en las distintas épocas y en las diferentes culturas ayudará a concebir a 
-Andalucía como crisol cultural: las matemáticas en la India, en 
-especial en su etapa de madurez en la época clásica (s. I al 
-VIII) (el sistema de numeración en base diez, la astronomía, la 
-aritmética, entre otros); las matemáticas en el Antiguo Egipto 
-(los números y las operaciones, las fracciones, el triángulo, el 
-círculo, la pirámide, el cilindro, el acercamiento al número pi, 
-etc.); las matemáticas en la época helénica (la geometría euclidiana y las figuras matemáticas relevantes de esta etapa); las 
-matemáticas en el mundo árabe, en especial desde finales del 
-s. VIII al s. XV (el desarrollo de la aritmética, el sistema sexagesimal, la astronomía, entre otros), haciendo especial énfasis 
-al desarrollo de la misma durante el período del Califato de 
-Córdoba, y las matemáticas en nuestro tiempo.
-Interacción con otros núcleos temáticos y de actividades.
-Por sus características y el interés de su transversalidad, 
-este núcleo temático debe estar presente en todos los demás, 
-en función de los contenidos que se vayan abordando en cada 
-momento.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-La introducción del conocimiento histórico, social y cultural sobre las matemáticas no debe consistir en disponer de 
-una batería de historietas y anécdotas curiosas para entretener al alumnado a fin de hacer un alto en el camino. Más bien 
-debe programarse de manera cuidada y coordinada. El orden 
-lógico no es necesariamente el orden histórico de carácter cronológico, ni tampoco el orden didáctico tiene que coincidir con 
-ninguno de los dos. 
-Para el estudio de la componente histórica de las matemáticas resulta especialmente indicado el uso de Internet y 
-de las herramientas educativas existentes para su aprovechamiento, así como las lecturas infantiles y los pasatiempos y 
-juegos sobre este tema.
-Criterios de valoración de los aprendizajes.
-En su evaluación habrán de tenerse en cuenta los aspectos más relevantes de la interpretación de la historia y su proyección hacia el conocimiento matemático y general, la actitud 
-crítica, la capacidad de interpretación, de análisis y de síntesis, 
-así como la capacidad de trabajo en equipo.
-4. Desarrollo del sentido numérico. Medida de magnitudes.
-Relevancia y sentido educativo.
-El desarrollo del sentido numérico será entendido como el 
-dominio reflexivo de las relaciones numéricas que se pueden 
-expresar en capacidades como: habilidad para descomponer 
-números de forma natural, comprender y utilizar las estructura 
-del sistema de numeración decimal, utilizar las propiedades de 
-las operaciones y las relaciones entre ellas para realizar cálculos mentales y razonados. Interesa principalmente la habilidad 
-para el cálculo con diferentes procedimientos y la decisión en 
-cada caso del más adecuado.
-A lo largo de la etapa se pretende que el alumnado calcule con fluidez y haga estimaciones razonables, fundamentalmente cuando se cuantifican magnitudes y se informa sobre 
-situaciones reales que niñas y niños deben llegar a interpretar 
-correctamente. La realización de mediciones de diferentes 
-magnitudes y en diferentes contextos llevará al manejo de un 
-número progresivamente mayor de unidades, a la elección de 
-unidad y a la idea de aproximación.
-Más importante que el ejercicio de destrezas basadas en 
-cálculos descontextualizados es relacionar las distintas formas 
-de representación numérica con sus aplicaciones, especialmente en lo que concierne a la medida de magnitudes, y comprender las propiedades de los números para poder realizar 
-un uso razonable de las mismas.
-Contenidos relevantes.
-Los contenidos a tratar se encuentran recogidos en el Real 
-Decreto 1513/2006, de 7 de diciembre: Bloque 1, Números y 
-operaciones, de primero, segundo y tercer ciclo; y Bloque 2, La 
-medida: estimación y cálculo, de primero, segundo y tercer ciclo.
+1. Resolución de problemas. Relevancia y sentido educativo. La resolución de problemas debe entenderse como la esencia fundamental del pensamiento y el saber matemático, y en ese sentido ha de impregnar e inspirar todos los conocimientos que se vayan construyendo en esta etapa educativa, considerándose como eje vertebrador de todo el aprendizaje matemático y orientándose hacia la reflexión, el análisis, la concienciación y la actitud crítica ante la realidad que nos rodea en la vida cotidiana. El estudio a través de la resolución de problemas fomenta la autonomía e iniciativa personal, promueve la perseverancia en la búsqueda de alternativas de trabajo y contribuye a la flexibilidad para modificar puntos de vista, además de fomentar la lectura comprensiva, la organización de la información, el diseño de un plan de trabajo y su puesta en práctica, así como la interpretación y análisis de resultados en el contexto en el que se ha planteado y la habilidad para comunicar con eficacia los procesos y resultados seguidos. La resolución de problemas debe contribuir a introducir y aplicar los contenidos de forma contextualizada, a conectarlos con otras áreas de conocimiento contribuyendo a su afianzamiento, a la educación en valores y al desarrollo de destrezas en el ámbito lingüístico, ya que previamente al planteamiento y resolución de cualquier problema se requiere la traducción del lenguaje verbal al matemático y, más tarde, será necesaria la expresión oral o escrita del procedimiento empleado en la resolución y el análisis de los resultados. Por todo ello resulta fundamental en todo el proceso la precisión en los lenguajes y el desarrollo de competencias de expresión oral y escrita. Contenidos relevantes. Los niños y niñas del tercer ciclo, para los que la resolución de problemas resulta especialmente adecuada para ser trabajada, deben familiarizarse con alguna estrategia heurística de resolución de problemas, como la basada en cuatro pasos para resolver un problema matemático: comprender el enunciado, trazar un plan o estrategia, ejecutar el plan y comprobar la solución en el contexto del problema. Interacción con otros núcleos temáticos y de actividades. Más que estar relacionado con el resto de núcleos temáticos de matemáticas, la resolución de problemas constituye en sí misma la esencia del aprendizaje que ha de estar presente en todos núcleos temáticos de esta materia. Evidentemente, la resolución de problemas tiene una fuerte relación con todos los núcleos temáticos de las materias del área lingüística. En todos los cursos deben abordarse situaciones relacionadas con todas las materias y, de manera especial, con los núcleos de problemas que se estudian en el área Conocimiento del medio natural, social y cultural. Asimismo, se incluirán en la resolución de problemas aquellas situaciones que se derivan de la vida cotidiana y doméstica. Sugerencias acerca de líneas metodológicas y utilización de recursos. Se introducirán los nuevos conceptos fundamentándolos a través de situaciones que manifiesten su interés práctico y funcional, y se profundizará en su conocimiento, manejo y propiedades a través de la resolución de problemas. Tanto en el estudio de situaciones problemáticas como, en general, en todo proceso de construcción del aprendizaje matemático deberán utilizarse como recursos habituales juegos matemáticos y materiales manipulativos e informáticos. En este sentido, se potenciará el uso del taller y/o laboratorio de matemáticas. Los estudiantes de esta etapa educativa deben pasar de situaciones problemáticas concretas y sencillas, al principio en los dos primeros ciclos, relacionadas con el entorno inmediato, a situaciones algo más complejas, en el último ciclo, para facilitar la adquisición del pensamiento abstracto. En todas las situaciones problemáticas, incluyendo los problemas aritméticos escolares, se graduarán los mismos, pasando de situaciones que se resuelvan en una etapa a aquellas de dos o tres etapas. En los problemas aritméticos se deberán tener en cuenta las diferentes categorías semánticas y graduarlos en función de su dificultad. Criterios de valoración de los aprendizajes. Respecto a la evaluación de la resolución de problemas, mucho más que los resultados obtenidos finalmente, deben valorarse, objetivamente, como aspectos imprescindibles a considerar todas las destrezas que intervienen en el estudio de la situación problemática, tales como la lectura comprensiva del enunciado, la formulación e interpretación de los datos que intervienen, el planteamiento de la estrategia a seguir, la realización de las operaciones o la ejecución del plan, la validación de los resultados obtenidos y la claridad de las explicaciones.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 21
-Interacción con otros núcleos temáticos y de actividades.
-Este núcleo temático está relacionado con los siguientes 
-contenidos sobre matemáticas del Real Decreto 1513/2006, 
-de 7 de diciembre: Bloque 3. Geometría, de primero, segundo 
-y tercer ciclo, y Bloque 4. Tratamiento de la información, azar 
-y probabilidad, de primero, segundo y tercer ciclo.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-La construcción de los distintos tipos de números a lo 
-largo de las tres etapas, y del sistema decimal como base 
-de nuestro sistema de numeración, debe ser desarrollada de 
-forma contextualizada buscando preferentemente situaciones 
-cercanas a las niñas y niños, usando materiales manipulables 
-específicos: regletas de Cuisenaire, bloques multibase, multicubos, etc. Dentro de este proceso de construcción se irán 
-desarrollando, de forma paralela e interrelacionada, las operaciones aritméticas.
-Es conveniente que los alumnos y alumnas manejen con 
-soltura las operaciones básicas con los diferentes tipos de 
-números, tanto a través de algoritmos de lápiz y papel como 
-con la calculadora. Asimismo, es importante que el alumnado 
-utilice de manera racional estos procedimientos de cálculo, 
-decidiendo cuál de ellos es el más adecuado a cada situación 
-y desarrollando paralelamente el cálculo mental y razonado y 
-la capacidad de estimación, lo que facilitará el control sobre 
-los resultados y sobre los posibles errores en la resolución de 
-problemas.
-Especial interés tienen los problemas aplicados a la estimación y medida de magnitudes, en los que la elección adecuada de las unidades, la aproximación del resultado y la estimación del error, tienen especial importancia.
-Los problemas aritméticos escolares no deben ser, preferentemente, entendidos como un instrumento de comprobación del manejo de las operaciones elementales sino como 
-un recurso fundamental para la comprensión de los conceptos de suma, resta, multiplicación y división. En esta etapa se 
-sabrá sumar cuando se sea capaz de resolver una situación 
-problemática en la que la suma sea la operación que deba 
-usarse. Los problemas aritméticos se graduarán pasando de 
-situaciones que se resuelven en una etapa a aquellas de dos o 
-tres etapas. En los problemas aritméticos se deberán tener en 
-cuenta las diferentes categorías semánticas y graduarlos en 
-función de su dificultad.
-Los números han de ser usados en diferentes contextos 
-–juegos, situaciones familiares y personales, situaciones públicas–, operando con ellos reiteradamente, sabiendo que la 
-comprensión de los procesos desarrollados y del significado 
-de los resultados, es contenido previo y prioritario respecto 
-a la propia destreza en el cálculo y la automatización operatoria.
-Entendemos que, de forma especial, el número ha de ser 
-usado en la construcción de la idea de magnitud: longitud, 
-peso-masa, tiempo y sistema monetario. En el proceso de 
-construcción es fundamental el uso de materiales manipulables específicos para la realización de mediciones y experiencias básicas para la compresión del concepto de magnitud. En 
-este sentido, se hará uso de magnitudes y aparatos de medida 
-que se emplean en el contexto familiar (cinta métrica, balanza 
-de cocina, termómetro clínico, vasos medidores, etc).
-Criterios de valoración de los aprendizajes.
-En la evaluación del conocimiento numérico, la medida, el 
-manejo de los números, sus propiedades y operaciones, deberán tenerse fundamentalmente en cuenta, dentro del contexto 
-de las actividades que se propongan, los aspectos destacados 
-anteriormente, es decir, la estimación previa del resultado, la 
-valoración del procedimiento de cálculo empleado y la utilización de la unidad y magnitud adecuada. Todo ello utilizando 
-como instrumentos problemas contextualizados y cercanos a 
-alumnos y alumnas y la recreación de éstos a partir de operaciones fijadas.
-5. Las formas y figuras y sus propiedades.
-Relevancia y sentido educativo.
-La geometría se centra sobre todo en la clasificación, descripción y análisis de relaciones y propiedades de las figuras 
-en el plano y en el espacio. El aprendizaje de la geometría 
-debe ofrecer continuas oportunidades para conectar a niños 
-y niñas con su entorno y para construir, dibujar, hacer modelos, medir o clasificar de acuerdo con criterios previamente 
-elegidos. 
-Para el estudio de la geometría no son necesarios demasiados requisitos previos, lo cual puede permitir que todo el 
-alumnado tenga la oportunidad de adentrarse en sus atractivas características, desarrollando capacidades que facilitarán 
-una actitud positiva hacia el aprendizaje de las matemáticas. 
-Con ello el profesorado dispone de situaciones ideales para la 
-introducción o el estudio de otros conceptos matemáticos.
-Contenidos relevantes.
-Los contenidos a tratar se encuentran recogidos en el 
-Real Decreto 1513/2006, de 7 de diciembre: Bloque 3, Geometría, de primero, segundo y tercer ciclo.
-Interacción con otros núcleos temáticos y de actividades.
-Este núcleo temático está relacionado con los siguientes 
-contenidos sobre matemáticas del Real Decreto 1513/2006, 
-de 7 de diciembre,: Bloque 1, Números, de primero, segundo 
-y tercer ciclo; Bloque 2, La medida: estimación y cálculo de 
-magnitudes, de primero, segundo y tercer ciclo; y Bloque 4, 
-Tratamiento de la información, estadística y probabilidad, de 
-primero, segundo y tercer ciclo.
-El aprendizaje de la geometría también debe relacionarse 
-con los núcleos temáticos Paisajes andaluces y El patrimonio 
-en Andalucía, del área de Conocimiento del medio natural, social y cultural.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-Para el estudio de la Geometría es conveniente conjugar 
-la experimentación a través de la manipulación con las posibilidades que ofrece el uso de la tecnología. Es recomendable el 
-uso de materiales manipulables, como geoplanos y mecanos, 
-puzzles, libros de espejos, materiales para formar poliedros, 
-etc., así como la incorporación de programas de geometría 
-dinámica para construir, investigar y deducir propiedades 
-geométricas. En este sentido, se potenciará el uso del taller 
-y/o laboratorio de matemáticas.
-Además, los conocimientos geométricos deben relacionarse con la resolución de problemas, a través de planteamientos que requieran la construcción de modelos o situaciones susceptibles de ser representadas a través de figuras o 
-formas geométricas.
-La observación y manipulación de formas y relaciones en 
-el plano y en el espacio presentes en la vida cotidiana (juegos, 
-hogar, colegio, etc.) y en nuestro patrimonio cultural, artístico 
-y natural servirán para desarrollar las capacidades geométricas, siguiendo el modelo de Van Hiele para el reconocimiento 
-de formas, propiedades y relaciones geométricas, invirtiendo 
-el proceso que parte de las definiciones y fórmulas para determinar otras características o elementos.
-Educar a través del entorno facilitará la observación y 
-búsqueda de elementos susceptibles de estudio geométrico, 
-de los que se establecerán clasificaciones, determinarán características, deducirán analogías y diferencias con otros objetos y figuras.
+2. Uso de los recursos TIC en la enseñanza y el aprendizaje de las matemáticas. Relevancia y sentido educativo. Hoy día los medios tecnológicos son esenciales para la sociedad en general, tal y como se plantea en el núcleo temático «Progreso tecnológico y modelos de desarrollo» del área de Conocimiento del medio natural, social y cultural, y para la construcción del conocimiento matemático en particular. El trabajo colaborativo y la búsqueda, selección, interpretación y organización de la información son aspectos fundamentales en los nuevos procesos de enseñanza y aprendizaje de todas las áreas de conocimiento que, particularmente en el caso de las matemáticas, deben contribuir a la aportación de otras perspectivas ante la toma de decisiones, la reflexión, la comprensión de situaciones y de nuevos conceptos y el razonamiento, entre otros muchos aspectos importantes. Contenidos relevantes. Es fundamental la incorporación a la dinámica habitual de trabajo en el aula de las alternativas metodológicas existentes para el uso educativo de Internet, tales como las webquests, cazas del tesoro, herramientas de autor, entre otras. Los alumnos y alumnas deben profundizar gradualmente en el conocimiento, manejo y aprovechamiento didáctico de alguna aplicación básica de Geometría Dinámica, familiarizarse con el uso racional de la calculadora y utilizar simuladores y recursos interactivos como elementos habituales de sus aprendizajes. Interacción con otros núcleos temáticos y de actividades. La utilización de los recursos TIC debe estar presente en los procesos de enseñanza y aprendizaje de todos los núcleos temáticos de matemáticas, en la medida en que ello sea posible, dependiendo del nivel de informatización del centro. Sugerencias acerca de líneas metodológicas y utilización de recursos. En general, la introducción del uso generalizado de los recursos TIC en el ámbito educativo debe entenderse como un proceso progresivo y no traumático de adaptación del profesorado, que ha de partir del enriquecimiento del abanico de recursos disponibles en el aula, para llegar, en un plazo de
 
-Página núm. 22 
-Sevilla, 30 de agosto 2007
-La geometría debe servir para establecer relaciones con 
-otros ámbitos como la naturaleza, el arte, la arquitectura o el 
-diseño, de manera que el alumnado sea capaz de comenzar 
-a reconocer su presencia y valorar su importancia en nuestra historia y en nuestra cultura. Concretamente, la presencia 
-de mosaicos y frisos en distintos monumentos permitirá descubrir e investigar la geometría de las transformaciones para 
-explorar las características de las reflexiones (geometría desde 
-el primer ciclo), giros y traslaciones (geometría a partir del segundo ciclo).
-El reconocimiento, representación y clasificación de figuras y cuerpos geométricos se debe abordar a través de la 
-observación y de la manipulación física o virtual. El estudio de 
-formas algo más complejas debe abordarse a través del proceso de descomposición en figuras elementales, fomentando 
-el sentido estético y el gusto por el orden.
-El cálculo de áreas y volúmenes de figuras geométricas 
-debe iniciarse por medio de descomposiciones, desarrollos, 
-etc. y solo al final del proceso es conveniente obtener las fórmulas correspondientes. El proceso de obtención de la medida es lo que dará significado a esas fórmulas.
-Criterios de valoración de los aprendizajes.
-La evaluación debe evitar planteamientos memorísticos. 
-Es conveniente fomentar y valorar los procesos de investigación y deducción realizados para determinar las características y propiedades de las distintas formas planas y espaciales, 
-a la vez que se valoran los procesos seguidos en el análisis, 
-planteamiento y resolución de las situaciones y problemas de 
-la vida cotidiana.
-6. Tratamiento de la información, azar y probabilidad.
-Relevancia y sentido educativo.
-La principal finalidad de este núcleo temático es que las 
-niñas y niños comiencen a interpretar los fenómenos ambientales y sociales de su entorno cercano a través de las matemáticas. 
-Los alumnos y alumnas deben ser conscientes de los fenómenos de distinta naturaleza que suceden a su alrededor y 
-que aparecen de forma candente en los medios de comunicación, además de formar parte de su aprendizaje en esta etapa 
-educativa. En este contexto, las matemáticas deben entenderse como una disciplina que ayuda a interpretar la realidad y 
-a actuar sobre ella de forma responsable, crítica y positiva.
-De algún modo, los contenidos matemáticos implicados 
-en este núcleo corresponden fundamentalmente a la estadística y a la probabilidad, disciplinas matemáticas entre las que 
-existe una relación complementaria, la mayoría de las veces, la 
-última en el papel de sustento de la primera. En la actualidad, 
-las múltiples aplicaciones de dichas disciplinas invaden prácticamente todos los campos de la actividad humana y su amplio 
-reconocimiento social es constatado por su creciente presencia en el aprendizaje de otras materias, en comunicaciones 
-de índole periodística, en el mercado laboral y en el ambiente 
-cultural. De hecho, es por eso por lo que la promoción de su 
-aprendizaje en todos los niveles educativos se inserta como 
-una imprescindible meta de carácter cultural que ha de iniciarse de manera natural desde la educación primaria.
-Contenidos relevantes.
-Los contenidos a tratar se encuentran recogidos en el 
-Real Decreto 1513/2006, de 7 de diciembre,: Bloque 5, Tratamiento de la información, estadística y azar, de primero, segundo y tercer ciclo.
-Interacción con otros núcleos temáticos y de actividades.
-Este núcleo temático está relacionado con los siguientes 
-contenidos sobre matemáticas del Real Decreto 1513/2006, 
-de 7 de diciembre: Bloque 1, Números y operaciones, de primero, segundo y tercer ciclo; Bloque 2, La medida: estimación 
-y cálculo de magnitudes, de primero, segundo y tercer ciclo; 
-Bloque 3, Geometría, de primero, segundo y tercer ciclo.
-Dadas sus características, este núcleo temático debe relacionarse con aspectos que se plantean en el área de Conocimiento del medio natural, social y cultural.
-Sugerencias acerca de líneas metodológicas y utilización 
-de recursos.
-El aprendizaje de este núcleo temático adquiere su pleno 
-significado cuando se presenta en conexión con actividades 
-que implican a otras materias. Igualmente el trabajo ha de incidir de forma significativa en la comprensión de las informaciones de los medios de comunicación, para suscitar el interés 
-por los temas y ayudar a valorar el beneficio que los conocimientos estadísticos proporcionan ante la toma de decisiones, 
-normalmente sobre cuestiones que estudian otras materias. 
-Tienen especial importancia en el bloque los contenidos 
-actitudinales, que favorecen la presentación de los datos de 
-forma ordenada y gráfica, y permiten descubrir que las matemáticas facilitan la resolución de problemas de la vida diaria. 
-A su vez, los contenidos de este bloque deben promover el 
-trabajo colaborativo y el uso crítico de la información recibida 
-por diferentes medios.
-Las tablas y gráficos presentes en los medios de comunicación, Internet o en la publicidad facilitarán ejemplos suficientes para analizar y agrupar datos y, sobre todo, para valorar la 
-necesidad y la importancia de establecer relaciones entre ellos.
-Además de obtener conclusiones de los datos expuestos 
-en un gráfico o en una tabla es necesario conocer los procesos previos a su representación. Abordar tareas como la planificación para la recogida de la información, utilizar técnicas 
-de recuento y de manipulación de los datos, así como la forma 
-para agruparlos, son tan importantes como los cálculos que 
-con ellos puedan realizarse (Bloque 5, Tratamiento de la información, azar y probabilidad, desde el segundo ciclo).
-A través de ejemplos prácticos relacionados con su proximidad inmediata, se abordará el proceso de un estudio estadístico completando todos los pasos previos al análisis de 
-resultados para exponer las conclusiones que de ellos se deduzcan (Bloque 5, Tratamiento de la información, azar y probabilidad, del tercer ciclo).
-Los juegos de azar proporcionan ejemplos que permitirán 
-introducir las nociones de probabilidad e incertidumbre (Bloque 5, Tratamiento de la información, azar y probabilidad, del 
-tercer ciclo). 
-Criterios de valoración de los aprendizajes.
-La evaluación considerará además de los aspectos propios 
-de la clasificación y representación de datos, la capacidad para 
-deducir relaciones entre ellos y, sobre todo, la deducción de conclusiones y estimaciones a partir de los datos representados. 
-En los estudios estadísticos se debe valorar que el alumnado sea capaz de diseñar y utilizar técnicas adecuadas para 
-la obtención de datos, de cuantificar, representar y sacar conclusiones del trabajo realizado. 
-Para la probabilidad se pretende que el alumnado sea 
-capaz de razonar sobre los posibles resultados de un experimento aleatorio sencillo a la vez que pueda asignar probabilidades a sucesos equiprobables o no, utilizando distintas 
-estrategias sobre técnicas de conteo.
+Página núm. 20 Sevilla, 30 de agosto 2007 tiempo variable y dependiendo de la diversidad del profesorado, hacia cambios verdaderamente significativos en los procesos de enseñanza y aprendizaje, que han desarrollarse en un marco más amplio de acontecimientos que afectan fundamentalmente a la formación del profesorado, a la organización de los recursos y a la planificación del centro, etc. Más concretamente, en el área de Matemáticas, las calculadoras, las aplicaciones informáticas específicas y los recursos interactivos y simuladores virtuales deben suponer, no sólo un apoyo para la realización de cálculos, sino mucho más que eso, deben convertirse en herramientas para la construcción del pensamiento matemático y facilitar la comprensión del significado de los contenidos, ya que permiten liberar de una parte considerable de carga algorítmica. Es conveniente que la elección y el uso de las aplicaciones didácticas sea consensuado y programado por los equipos docentes de cada centro. El mismo criterio debe tenerse en cuenta respecto al uso de calculadoras. Criterios de valoración de los aprendizajes. De la mano de los cambios metodológicos en los procesos de enseñanza y aprendizaje que emanan de la introducción de las TIC en el ámbito escolar, debe producirse evidentemente diversificación y enriquecimiento en los procesos de evaluación que han de contemplar los aspectos relevantes del aprendizaje de los alumnos y alumnas: capacidad de interpretar, sintetizar, razonar, expresar situaciones, tomar decisiones, manejo diestro de las herramientas, facilidad de trabajar en equipo, entre otros aspectos a considerar. Por otro lado, las TIC nos ofrecen un amplio abanico de nuevas herramientas que pueden introducir elementos novedosos, como las aplicaciones multimedia, y que, en cualquier caso, deben enriquecer el proceso de evaluación del alumnado, tales como simuladores, cuestionarios de corrección automatizada, webquests, cazas del tesoro, autoevaluaciones, etc.
 
-## ANEXO II
+3. Dimensión histórica, social y cultural de las matemáticas. Relevancia y sentido educativo. La perspectiva histórica nos acerca a las matemáticas como ciencia humana, no endiosada, ni apartada de la realidad y en ocasiones falible, pero capaz también de corregir sus errores. Nos aproxima a las interesantes personalidades de los hombres y mujeres que han ayudado a impulsar las matemáticas a lo largo de muchos siglos, por motivaciones muy distintas, y nos hace plenamente conscientes del carácter profundamente histórico, es decir, dependiente del momento y de las circunstancias sociales, ambientales, prejuicios, así como de los mutuos y fuertes impactos que la cultura en general, las matemáticas, la tecnología y las diversas ciencias han ejercido unas sobre otras. La historia se puede y se debe utilizar, por ejemplo, para entender y hacer comprender una idea más o menos compleja del modo más adecuado, pero además nos puede ayudar a contrastar las situaciones sociales de otros tiempos y culturas con las realidades de nuestra sociedad actual, a hacer patente la forma peculiar de aparecer las ideas matemáticas, a enmarcar temporal y espacialmente las grandes ideas y problemas junto con su motivación y precedentes, a señalar los problemas de cada época y su evolución, y a apuntar las conexiones históricas de las matemáticas con otras ciencias. Contenidos relevantes. El estudio de la historia de las matemáticas en las distintas épocas y en las diferentes culturas ayudará a concebir a Andalucía como crisol cultural: las matemáticas en la India, en especial en su etapa de madurez en la época clásica (s. I al VIII) (el sistema de numeración en base diez, la astronomía, la aritmética, entre otros); las matemáticas en el Antiguo Egipto (los números y las operaciones, las fracciones, el triángulo, el círculo, la pirámide, el cilindro, el acercamiento al número pi, etc.); las matemáticas en la época helénica (la geometría euclidiana y las figuras matemáticas relevantes de esta etapa); las matemáticas en el mundo árabe, en especial desde finales del
+s. VIII al s. XV (el desarrollo de la aritmética, el sistema sexagesimal, la astronomía, entre otros), haciendo especial énfasis al desarrollo de la misma durante el período del Califato de Córdoba, y las matemáticas en nuestro tiempo. Interacción con otros núcleos temáticos y de actividades. Por sus características y el interés de su transversalidad, este núcleo temático debe estar presente en todos los demás, en función de los contenidos que se vayan abordando en cada momento. Sugerencias acerca de líneas metodológicas y utilización de recursos. La introducción del conocimiento histórico, social y cultural sobre las matemáticas no debe consistir en disponer de una batería de historietas y anécdotas curiosas para entretener al alumnado a fin de hacer un alto en el camino. Más bien debe programarse de manera cuidada y coordinada. El orden lógico no es necesariamente el orden histórico de carácter cronológico, ni tampoco el orden didáctico tiene que coincidir con ninguno de los dos. Para el estudio de la componente histórica de las matemáticas resulta especialmente indicado el uso de Internet y de las herramientas educativas existentes para su aprovechamiento, así como las lecturas infantiles y los pasatiempos y juegos sobre este tema. Criterios de valoración de los aprendizajes. En su evaluación habrán de tenerse en cuenta los aspectos más relevantes de la interpretación de la historia y su proyección hacia el conocimiento matemático y general, la actitud crítica, la capacidad de interpretación, de análisis y de síntesis, así como la capacidad de trabajo en equipo.
 
-HORARIO LECTIVO MÍNIMO OBLIGATORIO POR ÁREAS 
-Y CICLOS DE LA EDUCACIÓN PRIMARIA 
-ÁREAS
-1.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-2.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-3.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-Conocimiento del 
-medio natural, 
-social y cultural
-175/5
-175/5
-140/4
-Educación artística
-105/3
-105/3
-105/3
+4. Desarrollo del sentido numérico. Medida de magnitudes. Relevancia y sentido educativo. El desarrollo del sentido numérico será entendido como el dominio reflexivo de las relaciones numéricas que se pueden expresar en capacidades como: habilidad para descomponer números de forma natural, comprender y utilizar las estructura del sistema de numeración decimal, utilizar las propiedades de las operaciones y las relaciones entre ellas para realizar cálculos mentales y razonados. Interesa principalmente la habilidad para el cálculo con diferentes procedimientos y la decisión en cada caso del más adecuado. A lo largo de la etapa se pretende que el alumnado calcule con fluidez y haga estimaciones razonables, fundamentalmente cuando se cuantifican magnitudes y se informa sobre situaciones reales que niñas y niños deben llegar a interpretar correctamente. La realización de mediciones de diferentes magnitudes y en diferentes contextos llevará al manejo de un número progresivamente mayor de unidades, a la elección de unidad y a la idea de aproximación. Más importante que el ejercicio de destrezas basadas en cálculos descontextualizados es relacionar las distintas formas de representación numérica con sus aplicaciones, especialmente en lo que concierne a la medida de magnitudes, y comprender las propiedades de los números para poder realizar un uso razonable de las mismas. Contenidos relevantes. Los contenidos a tratar se encuentran recogidos en el Real Decreto 1513/2006, de 7 de diciembre: Bloque 1, Números y operaciones, de primero, segundo y tercer ciclo; y Bloque 2, La medida: estimación y cálculo, de primero, segundo y tercer ciclo.
 
-Sevilla, 30 de agosto 2007 
-Página núm. 23
-ÁREAS
-1.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-2.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-3.º CICLO
-horas totales/ horas semanales de 
-los dos cursos
-Educación física
-105/3
-105/3
-105/3
-Lengua castellana 
-y literatura
-315/9
-280/8
-280/8
-Lengua extranjera
-105/3
-140/4
-140/4
-Matemáticas
-175/5
-210/6
-175/5
-Religión
-105/3
-105/3
-105/3
-Educación para la 
-ciudadanía y los 
-derechos humanos
--
--
-50/1,5
-TOTAL
-1.085/31
-1.120/32
-1.100/31,5
- Los centros educativos completarán este horario hasta 
-las 50 horas lectivas semanales por ciclo, 25 horas para cada 
-curso. 
- ORDEN de 10 de agosto de 2007, por la que se 
-desarrolla el currículo correspondiente a la Educación 
-Secundaria Obligatoria en Andalucía.
-La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de 
-estudio, incluida la ordenación curricular, de conformidad con 
-lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para 
-Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª 
-de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de la 
-norma fundamental, a fin de garantizar el cumplimiento de las 
-obligaciones de los poderes públicos en esta materia.
-En el ejercicio de esta competencia, el Decreto 231/2007, 
-de 31 de julio, ha establecido la ordenación y las enseñanzas 
-correspondientes a la educación secundaria obligatoria. En el 
+Sevilla, 30 de agosto 2007 Página núm. 21 Interacción con otros núcleos temáticos y de actividades. Este núcleo temático está relacionado con los siguientes contenidos sobre matemáticas del Real Decreto 1513/2006, de 7 de diciembre: Bloque 3. Geometría, de primero, segundo y tercer ciclo, y Bloque 4. Tratamiento de la información, azar y probabilidad, de primero, segundo y tercer ciclo. Sugerencias acerca de líneas metodológicas y utilización de recursos. La construcción de los distintos tipos de números a lo largo de las tres etapas, y del sistema decimal como base de nuestro sistema de numeración, debe ser desarrollada de forma contextualizada buscando preferentemente situaciones cercanas a las niñas y niños, usando materiales manipulables específicos: regletas de Cuisenaire, bloques multibase, multicubos, etc. Dentro de este proceso de construcción se irán desarrollando, de forma paralela e interrelacionada, las operaciones aritméticas. Es conveniente que los alumnos y alumnas manejen con soltura las operaciones básicas con los diferentes tipos de números, tanto a través de algoritmos de lápiz y papel como con la calculadora. Asimismo, es importante que el alumnado utilice de manera racional estos procedimientos de cálculo, decidiendo cuál de ellos es el más adecuado a cada situación y desarrollando paralelamente el cálculo mental y razonado y la capacidad de estimación, lo que facilitará el control sobre los resultados y sobre los posibles errores en la resolución de problemas. Especial interés tienen los problemas aplicados a la estimación y medida de magnitudes, en los que la elección adecuada de las unidades, la aproximación del resultado y la estimación del error, tienen especial importancia. Los problemas aritméticos escolares no deben ser, preferentemente, entendidos como un instrumento de comprobación del manejo de las operaciones elementales sino como un recurso fundamental para la comprensión de los conceptos de suma, resta, multiplicación y división. En esta etapa se sabrá sumar cuando se sea capaz de resolver una situación problemática en la que la suma sea la operación que deba usarse. Los problemas aritméticos se graduarán pasando de situaciones que se resuelven en una etapa a aquellas de dos o tres etapas. En los problemas aritméticos se deberán tener en cuenta las diferentes categorías semánticas y graduarlos en función de su dificultad. Los números han de ser usados en diferentes contextos –juegos, situaciones familiares y personales, situaciones públicas–, operando con ellos reiteradamente, sabiendo que la comprensión de los procesos desarrollados y del significado de los resultados, es contenido previo y prioritario respecto a la propia destreza en el cálculo y la automatización operatoria. Entendemos que, de forma especial, el número ha de ser usado en la construcción de la idea de magnitud: longitud, peso-masa, tiempo y sistema monetario. En el proceso de construcción es fundamental el uso de materiales manipulables específicos para la realización de mediciones y experiencias básicas para la compresión del concepto de magnitud. En este sentido, se hará uso de magnitudes y aparatos de medida que se emplean en el contexto familiar (cinta métrica, balanza de cocina, termómetro clínico, vasos medidores, etc). Criterios de valoración de los aprendizajes. En la evaluación del conocimiento numérico, la medida, el manejo de los números, sus propiedades y operaciones, deberán tenerse fundamentalmente en cuenta, dentro del contexto de las actividades que se propongan, los aspectos destacados anteriormente, es decir, la estimación previa del resultado, la valoración del procedimiento de cálculo empleado y la utilización de la unidad y magnitud adecuada. Todo ello utilizando como instrumentos problemas contextualizados y cercanos a alumnos y alumnas y la recreación de éstos a partir de operaciones fijadas.
 
-#### artículo 5.2 dispone que los objetivos, competencias básicas, 
+5. Las formas y figuras y sus propiedades. Relevancia y sentido educativo. La geometría se centra sobre todo en la clasificación, descripción y análisis de relaciones y propiedades de las figuras en el plano y en el espacio. El aprendizaje de la geometría debe ofrecer continuas oportunidades para conectar a niños y niñas con su entorno y para construir, dibujar, hacer modelos, medir o clasificar de acuerdo con criterios previamente elegidos. Para el estudio de la geometría no son necesarios demasiados requisitos previos, lo cual puede permitir que todo el alumnado tenga la oportunidad de adentrarse en sus atractivas características, desarrollando capacidades que facilitarán una actitud positiva hacia el aprendizaje de las matemáticas. Con ello el profesorado dispone de situaciones ideales para la introducción o el estudio de otros conceptos matemáticos. Contenidos relevantes. Los contenidos a tratar se encuentran recogidos en el Real Decreto 1513/2006, de 7 de diciembre: Bloque 3, Geometría, de primero, segundo y tercer ciclo. Interacción con otros núcleos temáticos y de actividades. Este núcleo temático está relacionado con los siguientes contenidos sobre matemáticas del Real Decreto 1513/2006, de 7 de diciembre,: Bloque 1, Números, de primero, segundo y tercer ciclo; Bloque 2, La medida: estimación y cálculo de magnitudes, de primero, segundo y tercer ciclo; y Bloque 4, Tratamiento de la información, estadística y probabilidad, de
+primero, segundo y tercer ciclo. El aprendizaje de la geometría también debe relacionarse con los núcleos temáticos Paisajes andaluces y El patrimonio en Andalucía, del área de Conocimiento del medio natural, social y cultural. Sugerencias acerca de líneas metodológicas y utilización de recursos. Para el estudio de la Geometría es conveniente conjugar la experimentación a través de la manipulación con las posibilidades que ofrece el uso de la tecnología. Es recomendable el uso de materiales manipulables, como geoplanos y mecanos, puzzles, libros de espejos, materiales para formar poliedros, etc., así como la incorporación de programas de geometría dinámica para construir, investigar y deducir propiedades geométricas. En este sentido, se potenciará el uso del taller y/o laboratorio de matemáticas. Además, los conocimientos geométricos deben relacionarse con la resolución de problemas, a través de planteamientos que requieran la construcción de modelos o situaciones susceptibles de ser representadas a través de figuras o formas geométricas. La observación y manipulación de formas y relaciones en el plano y en el espacio presentes en la vida cotidiana (juegos, hogar, colegio, etc.) y en nuestro patrimonio cultural, artístico y natural servirán para desarrollar las capacidades geométricas, siguiendo el modelo de Van Hiele para el reconocimiento de formas, propiedades y relaciones geométricas, invirtiendo el proceso que parte de las definiciones y fórmulas para determinar otras características o elementos. Educar a través del entorno facilitará la observación y búsqueda de elementos susceptibles de estudio geométrico, de los que se establecerán clasificaciones, determinarán características, deducirán analogías y diferencias con otros objetos y figuras.
 
-contenidos y criterios de evaluación correspondientes a esta 
-etapa educativa serán regulados por Orden de la Consejería 
-competente en materia de educación.
-Esta misma norma establece que el currículo de la educación secundaria obligatoria se plasmará en aprendizajes relevantes, significativos y motivadores para el alumnado y que 
-tomará en consideración, como elementos transversales, el 
-fortalecimiento del respeto a los derechos humanos y de las 
-libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre 
-y democrática.
-Considerando las necesidades de flexibilidad y adaptabilidad de las estructuras educativas a las demandas que exige la 
-sociedad del conocimiento, son necesarias fórmulas de organización del currículo que permitan llevar a cabo con facilidad 
-las adaptaciones de la cultura escolar a dicha sociedad de la 
-información.
-Por ello, el citado Decreto 231/2007, de 31 de julio, establece que los centros docentes que imparten la educación 
-secundaria obligatoria disponen de autonomía para desarrollar 
-un proyecto educativo y de gestión propios que permita formas de organización distintas para favorecer la mejora continua de la educación.
-Al mismo tiempo se reconoce la capacidad y la responsabilidad de los centros y del profesorado en el desarrollo curricular, 
-constituyendo una de las dimensiones más notorias de la autonomía profesional.
-La educación secundaria obligatoria se organizará, de 
-acuerdo con los principios de educación común y atención a la 
-diversidad del alumnado, de modo que permita a éste alcanzar 
-los objetivos de la etapa. A tales efectos, se pondrá especial 
-énfasis en la adquisición de las competencias básicas, en la 
-detección y tratamiento de las dificultades de aprendizaje tan 
-pronto como se produzcan, en la tutoría y orientación educativa del alumnado y en la relación con las familias para apoyar 
-el proceso educativo de sus hijos e hijas. 
-Asimismo, los centros docentes quedan facultados para 
-organizar las materias optativas en la etapa y las materias opcionales previstas en el cuarto curso. 
-Procede, en consecuencia, desarrollar el currículo que 
-conforma esta etapa educativa, fijar el horario semanal y establecer orientaciones para el desarrollo de la autonomía curricular de los centros docentes.
-Por todo ello y en virtud de lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de 
-la Comunidad Autónoma de Andalucía, y en la disposición final 
-primera del Decreto 231/2007, de 31 de julio, la Consejera de 
-Educación
-HA DISPUESTO
+Página núm. 22 Sevilla, 30 de agosto 2007 La geometría debe servir para establecer relaciones con otros ámbitos como la naturaleza, el arte, la arquitectura o el diseño, de manera que el alumnado sea capaz de comenzar a reconocer su presencia y valorar su importancia en nuestra historia y en nuestra cultura. Concretamente, la presencia de mosaicos y frisos en distintos monumentos permitirá descubrir e investigar la geometría de las transformaciones para explorar las características de las reflexiones (geometría desde el primer ciclo), giros y traslaciones (geometría a partir del segundo ciclo). El reconocimiento, representación y clasificación de figuras y cuerpos geométricos se debe abordar a través de la observación y de la manipulación física o virtual. El estudio de formas algo más complejas debe abordarse a través del proceso de descomposición en figuras elementales, fomentando el sentido estético y el gusto por el orden. El cálculo de áreas y volúmenes de figuras geométricas debe iniciarse por medio de descomposiciones, desarrollos, etc. y solo al final del proceso es conveniente obtener las fórmulas correspondientes. El proceso de obtención de la medida es lo que dará significado a esas fórmulas. Criterios de valoración de los aprendizajes. La evaluación debe evitar planteamientos memorísticos. Es conveniente fomentar y valorar los procesos de investigación y deducción realizados para determinar las características y propiedades de las distintas formas planas y espaciales, a la vez que se valoran los procesos seguidos en el análisis, planteamiento y resolución de las situaciones y problemas de la vida cotidiana.
+
+6. Tratamiento de la información, azar y probabilidad. Relevancia y sentido educativo. La principal finalidad de este núcleo temático es que las niñas y niños comiencen a interpretar los fenómenos ambientales y sociales de su entorno cercano a través de las matemáticas. Los alumnos y alumnas deben ser conscientes de los fenómenos de distinta naturaleza que suceden a su alrededor y que aparecen de forma candente en los medios de comunicación, además de formar parte de su aprendizaje en esta etapa educativa. En este contexto, las matemáticas deben entenderse como una disciplina que ayuda a interpretar la realidad y a actuar sobre ella de forma responsable, crítica y positiva. De algún modo, los contenidos matemáticos implicados en este núcleo corresponden fundamentalmente a la estadística y a la probabilidad, disciplinas matemáticas entre las que existe una relación complementaria, la mayoría de las veces, la última en el papel de sustento de la primera. En la actualidad, las múltiples aplicaciones de dichas disciplinas invaden prácticamente todos los campos de la actividad humana y su amplio reconocimiento social es constatado por su creciente presencia en el aprendizaje de otras materias, en comunicaciones de índole periodística, en el mercado laboral y en el ambiente cultural. De hecho, es por eso por lo que la promoción de su aprendizaje en todos los niveles educativos se inserta como una imprescindible meta de carácter cultural que ha de iniciarse de manera natural desde la educación primaria. Contenidos relevantes. Los contenidos a tratar se encuentran recogidos en el Real Decreto 1513/2006, de 7 de diciembre,: Bloque 5, Tratamiento de la información, estadística y azar, de primero, segundo y tercer ciclo. Interacción con otros núcleos temáticos y de actividades. Este núcleo temático está relacionado con los siguientes contenidos sobre matemáticas del Real Decreto 1513/2006, de 7 de diciembre: Bloque 1, Números y operaciones, de primero, segundo y tercer ciclo; Bloque 2, La medida: estimación y cálculo de magnitudes, de primero, segundo y tercer ciclo; Bloque 3, Geometría, de primero, segundo y tercer ciclo. Dadas sus características, este núcleo temático debe relacionarse con aspectos que se plantean en el área de Conocimiento del medio natural, social y cultural. Sugerencias acerca de líneas metodológicas y utilización de recursos. El aprendizaje de este núcleo temático adquiere su pleno significado cuando se presenta en conexión con actividades que implican a otras materias. Igualmente el trabajo ha de incidir de forma significativa en la comprensión de las informaciones de los medios de comunicación, para suscitar el interés por los temas y ayudar a valorar el beneficio que los conocimientos estadísticos proporcionan ante la toma de decisiones, normalmente sobre cuestiones que estudian otras materias. Tienen especial importancia en el bloque los contenidos actitudinales, que favorecen la presentación de los datos de forma ordenada y gráfica, y permiten descubrir que las matemáticas facilitan la resolución de problemas de la vida diaria. A su vez, los contenidos de este bloque deben promover el trabajo colaborativo y el uso crítico de la información recibida por diferentes medios. Las tablas y gráficos presentes en los medios de comunicación, Internet o en la publicidad facilitarán ejemplos suficientes para analizar y agrupar datos y, sobre todo, para valorar la necesidad y la importancia de establecer relaciones entre ellos. Además de obtener conclusiones de los datos expuestos en un gráfico o en una tabla es necesario conocer los procesos previos a su representación. Abordar tareas como la planificación para la recogida de la información, utilizar técnicas de recuento y de manipulación de los datos, así como la forma para agruparlos, son tan importantes como los cálculos que con ellos puedan realizarse (Bloque 5, Tratamiento de la información, azar y probabilidad, desde el segundo ciclo). A través de ejemplos prácticos relacionados con su proximidad inmediata, se abordará el proceso de un estudio estadístico completando todos los pasos previos al análisis de resultados para exponer las conclusiones que de ellos se deduzcan (Bloque 5, Tratamiento de la información, azar y probabilidad, del tercer ciclo). Los juegos de azar proporcionan ejemplos que permitirán introducir las nociones de probabilidad e incertidumbre (Bloque 5, Tratamiento de la información, azar y probabilidad, del tercer ciclo). Criterios de valoración de los aprendizajes. La evaluación considerará además de los aspectos propios de la clasificación y representación de datos, la capacidad para deducir relaciones entre ellos y, sobre todo, la deducción de conclusiones y estimaciones a partir de los datos representados. En los estudios estadísticos se debe valorar que el alumnado sea capaz de diseñar y utilizar técnicas adecuadas para la obtención de datos, de cuantificar, representar y sacar conclusiones del trabajo realizado. Para la probabilidad se pretende que el alumnado sea capaz de razonar sobre los posibles resultados de un experimento aleatorio sencillo a la vez que pueda asignar probabilidades a sucesos equiprobables o no, utilizando distintas estrategias sobre técnicas de conteo.
+
+## Anexo II
+
+HORARIO LECTIVO MÍNIMO OBLIGATORIO POR ÁREAS Y CICLOS DE LA EDUCACIÓN PRIMARIA ÁREAS 1.º CICLO horas totales/ horas semanales de los dos cursos 2.º CICLO horas totales/ horas semanales de los dos cursos 3.º CICLO horas totales/ horas semanales de los dos cursos Conocimiento del medio natural, social y cultural 175/5 175/5 140/4 Educación artística 105/3 105/3 105/3
+
+Sevilla, 30 de agosto 2007 Página núm. 23 ÁREAS 1.º CICLO horas totales/ horas semanales de los dos cursos 2.º CICLO horas totales/ horas semanales de los dos cursos 3.º CICLO horas totales/ horas semanales de los dos cursos Educación física 105/3 105/3 105/3 Lengua castellana y literatura 315/9 280/8 280/8 Lengua extranjera 105/3 140/4 140/4 Matemáticas 175/5 210/6 175/5 Religión 105/3 105/3 105/3 Educación para la ciudadanía y los derechos humanos 50/1,5 TOTAL 1.085/31 1.120/32 1.100/31,5 Los centros educativos completarán este horario hasta las 50 horas lectivas semanales por ciclo, 25 horas para cada curso. ORDEN de 10 de agosto de 2007, por la que se desarrolla el currículo correspondiente a la Educación Secundaria Obligatoria en Andalucía. La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo del artículo 27 de la norma fundamental, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. En el ejercicio de esta competencia, el Decreto 231/2007, de 31 de julio, ha establecido la ordenación y las enseñanzas correspondientes a la educación secundaria obligatoria. En el artículo 5 2 dispone que los objetivos, competencias básicas,. contenidos y criterios de evaluación correspondientes a esta etapa educativa serán regulados por Orden de la Consejería competente en materia de educación. Esta misma norma establece que el currículo de la educación secundaria obligatoria se plasmará en aprendizajes relevantes, significativos y motivadores para el alumnado y que tomará en consideración, como elementos transversales, el fortalecimiento del respeto a los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Considerando las necesidades de flexibilidad y adaptabilidad de las estructuras educativas a las demandas que exige la sociedad del conocimiento, son necesarias fórmulas de organización del currículo que permitan llevar a cabo con facilidad las adaptaciones de la cultura escolar a dicha sociedad de la información. Por ello, el citado Decreto 231/2007, de 31 de julio, establece que los centros docentes que imparten la educación secundaria obligatoria disponen de autonomía para desarrollar un proyecto educativo y de gestión propios que permita formas de organización distintas para favorecer la mejora continua de la educación. Al mismo tiempo se reconoce la capacidad y la responsabilidad de los centros y del profesorado en el desarrollo curricular, constituyendo una de las dimensiones más notorias de la autonomía profesional. La educación secundaria obligatoria se organizará, de acuerdo con los principios de educación común y atención a la diversidad del alumnado, de modo que permita a éste alcanzar los objetivos de la etapa. A tales efectos, se pondrá especial énfasis en la adquisición de las competencias básicas, en la detección y tratamiento de las dificultades de aprendizaje tan pronto como se produzcan, en la tutoría y orientación educativa del alumnado y en la relación con las familias para apoyar el proceso educativo de sus hijos e hijas. Asimismo, los centros docentes quedan facultados para organizar las materias optativas en la etapa y las materias opcionales previstas en el cuarto curso. Procede, en consecuencia, desarrollar el currículo que conforma esta etapa educativa, fijar el horario semanal y establecer orientaciones para el desarrollo de la autonomía curricular de los centros docentes. Por todo ello y en virtud de lo dispuesto en el artículo 44.2 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en la disposición final
+
+#### Primera. del Decreto 231/2007, de 31 de julio, la Consejera de Educación HA DISPUESTO.
 
 #### Artículo 1. Objeto y ámbito de aplicación.
 
-1. La presente Orden tiene por objeto desarrollar los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo de la educación secundaria obligatoria, 
-fijar el horario lectivo semanal de la etapa y establecer orientaciones para el desarrollo de la autonomía pedagógica de los 
-centros docentes, de conformidad con el Decreto 231/2007, 
-de 31 de julio, por el que se establece la ordenación y las 
-enseñanzas correspondientes a la Educación Secundaria Obligatoria en Andalucía.
-2. Será de aplicación en todos los centros docentes de la 
-Comunidad Autónoma de Andalucía que impartan las enseñanzas correspondientes a la Educación Secundaria Obligatoria.
+1. La presente Orden tiene por objeto desarrollar los objetivos, competencias básicas, contenidos y criterios de evaluación del currículo de la educación secundaria obligatoria, fijar el horario lectivo semanal de la etapa y establecer orientaciones para el desarrollo de la autonomía pedagógica de los centros docentes, de conformidad con el Decreto 231/2007, de 31 de julio, por el que se establece la ordenación y las enseñanzas correspondientes a la Educación Secundaria Obligatoria en Andalucía.
 
-#### Artículo 2. Componentes del currículo. 
+2. Será de aplicación en todos los centros docentes de la Comunidad Autónoma de Andalucía que impartan las enseñanzas correspondientes a la Educación Secundaria Obligatoria.
 
-1. Las competencias básicas de la Educación Secundaria 
-Obligatoria son las establecidas en el Anexo I del Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen 
-las enseñanzas mínimas correspondientes a la educación secundaria obligatoria, y en el artículo 6.2 del Decreto 231/2007,
-de 31 de julio. 
-2. Los objetivos, contenidos, y criterios de evaluación 
-para cada una de las materias de la educación secundaria 
-obligatoria son los establecidos en el Anexo II del Real Decreto 1631/2006, de 29 de diciembre y en el Anexo I de la presente Orden en el que se establecen las enseñanzas que son 
-propias de la Comunidad Autónoma.
-3. En el desarrollo y concreción de los aspectos del currículo dispuestos en el Real Decreto 1613/2006, de 29 de 
-diciembre, se tendrá en cuenta que la flexibilidad que dicho 
-Real Decreto establece para la ordenación de los contenidos 
-en bloques temáticos dentro de cada ciclo, permite que los 
-centros puedan agrupar los contenidos en distintas opciones. 
-4. Los contenidos propios de la Comunidad Autónoma 
-de Andalucía versarán sobre el tratamiento de la realidad andaluza en sus aspectos geográficos, económicos, sociales, 
-históricos y culturales, así como sobre las contribuciones de 
-carácter social y científico que mejoran la ciudadanía, la dimensión histórica del conocimiento y el progreso humano en 
-el siglo XXI. 
+#### Artículo 2. Componentes del currículo.
+
+1. Las competencias básicas de la Educación Secundaria Obligatoria son las establecidas en el Anexo I del Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la educación secundaria obligatoria, y en el artículo 6.2 del Decreto 231/2007, de 31 de julio.
+
+2. Los objetivos, contenidos, y criterios de evaluación para cada una de las materias de la educación secundaria obligatoria son los establecidos en el Anexo II del Real Decreto 1631/2006, de 29 de diciembre y en el Anexo I de la presente Orden en el que se establecen las enseñanzas que son propias de la Comunidad Autónoma.
+
+3. En el desarrollo y concreción de los aspectos del currículo dispuestos en el Real Decreto 1613/2006, de 29 de diciembre, se tendrá en cuenta que la flexibilidad que dicho Real Decreto establece para la ordenación de los contenidos en bloques temáticos dentro de cada ciclo, permite que los centros puedan agrupar los contenidos en distintas opciones.
+
+4. Los contenidos propios de la Comunidad Autónoma de Andalucía versarán sobre el tratamiento de la realidad andaluza en sus aspectos geográficos, económicos, sociales, históricos y culturales, así como sobre las contribuciones de carácter social y científico que mejoran la ciudadanía, la dimensión histórica del conocimiento y el progreso humano en el siglo XXI.
 
 #### Artículo 3. Principios para el desarrollo de los contenidos.
 
-Con objeto de impulsar el sentido formativo de estas enseñanzas y su utilización para la comprensión del mundo, así 
-como para favorecer los aprendizajes significativos y afianzar 
-la motivación del alumnado, el desarrollo y la concreción de 
-los contenidos de las materias y, en su caso, ámbitos de esta 
-etapa educativa incorporará los siguientes aspectos:
+Con objeto de impulsar el sentido formativo de estas enseñanzas y su utilización para la comprensión del mundo, así como para favorecer los aprendizajes significativos y afianzar la motivación del alumnado, el desarrollo y la concreción de los contenidos de las materias y, en su caso, ámbitos de esta etapa educativa incorporará los siguientes aspectos:

@@ -1,12 +1,10 @@
 ---
 id: norm-es-2021-11382
 codigo_sintetizado: BOE-A-2021-11382
-titulo: Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón
-  de identidad de género, expresión de género y características sexuales.
+titulo: Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2021-07-09'
 boletin: BOE
@@ -17,63 +15,64 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-- admision-alumnado
-- atencion-diversidad
-- autonomia-centro
-- becas-y-ayudas
-- evaluacion
-- igualdad-genero
-- procedimiento-administrativo
-- proteccion-menores
-- protocolos-de-actuaci-n-y-protecci-n
-- titulacion
+  - admision-alumnado
+  - atencion-diversidad
+  - autonomia-centro
+  - becas-y-ayudas
+  - evaluacion
+  - igualdad-genero
+  - procedimiento-administrativo
+  - proteccion-menores
+  - protocolos-de-actuaci-n-y-protecci-n
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2015-8222
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-es-lo-1-1996
-  - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2015-8222
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-3-2018
   desarrollado_por: []
   fundamento_de:
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-d-84-2024
-fundamentos_derecho:
-- norma_id: norm-can-lo-1-2018
+    - norma_id: norm-can-l-4-2023
+    - norma_id: norm-can-d-84-2024
+  fundamentos_derecho:
+    - norma_id: norm-can-lo-1-2018
   articulos:
-  - '136'
-- norma_id: norm-can-l-1-1997
-- norma_id: norm-can-l-16-2003
-- norma_id: norm-es-2015-8222
-- norma_id: norm-es-l-39-2015
-- norma_id: norm-es-l-40-2015
-- norma_id: norm-es-lo-1-1996
-- norma_id: norm-es-lo-3-2018
-- norma_id: norm-es-2010-4518
+    - '136'
+    - norma_id: norm-can-l-1-1997
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-es-2015-8222
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-2010-4518
 ---
+# Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
 
 ## Preámbulo
 
-# Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
-
-## PREÁMBULO
-
 **I**
 
-El concepto de género en el ordenamiento jurídico canario, tal y como recoge la vigente [Ley 1/2010](L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, es una construcción social y cultural marcada por las desigualdades y que viene determinada por una concepción tradicional en el contexto jurídico occidental de la división de las personas en dos categorías diferentes en base a las características genitales de nacimiento; de esta forma, las personas nacidas con genitalidad de hembra han pasado a ser socializadas como mujeres, del mismo modo que las personas nacidas con genitalidad de macho han pasado a ser socializadas como hombres. A partir de ahí, esta diferenciación binaria entre dos sexos ha servido como piedra angular de un sistema relacional jerarquizado y basado en la supremacía de los hombres con respecto a las mujeres que obvia el hecho de que la naturaleza humana no solo va más allá de la mera apreciación visual de los órganos genitales externos en el momento del nacimiento, sino que, como estableció el Tribunal Europeo de Derechos Humanos, tras una decisión adoptada por unanimidad en dos importantes sentencias de 2002, no es un concepto puramente biológico, sino, sobre todo, psicosocial.
+El concepto de género en el ordenamiento jurídico canario, tal y como recoge la vigente [Ley 1/2010](L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, es una construcción social y cultural marcada por las desigualdades y que viene determinada por una concepción tradicional en el contexto jurídico occidental de la división de las personas en dos categorías diferentes en base a las características genitales de nacimiento; de esta forma, las personas nacidas con genitalidad de hembra han pasado a ser socializadas como mujeres, del mismo modo que las personas nacidas con genitalidad de macho han pasado a ser socializadas como hombres. A partir de ahí, esta diferenciación binaria entre dos sexos ha servido como piedra angular de un sistema relacional jerarquizado y basado en la supremacía de los hombres con respecto a las mujeres que obvia el hecho de que la naturaleza humana no solo va más allá de la mera apreciación visual de los órganos genitales externos en el momento del nacimiento, sino que, como estableció el Tribunal Europeo de Derechos Humanos, tras una decisión adoptada por unanimidad en dos importantes sentencias de 2002, no es un concepto puramente biológico, sino, sobre todo, psicosocial.
 
-Como la propia Ley 1/2010 reconoce, el género presenta variaciones de concepción en diferentes culturas y en diferentes momentos históricos dentro de una misma cultura, y, así, es una realidad multifacética que incluye la vivencia interna e individual del género tal como cada persona la siente –identidad de género–, así como la forma en la que cada persona comunica o expresa ante los demás su identidad de género –expresión de género–, con independencia de sus características sexuales, tanto las presentes en el momento del nacimiento, y no siempre visibles a simple vista, como las resultantes de un complejo proceso de desarrollo sexual a varios niveles –cromosómico, gonadal, hormonal, genital y cerebral–, que la ciencia, primero, y la legislación, después, han ido incorporando en un proceso cada vez más rápido respecto a centurias y décadas pasadas.
+Como la propia Ley 1/2010 reconoce, el género presenta variaciones de concepción en diferentes culturas y en diferentes momentos históricos dentro de una misma cultura, y, así, es una realidad multifacética que incluye la vivencia interna e individual del género tal como cada persona la siente –identidad de género–, así como la forma en la que cada persona comunica o expresa ante los demás su identidad de género –expresión de género–, con independencia de sus características sexuales, tanto las presentes en el momento del nacimiento, y no siempre visibles a simple vista, como las resultantes de un complejo proceso de desarrollo sexual a varios niveles –cromosómico, gonadal, hormonal, genital y cerebral–, que la ciencia, primero, y la legislación, después, han ido incorporando en un proceso cada vez más rápido respecto a centurias y décadas pasadas.
 
 En efecto, la realidad de que la experiencia de género interna e individual de cada persona puede o no corresponderse con el sexo asignado al nacer –identidad sexual–, al igual que el sentido personal del cuerpo y otras expresiones de género, ha chocado tradicionalmente con diversos grados de rechazo y represión de cualquier atisbo de diversidad en las expresiones de identidad de género, estigmatizándolas, sucesivamente, desde las etiquetas del pecado, del crimen y de la enfermedad mental y el trastorno.
 
-La constatación de las graves violaciones de los derechos humanos que esto ha provocado y sigue provocando, dado que las múltiples intersecciones que el género ocupa en nuestra experiencia vital convierten a la identidad de género en uno de los aspectos fundamentales de la vida, ha acabado generando un proceso constante –y de ritmo geográficamente desigual– de reconsideración, por parte de autoridades médicas, asociaciones científicas y profesionales, de la patologización basada en el prejuicio de la diversidad sexual del ser humano en los principales manuales de diagnóstico, como, por ejemplo, el Manual de diagnóstico de enfermedades psiquiátricas (DSM, última edición de 2013) de la American Psychiatric Association (APA), y en las principales clasificaciones de enfermedades, como se puede observar en la Clasificación Internacional de Enfermedades (CIE, última edición de junio de 2018) de la Organización Mundial de la Salud. En un largo camino que aún no ha concluido, las autoridades en derecho internacional, desde la ONU al Consejo de Europa, así como las más altas instancias judiciales en materia de derechos humanos, han ido, a su vez, reconociendo que la orientación, sexualidad e identidad y expresión de género que cada persona defina para sí, el llamado «derecho de autodefinición» –presente en la normativa autonómica de Andalucía (2014), Cataluña (2014), Galicia (2014), Baleares (2016), Extremadura (2015), Madrid (2016), Murcia (2016), Navarra (2017), Comunidad Valenciana (2018)–, es esencial para su personalidad y tiene derecho a su libre desarrollo, constituyendo uno de los aspectos fundamentales de su dignidad y libertad.
+La constatación de las graves violaciones de los derechos humanos que esto ha provocado y sigue provocando, dado que las múltiples intersecciones que el género ocupa en nuestra experiencia vital convierten a la identidad de género en uno de los aspectos fundamentales de la vida, ha acabado generando un proceso constante –y de ritmo geográficamente desigual– de reconsideración, por parte de autoridades médicas, asociaciones científicas y profesionales, de la patologización basada en el prejuicio de la diversidad sexual del ser humano en los principales manuales de diagnóstico, como, por ejemplo, el Manual de diagnóstico de enfermedades psiquiátricas (DSM, última edición de 2013) de la American Psychiatric Association (APA), y en las principales clasificaciones de enfermedades, como se puede observar en la Clasificación Internacional de Enfermedades (CIE, última edición de junio de 2018) de la Organización Mundial de la Salud. En un largo camino que aún no ha concluido, las autoridades en derecho internacional, desde la ONU al Consejo de Europa, así como las más altas instancias judiciales en materia de derechos humanos, han ido, a su vez, reconociendo que la orientación, sexualidad e identidad y expresión de género que cada persona defina para sí, el llamado «derecho de autodefinición» –presente en la normativa autonómica de Andalucía (2014), Cataluña (2014), Galicia (2014), Baleares (2016), Extremadura (2015), Madrid (2016), Murcia (2016), Navarra (2017), Comunidad Valenciana (2018)–, es esencial para su personalidad y tiene derecho a su libre desarrollo, constituyendo uno de los aspectos fundamentales de su dignidad y libertad.
 
-Precisamente, este reconocimiento está presente en el ordenamiento jurídico español desde la Ley 3/2007, de 15 de marzo, reguladora de la rectificación registral de la mención relativa al sexo de las personas y no es ajeno a la larga lucha de las personas trans en nuestra sociedad para conseguir desarrollarse socialmente en el género sentido, con incontables dificultades y sufrimiento. En esta línea, la Ley Canaria 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales supuso el primer paso en el reconocimiento normativo, político y administrativo de una realidad que se concretaba en la exigencia de establecer, en el ámbito competencial canario, un conjunto de medidas para atender las necesidades específicas de las personas transexuales.
+Precisamente, este reconocimiento está presente en el ordenamiento jurídico español desde la Ley 3/2007, de 15 de marzo, reguladora de la rectificación registral de la mención relativa al sexo de las personas y no es ajeno a la larga lucha de las personas trans en nuestra sociedad para conseguir desarrollarse socialmente en el género sentido, con incontables dificultades y sufrimiento. En esta línea, la Ley Canaria 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales supuso el primer paso en el reconocimiento normativo, político y administrativo de una realidad que se concretaba en la exigencia de establecer, en el ámbito competencial canario, un conjunto de medidas para atender las necesidades específicas de las personas transexuales.
 
-Ahora bien, los importantes cambios producidos en esta materia desde la entrada en vigor de aquella norma, empezando por la ampliación del ámbito competencial canario en virtud de la [Ley Orgánica 1/2018](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, cuyo artículo 18 obliga a los poderes públicos canarios a reconocer, de acuerdo con la ley, el derecho de las personas a su identidad de género y garantizar la no discriminación por este motivo o por su orientación sexual, en concurrencia con la obligación de garantizar el derecho a la igualdad de trato y a la no discriminación por razones de sexo, género, orientación o identidad sexual, entre otras, hacen necesario un marco normativo actualizado e interseccional, a la vez que más amplio e inclusivo, que no solo reconozca sino que regule con mayor amplitud el derecho a la libre determinación de la identidad y expresión de género de toda persona a través de un conjunto de medidas dirigidas a garantizar su pleno ejercicio en todos los ámbitos de la sociedad, permitiendo el desarrollo completo de sus potencialidades humanas a quienes muestran la diversidad de las identidades y expresiones de género no normativas, y no solo a las personas transexuales.
+Ahora bien, los importantes cambios producidos en esta materia desde la entrada en vigor de aquella norma, empezando por la ampliación del ámbito competencial canario en virtud de la [Ley Orgánica 1/2018](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, cuyo
 
-La presente ley, por tanto, tiene en cuenta las variaciones producidas en el marco jurídico a nivel nacional, tanto estatal como autonómico, en los últimos cuatro años respecto a la lucha por la igualdad social y contra la discriminación por orientación sexual, identidad o expresión de género y características sexuales, y refleja expresamente las modificaciones producidas en el ámbito estatal en virtud de la Instrucción de 23 de octubre de 2018, de la Dirección General de los Registros y del Notariado, sobre cambio de nombre en el Registro Civil de personas transexuales, especialmente las menores de edad, en la medida que afectan al ámbito subjetivo de la presente ley, así como el Reglamento General de Protección de Datos (2016) y la subsiguiente [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, de importantes repercusiones en cuanto a confidencialidad, estadística pública, datos de salud y ejercicio de los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles a las personas interesadas en el contexto de las actuaciones pertinentes de las administraciones públicas canarias. Igualmente se recogen, en la medida que afectan al contenido de la presente ley, las modificaciones y pautas introducidas por las nuevas leyes de Servicios Sociales de Canarias, del Deporte de Canarias, de Patrimonio Cultural de Canarias, de Bibliotecas de Canarias, de Memoria Histórica de Canarias y de Reconocimiento y Reparación moral de las víctimas canarias de la Guerra Civil y la dictadura franquista.
+#### Artículo 18. obliga.
+
+a los poderes públicos canarios a reconocer, de acuerdo con la ley, el derecho de las personas a su identidad de género y garantizar la no discriminación por este motivo o por su orientación sexual, en concurrencia con la obligación de garantizar el derecho a la igualdad de trato y a la no discriminación por razones de sexo, género, orientación o identidad sexual, entre otras, hacen necesario un marco normativo actualizado e interseccional, a la vez que más amplio e inclusivo, que no solo reconozca sino que regule con mayor amplitud el derecho a la libre determinación de la identidad y expresión de género de toda persona a través de un conjunto de medidas dirigidas a garantizar su pleno ejercicio en todos los ámbitos de la sociedad, permitiendo el desarrollo completo de sus potencialidades humanas a quienes muestran la diversidad de las identidades y expresiones de género no normativas, y no solo a las personas transexuales.
+
+La presente ley, por tanto, tiene en cuenta las variaciones producidas en el marco jurídico a nivel nacional, tanto estatal como autonómico, en los últimos cuatro años respecto a la lucha por la igualdad social y contra la discriminación por orientación sexual, identidad o expresión de género y características sexuales, y refleja expresamente las modificaciones producidas en el ámbito estatal en virtud de la Instrucción de 23 de octubre de 2018, de la Dirección General de los Registros y del Notariado, sobre cambio de nombre en el Registro Civil de personas transexuales, especialmente las menores de edad, en la medida que afectan al ámbito subjetivo de la presente ley, así como el Reglamento General de Protección de Datos (2016) y la subsiguiente [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, de importantes repercusiones en cuanto a confidencialidad, estadística pública, datos de salud y ejercicio de los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles a las personas interesadas en el contexto de las actuaciones pertinentes de las administraciones públicas canarias. Igualmente se recogen, en la medida que afectan al contenido de la presente ley, las modificaciones y pautas introducidas por las nuevas leyes de Servicios Sociales de Canarias, del Deporte de Canarias, de Patrimonio Cultural de Canarias, de Bibliotecas de Canarias, de Memoria Histórica de Canarias y de Reconocimiento y Reparación moral de las víctimas canarias de la Guerra Civil y la dictadura franquista.
 
 **II**
 
@@ -97,33 +96,33 @@ En toda la historia de la humanidad está acreditada la existencia de sistemas d
 
 En este contexto, se hace necesario promover la integración efectiva y total de la población LGTBIQ; prevenir las conductas violentas en general y, en especial, del maltrato dirigido hacia los grupos más vulnerables y, sobre todo, a la población LGBTI; promover, apoyar y potenciar la difusión del conocimiento de las diferentes culturas y realidades afectivas y sexuales; promover acciones de sensibilización, prevención y apoyo, encaminadas al desarrollo de las personas que viven una realidad diversa, especialmente entre la población afectada. Hay que legislar los derechos y deberes por una sociedad más plural y respetuosa, promoviendo las condiciones para que la libertad y la igualdad de las personas y de los grupos en que se integren sean reales y efectivas. Por otra parte, no menos relevante, establecer las normas básicas legítimas de la intervención en las políticas tendentes a erradicar las actitudes discriminatorias e intolerantes en nuestra sociedad contra toda discriminación por motivo de orientación sexual e identidad sexual.
 
-Se entiende que para conseguir, como se pretende, que el estatuto jurídico de las personas trans residentes en Canarias no sea inferior al existente en la mayoría de las comunidades autónomas, la Ley 8/2014 necesita una importante reformulación, así como un efectivo desarrollo reglamentario. Por ello, las aportaciones deben ir más allá de la simple modificación de esta ley, considerando que el instrumento jurídico adecuado sería una nueva ley que sustituya a la vigente actualmente.
+Se entiende que para conseguir, como se pretende, que el estatuto jurídico de las personas trans residentes en Canarias no sea inferior al existente en la mayoría de las comunidades autónomas, la Ley 8/2014 necesita una importante reformulación, así como un efectivo desarrollo reglamentario. Por ello, las aportaciones deben ir más allá de la simple modificación de esta ley, considerando que el instrumento jurídico adecuado sería una nueva ley que sustituya a la vigente actualmente.
 
 **IV**
 
-La presente ley se dicta al amparo de distintos títulos competenciales contemplados en el nuevo Estatuto de Autonomía de Canarias vigente tras la reforma efectuada en virtud de la Ley Orgánica 1/2018, de 5 de noviembre, y constituye un ejemplo de norma legislativa trasversal, ya que abarca diversos títulos competenciales asumidos por Canarias. Así, y en primer lugar, se sustenta en un bloque de competencias exclusivas, tales como cultura y patrimonio cultural (artículos 136 y 137 EAC); deportes y actividades de ocio (artículo 138 EAC); organización, funcionamiento interno, evaluación, inspección y control de los centros, servicios y establecimientos sanitarios y en la atención sociosanitaria, incluida la inmigración (artículos 141 y 144 EAC); servicios sociales (artículo 142 EAC); políticas de género (artículo 145 EAC); juventud (artículo 146 EAC); protección de menores y promoción de las familias (artículo 147 EAC); y, finalmente, policía autonómica, protección civil y sistema penitenciario.
+La presente ley se dicta al amparo de distintos títulos competenciales contemplados en el nuevo Estatuto de Autonomía de Canarias vigente tras la reforma efectuada en virtud de la Ley Orgánica 1/2018, de 5 de noviembre, y constituye un ejemplo de norma legislativa trasversal, ya que abarca diversos títulos competenciales asumidos por Canarias. Así, y en primer lugar, se sustenta en un bloque de competencias exclusivas, tales como cultura y patrimonio cultural (artículos 136 y 137 EAC); deportes y actividades de ocio (artículo 138 EAC); organización, funcionamiento interno, evaluación, inspección y control de los centros, servicios y establecimientos sanitarios y en la atención sociosanitaria, incluida la inmigración (artículos 141 y 144 EAC); servicios sociales (artículo 142 EAC); políticas de género (artículo 145 EAC); juventud (artículo 146 EAC); protección de menores y promoción de las familias (artículo 147 EAC); y, finalmente, policía autonómica, protección civil y sistema penitenciario.
 
-En segundo lugar, en relación con las competencias de desarrollo legislativo y ejecución en materia de educación (artículo 133 EAC) y de enseñanza universitaria (artículo 134 EAC); e, igualmente, en materia de medios de comunicación social y audiovisual (artículo 164 EAC) y de cooperación internacional al desarrollo (artículos 195.2 y 198.3).
+En segundo lugar, en relación con las competencias de desarrollo legislativo y ejecución en materia de educación (artículo 133 EAC) y de enseñanza universitaria (artículo 134 EAC); e, igualmente, en materia de medios de comunicación social y audiovisual (artículo 164 EAC) y de cooperación internacional al desarrollo (artículos 195.2 y 198.3).
 
-Finalmente, la presente ley responde igualmente al ejercicio de las competencias ejecutivas de Canarias en materia de empleo y relaciones laborales (artículo 139 EAC).
+Finalmente, la presente ley responde igualmente al ejercicio de las competencias ejecutivas de Canarias en materia de empleo y relaciones laborales (artículo 139 EAC).
 
-## TÍTULO PRELIMINAR
+## Título Preliminar
 
 **Disposiciones generales**
 
-#### Artículo 1. Objeto de la ley.
+#### Artículo 1. Objeto de la ley.
 
 1. La presente ley tiene por objeto regular los principios, medidas y procedimientos destinados a garantizar los siguientes derechos de cualquier persona física o jurídica, pública o privada, cualquiera que sea su domicilio o residencia, que se encuentre o actúe en el ámbito territorial de la Comunidad Autónoma de Canarias, independientemente de la situación administrativa o personal en la que se encuentre. En especial:
 
-a) La libre autodeterminación de la identidad y expresión de género de las personas.
+a) La libre autodeterminación de la identidad y expresión de género de las personas.
 
-b) El libre desarrollo de la personalidad acorde a la identidad y expresión de género libremente manifestada sin sufrir presiones o discriminación por ello.
+b) El libre desarrollo de la personalidad acorde a la identidad y expresión de género libremente manifestada sin sufrir presiones o discriminación por ello.
 
-c) A ser tratada de conformidad a su identidad y expresión de género en los ámbitos públicos y privados, y, en particular, a ser identificada y acceder a una documentación acorde con dicha identidad.
+c) A ser tratada de conformidad a su identidad y expresión de género en los ámbitos públicos y privados, y, en particular, a ser identificada y acceder a una documentación acorde con dicha identidad.
 
-d) El respeto, con independencia de la identidad y expresión de género de cada cual, de la dignidad humana de todas las personas, a su vida privada, a su integridad física y psíquica, y a la libre autodefinición del propio cuerpo.
+d) El respeto, con independencia de la identidad y expresión de género de cada cual, de la dignidad humana de todas las personas, a su vida privada, a su integridad física y psíquica, y a la libre autodefinición del propio cuerpo.
 
-e) A que se establezcan medidas y medios que garanticen y protejan el ejercicio pleno a la libre autodeterminación del género, sin discriminación y en todos los ámbitos de la vida política, económica, cultural y social, especialmente, en las siguientes esferas:
+e) A que se establezcan medidas y medios que garanticen y protejan el ejercicio pleno a la libre autodeterminación del género, sin discriminación y en todos los ámbitos de la vida política, económica, cultural y social, especialmente, en las siguientes esferas:
 
 1.º Empleo y trabajo por cuenta ajena y por cuenta propia, comprendiendo el acceso, las condiciones de trabajo, la promoción profesional y la formación para el empleo.
 
@@ -141,17 +140,15 @@ e) A que se establezcan medidas y medios que garanticen y protejan el ejercici
 
 2. La presente ley tiene, asimismo, por objeto, respecto de las personas trans e intersexuales residentes en la Comunidad Autónoma de Canarias:
 
-a) Garantizar el derecho de estas a recibir de la Comunidad Autónoma de Canarias una atención integral y adecuada a sus necesidades médicas, psicológicas, jurídicas, sociales, laborales, culturales y el resto de derechos fundamentales que puedan ser reconocidos, en igualdad de trato con el resto de la ciudadanía.
+a) Garantizar el derecho de estas a recibir de la Comunidad Autónoma de Canarias una atención integral y adecuada a sus necesidades médicas, psicológicas, jurídicas, sociales, laborales, culturales y el resto de derechos fundamentales que puedan ser reconocidos, en igualdad de trato con el resto de la ciudadanía.
 
-b) Promover la implementación de políticas y medidas encaminadas a erradicar toda discriminación por razón de la expresión o identidad de género, o de las características sexuales de la persona, así como las conductas que menoscaben la dignidad de la persona por razón de la expresión o identidad de género, o de las características sexuales de esta.
+b) Promover la implementación de políticas y medidas encaminadas a erradicar toda discriminación por razón de la expresión o identidad de género, o de las características sexuales de la persona, así como las conductas que menoscaben la dignidad de la persona por razón de la expresión o identidad de género, o de las características sexuales de esta.
 
-c) Prever medidas de discriminación positiva que faciliten la integración social de las personas trans e intersexuales, así como medidas de indemnización y reparación efectiva cuando se haya ocasionado un daño o perjuicio por motivos de identidad o expresión de género o características sexuales.
+c) Prever medidas de discriminación positiva que faciliten la integración social de las personas trans e intersexuales, así como medidas de indemnización y reparación efectiva cuando se haya ocasionado un daño o perjuicio por motivos de identidad o expresión de género o características sexuales.
 
 3. Lo dispuesto en la presente ley se entiende sin perjuicio de los regímenes específicos más favorables establecidos en la normativa estatal por razón de las distintas causas de discriminación previstas en aquella.
 
-#### Artículo 2. Definiciones.
-
-A los efectos previstos en esta ley, se entenderá por:
+#### Artículo 2. Definiciones A los efectos previstos en esta ley, se entenderá por:.
 
 1. Identidad de género la vivencia interna e individual del género tal y como cada persona la siente y autodetermina, sin que deba ser definida por terceros, pudiendo corresponder o no con el sexo asignado al nacer y pudiendo involucrar o no la modificación de la apariencia o de las funciones corporales a través de medios farmacológicos, quirúrgicos o de cualquier otra índole, siempre que ello sea libremente escogido.
 
@@ -195,7 +192,7 @@ A los efectos de esta ley, y sin prejuzgar otras acepciones sociales, el términ
 
 20. Coeducación la acción educativa que potencia la igualdad real de oportunidades y la eliminación de cualquier tipo de discriminación o violencia por razón de identidad o expresión de género o por características sexuales.
 
-#### Artículo 3. Ámbito de aplicación y garantía de cumplimiento.
+#### Artículo 3. Ámbito de aplicación y garantía de cumplimiento.
 
 1. La presente ley será de aplicación a cualquier persona física o jurídica, pública o privada, cualquiera que sea su domicilio o residencia, que se encuentre o actúe en el ámbito territorial de la Comunidad de Autónoma de Canarias, independientemente de la situación administrativa o personal en la que se encuentre.
 
@@ -203,11 +200,11 @@ A los efectos de esta ley, y sin prejuzgar otras acepciones sociales, el términ
 
 3. Asimismo, esta ley se aplicará en cualquier ámbito y a cualquier etapa de la vida de las personas.
 
-#### Artículo 4. Principios rectores y derechos reconocidos.
+#### Artículo 4. Principios rectores y derechos reconocidos.
 
 1. La presente ley se inspira en los siguientes principios rectores y derechos reconocidos, que regirán la actuación de las personas físicas o jurídicas, públicas o privadas, incluidas en su ámbito de aplicación:
 
-a) Reconocimiento de la personalidad: toda persona tiene derecho a construir para sí una autodefinición con respecto a su cuerpo, sexo, identidad y expresión de género y su orientación sexual. La orientación, sexualidad e identidad y expresión de género que cada persona defina para sí es esencial para su personalidad y tiene derecho a su libre desarrollo, constituyendo uno de los aspectos fundamentales de su dignidad y libertad.
+a) **Reconocimiento de la personalidad.** Toda persona tiene derecho a construir para sí una autodefinición con respecto a su cuerpo, sexo, identidad y expresión de género y su orientación sexual. La orientación, sexualidad e identidad y expresión de género que cada persona defina para sí es esencial para su personalidad y tiene derecho a su libre desarrollo, constituyendo uno de los aspectos fundamentales de su dignidad y libertad.
 
 A estos efectos, se dispone que:
 
@@ -217,7 +214,7 @@ A estos efectos, se dispone que:
 
 3.º Quedan prohibidas en los servicios sanitarios de la Comunidad Autónoma de Canarias las terapias de aversión o de conversión de las manifestaciones de identidad de género libremente manifestadas por las personas directamente interesadas, así como las cirugías genitales de las personas intersexuales que no obedezcan a la decisión de la propia persona afectada o a la necesidad de asegurar una funcionalidad biológica por motivos de salud.
 
-b) No discriminación: Todas las personas nacen libres e iguales en dignidad y derechos, con independencia de la identidad o expresión de género que manifieste o de sus características sexuales. A estos efectos:
+b) **No discriminación.** Todas las personas nacen libres e iguales en dignidad y derechos, con independencia de la identidad o expresión de género que manifieste o de sus características sexuales. A estos efectos:
 
 1.º Ninguna persona podrá ser objeto de discriminación, acoso, penalización o castigo por motivo de su orientación sexual, identidad de género, expresión de género y sus características sexuales. En particular, las personas deben ser tratadas de acuerdo con su identidad de género manifestada, que es como la persona se presenta ante la sociedad, con independencia de su sexo legal, y así obrará la Comunidad Autónoma de Canarias en todos y cada uno de los casos en los que esta participe.
 
@@ -231,7 +228,7 @@ b) No discriminación: Todas las personas nacen libres e iguales en dignidad y
 
 6.º Los derechos y prestaciones establecidos por la presente ley, en virtud del principio de no discriminación por motivos de identidad y expresión de género y características sexuales, vinculan a todos los poderes públicos canarios y, dependiendo de la naturaleza de cada derecho, a los particulares, debiendo ser interpretados en el sentido más favorable a su plena efectividad.
 
-c) Integridad física y seguridad personal: Toda persona tiene derecho a la vida, a la libertad y a la seguridad de su persona. A estos efectos, los poderes públicos de Canarias:
+c) **Integridad física y seguridad personal.** Toda persona tiene derecho a la vida, a la libertad y a la seguridad de su persona. A estos efectos, los poderes públicos de Canarias:
 
 1.º Garantizarán una protección efectiva frente a cualquier acto de violencia o agresión contra la vida, integridad física o psíquica, el honor personal y dignidad que tenga causa directa o indirecta en la identidad o expresión de género o la diversidad corporal, sean propias o del grupo familiar al que se pertenezca.
 
@@ -239,9 +236,9 @@ c) Integridad física y seguridad personal: Toda persona tiene derecho a la vi
 
 3.º Adoptarán las medidas de prevención necesarias para evitar conductas transfóbicas o interfóbicas, así como para la detección temprana de situaciones que puedan conducir a violaciones del derecho a la igualdad, visibilidad y la no discriminación de las personas trans e intersexuales.
 
-d) Privacidad: Todas las personas tienen derecho a la privacidad, sin injerencias arbitrarias o ilegales en su vida privada, incluyendo el derecho a optar por revelar o no la propia identidad de género o características sexuales. Se adoptarán las medidas administrativas necesarias a fin de garantizar que, en las menciones a las personas que presten o accedan a servicios y prestaciones públicas y privadas, estas reflejen la identidad de género sentida, respetando la dignidad y privacidad de la persona concernida.
+d) **Privacidad.** Todas las personas tienen derecho a la privacidad, sin injerencias arbitrarias o ilegales en su vida privada, incluyendo el derecho a optar por revelar o no la propia identidad de género o características sexuales. Se adoptarán las medidas administrativas necesarias a fin de garantizar que, en las menciones a las personas que presten o accedan a servicios y prestaciones públicas y privadas, estas reflejen la identidad de género sentida, respetando la dignidad y privacidad de la persona concernida.
 
-e) Igualdad de oportunidades: Toda persona tiene derecho a obtener la satisfacción de los derechos económicos, sociales y culturales indispensables a su dignidad y al libre desarrollo de su personalidad. A estos efectos, los poderes públicos de Canarias:
+e) **Igualdad de oportunidades.** Toda persona tiene derecho a obtener la satisfacción de los derechos económicos, sociales y culturales indispensables a su dignidad y al libre desarrollo de su personalidad. A estos efectos, los poderes públicos de Canarias:
 
 1.º Adoptarán las medidas oportunas para garantizar la igualdad de oportunidades de todas las personas que pertenezcan al ámbito de aplicación de esta ley, con independencia de su identidad y expresión de género o sus características sexuales. En particular, las actuaciones públicas en esta materia irán dirigidas a promover la plena incorporación de las personas trans e intersexuales a la vida social, superando cualquier discriminación laboral, cultural, económica, política o social.
 
@@ -261,29 +258,29 @@ Estos protocolos o normas no podrán menoscabar el derecho a la libre determinac
 
 4. Todas las actuaciones y medidas que se lleven a cabo al amparo de esta ley deberán adecuarse a las necesidades específicas de las realidades insulares, municipales y del entorno rural.
 
-#### Artículo 5. Reconocimiento y apoyo institucional.
+#### Artículo 5. Reconocimiento y apoyo institucional.
 
 1. Las instituciones y los poderes públicos de la Comunidad Autónoma de Canarias contribuirán a la visibilidad de las personas trans e intersexuales en Canarias, respaldando y realizando campañas y acciones positivas con el fin de promover el valor positivo de la diversidad en materia de identidad y expresión de género y diversidad sexual, las relaciones afectivo-sexuales y familiares, con especial atención a los sectores de la población especialmente discriminados.
 
-2. El órgano competente en materia de igualdad del Gobierno de Canarias promoverá, con especial atención a los principios reconocidos en el artículo 4 de la presente ley y procurando la participación de los colectivos afectados, la realización de campañas que contribuyan a la erradicación de la múltiple discriminación que sufren las mujeres transexuales y las personas trans-femeninas por razones de orientación sexual, identidad y expresión de género o características sexuales.
+2. El órgano competente en materia de igualdad del Gobierno de Canarias promoverá, con especial atención a los principios reconocidos en el artículo 4 de la presente ley y procurando la participación de los colectivos afectados, la realización de campañas que contribuyan a la erradicación de la múltiple discriminación que sufren las mujeres transexuales y las personas trans-femeninas por razones de orientación sexual, identidad y expresión de género o características sexuales.
 
 3. Los poderes públicos de la Comunidad Autónoma de Canarias destinarán medios para la conmemoración de actos y eventos que fomenten la visibilización de las personas trans e intersexuales, en especial en los siguientes días de celebración internacional:
 
-a) El 31 de marzo, Día Internacional de la Visibilidad Trans.
+a) El 31 de marzo, Día Internacional de la Visibilidad Trans.
 
-b) El 17 de mayo, Día Internacional contra la lesbofobia, homofobia, transfobia, bifobia e intersexfobia.
+b) El 17 de mayo, Día Internacional contra la lesbofobia, homofobia, transfobia, bifobia e intersexfobia.
 
-c) El 28 de junio, Día del Orgullo Lésbico, Homosexual, Trans, Intersexual e Identidades No Binarias.
+c) El 28 de junio, Día del Orgullo Lésbico, Homosexual, Trans, Intersexual e Identidades No Binarias.
 
-d) El 26 de octubre, día de la visibilidad intersex.
+d) El 26 de octubre, día de la visibilidad intersex.
 
-e) El tercer sábado de octubre, día del orgullo trans.
+e) El tercer sábado de octubre, día del orgullo trans.
 
-f) El 8 de noviembre, el Día de la Solidaridad Intersex.
+f) El 8 de noviembre, el Día de la Solidaridad Intersex.
 
-g) El 20 de noviembre, Día Internacional en Memoria de las Víctimas de la Transfobia.
+g) El 20 de noviembre, Día Internacional en Memoria de las Víctimas de la Transfobia.
 
-#### Artículo 6. Menores trans e intersexuales.
+#### Artículo 6. Menores trans e intersexuales.
 
 1. Las personas trans e intersexuales menores de edad tienen derecho a recibir de la Comunidad Autónoma de Canarias la protección y atención necesarias para promover el desarrollo integral de su personalidad mediante actuaciones eficaces para su bienestar e integración familiar y social en el marco de programas coordinados de la Administración sanitaria, laboral, de servicios sociales y educativa, así como a la atención y las prestaciones sociales que se establezcan en todos esos ámbitos a las familias de las personas menores para que puedan llevar a cabo un correcto acompañamiento en su desarrollo, dada la especial vulnerabilidad de este colectivo.
 
@@ -295,17 +292,15 @@ La atención sanitaria que se les preste, en tanto que menores, se hará de acue
 
 4. Toda intervención de la Comunidad Autónoma de Canarias deberá estar presidida por el criterio rector de atención al interés superior de la persona menor y dirigida a garantizar el libre desarrollo de su personalidad conforme a la identidad de género autopercibida, y a evitar situaciones de sufrimiento e indefensión.
 
-5. El amparo de las personas menores en la presente ley se producirá por mediación de las personas progenitoras o adoptantes que ostenten la patria potestad o, en su defecto, por quienes ejerzan la tutela, curatela o defensa judicial o, en su caso, a través de la entidad pública que ostente la guarda de la persona menor cuando se acredite la existencia de situaciones de sufrimiento e indefensión por negación abusiva de su identidad o expresión de género o de sus características sexuales, de acuerdo a la normativa vigente y teniendo en cuenta lo establecido en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que la sustituya.
+5. El amparo de las personas menores en la presente ley se producirá por mediación de las personas progenitoras o adoptantes que ostenten la patria potestad o, en su defecto, por quienes ejerzan la tutela, curatela o defensa judicial o, en su caso, a través de la entidad pública que ostente la guarda de la persona menor cuando se acredite la existencia de situaciones de sufrimiento e indefensión por negación abusiva de su identidad o expresión de género o de sus características sexuales, de acuerdo a la normativa vigente y teniendo en cuenta lo establecido en la [Ley Orgánica 1/1996](../01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que la sustituya.
 
-## TÍTULO I
+## Título I
 
 **Tratamiento administrativo y medidas generales relativas a la identidad y expresión de género, así como de las características sexuales**
 
-CAPÍTULO I
+## Capítulo I. Tratamiento administrativo de la identidad y expresión de género, así como de las características sexuales.
 
-Tratamiento administrativo de la identidad y expresión de género, así como de las características sexuales
-
-#### Artículo 7. Documentación administrativa acorde a la identidad de género.
+#### Artículo 7. Documentación administrativa acorde a la identidad de género.
 
 1. Las administraciones públicas de Canarias, en el ámbito de sus competencias, deberán adoptar todas las medidas administrativas y de cualquier otra índole que sean necesarias a fin de asegurar que en los expedientes y procedimientos administrativos las personas sean tratadas de acuerdo con su identidad de género sentida, aunque sean menores de edad, y sin necesidad de acreditarla mediante informe médico, psicológico ni de cualquier otra índole.
 
@@ -317,15 +312,15 @@ Tratamiento administrativo de la identidad y expresión de género, así como de
 
 5. El objeto de la solicitud podrá consistir en una manifestación general para el conjunto de relaciones que mantenga o pueda mantener la persona interesada con la Administración pública canaria correspondiente o una manifestación específica para un expediente o procedimiento concretos.
 
-#### Artículo 8. Servicios de asesoramiento y apoyo a las personas trans e intersexuales, sus familiares y personas allegadas.
+#### Artículo 8. Servicios de asesoramiento y apoyo a las personas trans e intersexuales, sus familiares y personas allegadas.
 
 1. La Comunidad Autónoma de Canarias garantizará que las personas trans e intersexuales tengan acceso a servicios de:
 
-a) Información, orientación y asesoramiento jurídico, psicológico y sociolaboral, con inclusión de sus familiares y personas allegadas en relación con las necesidades de apoyo específicamente ligadas a la condición de persona trans o intersexual, siguiendo los principios de cercanía y no segregación.
+a) Información, orientación y asesoramiento jurídico, psicológico y sociolaboral, con inclusión de sus familiares y personas allegadas en relación con las necesidades de apoyo específicamente ligadas a la condición de persona trans o intersexual, siguiendo los principios de cercanía y no segregación.
 
-b) Promoción de la defensa de los derechos de este colectivo y de lucha contra la discriminación que este padece en el ámbito social, cultural, laboral, sanitario, educativo o de cualquier otra índole.
+b) Promoción de la defensa de los derechos de este colectivo y de lucha contra la discriminación que este padece en el ámbito social, cultural, laboral, sanitario, educativo o de cualquier otra índole.
 
-c) Asesoramiento técnico por parte de las organizaciones de carácter no lucrativo que atiendan las necesidades de las personas trans o intersexuales.
+c) Asesoramiento técnico por parte de las organizaciones de carácter no lucrativo que atiendan las necesidades de las personas trans o intersexuales.
 
 2. En el marco de la normativa relacionada con la gestión de los servicios de responsabilidad pública, se garantizará la participación en la gestión de las asociaciones y organizaciones que trabajen por los derechos fundamentales de las personas trans e intersexuales. A este fin, y para adecuar el servicio a las necesidades reales y disponer de un mecanismo de evaluación sobre la efectividad de las medidas adoptadas en esta ley, la Comunidad Autónoma de Canarias creará un comité consultivo que reúna a representantes de las asociaciones con experiencia acreditada en materia de defensa de los derechos de las personas trans e intersexuales, representantes del servicio de asesoramiento y representantes de las unidades de acompañamiento a las personas trans e intersexuales.
 
@@ -335,93 +330,91 @@ Dicho comité podrá elevar conclusiones o propuestas de mejora y adaptación a 
 
 4. Toda mujer transexual o persona trans-femenina que sea víctima de violencia machista o víctima de trata tendrá acceso, en condiciones de igualdad, a los recursos asistenciales y sociales existentes.
 
-#### Artículo 9. Confidencialidad y respeto a la privacidad.
+#### Artículo 9. Confidencialidad y respeto a la privacidad.
 
 1. La Comunidad Autónoma de Canarias velará por el respeto a la confidencialidad de los datos relativos a la identidad de género de las personas trans y de las características sexuales de las personas intersexuales en todos sus procedimientos, garantizando el adecuado nivel de seguridad y restricción en el acceso a los datos relativos a la condición de persona trans o intersexual, y especialmente en los trámites de publicación oficial o exposición pública.
 
 2. La Comunidad Autónoma de Canarias garantizará, mediante la oportuna regulación, la efectividad de esos derechos en relación con los datos suministrados para el tratamiento a recibir por parte de las administraciones públicas canarias.
 
-3. La Comunidad Autónoma de Canarias facilitará a las personas trans e intersexuales el asesoramiento necesario para realizar los cambios oportunos en ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que la sustituya.
+3. La Comunidad Autónoma de Canarias facilitará a las personas trans e intersexuales el asesoramiento necesario para realizar los cambios oportunos en ficheros de organismos privados o de carácter estatal, de acuerdo con lo recogido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que la sustituya.
 
-CAPÍTULO II
+## Capítulo II. Medidas generales relativas a la identidad y expresión de género, así como las características sexuales.
 
-Medidas generales relativas a la identidad y expresión de género, así como las características sexuales
-
-#### Artículo 10. Principios de la actuación administrativa.
+#### Artículo 10. Principios de la actuación administrativa.
 
 1. La actuación de las administraciones públicas canarias, en relación con lo previsto en esta ley, se ajustará a los siguientes principios:
 
-a) Coordinación entre la comunidad autónoma y las entidades locales de Canarias, que deberán ajustar sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.
+a) Coordinación entre la comunidad autónoma y las entidades locales de Canarias, que deberán ajustar sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.
 
-b) Descentralización y desconcentración en la gestión de los centros y servicios, garantizando la máxima proximidad a las personas usuarias de los mismos y la cobertura de todo el territorio de la comunidad autónoma canaria.
+b) Descentralización y desconcentración en la gestión de los centros y servicios, garantizando la máxima proximidad a las personas usuarias de los mismos y la cobertura de todo el territorio de la comunidad autónoma canaria.
 
-c) Homogeneidad de las prestaciones asistenciales previstas en esta ley, con independencia de la administración que asuma su gestión o tutela.
+c) Homogeneidad de las prestaciones asistenciales previstas en esta ley, con independencia de la administración que asuma su gestión o tutela.
 
-d) Igualdad de trato y prestaciones entre las personas usuarias, con independencia de la isla o municipio en que tengan su residencia.
+d) Igualdad de trato y prestaciones entre las personas usuarias, con independencia de la isla o municipio en que tengan su residencia.
 
-e) Suficiencia financiera y de medios materiales para satisfacer las situaciones objeto de protección.
+e) Suficiencia financiera y de medios materiales para satisfacer las situaciones objeto de protección.
 
-f) Eficacia y agilidad en la prestación de servicios, especialmente los de carácter urgente o inmediato.
+f) Eficacia y agilidad en la prestación de servicios, especialmente los de carácter urgente o inmediato.
 
-g) Garantía de la calidad a través del establecimiento de sistemas de control que permitan verificar la eficacia de las actuaciones y servicios previstos en esta ley.
+g) Garantía de la calidad a través del establecimiento de sistemas de control que permitan verificar la eficacia de las actuaciones y servicios previstos en esta ley.
 
 2. Las administraciones públicas canarias adoptarán las medidas necesarias para eliminar cualquier tipo de discriminación por causa de identidad y expresión de género o características sexuales que pueda presentarse en el acceso a los recursos y prestaciones de servicios.
 
-#### Artículo 11. Contratación administrativa y subvenciones.
+#### Artículo 11. Contratación administrativa y subvenciones.
 
 1. Respetando, en todo caso, la legislación en materia de contratos del sector público, y a efectos de determinar la mejor relación calidad-precio en la adjudicación de los contratos, se podrán establecer en los pliegos de cláusulas administrativas particulares criterios de puntuación y valoración positiva de las propuestas presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica, desarrollen medidas destinadas a lograr la igualdad de oportunidades en atención a la identidad y expresión de género.
 
 2. Asimismo, las administraciones canarias podrán incorporar a las bases reguladoras de las subvenciones públicas la valoración de las actuaciones practicadas por las entidades y empresas solicitantes de efectiva consecución de la igualdad en relación con la identidad o expresión de género o características sexuales.
 
-#### Artículo 12. Formación del personal de las administraciones públicas.
+#### Artículo 12. Formación del personal de las administraciones públicas.
 
 En el ámbito de la Administración pública de Canarias se impartirá la formación necesaria que garantice la adecuada sensibilización y correcta actuación de las personas profesionales que prestan servicios en los ámbitos de la salud, la educación, el mundo laboral, la familia, los servicios sociales, el ocio, la cultura y el deporte, la comunicación y, en general, al conjunto de empleadas y empleados públicos, incluidos los miembros de las policías locales de Canarias y del Cuerpo General de la Policía Canaria.
 
-#### Artículo 13. Evaluación de impacto normativo sobre la identidad y expresión de género o las características sexuales.
+#### Artículo 13. Evaluación de impacto normativo sobre la identidad y expresión de género o las características sexuales.
 
-Las normas y resoluciones de la Comunidad Autónoma de Canarias incorporarán al informe de evaluación del impacto de género previsto en el artículo 6 de la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, la evaluación del impacto sobre identidad y expresión de género y de diversidad sexual en el desarrollo de sus competencias para garantizar la integración del principio de igualdad y no discriminación por razón de identidad y expresión de género o de características sexuales.
+Las normas y resoluciones de la Comunidad Autónoma de Canarias incorporarán al informe de evaluación del impacto de género previsto en el artículo 6 de la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres, la evaluación del impacto sobre identidad y expresión de género y de diversidad sexual en el desarrollo de sus competencias para garantizar la integración del principio de igualdad y no discriminación por razón de identidad y expresión de género o de características sexuales.
 
-#### Artículo 14. Medidas frente al daño moral por discriminación y resarcimiento.
+#### Artículo 14. Medidas frente al daño moral por discriminación y resarcimiento.
 
 1. La protección frente a cualquier violación del derecho a la igualdad de las personas por motivo de identidad o expresión de género o de sus características sexuales comprenderá, en su caso, la adopción de cuantas medidas sean necesarias para el cese inmediato en la conducta discriminatoria, la adopción de medidas cautelares, la prevención de violaciones inminentes o ulteriores, la indemnización de daños y perjuicios causados y el restablecimiento pleno de la persona perjudicada en el pleno ejercicio de su derecho.
 
 2. Se presume la existencia de daño moral si la discriminación queda acreditada. El daño debe valorarse atendiendo a las circunstancias del caso y a la gravedad de la lesión efectiva producida.
 
-#### Artículo 15. Derecho a una protección integral, real y efectiva.
+#### Artículo 15. Derecho a una protección integral, real y efectiva.
 
 1. Las administraciones públicas canarias deben garantizar a las personas trans e intersexuales que sufren o se encuentran en riesgo de sufrir cualquier tipo de violencia o discriminación el derecho de recibir de forma inmediata una protección integral, real y efectiva.
 
 2. Las administraciones públicas canarias deben establecer los mecanismos necesarios para garantizar que las personas trans e intersexuales tengan derecho a recibir toda la información y asistencia jurídica especializada relacionada con la discriminación y los distintos tipos de violencia ejercida contra estas personas.
 
-#### Artículo 16. Concepto de persona interesada en el procedimiento administrativo.
+#### Artículo 16. Concepto de persona interesada en el procedimiento administrativo.
 
 En los procedimientos seguidos ante las administraciones públicas canarias relacionados con el derecho a la igualdad y no discriminación por razón de orientación sexual, y sin perjuicio de lo establecido en la normativa de procedimiento administrativo común de las administraciones públicas, tendrán la condición de personas interesadas en el procedimiento administrativo:
 
-a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos. Las asociaciones, entidades y organizaciones representativas de los colectivos de personas trans o intersexuales y aquellas que tengan por objeto la defensa y promoción de derechos humanos serán titulares de intereses legítimos colectivos, siempre con la autorización de la persona o las personas afectadas. Tienen la misma consideración los sindicatos, las asociaciones profesionales y las organizaciones de consumidores y usuarios, en los términos de lo dispuesto por la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Común de las Administraciones Públicas.
+a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos. Las asociaciones, entidades y organizaciones representativas de los colectivos de personas trans o intersexuales y aquellas que tengan por objeto la defensa y promoción de derechos humanos serán titulares de intereses legítimos colectivos, siempre con la autorización de la persona o las personas afectadas. Tienen la misma consideración los sindicatos, las asociaciones profesionales y las organizaciones de consumidores y usuarios, en los términos de lo dispuesto por la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Común de las Administraciones Públicas.
 
-b) Las personas que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+b) Las personas que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
 
-#### Artículo 17. Inversión de la carga de la prueba.
+#### Artículo 17. Inversión de la carga de la prueba.
 
 De acuerdo con lo establecido por las leyes procesales y reguladoras de los procedimientos administrativos, en los procedimientos seguidos ante las administraciones públicas canarias en el ámbito de sus competencias, cuando la persona o colectivo interesado aporte hechos o indicios razonables, fundamentados y probados por cualquier medio de prueba admitido en derecho de haber sufrido discriminación por razón de identidad o expresión de género o por razón de sus características sexuales, corresponde a quien se atribuye la conducta discriminatoria la aportación de justificación probada, objetiva y razonable de las medidas adoptadas.
 
-#### Artículo 18. Medidas generales contra la transfobia e intersexfobia.
+#### Artículo 18. Medidas generales contra la transfobia e intersexfobia.
 
 Las administraciones públicas canarias, en colaboración con las asociaciones que trabajan en el ámbito de la no discriminación por motivo de identidad y expresión de género, o características sexuales:
 
-a) Diseñarán, implementarán y evaluarán sistemáticamente una política proactiva en relación con la mejor integración social de las personas trans e intersexuales. Dicha política estará dotada de los instrumentos y estructuras necesarias para hacerla viable y ostentará carácter transversal.
+a) Diseñarán, implementarán y evaluarán sistemáticamente una política proactiva en relación con la mejor integración social de las personas trans e intersexuales. Dicha política estará dotada de los instrumentos y estructuras necesarias para hacerla viable y ostentará carácter transversal.
 
-b) Desarrollarán e implementarán programas de capacitación, sensibilización u otros dirigidos a contrarrestar entre el personal funcionario, laboral y de las administraciones y de los organismos, sociedades y entes públicos canarios las actitudes discriminatorias, los prejuicios y los estereotipos dominantes por motivos de identidad y expresión de género o características sexuales.
+b) Desarrollarán e implementarán programas de capacitación, sensibilización u otros dirigidos a contrarrestar entre el personal funcionario, laboral y de las administraciones y de los organismos, sociedades y entes públicos canarios las actitudes discriminatorias, los prejuicios y los estereotipos dominantes por motivos de identidad y expresión de género o características sexuales.
 
-c) Emprenderán campañas de sensibilización, dirigidas al público en general, a fin de combatir los prejuicios subyacentes a la violencia relacionada con la identidad o expresión de género o de las características sexuales y para obtener el respeto efectivo de la identidad de género de las personas trans e intersexuales.
+c) Emprenderán campañas de sensibilización, dirigidas al público en general, a fin de combatir los prejuicios subyacentes a la violencia relacionada con la identidad o expresión de género o de las características sexuales y para obtener el respeto efectivo de la identidad de género de las personas trans e intersexuales.
 
-d) Realizarán campañas entre la propia población de personas trans e intersexuales fomentando la autoestima y el sentido de la propia dignidad frente a las posibles reacciones adversas del entorno social y familiar.
+d) Realizarán campañas entre la propia población de personas trans e intersexuales fomentando la autoestima y el sentido de la propia dignidad frente a las posibles reacciones adversas del entorno social y familiar.
 
-e) Defenderán eficazmente, en materia de identidad y expresión de género o características sexuales, el tratamiento pluralista, la no difusión de los prejuicios que conducen a la discriminación o que incitan a la violencia por motivos de orientación sexual, de identidad o expresión de género, o de características sexuales en los medios de comunicación de titularidad pública o privada.
+e) Defenderán eficazmente, en materia de identidad y expresión de género o características sexuales, el tratamiento pluralista, la no difusión de los prejuicios que conducen a la discriminación o que incitan a la violencia por motivos de orientación sexual, de identidad o expresión de género, o de características sexuales en los medios de comunicación de titularidad pública o privada.
 
-f) Apoyarán el reconocimiento y la acreditación de asociaciones, colectivos y organizaciones que promueven y protegen los derechos de las personas trans e intersexuales.
+f) Apoyarán el reconocimiento y la acreditación de asociaciones, colectivos y organizaciones que promueven y protegen los derechos de las personas trans e intersexuales.
 
-g) Fomentarán, incluyendo en la planificación y subvención de actividades académicas y de investigación, que las universidades canarias atiendan a la formación y la investigación en materia de identidad de género e intersexualidad, estableciendo convenios de colaboración, si ello fuera aconsejable, para, entre otros objetivos:
+g) Fomentarán, incluyendo en la planificación y subvención de actividades académicas y de investigación, que las universidades canarias atiendan a la formación y la investigación en materia de identidad de género e intersexualidad, estableciendo convenios de colaboración, si ello fuera aconsejable, para, entre otros objetivos:
 
 1.º Impulsar la investigación y la profundización teórica sobre la realidad humana de la identidad de género.
 
@@ -431,9 +424,9 @@ g) Fomentarán, incluyendo en la planificación y subvención de actividades a
 
 4.º Elaborar planes de formación para profesionales del ámbito sanitario y de otras ramas del conocimiento que entran en contacto con las identidades trans y las personas intersexuales.
 
-h) Incentivarán de manera activa la participación social y una mayor integración en el ámbito lúdico y deportivo de las personas trans e intersexuales.
+h) Incentivarán de manera activa la participación social y una mayor integración en el ámbito lúdico y deportivo de las personas trans e intersexuales.
 
-#### Artículo 19. Derecho de admisión.
+#### Artículo 19. Derecho de admisión.
 
 1. El ejercicio del derecho de admisión no puede comportar en ningún caso la discriminación por identidad o expresión de género o características sexuales.
 
@@ -441,19 +434,17 @@ h) Incentivarán de manera activa la participación social y una mayor integra
 
 3. Las personas titulares de los establecimientos y espacios abiertos al público, así como las personas organizadoras de espectáculos y actividades recreativas, adoptarán las medidas necesarias para prevenir y, en su caso, estarán obligadas a impedir el acceso o a expulsar de los mismos, con auxilio, si es necesario, de la fuerza pública:
 
-a) A las personas que violenten de palabra o hecho a otras personas por razón de identidad o expresión de género o características sexuales.
+a) A las personas que violenten de palabra o hecho a otras personas por razón de identidad o expresión de género o características sexuales.
 
-b) A las personas que lleven y exhiban públicamente símbolos, indumentaria u objetos que inciten a la violencia o la discriminación por identidad de género o características sexuales.
+b) A las personas que lleven y exhiban públicamente símbolos, indumentaria u objetos que inciten a la violencia o la discriminación por identidad de género o características sexuales.
 
-## TÍTULO II
+## Título II
 
 **Atención sanitaria a las personas trans e intersexuales**
 
-CAPÍTULO I
+## Capítulo I. Sobre los derechos y alcance de la atención sanitaria.
 
-Sobre los derechos y alcance de la atención sanitaria
-
-#### Artículo 20. Protección del derecho a la salud física, mental, sexual y reproductiva.
+#### Artículo 20. Protección del derecho a la salud física, mental, sexual y reproductiva.
 
 1. Las personas trans e intersexuales tienen derecho al más alto nivel de disfrute de la salud física y mental, incluida la salud sexual y reproductiva, sin discriminación alguna por razón de identidad o expresión de género o de sus características sexuales. A estos efectos, el sistema sanitario público de Canarias atenderá a las personas trans e intersexuales conforme a los principios de libre autodeterminación de género, de no discriminación, de asistencia integral, de calidad, especializada y de proximidad, y de no segregación.
 
@@ -469,11 +460,9 @@ Sobre los derechos y alcance de la atención sanitaria
 
 7. Las personas trans e intersexuales tienen derecho a la libre elección de médico especializado para las prestaciones específicas previstas para estas personas en la cartera de servicios comunes de atención especializada en las mismas condiciones que el resto de las personas usuarias del Servicio Canario de la Salud.
 
-CAPÍTULO II
+## Capítulo II. Modelo de atención a la salud de las personas trans e intersexuales.
 
-Modelo de atención a la salud de las personas trans e intersexuales
-
-#### Artículo 21. Modelo de atención a la salud de las personas trans e intersexuales.
+#### Artículo 21. Modelo de atención a la salud de las personas trans e intersexuales.
 
 1. La Comunidad Autónoma de Canarias, en el marco de sus competencias, establecerá un nuevo modelo de atención sanitaria a las personas trans e intersexuales, garantizando la cobertura integral de sus necesidades de salud, el respeto al derecho de la intimidad y a un tratamiento integral de acuerdo a la cartera de servicios vigente, con la finalidad de garantizar el derecho a recibir atención sanitaria y a gozar de los servicios de salud en condiciones de equidad.
 
@@ -489,181 +478,177 @@ Modelo de atención a la salud de las personas trans e intersexuales
 
 7. Los organismos del ámbito sanitario atenderán a las mismas regulaciones que el resto de la administración descritas en el título II de esta ley.
 
-#### Artículo 22. Servicio de Diversidad de Género.
+#### Artículo 22. Servicio de Diversidad de Género.
 
 La Comunidad Autónoma de Canarias, en su cartera de servicios, conformará un Servicio de Diversidad de Género (SDG). Dicho servicio:
 
-a) Dispondrá un ámbito de actuación regional.
+a) Dispondrá un ámbito de actuación regional.
 
-b) Actuará con criterios objetivos de mejora de la eficiencia y calidad de la asistencia prestada, con autonomía de gestión y criterios de evaluación y control transparentes. Además, garantizará el uso racional de los recursos en la prestación de asistencia sanitaria a las personas trans e intersexuales bajo los estándares de la más alta calidad asistencial y procurando evitar los gastos derivados del desplazamiento y alojamiento de pacientes trans e intersexuales que resulten innecesarios de forma objetiva.
+b) Actuará con criterios objetivos de mejora de la eficiencia y calidad de la asistencia prestada, con autonomía de gestión y criterios de evaluación y control transparentes. Además, garantizará el uso racional de los recursos en la prestación de asistencia sanitaria a las personas trans e intersexuales bajo los estándares de la más alta calidad asistencial y procurando evitar los gastos derivados del desplazamiento y alojamiento de pacientes trans e intersexuales que resulten innecesarios de forma objetiva.
 
-c) Coordinará el conjunto de la asistencia sanitaria de las personas trans e intersexuales, sean adultas o menores, sea esta pública o privada, rigiéndose por el principio de la libre autodeterminación de la identidad y expresión de género y de las características sexuales, y basándose en una visión despatologizadora de las identidades trans y de la intersexualidad.
+c) Coordinará el conjunto de la asistencia sanitaria de las personas trans e intersexuales, sean adultas o menores, sea esta pública o privada, rigiéndose por el principio de la libre autodeterminación de la identidad y expresión de género y de las características sexuales, y basándose en una visión despatologizadora de las identidades trans y de la intersexualidad.
 
-d) Servirá de ente de coordinación entre las administraciones, el personal sanitario y los colectivos y entidades de personas trans e intersexuales para desarrollar los protocolos de atención y guías clínicas que garanticen una asistencia sanitaria integral y de calidad a estas personas, de acuerdo con los principios y derechos recogidos en esta ley.
+d) Servirá de ente de coordinación entre las administraciones, el personal sanitario y los colectivos y entidades de personas trans e intersexuales para desarrollar los protocolos de atención y guías clínicas que garanticen una asistencia sanitaria integral y de calidad a estas personas, de acuerdo con los principios y derechos recogidos en esta ley.
 
-e) Estará integrado por personas profesionales técnicas y sanitarias cualificadamente y con experiencia demostrada en el ámbito de la identidad y expresión de género y la intersexualidad, con el fin de desarrollar sus funciones, acorde a los principios y derechos recogidos en esta ley.
+e) Estará integrado por personas profesionales técnicas y sanitarias cualificadamente y con experiencia demostrada en el ámbito de la identidad y expresión de género y la intersexualidad, con el fin de desarrollar sus funciones, acorde a los principios y derechos recogidos en esta ley.
 
-f) Realizará y publicará regularmente estudios e investigaciones en relación con la asistencia sanitaria de las personas trans e intersexuales, incluyendo la creación de estadísticas a través del Servicio Canario de la Salud sobre los resultados de los diferentes tratamientos, terapias e intervenciones que se lleven a cabo, con detalle de las técnicas empleadas, complicaciones y reclamaciones surgidas, así como la evaluación de la calidad asistencial.
+f) Realizará y publicará regularmente estudios e investigaciones en relación con la asistencia sanitaria de las personas trans e intersexuales, incluyendo la creación de estadísticas a través del Servicio Canario de la Salud sobre los resultados de los diferentes tratamientos, terapias e intervenciones que se lleven a cabo, con detalle de las técnicas empleadas, complicaciones y reclamaciones surgidas, así como la evaluación de la calidad asistencial.
 
-g) Desarrollará programas de formación, tanto generales como específicos, en materia de identidad y expresión de género e intersexualidad, con el fin de garantizar el derecho del personal sanitario a recibir formación específica y de calidad.
+g) Desarrollará programas de formación, tanto generales como específicos, en materia de identidad y expresión de género e intersexualidad, con el fin de garantizar el derecho del personal sanitario a recibir formación específica y de calidad.
 
-h) Elaborará guías de recomendaciones y campañas de promoción de salud, dirigidas específicamente a las personas trans o intersexuales, que aborden las necesidades sanitarias más frecuentes en esta población con el objetivo de mejorar la calidad de la información ofertada.
+h) Elaborará guías de recomendaciones y campañas de promoción de salud, dirigidas específicamente a las personas trans o intersexuales, que aborden las necesidades sanitarias más frecuentes en esta población con el objetivo de mejorar la calidad de la información ofertada.
 
-i) Conformará un comité experto en materia de salud trans e intersexual, integrado por las personas coordinadoras del Servicio de Diversidad de Género y de las unidades de acompañamiento a las personas trans e intersexuales, por personal técnico de farmacia de atención primaria, así como por personal médico especialista y responsable de la coordinación de la atención sanitaria de las personas trans e intersexuales dentro de la unidad funcional correspondiente, en las áreas competenciales de ginecología y obstetricia, endocrinología, pediatría, salud mental, cirugía plástica y urología.
+i) Conformará un comité experto en materia de salud trans e intersexual, integrado por las personas coordinadoras del Servicio de Diversidad de Género y de las unidades de acompañamiento a las personas trans e intersexuales, por personal técnico de farmacia de atención primaria, así como por personal médico especialista y responsable de la coordinación de la atención sanitaria de las personas trans e intersexuales dentro de la unidad funcional correspondiente, en las áreas competenciales de ginecología y obstetricia, endocrinología, pediatría, salud mental, cirugía plástica y urología.
 
-j) Definirá, en coordinación con la unidad de referencia estatal correspondiente y en colaboración con el comité experto en materia de salud trans e intersexual las mejores prácticas médicas relacionadas con la salud de las personas trans e intersexuales. Dicha coordinación quedará sin efecto en el caso de que el servicio sea designado como unidad de referencia estatal por la Administración competente. En todo caso, tal designación no podrá en ningún caso menoscabar los derechos sanitarios de las personas usuarias recogidos en el articulado de esta ley y demás normas aplicables, ni los derechos de las personas profesionales reconocidos en la ley a una formación inicial y continuada en la materia, así como a la práctica de los conocimientos adquiridos.
+j) Definirá, en coordinación con la unidad de referencia estatal correspondiente y en colaboración con el comité experto en materia de salud trans e intersexual las mejores prácticas médicas relacionadas con la salud de las personas trans e intersexuales. Dicha coordinación quedará sin efecto en el caso de que el servicio sea designado como unidad de referencia estatal por la Administración competente. En todo caso, tal designación no podrá en ningún caso menoscabar los derechos sanitarios de las personas usuarias recogidos en el articulado de esta ley y demás normas aplicables, ni los derechos de las personas profesionales reconocidos en la ley a una formación inicial y continuada en la materia, así como a la práctica de los conocimientos adquiridos.
 
-k) Establecerá reglamentariamente, en colaboración con el comité experto en identidad de género e intersexualidad y las entidades o colectivos con experiencia acreditada en defensa de los derechos de las personas trans e intersexuales, una guía clínica para la atención de las personas trans e intersexuales, con el objetivo de articular el suficiente consenso profesional en los campos de la salud que atiendan a la realidad de este colectivo. La guía clínica deberá incluir criterios objetivos, protocolos de actuación sobre las necesidades sanitarias más frecuentes y especificar la cualificación necesaria de las y los profesionales para cada tipo de actuación.
+k) Establecerá reglamentariamente, en colaboración con el comité experto en identidad de género e intersexualidad y las entidades o colectivos con experiencia acreditada en defensa de los derechos de las personas trans e intersexuales, una guía clínica para la atención de las personas trans e intersexuales, con el objetivo de articular el suficiente consenso profesional en los campos de la salud que atiendan a la realidad de este colectivo. La guía clínica deberá incluir criterios objetivos, protocolos de actuación sobre las necesidades sanitarias más frecuentes y especificar la cualificación necesaria de las y los profesionales para cada tipo de actuación.
 
-#### Artículo 23. Unidades de acompañamiento y de atención a las personas trans e intersexuales.
+#### Artículo 23. Unidades de acompañamiento y de atención a las personas trans e intersexuales.
 
 1. Corresponde al Servicio Canario de la Salud garantizar la existencia de una Unidad de Acompañamiento a las Personas Trans e Intersexuales (UATI) de referencia por cada provincia. Cada una de dichas unidades de referencia:
 
-a) Tendrá un ámbito de actuación provincial.
+a) Tendrá un ámbito de actuación provincial.
 
-b) Coordinará la asistencia sanitaria provincial de las personas trans e intersexuales, teniendo en cuenta los principios descritos en el artículo 22 de la presente ley.
+b) Coordinará la asistencia sanitaria provincial de las personas trans e intersexuales, teniendo en cuenta los principios descritos en el artículo 22 de la presente ley.
 
-c) Dispondrá de una ubicación física propia, así como de los recursos y personal necesario para garantizar el desarrollo de sus funciones con los más altos niveles de calidad asistencial.
+c) Dispondrá de una ubicación física propia, así como de los recursos y personal necesario para garantizar el desarrollo de sus funciones con los más altos niveles de calidad asistencial.
 
-d) Estará integrada por personal administrativo, personal de enfermería, una persona especializada en medicina de atención primaria, una en psicología y otra en trabajo social, todas con formación y experiencia suficiente y demostrada en materia de identidad de género e intersexualidad.
+d) Estará integrada por personal administrativo, personal de enfermería, una persona especializada en medicina de atención primaria, una en psicología y otra en trabajo social, todas con formación y experiencia suficiente y demostrada en materia de identidad de género e intersexualidad.
 
-e) Dispondrá a modo de unidad funcional de la participación regular, coordinada y reglamentada dentro de la Unidad de Identidad de Género de otras especialidades médicas que se puedan precisar en la atención específica de la salud de las personas trans e intersexuales. Dichas especialidades comprenderán: ginecología, obstetricia, endocrinología (tanto adulta como pediátrica), cirugía plástica, urología, psiquiatría, paidopsiquiatría, sexología y foniatría.
+e) Dispondrá a modo de unidad funcional de la participación regular, coordinada y reglamentada dentro de la Unidad de Identidad de Género de otras especialidades médicas que se puedan precisar en la atención específica de la salud de las personas trans e intersexuales. Dichas especialidades comprenderán: ginecología, obstetricia, endocrinología (tanto adulta como pediátrica), cirugía plástica, urología, psiquiatría, paidopsiquiatría, sexología y foniatría.
 
-f) Participará de la realización de estudios y del desarrollo de programas de formación, tal y como queda estipulado en el artículo 22 de la presente ley.
+f) Participará de la realización de estudios y del desarrollo de programas de formación, tal y como queda estipulado en el artículo 22 de la presente ley.
 
-g) Prestará servicios de asesoramiento y seguimiento del personal que preste asistencia a las personas trans e intersexuales de la Comunidad Autónoma de Canarias que opten por la atención de proximidad siguiendo los principios de esta ley.
+g) Prestará servicios de asesoramiento y seguimiento del personal que preste asistencia a las personas trans e intersexuales de la Comunidad Autónoma de Canarias que opten por la atención de proximidad siguiendo los principios de esta ley.
 
 2. Corresponde al Servicio Canario de la Salud garantizar la existencia de una Unidad de Atención a las Personas Trans e Intersexuales ambulatoria en cada una de las islas de Lanzarote, Fuerteventura, La Palma, El Hierro y La Gomera. Cada una de dichas unidades:
 
-a) Tendrá un ámbito de actuación insular.
+a) Tendrá un ámbito de actuación insular.
 
-b) Coordinará la asistencia sanitaria insular de las personas trans e intersexuales, en base a los principios descritos en el artículo 22 de la presente ley.
+b) Coordinará la asistencia sanitaria insular de las personas trans e intersexuales, en base a los principios descritos en el artículo 22 de la presente ley.
 
-c) Dispondrá de una ubicación física propia, así como de los recursos y personal necesario para garantizar el desarrollo de sus funciones con los más altos niveles de calidad asistencial.
+c) Dispondrá de una ubicación física propia, así como de los recursos y personal necesario para garantizar el desarrollo de sus funciones con los más altos niveles de calidad asistencial.
 
-d) Estará integrada por personal administrativo, personal de enfermería, una persona especializada en medicina de atención primaria, una en psicología y otra en trabajo social, todas con formación y experiencia suficiente y demostrada en materia de identidad de género e intersexualidad.
+d) Estará integrada por personal administrativo, personal de enfermería, una persona especializada en medicina de atención primaria, una en psicología y otra en trabajo social, todas con formación y experiencia suficiente y demostrada en materia de identidad de género e intersexualidad.
 
-e) Se coordinará con las unidades de acompañamiento a las personas trans e intersexuales de referencia a nivel provincial para garantizar el acceso, en condiciones de igualdad, a los servicios y recursos de atención sanitaria recogidos en esta ley.
+e) Se coordinará con las unidades de acompañamiento a las personas trans e intersexuales de referencia a nivel provincial para garantizar el acceso, en condiciones de igualdad, a los servicios y recursos de atención sanitaria recogidos en esta ley.
 
-f) Participará de la realización de estudios y del desarrollo de programas de formación, tal y como queda estipulado en el artículo 22 de la presente ley.
+f) Participará de la realización de estudios y del desarrollo de programas de formación, tal y como queda estipulado en el artículo 22 de la presente ley.
 
-g) Prestará servicios de asesoramiento y seguimiento del personal que presten asistencia a las personas trans e intersexuales de la Comunidad Autónoma de Canarias que opten por la atención de proximidad siguiendo los principios de esta ley.
+g) Prestará servicios de asesoramiento y seguimiento del personal que presten asistencia a las personas trans e intersexuales de la Comunidad Autónoma de Canarias que opten por la atención de proximidad siguiendo los principios de esta ley.
 
-h) Dispondrá en las islas de Gran Canaria y Tenerife, atendiendo a su extensión, número de personas usuarias y características orográficas, además de la Unidad de Acompañamiento a las Personas Trans e Intersexuales, que actuará como órgano de referencia provincial, de otras unidades de acompañamiento a las personas trans e intersexuales ambulatorias, siempre que se objetive dicho requerimiento en base al principio de equidad en relación a términos de proximidad en materia de derecho de atención sanitaria.
+h) Dispondrá en las islas de Gran Canaria y Tenerife, atendiendo a su extensión, número de personas usuarias y características orográficas, además de la Unidad de Acompañamiento a las Personas Trans e Intersexuales, que actuará como órgano de referencia provincial, de otras unidades de acompañamiento a las personas trans e intersexuales ambulatorias, siempre que se objetive dicho requerimiento en base al principio de equidad en relación a términos de proximidad en materia de derecho de atención sanitaria.
 
-#### Artículo 24. Reglamentación.
+#### Artículo 24. Reglamentación.
 
 La asistencia sanitaria específica de las personas trans e intersexuales en el Servicio Canario de la Salud deberá ser reglamentada y protocolizada en base a los principios y derechos estipulados en esta ley. Dicho reglamento tendrá en cuenta los siguientes principios rectores:
 
-a) Las personas trans e intersexuales o sus representantes legales podrán solicitar cita directamente en dichas unidades de acompañamiento de las personas trans e intersexuales, por vía presencial, telefónica o telemática.
+a) Las personas trans e intersexuales o sus representantes legales podrán solicitar cita directamente en dichas unidades de acompañamiento de las personas trans e intersexuales, por vía presencial, telefónica o telemática.
 
-b) Las personas profesionales de la atención primaria, tanto de medicina familiar y comunitaria como de pediatría, podrán realizar la derivación pertinente a las unidades de acompañamiento de las personas trans e intersexuales, siempre que así lo desee la persona usuaria y respetando en todo momento los principios y derechos que rigen esta ley.
+b) Las personas profesionales de la atención primaria, tanto de medicina familiar y comunitaria como de pediatría, podrán realizar la derivación pertinente a las unidades de acompañamiento de las personas trans e intersexuales, siempre que así lo desee la persona usuaria y respetando en todo momento los principios y derechos que rigen esta ley.
 
-c) La primera consulta o entrevista individual será realizada por el personal médico de medicina familiar y comunitaria de la Unidad de Acompañamiento a las Personas Trans e Intersexuales, con el objetivo de identificar sus necesidades en relación con su proceso de identidad de género, expresión de género y características sexuales, así como de identificar posibles factores negativos de salud que puedan ser objeto de atención específica.
+c) La primera consulta o entrevista individual será realizada por el personal médico de medicina familiar y comunitaria de la Unidad de Acompañamiento a las Personas Trans e Intersexuales, con el objetivo de identificar sus necesidades en relación con su proceso de identidad de género, expresión de género y características sexuales, así como de identificar posibles factores negativos de salud que puedan ser objeto de atención específica.
 
-d) En base a las necesidades expresadas por las personas usuarias de la Unidad de Acompañamiento de las Personas Trans e Intersexuales, y bajo los preceptos determinados en la guía clínica y los protocolos de atención sanitaria a las personas trans e intersexuales, el personal médico de medicina familiar y comunitaria coordinará los recursos necesarios y reconocidos en esta ley para abordar dichas necesidades de forma integral y bajo los más altos estándares de calidad asistencial.
+d) En base a las necesidades expresadas por las personas usuarias de la Unidad de Acompañamiento de las Personas Trans e Intersexuales, y bajo los preceptos determinados en la guía clínica y los protocolos de atención sanitaria a las personas trans e intersexuales, el personal médico de medicina familiar y comunitaria coordinará los recursos necesarios y reconocidos en esta ley para abordar dichas necesidades de forma integral y bajo los más altos estándares de calidad asistencial.
 
-e) El Servicio Canario de la Salud garantizará la existencia de vías de derivación adecuadas, rápidas y eficaces para garantizar el cumplimiento de los derechos de atención sanitaria de las personas trans e intersexuales recogidos en esta ley, incluida la colaboración de asociaciones, entidades y organizaciones representativas de los colectivos de personas trans o intersexuales, mediante los oportunos convenios de colaboración.
+e) El Servicio Canario de la Salud garantizará la existencia de vías de derivación adecuadas, rápidas y eficaces para garantizar el cumplimiento de los derechos de atención sanitaria de las personas trans e intersexuales recogidos en esta ley, incluida la colaboración de asociaciones, entidades y organizaciones representativas de los colectivos de personas trans o intersexuales, mediante los oportunos convenios de colaboración.
 
-f) El equipo de profesionales multidisciplinares que integran las unidades de acompañamiento a las personas trans e intersexuales realizará de forma periódica un acompañamiento general de salud en esta población y un asesoramiento específico en los casos concretos que lo requieran.
+f) El equipo de profesionales multidisciplinares que integran las unidades de acompañamiento a las personas trans e intersexuales realizará de forma periódica un acompañamiento general de salud en esta población y un asesoramiento específico en los casos concretos que lo requieran.
 
 Además de las visitas concertadas de forma periódica de acompañamiento de las personas trans e intersexuales, estas podrán solicitar cita a demanda, por las vías descritas, con su personal médico de referencia de medicina familiar y comunitaria o con el personal de enfermería de las unidades de acompañamiento de las persona trans e intersexuales, con el fin de mantener actualizado el estado de salud de la persona solicitante o detectar posibles efectos negativos de salud intercurrentes, garantizando con ello el principio de accesibilidad a la asistencia sanitaria.
 
-g) No se podrá acceder sin cita previa a las unidades de acompañamiento de las personas trans e intersexuales, a excepción de aquellas situaciones de salud que atenten de forma inminente contra la vida de las personas usuarias y estén intrínsecamente relacionadas con su proceso de identidad o expresión de género o diversidad sexual.
+g) No se podrá acceder sin cita previa a las unidades de acompañamiento de las personas trans e intersexuales, a excepción de aquellas situaciones de salud que atenten de forma inminente contra la vida de las personas usuarias y estén intrínsecamente relacionadas con su proceso de identidad o expresión de género o diversidad sexual.
 
-h) Las unidades de acompañamiento de las personas trans e intersexuales no dispondrán de servicio de guardia ni formarán parte de los servicios de urgencias del Servicio Canario de la Salud.
+h) Las unidades de acompañamiento de las personas trans e intersexuales no dispondrán de servicio de guardia ni formarán parte de los servicios de urgencias del Servicio Canario de la Salud.
 
-CAPÍTULO III
+## Capítulo III. Asistencia sanitaria a personas trans.
 
-Asistencia sanitaria a personas trans
-
-#### Artículo 25. Atención sanitaria a personas trans.
+#### Artículo 25. Atención sanitaria a personas trans.
 
 1. En el ámbito del sistema sanitario público de la Comunidad Autónoma de Canarias las personas trans tienen derecho a:
 
-a) Acceder a los tratamientos e intervenciones ofertados dentro de la cartera de servicios que les fueran de aplicación.
+a) Acceder a los tratamientos e intervenciones ofertados dentro de la cartera de servicios que les fueran de aplicación.
 
-b) Recibir información y valoración del proceso de atención individualizado que facilite la toma de decisiones informadas respecto a todos los tratamientos e intervenciones que les afecten. Ningún tratamiento podrá ser aplicado sin obtener previamente el correspondiente consentimiento informado y garantizando que haya sido libre y voluntariamente aceptado.
+b) Recibir información y valoración del proceso de atención individualizado que facilite la toma de decisiones informadas respecto a todos los tratamientos e intervenciones que les afecten. Ningún tratamiento podrá ser aplicado sin obtener previamente el correspondiente consentimiento informado y garantizando que haya sido libre y voluntariamente aceptado.
 
-c) Ser tratadas conforme a su identidad de género e ingresadas en las salas o centros correspondientes según la identidad sentida cuando existan diferentes dependencias por razón de sexo y a recibir el trato que se corresponde a su identidad de género manifestada evitando toda segregación o discriminación.
+c) Ser tratadas conforme a su identidad de género e ingresadas en las salas o centros correspondientes según la identidad sentida cuando existan diferentes dependencias por razón de sexo y a recibir el trato que se corresponde a su identidad de género manifestada evitando toda segregación o discriminación.
 
-d) Ser atendidas en proximidad sin sufrir desplazamientos y gastos innecesarios, así como a solicitar la derivación voluntaria a los centros de atención especializada pertinentes a su tratamiento.
+d) Ser atendidas en proximidad sin sufrir desplazamientos y gastos innecesarios, así como a solicitar la derivación voluntaria a los centros de atención especializada pertinentes a su tratamiento.
 
-e) Ser atendidas por profesionales de la sanidad que conozcan la realidad sanitaria trans específica y con experiencia suficiente y demostrada en la materia, tanto en la especialidad concreta en la que se enmarque un procedimiento o tratamiento médico o quirúrgico, como en la salud trans específica general.
+e) Ser atendidas por profesionales de la sanidad que conozcan la realidad sanitaria trans específica y con experiencia suficiente y demostrada en la materia, tanto en la especialidad concreta en la que se enmarque un procedimiento o tratamiento médico o quirúrgico, como en la salud trans específica general.
 
-f) Ser derivadas para determinados tratamientos e intervenciones concretadas en esta ley a hospitales públicos que oferten el servicio y ofrezcan los estándares de calidad adecuados a fin de garantizar el acceso a los tratamientos más seguros, modernos y adecuados para la persona. En tal caso, el Servicio Canario de la Salud se hará cargo de los gastos derivados del desplazamiento y alojamiento de la persona solicitante, si los hubiese.
+f) Ser derivadas para determinados tratamientos e intervenciones concretadas en esta ley a hospitales públicos que oferten el servicio y ofrezcan los estándares de calidad adecuados a fin de garantizar el acceso a los tratamientos más seguros, modernos y adecuados para la persona. En tal caso, el Servicio Canario de la Salud se hará cargo de los gastos derivados del desplazamiento y alojamiento de la persona solicitante, si los hubiese.
 
-g) La privacidad en todas las consultas y conversaciones, así como a la confidencialidad en el tratamiento de todos sus datos personales administrativos y clínicos. A este respecto, se garantizará especialmente la adecuación de la identificación para la asistencia sanitaria con el nombre y el sexo correspondiente a la identidad de género sentida.
+g) La privacidad en todas las consultas y conversaciones, así como a la confidencialidad en el tratamiento de todos sus datos personales administrativos y clínicos. A este respecto, se garantizará especialmente la adecuación de la identificación para la asistencia sanitaria con el nombre y el sexo correspondiente a la identidad de género sentida.
 
-h) Recibir por escrito toda la información recogida en su historial de salud relativa al tratamiento que haya seguido hasta el momento, al objeto de facilitar la continuidad del mismo en caso de desplazarse a otra comunidad autónoma o a otro país.
+h) Recibir por escrito toda la información recogida en su historial de salud relativa al tratamiento que haya seguido hasta el momento, al objeto de facilitar la continuidad del mismo en caso de desplazarse a otra comunidad autónoma o a otro país.
 
-i) Solicitar en cualquier momento una segunda opinión de las personas profesionales expertas respecto de su proceso y tratamiento, en los términos establecidos en la legislación vigente, especialmente antes de acceder a tratamientos o intervenciones quirúrgicas con efectos irreversibles.
+i) Solicitar en cualquier momento una segunda opinión de las personas profesionales expertas respecto de su proceso y tratamiento, en los términos establecidos en la legislación vigente, especialmente antes de acceder a tratamientos o intervenciones quirúrgicas con efectos irreversibles.
 
-j) Recibir las prestaciones descritas en esta ley en el menor plazo posible y de forma directa y no segregada.
+j) Recibir las prestaciones descritas en esta ley en el menor plazo posible y de forma directa y no segregada.
 
-2. Dentro de sus competencias, y previo cumplimiento de los requisitos y trámites previstos en la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el sistema sanitario público de Canarias:
+2. Dentro de sus competencias, y previo cumplimiento de los requisitos y trámites previstos en la [Ley 16/2003](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md), de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el sistema sanitario público de Canarias:
 
-a) Proporcionará a las personas trans que así lo soliciten el tratamiento hormonal, considerando siempre el formato de administración más adecuado para la persona solicitante y en base a sus expectativas en relación con la gestión de su propio cuerpo, de acuerdo con su derecho a la autodeterminación de la identidad o expresión de género sentida. En el caso de menores de edad, la atención se realizará en los términos expresados en el artículo siguiente de esta ley.
+a) Proporcionará a las personas trans que así lo soliciten el tratamiento hormonal, considerando siempre el formato de administración más adecuado para la persona solicitante y en base a sus expectativas en relación con la gestión de su propio cuerpo, de acuerdo con su derecho a la autodeterminación de la identidad o expresión de género sentida. En el caso de menores de edad, la atención se realizará en los términos expresados en el artículo siguiente de esta ley.
 
-b) Proporcionará el proceso quirúrgico de órganos sexuales internos, genital, implantación de prótesis mamarias y feminización del tórax, mastectomía y masculinización de tórax, así como otros procedimientos de adecuación corporal, facial o funcional, según las necesidades individuales de cada persona.
+b) Proporcionará el proceso quirúrgico de órganos sexuales internos, genital, implantación de prótesis mamarias y feminización del tórax, mastectomía y masculinización de tórax, así como otros procedimientos de adecuación corporal, facial o funcional, según las necesidades individuales de cada persona.
 
-c) Realizará un seguimiento postoperatorio de calidad.
+c) Realizará un seguimiento postoperatorio de calidad.
 
-d) Garantizará una gestión de las listas de espera para los procesos quirúrgicos de las personas trans ajustada a la máxima transparencia, agilidad y eficacia, y velará por el cumplimiento del principio de no discriminación, asegurando que los procedimientos quirúrgicos para las personas trans sean considerados en el mismo orden de prioridad que otros procedimientos quirúrgicos clínicamente comparables.
+d) Garantizará una gestión de las listas de espera para los procesos quirúrgicos de las personas trans ajustada a la máxima transparencia, agilidad y eficacia, y velará por el cumplimiento del principio de no discriminación, asegurando que los procedimientos quirúrgicos para las personas trans sean considerados en el mismo orden de prioridad que otros procedimientos quirúrgicos clínicamente comparables.
 
-e) Proporcionará el material protésico necesario, tanto quirúrgico como no quirúrgico, para adecuar los caracteres sexuales a la identidad sentida.
+e) Proporcionará el material protésico necesario, tanto quirúrgico como no quirúrgico, para adecuar los caracteres sexuales a la identidad sentida.
 
-f) Prestará tratamientos que tiendan a la modulación del tono y timbre de la voz cuando sean requeridos.
+f) Prestará tratamientos que tiendan a la modulación del tono y timbre de la voz cuando sean requeridos.
 
-g) Proporcionará el acompañamiento psicológico adecuado si las personas usuarias, familiares y profesionales lo vieran necesario, siendo este acompañamiento el común previsto para el resto de las personas usuarias del sistema sanitario público de Canarias.
+g) Proporcionará el acompañamiento psicológico adecuado si las personas usuarias, familiares y profesionales lo vieran necesario, siendo este acompañamiento el común previsto para el resto de las personas usuarias del sistema sanitario público de Canarias.
 
-h) Procurará la promoción, prevención y asesoramiento en la salud sexual y reproductiva.
+h) Procurará la promoción, prevención y asesoramiento en la salud sexual y reproductiva.
 
-i) Elaborará los informes médicos que la legislación estatal de registro civil pueda establecer para el cambio de nombre y mención registral del sexo, así como informes para el entorno familiar, educativo, social o laboral, entre otros, en el caso de que la persona o sus representantes legales lo soliciten.
+i) Elaborará los informes médicos que la legislación estatal de registro civil pueda establecer para el cambio de nombre y mención registral del sexo, así como informes para el entorno familiar, educativo, social o laboral, entre otros, en el caso de que la persona o sus representantes legales lo soliciten.
 
-j) Realizará un seguimiento y acompañamiento médico y de cuidados adecuados con carácter periódico, adaptado a la situación personal de cada persona usuaria.
+j) Realizará un seguimiento y acompañamiento médico y de cuidados adecuados con carácter periódico, adaptado a la situación personal de cada persona usuaria.
 
-k) Proporcionará cualquier otra prestación o servicio determinado en protocolos de intervención sanitaria y autorizada legal o reglamentariamente.
+k) Proporcionará cualquier otra prestación o servicio determinado en protocolos de intervención sanitaria y autorizada legal o reglamentariamente.
 
 3. En ningún caso se condicionará la prestación de asistencia sanitaria especializada a que las personas usuarias previamente se deban someter a examen psicológico o psiquiátrico alguno.
 
 4. Los servicios ofertados en este artículo se actualizarán adaptándose al avance del conocimiento científico, siendo el Servicio de Diversidad de Género el responsable de su actualización.
 
-#### Artículo 26. Atención sanitaria a las personas trans menores de edad.
+#### Artículo 26. Atención sanitaria a las personas trans menores de edad.
 
 1. Las personas trans menores de edad tienen derecho a recibir tratamiento médico relativo a su identidad trans proporcionado por profesionales pediátricos.
 
 2. Asimismo, y en el ámbito del sistema sanitario público de Canarias, las personas trans menores de edad tendrán los siguientes derechos:
 
-a) A recibir tratamiento para el bloqueo hormonal al inicio de la pubertad, situación que se determinará utilizando datos objetivos como la medición del nivel de estradiol y testosterona, la velocidad de crecimiento, la madurez de las gónadas o los datos que se consideren de acuerdo al estado de la técnica en cada momento, para evitar el desarrollo de caracteres sexuales secundarios no deseados.
+a) A recibir tratamiento para el bloqueo hormonal al inicio de la pubertad, situación que se determinará utilizando datos objetivos como la medición del nivel de estradiol y testosterona, la velocidad de crecimiento, la madurez de las gónadas o los datos que se consideren de acuerdo al estado de la técnica en cada momento, para evitar el desarrollo de caracteres sexuales secundarios no deseados.
 
-b) A recibir tratamiento hormonal cruzado en el momento adecuado de la pubertad para favorecer que su desarrollo corporal se corresponda con el de las personas de su edad, a fin de propiciar el desarrollo de caracteres sexuales secundarios deseados. Dicho tratamiento se producirá bajo la autorización de las personas progenitoras o adoptantes que ostenten la patria potestad o, en su defecto, por quienes ejerzan la tutela, curatela o defensa judicial o, en su caso, a través de la entidad pública que ostente la guarda del menor, o por autorización judicial.
+b) A recibir tratamiento hormonal cruzado en el momento adecuado de la pubertad para favorecer que su desarrollo corporal se corresponda con el de las personas de su edad, a fin de propiciar el desarrollo de caracteres sexuales secundarios deseados. Dicho tratamiento se producirá bajo la autorización de las personas progenitoras o adoptantes que ostenten la patria potestad o, en su defecto, por quienes ejerzan la tutela, curatela o defensa judicial o, en su caso, a través de la entidad pública que ostente la guarda del menor, o por autorización judicial.
 
 El protocolo de actuación o guía clínica determinará el procedimiento a seguir en aquellos casos en que el equipo profesional estime la improcedencia por existir circunstancias que pongan en riesgo la salud de la persona menor.
 
 3. En materia de consentimiento de la persona menor de edad trans se seguirán las siguientes reglas:
 
-a) La persona menor de edad recibirá información adaptada a su edad, madurez o desarrollo mental y estado afectivo y psicológico sobre el tratamiento médico a proporcionarle.
+a) La persona menor de edad recibirá información adaptada a su edad, madurez o desarrollo mental y estado afectivo y psicológico sobre el tratamiento médico a proporcionarle.
 
-b) La persona menor de edad tiene derecho a expresar su opinión siempre que tenga la madurez suficiente para estar en condiciones de formarse un juicio propio y, en todo caso, siempre que tenga doce años cumplidos.
+b) La persona menor de edad tiene derecho a expresar su opinión siempre que tenga la madurez suficiente para estar en condiciones de formarse un juicio propio y, en todo caso, siempre que tenga doce años cumplidos.
 
-c) Sin perjuicio de lo dispuesto en el apartado anterior, cuando la persona menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance del tratamiento, podrá prestar el consentimiento su representante legal después de haber escuchado la opinión de la persona menor, conforme a lo dispuesto en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que en el futuro la sustituya.
+c) Sin perjuicio de lo dispuesto en el apartado anterior, cuando la persona menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance del tratamiento, podrá prestar el consentimiento su representante legal después de haber escuchado la opinión de la persona menor, conforme a lo dispuesto en el artículo 9 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, o normativa que en el futuro la sustituya.
 
-d) Cuando se trate de persona menor de edad no incapaz ni incapacitada, pero emancipada o con dieciséis años cumplidos, no cabe prestar el consentimiento por representación. Sin embargo, en caso de actuación de grave riesgo para la vida de la persona menor de edad, según el criterio del equipo profesional, el consentimiento lo prestará su representante legal, una vez oída y tenida en cuenta la opinión de la misma.
+d) Cuando se trate de persona menor de edad no incapaz ni incapacitada, pero emancipada o con dieciséis años cumplidos, no cabe prestar el consentimiento por representación. Sin embargo, en caso de actuación de grave riesgo para la vida de la persona menor de edad, según el criterio del equipo profesional, el consentimiento lo prestará su representante legal, una vez oída y tenida en cuenta la opinión de la misma.
 
-e) La negativa de quien represente legalmente a la persona menor de edad a autorizar procedimientos con objeto de establecer preventivamente un tratamiento de inhibición del desarrollo hormonal podrá ser recurrida ante la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento a esta última/a la segunda. En todo caso, se atenderá al criterio del interés superior de la persona menor frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil o normativa que en el futuro la sustituya, y, en particular, en sus artículos 2 y 11.2, letra i).
+e) La negativa de quien represente legalmente a la persona menor de edad a autorizar procedimientos con objeto de establecer preventivamente un tratamiento de inhibición del desarrollo hormonal podrá ser recurrida ante la autoridad judicial cuando conste que puede causar un grave perjuicio o sufrimiento a esta última/a la segunda. En todo caso, se atenderá al criterio del interés superior de la persona menor frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil o normativa que en el futuro la sustituya, y, en particular, en sus artículos 2 y 11.2, letra i).
 
-f) Con carácter previo al recurso ante la autoridad judicial, desde el Servicio Canario de la Salud se informará a las personas tutoras y representantes legales y a la persona menor de edad de la posibilidad de recurrir a la mediación familiar. Si las partes optaran por la mediación familiar, el sistema sanitario público de Canarias será el responsable de abonar las compensaciones económicas u honorarios y gastos ocasionados a quien conduzca la mediación familiar.
+f) Con carácter previo al recurso ante la autoridad judicial, desde el Servicio Canario de la Salud se informará a las personas tutoras y representantes legales y a la persona menor de edad de la posibilidad de recurrir a la mediación familiar. Si las partes optaran por la mediación familiar, el sistema sanitario público de Canarias será el responsable de abonar las compensaciones económicas u honorarios y gastos ocasionados a quien conduzca la mediación familiar.
 
-g) El personal sanitario debe brindar toda la información necesaria a las personas que ostentan la tutela y a quienes representan legalmente a las personas trans, sin que esta información sea parcializada, sesgada o pretenda influir en la formación de criterios contrarios a los que salvaguardan la autonomía, la integridad física y mental y la libre determinación.
+g) El personal sanitario debe brindar toda la información necesaria a las personas que ostentan la tutela y a quienes representan legalmente a las personas trans, sin que esta información sea parcializada, sesgada o pretenda influir en la formación de criterios contrarios a los que salvaguardan la autonomía, la integridad física y mental y la libre determinación.
 
-h) Resultará de aplicación a la atención sanitaria de las personas trans menores de edad en la Comunidad Autónoma de Canarias la [Ley 1/1997](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
+h) Resultará de aplicación a la atención sanitaria de las personas trans menores de edad en la Comunidad Autónoma de Canarias la [Ley 1/1997](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md), de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
 
-CAPÍTULO IV
+## Capítulo IV. Atención sanitaria a las personas intersexuales.
 
-Atención sanitaria a las personas intersexuales
-
-#### Artículo 27. Atención sanitaria a las personas intersexuales.
+#### Artículo 27. Atención sanitaria a las personas intersexuales.
 
 1. En el sistema sanitario público de Canarias, las personas intersexuales, tanto mayores como menores de edad, tendrán los mismos derechos que los descritos en esta ley, todo ello de manera adaptada a sus necesidades específicas y a través de los mismos canales y en las mismas condiciones.
 
@@ -671,109 +656,105 @@ Atención sanitaria a las personas intersexuales
 
 3. En el sistema sanitario público de Canarias:
 
-a) Se procurará conservar las gónadas con el fin de preservar un futuro aporte hormonal no inducido, y se velará periódicamente y de acuerdo al estado de la técnica en cada momento por un estado de salubridad de las mismas. En cuanto a las exploraciones genitales, estas se limitarán a lo estrictamente necesario y siempre por criterios de salud.
+a) Se procurará conservar las gónadas con el fin de preservar un futuro aporte hormonal no inducido, y se velará periódicamente y de acuerdo al estado de la técnica en cada momento por un estado de salubridad de las mismas. En cuanto a las exploraciones genitales, estas se limitarán a lo estrictamente necesario y siempre por criterios de salud.
 
-b) No se realizarán pruebas de hormonación inducida con fines experimentales ni de otro tipo hasta que la propia persona así lo requiera en función de la identidad sexual sentida.
+b) No se realizarán pruebas de hormonación inducida con fines experimentales ni de otro tipo hasta que la propia persona así lo requiera en función de la identidad sexual sentida.
 
-c) Se formará al personal sanitario haciendo hincapié en la corrección de trato, la privacidad y el derecho a la intimidad.
+c) Se formará al personal sanitario haciendo hincapié en la corrección de trato, la privacidad y el derecho a la intimidad.
 
-d) Se preservará su intimidad como paciente en su historia clínica, de conformidad con lo establecido en los artículos 7 y 9 de esta ley.
+d) Se preservará su intimidad como paciente en su historia clínica, de conformidad con lo establecido en los artículos 7 y 9 de esta ley.
 
-e) Se establecerá un protocolo específico de actuación en materia de intersexualidad.
+e) Se establecerá un protocolo específico de actuación en materia de intersexualidad.
 
-4. En materia de consentimiento de la persona menor de edad intersexual se seguirán las reglas establecidas en el apartado 3 del artículo 26 de la presente ley.
+4. En materia de consentimiento de la persona menor de edad intersexual se seguirán las reglas establecidas en el apartado 3 del artículo 26 de la presente ley.
 
-5. Resultará de aplicación a la atención sanitaria de las personas intersexuales menores de edad en la Comunidad Autónoma de Canarias la Ley 1/1997, de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
+5. Resultará de aplicación a la atención sanitaria de las personas intersexuales menores de edad en la Comunidad Autónoma de Canarias la Ley 1/1997, de 7 de febrero, de atención integral a menores, en lo que no se oponga a este artículo y al resto de la presente ley o normativa que en el futuro la sustituya.
 
 6. El personal sanitario debe brindar toda la información necesaria a las personas que ostentan la tutela y a quienes representen legalmente a las personas intersexuales, sin que esta información sea parcializada, sesgada o pretenda influir en la formación de criterios contrarios a los que salvaguardan la autonomía, la integridad física y mental y la libre determinación.
 
-CAPÍTULO V
+## Capítulo V. Actuación institucional en materia sanitaria.
 
-Actuación institucional en materia sanitaria
-
-#### Artículo 28. Atención sanitaria en el ámbito reproductivo y sexual.
+#### Artículo 28. Atención sanitaria en el ámbito reproductivo y sexual.
 
 1. El sistema sanitario público de Canarias:
 
-a) Promoverá la realización de programas y protocolos específicos que den respuesta a las necesidades propias, y, en particular, a la salud sexual y reproductiva de las personas trans e intersexuales.
+a) Promoverá la realización de programas y protocolos específicos que den respuesta a las necesidades propias, y, en particular, a la salud sexual y reproductiva de las personas trans e intersexuales.
 
-b) Garantizará el acceso a las técnicas de reproducción asistida, incluyendo como beneficiarias a todas las personas trans e intersexuales con capacidad gestante y/o sus parejas, en régimen de igualdad y no discriminación, así como a un seguimiento del embarazo que garantice los máximos niveles de salud durante la gestación, y respetando en todo momento los principios y derechos recogidos en esta ley.
+b) Garantizará el acceso a las técnicas de reproducción asistida, incluyendo como beneficiarias a todas las personas trans e intersexuales con capacidad gestante y/o sus parejas, en régimen de igualdad y no discriminación, así como a un seguimiento del embarazo que garantice los máximos niveles de salud durante la gestación, y respetando en todo momento los principios y derechos recogidos en esta ley.
 
-c) Ofrecerá desde el inicio de los tratamientos hormonales la posibilidad de congelación de tejido gonadal y de las células reproductivas para su futura recuperación.
+c) Ofrecerá desde el inicio de los tratamientos hormonales la posibilidad de congelación de tejido gonadal y de las células reproductivas para su futura recuperación.
 
-d) Garantizará la atención ginecológica y/o urológica a las personas trans e intersexuales que así lo necesiten.
+d) Garantizará la atención ginecológica y/o urológica a las personas trans e intersexuales que así lo necesiten.
 
 2. Las personas trans e intersexuales menores de edad tienen derecho a recibir la atención sanitaria, educativa y social relativa a su identidad o expresión de género, así como en relación a sus características sexuales, que sea oportuna al caso concreto.
 
-La atención sanitaria que se les preste, en tanto que menores, se hará de acuerdo con lo dispuesto en la [Ley Orgánica 8/2015](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, de protección a la infancia y la adolescencia, en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica, o normativa que las sustituya, así como con la Convención de los Derechos del Niño y con atención a lo establecido en los protocolos de las sociedades médicas y pediátricas internacionales.
+La atención sanitaria que se les preste, en tanto que menores, se hará de acuerdo con lo dispuesto en la [Ley Orgánica 8/2015](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md), de 22 de julio, de protección a la infancia y la adolescencia, en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de los derechos y obligaciones en materia de información y documentación clínica, o normativa que las sustituya, así como con la Convención de los Derechos del Niño y con atención a lo establecido en los protocolos de las sociedades médicas y pediátricas internacionales.
 
-#### Artículo 29. Campañas de prevención de enfermedades de transmisión sexual.
+#### Artículo 29. Campañas de prevención de enfermedades de transmisión sexual.
 
 El Gobierno de Canarias, a través de la consejería competente en materia sanitaria:
 
-a) Incluirá de forma expresa la realidad del colectivo trans e intersexual y sus especificidades en las campañas de educación sexual y de prevención de enfermedades de transmisión sexual, con especial consideración al VIH. Se realizarán campañas de información de profilaxis que contemplen la diversidad sexual y de género en distintos ámbitos sociales, incluyendo el educativo.
+a) Incluirá de forma expresa la realidad del colectivo trans e intersexual y sus especificidades en las campañas de educación sexual y de prevención de enfermedades de transmisión sexual, con especial consideración al VIH. Se realizarán campañas de información de profilaxis que contemplen la diversidad sexual y de género en distintos ámbitos sociales, incluyendo el educativo.
 
-b) Realizará campañas de detección precoz del VIH, que tendrán en cuenta las características propias de la realidad canaria, incluidas la insularidad y orografía del archipiélago.
+b) Realizará campañas de detección precoz del VIH, que tendrán en cuenta las características propias de la realidad canaria, incluidas la insularidad y orografía del archipiélago.
 
-#### Artículo 30. Formación del personal sanitario.
+#### Artículo 30. Formación del personal sanitario.
 
 La consejería competente en materia de salud del Gobierno de Canarias:
 
-a) Garantizará, en colaboración con el Servicio de Diversidad de Género, que el personal sanitario de cualquier especialidad médica o práctica de enfermería, especialmente a quienes trabajan en salud mental y en pediatría, cuenten con la formación suficiente, continuada, adecuada, actualizada y no patologizante en materia de las necesidades específicas de atención a la salud de las personas trans e intersexuales, respetando los principios y derechos recogidos en esta ley. Se prestará especial atención a los problemas de salud asociados a las prácticas quirúrgicas a las que se someten las personas trans e intersexuales, sus órganos sexuales surgidos de intervenciones quirúrgicas, tratamiento hormonales, la salud sexual y reproductiva, así como el avance de cualquier técnica quirúrgica aplicable.
+a) Garantizará, en colaboración con el Servicio de Diversidad de Género, que el personal sanitario de cualquier especialidad médica o práctica de enfermería, especialmente a quienes trabajan en salud mental y en pediatría, cuenten con la formación suficiente, continuada, adecuada, actualizada y no patologizante en materia de las necesidades específicas de atención a la salud de las personas trans e intersexuales, respetando los principios y derechos recogidos en esta ley. Se prestará especial atención a los problemas de salud asociados a las prácticas quirúrgicas a las que se someten las personas trans e intersexuales, sus órganos sexuales surgidos de intervenciones quirúrgicas, tratamiento hormonales, la salud sexual y reproductiva, así como el avance de cualquier técnica quirúrgica aplicable.
 
-b) Establecerá las medidas adecuadas, en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades canarias, para asegurar, en el marco del fomento y participación en las actividades de investigación en el campo de las ciencias de la salud e innovación tecnológica, el derecho del personal a recibir formación específica de calidad en materia de salud trans e intersexual, así como el derecho de las personas trans e intersexuales a ser atendidas por profesionales con experiencia suficiente y demostrada en la materia.
+b) Establecerá las medidas adecuadas, en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades canarias, para asegurar, en el marco del fomento y participación en las actividades de investigación en el campo de las ciencias de la salud e innovación tecnológica, el derecho del personal a recibir formación específica de calidad en materia de salud trans e intersexual, así como el derecho de las personas trans e intersexuales a ser atendidas por profesionales con experiencia suficiente y demostrada en la materia.
 
-c) Promoverá la realización de estudios, investigación y desarrollo de políticas sanitarias específicas en materia de identidad de género e intersexualidad en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades canarias.
+c) Promoverá la realización de estudios, investigación y desarrollo de políticas sanitarias específicas en materia de identidad de género e intersexualidad en estrecha colaboración con las sociedades profesionales correspondientes y con las universidades canarias.
 
-#### Artículo 31. Estadísticas y tratamiento de datos.
+#### Artículo 31. Estadísticas y tratamiento de datos.
 
 1. El seguimiento de la atención sanitaria de las personas trans e intersexuales incluirá la creación de estadísticas públicas sobre los resultados de los diferentes tratamientos, terapias e intervenciones que se lleven a cabo, con detalle de las técnicas empleadas, complicaciones y reclamaciones surgidas, así como la evaluación de la calidad asistencial.
 
 2. La recogida de los datos anteriores con fines estadísticos se ajustará a los principios de secreto, transparencia, especialidad y proporcionalidad. El secreto estadístico obliga a la Comunidad Autónoma de Canarias a no difundir, en ningún caso, los datos personales de las personas trans e intersexuales, cualquiera que sea su origen.
 
-3. Para la elaboración de las estadísticas previstas en el apartado primero de este artículo se creará un fichero automatizado, del que será titular el Servicio Canario de la Salud, en los términos previstos en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que en el futuro la sustituya.
+3. Para la elaboración de las estadísticas previstas en el apartado primero de este artículo se creará un fichero automatizado, del que será titular el Servicio Canario de la Salud, en los términos previstos en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, o normativa que en el futuro la sustituya.
 
-#### Artículo 32. Garantías del personal sanitario.
+#### Artículo 32. Garantías del personal sanitario.
 
 1. La Consejería de Sanidad del Gobierno de Canarias y el Servicio Canario de la Salud adoptarán todas las medidas que sean necesarias a fin de garantizar el trato igualitario del personal estatutario y laboral que tenga relación con el sistema sanitario canario, sin discriminación por motivos de identidad o expresión de género o características sexuales u orientación sexual. En particular:
 
-a) Garantizarán una protección adecuada a miembros del personal sanitario, de administración o de servicios que sean trans e intersexuales, cualquiera sea su orientación sexual, identidad o expresión de género o características sexuales, contra todas las formas de exclusión social y violencia, incluyendo el acoso y el hostigamiento dentro del ámbito laboral. Dicha protección incluirá la información sobre los mecanismos de denuncias existentes en el ordenamiento jurídico.
+a) Garantizarán una protección adecuada a miembros del personal sanitario, de administración o de servicios que sean trans e intersexuales, cualquiera sea su orientación sexual, identidad o expresión de género o características sexuales, contra todas las formas de exclusión social y violencia, incluyendo el acoso y el hostigamiento dentro del ámbito laboral. Dicha protección incluirá la información sobre los mecanismos de denuncias existentes en el ordenamiento jurídico.
 
-b) Los centros sanitarios y de la Administración sanitaria garantizarán la correcta atención y apoyo al personal sanitario, de administración o de servicios que fueran objeto de discriminación por identidad o expresión de género en el seno de los mismos.
+b) Los centros sanitarios y de la Administración sanitaria garantizarán la correcta atención y apoyo al personal sanitario, de administración o de servicios que fueran objeto de discriminación por identidad o expresión de género en el seno de los mismos.
 
 2. Se reconoce expresamente el derecho del personal sanitario, de administración o de servicios a expresar libremente su identidad de género, así como los rasgos distintivos de su personalidad que formen parte de su proceso identitario, debiéndose respetar su imagen física, la elección de su indumentaria y el acceso y uso de las instalaciones del centro, incluidos aseos y vestuarios, estén o no segregadas por sexo, conforme a la identidad de género sentida. Si en el centro existe la obligatoriedad de vestir un uniforme diferenciado por sexos, se reconocerá el derecho a vestir con la persona que se sienta identificada.
 
-## TÍTULO III
+## Título III
 
 **Medidas en el ámbito de la educación**
 
-CAPÍTULO I
+## Capítulo I. Intervención.
 
-Intervención
-
-#### Artículo 33. Deber de intervención.
+#### Artículo 33. Deber de intervención.
 
 1. Toda persona debe ser respetada en el ámbito escolar y educativo, tanto público como privado, formal y no formal, sin discriminación alguna basada en su identidad o expresión de género o características sexuales.
 
 2. La Administración educativa canaria impulsará medidas para:
 
-a) Velar para que el sistema educativo sea un espacio de respeto y tolerancia libre de toda presión, agresión o discriminación por motivos de identidad o expresión de género con amparo al alumnado, profesorado y personal administrativo de servicios del centro que lo componen.
+a) Velar para que el sistema educativo sea un espacio de respeto y tolerancia libre de toda presión, agresión o discriminación por motivos de identidad o expresión de género con amparo al alumnado, profesorado y personal administrativo de servicios del centro que lo componen.
 
-b) Emprender programas de capacitación y sensibilización en cuanto a las normas internacionales de derechos humanos y los principios de igualdad y no discriminación, incluidos los concernientes a la identidad y expresión de género, las características sexuales y la orientación sexual, dirigidos a cualquier persona que tenga relación con el sistema educativo. Estos programas comprenderán todos los niveles de la educación pública, concertada y privada, tanto formal como no formal.
+b) Emprender programas de capacitación y sensibilización en cuanto a las normas internacionales de derechos humanos y los principios de igualdad y no discriminación, incluidos los concernientes a la identidad y expresión de género, las características sexuales y la orientación sexual, dirigidos a cualquier persona que tenga relación con el sistema educativo. Estos programas comprenderán todos los niveles de la educación pública, concertada y privada, tanto formal como no formal.
 
-c) Implementar todas las medidas apropiadas, incluyendo programas de educación y capacitación, para alcanzar la eliminación de actitudes y prácticas prejuiciosas o discriminatorias dentro del sistema educativo basadas en la idea de inferioridad o superioridad de cualquier identidad o expresión de género, característica sexual y orientación sexual.
+c) Implementar todas las medidas apropiadas, incluyendo programas de educación y capacitación, para alcanzar la eliminación de actitudes y prácticas prejuiciosas o discriminatorias dentro del sistema educativo basadas en la idea de inferioridad o superioridad de cualquier identidad o expresión de género, característica sexual y orientación sexual.
 
 3. La consejería competente en materia educativa del Gobierno de Canarias, junto con la dirección de los centros educativos y las administraciones públicas de la Comunidad Autónoma de Canarias en materia educativa, tendrán como objetivo básico garantizar una educación permanente y de calidad que permita a las personas trans e intersexuales su realización personal y social plena. A tal fin, impulsarán todas las medidas legislativas, administrativas y de otra índole que sean necesarias a fin de garantizar el acceso a la educación en igualdad de condiciones y el trato igualitario de cualquier persona que forme parte o tenga relación con la comunidad educativa, sin discriminación por motivos de identidad y expresión de género, características sexuales u orientación sexual.
 
 En particular garantizará:
 
-a) Una protección adecuada al alumnado, sus familias, PAS y personal docente trans e intersexuales, cualquiera sea su orientación sexual, identidad o expresión de género o características sexuales, contra todas las formas de exclusión social y violencia, incluyendo el acoso y el hostigamiento dentro del ámbito escolar. Dicha protección incluirá la información sobre los mecanismos de denuncias existentes en el ordenamiento jurídico.
+a) Una protección adecuada al alumnado, sus familias, PAS y personal docente trans e intersexuales, cualquiera sea su orientación sexual, identidad o expresión de género o características sexuales, contra todas las formas de exclusión social y violencia, incluyendo el acoso y el hostigamiento dentro del ámbito escolar. Dicha protección incluirá la información sobre los mecanismos de denuncias existentes en el ordenamiento jurídico.
 
-b) En los centros educativos, la correcta atención y apoyo al alumnado, personal docente o personal de administración y servicios que fueran objeto de discriminación por identidad o expresión de género en el seno de los mismos.
+b) En los centros educativos, la correcta atención y apoyo al alumnado, personal docente o personal de administración y servicios que fueran objeto de discriminación por identidad o expresión de género en el seno de los mismos.
 
-c) Que toda persona relacionada con el centro educativo, ya sea el alumnado, sus familias, como el personal docente o no docente del mismo, tenga derecho a expresar libremente su identidad de género, así como los rasgos distintivos de su personalidad que formen parte de su proceso identitario, debiéndose respetar su imagen física, la elección de su indumentaria y el acceso y uso de las instalaciones del centro conforme a la identidad de género sentida.
+c) Que toda persona relacionada con el centro educativo, ya sea el alumnado, sus familias, como el personal docente o no docente del mismo, tenga derecho a expresar libremente su identidad de género, así como los rasgos distintivos de su personalidad que formen parte de su proceso identitario, debiéndose respetar su imagen física, la elección de su indumentaria y el acceso y uso de las instalaciones del centro conforme a la identidad de género sentida.
 
-d) Que se preste apoyo psicopedagógico con asesoramiento de los equipos de orientación educativa y psicopedagógica en aquellas situaciones en que lo requieran.
+d) Que se preste apoyo psicopedagógico con asesoramiento de los equipos de orientación educativa y psicopedagógica en aquellas situaciones en que lo requieran.
 
 4. El Gobierno de Canarias, en colaboración con las asociaciones y organizaciones con experiencia acreditada en materia de diversidad afectivo-sexual y de género, elaborará un plan de igualdad que contemple medidas y acciones sobre educación en la Comunidad Autónoma de Canarias que, partiendo de un estudio de la realidad existente en la Comunidad que analice la percepción que se tiene de la identidades de género, la diversidad sexual y las orientaciones sexuales por parte del profesorado, personal del centro, el alumnado y sus familias, contemple las medidas necesarias para garantizar la igualdad y la no discriminación de las personas en el ámbito educativo por su identidad o expresión de género o sus características sexuales. Las medidas previstas en este plan integral se aplicarán en todos los niveles y ciclos formativos y en todos los centros educativos con financiación pública.
 
@@ -785,35 +766,33 @@ Esta labor de formación y asesoramiento será proporcionada por profesionales c
 
 7. La Comunidad Autónoma de Canarias coordinará los recursos del sistema educativo y sanitario, y asegurará que los métodos, recursos educativos y de apoyo psicológico sirvan para efectuar la posible detección temprana de aquellas personas en Educación Infantil, Primaria o Secundaria que puedan estar incursas en un proceso de manifestación de su identidad o expresión de género, con el fin de elaborar con previsión suficiente un posible plan de acción para la mejor integración del alumnado en el centro y tutelar su estancia en el sistema educativo, así como para prevenir las situaciones de riesgo que pongan en peligro el desarrollo integral de la persona menor.
 
-CAPÍTULO II
+## Capítulo II. Protocolos y planes de actuación.
 
-Protocolos y planes de actuación
-
-#### Artículo 34. Protocolo de atención educativa a la identidad y expresión de género y a la diversidad sexual.
+#### Artículo 34. Protocolo de atención educativa a la identidad y expresión de género y a la diversidad sexual.
 
 1. El Gobierno de Canarias elaborará e implantará en todos los centros educativos con financiación pública un protocolo de atención a la identidad y expresión de género y a la diversidad sexual. Dicho protocolo garantizará:
 
-a) El respeto a las manifestaciones de identidad y expresión de género que se realicen en el ámbito educativo y el libre desarrollo de la personalidad del alumnado conforme a su identidad.
+a) El respeto a las manifestaciones de identidad y expresión de género que se realicen en el ámbito educativo y el libre desarrollo de la personalidad del alumnado conforme a su identidad.
 
-b) El derecho del alumnado, del personal docente y no docente y de familiares trans o intersexuales que se vinculen a los centros educativos de Canarias a ver su identidad de género y el nombre concorde a la misma que hayan elegido reflejados en la documentación administrativa del centro sujeta a exhibición pública, dentro o fuera del centro, y aquella que pueda dirigirse al alumnado, profesorado y al resto del personal del centro educativo, como listados de alumnado, horarios de tutorías, formularios de inscripción, calificaciones, carné de estudiantes o censos electorales, entre otros, con independencia de su situación en el Registro Civil.
+b) El derecho del alumnado, del personal docente y no docente y de familiares trans o intersexuales que se vinculen a los centros educativos de Canarias a ver su identidad de género y el nombre concorde a la misma que hayan elegido reflejados en la documentación administrativa del centro sujeta a exhibición pública, dentro o fuera del centro, y aquella que pueda dirigirse al alumnado, profesorado y al resto del personal del centro educativo, como listados de alumnado, horarios de tutorías, formularios de inscripción, calificaciones, carné de estudiantes o censos electorales, entre otros, con independencia de su situación en el Registro Civil.
 
-c) El derecho a utilizar el nombre elegido y la identidad de género libremente manifestada por el alumnado en las bases de datos y el sistema informático de la Consejería de Educación del Gobierno de Canarias para la gestión de la información escolar. En los casos de rectificación del nombre registral se estará al nombre rectificado para la expedición de la titulación académica o profesional que corresponda, que es el que deberá figurar en el historial académico.
+c) El derecho a utilizar el nombre elegido y la identidad de género libremente manifestada por el alumnado en las bases de datos y el sistema informático de la Consejería de Educación del Gobierno de Canarias para la gestión de la información escolar. En los casos de rectificación del nombre registral se estará al nombre rectificado para la expedición de la titulación académica o profesional que corresponda, que es el que deberá figurar en el historial académico.
 
 Reglamentariamente se determinará el procedimiento a seguir por la Administración educativa a estos efectos, que asegurará en todo caso la adecuada identificación de la persona a través de su documento nacional de identidad o, en su caso, número de identificación de extranjero o pasaporte. Cuando por la naturaleza de la gestión administrativa se haga necesario registrar o mostrar públicamente los datos que obran en la documentación oficial expresada, se recogerá el número de esta, las iniciales del nombre legal, los apellidos completos y el nombre elegido por razones de identidad de género, evitando situaciones de sufrimiento o discriminación.
 
-d) El respeto a la intimidad del alumnado que realice tránsitos sociales.
+d) El respeto a la intimidad del alumnado que realice tránsitos sociales.
 
-e) La prevención de actitudes o comportamientos homofóbicos, lesbofóbicos, bifóbicos, transfóbicos o interfóbicos que impliquen prejuicios y discriminación por razón de orientación sexual, identidad y expresión de género o diversidad sexual. El protocolo incorporará la necesaria coordinación entre las áreas de educación, sanidad y acción social, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la identidad de género.
+e) La prevención de actitudes o comportamientos homofóbicos, lesbofóbicos, bifóbicos, transfóbicos o interfóbicos que impliquen prejuicios y discriminación por razón de orientación sexual, identidad y expresión de género o diversidad sexual. El protocolo incorporará la necesaria coordinación entre las áreas de educación, sanidad y acción social, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la identidad de género.
 
-f) El derecho a que el profesorado y personal de administración y servicios del centro se dirija al alumnado trans e intersexual por el nombre elegido por esta persona o, en caso de no estar emancipado o no contar con las suficientes condiciones de madurez, el indicado por alguna de las personas que ostenten su representación legal. Igualmente, se respetará su derecho a utilizar dicho nombre en todas las actividades docentes y extraescolares que se realicen en el centro, incluyendo los exámenes, sin perjuicio de asegurar en todo caso la adecuada identificación de la persona a través de su documento nacional de identidad o, en su caso, número de identificación de extranjero o pasaporte, en expedientes académicos y titulaciones oficiales en tanto no se produzca el cambio registral.
+f) El derecho a que el profesorado y personal de administración y servicios del centro se dirija al alumnado trans e intersexual por el nombre elegido por esta persona o, en caso de no estar emancipado o no contar con las suficientes condiciones de madurez, el indicado por alguna de las personas que ostenten su representación legal. Igualmente, se respetará su derecho a utilizar dicho nombre en todas las actividades docentes y extraescolares que se realicen en el centro, incluyendo los exámenes, sin perjuicio de asegurar en todo caso la adecuada identificación de la persona a través de su documento nacional de identidad o, en su caso, número de identificación de extranjero o pasaporte, en expedientes académicos y titulaciones oficiales en tanto no se produzca el cambio registral.
 
-g) El respeto de la imagen física del alumnado trans e intersexual, así como la libre elección de su indumentaria. Si en el centro existe la obligatoriedad de vestir un uniforme diferenciado por sexos, se reconocerá el derecho a vestir con el que la persona se sienta identificada.
+g) El respeto de la imagen física del alumnado trans e intersexual, así como la libre elección de su indumentaria. Si en el centro existe la obligatoriedad de vestir un uniforme diferenciado por sexos, se reconocerá el derecho a vestir con el que la persona se sienta identificada.
 
-h) El acceso y uso de instalaciones correspondientes a la identidad y expresión de género sentida por el alumnado, personal y profesorado trans e intersexual, si hay instalaciones en el centro segregadas por sexo, como los aseos y los vestuarios. Igualmente, si se realizan actividades diferenciadas por sexo, se tendrá en cuenta la identidad y expresión de género sentida.
+h) El acceso y uso de instalaciones correspondientes a la identidad y expresión de género sentida por el alumnado, personal y profesorado trans e intersexual, si hay instalaciones en el centro segregadas por sexo, como los aseos y los vestuarios. Igualmente, si se realizan actividades diferenciadas por sexo, se tendrá en cuenta la identidad y expresión de género sentida.
 
 La adopción de estas medidas en ningún caso estará condicionada a la previa exhibición de informe médico, psicológico, psiquiátrico alguno, ni de cualquier otra índole, así como tampoco a la autorización previa de las personas que ostenten la patria potestad o sean sus representantes legales.
 
-i) En el caso de que alguna de las partes de quienes representen legalmente a la persona menor no emancipada se oponga a la adopción de las medidas anteriores, la dirección del centro pondrá en conocimiento del servicio social de base correspondiente la no coincidencia en el planteamiento de abordaje del caso de la persona menor trans o intersexual, haciendo prevalecer en cualquier caso su interés superior de aquella frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil y, en particular, de sus artículos 2 y 11.2, letra i).
+i) En el caso de que alguna de las partes de quienes representen legalmente a la persona menor no emancipada se oponga a la adopción de las medidas anteriores, la dirección del centro pondrá en conocimiento del servicio social de base correspondiente la no coincidencia en el planteamiento de abordaje del caso de la persona menor trans o intersexual, haciendo prevalecer en cualquier caso su interés superior de aquella frente a cualquier otro interés legítimo, de conformidad con lo previsto en la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del menor, de Modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil y, en particular, de sus artículos 2 y 11.2, letra i).
 
 2. El protocolo incorporará la necesaria coordinación entre las áreas de educación, sanidad y acción social, en orden a una rápida detección y actuación ante situaciones discriminatorias y atentatorias contra la diversidad. A tal efecto, contemplará medidas de protección frente al acoso escolar y a cualquier actuación contraria al derecho de igualdad y no discriminación en beneficio del alumnado, familias, personal docente y de servicios y demás personas que presten servicios en el centro educativo.
 
@@ -821,7 +800,7 @@ Dicha protección incluirá la información sobre los mecanismos de denuncias ex
 
 3. Los centros educativos adaptarán el protocolo a su propia realidad, garantizando la correcta atención y apoyo al estudiantado, personal docente o personal de administración y servicios que fueran objeto de discriminación por razón de identidad o expresión de género o por sus características sexuales en el seno de los mismos.
 
-#### Artículo 35. Principio de coeducación, planes y contenidos educativos.
+#### Artículo 35. Principio de coeducación, planes y contenidos educativos.
 
 1. De acuerdo con el principio de coeducación, debe velarse por que la identidad o expresión de género o las características sexuales de las personas componentes de la comunidad educativa y sus familiares sean respetadas en los distintos ámbitos educativos.
 
@@ -847,7 +826,7 @@ Para ello dispondrán de herramientas, recursos y estrategias para educar en la 
 
 7. El Gobierno de Canarias velará por que los convenios y contratos por los que empresas o entidades ofrezcan servicios a la comunidad educativa de Canarias incorporen en su articulado la perspectiva de género y tengan en cuenta las necesidades específicas de las personas trans e intersexuales que se encuentren entre sus destinatarios reales o potenciales.
 
-#### Artículo 36. Acciones de formación y divulgación.
+#### Artículo 36. Acciones de formación y divulgación.
 
 1. El Gobierno de Canarias, a través de la consejería competente en materia educativa impartirá al personal docente, no docente y de servicios, formación y asesoramiento adecuados, debiendo incorporar la diversidad afectivo-sexual y de género en los cursos de formación y que analice cómo abordarla en el aula y en el centro educativo para alcanzar la eliminación de actitudes y prácticas con prejuicios o discriminatorias dentro del sistema educativo basadas en la idea de la inferioridad o superioridad de cualquier expresión o identidad de género o característica sexual.
 
@@ -855,15 +834,13 @@ Para ello dispondrán de herramientas, recursos y estrategias para educar en la 
 
 3. Reglamentariamente se determinará el procedimiento por el que las entidades y organizaciones con experiencia acreditada en materia de diversidad afectivo-sexual y de género dentro de la Comunidad Autónoma de Canarias:
 
-a) Participarán, junto con la dirección general correspondiente, en el diseño curricular de la educación afectivo-sexual desde la perspectiva de la diversidad en lo relativo a la identidad y expresión de género y las características sexuales en los centros educativos de Canarias.
+a) Participarán, junto con la dirección general correspondiente, en el diseño curricular de la educación afectivo-sexual desde la perspectiva de la diversidad en lo relativo a la identidad y expresión de género y las características sexuales en los centros educativos de Canarias.
 
-b) Formularán una propuesta anual de formación del personal docente, personal de administración o de servicios en materia de diversidad afectivo-sexual y de género. Dicha propuesta incluirá la formación institucional del profesorado y la desarrollada por los organismos de apoyo y formación al profesorado de la Comunidad Autónoma de Canarias.
+b) Formularán una propuesta anual de formación del personal docente, personal de administración o de servicios en materia de diversidad afectivo-sexual y de género. Dicha propuesta incluirá la formación institucional del profesorado y la desarrollada por los organismos de apoyo y formación al profesorado de la Comunidad Autónoma de Canarias.
 
-CAPÍTULO III
+## Capítulo III. Universidades e investigación.
 
-Universidades e investigación
-
-#### Artículo 37. Universidades.
+#### Artículo 37. Universidades.
 
 1. Las universidades con actividad en la Comunidad Autónoma de Canarias garantizarán el respeto y la protección del derecho a la igualdad y no discriminación del alumnado, personal docente y cualquier persona que preste servicios en el ámbito universitario por motivos de identidad o expresión de género o de características sexuales.
 
@@ -875,27 +852,27 @@ Universidades e investigación
 
 5. La Administración educativa canaria promoverá que las universidades canarias incluyan y fomenten en todos los ámbitos académicos la formación, docencia e investigación en materia de identidad o expresión de género o de características sexuales, estableciendo convenios de colaboración para, en el marco de aquellas ramas del conocimiento que entran en contacto con las identidades trans o la intersexualidad:
 
-a) Impulsar la investigación y la profundización teórica, evitando la difusión como verdades científicas de corrientes teóricas que niegan la identidad o la expresión de género de las personas trans o intersexuales.
+a) Impulsar la investigación y la profundización teórica, evitando la difusión como verdades científicas de corrientes teóricas que niegan la identidad o la expresión de género de las personas trans o intersexuales.
 
-b) Elaborar estudios sociológicos y de otra índole sobre la realidad de las personas trans e intersexuales.
+b) Elaborar estudios sociológicos y de otra índole sobre la realidad de las personas trans e intersexuales.
 
-c) Orientar y ayudar en los planes de formación y de empleo de las personas trans o intersexuales.
+c) Orientar y ayudar en los planes de formación y de empleo de las personas trans o intersexuales.
 
-d) Elaborar planes de formación para personal sanitario y de otras ramas del conocimiento que entran en contacto con las personas trans o intersexuales.
+d) Elaborar planes de formación para personal sanitario y de otras ramas del conocimiento que entran en contacto con las personas trans o intersexuales.
 
 6. Las universidades de Canarias deberán garantizar los derechos de las personas trans e intersexuales presentes en la comunidad universitaria en los mismos términos que se establecen para los centros educativos de otros niveles en el presente título.
 
-#### Artículo 38. Investigación.
+#### Artículo 38. Investigación.
 
 1. El Gobierno de Canarias, a través de la consejería competente, adoptará medidas de apoyo a la realización de estudios y proyectos de investigación integrales y sectoriales sobre la realidad de las personas trans e intersexuales, en el ámbito de las acciones de investigación, desarrollo e innovación.
 
 2. Para el desarrollo de estas medidas se faculta al Gobierno de Canarias a constituir un organismo autónomo o participar en consorcios o entidades constituidas al amparo de la normativa vigente que estén integrados por otras administraciones públicas o privadas.
 
-## TÍTULO IV
+## Título IV
 
 **Medidas en el ámbito social**
 
-#### Artículo 39. Medidas para la inserción social de las personas trans e intersexuales.
+#### Artículo 39. Medidas para la inserción social de las personas trans e intersexuales.
 
 1. Los programas individuales de inserción de personas trans e intersexuales en situaciones de dificultad social o riesgo de exclusión serán elaborados con criterios técnicos y profesionales por el centro de servicios sociales correspondiente a su domicilio.
 
@@ -905,7 +882,7 @@ d) Elaborar planes de formación para personal sanitario y de otras ramas del 
 
 4. Los proyectos de integración dirigidos a la promoción personal y social de grupos determinados de personas trans o intersexuales en situación de riesgo o exclusión social podrán ser promovidos, en las condiciones que reglamentariamente se determinen, por las organizaciones que promueven y protegen los derechos humanos de las personas trans e intersexuales.
 
-#### Artículo 40. Apoyo y protección en situación de especial vulnerabilidad.
+#### Artículo 40. Apoyo y protección en situación de especial vulnerabilidad.
 
 1. Las administraciones públicas de Canarias deberán llevar a cabo medidas de prevención de la discriminación y apoyo a la visibilidad, entre los colectivos más vulnerables, adolescencia, infancia, personas mayores, personas con diversidad funcional, así como trabajar en la prevención de situaciones que puedan atentar contra la vida, la salud o la dignidad de estas personas por causas derivadas de su condición personal. En particular, se adoptarán medidas específicas de apoyo, mediación y protección en los supuestos de personas menores, adolescentes y jóvenes que estén sometidas a presión o maltrato psicológico en el ámbito familiar a causa de su identidad o expresión de género o de sus características sexuales.
 
@@ -933,7 +910,7 @@ La protección de las personas menores en la presente ley se producirá por medi
 
 8. El Gobierno de Canarias garantizará igualmente la existencia de un servicio público de atención a las personas trans e intersexuales, atendido por personal especializado en esta realidad, en el que se atenderán de manera diferenciada las cuestiones asociadas con la identidad o expresión de género y la diversidad sexual. En el caso de menores, se incluirá también atención específica a sus familias.
 
-#### Artículo 41. Atención a víctimas de violencia por transfobia e intersexfobia.
+#### Artículo 41. Atención a víctimas de violencia por transfobia e intersexfobia.
 
 1. La Comunidad Autónoma de Canarias, en el ámbito de sus competencias, prestará una atención integral real y efectiva a las personas víctimas de violencia motivada por su identidad o expresión de género o de sus características sexuales.
 
@@ -941,11 +918,11 @@ La protección de las personas menores en la presente ley se producirá por medi
 
 3. El Gobierno de Canarias ejercerá la acción popular en los procedimientos penales por delitos de odio motivados por la orientación sexual, la identidad de género, la expresión de género o las características sexuales de la víctima, en la forma y condiciones establecidas por la legislación procesal, en los casos de muerte o incapacitación definitiva de la víctima por las secuelas de la violencia. La acción popular se ejercerá con el consentimiento de la familia.
 
-## TÍTULO V
+## Título V
 
 **Medidas en el ámbito laboral**
 
-#### Artículo 42. Políticas de fomento de la igualdad y no discriminación en el empleo.
+#### Artículo 42. Políticas de fomento de la igualdad y no discriminación en el empleo.
 
 1. Las personas trans e intersexuales, en general, serán consideradas a todos los efectos como personas en riesgo de exclusión social y con necesidades especiales de inserción laboral. Dicha consideración tendrá efectos en el diseño e implementación de las políticas públicas de empleo y protección social.
 
@@ -961,31 +938,31 @@ Igualmente impulsará, a través de los agentes sociales, la inclusión en los c
 
 6. Las políticas de fomento de igualdad y no discriminación en el empleo para las personas trans e intersexuales deberán ser reglamentadas y protocolizadas en base a los principios y derechos estipulados en esta ley y, en particular, sobre los siguientes aspectos básicos:
 
-a) Garantizar la propia identidad o expresión de género en el ámbito laboral y perseguir y sancionar efectivamente las situaciones discriminatorias y de acoso laboral que vulneren los derechos de las personas trans e intersexuales.
+a) Garantizar la propia identidad o expresión de género en el ámbito laboral y perseguir y sancionar efectivamente las situaciones discriminatorias y de acoso laboral que vulneren los derechos de las personas trans e intersexuales.
 
-b) Fomentar la inclusión de la perspectiva de diversidad sexual y de género en los convenios colectivos y en los planes de igualdad de las empresas públicas y privadas, introduciendo clausulas antidiscriminatorias que protejan la libre autodeterminación de la identidad y expresión de género.
+b) Fomentar la inclusión de la perspectiva de diversidad sexual y de género en los convenios colectivos y en los planes de igualdad de las empresas públicas y privadas, introduciendo clausulas antidiscriminatorias que protejan la libre autodeterminación de la identidad y expresión de género.
 
-c) Considerar la transfobia y la intersexfobia como riesgo psicosocial para establecer medidas de prevención del acoso laboral por esta causa.
+c) Considerar la transfobia y la intersexfobia como riesgo psicosocial para establecer medidas de prevención del acoso laboral por esta causa.
 
-#### Artículo 43. Medidas y actuaciones en el ámbito laboral.
+#### Artículo 43. Medidas y actuaciones en el ámbito laboral.
 
 1. La consejería competente en materia de empleo de la Comunidad Autónoma de Canarias adoptará medidas adecuadas y eficaces que tengan por objeto:
 
-a) La promoción en el ámbito de la formación del respeto de los derechos de igualdad y no discriminación de las personas por motivos de identidad y expresión de género o características sexuales.
+a) La promoción en el ámbito de la formación del respeto de los derechos de igualdad y no discriminación de las personas por motivos de identidad y expresión de género o características sexuales.
 
-b) La prevención, corrección y eliminación de toda forma de discriminación por identidad o expresión de género y características sexuales en materia de acceso al empleo, contratación y condiciones de trabajo.
+b) La prevención, corrección y eliminación de toda forma de discriminación por identidad o expresión de género y características sexuales en materia de acceso al empleo, contratación y condiciones de trabajo.
 
-c) La prestación de información pública sobre la normativa vigente en la materia y divulgación sobre el acceso y contenido de derechos en el ámbito de lo dispuesto por la presente ley.
+c) La prestación de información pública sobre la normativa vigente en la materia y divulgación sobre el acceso y contenido de derechos en el ámbito de lo dispuesto por la presente ley.
 
-d) El control del cumplimiento efectivo de los derechos laborales y de prevención de riesgos laborales de las personas en atención a su identidad o expresión de género o sus características sexuales, directamente o por denuncia ante la Inspección de Trabajo y Seguridad Social.
+d) El control del cumplimiento efectivo de los derechos laborales y de prevención de riesgos laborales de las personas en atención a su identidad o expresión de género o sus características sexuales, directamente o por denuncia ante la Inspección de Trabajo y Seguridad Social.
 
-e) La promoción de la formación específica del personal responsable en la prevención de riesgos laborales, tanto en el sector público como en el privado, en contenidos relacionados con las discriminaciones que puedan sufrir las personas trans e intersexuales y en el conocimiento de la diversidad en lo relativo a la identidad o expresión de género y características sexuales.
+e) La promoción de la formación específica del personal responsable en la prevención de riesgos laborales, tanto en el sector público como en el privado, en contenidos relacionados con las discriminaciones que puedan sufrir las personas trans e intersexuales y en el conocimiento de la diversidad en lo relativo a la identidad o expresión de género y características sexuales.
 
-f) La incorporación en las convocatorias de ayudas y subvenciones de fomento del empleo de criterios de igualdad de oportunidades y de medidas de bonificación fiscal o subvención para la integración laboral de las personas trans e intersexuales en las empresas.
+f) La incorporación en las convocatorias de ayudas y subvenciones de fomento del empleo de criterios de igualdad de oportunidades y de medidas de bonificación fiscal o subvención para la integración laboral de las personas trans e intersexuales en las empresas.
 
-g) La garantía al personal de la Administración pública, tanto estatutario como laboral, de un modo real y efectivo, de la no discriminación por razón de identidad o expresión de género o características sexuales y el pleno ejercicio de los derechos de las personas trans e intersexuales en materia de contratación y condiciones de trabajo y ocupación.
+g) La garantía al personal de la Administración pública, tanto estatutario como laboral, de un modo real y efectivo, de la no discriminación por razón de identidad o expresión de género o características sexuales y el pleno ejercicio de los derechos de las personas trans e intersexuales en materia de contratación y condiciones de trabajo y ocupación.
 
-h) El impulso de actuaciones y medidas de difusión y sensibilización que garanticen la igualdad de oportunidades y la no discriminación en las empresas. A tal fin, la consejería competente del Gobierno de Canarias deberá:
+h) El impulso de actuaciones y medidas de difusión y sensibilización que garanticen la igualdad de oportunidades y la no discriminación en las empresas. A tal fin, la consejería competente del Gobierno de Canarias deberá:
 
 1.º Adaptar y mejorar la capacidad de respuesta de los servicios públicos canarios de inserción laboral.
 
@@ -999,25 +976,25 @@ h) El impulso de actuaciones y medidas de difusión y sensibilización que gar
 
 2. Como medidas de discriminación positiva en el empleo para las personas trans e intersexuales, las administraciones públicas canarias:
 
-a) Diseñarán y establecerán políticas y planes concretos para la inserción laboral de las personas trans e intersexuales, en tanto colectivo con especial dificultad para el acceso al empleo, prestando especial atención a aquellas que aún no hayan podido acceder a la rectificación en el Registro Civil de la mención de sexo, a las personas jóvenes, las mayores y a las mujeres transexuales y personas trans-femeninas, al hallarse en una situación particularmente vulnerable.
+a) Diseñarán y establecerán políticas y planes concretos para la inserción laboral de las personas trans e intersexuales, en tanto colectivo con especial dificultad para el acceso al empleo, prestando especial atención a aquellas que aún no hayan podido acceder a la rectificación en el Registro Civil de la mención de sexo, a las personas jóvenes, las mayores y a las mujeres transexuales y personas trans-femeninas, al hallarse en una situación particularmente vulnerable.
 
-b) Se asegurarán de que dentro de los mecanismos de empleabilidad ya existentes se favorezca la contratación y el empleo estable y de calidad de personas trans e intersexuales, especialmente de aquellas que por su edad, su socialización como mujer o de su situación de persona desempleada de larga duración se encuentran en riesgo de padecer múltiples situaciones de discriminación y, en general, de hombres y mujeres trans y de personas intersexuales que se encuentran en situación o riesgo de exclusión social.
+b) Se asegurarán de que dentro de los mecanismos de empleabilidad ya existentes se favorezca la contratación y el empleo estable y de calidad de personas trans e intersexuales, especialmente de aquellas que por su edad, su socialización como mujer o de su situación de persona desempleada de larga duración se encuentran en riesgo de padecer múltiples situaciones de discriminación y, en general, de hombres y mujeres trans y de personas intersexuales que se encuentran en situación o riesgo de exclusión social.
 
-#### Artículo 44. Acciones en el ámbito de la responsabilidad social empresarial.
+#### Artículo 44. Acciones en el ámbito de la responsabilidad social empresarial.
 
 1. Las administraciones públicas canarias:
 
-a) Impulsarán la adopción por parte de las empresas de códigos éticos y de conducta que contemplen medidas de protección frente a la discriminación por razón de identidad o expresión de género o de características sexuales, así como acciones que favorezcan la contratación e inclusión laboral de las personas trans e intersexuales.
+a) Impulsarán la adopción por parte de las empresas de códigos éticos y de conducta que contemplen medidas de protección frente a la discriminación por razón de identidad o expresión de género o de características sexuales, así como acciones que favorezcan la contratación e inclusión laboral de las personas trans e intersexuales.
 
-b) Divulgarán las buenas prácticas realizadas por las empresas en materia de inclusión y de promoción y garantía de igualdad y no discriminación por razón de identidad o expresión de género o diversidad sexual.
+b) Divulgarán las buenas prácticas realizadas por las empresas en materia de inclusión y de promoción y garantía de igualdad y no discriminación por razón de identidad o expresión de género o diversidad sexual.
 
 2. Reglamentariamente por el Gobierno de Canarias se establecerá un distintivo para reconocer a las empresas que destaquen por la aplicación de políticas de igualdad y no discriminación, graduando el reconocimiento en función del número de factores de discriminación efectivamente abordados.
 
-## TÍTULO VI
+## Título VI
 
 **Medidas en el ámbito familiar**
 
-#### Artículo 45. Protección de la diversidad familiar.
+#### Artículo 45. Protección de la diversidad familiar.
 
 1. La presente ley otorga protección frente a cualquier tipo de discriminación en la unión de personas trans e intersexuales, ya sea de hecho o de derecho, en la relación de parentesco, ya sea por filiación o afinidad, así como en las unidades monoparentales y monomarentales con hijos e hijas a su cargo.
 
@@ -1031,17 +1008,17 @@ Para la realización de dichos programas se contará con las organizaciones y en
 
 5. Los programas de apoyo a las familias de las administraciones públicas de Canarias contemplarán, de forma expresa, medidas de apoyo a la diversidad familiar por razón de identidad o expresión de género o de características sexuales.
 
-6. Los servicios de asesoramiento y apoyo a los que se refiere el artículo 8 de la presente ley, en coordinación con las entidades locales canarias, deberán atender a las víctimas de discriminación en el ámbito familiar y apoyarlas, especialmente en los casos de violencia machista o cuando se encuentren implicadas las personas trans o intersexuales.
+6. Los servicios de asesoramiento y apoyo a los que se refiere el artículo 8 de la presente ley, en coordinación con las entidades locales canarias, deberán atender a las víctimas de discriminación en el ámbito familiar y apoyarlas, especialmente en los casos de violencia machista o cuando se encuentren implicadas las personas trans o intersexuales.
 
 7. Las administraciones públicas canarias deben establecer los mecanismos necesarios para que la documentación administrativa se adecúe a las relaciones afectivas de las personas trans e intersexuales y a la heterogeneidad del hecho familiar.
 
-#### Artículo 46. Adopción y acogimiento familiar.
+#### Artículo 46. Adopción y acogimiento familiar.
 
 1. La Comunidad Autónoma de Canarias garantizará, de conformidad con la normativa vigente, que en la valoración de la idoneidad en los procesos de adopción y acogimiento familiar no exista discriminación por motivo de identidad o expresión de género o diversidad sexual.
 
 2. En los centros de menores se garantizará que las personas menores de edad que sean susceptibles de ser adoptadas o acogidas sean conocedoras de la diversidad familiar por razón de identidad o expresión de género y de características sexuales.
 
-#### Artículo 47. Violencia en el ámbito familiar.
+#### Artículo 47. Violencia en el ámbito familiar.
 
 1. Se reconocerá como violencia familiar, y se adoptarán en consecuencia medidas de apoyo, mediación y protección frente a ella, a cualquier forma de violencia que se ejerza en el ámbito familiar por causa de identidad o expresión de género o de las características sexuales de cualquiera de sus miembros.
 
@@ -1053,11 +1030,11 @@ A los efectos de la presente ley, la negativa reiterada y grave a respetar la id
 
 Para acreditar la condición de mujer transexual o persona trans-femenina bastará una declaración responsable de la víctima en este sentido.
 
-## TÍTULO VII
+## Título VII
 
 **Medidas en el ámbito de la juventud y personas mayores**
 
-#### Artículo 48. Protección de las personas jóvenes.
+#### Artículo 48. Protección de las personas jóvenes.
 
 1. El órgano competente en materia de juventud del Gobierno de Canarias promoverá acciones de asesoramiento e impulsará el respeto a la identidad y expresión de género y la diversidad sexual de las personas jóvenes trans e intersexuales, difundiendo las buenas prácticas realizadas en la materialización de este respeto.
 
@@ -1067,7 +1044,7 @@ Para acreditar la condición de mujer transexual o persona trans-femenina bastar
 
 4. Todas las entidades juveniles y personas trabajadoras de cualquier ámbito que realicen sus labores con la juventud promoverán y respetarán con especial cuidado la igualdad de las personas en atención a la identidad y expresión de género y de sus características sexuales.
 
-#### Artículo 49. Protección de las personas trans e intersexuales mayores.
+#### Artículo 49. Protección de las personas trans e intersexuales mayores.
 
 1. Las personas trans e intersexuales mayores tienen derecho a recibir de los servicios públicos sociales de la Comunidad Autónoma de Canarias una protección y una atención integral para la promoción de su autonomía personal y del envejecimiento activo que les permita una vida digna e independiente y su bienestar social e individual, así como acceder a una atención gerontológica adecuada a sus necesidades en el ámbito sanitario, social y asistencial.
 
@@ -1079,25 +1056,25 @@ A estos efectos, la identificación de las personas trans e intersexuales mayore
 
 4. Los servicios públicos de atención a personas mayores de la Comunidad Autónoma de Canarias promoverán los protocolos de colaboración con las unidades de acompañamiento a las personas trans e intersexuales y con los servicios de asistencia y apoyo que estén atendiendo a las personas interesadas, para que las residencias, los centros y los pisos tutelados cuenten con el tratamiento gerontológico más adecuado para las personas trans o intersexuales mayores y para la mejor difusión de buenas prácticas en relación a los problemas específicos de las personas trans e intersexuales en la vejez.
 
-## TÍTULO VIII
+## Título VIII
 
 **Medidas en el ámbito del ocio, la cultura y el deporte**
 
-#### Artículo 50. Promoción de una cultura inclusiva.
+#### Artículo 50. Promoción de una cultura inclusiva.
 
 1. La Comunidad Autónoma de Canarias adoptará medidas que garanticen la visibilización e impulsen, tanto a nivel autonómico como local, como parte de la cultura ciudadana, la convivencia y la construcción de una expresión cultural inclusiva y diversa. Asimismo, adoptará medidas de apoyo y fomento de iniciativas y expresiones artísticas, culturales, patrimoniales, recreativas y deportivas considerando sus formas propias de representación.
 
 2. Las administraciones públicas canarias velarán por la incorporación de actividades para la no discriminación por razones de identidad y expresión de género y diversidad sexual en los siguientes ámbitos de la cultura, el tiempo libre y el deporte:
 
-a) Certámenes culturales, actividades de ocio y tiempo libre y acontecimientos deportivos tanto de entidades públicas como privadas.
+a) Certámenes culturales, actividades de ocio y tiempo libre y acontecimientos deportivos tanto de entidades públicas como privadas.
 
-b) Proyectos relacionados con la recuperación de la memoria histórica de las personas trans e intersexuales.
+b) Proyectos relacionados con la recuperación de la memoria histórica de las personas trans e intersexuales.
 
-c) Espectáculos y producciones culturales infantiles y juveniles.
+c) Espectáculos y producciones culturales infantiles y juveniles.
 
-d) Recursos didácticos y fondos documentales en la educación no formal.
+d) Recursos didácticos y fondos documentales en la educación no formal.
 
-3. Todas las bibliotecas de titularidad autonómica y municipal de Canarias deberán contar con un fondo bibliográfico específico en materia de identidad y expresión de género, intersexualidad, diversidad familiar y diversidad afectivo-sexual, en cualquier caso, respetuoso con los derechos humanos y nunca contrario al reconocimiento de la identidad y expresión de género. Dichos fondos conformarán una sección específica en aquellas bibliotecas de ciudades de más de 20.000 habitantes.
+3. Todas las bibliotecas de titularidad autonómica y municipal de Canarias deberán contar con un fondo bibliográfico específico en materia de identidad y expresión de género, intersexualidad, diversidad familiar y diversidad afectivo-sexual, en cualquier caso, respetuoso con los derechos humanos y nunca contrario al reconocimiento de la identidad y expresión de género. Dichos fondos conformarán una sección específica en aquellas bibliotecas de ciudades de más de 20.000 habitantes.
 
 4. El órgano competente en la gestión de las bibliotecas públicas del Gobierno de Canarias garantizará la existencia de dicho fondo, su carácter especializado y su accesibilidad a toda la ciudadanía, realizando el seguimiento y la actualización pertinentes del mismo.
 
@@ -1105,7 +1082,7 @@ d) Recursos didácticos y fondos documentales en la educación no formal.
 
 6. Las administraciones públicas de Canarias garantizarán a las personas trans e intersexuales el acceso y uso de las instalaciones que estén segregadas por el sexo, como son los aseos y los vestuarios, en correspondencia a la identidad y expresión de género sentida por la persona usuaria.
 
-#### Artículo 51. Deporte, ocio y tiempo libre.
+#### Artículo 51. Deporte, ocio y tiempo libre.
 
 1. El Gobierno de Canarias promoverá y velará por que la participación en la práctica deportiva y de actividad física se realice en términos de igualdad, sin discriminación por motivos de identidad y expresión de género o de las características sexuales.
 
@@ -1115,21 +1092,21 @@ En los eventos y actividades, con carácter competitivo o no, desarrollados u or
 
 3. En los eventos y actividades, con carácter competitivo o no, desarrollados u organizados por organizaciones o entidades públicas o privadas en el territorio de la Comunidad Autónoma de Canarias:
 
-a) Las personas profesionales que gestionen o impartan dichas actividades se dirigirán a las personas participantes trans o intersexuales por el nombre elegido por estas, respetando su derecho a utilizar dicho nombre en todas las actividades.
+a) Las personas profesionales que gestionen o impartan dichas actividades se dirigirán a las personas participantes trans o intersexuales por el nombre elegido por estas, respetando su derecho a utilizar dicho nombre en todas las actividades.
 
-b) Se respetará y se hará respetar la imagen física del participante trans o intersexual, así como la libre elección de su indumentaria.
+b) Se respetará y se hará respetar la imagen física del participante trans o intersexual, así como la libre elección de su indumentaria.
 
-c) Si se realizaran actividades diferenciadas por sexo, se tendrá en cuenta el sexo sentido por la persona participante.
+c) Si se realizaran actividades diferenciadas por sexo, se tendrá en cuenta el sexo sentido por la persona participante.
 
-d) Si la actividad se lleva a cabo en instalaciones segregadas por sexos, como los aseos y los vestuarios, se garantizará a las personas participantes trans e intersexuales, igual que al resto de participantes, el acceso y uso de las instalaciones correspondientes a su género sentido.
+d) Si la actividad se lleva a cabo en instalaciones segregadas por sexos, como los aseos y los vestuarios, se garantizará a las personas participantes trans e intersexuales, igual que al resto de participantes, el acceso y uso de las instalaciones correspondientes a su género sentido.
 
 4. El Gobierno de Canarias, a través de la consejería competente, adoptará medidas que garanticen formación adecuada de las personas profesionales de didáctica deportiva, de ocio y tiempo libre, que incorpore la diversidad sexual y de género, el respeto y la protección del colectivo frente a cualquier discriminación por identidad o expresión de género o de las características sexuales. Para ello se establecerá la colaboración necesaria con las entidades públicas o privadas representativas en el ámbito de la gestión del ocio y tiempo libre y juventud.
 
-## TÍTULO IX
+## Título IX
 
 **Medidas en el ámbito de la cooperación internacional para el desarrollo**
 
-#### Artículo 52. Cooperación internacional para el desarrollo.
+#### Artículo 52. Cooperación internacional para el desarrollo.
 
 1. En los ejes de las políticas de cooperación y fomento de la paz y de los derechos humanos que lleve a cabo el Gobierno de Canarias se impulsarán expresamente aquellos proyectos que promuevan y defiendan en derecho a la vida, la igualdad, la libertad y la no discriminación de las personas trans e intersexuales en aquellos países en que estos derechos sean negados o dificultados, legal o socialmente, así como la protección de personas frente a persecuciones y represalias, siempre en cooperación con el Gobierno de España.
 
@@ -1137,37 +1114,35 @@ d) Si la actividad se lleva a cabo en instalaciones segregadas por sexos, como
 
 3. En la gestión de los servicios y programas específicamente destinados a las personas solicitantes de asilo, en coordinación y cooperación con la Administración General del Estado, y en los ámbitos sanitario, educativo y social, la Administración de la comunidad autónoma, en el ámbito de sus competencias, facilitará el acceso de las personas interesadas, independientemente de la situación administrativa en la que se encuentren, a los recursos sociales y las diferentes organizaciones de atención especializada en lo relativo a la identidad y expresión de género y diversidad sexual.
 
-## TÍTULO X
+## Título X
 
 **Medidas en el ámbito de los medios de comunicación**
 
-#### Artículo 53. Tratamiento igualitario de la información y la comunicación.
+#### Artículo 53. Tratamiento igualitario de la información y la comunicación.
 
-1. En el marco de las políticas generales contra la transfobia e intersexfobia previstas en el artículo 18 de la presente ley, la Comunidad Autónoma de Canarias, en colaboración con las asociaciones que trabajan en el ámbito de la no discriminación por motivo de identidad y expresión de género o características sexuales, fomentará, en todos los medios de comunicación de titularidad autonómica y aquellos que perciban subvenciones o fondos públicos de la Administración canaria, la concienciación, divulgación y transmisión de la inclusión social y el respeto a la identidad y expresión de género y diversidad sexual mediante la emisión de contenidos que contribuyan a una percepción del colectivo exenta de estereotipos y al conocimiento y difusión de necesidades y realidades de la población trans e intersexual.
+1. En el marco de las políticas generales contra la transfobia e intersexfobia previstas en el artículo 18 de la presente ley, la Comunidad Autónoma de Canarias, en colaboración con las asociaciones que trabajan en el ámbito de la no discriminación por motivo de identidad y expresión de género o características sexuales, fomentará, en todos los medios de comunicación de titularidad autonómica y aquellos que perciban subvenciones o fondos públicos de la Administración canaria, la concienciación, divulgación y transmisión de la inclusión social y el respeto a la identidad y expresión de género y diversidad sexual mediante la emisión de contenidos que contribuyan a una percepción del colectivo exenta de estereotipos y al conocimiento y difusión de necesidades y realidades de la población trans e intersexual.
 
 2. El Instituto Canario de Igualdad realizará un seguimiento periódico de la publicidad y las informaciones que ofrezcan un tratamiento contrario a la diversidad de identidad y expresión de género o diversidad sexual, especialmente cuando afecten a mujeres transexuales y personas trans-femeninas. El informe resultante, que será público, deberá remitirse a la Diputación del Común de Canarias y al Parlamento de Canarias con una periodicidad anual.
 
-#### Artículo 54. Códigos deontológicos.
+#### Artículo 54. Códigos deontológicos.
 
 La Comunidad Autónoma de Canarias velará por que los medios de comunicación de titularidad autonómica y aquellos que perciban subvenciones o fondos públicos de la Administración canaria adopten, mediante autorregulación, códigos deontológicos que incorporen el respeto a la igualdad y la prohibición de discriminación por motivos de identidad y expresión de género o diversidad sexual, tanto en contenidos informativos y de publicidad como en el lenguaje empleado. Esta disposición afectará a todos los medios, incluidos aquellos propiciados por las nuevas tecnologías de la información y la comunicación.
 
-## TÍTULO XI
+## Título XI
 
 **Medidas en el ámbito del Sistema Canario de Seguridad y Emergencias**
 
-CAPÍTULO I
+## Capítulo I. Actuación ante la diversidad sexual.
 
-Actuación ante la diversidad sexual
-
-#### Artículo 55. Protocolo de atención a la diversidad sexual.
+#### Artículo 55. Protocolo de atención a la diversidad sexual.
 
 1. El Gobierno de Canarias deberá promover las medidas necesarias para que la confidencialidad e intimidad en el disfrute de los derechos de las personas en materia de seguridad y emergencias incluya el respeto a la identidad y expresión de género y las características sexuales, evitando en todo caso la victimización secundaria en la asistencia prestada a las mismas.
 
 2. El Gobierno de Canarias, en el ámbito de sus competencias, velará por:
 
-a) La adopción de las medidas necesarias para la implantación y aplicación efectiva de un protocolo de atención por parte de la Policía Canaria y las policías locales de Canarias a las personas trans e intersexuales, en especial cuando sean víctimas de agresiones, acoso o coacciones tanto físicas como por medios virtuales.
+a) La adopción de las medidas necesarias para la implantación y aplicación efectiva de un protocolo de atención por parte de la Policía Canaria y las policías locales de Canarias a las personas trans e intersexuales, en especial cuando sean víctimas de agresiones, acoso o coacciones tanto físicas como por medios virtuales.
 
-b) Que la formación de las personas pertenecientes a las policías locales de Canarias y del Cuerpo General de la Policía Canaria incluya medidas de respeto a la identidad y expresión de género y la diversidad sexual, especialmente en la atención a las víctimas de delitos de odio por motivos de identidad y expresión de género o diversidad sexual.
+b) Que la formación de las personas pertenecientes a las policías locales de Canarias y del Cuerpo General de la Policía Canaria incluya medidas de respeto a la identidad y expresión de género y la diversidad sexual, especialmente en la atención a las víctimas de delitos de odio por motivos de identidad y expresión de género o diversidad sexual.
 
 3. El Gobierno de Canarias, en el ámbito de sus competencias, promoverá políticas para el fomento de la igualdad, la visibilidad y la no discriminación por motivos de identidad o expresión de género o diversidad sexual en el acceso, formación y promoción de las personas profesionales componentes del cuerpo de la Policía Local de Canarias, así como del Cuerpo General de la Policía Canaria.
 
@@ -1175,31 +1150,29 @@ b) Que la formación de las personas pertenecientes a las policías locales de
 
 5. Los poderes públicos de Canarias y cualquiera que preste servicios en el ámbito de la función pública o en el ámbito de la empresa privada promoverán y garantizarán el cumplimiento efectivo del principio de igualdad y no discriminación, ejerciendo cuantas acciones positivas sean necesarias para eliminar las situaciones de discriminación por identidad o expresión de género o características sexuales, incluidas las denuncias pertinentes a las fuerzas y cuerpos de seguridad y ante el órgano administrativo competente.
 
-CAPÍTULO II
+## Capítulo II. Medidas en privación de libertad.
 
-Medidas en privación de libertad
-
-#### Artículo 56. Medidas respecto a personas trans e intersexuales en situación de privación de libertad dentro de la Comunidad Autónoma de Canarias.
+#### Artículo 56. Medidas respecto a personas trans e intersexuales en situación de privación de libertad dentro de la Comunidad Autónoma de Canarias.
 
 El Gobierno de Canarias, en el ámbito de sus competencias y promoviendo los convenios de colaboración oportunos con las demás administraciones con competencias en la materia:
 
-a) Establecerá las medidas pertinentes para garantizar un trato y una estancia adecuada de las personas trans e intersexuales en las dependencias policiales, judiciales y otros ámbitos de privación de libertad situados en el territorio de la comunidad autónoma.
+a) Establecerá las medidas pertinentes para garantizar un trato y una estancia adecuada de las personas trans e intersexuales en las dependencias policiales, judiciales y otros ámbitos de privación de libertad situados en el territorio de la comunidad autónoma.
 
-b) Permitirá y facilitará a las personas detenidas e internas trans e intersexuales la continuidad de cualquier tratamiento médico u hormonal que estén siguiendo, así como empezarlo si así lo solicitasen. Para ello, deberá establecerse una coordinación reglada entre la persona responsable del internamiento y el Servicio de Diversidad de Género del Gobierno de Canarias.
+b) Permitirá y facilitará a las personas detenidas e internas trans e intersexuales la continuidad de cualquier tratamiento médico u hormonal que estén siguiendo, así como empezarlo si así lo solicitasen. Para ello, deberá establecerse una coordinación reglada entre la persona responsable del internamiento y el Servicio de Diversidad de Género del Gobierno de Canarias.
 
-c) Garantizará que en la formación inicial y continuada del personal de seguridad se trate la diversidad en lo relativo a la identidad y expresión de género y la diversidad sexual, así como la normativa civil, administrativa y penal protectora de las personas trans e intersexuales.
+c) Garantizará que en la formación inicial y continuada del personal de seguridad se trate la diversidad en lo relativo a la identidad y expresión de género y la diversidad sexual, así como la normativa civil, administrativa y penal protectora de las personas trans e intersexuales.
 
-d) Promoverá la formación en igualdad en relación con la identidad y expresión de género o diversidad sexual a las personas privadas de libertad.
+d) Promoverá la formación en igualdad en relación con la identidad y expresión de género o diversidad sexual a las personas privadas de libertad.
 
-## TÍTULO XII
+## Título XII
 
 **Régimen sancionador**
 
-#### Artículo 57. Responsabilidad.
+#### Artículo 57. Responsabilidad.
 
 Serán responsables de las infracciones administrativas en materia de vulneración de los derechos de las personas trans e intersexuales las personas físicas o jurídicas, públicas o privadas por la realización de las acciones u omisiones tipificadas en la presente ley. Todo ello sin perjuicio de las responsabilidades civiles, penales o de otro orden, y de las atribuciones inspectoras y sancionadoras que en el ámbito laboral pueda ejercer la Inspección de Trabajo y Seguridad Social.
 
-#### Artículo 58. Concurrencia con el orden jurisdiccional penal.
+#### Artículo 58. Concurrencia con el orden jurisdiccional penal.
 
 1. No podrán sancionarse los hechos que ya hayan sido sancionados penal o administrativamente, en los casos en que se aprecie identidad de sujeto, de hecho y de fundamento.
 
@@ -1207,99 +1180,99 @@ Serán responsables de las infracciones administrativas en materia de vulneraci�
 
 3. De no haberse estimado la existencia de ilícito penal, o en el caso de haberse dictado resolución de otro tipo que ponga fin al procedimiento penal, la administración continuará el expediente sancionador en base a los hechos que los tribunales hayan considerado probados.
 
-#### Artículo 59. Infracciones.
+#### Artículo 59. Infracciones.
 
 1. Las infracciones administrativas se califican como leves, graves y muy graves, en atención a la naturaleza de la obligación incumplida y a la entidad del derecho afectado.
 
 2. Son infracciones administrativas leves:
 
-a) Utilizar o emitir expresiones vejatorias contra las personas o sus familias por su identidad o expresión de género o características sexuales en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
+a) Utilizar o emitir expresiones vejatorias contra las personas o sus familias por su identidad o expresión de género o características sexuales en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
 
-b) No facilitar la labor o negarse parcialmente a colaborar con la acción investigadora de los servicios de inspección de la Comunidad Autónoma de Canarias en el cumplimiento de los mandatos establecidos en la presente ley.
+b) No facilitar la labor o negarse parcialmente a colaborar con la acción investigadora de los servicios de inspección de la Comunidad Autónoma de Canarias en el cumplimiento de los mandatos establecidos en la presente ley.
 
 3. Son infracciones administrativas graves:
 
-a) La reiteración en el uso o emisión de expresiones vejatorias por razón de identidad o expresión de género de las características sexuales en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
+a) La reiteración en el uso o emisión de expresiones vejatorias por razón de identidad o expresión de género de las características sexuales en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
 
-b) El uso o emisión de expresiones que inciten a la violencia contra las personas trans e intersexuales o sus familias en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
+b) El uso o emisión de expresiones que inciten a la violencia contra las personas trans e intersexuales o sus familias en la prestación de servicios públicos, en cualquier medio de comunicación, en discursos o intervenciones públicas o en las redes sociales.
 
-c) La no retirada inmediata por parte del prestador de un servicio de la sociedad de la información de expresiones vejatorias o de incitación a la violencia por razón de identidad o expresión de género o características sexuales contenidas en sitios web o redes sociales de las que sea responsable, una vez tenga conocimiento efectivo del uso de esas expresiones.
+c) La no retirada inmediata por parte del prestador de un servicio de la sociedad de la información de expresiones vejatorias o de incitación a la violencia por razón de identidad o expresión de género o características sexuales contenidas en sitios web o redes sociales de las que sea responsable, una vez tenga conocimiento efectivo del uso de esas expresiones.
 
-d) La realización de actos o la imposición de disposiciones o cláusulas en los negocios jurídicos que constituyan o causen discriminación por razón de identidad o expresión de género o características sexuales.
+d) La realización de actos o la imposición de disposiciones o cláusulas en los negocios jurídicos que constituyan o causen discriminación por razón de identidad o expresión de género o características sexuales.
 
-e) La obstrucción o negativa absoluta a la actuación de los servicios de inspección de la Comunidad de Autónoma de Canarias en el cumplimiento de los mandatos establecidos en la presente ley.
+e) La obstrucción o negativa absoluta a la actuación de los servicios de inspección de la Comunidad de Autónoma de Canarias en el cumplimiento de los mandatos establecidos en la presente ley.
 
-f) Impedir u obstaculizar la realización de cualquier trámite administrativo o el acceso a un servicio público o establecimiento por motivos de identidad o expresión de género o características sexuales.
+f) Impedir u obstaculizar la realización de cualquier trámite administrativo o el acceso a un servicio público o establecimiento por motivos de identidad o expresión de género o características sexuales.
 
-g) Realizar actos que impliquen aislamiento, rechazo o menosprecio público y notorio de personas por causa de identidad o expresión de género o diversidad sexual.
+g) Realizar actos que impliquen aislamiento, rechazo o menosprecio público y notorio de personas por causa de identidad o expresión de género o diversidad sexual.
 
-h) La implementación, el impulso o la tolerancia de prácticas laborales discriminatorias en empresas que reciban subvenciones, bonificaciones o ayudas públicas de la Comunidad Autónoma de Canarias.
+h) La implementación, el impulso o la tolerancia de prácticas laborales discriminatorias en empresas que reciban subvenciones, bonificaciones o ayudas públicas de la Comunidad Autónoma de Canarias.
 
-i) La elaboración, utilización o difusión en centros educativos de Canarias de libros de texto y materiales didácticos que presenten a las personas como superiores o inferiores en dignidad humana en función de su identidad o expresión de género o características sexuales, o que inciten a la violencia por este motivo.
+i) La elaboración, utilización o difusión en centros educativos de Canarias de libros de texto y materiales didácticos que presenten a las personas como superiores o inferiores en dignidad humana en función de su identidad o expresión de género o características sexuales, o que inciten a la violencia por este motivo.
 
 4. Son infracciones administrativas muy graves:
 
-a) Adoptar comportamientos agresivos o constitutivos de acoso, realizados en función de la identidad o expresión de género o características sexuales de una persona, que tengan el propósito o produzcan el efecto de atentar contra su dignidad, creando un entorno intimidatorio, degradante u ofensivo para la misma.
+a) Adoptar comportamientos agresivos o constitutivos de acoso, realizados en función de la identidad o expresión de género o características sexuales de una persona, que tengan el propósito o produzcan el efecto de atentar contra su dignidad, creando un entorno intimidatorio, degradante u ofensivo para la misma.
 
-b) Cualquier represalia o trato adverso que reciba una persona como consecuencia de haber presentado la misma una queja, reclamación, denuncia, demanda o recurso de cualquier tipo, destinado a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad.
+b) Cualquier represalia o trato adverso que reciba una persona como consecuencia de haber presentado la misma una queja, reclamación, denuncia, demanda o recurso de cualquier tipo, destinado a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad.
 
-c) La negativa a atender o asistir de manera efectiva a quienes hayan sufrido cualquier tipo de discriminación o abuso por motivos de identidad o expresión de género o características sexuales cuando por su condición o puesto tenga obligación de atender a la víctima.
+c) La negativa a atender o asistir de manera efectiva a quienes hayan sufrido cualquier tipo de discriminación o abuso por motivos de identidad o expresión de género o características sexuales cuando por su condición o puesto tenga obligación de atender a la víctima.
 
-d) El uso o emisión de expresiones vejatorias o que inciten a la violencia contra las personas trans e intersexuales o sus familias por razón de identidad o expresión de género de las características sexuales, mediante campañas públicas de carácter publicitario en cualquier medio de comunicación, en discursos o intervenciones públicas o, en las redes sociales, cuando se utilice la imagen de las mismas, con carácter individual o colectivo, para negar la existencia de la diversidad de identidades o expresiones de género o de la existencia de la transexualidad o de la intersexualidad, o para asociarla a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia contra estas personas o sus familias.
+d) El uso o emisión de expresiones vejatorias o que inciten a la violencia contra las personas trans e intersexuales o sus familias por razón de identidad o expresión de género de las características sexuales, mediante campañas públicas de carácter publicitario en cualquier medio de comunicación, en discursos o intervenciones públicas o, en las redes sociales, cuando se utilice la imagen de las mismas, con carácter individual o colectivo, para negar la existencia de la diversidad de identidades o expresiones de género o de la existencia de la transexualidad o de la intersexualidad, o para asociarla a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia contra estas personas o sus familias.
 
-e) La promoción y realización de terapias de aversión o conversión con la finalidad de modificar la orientación sexual, la identidad de género o la expresión de género de una persona. A estos efectos, el consentimiento prestado por la persona sometida a tales terapias no constituirá, en ningún caso, causa de exención de la responsabilidad.
+e) La promoción y realización de terapias de aversión o conversión con la finalidad de modificar la orientación sexual, la identidad de género o la expresión de género de una persona. A estos efectos, el consentimiento prestado por la persona sometida a tales terapias no constituirá, en ningún caso, causa de exención de la responsabilidad.
 
 5. Respecto de las infracciones leves y graves, la discriminación múltiple incrementará, respecto de cada una de las acciones concurrentes, un grado el tipo infractor previsto en esta ley. A estos efectos, existirá discriminación múltiple cuando, además de discriminación por motivo de expresión o identidad de género, una persona sufre conjuntamente discriminación por otro motivo.
 
-#### Artículo 60. Reincidencia.
+#### Artículo 60. Reincidencia.
 
 A los efectos de lo previsto en esta ley, existirá reincidencia cuando la persona responsable o responsables de la infracción prevista en ella hayan sido sancionadas anteriormente mediante resolución firme por la realización de una infracción de la misma naturaleza en el plazo de dos años, contados desde la notificación de aquella.
 
-#### Artículo 61. Sanciones.
+#### Artículo 61. Sanciones.
 
-1. Las infracciones leves serán sancionadas con apercibimiento o con multa de 200 a 3.000 euros.
+1. Las infracciones leves serán sancionadas con apercibimiento o con multa de 200 a 3.000 euros.
 
-2. Las infracciones graves serán sancionadas con multa de 3.001 hasta 20.000 euros. Además, podrán imponerse como sanciones accesorias alguna o algunas de las siguientes:
+2. Las infracciones graves serán sancionadas con multa de 3.001 hasta 20.000 euros. Además, podrán imponerse como sanciones accesorias alguna o algunas de las siguientes:
 
-a) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad Autónoma de Canarias por un período de un año.
+a) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad Autónoma de Canarias por un período de un año.
 
-b) Prohibición de contratar con cualquier administración pública canaria, sus organismos autónomos o entes públicos por período de un año.
+b) Prohibición de contratar con cualquier administración pública canaria, sus organismos autónomos o entes públicos por período de un año.
 
-3. Las infracciones muy graves serán sancionadas con multa de 20.001 hasta 45.000 euros y, además, podrá imponerse alguna o algunas de las sanciones accesorias siguientes:
+3. Las infracciones muy graves serán sancionadas con multa de 20.001 hasta 45.000 euros y, además, podrá imponerse alguna o algunas de las sanciones accesorias siguientes:
 
-a) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad Autónoma de Canarias por un período de hasta tres años.
+a) Prohibición de acceder a cualquier tipo de ayuda pública de la Comunidad Autónoma de Canarias por un período de hasta tres años.
 
-b) Inhabilitación temporal, por un período de hasta tres años, para ser titular, la persona física o jurídica, de centros o servicios dedicados a la prestación de servicios públicos.
+b) Inhabilitación temporal, por un período de hasta tres años, para ser titular, la persona física o jurídica, de centros o servicios dedicados a la prestación de servicios públicos.
 
-c) Prohibición de contratar con cualquier administración pública canaria, sus organismos autónomos o entes públicos por un período de hasta tres años.
+c) Prohibición de contratar con cualquier administración pública canaria, sus organismos autónomos o entes públicos por un período de hasta tres años.
 
-#### Artículo 62. Graduación de las sanciones.
+#### Artículo 62. Graduación de las sanciones.
 
 1. Para la graduación de las sanciones se tendrá en cuenta:
 
-a) La naturaleza y gravedad de los riesgos o perjuicios causados a las personas o bienes.
+a) La naturaleza y gravedad de los riesgos o perjuicios causados a las personas o bienes.
 
-b) La intencionalidad de la persona autora de la infracción.
+b) La intencionalidad de la persona autora de la infracción.
 
-c) La reincidencia.
+c) La reincidencia.
 
-d) La discriminación múltiple y la victimización secundaria.
+d) La discriminación múltiple y la victimización secundaria.
 
-e) La trascendencia social de los hechos o su relevancia.
+e) La trascendencia social de los hechos o su relevancia.
 
-f) El beneficio que haya obtenido la persona infractora.
+f) El beneficio que haya obtenido la persona infractora.
 
-g) El incumplimiento de las advertencias o requerimientos que previamente haya realizado la administración.
+g) El incumplimiento de las advertencias o requerimientos que previamente haya realizado la administración.
 
-h) La pertenencia de la persona infractora a fuerzas y cuerpos de seguridad.
+h) La pertenencia de la persona infractora a fuerzas y cuerpos de seguridad.
 
-i) La pertenencia de la persona infractora a un grupo organizado de ideología fehacientemente homofóbica, lesbofóbica, bifóbica, transfóbica o interfóbica.
+i) La pertenencia de la persona infractora a un grupo organizado de ideología fehacientemente homofóbica, lesbofóbica, bifóbica, transfóbica o interfóbica.
 
-j) La reparación voluntaria de los daños causados o la subsanación de los hechos que dieron lugar a la comisión del tipo infractor, siempre que ello tenga lugar antes de que recaiga resolución definitiva en el procedimiento sancionador.
+j) La reparación voluntaria de los daños causados o la subsanación de los hechos que dieron lugar a la comisión del tipo infractor, siempre que ello tenga lugar antes de que recaiga resolución definitiva en el procedimiento sancionador.
 
 2. Para la imposición de las sanciones pecuniarias y para la determinación de su cuantía deberá tenerse en cuenta que la comisión de las infracciones no resulte más beneficiosa para el infractor o los infractores que el cumplimiento de las normas infringidas.
 
-#### Artículo 63. Prescripción.
+#### Artículo 63. Prescripción.
 
 1. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los nueve meses.
 
@@ -1309,7 +1282,7 @@ j) La reparación voluntaria de los daños causados o la subsanación de los h
 
 4. El cómputo de la prescripción de las sanciones comenzará a correr desde que adquiera firmeza la resolución que imponga la sanción.
 
-#### Artículo 64. Competencia del procedimiento sancionador.
+#### Artículo 64. Competencia del procedimiento sancionador.
 
 1. La imposición de las sanciones previstas en esta ley exigirá la previa incoación del correspondiente expediente sancionador cuya instrucción corresponderá a la persona titular de la Secretaría General Técnica de la consejería del Gobierno de Canarias con competencia en materia de derechos sociales.
 
@@ -1317,55 +1290,54 @@ j) La reparación voluntaria de los daños causados o la subsanación de los h
 
 3. La competencia para la imposición de sanciones previstas en la presente ley corresponderá:
 
-a) A la persona que ostente la titularidad de la Dirección General de Diversidad o de la que en el futuro pudiera asumir sus funciones, cuando se trate de la imposición de sanciones por infracciones leves.
+a) A la persona que ostente la titularidad de la Dirección General de Diversidad o de la que en el futuro pudiera asumir sus funciones, cuando se trate de la imposición de sanciones por infracciones leves.
 
-b) A la persona titular de la Consejería del Gobierno de Canarias en materia de derechos sociales, cuando se trate de imposición de sanciones por infracciones graves.
+b) A la persona titular de la Consejería del Gobierno de Canarias en materia de derechos sociales, cuando se trate de imposición de sanciones por infracciones graves.
 
-c) Al Consejo de Gobierno de Canarias para la imposición de sanciones por infracciones muy graves.
+c) Al Consejo de Gobierno de Canarias para la imposición de sanciones por infracciones muy graves.
 
-#### Artículo 65. Ejercicio de la potestad sancionadora.
+#### Artículo 65. Ejercicio de la potestad sancionadora.
 
-La potestad sancionadora en el ámbito de lo dispuesto por la presente ley se ejercerá de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
+La potestad sancionadora en el ámbito de lo dispuesto por la presente ley se ejercerá de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
 
-#### Disposición derogatoria única. Derogaciones normativas.
+#### Disposición derogatoria única. Derogaciones normativas.
 
-1. Queda derogada la Ley 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales, así como cuantas disposiciones de desarrollo reglamentario de la misma contradigan lo dispuesto en esta ley.
+1. Queda derogada la Ley 8/2014, de 28 de octubre, de no discriminación por motivos de identidad de género y de reconocimiento de los derechos de las personas transexuales, así como cuantas disposiciones de desarrollo reglamentario de la misma contradigan lo dispuesto en esta ley.
 
 2. Quedan derogadas, asimismo, cuantas normas de igual o inferior rango se opongan contradigan o resulten incompatibles con lo dispuesto en la presente ley.
 
-#### Disposición final primera. Desarrollo reglamentario.
+#### Disposición final primera. Desarrollo reglamentario.
 
 Se faculta al Gobierno de Canarias para dictar las disposiciones necesarias para el desarrollo y ejecución de la presente ley en el plazo máximo de nueve meses contado a partir de la fecha de su entrada en vigor.
 
-#### Disposición final segunda. Cooperación y colaboración entre instituciones.
+#### Disposición final segunda. Cooperación y colaboración entre instituciones.
 
 Se faculta al Gobierno de Canarias a disponer y firmar los convenios oportunos para el desarrollo de esta ley con aquellas administraciones e instituciones que resulten competentes.
 
-#### Disposición final tercera. Afectaciones presupuestarias.
+#### Disposición final tercera. Afectaciones presupuestarias.
 
 Las medidas contempladas en la presente ley que, en virtud de su desarrollo reglamentario, impliquen la realización de gastos serán presupuestadas con cargo a los presupuestos de la comunidad autónoma del ejercicio siguiente a la entrada en vigor de las disposiciones adoptadas para su aplicación.
 
-#### Disposición final cuarta. Creación del comité consultivo.
+#### Disposición final cuarta. Creación del comité consultivo.
 
-En el plazo máximo de un año desde la entrada en vigor de la presente ley, el Gobierno de Canarias, a través de disposición reglamentaria, creará el comité consultivo previsto por el artículo 8 de la misma y establecerá, en dicha disposición, su composición, funciones y normas de funcionamiento.
+En el plazo máximo de un año desde la entrada en vigor de la presente ley, el Gobierno de Canarias, a través de disposición reglamentaria, creará el comité consultivo previsto por el artículo 8 de la misma y establecerá, en dicha disposición, su composición, funciones y normas de funcionamiento.
 
 Dicho comité consultivo elaborará anualmente un informe sobre el grado de cumplimiento de la presente ley y el impacto social de la misma, que será remitido al Parlamento de Canarias.
 
-#### Disposición final quinta. Entrada en vigor.
+#### Disposición final quinta. Entrada en vigor.
 
 La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Canarias».
 
 Por tanto, ordeno a la ciudadanía y a las autoridades que la cumplan y la hagan cumplir.
 
-Canarias, 7 de junio de 2021.–El Presidente, Ángel Víctor Torres Pérez.
+Canarias, 7 de junio de 2021.–El Presidente, Ángel Víctor Torres Pérez.
 
-(Publicada en el «Boletín Oficial de Canarias» número 124, de 17 de junio de 2021)
-
----
+(Publicada en el «Boletín Oficial de Canarias» número 124, de 17 de junio de 2021)
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-4518**](./L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
 - **Fundamentado en**: [**BOE-A-2015-8222**](../01_marco_normativo_general_y_organico/LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -1376,6 +1348,7 @@ Canarias, 7 de junio de 2021.–El Presidente, Ángel Víctor Torres Pérez.
 - **Fundamento de**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 
 ### Fundamentos de Derecho
+
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)

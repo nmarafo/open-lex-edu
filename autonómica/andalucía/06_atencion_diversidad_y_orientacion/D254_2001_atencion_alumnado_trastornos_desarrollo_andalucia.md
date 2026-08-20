@@ -1,12 +1,10 @@
 ---
 id: norm-and-d-254-2001
 codigo_sintetizado: D254_2001 Atencion Alumnado Trastornos Desarrollo Andalucia
-titulo: Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa
-  al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
+titulo: Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Decreto
 numero_disposicion: 254/2001
 fecha_disposicion: '2001-11-20'
@@ -20,35 +18,28 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-- trastornos_desarrollo
-- nee
-- atencion_temprana
-- orientacion
-- andalucia
+  - trastornos_desarrollo
+  - nee
+  - atencion_temprana
+  - orientacion
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-1-1996
 ---
+# Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
 
 ## Preámbulo
 
-# Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
-
 RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002.
 
-name="Description"/>
-name="Keywords"/>
+name="Description"/> name="Keywords"/>
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <link type="application/atom+xml" rel="alternate" title="1. Disposiciones generales - BOJA" href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
 
@@ -86,17 +77,11 @@ Más temas
 
 Empleo público
 
-BOJA Histórico >
-2001
 Boletín 140
 
 ##
 
-Histórico del BOJA
-Boletín número
-140
-de
-04/12/2001
+Histórico del BOJA Boletín número 140 de 04/12/2001
 
 ## 1. Disposiciones generales
 
@@ -104,25 +89,18 @@ de
 
 ### RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002.
 
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
+Atención: La información contenida en estas páginas no tiene validez legal. Ver más
 
-Esta disposición incluye elementos no textuales, que no se
-muestran en esta página. Para visualizarlos, consulte la
-versión en
-<a title="Ir al final de la
+Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
-#descargas"> PDF.
 
 De conformidad con lo acordado por el Consejo Rector de la ESPA en la sesión del 13 de noviembre de 2001, en la que aprobó el Plan Anual de Formación que contempla los cursos y jornadas formativas que se impartirán durante el curso académico 2002 para los colectivos de Policía Local, Bomberos y Protección Civil de la Comunidad Autónoma, he resuelto:
 
-Primero. Publicidad.
+#### Primero. Publicidad.
 
 Para general conocimiento se inserta el mencionado Plan, recogido en el Anexo I de esta Resolución, el cual contempla acciones formativas concentradas (que se celebrarán en la ESPA), desconcentradas (de carácter comarcal y local), concertadas (de carácter comarcal y local) y a distancia (no presenciales); éstas últimas programadas en colaboración con el Instituto Andaluz de Administración Pública (IAAP)
 
-Segundo. Solicitudes.
+#### Segundo. Solicitudes.
 
 Los funcionarios de los Cuerpos de la Policía Local y los funcionarios y el personal laboral de los Cuerpos de Bomberos, así como los miembros de los Servicios/Agrupaciones Locales de Protección Civil que, reuniendo los requisitos exigidos, deseen asistir a los cursos o jornadas programadas, cumplimentarán una solicitud cuyos modelos oficiales, para cada colectivo, se detallan en los Anexos III, IV y V, siempre a través del Jefe del Cuerpo o del Servicio/Agrupación Local, mediante la hoja de remisión que aparece en el Anexo II (siendo válida una transcripción de ésta), quien recabará el visto bueno de la autoridad municipal o provincial correspondiente. Los peticionarios emplearán un ejemplar de solicitud para cada actividad formativa.
 
@@ -130,7 +108,7 @@ Se desestimarán las solicitudes siguientes: Las presentadas sin la hoja de remi
 
 Tercero. Plazo de presentación de solicitudes. Las solicitudes para cada actividad formativa habrán de presentarse antes de las fechas límites que aparecen en cada curso o jornadas del Anexo I. Se desestimarán las recibidas con posterioridad.
 
-Cuarto. Selección de asistentes.
+#### Cuarto. Selección de asistentes.
 
 Finalizado el período hábil de presentación de solicitudes, el Director de la ESPA procederá a seleccionar a los funcionarios, personal laboral o voluntarios que asistirán a cada actividad que, como norma general, serán un máximo de 30 alumnos. Dicha selección se realizará atendiendo a los siguientes criterios generales preferentes:
 
@@ -164,7 +142,7 @@ La admisión a una actividad formativa será provisional y condicionada a la jus
 
 Las solicitudes no admitidas se desestimarán una vez iniciado el curso; los peticionarios que continúen interesados en dicha actividad formativa habrán de presentar una nueva solicitud, pudiendo hacer constar la falta de selección de su petición en la edición anterior.
 
-Quinto. Renuncias.
+#### Quinto. Renuncias.
 
 Cuando una persona seleccionada para una actividad no pueda asistir, el Jefe del Cuerpo o Servicio/Agrupación Local deberá comunicarlo, con la mayor brevedad, a los telefax números
 
@@ -190,7 +168,7 @@ Fechas de realización: Del 6 de noviembre al 4 de diciembre de
 
 Fecha límite de solicitudes: 4 de octubre de 2002.
 
-Sexto. Régimen de asistencia.
+#### Sexto. Régimen de asistencia.
 
 El alumnado podrá optar por alojarse en la ESPA, sujetándose a lo que en este caso dispone el Reglamento de Régimen Interior, o bien, una vez finalizadas las actividades lectivas diarias, podrá pernoctar por su cuenta fuera del Centro. La opción habrá de reflejarla, necesariamente, en la solicitud y le vinculará durante toda la actividad formativa.
 
@@ -198,7 +176,9 @@ Los alumnos que inicien la actividad lectiva un lunes deberán comunicar, antes 
 
 comunicación la harán, como mínimo, dos días hábiles antes de su inicio (la incorporación podrá ser la misma mañana del inicio de la actividad o la noche anterior, llegando antes de las 24 horas). En el caso de omisión de tales comunicaciones, se entiende la declinación de la plaza concedida.
 
-El alumnado de cualquier colectivo de la Seguridad Pública local asistirá a las actividades lectivas con el uniforme reglamentario. El del curso de Ingreso y de aquellos que accedan a un Cuerpo de la Policía Local por una categoría diferente a la de Policía utilizarán el uniforme especificado en el artículo 8 del Decreto 199/1991, de 21 de octubre, de Uniformidad de las Policías Locales de Andalucía. Para
+El alumnado de cualquier colectivo de la Seguridad Pública local asistirá a las actividades lectivas con el uniforme reglamentario. El del curso de Ingreso y de aquellos que accedan a un Cuerpo de la Policía Local por una categoría diferente a la de Policía utilizarán el uniforme especificado en el artículo 8 l.
+
+Decreto 199/1991, de 21 de octubre, de Uniformidad de las Policías Locales de Andalucía. Para
 
 actividades especiales emplearán el vestuario y el equipo personal que, en cada caso, se requiera.
 
@@ -226,7 +206,7 @@ El alumnado, en ningún caso, estará en posesión de armamento dentro de las in
 
 Los gastos del curso y de residencia los asume la Consejería de Gobernación, excepto cuando el alumno opte por no utilizar los servicios de comedor o alojamiento facilitados por la ESPA.
 
-Séptimo. Actividades concertadas.
+#### Séptimo. Actividades concertadas.
 
 En la medida que no se produzca menoscabo de la programación propia, la Escuela podrá concertar la celebración de
 
@@ -278,7 +258,7 @@ o) Medios y recursos didácticos disponibles, audiovisuales y de otro tipo.
 
 En el caso de solicitar la concertación de actividades que la ESPA tenga en su catálogo formativo, y siempre que el proyecto se ajuste a la guía didáctica de la Escuela, tal proyecto estará exento de incluir los apartados f) a j).
 
-Octavo. Diplomas.
+#### Octavo. Diplomas.
 
 Los alumnos que resulten aptos en las evaluaciones de un curso recibirán un diploma acreditativo. Los no aptos obtendrán un certificado de asistencia, siempre que ésta no sea inferior al
 
@@ -290,11 +270,9 @@ Noveno. Se faculta al Director de la ESPA para clarificar cuantas dudas pudieran
 
 Sevilla, 14 de noviembre de 2001.- El Director General, Juan María Cornejo López.
 
-ANEXO I
+## Anexo I
 
 PLAN ANUAL DE FORMACION DE LA ESPA PARA EL EJERCICIO ACADEMICO
-
-2002
 
 1.1. Cursos para los Cuerpos de la Policía Local.
 
@@ -328,11 +306,11 @@ Los alumnos de Capacitación que ingresen en un Cuerpo de la Policía Local por 
 
 Aquellos solicitantes que hayan de asistir a la fase previa lo harán constar en el apartado de observaciones de su solicitud. Requisitos:
 
-a) Capacitación: Haber superado la fase de concurso de
+a) **Capacitación.** Haber superado la fase de concurso de
 
 méritos o concurso-oposición para acceder como funcionario de carrera a la categoría de Cabo y carecer de nombramiento definitivo en la nueva categoría.
 
-b) Actualización: Tener nombramiento como funcionario de carrera en la categoría de Cabo.
+b) **Actualización.** Tener nombramiento como funcionario de carrera en la categoría de Cabo.
 
 Cursos programados: Dos.
 
@@ -384,9 +362,9 @@ La segunda subfase la seguirán únicamente aquellos alumnos que no hayan realiz
 
 Requisitos:
 
-a) Capacitación: Haber superado la fase de concurso-oposición para acceder como funcionario de carrera a la categoría de Sargento y carecer de nombramiento definitivo en la nueva categoría.
+a) **Capacitación.** Haber superado la fase de concurso-oposición para acceder como funcionario de carrera a la categoría de Sargento y carecer de nombramiento definitivo en la nueva categoría.
 
-b) Actualización: Tener nombramiento como funcionario de carrera en la categoría de Sargento.
+b) **Actualización.** Tener nombramiento como funcionario de carrera en la categoría de Sargento.
 
 Cursos programados: Uno.
 
@@ -422,9 +400,9 @@ La segunda subfase la seguirán únicamente aquellos alumnos que no hayan realiz
 
 Requisitos:
 
-a) Capacitación: Haber superado la fase de concurso-oposición para acceder como funcionario de carrera a la categoría de Suboficial y carecer de nombramiento definitivo en la nueva categoría.
+a) **Capacitación.** Haber superado la fase de concurso-oposición para acceder como funcionario de carrera a la categoría de Suboficial y carecer de nombramiento definitivo en la nueva categoría.
 
-b) Actualización: Tener nombramiento como funcionario de carrera en la categoría de Suboficial.
+b) **Actualización.** Tener nombramiento como funcionario de carrera en la categoría de Suboficial.
 
 Cursos programados: Uno.
 
@@ -466,11 +444,11 @@ La segunda subfase la seguirán únicamente aquellos alumnos que no hayan realiz
 
 Requisitos:
 
-a) Capacitación: Haber superado la fase de concurso de
+a) **Capacitación.** Haber superado la fase de concurso de
 
 méritos o concurso-oposición para acceder como funcionario de carrera a cualquiera de las categorías de la Escala Técnica y carecer de nombramiento definitivo en la nueva categoría.
 
-b) Actualización: Tener nombramiento como funcionario de carrera en cualquiera de las categorías de la Escala Técnica. Cursos programados: Uno.
+b) **Actualización.** Tener nombramiento como funcionario de carrera en cualquiera de las categorías de la Escala Técnica. Cursos programados: Uno.
 
 Fechas de realización:
 
@@ -1089,19 +1067,11 @@ Cursos programados: Uno.
 Fechas de realización: Del 24 de abril al 23 de mayo de 2002. Fecha límite de solicitudes: 22 de marzo de 2002.
 
 <a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
+disposición" class=" item_pdf_disposicion" href="d1.pdf" target="_blank"> Descargar PDF
 
 Disposición siguiente
 
-BOJA nº
-140
-de
-04/12/2001
+140 de 04/12/2001
 
 2.1. Nombramientos, situaciones e incidencias
 
@@ -1111,15 +1081,11 @@ de
 
 4. Administración de justicia
 
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
 
 5.2. Otros anuncios
 
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2001/140/boletin.140.pdf">Descargar boletín nº
-140 completo
+<a target="_blank" title="Descargar el boletín completo en PDF" href="../../2001/140/boletin.140.pdf">Descargar boletín nº 140 completo
 
 PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -1140,3 +1106,4 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
+

@@ -1,13 +1,10 @@
 ---
 id: norm-es-2014-7684
 codigo_sintetizado: BOE-A-2014-7684
-titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados
-  aspectos de la gestión y control de los procesos por incapacidad temporal en los
-  primeros trescientos sesenta y cinco días de su duración.
+titulo: Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-07-21'
 boletin: BOE
@@ -18,34 +15,31 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Salud laboral y vigilancia
 tags:
-- personal-no-docente
-- prevencion-riesgos-laborales
-- proteccion-menores
-- salud-laboral-y-vigilancia
+  - personal-no-docente
+  - prevencion-riesgos-laborales
+  - proteccion-menores
+  - salud-laboral-y-vigilancia
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2015-6839
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rdl-5-2015
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2015-6839
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rdl-5-2015
   fundamento_de:
-  - norma_id: norm-es-2015-6839
-fundamentos_derecho:
-- norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-2015-6839
+  fundamentos_derecho:
+    - norma_id: norm-es-rd-276-2007
   articulos:
-  - '1'
-- norma_id: norm-es-rdl-5-2015
+    - '1'
+    - norma_id: norm-es-rdl-5-2015
   articulos:
-  - '1'
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-2015-6839
+    - '1'
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2015-6839
 ---
-
-## Preámbulo
-
 # Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
-# [Real Decreto 625/2014](RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
+## Preámbulo
 
 El Real Decreto 575/1997, de 18 de abril, por el que se regulan determinados aspectos de la gestión y control de la prestación económica de la Seguridad Social por incapacidad temporal, modificado por el Real Decreto 1117/1998, de 5 de junio, y desarrollado por la Orden de 19 de junio de 1997, pretendía asegurar la efectividad en el percibo de la prestación económica de la Seguridad Social y evitar la utilización indebida de la protección, incidiendo en los principales aspectos de la gestión de la prestación. Al mismo tiempo, dicho real decreto también regulaba la forma de expedición de los partes de baja y alta médicas, así como el establecimiento de determinados controles en la comprobación del mantenimiento del derecho a la prestación, con la finalidad de conseguir un mayor rigor en la constatación de la enfermedad y de su repercusión en la capacidad de trabajo del interesado.
 
@@ -127,13 +121,19 @@ Los partes médicos de incapacidad temporal se confeccionarán con arreglo a un 
 
 #### Artículo 3. Normas relativas a la determinación de la contingencia causante de la incapacidad temporal.
 
-1. El servicio público de salud, el Instituto Social de la Marina o las mutuas, que hayan emitido el parte de baja, podrán instar, motivadamente, ante el Instituto Nacional de la Seguridad Social la revisión de la consideración inicial de la contingencia, mediante el procedimiento regulado en el artículo 6 del Real Decreto 1430/2009, de 11 de septiembre, por el que se desarrolla reglamentariamente la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, en relación con la prestación de incapacidad temporal.
+1. El servicio público de salud, el Instituto Social de la Marina o las mutuas, que hayan emitido el parte de baja, podrán instar, motivadamente, ante el Instituto Nacional de la Seguridad Social la revisión de la consideración inicial de la contingencia, mediante el procedimiento regulado en el artículo 6 l.
+
+Real Decreto 1430/2009, de 11 de septiembre, por el que se desarrolla reglamentariamente la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, en relación con la prestación de incapacidad temporal.
 
 2. El facultativo de la mutua que asista al trabajador podrá inicialmente, previo reconocimiento médico preceptivo y la realización, en su caso, de las pruebas que correspondan, considerar que la patología causante es de carácter común y remitir al trabajador al servicio público de salud para su tratamiento, sin perjuicio de dispensarle la asistencia precisa en los casos de urgencia o de riesgo vital. A tal efecto entregará al trabajador un informe médico en el que describa la patología y señale su diagnóstico, el tratamiento dispensado y los motivos que justifican la determinación de la contingencia causante como común, al que acompañará los informes relativos a las pruebas que, en su caso, se hubieran realizado.
 
-Si, a la vista del informe de la mutua, el trabajador acude al servicio público de salud y el médico de este emite parte de baja por contingencia común, el beneficiario podrá formular reclamación con relación a la consideración otorgada a la contingencia ante el Instituto Nacional de la Seguridad Social, que se sustanciará y resolverá aplicando el procedimiento regulado en el artículo 6 del Real Decreto 1430/2009, de 11 de septiembre.
+Si, a la vista del informe de la mutua, el trabajador acude al servicio público de salud y el médico de este emite parte de baja por contingencia común, el beneficiario podrá formular reclamación con relación a la consideración otorgada a la contingencia ante el Instituto Nacional de la Seguridad Social, que se sustanciará y resolverá aplicando el procedimiento regulado en el artículo 6 l.
 
-Por su parte, el facultativo que emita el parte de baja podrá formular su discrepancia frente a la consideración de la contingencia que otorgó la mutua, en los términos establecidos en el artículo 6 mencionado en el párrafo anterior, sin perjuicio de que el parte médico produzca plenos efectos.
+Real Decreto 1430/2009, de 11 de septiembre.
+
+Por su parte, el facultativo que emita el parte de baja podrá formular su discrepancia frente a la consideración de la contingencia que otorgó la mutua, en los términos establecidos en el artículo 6 mencionado.
+
+en el párrafo anterior, sin perjuicio de que el parte médico produzca plenos efectos.
 
 La resolución que se dicte establecerá el carácter común o profesional de la contingencia causante y el sujeto obligado al pago de las prestaciones derivadas de la misma y a la prestación de asistencia sanitaria, en su caso.
 
@@ -237,7 +237,9 @@ Los datos tendrán carácter confidencial siendo de aplicación a quienes acceda
 
 Igual facultad corresponderá a las mutuas, respecto de los beneficiarios de la prestación económica por incapacidad temporal derivada de contingencias comunes incluidos en su ámbito de gestión, para que sean reconocidos por los médicos dependientes de las mismas.
 
-2. Los reconocimientos a que se refiere el apartado anterior se llevarán a cabo respetando, en todo caso, el derecho a la intimidad y a la dignidad de los trabajadores. En todo caso serán de aplicación las garantías establecidas en el artículo 8 en relación con el derecho fundamental a la protección de datos de carácter personal de los trabajadores y la confidencialidad de la información objeto de tratamiento. Asimismo, será de aplicación lo dispuesto para las historias clínicas en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+2. Los reconocimientos a que se refiere el apartado anterior se llevarán a cabo respetando, en todo caso, el derecho a la intimidad y a la dignidad de los trabajadores. En todo caso serán de aplicación las garantías establecidas en el artículo 8 en.
+
+relación con el derecho fundamental a la protección de datos de carácter personal de los trabajadores y la confidencialidad de la información objeto de tratamiento. Asimismo, será de aplicación lo dispuesto para las historias clínicas en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
 
 3. La citación a reconocimiento médico a que se refiere este artículo habrá de comunicarse al trabajador con una antelación mínima de cuatro días hábiles.
 
@@ -287,7 +289,7 @@ En el plazo máximo de tres meses siguientes a la entrada en vigor de este real 
 
 En el mismo plazo, se iniciarán las actuaciones para dar cumplimiento a lo establecido en el artículo 16.2 del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre, que faculta a los interesados para formular sus quejas a través de la sede electrónica de la Secretaría de Estado de la Seguridad Social.
 
-#### Disposición adicional cuarta. Instituto Nacional de Gestión Sanitaria
+#### Disposición adicional cuarta. Instituto Nacional de Gestión Sanitaria.
 
 Las referencias a los servicios públicos de salud que se contienen en este real decreto han de entenderse también realizadas al Instituto Nacional de Gestión Sanitaria, entidad gestora de la Seguridad Social a quien le corresponde la gestión de las prestaciones sanitarias en el ámbito de las ciudades de Ceuta y Melilla.
 
@@ -309,7 +311,9 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo
 
 #### Disposición final primera. Modificación del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre.
 
-El artículo 16 del Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre, queda modificado como sigue:
+El artículo 16 l.
+
+Reglamento sobre colaboración de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, aprobado por el Real Decreto 1993/1995, de 7 de diciembre, queda modificado como sigue:
 
 «Artículo 16. Documentación y libros de reclamaciones.
 
@@ -325,13 +329,17 @@ Igualmente los interesados podrán formular sus quejas a la Dirección General c
 
 El Real Decreto 295/2009, de 6 de marzo, por el que se regulan las prestaciones económicas del sistema de la Seguridad Social por maternidad, paternidad, riesgo durante el embarazo y riesgo durante la lactancia natural, queda modificado como sigue:
 
-Uno. Se añaden dos nuevos párrafos, tercero y cuarto, al apartado 8 del artículo 3 con la siguiente redacción:
+Uno. Se añaden dos nuevos párrafos, tercero y cuarto, al apartado 8 del artículo 3 con.
+
+la siguiente redacción:
 
 «A efectos de reconocer el derecho al subsidio, las cotizaciones correspondientes al mes del hecho causante y los dos meses previos a aquel, cuyo ingreso aún no conste en los sistemas de información de la Seguridad Social, se presumirán ingresadas. En estos supuestos, la entidad gestora efectuará posteriormente las comprobaciones necesarias para verificar el ingreso puntual y efectivo de dichas cotizaciones. De no ser así, se procederá a la suspensión inmediata de la prestación y al reintegro de las cantidades indebidamente percibidas.
 
 Lo previsto en el párrafo anterior será de aplicación siempre que el trabajador acredite el período mínimo de cotización exigible, sin computar el período de hasta tres meses referido en el mismo. En caso de no acreditarse el periodo mínimo de cotización exigible, deberá justificarse el ingreso de las cotizaciones correspondientes que aún no conste en los sistemas de información de la Seguridad Social.»
 
-Dos. El apartado 1 del artículo 13 queda redactado en los siguientes términos:
+Dos. El apartado 1 del artículo 13 queda.
+
+redactado en los siguientes términos:
 
 «1. El facultativo del servicio público de salud que atienda a la trabajadora embarazada expedirá un informe de maternidad en el que se certificarán, según los casos, los siguientes extremos:
 
@@ -343,11 +351,15 @@ En los demás supuestos, no se requerirá el informe de maternidad.»
 
 Tres. Se suprime el párrafo c) del apartado 2.1.º del artículo 14, pasando el actual párrafo d) a ser el párrafo c).
 
-Cuatro. Se añade un tercer párrafo al apartado 6 del artículo 23 con la siguiente redacción:
+Cuatro. Se añade un tercer párrafo al apartado 6 del artículo 23 con.
+
+la siguiente redacción:
 
 «A efectos de reconocer el derecho al subsidio, se aplicará lo dispuesto en los párrafos tercero y cuarto del artículo 3.8.»
 
-Cinco. Se añade un tercer párrafo al apartado 2 del artículo 41 con la siguiente redacción:
+Cinco. Se añade un tercer párrafo al apartado 2 del artículo 41 con.
+
+la siguiente redacción:
 
 «A efectos de reconocer el derecho al subsidio, se aplicará lo dispuesto en los párrafos tercero y cuarto del artículo 3.8.»
 
@@ -357,19 +369,25 @@ Seis. Se suprime el párrafo 3.º del artículo 30.2, pasando los actuales párr
 
 El Real Decreto 1430/2009, de 11 de septiembre, por el que se desarrolla reglamentariamente la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, en relación con la prestación de incapacidad temporal, queda modificado como sigue:
 
-Uno. Se da nueva redacción al apartado 2 del artículo 4 en los siguientes términos:
+Uno. Se da nueva redacción al apartado 2 del artículo 4 en.
+
+los siguientes términos:
 
 «2. El interesado podrá instar la revisión del alta médica emitida por la entidad colaboradora a la que se refiere el apartado anterior, en el plazo de los diez días hábiles siguientes al de su notificación, mediante solicitud presentada a tal efecto ante la entidad gestora competente, en la que manifestará los motivos de su disconformidad con dicha alta médica. A la indicada solicitud, que estará disponible en la página web de las correspondientes entidades gestoras, y con el fin de que la entidad gestora conozca los antecedentes médico-clínicos existentes con anterioridad, se acompañará necesariamente el historial médico previo relacionado con el proceso de incapacidad temporal de que se trate o, en su caso, copia de la solicitud de dicho historial a la entidad colaboradora.
 
 El interesado que inicie el procedimiento de revisión, lo comunicará a la empresa en el mismo día en que presente su solicitud o en el siguiente día hábil.»
 
-Dos. Se da nueva redacción al apartado 4 del artículo 4 en los siguientes términos:
+Dos. Se da nueva redacción al apartado 4 del artículo 4 en.
+
+los siguientes términos:
 
 «4. El Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, en su caso, comunicará a la mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social competente el inicio del procedimiento especial de revisión para que, en el plazo improrrogable de cuatro días hábiles, aporte los antecedentes relacionados con el proceso de incapacidad temporal de que se trate e informe sobre las causas que motivaron la emisión del alta médica. En el caso de que no se presentara la citada documentación, se dictará la resolución que proceda, teniendo en cuenta la información facilitada por el interesado.
 
 La mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social correspondiente podrá pronunciarse reconociendo la improcedencia del alta emitida, lo que motivará, sin más trámite, el archivo inmediato del procedimiento iniciado por el interesado ante la entidad gestora.»
 
-Tres. Se da nueva redacción al segundo párrafo del apartado 5 del artículo 4 en los siguientes términos:
+Tres. Se da nueva redacción al segundo párrafo del apartado 5 del artículo 4 en.
+
+los siguientes términos:
 
 «A su vez, cuando el interesado solicite una baja médica derivada de contingencia común y se conociera la existencia de un proceso previo de incapacidad temporal derivada de contingencia profesional en el que se hubiera emitido un alta médica, el servicio público de salud deberá informar al interesado sobre la posibilidad de iniciar, en el plazo de los diez días hábiles siguientes al de notificación del alta médica emitida por la entidad colaboradora, este procedimiento especial de revisión y, además, con carácter inmediato comunicará a la entidad gestora competente la existencia de dos procesos distintos de incapacidad temporal que pudieran estar relacionados.»
 
@@ -425,7 +443,9 @@ El director provincial de la entidad gestora, a propuesta de los órganos compet
 
 #### Disposición final cuarta. Modificación del Real Decreto 1630/2011, de 14 de noviembre, por el que se regula la prestación de servicios sanitarios y recuperadores por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
 
-El artículo 10 del Real Decreto 1630/2011, de 14 de noviembre, por el que se regula la prestación de servicios sanitarios y recuperadores por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, queda redactado como sigue:
+El artículo 10 l.
+
+Real Decreto 1630/2011, de 14 de noviembre, por el que se regula la prestación de servicios sanitarios y recuperadores por las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social, queda redactado como sigue:
 
 «Artículo 10. Aprobación de los instrumentos de colaboración con las administraciones públicas sanitarias y con las entidades gestoras de la Seguridad Social.
 
@@ -453,11 +473,10 @@ La Ministra de Empleo y Seguridad Social,
 
 FÁTIMA BÁÑEZ GARCÍA
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
 - **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
@@ -465,6 +484,7 @@ FÁTIMA BÁÑEZ GARCÍA
 - **Fundamento de**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
 
 ### Fundamentos de Derecho
+
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)

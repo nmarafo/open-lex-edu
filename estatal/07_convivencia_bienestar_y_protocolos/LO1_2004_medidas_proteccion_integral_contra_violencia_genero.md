@@ -1,8 +1,7 @@
 ---
 id: norm-es-lo-1-2004
 codigo_sintetizado: LO1_2004 Proteccion Integral contra la Violencia de Genero
-titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral
-  contra la Violencia de Género.
+titulo: Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,49 +18,46 @@ clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: Protocolos de actuación y protección
 tags:
-- convivencia-escolar
-- igualdad
-- igualdad-genero
-- personal-no-docente
-- proteccion-menores
-- proteccion-victimas
-- protocolos-de-actuaci-n-y-protecci-n
-- violencia-genero
+  - convivencia-escolar
+  - igualdad
+  - igualdad-genero
+  - personal-no-docente
+  - proteccion-menores
+  - proteccion-victimas
+  - protocolos-de-actuaci-n-y-protecci-n
+  - violencia-genero
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1995-25444
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-1995-25444
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2012-9364
-  - norma_id: norm-es-2015-8222
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-2022-11589
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-lo-10-2022
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2012-9364
+    - norma_id: norm-es-2015-8222
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-2022-11589
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-lo-10-2022
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-can-o-2023-09-28
   desarrollado_por:
-  - norma_id: norm-can-l-16-2003
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-can-l-16-2003
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '14'
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-1995-25444
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-lo-8-1985
+    - '14'
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-1995-25444
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-lo-8-1985
 ---
-
-## Preámbulo
-
 # Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
 
-# Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
+## Preámbulo
 
 **JUAN CARLOS I**
 
@@ -71,7 +67,7 @@ A todos los que la presente vieren y entendieren.
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
 
-## EXPOSICIÓN DE MOTIVOS
+## Exposición de motivos
 
 **I**
 
@@ -145,7 +141,9 @@ La normativa actual, civil, penal, publicitaria, social y administrativa present
 
 En cuanto a las medidas jurídicas asumidas para garantizar un tratamiento adecuado y eficaz de la situación jurídica, familiar y social de las víctimas de violencia sobre la mujer en las relaciones intrafamiliares, se han adoptado las siguientes: conforme a la tradición jurídica española, se ha optado por una fórmula de especialización dentro del orden penal, de los Jueces de Instrucción, creando los Juzgados de Violencia sobre la Mujer y excluyendo la posibilidad de creación de un orden jurisdiccional nuevo o la asunción de competencias penales por parte de los Jueces Civiles. Estos Juzgados conocerán de la instrucción, y, en su caso, del fallo de las causas penales en materia de violencia sobre la mujer, así como de aquellas causas civiles relacionadas, de forma que unas y otras en la primera instancia sean objeto de tratamiento procesal ante la misma sede. Con ello se asegura la mediación garantista del debido proceso penal en la intervención de los derechos fundamentales del presunto agresor, sin que con ello se reduzcan lo más mínimo las posibilidades legales que esta Ley dispone para la mayor, más inmediata y eficaz protección de la víctima, así como los recursos para evitar reiteraciones en la agresión o la escalada en la violencia.
 
-Respecto de la regulación expresa de las medidas de protección que podrá adoptar el Juez de violencia de género, se ha optado por su inclusión expresa, ya que no están recogidas como medidas cautelares en la Ley de Enjuiciamiento Criminal, que sólo regula la prohibición de residencia y la de acudir a determinado lugar para los delitos recogidos en el artículo 57 del Código Penal (artículo 544 bis LECrim, introducido por la LO 14/1999). Además se opta por la delimitación temporal de estas medidas (cuando son medidas cautelares) hasta la finalización del proceso. Sin embargo, se añade la posibilidad de que cualquiera de estas medidas de protección pueda ser utilizada como medida de seguridad, desde el principio o durante la ejecución de la sentencia, incrementando con ello la lista del artículo 105 del Código Penal (introducido por la LO 11/1999), y posibilitando al Juez la garantía de protección de las víctimas más allá de la finalización del proceso.
+Respecto de la regulación expresa de las medidas de protección que podrá adoptar el Juez de violencia de género, se ha optado por su inclusión expresa, ya que no están recogidas como medidas cautelares en la Ley de Enjuiciamiento Criminal, que sólo regula la prohibición de residencia y la de acudir a determinado lugar para los delitos recogidos en el artículo 57 l.
+
+Código Penal (artículo 544 bis LECrim, introducido por la LO 14/1999). Además se opta por la delimitación temporal de estas medidas (cuando son medidas cautelares) hasta la finalización del proceso. Sin embargo, se añade la posibilidad de que cualquiera de estas medidas de protección pueda ser utilizada como medida de seguridad, desde el principio o durante la ejecución de la sentencia, incrementando con ello la lista del artículo 105 del Código Penal (introducido por la LO 11/1999), y posibilitando al Juez la garantía de protección de las víctimas más allá de la finalización del proceso.
 
 Se contemplan normas que afectan a las funciones del Ministerio Fiscal, mediante la creación del Fiscal contra la Violencia sobre la Mujer, encargado de la supervisión y coordinación del Ministerio Fiscal en este aspecto, así como mediante la creación de una Sección equivalente en cada Fiscalía de los Tribunales Superiores de Justicia y de las Audiencias Provinciales a las que se adscribirán Fiscales con especialización en la materia. Los Fiscales intervendrán en los procedimientos penales por los hechos constitutivos de delitos o faltas cuya competencia esté atribuida a los Juzgados de Violencia de Género, además de intervenir en los procesos civiles de nulidad, separación o divorcio, o que versen sobre guarda y custodia de los hijos menores en los que se aleguen malos tratos al cónyuge o a los hijos.
 
@@ -155,7 +153,7 @@ En materia de régimen transitorio se extiende la aplicación de la presente Ley
 
 Por último, la presente Ley incluye en sus disposiciones finales las habilitaciones necesarias para el desarrollo normativo de sus preceptos.
 
-TÍTULO PRELIMINAR
+## Título Preliminar
 
 #### Artículo 1. Objeto de la Ley.
 
@@ -191,7 +189,7 @@ j) Fomentar la especialización de los colectivos profesionales que intervienen 
 
 k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
 
-## TÍTULO I
+## Título I
 
 **Medidas de sensibilización, prevención y detección**
 
@@ -211,9 +209,7 @@ Controlado por una Comisión de amplia participación, que se creará en un plaz
 
 3. Las campañas de información y sensibilización contra esta forma de violencia se realizarán de manera que se garantice el acceso a las mismas de las personas con discapacidad.
 
-CAPÍTULO I
-
-En el ámbito educativo
+## Capítulo I. En el ámbito educativo.
 
 #### Artículo 4. Principios y valores del sistema educativo.
 
@@ -261,9 +257,7 @@ Se adoptarán las medidas precisas para asegurar que los Consejos Escolares impu
 
 Los servicios de inspección educativa velarán por el cumplimiento y aplicación de los principios y valores recogidos en este capítulo en el sistema educativo destinados a fomentar la igualdad real entre mujeres y hombres.
 
-CAPÍTULO II
-
-En el ámbito de la publicidad y de los medios de comunicación
+## Capítulo II. En el ámbito de la publicidad y de los medios de comunicación.
 
 #### Artículo 10. Publicidad ilícita.
 
@@ -289,9 +283,7 @@ Los medios de comunicación fomentarán la protección y salvaguarda de la igual
 
 La difusión de informaciones relativas a la violencia sobre la mujer garantizará, con la correspondiente objetividad informativa, la defensa de los derechos humanos, la libertad y dignidad de las mujeres víctimas de violencia y de sus hijos. En particular, se tendrá especial cuidado en el tratamiento gráfico de las informaciones.
 
-CAPÍTULO III
-
-En el ámbito sanitario
+## Capítulo III. En el ámbito sanitario.
 
 #### Artículo 15. Sensibilización y formación.
 
@@ -311,13 +303,11 @@ La Comisión contra la Violencia de Género del Consejo Interterritorial del Sis
 
 La Comisión emitirá un informe anual que será remitido al Observatorio Estatal de la Violencia sobre la Mujer y al Pleno del Consejo Interterritorial.
 
-## TÍTULO II
+## Título II
 
 Derechos de las mujeres víctimas de violencia de género
 
-CAPÍTULO I
-
-Derecho a la información, a la asistencia social integral y a la asistencia jurídica gratuita
+## Capítulo I. Derecho a la información, a la asistencia social integral y a la asistencia jurídica gratuita.
 
 #### Artículo 17. Garantía de los derechos de las víctimas.
 
@@ -375,9 +365,7 @@ g) Apoyo a la formación e inserción laboral.
 
 4. Igualmente, los Colegios de Abogados adoptarán las medidas necesarias para la designación urgente de letrado de oficio en los procedimientos que se sigan por violencia de género.
 
-CAPÍTULO II
-
-Derechos laborales y prestaciones de la Seguridad Social
+## Capítulo II. Derechos laborales y prestaciones de la Seguridad Social.
 
 #### Artículo 21. Derechos laborales y de Seguridad Social.
 
@@ -403,9 +391,7 @@ Este programa incluirá medidas para favorecer el inicio de una nueva actividad 
 
 Las situaciones de violencia que dan lugar al reconocimiento de los derechos regulados en este capítulo se acreditarán con la orden de protección a favor de la víctima. Excepcionalmente, será título de acreditación de esta situación, el informe del Ministerio Fiscal que indique la existencia de indicios de que la demandante es víctima de violencia de género hasta tanto se dicte la orden de protección.
 
-CAPÍTULO III
-
-Derechos de las funcionarias públicas
+## Capítulo III. Derechos de las funcionarias públicas.
 
 #### Artículo 24. Ámbito de los derechos.
 
@@ -419,9 +405,7 @@ Las ausencias totales o parciales al trabajo motivadas por la situación física
 
 La acreditación de las circunstancias que dan lugar al reconocimiento de los derechos de movilidad geográfica de centro de trabajo, excedencia, y reducción o reordenación del tiempo de trabajo, se realizará en los términos establecidos en el artículo 23.
 
-CAPÍTULO IV
-
-Derechos económicos
+## Capítulo IV. Derechos económicos.
 
 #### Artículo 27. Ayudas sociales.
 
@@ -441,7 +425,7 @@ La concurrencia de las circunstancias de violencia se acreditará de conformidad
 
 Las mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y residencias públicas para mayores, en los términos que determine la legislación aplicable.
 
-## TÍTULO III
+## Título III
 
 **Tutela Institucional**
 
@@ -485,31 +469,41 @@ Los protocolos, además de referirse a los procedimientos a seguir, harán refer
 
 4. En las actuaciones previstas en este artículo se considerará de forma especial la situación de las mujeres que, por sus circunstancias personales y sociales puedan tener mayor riesgo de sufrir la violencia de género o mayores dificultades para acceder a los servicios previstos en esta Ley, tales como las pertenecientes a minorías, las inmigrantes, las que se encuentran en situación de exclusión social o las mujeres con discapacidad.
 
-## TÍTULO IV
+## Título IV
 
 **Tutela Penal**
 
 #### Artículo 33. Suspensión de penas.
 
-El párrafo segundo del apartado 1, 6.ª, del artículo 83 del Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
+El párrafo segundo del apartado 1, 6.ª, del artículo 83 l.
+
+Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
 
 «Si se tratase de delitos relacionados con la violencia de género, el Juez o Tribunal condicionará en todo caso la suspensión al cumplimiento de las obligaciones o deberes previstos en las reglas 1.ª, 2.ª y 5.ª de este apartado.»
 
 #### Artículo 34. Comisión de delitos durante el período de suspensión de la pena.
 
-El apartado 3 del artículo 84 del Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
+El apartado 3 del artículo 84 l.
 
-«3. En el supuesto de que la pena suspendida fuera de prisión por la comisión de delitos relacionados con la violencia de género, el incumplimiento por parte del reo de las obligaciones o deberes previstos en las reglas 1.ª, 2.ª y 5.ª del apartado 1 del artículo 83 determinará la revocación de la suspensión de la ejecución de la pena.»
+Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
+
+«3. En el supuesto de que la pena suspendida fuera de prisión por la comisión de delitos relacionados con la violencia de género, el incumplimiento por parte del reo de las obligaciones o deberes previstos en las reglas 1.ª, 2.ª y 5.ª del apartado 1 del artículo 83 terminará.
+
+la revocación de la suspensión de la ejecución de la pena.»
 
 #### Artículo 35. Sustitución de penas.
 
-El párrafo tercero del apartado 1 del artículo 88 del Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
+El párrafo tercero del apartado 1 del artículo 88 l.
+
+Código Penal, en la redacción dada por la Ley Orgánica 15/2003, queda redactado de la forma siguiente:
 
 «En el caso de que el reo hubiera sido condenado por un delito relacionado con la violencia de género, la pena de prisión sólo podrá ser sustituida por la de trabajos en beneficio de la comunidad. En estos supuestos, el Juez o Tribunal impondrá adicionalmente, además de la sujeción a programas específicos de reeducación y tratamiento psicológico, la observancia de las obligaciones o deberes previstos en las reglas 1.ª y 2.ª, del apartado 1 del artículo 83 de este Código.»
 
 #### Artículo 36. Protección contra las lesiones.
 
-Se modifica el artículo 148 del Código Penal que queda redactado de la siguiente forma:
+Se modifica el artículo 148 l.
+
+Código Penal que queda redactado de la siguiente forma:
 
 «Las lesiones previstas en el apartado 1 del artículo anterior podrán ser castigadas con la pena de prisión de dos a cinco años, atendiendo al resultado causado o riesgo producido:
 
@@ -525,7 +519,9 @@ Se modifica el artículo 148 del Código Penal que queda redactado de la siguien
 
 #### Artículo 37. Protección contra los malos tratos.
 
-El artículo 153 del Código Penal, queda redactado como sigue:
+El artículo 153 l.
+
+Código Penal, queda redactado como sigue:
 
 «1. El que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión no definidos como delito en este Código, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o persona especialmente vulnerable que conviva con el autor, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficios de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación para el ejercicio de patria potestad, tutela, curatela, guarda o acogimiento hasta cinco años.
 
@@ -537,7 +533,9 @@ El artículo 153 del Código Penal, queda redactado como sigue:
 
 #### Artículo 38. Protección contra las amenazas.
 
-Se añaden tres apartados, numerados como 4, 5 y 6, al artículo 171 del Código Penal, que tendrán la siguiente redacción:
+Se añaden tres apartados, numerados como 4, 5 y 6, al artículo 171 l.
+
+Código Penal, que tendrán la siguiente redacción:
 
 «4. El que de modo leve amenace a quien sea o haya sido su esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficio de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento hasta cinco años.
 
@@ -551,7 +549,9 @@ Se impondrán las penas previstas en los apartados 4 y 5, en su mitad superior c
 
 #### Artículo 39. Protección contra las coacciones.
 
-El contenido actual del artículo 172 del Código Penal queda numerado como apartado 1 y se añade un apartado 2 a dicho artículo con la siguiente redacción:
+El contenido actual del artículo 172 l.
+
+Código Penal queda numerado como apartado 1 y se añade un apartado 2 a dicho artículo con la siguiente redacción:
 
 «2. El que de modo leve coaccione a quien sea o haya sido su esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad, aun sin convivencia, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficio de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación especial para el ejercicio de la patria potestad, tutela, curatela, guarda o acogimiento hasta cinco años.
 
@@ -563,7 +563,9 @@ No obstante lo previsto en los párrafos anteriores, el Juez o Tribunal, razoná
 
 #### Artículo 40. Quebrantamiento de condena.
 
-Se modifica el artículo 468 del Código Penal que queda redactado de la siguiente forma:
+Se modifica el artículo 468 l.
+
+Código Penal que queda redactado de la siguiente forma:
 
 «1. Los que quebrantaren su condena, medida de seguridad, prisión, medida cautelar, conducción o custodia serán castigados con la pena de prisión de seis meses a un año si estuvieran privados de libertad, y con la pena de multa de doce a veinticuatro meses en los demás casos.
 
@@ -571,7 +573,9 @@ Se modifica el artículo 468 del Código Penal que queda redactado de la siguien
 
 #### Artículo 41. Protección contra las vejaciones leves.
 
-El artículo 620 del Código Penal queda redactado como sigue:
+El artículo 620 l.
+
+Código Penal queda redactado como sigue:
 
 «Serán castigados con la pena de multa de diez a veinte días:
 
@@ -589,13 +593,11 @@ En los supuestos del número 2.º de este artículo, cuando el ofendido fuere al
 
 2. Las Juntas de Tratamiento valorarán, en las progresiones de grado, concesión de permisos y concesión de la libertad condicional, el seguimiento y aprovechamiento de dichos programas específicos por parte de los internos a que se refiere el apartado anterior.
 
-## TÍTULO V
+## Título V
 
 **Tutela Judicial**
 
-CAPÍTULO I
-
-De los Juzgados de Violencia sobre la Mujer
+## Capítulo I. De los Juzgados de Violencia sobre la Mujer.
 
 #### Artículo 43. Organización territorial.
 
@@ -611,7 +613,11 @@ Se adiciona un artículo 87 bis en la Ley Orgánica 6/1985, de 1 de julio, del P
 
 #### Artículo 44. Competencia.
 
-Se adiciona un artículo 87 ter en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, con la siguiente redacción:
+Se adiciona un
+
+#### Artículo 87 ter. en.
+
+la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, con la siguiente redacción:
 
 «1. Los Juzgados de Violencia sobre la Mujer conocerán, en el orden penal, de conformidad en todo caso con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Criminal, de los siguientes supuestos:
 
@@ -685,7 +691,11 @@ Se modifica el artículo 9 de la Ley 38/1988, de 28 de diciembre, de Demarcació
 
 #### Artículo 50. Planta de los Juzgados de Violencia sobre la Mujer.
 
-Se adiciona un artículo 15 bis en la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, con la siguiente redacción:
+Se adiciona un
+
+#### Artículo 15 bis. en.
+
+la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, con la siguiente redacción:
 
 «1. La planta inicial de los Juzgados de Violencia sobre la Mujer será la establecida en el anexo XIII de esta Ley.
 
@@ -707,7 +717,11 @@ El apartado 2 del artículo 21 de la Ley 38/1988, de 28 de diciembre, de Demarca
 
 #### Artículo 52. Constitución de los Juzgados.
 
-Se incluye un nuevo artículo 46 ter en la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, con la siguiente redacción:
+Se incluye un nuevo
+
+#### Artículo 46 ter. en.
+
+la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, con la siguiente redacción:
 
 «1. El Gobierno, dentro del marco de la Ley de Presupuestos Generales del Estado, oído el Consejo General del Poder Judicial y, en su caso, la Comunidad Autónoma afectada, procederá de forma escalonada y mediante Real Decreto a la constitución, compatibilización y transformación de Juzgados de Instrucción y de Primera Instancia e Instrucción para la plena efectividad de la planta de los Juzgados de Violencia sobre la Mujer.
 
@@ -721,7 +735,11 @@ Se adiciona un nuevo párrafo en el artículo 160 de la Ley de Enjuiciamiento Cr
 
 #### Artículo 54. Especialidades en el supuesto de juicios rápidos.
 
-Se adiciona un nuevo artículo 779 bis en la Ley de Enjuiciamiento Criminal con el contenido siguiente:
+Se adiciona un nuevo
+
+#### Artículo 779 bis. en.
+
+la Ley de Enjuiciamiento Criminal con el contenido siguiente:
 
 «1. En el supuesto de que la competencia corresponda al Juzgado de Violencia sobre la Mujer, las diligencias y resoluciones señaladas en los artículos anteriores deberán ser practicadas y adoptadas durante las horas de audiencia.
 
@@ -745,9 +763,7 @@ Se adiciona un nuevo apartado 5 al artículo 962 de la Ley de Enjuiciamiento Cri
 
 A estos efectos el Consejo General del Poder Judicial, de acuerdo con lo establecido en el artículo 110 de la Ley Orgánica del Poder Judicial, dictará los Reglamentos oportunos para asegurar esta coordinación.»
 
-CAPÍTULO II
-
-Normas procesales civiles
+## Capítulo II. Normas procesales civiles.
 
 #### Artículo 57. Pérdida de la competencia objetiva cuando se produzcan actos de violencia sobre la mujer.
 
@@ -769,9 +785,7 @@ En estos supuestos no serán de aplicación las restantes normas de esta secció
 
 5. Los Juzgados de Violencia sobre la Mujer ejercerán sus competencias en materia civil de forma exclusiva y excluyente, y en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil.»
 
-CAPÍTULO III
-
-Normas procesales penales
+## Capítulo III. Normas procesales penales.
 
 #### Artículo 58. Competencias en el orden penal.
 
@@ -803,19 +817,25 @@ d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del 
 
 #### Artículo 59. Competencia territorial.
 
-Se adiciona un nuevo artículo 15 bis en la Ley de Enjuiciamiento Criminal, cuya redacción es la siguiente:
+Se adiciona un nuevo
+
+#### Artículo 15 bis. en.
+
+la Ley de Enjuiciamiento Criminal, cuya redacción es la siguiente:
 
 «En el caso de que se trate de algunos de los delitos o faltas cuya instrucción o conocimiento corresponda al Juez de Violencia sobre la Mujer, la competencia territorial vendrá determinada por el lugar del domicilio de la víctima, sin perjuicio de la adopción de la orden de protección, o de medidas urgentes del artículo 13 de la presente Ley que pudiera adoptar el Juez del lugar de comisión de los hechos.»
 
 #### Artículo 60. Competencia por conexión.
 
-Se adiciona un nuevo artículo 17 bis en la Ley de Enjuiciamiento Criminal, cuya redacción es la siguiente:
+Se adiciona un nuevo
+
+#### Artículo 17 bis. en.
+
+la Ley de Enjuiciamiento Criminal, cuya redacción es la siguiente:
 
 «La competencia de los Juzgados de Violencia sobre la Mujer se extenderá a la instrucción y conocimiento de los delitos y faltas conexas siempre que la conexión tenga su origen en alguno de los supuestos previstos en los números 3.º y 4.º del artículo 17 de la presente Ley.»
 
-CAPÍTULO IV
-
-Medidas judiciales de protección y de seguridad de las víctimas
+## Capítulo IV. Medidas judiciales de protección y de seguridad de las víctimas.
 
 #### Artículo 61. Disposiciones generales.
 
@@ -823,17 +843,17 @@ Medidas judiciales de protección y de seguridad de las víctimas
 
 2. En todos los procedimientos relacionados con la violencia de género, el Juez competente, de oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas o se hallen sujetas a su guarda o custodia, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención a las víctimas o su acogida, deberá pronunciarse en todo caso sobre la pertinencia de la adopción de las medidas cautelares y de aseguramiento contempladas en este capítulo, determinando su plazo, si procediera su adopción.
 
-#### Artículo 62. De la orden de protección.
+artículo 62 De la orden de protección.
 
 Recibida la solicitud de adopción de una orden de protección, el Juez de Violencia sobre la Mujer y, en su caso, el Juez de Guardia, actuarán de conformidad con lo dispuesto en el artículo 544 ter de la Ley de Enjuiciamiento Criminal.
 
-#### Artículo 63. De la protección de datos y las limitaciones a la publicidad.
+artículo 63 De la protección de datos y las limitaciones a la publicidad.
 
 1. En las actuaciones y procedimientos relacionados con la violencia de género se protegerá la intimidad de las víctimas; en especial, sus datos personales, los de sus descendientes y los de cualquier otra persona que esté bajo su guarda o custodia.
 
 2. Los Jueces competentes podrán acordar, de oficio o a instancia de parte, que las vistas se desarrollen a puerta cerrada y que las actuaciones sean reservadas.
 
-#### Artículo 64. De las medidas de salida del domicilio, alejamiento o suspensión de las comunicaciones.
+artículo 64 De las medidas de salida del domicilio, alejamiento o suspensión de las comunicaciones.
 
 1. El Juez podrá ordenar la salida obligatoria del inculpado por violencia de género del domicilio en el que hubiera estado conviviendo o tenga su residencia la unidad familiar, así como la prohibición de volver al mismo.
 
@@ -851,15 +871,15 @@ El Juez fijará una distancia mínima entre el inculpado y la persona protegida 
 
 6. Las medidas a que se refieren los apartados anteriores podrán acordarse acumulada o separadamente.
 
-#### Artículo 65. De las medidas de suspensión de la patria potestad o la custodia de menores.
+artículo 65 De las medidas de suspensión de la patria potestad o la custodia de menores.
 
 El Juez podrá suspender para el inculpado por violencia de género el ejercicio de la patria potestad o de la guarda y custodia, respecto de los menores a que se refiera.
 
-#### Artículo 66. De la medida de suspensión del régimen de visitas.
+artículo 66 De la medida de suspensión del régimen de visitas.
 
 El Juez podrá ordenar la suspensión de visitas del inculpado por violencia de género a sus descendientes.
 
-#### Artículo 67. De la medida de suspensión del derecho a la tenencia, porte y uso de armas.
+artículo 67 De la medida de suspensión del derecho a la tenencia, porte y uso de armas.
 
 El Juez podrá acordar, respecto de los inculpados en delitos relacionados con la violencia a que se refiere esta Ley, la suspensión del derecho a la tenencia, porte y uso de armas, con la obligación de depositarlas en los términos establecidos por la normativa vigente.
 
@@ -871,9 +891,7 @@ Las medidas restrictivas de derechos contenidas en este capítulo deberán adopt
 
 Las medidas de este capítulo podrán mantenerse tras la sentencia definitiva y durante la tramitación de los eventuales recursos que correspondiesen. En este caso, deberá hacerse constar en la sentencia el mantenimiento de tales medidas.
 
-CAPÍTULO V
-
-Del Fiscal contra la Violencia sobre la Mujer
+## Capítulo V. Del Fiscal contra la Violencia sobre la Mujer.
 
 #### Artículo 70. Funciones del Fiscal contra la Violencia sobre la Mujer.
 
@@ -881,7 +899,9 @@ Se añade un artículo 18 quáter en la Ley 50/1981, de 30 de diciembre, regulad
 
 «1. El Fiscal General del Estado nombrará, oído el Consejo Fiscal, como delegado, un Fiscal contra la Violencia sobre la Mujer, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
 
-a) Practicar las diligencias a que se refiere el artículo 5 del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
+a) Practicar las diligencias a que se refiere el artículo 5 l.
+
+Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
 
 b) Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
 
@@ -1123,7 +1143,9 @@ Dos. Se modifica la letra e) del apartado 1.1, así como el apartado 1.2 del art
 
 «1.1.e) Por resolución voluntaria por parte del trabajador, en los supuestos previstos en los artículos 40, 41.3, 49.1.m) y 50 del Estatuto de los Trabajadores.
 
-1.2 Cuando se suspenda su relación laboral en virtud de expediente de regulación de empleo, o de resolución judicial adoptada en el seno de un procedimiento concursal, o en el supuesto contemplado en la letra n), del apartado 1 del artículo 45 del Estatuto de los Trabajadores.»
+1.2 Cuando se suspenda su relación laboral en virtud de expediente de regulación de empleo, o de resolución judicial adoptada en el seno de un procedimiento concursal, o en el supuesto contemplado en la letra n), del apartado 1 del artículo 45 l.
+
+Estatuto de los Trabajadores.»
 
 Tres. Se modifica el apartado 2 del artículo 210 de la Ley General de la Seguridad Social, texto refundido aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, con el siguiente contenido:
 
@@ -1241,23 +1263,23 @@ Sin perjuicio de la responsabilidad financiera de las Comunidades Autónomas, co
 
 Mediante convenios con las Administraciones competentes, el Gobierno podrá promover procesos específicos de adjudicación de viviendas protegidas a las víctimas de violencia de género.
 
-#### Disposición adicional decimosexta. Coordinación de los Servicios Públicos de Empleo.
+Disposición adicional decimosexta.... Coordinación de los Servicios Públicos de Empleo.
 
 En el desarrollo de la Ley 56/2003, de 16 de diciembre, de Empleo, se tendrá en cuenta la necesaria coordinación de los Servicios Públicos de Empleo, para facilitar el acceso al mercado de trabajo de las víctimas de violencia de género cuando, debido al ejercicio del derecho de movilidad geográfica, se vean obligadas a trasladar su domicilio y el mismo implique cambio de Comunidad Autónoma.
 
-#### Disposición adicional decimoséptima. Escolarización.
+Disposición adicional decimoséptima.... Escolarización.
 
 Las Administraciones educativas adoptarán las medidas necesarias para garantizar la escolarización inmediata de los hijos en el supuesto de cambio de residencia motivados por violencia sobre la mujer.
 
-#### Disposición adicional decimoctava. Planta de los Juzgados de Violencia sobre la Mujer.
+Disposición adicional decimoctava.... Planta de los Juzgados de Violencia sobre la Mujer.
 
 Se añade un anexo XIII a la Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, cuyo texto se incluye como anexo a la presente Ley Orgánica.
 
-#### Disposición adicional decimonovena. Fondo de garantía de pensiones.
+Disposición adicional decimonovena.... Fondo de garantía de pensiones.
 
 El Estado garantizará el pago de alimentos reconocidos e impagados a favor de los hijos e hijas menores de edad en convenio judicialmente aprobado o en resolución judicial, a través de una legislación específica que concretará el sistema de cobertura en dichos supuestos y que, en todo caso, tendrá en cuenta las circunstancias de las víctimas de violencia de género.
 
-#### Disposición adicional vigésima. Cambio de apellidos.
+Disposición adicional vigésima.... Cambio de apellidos.
 
 El artículo 58 de la Ley del Registro Civil, de 8 de junio de 1957, queda redactado de la siguiente forma:
 
@@ -1319,7 +1341,7 @@ El Presidente del Gobierno,
 
 JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
-ANEXO
+## Anexo
 
 **«ANEXO XIII**
 
@@ -4237,11 +4259,10 @@ Total nacional
 
 421»
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - **Fundamentado en**: [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
@@ -4260,6 +4281,7 @@ Total nacional
 - **Desarrollado por**: [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)

@@ -18,41 +18,38 @@ clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Prevención de riesgos y salud laboral
 tags:
-- personal-no-docente
-- prevenci-n-de-riesgos-y-salud-laboral
-- prevencion-riesgos
-- prevencion-riesgos-laborales
-- proteccion-menores
-- salud-laboral
-- seguridad-trabajo
+  - personal-no-docente
+  - prevenci-n-de-riesgos-y-salud-laboral
+  - prevencion-riesgos
+  - prevencion-riesgos-laborales
+  - proteccion-menores
+  - salud-laboral
+  - seguridad-trabajo
 relaciones:
   desarrollado_por:
-  - norma_id: norm-es-rd-39-1997
-  - norma_id: norm-can-d-168-2009
+    - norma_id: norm-es-rd-39-1997
+    - norma_id: norm-can-d-168-2009
   fundamentado_en:
-  - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-ce-1978
   fundamento_de:
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2007-10487
-  - norma_id: norm-es-2007-6115
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2014-5591
-  - norma_id: norm-es-2015-9462
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-rdl-2-2015
-  - norma_id: norm-can-res-125
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-2007-10487
+    - norma_id: norm-es-2007-6115
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2014-5591
+    - norma_id: norm-es-2015-9462
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-rdl-2-2015
+    - norma_id: norm-can-res-125
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '40.2'
+    - '40.2'
 ---
-
-## Preámbulo
-
 # Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
 
-# Ley 31/1995 de Prevención de Riesgos Laborales
+## Preámbulo
 
 **JUAN CARLOS I**
 
@@ -70,7 +67,11 @@ El artículo 40.2 de la Constitución Española encomienda a los poderes públic
 
 Este mandato constitucional conlleva la necesidad de desarrollar una política de protección de la salud de los trabajadores mediante la prevención de los riesgos derivados de su trabajo y encuentra en la presente Ley su pilar fundamental. En la misma se configura el marco general en el que habrán de desarrollarse las distintas acciones preventivas, en coherencia con las decisiones de la Unión Europea que ha expresado su ambición de mejorar progresivamente las condiciones de trabajo y de conseguir este objetivo de progreso con una armonización paulatina de esas condiciones en los diferentes países europeos.
 
-De la presencia de España en la Unión Europea se deriva, por consiguiente, la necesidad de armonizar nuestra política con la naciente política comunitaria en esta materia, preocupada, cada vez en mayor medida, por el estudio y tratamiento de la prevención de los riesgos derivados del trabajo. Buena prueba de ello fue la modificación del Tratado constitutivo de la Comunidad Económica Europea por la llamada Acta Unica, a tenor de cuyo artículo 118 A) los Estados miembros vienen, desde su entrada en vigor, promoviendo la mejora del medio de trabajo para conseguir el objetivo antes citado de armonización en el progreso de las condiciones de seguridad y salud de los trabajadores. Este objetivo se ha visto reforzado en el Tratado de la Unión Europea mediante el procedimiento que en el mismo se contempla para la adopción, a través de Directivas, de disposiciones mínimas que habrán de aplicarse progresivamente.
+De la presencia de España en la Unión Europea se deriva, por consiguiente, la necesidad de armonizar nuestra política con la naciente política comunitaria en esta materia, preocupada, cada vez en mayor medida, por el estudio y tratamiento de la prevención de los riesgos derivados del trabajo. Buena prueba de ello fue la modificación del Tratado constitutivo de la Comunidad Económica Europea por la llamada Acta Unica, a tenor de cuyo
+
+#### Artículo 118. A).
+
+los Estados miembros vienen, desde su entrada en vigor, promoviendo la mejora del medio de trabajo para conseguir el objetivo antes citado de armonización en el progreso de las condiciones de seguridad y salud de los trabajadores. Este objetivo se ha visto reforzado en el Tratado de la Unión Europea mediante el procedimiento que en el mismo se contempla para la adopción, a través de Directivas, de disposiciones mínimas que habrán de aplicarse progresivamente.
 
 Consecuencia de todo ello ha sido la creación de un acervo jurídico europeo sobre protección de la salud de los trabajadores en el trabajo. De las Directivas que lo configuran, la más significativa es, sin duda, la 89/391/CEE, relativa a la aplicación de las medidas para promover la mejora de la seguridad y de la salud de los trabajadores en el trabajo, que contiene el marco jurídico general en el que opera la política de prevención comunitaria.
 
@@ -128,9 +129,7 @@ Con ello se refuerzan, sin duda, los objetivos de responsabilidad, cooperación 
 
 El proyecto de Ley, cumpliendo las prescripciones legales sobre la materia, ha sido sometido a la consideración del Consejo Económico y Social, del Consejo General del Poder Judicial y del Consejo de Estado.
 
-CAPITULO I
-
-Objeto, ámbito de aplicación y definiciones
+## Capítulo I. Objeto, ámbito de aplicación y definiciones.
 
 #### Artículo 1. Normativa sobre prevención de riesgos laborales.
 
@@ -166,9 +165,7 @@ En los establecimientos penitenciarios, se adaptarán a la presente Ley aquellas
 
 4. La presente Ley tampoco será de aplicación a la relación laboral de carácter especial del servicio del hogar familiar. No obstante lo anterior, el titular del hogar familiar está obligado a cuidar de que el trabajo de sus empleados se realice en las debidas condiciones de seguridad e higiene.
 
-#### Artículo 4. Definiciones.
-
-A efectos de la presente Ley y de las normas que la desarrollen:
+#### Artículo 4. Definiciones A efectos de la presente Ley y de las normas que la desarrollen:.
 
 1.º Se entenderá por «prevención» el conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.
 
@@ -196,9 +193,7 @@ d) Todas aquellas otras características del trabajo, incluidas las relativas a 
 
 8.º Se entenderá por «equipo de protección individual» cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin.
 
-CAPITULO II
-
-Política en materia de prevención de riesgos para proteger la seguridad y la salud en el trabajo
+## Capítulo II. Política en materia de prevención de riesgos para proteger la seguridad y la salud en el trabajo.
 
 #### Artículo 5. Objetivos de la política.
 
@@ -348,9 +343,7 @@ La participación de empresarios y trabajadores, a través de las organizaciones
 
 En lo no previsto en la presente Ley y en el Reglamento interno a que hace referencia el párrafo anterior la Comisión se regirá por la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-CAPITULO III
-
-Derechos y obligaciones
+## Capítulo III. Derechos y obligaciones.
 
 #### Artículo 14. Derecho a la protección frente a los riesgos laborales.
 
@@ -558,7 +551,9 @@ En el supuesto de que, aun aplicando las reglas señaladas en el párrafo anteri
 
 A tal fin, la evaluación tendrá especialmente en cuenta los riesgos específicos para la seguridad, la salud y el desarrollo de los jóvenes derivados de su falta de experiencia, de su inmadurez para evaluar los riesgos existentes o potenciales y de su desarrollo todavía incompleto.
 
-En todo caso, el empresario informará a dichos jóvenes y a sus padres o tutores que hayan intervenido en la contratación, conforme a lo dispuesto en la letra b) del artículo 7 del texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, de los posibles riesgos y de todas las medidas adoptadas para la protección de su seguridad y salud.
+En todo caso, el empresario informará a dichos jóvenes y a sus padres o tutores que hayan intervenido en la contratación, conforme a lo dispuesto en la letra b) del artículo 7 l.
+
+texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, de los posibles riesgos y de todas las medidas adoptadas para la protección de su seguridad y salud.
 
 2. Teniendo en cuenta los factores anteriormente señalados, el Gobierno establecerá las limitaciones a la contratación de jóvenes menores de dieciocho años en trabajos que presenten riesgos específicos.
 
@@ -604,9 +599,7 @@ La empresa usuaria deberá informar a los representantes de los trabajadores en 
 
 3. El incumplimiento por los trabajadores de las obligaciones en materia de prevención de riesgos a que se refieren los apartados anteriores tendrá la consideración de incumplimiento laboral a los efectos previstos en el artículo 58.1 del Estatuto de los Trabajadores o de falta, en su caso, conforme a lo establecido en la correspondiente normativa sobre régimen disciplinario de los funcionarios públicos o del personal estatutario al servicio de las Administraciones públicas. Lo dispuesto en este apartado será igualmente aplicable a los socios de las cooperativas cuya actividad consista en la prestación de su trabajo, con las precisiones que se establezcan en sus Reglamentos de Régimen Interno.
 
-CAPITULO IV
-
-Servicios de prevención
+## Capítulo IV. Servicios de prevención.
 
 #### Artículo 30. Protección y prevención de riesgos profesionales.
 
@@ -618,7 +611,9 @@ Los trabajadores a que se refiere el párrafo anterior colaborarán entre sí y,
 
 3. Para la realización de la actividad de prevención, el empresario deberá facilitar a los trabajadores designados el acceso a la información y documentación a que se refieren los artículos 18 y 23 de la presente Ley.
 
-4. Los trabajadores designados no podrán sufrir ningún perjuicio derivado de sus actividades de protección y prevención de los riesgos profesionales en la empresa. En ejercicio de esta función, dichos trabajadores gozarán, en particular, de las garantías que para los representantes de los trabajadores establecen las letras a), b) y c) del artículo 68 y el apartado 4 del artículo 56 del texto refundido de la Ley del Estatuto de los Trabajadores.
+4. Los trabajadores designados no podrán sufrir ningún perjuicio derivado de sus actividades de protección y prevención de los riesgos profesionales en la empresa. En ejercicio de esta función, dichos trabajadores gozarán, en particular, de las garantías que para los representantes de los trabajadores establecen las letras a), b) y c) del artículo 68 y el.
+
+apartado 4 del artículo 56 del texto refundido de la Ley del Estatuto de los Trabajadores.
 
 Esta garantía alcanzará también a los trabajadores integrantes del servicio de prevención, cuando la empresa decida constituirlo de acuerdo con lo dispuesto en el artículo siguiente.
 
@@ -666,9 +661,7 @@ Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad
 
 Los representantes de los empresarios y de los trabajadores tendrán derecho a participar en el control y seguimiento de la gestión desarrollada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social en las funciones a que se refiere el párrafo anterior conforme a lo previsto en el artículo 39, cinco, de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social.
 
-CAPITULO V
-
-Consulta y participación de los trabajadores
+## Capítulo V. Consulta y participación de los trabajadores.
 
 #### Artículo 33. Consulta de los trabajadores.
 
@@ -778,7 +771,9 @@ g) Proponer al órgano de representación de los trabajadores la adopción del a
 
 #### Artículo 37. Garantías y sigilo profesional de los Delegados de Prevención.
 
-1. Lo previsto en el artículo 68 del Estatuto de los Trabajadores en materia de garantías será de aplicación a los Delegados de Prevención en su condición de representantes de los trabajadores.
+1. Lo previsto en el artículo 68 l.
+
+Estatuto de los Trabajadores en materia de garantías será de aplicación a los Delegados de Prevención en su condición de representantes de los trabajadores.
 
 El tiempo utilizado por los Delegados de Prevención para el desempeño de las funciones previstas en esta Ley será considerado como de ejercicio de funciones de representación a efectos de la utilización del crédito de horas mensuales retribuidas previsto en la letra e) del citado artículo 68 del Estatuto de los Trabajadores.
 
@@ -790,7 +785,9 @@ La formación se deberá facilitar por el empresario por sus propios medios o me
 
 El tiempo dedicado a la formación será considerado como tiempo de trabajo a todos los efectos y su coste no podrá recaer en ningún caso sobre los Delegados de Prevención.
 
-3. A los Delegados de Prevención les será de aplicación lo dispuesto en el apartado 2 del artículo 65 del Estatuto de los Trabajadores en cuanto al sigilo profesional debido respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en la empresa.
+3. A los Delegados de Prevención les será de aplicación lo dispuesto en el apartado 2 del artículo 65 l.
+
+Estatuto de los Trabajadores en cuanto al sigilo profesional debido respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en la empresa.
 
 4. Lo dispuesto en el presente artículo en materia de garantías y sigilo profesional de los Delegados de Prevención se entenderá referido, en el caso de las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones públicas, a la regulación contenida en los artículos 10, párrafo segundo, y 11 de la Ley 9/1987, de 12 de junio, de Organos de Representación, Determinación de las Condiciones de Trabajo y Participación del Personal al Servicio de las Administraciones Públicas.
 
@@ -840,9 +837,7 @@ a los Delegados de Prevención sobre los resultados de las visitas a que hace re
 
 4. Las organizaciones sindicales y empresariales más representativas serán consultadas con carácter previo a la elaboración de los planes de actuación de la Inspección de Trabajo y Seguridad Social en materia de prevención de riesgos en el trabajo, en especial de los programas específicos para empresas de menos de seis trabajadores, e informadas del resultado de dichos planes.
 
-CAPITULO VI
-
-Obligaciones de los fabricantes, importadores y suministradores
+## Capítulo VI. Obligaciones de los fabricantes, importadores y suministradores.
 
 #### Artículo 41. Obligaciones de los fabricantes, importadores y suministradores.
 
@@ -858,9 +853,7 @@ Los fabricantes, importadores y suministradores deberán proporcionar a los empr
 
 2. El empresario deberá garantizar que las informaciones a que se refiere el apartado anterior sean facilitadas a los trabajadores en términos que resulten comprensibles para los mismos.
 
-CAPITULO VII
-
-Responsabilidades y sanciones
+## Capítulo VII. Responsabilidades y sanciones.
 
 #### Artículo 42. Responsabilidades y su compatibilidad.
 
@@ -984,7 +977,9 @@ i) Registro de los niveles de exposición a agentes físicos, químicos y bioló
 
 17. El incumplimiento del deber de información a los trabajadores designados para ocuparse de las actividades de prevención o, en su caso, al servicio de prevención de la incorporación a la empresa de trabajadores con relaciones de trabajo temporales, de duración determinada o proporcionados por empresas de trabajo temporal.
 
-18. No facilitar al servicio de prevención el acceso a la información y documentación señaladas en el apartado 1 del artículo 18 y en el apartado 1 del artículo 23 de la presente Ley.
+18. No facilitar al servicio de prevención el acceso a la información y documentación señaladas en el apartado 1 del artículo 18 y en.
+
+el apartado 1 del artículo 23 de la presente Ley.
 
 19. No someter, en los términos reglamentariamente establecidos, el sistema de prevención de la empresa al control de una auditoría o evaluación externa cuando no se hubiera concertado el servicio de prevención con una entidad especializada ajena a la empresa.
 
@@ -1178,7 +1173,9 @@ b) En el ámbito de las Comunidades Autónomas y las entidades locales, las func
 
 c) Los restantes preceptos serán de aplicación general en defecto de normativa específica dictada por las Administraciones públicas, a excepción de lo que resulte inaplicable a las mismas por su propia naturaleza jurídico-laboral.
 
-3. El artículo 54 constituye legislación básica de contratos administrativos, dictada al amparo del artículo 149.1.18.ªde la Constitución.
+3. El artículo 54 constituye.
+
+legislación básica de contratos administrativos, dictada al amparo del artículo 149.1.18.ªde la Constitución.
 
 #### Disposición adicional cuarta. Designación de Delegados de Prevención en supuestos especiales.
 
@@ -1224,7 +1221,9 @@ Cuando, además de los socios que prestan su trabajo personal, existan asalariad
 
 #### Disposición adicional undécima. Modificación del Estatuto de los Trabajadores en materia de permisos retribuidos.
 
-Se añade una letra f) al apartado 3 del artículo 37 del texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, del siguiente tenor:
+Se añade una letra f) al apartado 3 del artículo 37 l.
+
+texto refundido de la Ley del Estatuto de los Trabajadores aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, del siguiente tenor:
 
 «f) Por el tiempo indispensable para la realización de exámenes prenatales y técnicas de preparación al parto que deban realizarse dentro de la jornada de trabajo.»
 
@@ -1234,7 +1233,9 @@ En las Comunidades Autónomas, la participación institucional, en cuanto a su e
 
 #### Disposición adicional decimotercera. Fondo de Prevención y Rehabilitación.
 
-Los recursos del Fondo de Prevención y Rehabilitación procedentes del exceso de excedentes de la gestión realizada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social a que se refiere el artículo 73 del texto refundido de la Ley General de la Seguridad Social se destinarán en la cuantía que se determine reglamentariamente, a las actividades que puedan desarrollar como servicios de prevención las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, de acuerdo con lo previsto en el artículo 32 de esta Ley.
+Los recursos del Fondo de Prevención y Rehabilitación procedentes del exceso de excedentes de la gestión realizada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social a que se refiere el artículo 73 l.
+
+texto refundido de la Ley General de la Seguridad Social se destinarán en la cuantía que se determine reglamentariamente, a las actividades que puedan desarrollar como servicios de prevención las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, de acuerdo con lo previsto en el artículo 32 de esta Ley.
 
 #### Disposición transitoria primera. Aplicación de disposiciones más favorables.
 
@@ -1266,7 +1267,9 @@ La presente Ley no afecta a la vigencia de las disposiciones especiales sobre pr
 
 #### Disposición final primera. Actualización de sanciones.
 
-La cuantía de las sanciones a que se refiere el apartado 4 del artículo 49 podrá ser actualizada por el Gobierno a propuesta del Ministro de Trabajo y Seguridad Social, adaptando a la misma la atribución de competencias prevista en el apartado 1 del artículo 52, de esta Ley.
+La cuantía de las sanciones a que se refiere el apartado 4 del artículo 49 podrá.
+
+ser actualizada por el Gobierno a propuesta del Ministro de Trabajo y Seguridad Social, adaptando a la misma la atribución de competencias prevista en el apartado 1 del artículo 52, de esta Ley.
 
 #### Disposición final segunda. Entrada en vigor.
 
@@ -1282,11 +1285,10 @@ El Presidente del Gobierno,
 
 FELIPE GONZALEZ MARQUEZ
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrollado por**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](./RD39_1997_aprueba_reglamento_servicios_prevencion.md)
 - **Desarrollado por**: [**D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria**](../../autonómica/canarias/02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -1302,4 +1304,5 @@ FELIPE GONZALEZ MARQUEZ
 - **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)

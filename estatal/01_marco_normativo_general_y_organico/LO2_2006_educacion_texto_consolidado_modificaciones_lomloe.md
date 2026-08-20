@@ -1,8 +1,7 @@
 ---
 id: norm-es-lo-2-2006
 codigo_sintetizado: LO2_2006 Ley Organica de Educacion
-titulo: Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones
-  de la LOMLOE 3/2020).
+titulo: Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
 jurisdiccion: España
 ambito: Estatal
 organo_emisor: Jefatura del Estado / Cortes Generales
@@ -19,954 +18,951 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
 tags:
-- bienestar-infantil
-- convivencia
-- convivencia-escolar
-- ley-organica
-- loe
-- lomloe
-- marco-general
-- marco-normativo-general
+  - bienestar-infantil
+  - convivencia
+  - convivencia-escolar
+  - ley-organica
+  - loe
+  - lomloe
+  - marco-general
+  - marco-normativo-general
 relaciones:
   desarrollado_por:
-  - norma_id: norm-es-rd-132-2010
-  - norma_id: norm-es-rd-1364-2010
-  - norma_id: norm-es-rd-157-2022
-  - norma_id: norm-es-rd-1834-2008
-  - norma_id: norm-es-rd-217-2022
-  - norma_id: norm-es-rd-243-2022
-  - norma_id: norm-es-rd-276-2007
-  - norma_id: norm-es-rd-476-2013
-  - norma_id: norm-es-rd-943-2003
-  - norma_id: norm-es-rd-95-2022
-  - norma_id: norm-can-res-juriscan-65632-66
-  - norma_id: norm-es-2010-10321
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-o-25-2-2003
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-d-103-2023
-  - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-inclusión-neae-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
-  - norma_id: norm-can-r-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d43-2024
-  - norma_id: norm-mad-o1712-2023
-  - norma_id: norm-mad-o-3814-2023
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-d-100-2023
-  - norma_id: norm-and-d-21-2020
-  - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-o1240-2013
-  - norma_id: norm-mad-o6116-2025
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-mad-o1149-2018
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-o460-2023
-  - norma_id: norm-mad-d21-2025
-  - norma_id: norm-mad-o1493-2015
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d-19-2007
-  - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-l1-2022
-  - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-r2-12-2025
-  - norma_id: norm-mad-o123-2015
-  - norma_id: norm-mad-d149-2000
-  - norma_id: norm-and-d101-2023
-  - norma_id: norm-mad-r-cdd-2025-2026
-  - norma_id: norm-and-o-admision-alumnado-2025-2026
-  - norma_id: norm-and-d164-2024
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o1312-2021
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-dl2-2021
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-and-o-30-5-2023-primaria
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-mad-d-36-2022
-  - norma_id: norm-mad-o-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d65-2022
-  - norma_id: norm-mad-d-164-2024
-  - norma_id: norm-mad-d-23-2023
-  - norma_id: norm-and-o-15-1-2021
-  - norma_id: norm-mad-o1736-2023
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-o-30-5-2023-eso
-  - norma_id: norm-and-d100-2023
-  - norma_id: norm-and-d103-2023
-  - norma_id: norm-and-l1-2020
-  - norma_id: norm-mad-o592-2022
-  - norma_id: norm-and-d-328-2010
-  - norma_id: norm-mad-o2356-2023
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-mad-o2067-2023
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-d-64-2022
-  - norma_id: norm-mad-d64-2022
-  - norma_id: norm-mad-o457-2023
-  - norma_id: norm-and-l4-1984
-  - norma_id: norm-and-d19-2007
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o190-2023
-  - norma_id: norm-and-d102-2023
-  - norma_id: norm-mad-d15-2016
-  - norma_id: norm-and-d147-2002
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-d-61-2022
-  - norma_id: norm-mad-o-123-2015
-  - norma_id: norm-mad-o1338-2023
-  - norma_id: norm-and-d-285-2023
-  - norma_id: norm-and-dl1-2017
-  - norma_id: norm-mad-o2808-2023
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o266-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-and-d-327-2010
-  - norma_id: norm-and-l9-1999
-  - norma_id: norm-mad-d23-2023
-  - norma_id: norm-mad-o130-2023
-  - norma_id: norm-mad-d-29-2013
-  - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-363-2011
-  - norma_id: norm-and-o-20-8-2010
-  - norma_id: norm-mad-d-65-2022
-  - norma_id: norm-and-d-6-2017
-  - norma_id: norm-and-d-362-2011
-  - norma_id: norm-mad-o-1605-2024
-  - norma_id: norm-and-d-329-2010
-  - norma_id: norm-and-d-147-2002
-  - norma_id: norm-mad-d-43-2024
-  - norma_id: norm-and-o-30-5-2023-bach
-  - norma_id: norm-and-d-436-2008
-  - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-365-2011
-  - norma_id: norm-and-d-68-2008
-  - norma_id: norm-and-d-117-1985
-  - norma_id: norm-mad-d-10-2023
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-and-d-56-1994
-  - norma_id: norm-mad-d-126-2017
-  - norma_id: norm-and-d-254-2001
-  - norma_id: norm-mad-d-35-2019
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-mad-d-12-2022
-  - norma_id: norm-mad-o-893-2022
-  - norma_id: norm-and-o-19-4-2005
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-and-d-266-1988
-  - norma_id: norm-and-d-95-2003
-  - norma_id: norm-and-d-208-1997
-  - norma_id: norm-and-d-2-1995
-  - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-19-1995
-  - norma_id: norm-and-o-18-6-2001
-  - norma_id: norm-and-d-77-1994
-  - norma_id: norm-and-d-204-1995
-  - norma_id: norm-mad-d-43-2022
-  - norma_id: norm-and-o-23-4-2007
-  - norma_id: norm-mad-o-2808-2023
-  - norma_id: norm-mad-o-1050-2020
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-mad-d-56-2023
-  - norma_id: norm-and-d-467-1994
-  - norma_id: norm-and-d-54-1989
-  - norma_id: norm-and-d-276-1987
-  - norma_id: norm-and-o-10-5-2006
-  - norma_id: norm-mad-o-2882-2019
-  - norma_id: norm-and-d-206-2006
-  - norma_id: norm-and-o-10-2-2004
-  - norma_id: norm-mad-d-21-2025
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-and-d-390-1986
-  - norma_id: norm-mad-d-51-2023
-  - norma_id: norm-and-d-21-1985
-  - norma_id: norm-and-o-20-7-2006
-  - norma_id: norm-and-d-14-1995
-  - norma_id: norm-mad-o-1338-2023
-  - norma_id: norm-and-o-15-12-2008
-  - norma_id: norm-and-d-167-2003
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-d-52-2021
-  - norma_id: norm-mad-d-112-2002
-  - norma_id: norm-and-o-17-6-2009
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-o-10-8-2007
-  - norma_id: norm-and-o-12-7-2011
-  - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-431-2008
-  - norma_id: norm-and-o-29-9-2008
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-and-d-140-2002
-  - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-and-o-15-7-2008
-  - norma_id: norm-and-r-12-2-2021
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-25-7-2008
-  - norma_id: norm-and-d-213-1995
-  - norma_id: norm-and-d-155-1997
-  - norma_id: norm-and-o-16-11-2007
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-mad-d-126-2014
-  - norma_id: norm-and-o-3-8-2010
-  - norma_id: norm-and-o-24-6-2008
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-27-7-2006
-  - norma_id: norm-mad-d-31-2011
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
-  - norma_id: norm-and-o-14-7-2016
-  - norma_id: norm-mad-d-15-2016
-  - norma_id: norm-and-d-40-2011
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-and-o-14-3-1995
-  - norma_id: norm-and-o-3-1-2000
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-o-12-5-2017
-  - norma_id: norm-and-d-149-1988
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-o-31-5-1994
-  - norma_id: norm-and-o-9-9-1993
-  - norma_id: norm-mad-d-18-2024
-  - norma_id: norm-and-o-12-7-2004
-  - norma_id: norm-mad-o-1568-2022
-  - norma_id: norm-and-o-18-4-2001
-  - norma_id: norm-mad-o-2460-2023
-  - norma_id: norm-mad-d-45-2023
-  - norma_id: norm-and-o-29-12-2000
-  - norma_id: norm-mad-o-3210-2021
-  - norma_id: norm-and-r-28-8-2002
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-o-8-7-1996
-  - norma_id: norm-mad-d-88-2021
-  - norma_id: norm-mad-o-1493-2015
-  - norma_id: norm-and-o-22-7-2013
-  - norma_id: norm-and-d-156-1997
-  - norma_id: norm-mad-o-1117-2020
-  - norma_id: norm-and-d-85-1999
-  - norma_id: norm-and-o-28-3-2008
-  - norma_id: norm-and-d-135-2014
-  - norma_id: norm-mad-o-3622-2014
-  - norma_id: norm-mad-o-1190-2021
-  - norma_id: norm-mad-o-1240-2013
-  - norma_id: norm-mad-o-2694-2009
-  - norma_id: norm-and-o-17-9-2010
-  - norma_id: norm-and-o-16-12-2008
-  - norma_id: norm-and-r-14-12-2009
-  - norma_id: norm-and-o-12-6-2008
-  - norma_id: norm-and-d-166-2003
-  - norma_id: norm-and-o-19-9-2002
-  - norma_id: norm-mad-o-2300-2022
-  - norma_id: norm-mad-d-15-2023
-  - norma_id: norm-and-d-115-2002
-  - norma_id: norm-and-d-301-2009
-  - norma_id: norm-mad-d-40-2021
-  - norma_id: norm-mad-d-29-2019
-  - norma_id: norm-and-o-24-7-2006
-  - norma_id: norm-and-o-26-6-2012
+    - norma_id: norm-es-rd-132-2010
+    - norma_id: norm-es-rd-1364-2010
+    - norma_id: norm-es-rd-157-2022
+    - norma_id: norm-es-rd-1834-2008
+    - norma_id: norm-es-rd-217-2022
+    - norma_id: norm-es-rd-243-2022
+    - norma_id: norm-es-rd-276-2007
+    - norma_id: norm-es-rd-476-2013
+    - norma_id: norm-es-rd-943-2003
+    - norma_id: norm-es-rd-95-2022
+    - norma_id: norm-can-res-juriscan-65632-66
+    - norma_id: norm-es-2010-10321
+    - norma_id: norm-can-res-juriscan-66772-94
+    - norma_id: norm-can-res-juriscan-22458-15
+    - norma_id: norm-can-res-boc-2002-148-77
+    - norma_id: norm-can-res-juriscan-64565-138
+    - norma_id: norm-can-res-112
+    - norma_id: norm-can-d-9-2022
+    - norma_id: norm-can-res-boc-2024-226-44
+    - norma_id: norm-can-lo-1-2018
+    - norma_id: norm-can-res-juriscan-63878-20
+    - norma_id: norm-can-res-boc-2011-099-72
+    - norma_id: norm-can-res-boc-2026-070-41
+    - norma_id: norm-can-res-boc-2026-075-85
+    - norma_id: norm-can-res-096
+    - norma_id: norm-can-res-juriscan-74499-67
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-res-juriscan-69937-120
+    - norma_id: norm-can-res-135
+    - norma_id: norm-can-d-74-2010
+    - norma_id: norm-can-d-40-2005
+    - norma_id: norm-can-res-028
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-res-055
+    - norma_id: norm-can-res-juriscan-73844-69
+    - norma_id: norm-can-res-118
+    - norma_id: norm-can-res-boc-2019-234-52
+    - norma_id: norm-can-res-juriscan-64885-10
+    - norma_id: norm-can-d-23-1995
+    - norma_id: norm-can-d-102-2023
+    - norma_id: norm-can-res-033
+    - norma_id: norm-can-res-juriscan-72788-60
+    - norma_id: norm-can-res-juriscan-65631-68
+    - norma_id: norm-can-res-boc-2025-046-47
+    - norma_id: norm-can-res-boc-2026-039-102
+    - norma_id: norm-can-res-boc-2026-141-29
+    - norma_id: norm-can-res-boc-2020-130-131
+    - norma_id: norm-can-res-098
+    - norma_id: norm-can-res-boc-2022-158-21
+    - norma_id: norm-can-res-032
+    - norma_id: norm-can-res-027
+    - norma_id: norm-can-o-7-6-2007
+    - norma_id: norm-can-d-82-1994
+    - norma_id: norm-can-res-038
+    - norma_id: norm-can-res-014
+    - norma_id: norm-can-res-042
+    - norma_id: norm-can-res-boc-2025-044-89
+    - norma_id: norm-can-res-boc-2024-230-25
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-boc-2018-220-18
+    - norma_id: norm-can-res-086
+    - norma_id: norm-can-l-1-1997
+    - norma_id: norm-can-res-boc-2012-035-58
+    - norma_id: norm-can-res-juriscan-71394-16
+    - norma_id: norm-can-res-boc-2024-125-91
+    - norma_id: norm-can-res-juriscan-41360-129
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-can-res-boc-2025-047-107
+    - norma_id: norm-can-res-boc-2026-070-116
+    - norma_id: norm-can-res-097
+    - norma_id: norm-can-res-095
+    - norma_id: norm-can-res-boc-2022-138-7
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-o-25-2-2003
+    - norma_id: norm-can-res-boc-2018-019-130
+    - norma_id: norm-can-res-juriscan-48984-84
+    - norma_id: norm-can-res-juriscan-58182-8
+    - norma_id: norm-can-res-boc-2026-132-101
+    - norma_id: norm-can-res-boc-2019-016-13
+    - norma_id: norm-can-res-boc-2017-036-71
+    - norma_id: norm-can-res-boc-2018-048-56
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-d-84-2024
+    - norma_id: norm-can-res-059
+    - norma_id: norm-can-d-52-2009
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-res-boc-2022-087-31
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-can-res-boc-2021-109-79
+    - norma_id: norm-can-d-212-1991
+    - norma_id: norm-can-res-boc-2023-133-57
+    - norma_id: norm-can-res-110
+    - norma_id: norm-can-res-boc-2026-046-139
+    - norma_id: norm-can-res-030
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-can-res-boc-2017-061-4
+    - norma_id: norm-can-d-106-2009
+    - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-can-d-234-1996
+    - norma_id: norm-can-d-276-1997
+    - norma_id: norm-can-res-boc-2026-060-61
+    - norma_id: norm-can-res-boc-2022-158-132
+    - norma_id: norm-can-res-boc-2018-106-114
+    - norma_id: norm-can-res-034
+    - norma_id: norm-can-d-123-2023
+    - norma_id: norm-can-res-boc-2026-077-62
+    - norma_id: norm-can-res-boc-2017-036-75
+    - norma_id: norm-can-res-boc-2025-039-104
+    - norma_id: norm-can-res-juriscan-49002-54
+    - norma_id: norm-can-d-109-1999
+    - norma_id: norm-can-res-125
+    - norma_id: norm-can-res-boc-2025-061-88
+    - norma_id: norm-can-o-2013-10-09
+    - norma_id: norm-can-res-boc-2026-077-49
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-juriscan-75818-136
+    - norma_id: norm-can-res-040
+    - norma_id: norm-can-res-boc-2024-117-93
+    - norma_id: norm-can-res-053
+    - norma_id: norm-can-res-boc-2017-020-2
+    - norma_id: norm-can-res-119
+    - norma_id: norm-can-l-4-2023
+    - norma_id: norm-can-res-039
+    - norma_id: norm-can-res-boc-2004-158-76
+    - norma_id: norm-can-d-101-2023
+    - norma_id: norm-can-res-boc-2019-024-22
+    - norma_id: norm-can-res-099
+    - norma_id: norm-can-res-juriscan-75527-17
+    - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-boc-2024-049-109
+    - norma_id: norm-can-res-boc-2026-073-113
+    - norma_id: norm-can-res-juriscan-61148-128
+    - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-can-res-boc-2023-085-51
+    - norma_id: norm-can-res-juriscan-55445-83
+    - norma_id: norm-can-d-135-2016
+    - norma_id: norm-can-res-juriscan-75634-6
+    - norma_id: norm-can-res-juriscan-72176-78
+    - norma_id: norm-can-res-boc-2025-118-46
+    - norma_id: norm-can-res-boc-1992-106-117
+    - norma_id: norm-can-res-boc-2021-038-3
+    - norma_id: norm-can-res-boc-2017-220-70
+    - norma_id: norm-can-res-boc-2026-039-111
+    - norma_id: norm-can-d-25-2018
+    - norma_id: norm-can-d-168-2009
+    - norma_id: norm-can-res-boc-2022-143-23
+    - norma_id: norm-can-res-boc-2017-169-100
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-juriscan-30668-127
+    - norma_id: norm-can-res-boc-2020-257-24
+    - norma_id: norm-can-res-boc-2022-243-81
+    - norma_id: norm-can-res-043
+    - norma_id: norm-can-res-boc-2025-094-137
+    - norma_id: norm-can-res-boc-2026-129-26
+    - norma_id: norm-can-res-boc-2017-235-5
+    - norma_id: norm-can-res-boc-2026-070-115
+    - norma_id: norm-can-res-090
+    - norma_id: norm-can-res-boc-2018-127-9
+    - norma_id: norm-can-l-2-1987
+    - norma_id: norm-can-res-134
+    - norma_id: norm-can-res-boc-2019-016-12
+    - norma_id: norm-can-d-196-2022
+    - norma_id: norm-can-res-boc-2004-189-65
+    - norma_id: norm-can-res-037
+    - norma_id: norm-can-res-boc-2021-114-80
+    - norma_id: norm-can-res-boc-2018-220-19
+    - norma_id: norm-can-res-boc-2019-067-11
+    - norma_id: norm-can-res-juriscan-70096-50
+    - norma_id: norm-can-res-036
+    - norma_id: norm-can-res-boc-2026-037-105
+    - norma_id: norm-can-res-boc-2026-109-92
+    - norma_id: norm-can-o-1-9-2010
+    - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-can-res-boc-2025-061-106
+    - norma_id: norm-can-o-2-8-2006
+    - norma_id: norm-can-res-boc-2020-236-82
+    - norma_id: norm-can-res-035
+    - norma_id: norm-can-res-boc-2019-143-74
+    - norma_id: norm-can-d-103-2023
+    - norma_id: norm-can-r-calendario-escolar-2025-2026
+    - norma_id: norm-can-r-inclusión-neae-2025-2026
+    - norma_id: norm-can-r-instrucciones-curso-2025-2026
+    - norma_id: norm-can-r-fp-dual-curso-2025-2026
+    - norma_id: norm-can-r-admision-alumnado-2025-2026
+    - norma_id: norm-mad-d43-2024
+    - norma_id: norm-mad-o1712-2023
+    - norma_id: norm-mad-o-3814-2023
+    - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+    - norma_id: norm-and-d-100-2023
+    - norma_id: norm-and-d-21-2020
+    - norma_id: norm-mad-d29-2013
+    - norma_id: norm-mad-o1240-2013
+    - norma_id: norm-mad-o6116-2025
+    - norma_id: norm-mad-o3536-2025
+    - norma_id: norm-and-d-164-2024
+    - norma_id: norm-mad-o1149-2018
+    - norma_id: norm-mad-d32-2019
+    - norma_id: norm-mad-o893-2022
+    - norma_id: norm-mad-o460-2023
+    - norma_id: norm-mad-d21-2025
+    - norma_id: norm-mad-o1493-2015
+    - norma_id: norm-and-d154-2022
+    - norma_id: norm-and-d-19-2007
+    - norma_id: norm-and-o-18-6-2020
+    - norma_id: norm-and-d328-2010
+    - norma_id: norm-mad-d-230-2023
+    - norma_id: norm-and-r-cdd-2025-2026
+    - norma_id: norm-mad-l1-2022
+    - norma_id: norm-mad-d-32-2019
+    - norma_id: norm-mad-r2-12-2025
+    - norma_id: norm-mad-o123-2015
+    - norma_id: norm-mad-d149-2000
+    - norma_id: norm-and-d101-2023
+    - norma_id: norm-mad-r-cdd-2025-2026
+    - norma_id: norm-and-o-admision-alumnado-2025-2026
+    - norma_id: norm-and-d164-2024
+    - norma_id: norm-mad-o3413-2022
+    - norma_id: norm-mad-r-calendario-escolar-2025-2026
+    - norma_id: norm-mad-o1312-2021
+    - norma_id: norm-mad-o-1238-2023
+    - norma_id: norm-and-dl2-2021
+    - norma_id: norm-mad-o2742-2022
+    - norma_id: norm-mad-d126-2017
+    - norma_id: norm-and-o-30-5-2023-primaria
+    - norma_id: norm-and-r-instrucciones-curso-2025-2026
+    - norma_id: norm-mad-o2532-2022
+    - norma_id: norm-mad-d-36-2022
+    - norma_id: norm-mad-o-admision-alumnado-2025-2026
+    - norma_id: norm-mad-d65-2022
+    - norma_id: norm-mad-d-164-2024
+    - norma_id: norm-mad-d-23-2023
+    - norma_id: norm-and-o-15-1-2021
+    - norma_id: norm-mad-o1736-2023
+    - norma_id: norm-and-d162-2009
+    - norma_id: norm-and-o-30-5-2023-eso
+    - norma_id: norm-and-d100-2023
+    - norma_id: norm-and-d103-2023
+    - norma_id: norm-and-l1-2020
+    - norma_id: norm-mad-o592-2022
+    - norma_id: norm-and-d-328-2010
+    - norma_id: norm-mad-o2356-2023
+    - norma_id: norm-and-l3-2021
+    - norma_id: norm-mad-o3537-2025
+    - norma_id: norm-mad-o2067-2023
+    - norma_id: norm-mad-r23-6-2025
+    - norma_id: norm-and-r-calendario-escolar-2025-2026
+    - norma_id: norm-mad-d-64-2022
+    - norma_id: norm-mad-d64-2022
+    - norma_id: norm-mad-o457-2023
+    - norma_id: norm-and-l4-1984
+    - norma_id: norm-and-d19-2007
+    - norma_id: norm-mad-l2-2010
+    - norma_id: norm-mad-o190-2023
+    - norma_id: norm-and-d102-2023
+    - norma_id: norm-mad-d15-2016
+    - norma_id: norm-and-d147-2002
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-mad-d-61-2022
+    - norma_id: norm-mad-o-123-2015
+    - norma_id: norm-mad-o1338-2023
+    - norma_id: norm-and-d-285-2023
+    - norma_id: norm-and-dl1-2017
+    - norma_id: norm-mad-o2808-2023
+    - norma_id: norm-mad-d64-2025
+    - norma_id: norm-mad-o266-2023
+    - norma_id: norm-and-d327-2010
+    - norma_id: norm-and-d-327-2010
+    - norma_id: norm-and-l9-1999
+    - norma_id: norm-mad-d23-2023
+    - norma_id: norm-mad-o130-2023
+    - norma_id: norm-mad-d-29-2013
+    - norma_id: norm-mad-d-149-2000
+    - norma_id: norm-and-d-363-2011
+    - norma_id: norm-and-o-20-8-2010
+    - norma_id: norm-mad-d-65-2022
+    - norma_id: norm-and-d-6-2017
+    - norma_id: norm-and-d-362-2011
+    - norma_id: norm-mad-o-1605-2024
+    - norma_id: norm-and-d-329-2010
+    - norma_id: norm-and-d-147-2002
+    - norma_id: norm-mad-d-43-2024
+    - norma_id: norm-and-o-30-5-2023-bach
+    - norma_id: norm-and-d-436-2008
+    - norma_id: norm-mad-o-190-2023
+    - norma_id: norm-and-d-365-2011
+    - norma_id: norm-and-d-68-2008
+    - norma_id: norm-and-d-117-1985
+    - norma_id: norm-mad-d-10-2023
+    - norma_id: norm-mad-d-11-2019
+    - norma_id: norm-and-d-56-1994
+    - norma_id: norm-mad-d-126-2017
+    - norma_id: norm-and-d-254-2001
+    - norma_id: norm-mad-d-35-2019
+    - norma_id: norm-and-d-4-1993
+    - norma_id: norm-mad-d-12-2022
+    - norma_id: norm-mad-o-893-2022
+    - norma_id: norm-and-o-19-4-2005
+    - norma_id: norm-and-d-156-1983
+    - norma_id: norm-and-d-266-1988
+    - norma_id: norm-and-d-95-2003
+    - norma_id: norm-and-d-208-1997
+    - norma_id: norm-and-d-2-1995
+    - norma_id: norm-mad-o-1312-2021
+    - norma_id: norm-and-d-19-1995
+    - norma_id: norm-and-o-18-6-2001
+    - norma_id: norm-and-d-77-1994
+    - norma_id: norm-and-d-204-1995
+    - norma_id: norm-mad-d-43-2022
+    - norma_id: norm-and-o-23-4-2007
+    - norma_id: norm-mad-o-2808-2023
+    - norma_id: norm-mad-o-1050-2020
+    - norma_id: norm-and-d-1-2011
+    - norma_id: norm-mad-d-56-2023
+    - norma_id: norm-and-d-467-1994
+    - norma_id: norm-and-d-54-1989
+    - norma_id: norm-and-d-276-1987
+    - norma_id: norm-and-o-10-5-2006
+    - norma_id: norm-mad-o-2882-2019
+    - norma_id: norm-and-d-206-2006
+    - norma_id: norm-and-o-10-2-2004
+    - norma_id: norm-mad-d-21-2025
+    - norma_id: norm-mad-o-276-2019
+    - norma_id: norm-mad-o-2808-2017
+    - norma_id: norm-and-d-390-1986
+    - norma_id: norm-mad-d-51-2023
+    - norma_id: norm-and-d-21-1985
+    - norma_id: norm-and-o-20-7-2006
+    - norma_id: norm-and-d-14-1995
+    - norma_id: norm-mad-o-1338-2023
+    - norma_id: norm-and-o-15-12-2008
+    - norma_id: norm-and-d-167-2003
+    - norma_id: norm-mad-o-2150-2020
+    - norma_id: norm-and-d-52-2021
+    - norma_id: norm-mad-d-112-2002
+    - norma_id: norm-and-o-17-6-2009
+    - norma_id: norm-and-o-26-5-2011-arte
+    - norma_id: norm-and-o-10-8-2007
+    - norma_id: norm-and-o-12-7-2011
+    - norma_id: norm-mad-l-2-2010
+    - norma_id: norm-mad-l-4-2023
+    - norma_id: norm-and-d-431-2008
+    - norma_id: norm-and-o-29-9-2008
+    - norma_id: norm-mad-r-acoso-2022
+    - norma_id: norm-and-o-20-6-2011
+    - norma_id: norm-and-d-140-2002
+    - norma_id: norm-mad-o-6116-2025
+    - norma_id: norm-and-o-10-11-2020
+    - norma_id: norm-and-o-15-7-2008
+    - norma_id: norm-and-r-12-2-2021
+    - norma_id: norm-and-d-80-1999
+    - norma_id: norm-and-o-25-7-2008
+    - norma_id: norm-and-d-213-1995
+    - norma_id: norm-and-d-155-1997
+    - norma_id: norm-and-o-16-11-2007
+    - norma_id: norm-and-o-16-4-2008
+    - norma_id: norm-and-o-11-12-2012
+    - norma_id: norm-mad-d-126-2014
+    - norma_id: norm-and-o-3-8-2010
+    - norma_id: norm-and-o-24-6-2008
+    - norma_id: norm-and-o-26-5-2011-eoi
+    - norma_id: norm-and-o-27-7-2006
+    - norma_id: norm-mad-d-31-2011
+    - norma_id: norm-and-o-28-6-2011
+    - norma_id: norm-and-r-1-9-2025
+    - norma_id: norm-and-o-14-7-2016
+    - norma_id: norm-mad-d-15-2016
+    - norma_id: norm-and-d-40-2011
+    - norma_id: norm-and-o-26-5-2011
+    - norma_id: norm-and-o-14-3-1995
+    - norma_id: norm-and-o-3-1-2000
+    - norma_id: norm-and-r-27-6-2023
+    - norma_id: norm-and-o-12-5-2017
+    - norma_id: norm-and-d-149-1988
+    - norma_id: norm-and-d-276-1998
+    - norma_id: norm-and-o-31-5-1994
+    - norma_id: norm-and-o-9-9-1993
+    - norma_id: norm-mad-d-18-2024
+    - norma_id: norm-and-o-12-7-2004
+    - norma_id: norm-mad-o-1568-2022
+    - norma_id: norm-and-o-18-4-2001
+    - norma_id: norm-mad-o-2460-2023
+    - norma_id: norm-mad-d-45-2023
+    - norma_id: norm-and-o-29-12-2000
+    - norma_id: norm-mad-o-3210-2021
+    - norma_id: norm-and-r-28-8-2002
+    - norma_id: norm-mad-r-inicio-2025
+    - norma_id: norm-and-d-512-1996
+    - norma_id: norm-and-o-8-7-1996
+    - norma_id: norm-mad-d-88-2021
+    - norma_id: norm-mad-o-1493-2015
+    - norma_id: norm-and-o-22-7-2013
+    - norma_id: norm-and-d-156-1997
+    - norma_id: norm-mad-o-1117-2020
+    - norma_id: norm-and-d-85-1999
+    - norma_id: norm-and-o-28-3-2008
+    - norma_id: norm-and-d-135-2014
+    - norma_id: norm-mad-o-3622-2014
+    - norma_id: norm-mad-o-1190-2021
+    - norma_id: norm-mad-o-1240-2013
+    - norma_id: norm-mad-o-2694-2009
+    - norma_id: norm-and-o-17-9-2010
+    - norma_id: norm-and-o-16-12-2008
+    - norma_id: norm-and-r-14-12-2009
+    - norma_id: norm-and-o-12-6-2008
+    - norma_id: norm-and-d-166-2003
+    - norma_id: norm-and-o-19-9-2002
+    - norma_id: norm-mad-o-2300-2022
+    - norma_id: norm-mad-d-15-2023
+    - norma_id: norm-and-d-115-2002
+    - norma_id: norm-and-d-301-2009
+    - norma_id: norm-mad-d-40-2021
+    - norma_id: norm-mad-d-29-2019
+    - norma_id: norm-and-o-24-7-2006
+    - norma_id: norm-and-o-26-6-2012
   fundamentado_en:
-  - norma_id: norm-es-1984-17387
-  - norma_id: norm-es-1987-15278
-  - norma_id: norm-es-2000-544
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-12018
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-1-2004
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-1987-15278
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-1-2004
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-1889-4763
-  - norma_id: norm-es-1971-1198
-  - norma_id: norm-es-1985-19457
-  - norma_id: norm-es-1987-11341
-  - norma_id: norm-es-1987-13494
-  - norma_id: norm-es-1988-6938
-  - norma_id: norm-es-1991-342
-  - norma_id: norm-es-1995-8730
-  - norma_id: norm-es-1996-10210
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2000-5990
-  - norma_id: norm-es-2001-7022
-  - norma_id: norm-es-2002-4371
-  - norma_id: norm-es-2004-15601
-  - norma_id: norm-es-2005-21534
-  - norma_id: norm-es-2006-21648
-  - norma_id: norm-es-2007-10487
-  - norma_id: norm-es-2007-19326
-  - norma_id: norm-es-2007-22017
-  - norma_id: norm-es-2007-22450
-  - norma_id: norm-es-2007-5478
-  - norma_id: norm-es-2009-20550
-  - norma_id: norm-es-2009-3424
-  - norma_id: norm-es-2010-11426
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2010-12706
-  - norma_id: norm-es-2010-13564
-  - norma_id: norm-es-2010-4130
-  - norma_id: norm-es-2011-12632
-  - norma_id: norm-es-2011-13117
-  - norma_id: norm-es-2011-15628
-  - norma_id: norm-es-2011-16923
-  - norma_id: norm-es-2011-2615
-  - norma_id: norm-es-2012-5337
-  - norma_id: norm-es-2012-8745
-  - norma_id: norm-es-2012-9282
-  - norma_id: norm-es-2013-10219
-  - norma_id: norm-es-2013-12632
-  - norma_id: norm-es-2013-6281
-  - norma_id: norm-es-2014-2222
-  - norma_id: norm-es-2014-5591
-  - norma_id: norm-es-2014-6008
-  - norma_id: norm-es-2015-738
-  - norma_id: norm-es-2015-8043
-  - norma_id: norm-es-2015-8470
-  - norma_id: norm-es-2015-8702
-  - norma_id: norm-es-2015-9453
-  - norma_id: norm-es-2015-9462
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2018-16287
-  - norma_id: norm-es-2018-5111
-  - norma_id: norm-es-2018-6348
-  - norma_id: norm-es-2019-317
-  - norma_id: norm-es-2019-3307
-  - norma_id: norm-es-2020-17274
-  - norma_id: norm-es-2021-18189
-  - norma_id: norm-es-2021-18812
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-2021-979
-  - norma_id: norm-es-2022-12014
-  - norma_id: norm-es-2022-1274
-  - norma_id: norm-es-2022-15953
-  - norma_id: norm-es-2022-16194
-  - norma_id: norm-es-2023-3846
-  - norma_id: norm-es-2023-9553
-  - norma_id: norm-es-2024-10683
-  - norma_id: norm-es-2024-10684
-  - norma_id: norm-es-2024-10685
-  - norma_id: norm-es-2024-11613
-  - norma_id: norm-es-2025-16039
-  - norma_id: norm-es-2025-2039
-  - norma_id: norm-es-2026-12038
-  - norma_id: norm-es-2026-15301
-  - norma_id: norm-es-2026-2622
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-3-2022
-  - norma_id: norm-es-lo-8-2021
-  - norma_id: norm-es-rd-443-2001
-  - norma_id: norm-es-rd-659-2023
-  - norma_id: norm-can-res-juriscan-65632-66
-  - norma_id: norm-es-2010-10321
-  - norma_id: norm-can-res-juriscan-66772-94
-  - norma_id: norm-can-res-juriscan-22458-15
-  - norma_id: norm-can-res-boc-2002-148-77
-  - norma_id: norm-can-res-juriscan-64565-138
-  - norma_id: norm-can-res-112
-  - norma_id: norm-can-d-9-2022
-  - norma_id: norm-can-res-boc-2024-226-44
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-can-res-juriscan-63878-20
-  - norma_id: norm-can-res-boc-2011-099-72
-  - norma_id: norm-can-res-boc-2026-070-41
-  - norma_id: norm-can-res-boc-2026-075-85
-  - norma_id: norm-can-res-096
-  - norma_id: norm-can-res-juriscan-74499-67
-  - norma_id: norm-can-d-81-2010
-  - norma_id: norm-can-res-juriscan-69937-120
-  - norma_id: norm-can-res-135
-  - norma_id: norm-can-d-74-2010
-  - norma_id: norm-can-d-40-2005
-  - norma_id: norm-can-res-028
-  - norma_id: norm-can-l-14-1990
-  - norma_id: norm-can-res-055
-  - norma_id: norm-can-res-juriscan-73844-69
-  - norma_id: norm-can-res-118
-  - norma_id: norm-can-res-boc-2019-234-52
-  - norma_id: norm-can-res-juriscan-64885-10
-  - norma_id: norm-can-d-23-1995
-  - norma_id: norm-can-d-102-2023
-  - norma_id: norm-can-res-033
-  - norma_id: norm-can-res-juriscan-72788-60
-  - norma_id: norm-can-res-juriscan-65631-68
-  - norma_id: norm-can-res-boc-2025-046-47
-  - norma_id: norm-can-res-boc-2026-039-102
-  - norma_id: norm-can-res-boc-2026-141-29
-  - norma_id: norm-can-res-boc-2020-130-131
-  - norma_id: norm-can-res-098
-  - norma_id: norm-can-res-boc-2022-158-21
-  - norma_id: norm-can-res-032
-  - norma_id: norm-can-res-027
-  - norma_id: norm-can-o-7-6-2007
-  - norma_id: norm-can-d-82-1994
-  - norma_id: norm-can-res-038
-  - norma_id: norm-can-res-014
-  - norma_id: norm-can-res-042
-  - norma_id: norm-can-res-boc-2025-044-89
-  - norma_id: norm-can-res-boc-2024-230-25
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2018-220-18
-  - norma_id: norm-can-res-086
-  - norma_id: norm-can-l-1-1997
-  - norma_id: norm-can-res-boc-2012-035-58
-  - norma_id: norm-can-res-juriscan-71394-16
-  - norma_id: norm-can-res-boc-2024-125-91
-  - norma_id: norm-can-res-juriscan-41360-129
-  - norma_id: norm-can-res-boc-2019-069-48
-  - norma_id: norm-can-res-boc-2025-047-107
-  - norma_id: norm-can-res-boc-2026-070-116
-  - norma_id: norm-can-res-097
-  - norma_id: norm-can-res-095
-  - norma_id: norm-can-res-boc-2022-138-7
-  - norma_id: norm-can-l-6-2014
-  - norma_id: norm-can-o-25-2-2003
-  - norma_id: norm-can-res-boc-2018-019-130
-  - norma_id: norm-can-res-juriscan-48984-84
-  - norma_id: norm-can-res-juriscan-58182-8
-  - norma_id: norm-can-res-boc-2026-132-101
-  - norma_id: norm-can-res-boc-2019-016-13
-  - norma_id: norm-can-res-boc-2017-036-71
-  - norma_id: norm-can-res-boc-2018-048-56
-  - norma_id: norm-can-res-boc-2026-039-103
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-059
-  - norma_id: norm-can-d-52-2009
-  - norma_id: norm-can-res-juriscan-72882-123
-  - norma_id: norm-can-res-boc-2022-087-31
-  - norma_id: norm-can-l-16-2003
-  - norma_id: norm-can-res-boc-2021-109-79
-  - norma_id: norm-can-d-212-1991
-  - norma_id: norm-can-res-boc-2023-133-57
-  - norma_id: norm-can-res-110
-  - norma_id: norm-can-res-boc-2026-046-139
-  - norma_id: norm-can-res-030
-  - norma_id: norm-can-d-114-2011
-  - norma_id: norm-can-res-boc-2017-061-4
-  - norma_id: norm-can-d-106-2009
-  - norma_id: norm-can-res-juriscan-64838-121
-  - norma_id: norm-can-d-234-1996
-  - norma_id: norm-can-d-276-1997
-  - norma_id: norm-can-res-boc-2026-060-61
-  - norma_id: norm-can-res-boc-2022-158-132
-  - norma_id: norm-can-res-boc-2018-106-114
-  - norma_id: norm-can-res-034
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-res-boc-2026-077-62
-  - norma_id: norm-can-res-boc-2017-036-75
-  - norma_id: norm-can-res-boc-2025-039-104
-  - norma_id: norm-can-res-juriscan-49002-54
-  - norma_id: norm-can-d-109-1999
-  - norma_id: norm-can-res-125
-  - norma_id: norm-can-res-boc-2025-061-88
-  - norma_id: norm-can-o-2013-10-09
-  - norma_id: norm-can-res-boc-2026-077-49
-  - norma_id: norm-can-res-boc-2025-047-108
-  - norma_id: norm-can-res-juriscan-75818-136
-  - norma_id: norm-can-res-040
-  - norma_id: norm-can-res-boc-2024-117-93
-  - norma_id: norm-can-res-053
-  - norma_id: norm-can-res-boc-2017-020-2
-  - norma_id: norm-can-res-119
-  - norma_id: norm-can-l-4-2023
-  - norma_id: norm-can-res-039
-  - norma_id: norm-can-res-boc-2004-158-76
-  - norma_id: norm-can-d-101-2023
-  - norma_id: norm-can-res-boc-2019-024-22
-  - norma_id: norm-can-res-099
-  - norma_id: norm-can-res-juriscan-75527-17
-  - norma_id: norm-can-res-boc-2026-116-87
-  - norma_id: norm-can-res-boc-2024-049-109
-  - norma_id: norm-can-res-boc-2026-073-113
-  - norma_id: norm-can-res-juriscan-61148-128
-  - norma_id: norm-can-o-2023-09-28
-  - norma_id: norm-can-res-boc-2023-085-51
-  - norma_id: norm-can-res-juriscan-55445-83
-  - norma_id: norm-can-d-135-2016
-  - norma_id: norm-can-res-juriscan-75634-6
-  - norma_id: norm-can-res-juriscan-72176-78
-  - norma_id: norm-can-res-boc-2025-118-46
-  - norma_id: norm-can-res-boc-1992-106-117
-  - norma_id: norm-can-res-boc-2021-038-3
-  - norma_id: norm-can-res-boc-2017-220-70
-  - norma_id: norm-can-res-boc-2026-039-111
-  - norma_id: norm-can-d-25-2018
-  - norma_id: norm-can-d-168-2009
-  - norma_id: norm-can-res-boc-2022-143-23
-  - norma_id: norm-can-res-boc-2017-169-100
-  - norma_id: norm-can-res-boc-2018-086-122
-  - norma_id: norm-can-res-boc-2018-124-126
-  - norma_id: norm-can-res-juriscan-30668-127
-  - norma_id: norm-can-res-boc-2020-257-24
-  - norma_id: norm-can-res-boc-2022-243-81
-  - norma_id: norm-can-res-043
-  - norma_id: norm-can-res-boc-2025-094-137
-  - norma_id: norm-can-res-boc-2026-129-26
-  - norma_id: norm-can-res-boc-2017-235-5
-  - norma_id: norm-can-res-boc-2026-070-115
-  - norma_id: norm-can-res-090
-  - norma_id: norm-can-res-boc-2018-127-9
-  - norma_id: norm-can-l-2-1987
-  - norma_id: norm-can-res-134
-  - norma_id: norm-can-res-boc-2019-016-12
-  - norma_id: norm-can-d-196-2022
-  - norma_id: norm-can-res-boc-2004-189-65
-  - norma_id: norm-can-res-037
-  - norma_id: norm-can-res-boc-2021-114-80
-  - norma_id: norm-can-res-boc-2018-220-19
-  - norma_id: norm-can-res-boc-2019-067-11
-  - norma_id: norm-can-res-juriscan-70096-50
-  - norma_id: norm-can-res-036
-  - norma_id: norm-can-res-boc-2026-037-105
-  - norma_id: norm-can-res-boc-2026-109-92
-  - norma_id: norm-can-o-1-9-2010
-  - norma_id: norm-can-res-boc-2017-132-1
-  - norma_id: norm-can-res-boc-2025-061-106
-  - norma_id: norm-can-o-2-8-2006
-  - norma_id: norm-can-res-boc-2020-236-82
-  - norma_id: norm-can-res-035
-  - norma_id: norm-can-res-boc-2019-143-74
-  - norma_id: norm-can-d-103-2023
-  - norma_id: norm-can-r-calendario-escolar-2025-2026
-  - norma_id: norm-can-r-inclusión-neae-2025-2026
-  - norma_id: norm-can-r-instrucciones-curso-2025-2026
-  - norma_id: norm-can-r-fp-dual-curso-2025-2026
-  - norma_id: norm-can-r-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d43-2024
-  - norma_id: norm-mad-o1712-2023
-  - norma_id: norm-mad-o-3814-2023
-  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
-  - norma_id: norm-and-d-100-2023
-  - norma_id: norm-and-d-21-2020
-  - norma_id: norm-mad-d29-2013
-  - norma_id: norm-mad-o1240-2013
-  - norma_id: norm-mad-o6116-2025
-  - norma_id: norm-mad-o3536-2025
-  - norma_id: norm-and-d-164-2024
-  - norma_id: norm-mad-o1149-2018
-  - norma_id: norm-mad-d32-2019
-  - norma_id: norm-mad-o893-2022
-  - norma_id: norm-mad-o460-2023
-  - norma_id: norm-mad-d21-2025
-  - norma_id: norm-mad-o1493-2015
-  - norma_id: norm-and-d154-2022
-  - norma_id: norm-and-d-19-2007
-  - norma_id: norm-and-o-18-6-2020
-  - norma_id: norm-and-d328-2010
-  - norma_id: norm-mad-d-230-2023
-  - norma_id: norm-and-r-cdd-2025-2026
-  - norma_id: norm-mad-l1-2022
-  - norma_id: norm-mad-d-32-2019
-  - norma_id: norm-mad-r2-12-2025
-  - norma_id: norm-mad-o123-2015
-  - norma_id: norm-mad-d149-2000
-  - norma_id: norm-and-d101-2023
-  - norma_id: norm-mad-r-cdd-2025-2026
-  - norma_id: norm-and-o-admision-alumnado-2025-2026
-  - norma_id: norm-and-d164-2024
-  - norma_id: norm-mad-o3413-2022
-  - norma_id: norm-mad-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-o1312-2021
-  - norma_id: norm-mad-o-1238-2023
-  - norma_id: norm-and-dl2-2021
-  - norma_id: norm-mad-o2742-2022
-  - norma_id: norm-mad-d126-2017
-  - norma_id: norm-and-o-30-5-2023-primaria
-  - norma_id: norm-and-r-instrucciones-curso-2025-2026
-  - norma_id: norm-mad-o2532-2022
-  - norma_id: norm-mad-d-36-2022
-  - norma_id: norm-mad-o-admision-alumnado-2025-2026
-  - norma_id: norm-mad-d65-2022
-  - norma_id: norm-mad-d-164-2024
-  - norma_id: norm-mad-d-23-2023
-  - norma_id: norm-and-o-15-1-2021
-  - norma_id: norm-mad-o1736-2023
-  - norma_id: norm-and-d162-2009
-  - norma_id: norm-and-o-30-5-2023-eso
-  - norma_id: norm-and-d100-2023
-  - norma_id: norm-and-d103-2023
-  - norma_id: norm-and-l1-2020
-  - norma_id: norm-mad-o592-2022
-  - norma_id: norm-and-d-328-2010
-  - norma_id: norm-mad-o2356-2023
-  - norma_id: norm-and-l3-2021
-  - norma_id: norm-mad-o3537-2025
-  - norma_id: norm-mad-o2067-2023
-  - norma_id: norm-mad-r23-6-2025
-  - norma_id: norm-and-r-calendario-escolar-2025-2026
-  - norma_id: norm-mad-d-64-2022
-  - norma_id: norm-mad-d64-2022
-  - norma_id: norm-mad-o457-2023
-  - norma_id: norm-and-l4-1984
-  - norma_id: norm-and-d19-2007
-  - norma_id: norm-mad-l2-2010
-  - norma_id: norm-mad-o190-2023
-  - norma_id: norm-and-d102-2023
-  - norma_id: norm-mad-d15-2016
-  - norma_id: norm-and-d147-2002
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-mad-d-61-2022
-  - norma_id: norm-mad-o-123-2015
-  - norma_id: norm-mad-o1338-2023
-  - norma_id: norm-and-d-285-2023
-  - norma_id: norm-and-dl1-2017
-  - norma_id: norm-mad-o2808-2023
-  - norma_id: norm-mad-d64-2025
-  - norma_id: norm-mad-o266-2023
-  - norma_id: norm-and-d327-2010
-  - norma_id: norm-and-d-327-2010
-  - norma_id: norm-and-l9-1999
-  - norma_id: norm-mad-d23-2023
-  - norma_id: norm-mad-o130-2023
-  - norma_id: norm-mad-d-29-2013
-  - norma_id: norm-mad-d-149-2000
-  - norma_id: norm-and-d-363-2011
-  - norma_id: norm-and-o-20-8-2010
-  - norma_id: norm-mad-d-65-2022
-  - norma_id: norm-and-d-6-2017
-  - norma_id: norm-and-d-362-2011
-  - norma_id: norm-mad-o-1605-2024
-  - norma_id: norm-and-d-329-2010
-  - norma_id: norm-and-d-147-2002
-  - norma_id: norm-mad-d-43-2024
-  - norma_id: norm-and-o-30-5-2023-bach
-  - norma_id: norm-and-d-436-2008
-  - norma_id: norm-mad-o-190-2023
-  - norma_id: norm-and-d-365-2011
-  - norma_id: norm-and-d-68-2008
-  - norma_id: norm-and-d-117-1985
-  - norma_id: norm-mad-d-10-2023
-  - norma_id: norm-mad-d-11-2019
-  - norma_id: norm-and-d-56-1994
-  - norma_id: norm-mad-d-126-2017
-  - norma_id: norm-and-d-254-2001
-  - norma_id: norm-mad-d-35-2019
-  - norma_id: norm-and-d-4-1993
-  - norma_id: norm-mad-d-12-2022
-  - norma_id: norm-mad-o-893-2022
-  - norma_id: norm-and-o-19-4-2005
-  - norma_id: norm-and-d-156-1983
-  - norma_id: norm-and-d-266-1988
-  - norma_id: norm-and-d-95-2003
-  - norma_id: norm-and-d-208-1997
-  - norma_id: norm-and-d-2-1995
-  - norma_id: norm-mad-o-1312-2021
-  - norma_id: norm-and-d-19-1995
-  - norma_id: norm-and-o-18-6-2001
-  - norma_id: norm-and-d-77-1994
-  - norma_id: norm-and-d-204-1995
-  - norma_id: norm-mad-d-43-2022
-  - norma_id: norm-and-o-23-4-2007
-  - norma_id: norm-mad-o-2808-2023
-  - norma_id: norm-mad-o-1050-2020
-  - norma_id: norm-and-d-1-2011
-  - norma_id: norm-mad-d-56-2023
-  - norma_id: norm-and-d-467-1994
-  - norma_id: norm-and-d-54-1989
-  - norma_id: norm-and-d-276-1987
-  - norma_id: norm-and-o-10-5-2006
-  - norma_id: norm-mad-o-2882-2019
-  - norma_id: norm-and-d-206-2006
-  - norma_id: norm-and-o-10-2-2004
-  - norma_id: norm-mad-d-21-2025
-  - norma_id: norm-mad-o-276-2019
-  - norma_id: norm-mad-o-2808-2017
-  - norma_id: norm-and-d-390-1986
-  - norma_id: norm-mad-d-51-2023
-  - norma_id: norm-and-d-21-1985
-  - norma_id: norm-and-o-20-7-2006
-  - norma_id: norm-and-d-14-1995
-  - norma_id: norm-mad-o-1338-2023
-  - norma_id: norm-and-o-15-12-2008
-  - norma_id: norm-and-d-167-2003
-  - norma_id: norm-mad-o-2150-2020
-  - norma_id: norm-and-d-52-2021
-  - norma_id: norm-mad-d-112-2002
-  - norma_id: norm-and-o-17-6-2009
-  - norma_id: norm-and-o-26-5-2011-arte
-  - norma_id: norm-and-o-10-8-2007
-  - norma_id: norm-and-o-12-7-2011
-  - norma_id: norm-mad-l-2-2010
-  - norma_id: norm-mad-l-4-2023
-  - norma_id: norm-and-d-431-2008
-  - norma_id: norm-and-o-29-9-2008
-  - norma_id: norm-mad-r-acoso-2022
-  - norma_id: norm-and-o-20-6-2011
-  - norma_id: norm-and-d-140-2002
-  - norma_id: norm-mad-o-6116-2025
-  - norma_id: norm-and-o-10-11-2020
-  - norma_id: norm-and-o-15-7-2008
-  - norma_id: norm-and-r-12-2-2021
-  - norma_id: norm-and-d-80-1999
-  - norma_id: norm-and-o-25-7-2008
-  - norma_id: norm-and-d-213-1995
-  - norma_id: norm-and-d-155-1997
-  - norma_id: norm-and-o-16-11-2007
-  - norma_id: norm-and-o-16-4-2008
-  - norma_id: norm-and-o-11-12-2012
-  - norma_id: norm-mad-d-126-2014
-  - norma_id: norm-and-o-3-8-2010
-  - norma_id: norm-and-o-24-6-2008
-  - norma_id: norm-and-o-26-5-2011-eoi
-  - norma_id: norm-and-o-27-7-2006
-  - norma_id: norm-mad-d-31-2011
-  - norma_id: norm-and-o-28-6-2011
-  - norma_id: norm-and-r-1-9-2025
-  - norma_id: norm-and-o-14-7-2016
-  - norma_id: norm-mad-d-15-2016
-  - norma_id: norm-and-d-40-2011
-  - norma_id: norm-and-o-26-5-2011
-  - norma_id: norm-and-o-14-3-1995
-  - norma_id: norm-and-o-3-1-2000
-  - norma_id: norm-and-r-27-6-2023
-  - norma_id: norm-and-o-12-5-2017
-  - norma_id: norm-and-d-149-1988
-  - norma_id: norm-and-d-276-1998
-  - norma_id: norm-and-o-31-5-1994
-  - norma_id: norm-and-o-9-9-1993
-  - norma_id: norm-mad-d-18-2024
-  - norma_id: norm-and-o-12-7-2004
-  - norma_id: norm-mad-o-1568-2022
-  - norma_id: norm-and-o-18-4-2001
-  - norma_id: norm-mad-o-2460-2023
-  - norma_id: norm-mad-d-45-2023
-  - norma_id: norm-and-o-29-12-2000
-  - norma_id: norm-mad-o-3210-2021
-  - norma_id: norm-and-r-28-8-2002
-  - norma_id: norm-mad-r-inicio-2025
-  - norma_id: norm-and-d-512-1996
-  - norma_id: norm-and-o-8-7-1996
-  - norma_id: norm-mad-d-88-2021
-  - norma_id: norm-mad-o-1493-2015
-  - norma_id: norm-and-o-22-7-2013
-  - norma_id: norm-and-d-156-1997
-  - norma_id: norm-mad-o-1117-2020
-  - norma_id: norm-and-d-85-1999
-  - norma_id: norm-and-o-28-3-2008
-  - norma_id: norm-and-d-135-2014
-  - norma_id: norm-mad-o-3622-2014
-  - norma_id: norm-mad-o-1190-2021
-  - norma_id: norm-mad-o-1240-2013
-  - norma_id: norm-mad-o-2694-2009
-  - norma_id: norm-and-o-17-9-2010
-  - norma_id: norm-and-o-16-12-2008
-  - norma_id: norm-and-r-14-12-2009
-  - norma_id: norm-and-o-12-6-2008
-  - norma_id: norm-and-d-166-2003
-  - norma_id: norm-and-o-19-9-2002
-  - norma_id: norm-mad-o-2300-2022
-  - norma_id: norm-mad-d-15-2023
-  - norma_id: norm-and-d-115-2002
-  - norma_id: norm-and-d-301-2009
-  - norma_id: norm-mad-d-40-2021
-  - norma_id: norm-mad-d-29-2019
-  - norma_id: norm-and-o-24-7-2006
-  - norma_id: norm-and-o-26-6-2012
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-1889-4763
+    - norma_id: norm-es-1971-1198
+    - norma_id: norm-es-1985-19457
+    - norma_id: norm-es-1987-11341
+    - norma_id: norm-es-1987-13494
+    - norma_id: norm-es-1988-6938
+    - norma_id: norm-es-1991-342
+    - norma_id: norm-es-1995-8730
+    - norma_id: norm-es-1996-10210
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2000-5990
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-4371
+    - norma_id: norm-es-2004-15601
+    - norma_id: norm-es-2005-21534
+    - norma_id: norm-es-2006-21648
+    - norma_id: norm-es-2007-10487
+    - norma_id: norm-es-2007-19326
+    - norma_id: norm-es-2007-22017
+    - norma_id: norm-es-2007-22450
+    - norma_id: norm-es-2007-5478
+    - norma_id: norm-es-2009-20550
+    - norma_id: norm-es-2009-3424
+    - norma_id: norm-es-2010-11426
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2010-12706
+    - norma_id: norm-es-2010-13564
+    - norma_id: norm-es-2010-4130
+    - norma_id: norm-es-2011-12632
+    - norma_id: norm-es-2011-13117
+    - norma_id: norm-es-2011-15628
+    - norma_id: norm-es-2011-16923
+    - norma_id: norm-es-2011-2615
+    - norma_id: norm-es-2012-5337
+    - norma_id: norm-es-2012-8745
+    - norma_id: norm-es-2012-9282
+    - norma_id: norm-es-2013-10219
+    - norma_id: norm-es-2013-12632
+    - norma_id: norm-es-2013-6281
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2014-5591
+    - norma_id: norm-es-2014-6008
+    - norma_id: norm-es-2015-738
+    - norma_id: norm-es-2015-8043
+    - norma_id: norm-es-2015-8470
+    - norma_id: norm-es-2015-8702
+    - norma_id: norm-es-2015-9453
+    - norma_id: norm-es-2015-9462
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2018-16287
+    - norma_id: norm-es-2018-5111
+    - norma_id: norm-es-2018-6348
+    - norma_id: norm-es-2019-317
+    - norma_id: norm-es-2019-3307
+    - norma_id: norm-es-2020-17274
+    - norma_id: norm-es-2021-18189
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2021-979
+    - norma_id: norm-es-2022-12014
+    - norma_id: norm-es-2022-1274
+    - norma_id: norm-es-2022-15953
+    - norma_id: norm-es-2022-16194
+    - norma_id: norm-es-2023-3846
+    - norma_id: norm-es-2023-9553
+    - norma_id: norm-es-2024-10683
+    - norma_id: norm-es-2024-10684
+    - norma_id: norm-es-2024-10685
+    - norma_id: norm-es-2024-11613
+    - norma_id: norm-es-2025-16039
+    - norma_id: norm-es-2025-2039
+    - norma_id: norm-es-2026-12038
+    - norma_id: norm-es-2026-15301
+    - norma_id: norm-es-2026-2622
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-lo-3-2022
+    - norma_id: norm-es-lo-8-2021
+    - norma_id: norm-es-rd-443-2001
+    - norma_id: norm-es-rd-659-2023
+    - norma_id: norm-can-res-juriscan-65632-66
+    - norma_id: norm-es-2010-10321
+    - norma_id: norm-can-res-juriscan-66772-94
+    - norma_id: norm-can-res-juriscan-22458-15
+    - norma_id: norm-can-res-boc-2002-148-77
+    - norma_id: norm-can-res-juriscan-64565-138
+    - norma_id: norm-can-res-112
+    - norma_id: norm-can-d-9-2022
+    - norma_id: norm-can-res-boc-2024-226-44
+    - norma_id: norm-can-lo-1-2018
+    - norma_id: norm-can-res-juriscan-63878-20
+    - norma_id: norm-can-res-boc-2011-099-72
+    - norma_id: norm-can-res-boc-2026-070-41
+    - norma_id: norm-can-res-boc-2026-075-85
+    - norma_id: norm-can-res-096
+    - norma_id: norm-can-res-juriscan-74499-67
+    - norma_id: norm-can-d-81-2010
+    - norma_id: norm-can-res-juriscan-69937-120
+    - norma_id: norm-can-res-135
+    - norma_id: norm-can-d-74-2010
+    - norma_id: norm-can-d-40-2005
+    - norma_id: norm-can-res-028
+    - norma_id: norm-can-l-14-1990
+    - norma_id: norm-can-res-055
+    - norma_id: norm-can-res-juriscan-73844-69
+    - norma_id: norm-can-res-118
+    - norma_id: norm-can-res-boc-2019-234-52
+    - norma_id: norm-can-res-juriscan-64885-10
+    - norma_id: norm-can-d-23-1995
+    - norma_id: norm-can-d-102-2023
+    - norma_id: norm-can-res-033
+    - norma_id: norm-can-res-juriscan-72788-60
+    - norma_id: norm-can-res-juriscan-65631-68
+    - norma_id: norm-can-res-boc-2025-046-47
+    - norma_id: norm-can-res-boc-2026-039-102
+    - norma_id: norm-can-res-boc-2026-141-29
+    - norma_id: norm-can-res-boc-2020-130-131
+    - norma_id: norm-can-res-098
+    - norma_id: norm-can-res-boc-2022-158-21
+    - norma_id: norm-can-res-032
+    - norma_id: norm-can-res-027
+    - norma_id: norm-can-o-7-6-2007
+    - norma_id: norm-can-d-82-1994
+    - norma_id: norm-can-res-038
+    - norma_id: norm-can-res-014
+    - norma_id: norm-can-res-042
+    - norma_id: norm-can-res-boc-2025-044-89
+    - norma_id: norm-can-res-boc-2024-230-25
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-boc-2018-220-18
+    - norma_id: norm-can-res-086
+    - norma_id: norm-can-l-1-1997
+    - norma_id: norm-can-res-boc-2012-035-58
+    - norma_id: norm-can-res-juriscan-71394-16
+    - norma_id: norm-can-res-boc-2024-125-91
+    - norma_id: norm-can-res-juriscan-41360-129
+    - norma_id: norm-can-res-boc-2019-069-48
+    - norma_id: norm-can-res-boc-2025-047-107
+    - norma_id: norm-can-res-boc-2026-070-116
+    - norma_id: norm-can-res-097
+    - norma_id: norm-can-res-095
+    - norma_id: norm-can-res-boc-2022-138-7
+    - norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-o-25-2-2003
+    - norma_id: norm-can-res-boc-2018-019-130
+    - norma_id: norm-can-res-juriscan-48984-84
+    - norma_id: norm-can-res-juriscan-58182-8
+    - norma_id: norm-can-res-boc-2026-132-101
+    - norma_id: norm-can-res-boc-2019-016-13
+    - norma_id: norm-can-res-boc-2017-036-71
+    - norma_id: norm-can-res-boc-2018-048-56
+    - norma_id: norm-can-res-boc-2026-039-103
+    - norma_id: norm-can-d-84-2024
+    - norma_id: norm-can-res-059
+    - norma_id: norm-can-d-52-2009
+    - norma_id: norm-can-res-juriscan-72882-123
+    - norma_id: norm-can-res-boc-2022-087-31
+    - norma_id: norm-can-l-16-2003
+    - norma_id: norm-can-res-boc-2021-109-79
+    - norma_id: norm-can-d-212-1991
+    - norma_id: norm-can-res-boc-2023-133-57
+    - norma_id: norm-can-res-110
+    - norma_id: norm-can-res-boc-2026-046-139
+    - norma_id: norm-can-res-030
+    - norma_id: norm-can-d-114-2011
+    - norma_id: norm-can-res-boc-2017-061-4
+    - norma_id: norm-can-d-106-2009
+    - norma_id: norm-can-res-juriscan-64838-121
+    - norma_id: norm-can-d-234-1996
+    - norma_id: norm-can-d-276-1997
+    - norma_id: norm-can-res-boc-2026-060-61
+    - norma_id: norm-can-res-boc-2022-158-132
+    - norma_id: norm-can-res-boc-2018-106-114
+    - norma_id: norm-can-res-034
+    - norma_id: norm-can-d-123-2023
+    - norma_id: norm-can-res-boc-2026-077-62
+    - norma_id: norm-can-res-boc-2017-036-75
+    - norma_id: norm-can-res-boc-2025-039-104
+    - norma_id: norm-can-res-juriscan-49002-54
+    - norma_id: norm-can-d-109-1999
+    - norma_id: norm-can-res-125
+    - norma_id: norm-can-res-boc-2025-061-88
+    - norma_id: norm-can-o-2013-10-09
+    - norma_id: norm-can-res-boc-2026-077-49
+    - norma_id: norm-can-res-boc-2025-047-108
+    - norma_id: norm-can-res-juriscan-75818-136
+    - norma_id: norm-can-res-040
+    - norma_id: norm-can-res-boc-2024-117-93
+    - norma_id: norm-can-res-053
+    - norma_id: norm-can-res-boc-2017-020-2
+    - norma_id: norm-can-res-119
+    - norma_id: norm-can-l-4-2023
+    - norma_id: norm-can-res-039
+    - norma_id: norm-can-res-boc-2004-158-76
+    - norma_id: norm-can-d-101-2023
+    - norma_id: norm-can-res-boc-2019-024-22
+    - norma_id: norm-can-res-099
+    - norma_id: norm-can-res-juriscan-75527-17
+    - norma_id: norm-can-res-boc-2026-116-87
+    - norma_id: norm-can-res-boc-2024-049-109
+    - norma_id: norm-can-res-boc-2026-073-113
+    - norma_id: norm-can-res-juriscan-61148-128
+    - norma_id: norm-can-o-2023-09-28
+    - norma_id: norm-can-res-boc-2023-085-51
+    - norma_id: norm-can-res-juriscan-55445-83
+    - norma_id: norm-can-d-135-2016
+    - norma_id: norm-can-res-juriscan-75634-6
+    - norma_id: norm-can-res-juriscan-72176-78
+    - norma_id: norm-can-res-boc-2025-118-46
+    - norma_id: norm-can-res-boc-1992-106-117
+    - norma_id: norm-can-res-boc-2021-038-3
+    - norma_id: norm-can-res-boc-2017-220-70
+    - norma_id: norm-can-res-boc-2026-039-111
+    - norma_id: norm-can-d-25-2018
+    - norma_id: norm-can-d-168-2009
+    - norma_id: norm-can-res-boc-2022-143-23
+    - norma_id: norm-can-res-boc-2017-169-100
+    - norma_id: norm-can-res-boc-2018-086-122
+    - norma_id: norm-can-res-boc-2018-124-126
+    - norma_id: norm-can-res-juriscan-30668-127
+    - norma_id: norm-can-res-boc-2020-257-24
+    - norma_id: norm-can-res-boc-2022-243-81
+    - norma_id: norm-can-res-043
+    - norma_id: norm-can-res-boc-2025-094-137
+    - norma_id: norm-can-res-boc-2026-129-26
+    - norma_id: norm-can-res-boc-2017-235-5
+    - norma_id: norm-can-res-boc-2026-070-115
+    - norma_id: norm-can-res-090
+    - norma_id: norm-can-res-boc-2018-127-9
+    - norma_id: norm-can-l-2-1987
+    - norma_id: norm-can-res-134
+    - norma_id: norm-can-res-boc-2019-016-12
+    - norma_id: norm-can-d-196-2022
+    - norma_id: norm-can-res-boc-2004-189-65
+    - norma_id: norm-can-res-037
+    - norma_id: norm-can-res-boc-2021-114-80
+    - norma_id: norm-can-res-boc-2018-220-19
+    - norma_id: norm-can-res-boc-2019-067-11
+    - norma_id: norm-can-res-juriscan-70096-50
+    - norma_id: norm-can-res-036
+    - norma_id: norm-can-res-boc-2026-037-105
+    - norma_id: norm-can-res-boc-2026-109-92
+    - norma_id: norm-can-o-1-9-2010
+    - norma_id: norm-can-res-boc-2017-132-1
+    - norma_id: norm-can-res-boc-2025-061-106
+    - norma_id: norm-can-o-2-8-2006
+    - norma_id: norm-can-res-boc-2020-236-82
+    - norma_id: norm-can-res-035
+    - norma_id: norm-can-res-boc-2019-143-74
+    - norma_id: norm-can-d-103-2023
+    - norma_id: norm-can-r-calendario-escolar-2025-2026
+    - norma_id: norm-can-r-inclusión-neae-2025-2026
+    - norma_id: norm-can-r-instrucciones-curso-2025-2026
+    - norma_id: norm-can-r-fp-dual-curso-2025-2026
+    - norma_id: norm-can-r-admision-alumnado-2025-2026
+    - norma_id: norm-mad-d43-2024
+    - norma_id: norm-mad-o1712-2023
+    - norma_id: norm-mad-o-3814-2023
+    - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+    - norma_id: norm-and-d-100-2023
+    - norma_id: norm-and-d-21-2020
+    - norma_id: norm-mad-d29-2013
+    - norma_id: norm-mad-o1240-2013
+    - norma_id: norm-mad-o6116-2025
+    - norma_id: norm-mad-o3536-2025
+    - norma_id: norm-and-d-164-2024
+    - norma_id: norm-mad-o1149-2018
+    - norma_id: norm-mad-d32-2019
+    - norma_id: norm-mad-o893-2022
+    - norma_id: norm-mad-o460-2023
+    - norma_id: norm-mad-d21-2025
+    - norma_id: norm-mad-o1493-2015
+    - norma_id: norm-and-d154-2022
+    - norma_id: norm-and-d-19-2007
+    - norma_id: norm-and-o-18-6-2020
+    - norma_id: norm-and-d328-2010
+    - norma_id: norm-mad-d-230-2023
+    - norma_id: norm-and-r-cdd-2025-2026
+    - norma_id: norm-mad-l1-2022
+    - norma_id: norm-mad-d-32-2019
+    - norma_id: norm-mad-r2-12-2025
+    - norma_id: norm-mad-o123-2015
+    - norma_id: norm-mad-d149-2000
+    - norma_id: norm-and-d101-2023
+    - norma_id: norm-mad-r-cdd-2025-2026
+    - norma_id: norm-and-o-admision-alumnado-2025-2026
+    - norma_id: norm-and-d164-2024
+    - norma_id: norm-mad-o3413-2022
+    - norma_id: norm-mad-r-calendario-escolar-2025-2026
+    - norma_id: norm-mad-o1312-2021
+    - norma_id: norm-mad-o-1238-2023
+    - norma_id: norm-and-dl2-2021
+    - norma_id: norm-mad-o2742-2022
+    - norma_id: norm-mad-d126-2017
+    - norma_id: norm-and-o-30-5-2023-primaria
+    - norma_id: norm-and-r-instrucciones-curso-2025-2026
+    - norma_id: norm-mad-o2532-2022
+    - norma_id: norm-mad-d-36-2022
+    - norma_id: norm-mad-o-admision-alumnado-2025-2026
+    - norma_id: norm-mad-d65-2022
+    - norma_id: norm-mad-d-164-2024
+    - norma_id: norm-mad-d-23-2023
+    - norma_id: norm-and-o-15-1-2021
+    - norma_id: norm-mad-o1736-2023
+    - norma_id: norm-and-d162-2009
+    - norma_id: norm-and-o-30-5-2023-eso
+    - norma_id: norm-and-d100-2023
+    - norma_id: norm-and-d103-2023
+    - norma_id: norm-and-l1-2020
+    - norma_id: norm-mad-o592-2022
+    - norma_id: norm-and-d-328-2010
+    - norma_id: norm-mad-o2356-2023
+    - norma_id: norm-and-l3-2021
+    - norma_id: norm-mad-o3537-2025
+    - norma_id: norm-mad-o2067-2023
+    - norma_id: norm-mad-r23-6-2025
+    - norma_id: norm-and-r-calendario-escolar-2025-2026
+    - norma_id: norm-mad-d-64-2022
+    - norma_id: norm-mad-d64-2022
+    - norma_id: norm-mad-o457-2023
+    - norma_id: norm-and-l4-1984
+    - norma_id: norm-and-d19-2007
+    - norma_id: norm-mad-l2-2010
+    - norma_id: norm-mad-o190-2023
+    - norma_id: norm-and-d102-2023
+    - norma_id: norm-mad-d15-2016
+    - norma_id: norm-and-d147-2002
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-mad-d-61-2022
+    - norma_id: norm-mad-o-123-2015
+    - norma_id: norm-mad-o1338-2023
+    - norma_id: norm-and-d-285-2023
+    - norma_id: norm-and-dl1-2017
+    - norma_id: norm-mad-o2808-2023
+    - norma_id: norm-mad-d64-2025
+    - norma_id: norm-mad-o266-2023
+    - norma_id: norm-and-d327-2010
+    - norma_id: norm-and-d-327-2010
+    - norma_id: norm-and-l9-1999
+    - norma_id: norm-mad-d23-2023
+    - norma_id: norm-mad-o130-2023
+    - norma_id: norm-mad-d-29-2013
+    - norma_id: norm-mad-d-149-2000
+    - norma_id: norm-and-d-363-2011
+    - norma_id: norm-and-o-20-8-2010
+    - norma_id: norm-mad-d-65-2022
+    - norma_id: norm-and-d-6-2017
+    - norma_id: norm-and-d-362-2011
+    - norma_id: norm-mad-o-1605-2024
+    - norma_id: norm-and-d-329-2010
+    - norma_id: norm-and-d-147-2002
+    - norma_id: norm-mad-d-43-2024
+    - norma_id: norm-and-o-30-5-2023-bach
+    - norma_id: norm-and-d-436-2008
+    - norma_id: norm-mad-o-190-2023
+    - norma_id: norm-and-d-365-2011
+    - norma_id: norm-and-d-68-2008
+    - norma_id: norm-and-d-117-1985
+    - norma_id: norm-mad-d-10-2023
+    - norma_id: norm-mad-d-11-2019
+    - norma_id: norm-and-d-56-1994
+    - norma_id: norm-mad-d-126-2017
+    - norma_id: norm-and-d-254-2001
+    - norma_id: norm-mad-d-35-2019
+    - norma_id: norm-and-d-4-1993
+    - norma_id: norm-mad-d-12-2022
+    - norma_id: norm-mad-o-893-2022
+    - norma_id: norm-and-o-19-4-2005
+    - norma_id: norm-and-d-156-1983
+    - norma_id: norm-and-d-266-1988
+    - norma_id: norm-and-d-95-2003
+    - norma_id: norm-and-d-208-1997
+    - norma_id: norm-and-d-2-1995
+    - norma_id: norm-mad-o-1312-2021
+    - norma_id: norm-and-d-19-1995
+    - norma_id: norm-and-o-18-6-2001
+    - norma_id: norm-and-d-77-1994
+    - norma_id: norm-and-d-204-1995
+    - norma_id: norm-mad-d-43-2022
+    - norma_id: norm-and-o-23-4-2007
+    - norma_id: norm-mad-o-2808-2023
+    - norma_id: norm-mad-o-1050-2020
+    - norma_id: norm-and-d-1-2011
+    - norma_id: norm-mad-d-56-2023
+    - norma_id: norm-and-d-467-1994
+    - norma_id: norm-and-d-54-1989
+    - norma_id: norm-and-d-276-1987
+    - norma_id: norm-and-o-10-5-2006
+    - norma_id: norm-mad-o-2882-2019
+    - norma_id: norm-and-d-206-2006
+    - norma_id: norm-and-o-10-2-2004
+    - norma_id: norm-mad-d-21-2025
+    - norma_id: norm-mad-o-276-2019
+    - norma_id: norm-mad-o-2808-2017
+    - norma_id: norm-and-d-390-1986
+    - norma_id: norm-mad-d-51-2023
+    - norma_id: norm-and-d-21-1985
+    - norma_id: norm-and-o-20-7-2006
+    - norma_id: norm-and-d-14-1995
+    - norma_id: norm-mad-o-1338-2023
+    - norma_id: norm-and-o-15-12-2008
+    - norma_id: norm-and-d-167-2003
+    - norma_id: norm-mad-o-2150-2020
+    - norma_id: norm-and-d-52-2021
+    - norma_id: norm-mad-d-112-2002
+    - norma_id: norm-and-o-17-6-2009
+    - norma_id: norm-and-o-26-5-2011-arte
+    - norma_id: norm-and-o-10-8-2007
+    - norma_id: norm-and-o-12-7-2011
+    - norma_id: norm-mad-l-2-2010
+    - norma_id: norm-mad-l-4-2023
+    - norma_id: norm-and-d-431-2008
+    - norma_id: norm-and-o-29-9-2008
+    - norma_id: norm-mad-r-acoso-2022
+    - norma_id: norm-and-o-20-6-2011
+    - norma_id: norm-and-d-140-2002
+    - norma_id: norm-mad-o-6116-2025
+    - norma_id: norm-and-o-10-11-2020
+    - norma_id: norm-and-o-15-7-2008
+    - norma_id: norm-and-r-12-2-2021
+    - norma_id: norm-and-d-80-1999
+    - norma_id: norm-and-o-25-7-2008
+    - norma_id: norm-and-d-213-1995
+    - norma_id: norm-and-d-155-1997
+    - norma_id: norm-and-o-16-11-2007
+    - norma_id: norm-and-o-16-4-2008
+    - norma_id: norm-and-o-11-12-2012
+    - norma_id: norm-mad-d-126-2014
+    - norma_id: norm-and-o-3-8-2010
+    - norma_id: norm-and-o-24-6-2008
+    - norma_id: norm-and-o-26-5-2011-eoi
+    - norma_id: norm-and-o-27-7-2006
+    - norma_id: norm-mad-d-31-2011
+    - norma_id: norm-and-o-28-6-2011
+    - norma_id: norm-and-r-1-9-2025
+    - norma_id: norm-and-o-14-7-2016
+    - norma_id: norm-mad-d-15-2016
+    - norma_id: norm-and-d-40-2011
+    - norma_id: norm-and-o-26-5-2011
+    - norma_id: norm-and-o-14-3-1995
+    - norma_id: norm-and-o-3-1-2000
+    - norma_id: norm-and-r-27-6-2023
+    - norma_id: norm-and-o-12-5-2017
+    - norma_id: norm-and-d-149-1988
+    - norma_id: norm-and-d-276-1998
+    - norma_id: norm-and-o-31-5-1994
+    - norma_id: norm-and-o-9-9-1993
+    - norma_id: norm-mad-d-18-2024
+    - norma_id: norm-and-o-12-7-2004
+    - norma_id: norm-mad-o-1568-2022
+    - norma_id: norm-and-o-18-4-2001
+    - norma_id: norm-mad-o-2460-2023
+    - norma_id: norm-mad-d-45-2023
+    - norma_id: norm-and-o-29-12-2000
+    - norma_id: norm-mad-o-3210-2021
+    - norma_id: norm-and-r-28-8-2002
+    - norma_id: norm-mad-r-inicio-2025
+    - norma_id: norm-and-d-512-1996
+    - norma_id: norm-and-o-8-7-1996
+    - norma_id: norm-mad-d-88-2021
+    - norma_id: norm-mad-o-1493-2015
+    - norma_id: norm-and-o-22-7-2013
+    - norma_id: norm-and-d-156-1997
+    - norma_id: norm-mad-o-1117-2020
+    - norma_id: norm-and-d-85-1999
+    - norma_id: norm-and-o-28-3-2008
+    - norma_id: norm-and-d-135-2014
+    - norma_id: norm-mad-o-3622-2014
+    - norma_id: norm-mad-o-1190-2021
+    - norma_id: norm-mad-o-1240-2013
+    - norma_id: norm-mad-o-2694-2009
+    - norma_id: norm-and-o-17-9-2010
+    - norma_id: norm-and-o-16-12-2008
+    - norma_id: norm-and-r-14-12-2009
+    - norma_id: norm-and-o-12-6-2008
+    - norma_id: norm-and-d-166-2003
+    - norma_id: norm-and-o-19-9-2002
+    - norma_id: norm-mad-o-2300-2022
+    - norma_id: norm-mad-d-15-2023
+    - norma_id: norm-and-d-115-2002
+    - norma_id: norm-and-d-301-2009
+    - norma_id: norm-mad-d-40-2021
+    - norma_id: norm-mad-d-29-2019
+    - norma_id: norm-and-o-24-7-2006
+    - norma_id: norm-and-o-26-6-2012
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-ce-1978
+    - '27'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-8-1985
+    - '27'
+    - norma_id: norm-es-lo-8-1985
   articulos:
-  - '1'
-  - '6'
-- norma_id: norm-es-1984-17387
-- norma_id: norm-es-2000-544
-- norma_id: norm-es-1987-15278
-- norma_id: norm-es-2001-7022
-- norma_id: norm-es-2002-12018
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
-- norma_id: norm-es-lo-1-2004
+    - '1'
+    - '6'
+    - norma_id: norm-es-1984-17387
+    - norma_id: norm-es-2000-544
+    - norma_id: norm-es-1987-15278
+    - norma_id: norm-es-2001-7022
+    - norma_id: norm-es-2002-12018
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-lo-1-2004
 ---
-
-## Preámbulo
-
 # Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
 
-## PREÁMBULO
+## Preámbulo
 
 Las sociedades actuales conceden gran importancia a la educación que reciben sus jóvenes, en la convicción de que de ella dependen tanto el bienestar individual como el colectivo. La educación es el medio más adecuado para construir su personalidad, desarrollar al máximo sus capacidades, conformar su propia identidad personal y configurar su comprensión de la realidad, integrando la dimensión cognoscitiva, la afectiva y la axiológica. Para la sociedad, la educación es el medio de transmitir y, al mismo tiempo, de renovar la cultura y el acervo de conocimientos y valores que la sustentan, de extraer las máximas posibilidades de sus fuentes de riqueza, de fomentar la convivencia democrática y el respeto a las diferencias individuales, de promover la solidaridad y evitar la discriminación, con el objetivo fundamental de lograr la necesaria cohesión social. Además, la educación es el medio más adecuado para garantizar el ejercicio de la ciudadanía democrática, responsable, libre y crítica, que resulta indispensable para la constitución de sociedades avanzadas, dinámicas y justas. Por ese motivo, una buena educación es la mayor riqueza y el principal recurso de un país y de sus ciudadanos.
 
@@ -1104,15 +1100,9 @@ En las disposiciones transitorias se aborda, entre otras cuestiones, la jubilaci
 
 Se recoge una disposición derogatoria única. Las disposiciones finales abordan, entre otros aspectos, la modificación de la Ley Orgánica del Derecho a la Educación y de la Ley de Medidas para la Reforma de la Función Pública, la competencia que corresponde al Estado al amparo de la Constitución para dictar esta Ley, la competencia para su desarrollo y su carácter orgánico.
 
-TÍTULO PRELIMINAR
+## Título Preliminar
 
-CAPÍTULO I
-
-Principios y fines de la educación
-
-#### Artículo 1. Principios.
-
-El sistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, se inspira en los siguientes principios:
+## Capítulo I. Principios y fines de la educación artículo 1 Principios. El sistema educativo español, configurado de acuerdo con los valores de la Constitución y asentado en el respeto a los derechos y libertades reconocidos en ella, se inspira en los siguientes principios:.
 
 a) La calidad de la educación para todo el alumnado, independientemente de sus condiciones y circunstancias.
 
@@ -1176,9 +1166,7 @@ k) La preparación para el ejercicio de la ciudadanía y para la participación 
 
 2. Los poderes públicos prestarán una atención prioritaria al conjunto de factores que favorecen la calidad de la enseñanza y, en especial, la cualificación y formación del profesorado, su trabajo en equipo, la dotación de recursos educativos, la investigación, la experimentación y la renovación educativa, el fomento de la lectura y el uso de bibliotecas, la autonomía pedagógica, organizativa y de gestión, la función directiva, la orientación educativa y profesional, la inspección educativa y la evaluación.
 
-CAPÍTULO II
-
-La organización de las enseñanzas y el aprendizaje a lo largo de la vida
+## Capítulo II. La organización de las enseñanzas y el aprendizaje a lo largo de la vida.
 
 #### Artículo 3. Las enseñanzas.
 
@@ -1196,15 +1184,15 @@ d) Bachillerato.
 
 e) Formación profesional.
 
-f)  Enseñanzas de idiomas.
+f) Enseñanzas de idiomas.
 
 g) Enseñanzas artísticas.
 
 h) Enseñanzas deportivas.
 
-i)  Educación de personas adultas.
+i) Educación de personas adultas.
 
-j)  Enseñanza universitaria.
+j) Enseñanza universitaria.
 
 3. La educación primaria y la educación secundaria obligatoria constituyen la educación básica.
 
@@ -1242,9 +1230,7 @@ j)  Enseñanza universitaria.
 
 6. Corresponde a las Administraciones públicas facilitar el acceso a la información y a la orientación sobre las ofertas de aprendizaje permanente y las posibilidades de acceso a las mismas.
 
-CAPÍTULO III
-
-Currículo
+## Capítulo III. Currículo.
 
 #### Artículo 6. Currículo.
 
@@ -1260,9 +1246,7 @@ Currículo
 
 6. En el marco de la cooperación internacional en materia de educación, el Gobierno, de acuerdo con lo establecido en el apartado 4 de este artículo, podrá establecer currículos mixtos de enseñanzas del sistema educativo español y de otros sistemas educativos, conducentes a los títulos respectivos.
 
-CAPÍTULO IV
-
-Cooperación entre Administraciones educativas
+## Capítulo IV. Cooperación entre Administraciones educativas.
 
 #### Artículo 7. Concertación de políticas educativas.
 
@@ -1296,13 +1280,11 @@ Las Administraciones educativas podrán concertar el establecimiento de criterio
 
 3. Con la misma finalidad, y en aplicación del principio de colaboración, corresponde a las Administraciones educativas facilitar a alumnos y profesores de otras Comunidades Autónomas el acceso a sus instalaciones con valor educativo y la utilización de sus recursos.
 
-## TÍTULO I
+## Título I
 
 **Las Enseñanzas y su Ordenación**
 
-CAPÍTULO I
-
-Educación infantil
+## Capítulo I. Educación infantil.
 
 #### Artículo 12. Principios generales.
 
@@ -1354,11 +1336,11 @@ g) Iniciarse en las habilidades lógico-matemáticas, en la lecto-escritura y en
 
 3. Los centros podrán ofrecer el primer ciclo de educación infantil, el segundo o ambos.
 
-4. De acuerdo con lo que establezcan las Administraciones educativas, el primer ciclo de la educación infantil podrá ofrecerse en centros que abarquen el ciclo completo o una parte del mismo. Aquellos centros cuya oferta sea de al menos un año completo del citado ciclo deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el apartado 2 del artículo 14 y deberán contar con el personal cualificado en los términos recogidos en el artículo 92.
+4. De acuerdo con lo que establezcan las Administraciones educativas, el primer ciclo de la educación infantil podrá ofrecerse en centros que abarquen el ciclo completo o una parte del mismo. Aquellos centros cuya oferta sea de al menos un año completo del citado ciclo deberán incluir en su proyecto educativo la propuesta pedagógica a la que se refiere el apartado 2 del artículo 14 y deberán.
 
-CAPÍTULO II
+contar con el personal cualificado en los términos recogidos en el artículo 92.
 
-Educación primaria
+## Capítulo II. Educación primaria.
 
 #### Artículo 16. Principios generales.
 
@@ -1450,9 +1432,7 @@ Matemáticas.
 
 Al finalizar el segundo ciclo de la educación primaria todos los centros realizarán una evaluación de diagnóstico de las competencias básicas alcanzadas por sus alumnos. Esta evaluación, competencia de las Administraciones educativas, tendrá carácter formativo y orientador para los centros e informativo para las familias y para el conjunto de la comunidad educativa. Estas evaluaciones tendrán como marco de referencia las evaluaciones generales de diagnóstico que se establecen en el artículo 144.1 de esta Ley.
 
-CAPÍTULO III
-
-Educación secundaria obligatoria
+## Capítulo III. Educación secundaria obligatoria.
 
 #### Artículo 22. Principios generales.
 
@@ -1560,7 +1540,7 @@ Lengua castellana y literatura y, si la hubiere, lengua cooficial y literatura.
 
 Matemáticas.
 
-Primera lengua extranjera.
+#### Primera. lengua extranjera.
 
 2. Además de las materias enumeradas en el apartado anterior, los alumnos deberán cursar tres materias de las siguientes:
 
@@ -1576,7 +1556,7 @@ Latín.
 
 Música.
 
-Segunda lengua extranjera.
+#### Segunda. lengua extranjera.
 
 Tecnología.
 
@@ -1662,7 +1642,7 @@ c) Módulos de carácter voluntario para los alumnos, que conduzcan a la obtenci
 
 3. Los alumnos que cursen la educación secundaria obligatoria y no obtengan el título al que se refiere este artículo recibirán un certificado de escolaridad en el que consten los años cursados.
 
-CAPÍTULO IV
+### Capítulo IV
 
 #### Artículo 32. Principios generales.
 
@@ -1780,9 +1760,7 @@ Lengua extranjera.
 
 6. De acuerdo con la legislación vigente, y el apartado 1 de este artículo, el Gobierno establecerá, previo informe del Consejo de Coordinación Universitaria, la normativa básica que permita a las universidades fijar los procedimientos de solicitud de plaza de los alumnos que hayan superado la prueba de acceso, con independencia de donde hayan realizado sus estudios previos, la matriculación y la incorporación de los mismos a la universidad de su elección, así como la de aquéllos que se encuentren en la situación a la que se refiere el apartado anterior.
 
-CAPÍTULO V
-
-Formación profesional
+## Capítulo V. Formación profesional.
 
 #### Artículo 39. Principios generales.
 
@@ -1852,9 +1830,7 @@ El título de Técnico, en el caso del alumnado que haya cursado la formación p
 
 4. Aquellos alumnos que no superen en su totalidad las enseñanzas de cada uno de los ciclos formativos recibirán un certificado académico de los módulos superados que tendrá efectos de acreditación parcial acumulable de las competencias profesionales adquiridas en relación con el Sistema Nacional de Cualificaciones y Formación Profesional.
 
-CAPÍTULO VI
-
-Enseñanzas artísticas
+## Capítulo VI. Enseñanzas artísticas.
 
 #### Artículo 45. Principios.
 
@@ -1864,9 +1840,9 @@ Enseñanzas artísticas
 
 a) Las enseñanzas elementales de música y de danza.
 
-b) Las enseñanzas artísticas profesionales. Tienen esta condición las enseñanzas profesionales de música y danza, así como los grados medio y superior de artes plásticas y diseño.
+b) **Las enseñanzas artísticas profesionales.** Tienen esta condición las enseñanzas profesionales de música y danza, así como los grados medio y superior de artes plásticas y diseño.
 
-c) Las enseñanzas artísticas superiores. Tienen esta condición los estudios superiores de música y de danza, las enseñanzas de arte dramático, las enseñanzas de conservación y restauración de bienes culturales, los estudios superiores de diseño y los estudios superiores de artes plásticas, entre los que se incluyen los estudios superiores de cerámica y los estudios superiores del vidrio.
+c) **Las enseñanzas artísticas superiores.** Tienen esta condición los estudios superiores de música y de danza, las enseñanzas de arte dramático, las enseñanzas de conservación y restauración de bienes culturales, los estudios superiores de diseño y los estudios superiores de artes plásticas, entre los que se incluyen los estudios superiores de cerámica y los estudios superiores del vidrio.
 
 3. Se crea el Consejo Superior de Enseñanzas Artísticas, como órgano consultivo del Estado y de participación en relación con estas enseñanzas.
 
@@ -1884,7 +1860,7 @@ c) Las enseñanzas artísticas superiores. Tienen esta condición los estudios s
 
 2. Con objeto de hacer efectivo lo previsto en el apartado anterior, se podrán adoptar las oportunas medidas de organización y de ordenación académica que incluirán, entre otras, las convalidaciones y la creación de centros integrados.
 
-Sección primera. Enseñanzas elementales y profesionales de música y de danza
+#### Sección primera. Enseñanzas elementales y profesionales de música y de danza
 
 #### Artículo 48. Organización.
 
@@ -1904,7 +1880,7 @@ Para acceder a las enseñanzas profesionales de música y de danza será preciso
 
 2. El alumnado que finalice las enseñanzas profesionales de música y danza, obtendrá el título de Bachiller si supera las materias comunes del bachillerato, aunque no haya realizado el bachillerato de la modalidad de artes en su vía específica de música y danza.
 
-Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
+#### Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
 
 #### Artículo 51. Organización.
 
@@ -1936,7 +1912,7 @@ Sección segunda. Enseñanzas profesionales de artes plásticas y diseño
 
 5. El título de Técnico Superior de Artes Plásticas y Diseño permitirá el acceso a los estudios superiores, universitarios o no, que se determinen, teniendo en cuenta su relación con los estudios de artes plásticas y diseño correspondientes.
 
-Sección tercera. Enseñanzas artísticas superiores
+#### Sección tercera. Enseñanzas artísticas superiores
 
 #### Artículo 54. Estudios superiores de música y de danza.
 
@@ -1992,9 +1968,7 @@ b) Haber superado una prueba específica, regulada por las Administraciones educ
 
 6. Los centros superiores de enseñanzas artísticas fomentarán programas de investigación en el ámbito de las disciplinas que les sean propias.
 
-CAPÍTULO VII
-
-Enseñanzas de idiomas
+## Capítulo VII. Enseñanzas de idiomas.
 
 #### Artículo 59. Organización.
 
@@ -2026,9 +2000,7 @@ Las enseñanzas del nivel básico tendrán las características y la organizaci�
 
 2. Sin perjuicio de lo dispuesto en el apartado anterior, las Administraciones educativas facilitarán la realización de pruebas homologadas para obtener la certificación oficial del conocimiento de las lenguas cursadas por los alumnos de educación secundaria y formación profesional.
 
-CAPÍTULO VIII
-
-Enseñanzas deportivas
+## Capítulo VIII. Enseñanzas deportivas.
 
 #### Artículo 63. Principios generales.
 
@@ -2072,9 +2044,7 @@ d) Adquirir los conocimientos y habilidades necesarios para desarrollar su labor
 
 4. El Gobierno, previa consulta a las Comunidades Autónomas y oído el Consejo de Coordinación Universitaria, regulará el régimen de convalidaciones entre estudios universitarios y estudios de enseñanzas deportivas de grado superior.
 
-CAPÍTULO IX
-
-Educación de personas adultas
+## Capítulo IX. Educación de personas adultas.
 
 #### Artículo 66. Objetivos y principios.
 
@@ -2142,13 +2112,11 @@ g) Prever y resolver pacíficamente los conflictos personales, familiares y soci
 
 Cuando la educación de las personas adultas conduzca a la obtención de uno de los títulos establecidos en la presente Ley, será impartida en centros docentes ordinarios o específicos, debidamente autorizados por la Administración educativa competente.
 
-## TÍTULO II
+## Título II
 
 **Equidad en la Educación**
 
-CAPÍTULO I
-
-Alumnado con necesidad específica de apoyo educativo
+## Capítulo I. Alumnado con necesidad específica de apoyo educativo.
 
 #### Artículo 71. Principios.
 
@@ -2172,11 +2140,7 @@ Alumnado con necesidad específica de apoyo educativo
 
 5. Las Administraciones educativas podrán colaborar con otras Administraciones o entidades públicas o privadas sin ánimo de lucro, instituciones o asociaciones, para facilitar la escolarización y una mejor incorporación de este alumnado al centro educativo.
 
-Sección primera. Alumnado que presenta necesidades educativas especiales
-
-#### Artículo 73. Ámbito.
-
-Se entiende por alumnado que presenta necesidades educativas especiales, aquel que requiera, por un periodo de su escolarización o a lo largo de toda ella, determinados apoyos y atenciones educativas específicas derivadas de discapacidad o trastornos graves de conducta.
+#### Sección primera. Alumnado que presenta necesidades educativas especiales artículo 73 Ámbito. Se entiende por alumnado que presenta necesidades educativas especiales, aquel que requiera, por un periodo de su escolarización o a lo largo de toda ella, determinados apoyos y atenciones educativas específicas derivadas de discapacidad o trastornos graves de conducta.
 
 #### Artículo 74. Escolarización.
 
@@ -2196,17 +2160,13 @@ Se entiende por alumnado que presenta necesidades educativas especiales, aquel q
 
 2. Las Administraciones educativas establecerán una reserva de plazas en las enseñanzas de formación profesional para el alumnado con discapacidad.
 
-Sección segunda. Alumnado con altas capacidades intelectuales
-
-#### Artículo 76. Ámbito.
-
-Corresponde a las Administraciones educativas adoptar las medidas necesarias para identificar al alumnado con altas capacidades intelectuales y valorar de forma temprana sus necesidades. Asimismo, les corresponde adoptar planes de actuación adecuados a dichas necesidades.
+#### Sección segunda. Alumnado con altas capacidades intelectuales artículo 76 Ámbito. Corresponde a las Administraciones educativas adoptar las medidas necesarias para identificar al alumnado con altas capacidades intelectuales y valorar de forma temprana sus necesidades. Asimismo, les corresponde adoptar planes de actuación adecuados a dichas necesidades.
 
 #### Artículo 77. Escolarización.
 
 El Gobierno, previa consulta a las Comunidades Autónomas, establecerá las normas para flexibilizar la duración de cada una de las etapas del sistema educativo para los alumnos con altas capacidades intelectuales, con independencia de su edad.
 
-Sección tercera. Alumnos con integración tardía en el sistema educativo español
+#### Sección tercera. Alumnos con integración tardía en el sistema educativo español
 
 #### Artículo 78. Escolarización.
 
@@ -2222,9 +2182,7 @@ Sección tercera. Alumnos con integración tardía en el sistema educativo espa�
 
 3. Corresponde a las Administraciones educativas adoptar las medidas necesarias para que los padres o tutores del alumnado que se incorpora tardíamente al sistema educativo reciban el asesoramiento necesario sobre los derechos, deberes y oportunidades que comporta la incorporación al sistema educativo español.
 
-CAPÍTULO II
-
-Compensación de las desigualdades en educación
+## Capítulo II. Compensación de las desigualdades en educación.
 
 #### Artículo 80. Principios.
 
@@ -2260,9 +2218,7 @@ Compensación de las desigualdades en educación
 
 4. Con el fin de articular un sistema eficaz de verificación y control de las becas y ayudas concedidas, se establecerán los procedimientos necesarios de información, coordinación y cooperación entre las diferentes Administraciones educativas.
 
-CAPÍTULO III
-
-Escolarización en centros públicos y privados concertados
+## Capítulo III. Escolarización en centros públicos y privados concertados.
 
 #### Artículo 84. Admisión de alumnos.
 
@@ -2320,9 +2276,7 @@ Escolarización en centros públicos y privados concertados
 
 2. Las Administraciones educativas dotarán a los centros de los recursos necesarios para hacer posible la gratuidad de las enseñanzas de carácter gratuito.
 
-CAPÍTULO IV
-
-Premios, concursos y reconocimientos
+## Capítulo IV. Premios, concursos y reconocimientos.
 
 #### Artículo 89. Premios y concursos.
 
@@ -2332,13 +2286,11 @@ El Ministerio de Educación y Ciencia, sin perjuicio de las competencias de las 
 
 El Ministerio de Educación y Ciencia, así como las Comunidades Autónomas, podrán reconocer y premiar la labor didáctica o de investigación de profesores y centros, facilitando la difusión entre los distintos centros escolares de los trabajos o experiencias que han merecido dicho reconocimiento por su calidad y esfuerzo.
 
-## TÍTULO III
+## Título III
 
 **Profesorado**
 
-CAPÍTULO I
-
-Funciones del profesorado
+## Capítulo I. Funciones del profesorado.
 
 #### Artículo 91. Funciones del profesorado.
 
@@ -2370,9 +2322,7 @@ l) La investigación, la experimentación y la mejora continua de los procesos d
 
 2. Los profesores realizarán las funciones expresadas en el apartado anterior bajo el principio de colaboración y trabajo en equipo.
 
-CAPÍTULO II
-
-Profesorado de las distintas enseñanzas
+## Capítulo II. Profesorado de las distintas enseñanzas.
 
 #### Artículo 92. Profesorado de educación infantil.
 
@@ -2408,7 +2358,9 @@ Para impartir las enseñanzas de educación secundaria obligatoria y de bachille
 
 #### Artículo 97. Profesorado de enseñanzas de idiomas.
 
-1. Para impartir enseñanzas de idiomas se exigirán los mismos requisitos de titulación y formación establecidos en el artículo 94 para la educación secundaria obligatoria y el bachillerato.
+1. Para impartir enseñanzas de idiomas se exigirán los mismos requisitos de titulación y formación establecidos en el artículo 94 para.
+
+la educación secundaria obligatoria y el bachillerato.
 
 2. Las Administraciones educativas, excepcionalmente, podrán incorporar como profesores especialistas, atendiendo a su cualificación y a las necesidades del sistema educativo, a profesionales, no necesariamente titulados, de nacionalidad extranjera. Dicha incorporación se realizará en régimen laboral o administrativo, de acuerdo con la normativa que resulte de aplicación y deberá cumplirse el contenido de los artículos 9.5 y 36 de la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, salvo en el caso de nacionales de los Estados miembros de la Unión Europea o de aquellos a quienes sea de aplicación el régimen comunitario de extranjería.
 
@@ -2422,9 +2374,7 @@ Para impartir las enseñanzas de educación secundaria obligatoria y de bachille
 
 Los profesores de enseñanzas para las personas adultas comprendidas en la presente Ley, que conduzcan a la obtención de un título académico o profesional, deberán contar con la titulación establecida con carácter general para impartir las respectivas enseñanzas. Las Administraciones educativas facilitarán a estos profesores una formación adecuada para responder a las características de las personas adultas.
 
-CAPÍTULO III
-
-Formación del profesorado
+## Capítulo III. Formación del profesorado.
 
 #### Artículo 100. Formación inicial.
 
@@ -2456,9 +2406,7 @@ El primer curso de ejercicio de la docencia en centros públicos se desarrollar�
 
 2. El Ministerio de Educación y Ciencia, en colaboración con las Comunidades Autónomas, favorecerá la movilidad internacional de los docentes, los intercambios puesto a puesto y las estancias en otros países.
 
-CAPÍTULO IV
-
-Reconocimiento, apoyo y valoración del profesorado
+## Capítulo IV. Reconocimiento, apoyo y valoración del profesorado.
 
 #### Artículo 104. Reconocimiento y apoyo al profesorado.
 
@@ -2494,13 +2442,11 @@ e) La reducción de jornada lectiva de aquellos profesores mayores de 55 años q
 
 4. Corresponde a las Administraciones educativas disponer los procedimientos para que los resultados de la valoración de la función docente sean tenidos en cuenta de modo preferente en los concursos de traslados y en la carrera docente, junto con las actividades de formación, investigación e innovación.
 
-## TÍTULO IV
+## Título IV
 
 **Centros docentes**
 
-CAPÍTULO I
-
-Principios generales
+## Capítulo I. Principios generales.
 
 #### Artículo 107. Régimen jurídico.
 
@@ -2542,9 +2488,7 @@ Principios generales
 
 2. Las Administraciones educativas promoverán programas para adecuar las condiciones físicas, incluido el transporte escolar, y tecnológicas de los centros y los dotarán de los recursos materiales y de acceso al currículo adecuados a las necesidades del alumnado que escolariza, especialmente en el caso de personas con discapacidad, de modo que no se conviertan en factor de discriminación y garanticen una atención inclusiva y universalmente accesible a todos los alumnos.
 
-CAPÍTULO II
-
-Centros públicos
+## Capítulo II. Centros públicos.
 
 #### Artículo 111. Denominación de los centros públicos.
 
@@ -2582,13 +2526,7 @@ Centros públicos
 
 5. Los centros podrán llegar a acuerdos con los municipios respectivos, para el uso de bibliotecas municipales con las finalidades previstas en este artículo.
 
-CAPÍTULO III
-
-Centros privados
-
-#### Artículo 114. Denominación.
-
-Los centros privados podrán adoptar cualquier denominación, excepto la que corresponde a centros públicos o pueda inducir a confusión con ellos.
+## Capítulo III. Centros privados artículo 114 Denominación. Los centros privados podrán adoptar cualquier denominación, excepto la que corresponde a centros públicos o pueda inducir a confusión con ellos.
 
 #### Artículo 115. Carácter propio de los centros privados.
 
@@ -2598,9 +2536,7 @@ Los centros privados podrán adoptar cualquier denominación, excepto la que cor
 
 3. Cualquier modificación en el carácter propio de un centro privado, por cambio en la titularidad o por cualquier otra circunstancia, deberá ponerse en conocimiento de la comunidad educativa con antelación suficiente. En cualquier caso, la modificación del carácter propio, una vez iniciado el curso, no podrá surtir efectos antes de finalizado el proceso de admisión y matriculación de los alumnos para el curso siguiente.
 
-CAPÍTULO IV
-
-Centros privados concertados
+## Capítulo IV. Centros privados concertados.
 
 #### Artículo 116. Conciertos.
 
@@ -2630,7 +2566,9 @@ a) Los salarios del personal docente, incluidas las cotizaciones por cuota patro
 
 b) Las cantidades asignadas a otros gastos, que comprenderán las de personal de administración y servicios, las ordinarias de mantenimiento, conservación y funcionamiento, así como las cantidades que correspondan a la reposición de inversiones reales. Asimismo, podrán considerarse las derivadas del ejercicio de la función directiva no docente. En ningún caso, se computarán intereses del capital propio. Las citadas cantidades se fijarán con criterios análogos a los aplicados a los centros públicos.
 
-c) Las cantidades pertinentes para atender el pago de los conceptos de antigüedad del personal docente de los centros privados concertados y consiguiente repercusión en las cuotas de la Seguridad Social; pago de las sustituciones del profesorado y los derivados del ejercicio de la función directiva docente; pago de las obligaciones derivadas del ejercicio de las garantías reconocidas a los representantes legales de los trabajadores según lo establecido en el artículo 68 del Estatuto de los Trabajadores. Tales cantidades se recogerán en un fondo general que se distribuirá de forma individualizada entre el personal docente de los centros privados concertados, de acuerdo con las circunstancias que concurran en cada profesor y aplicando criterios análogos a los fijados para el profesorado de los centros públicos.
+c) Las cantidades pertinentes para atender el pago de los conceptos de antigüedad del personal docente de los centros privados concertados y consiguiente repercusión en las cuotas de la Seguridad Social; pago de las sustituciones del profesorado y los derivados del ejercicio de la función directiva docente; pago de las obligaciones derivadas del ejercicio de las garantías reconocidas a los representantes legales de los trabajadores según lo establecido en el artículo 68 l.
+
+Estatuto de los Trabajadores. Tales cantidades se recogerán en un fondo general que se distribuirá de forma individualizada entre el personal docente de los centros privados concertados, de acuerdo con las circunstancias que concurran en cada profesor y aplicando criterios análogos a los fijados para el profesorado de los centros públicos.
 
 4. Las cantidades correspondientes a los salarios del personal docente a que hace referencia el apartado anterior, posibilitarán la equiparación gradual de su remuneración con la del profesorado público de las respectivas etapas.
 
@@ -2644,13 +2582,11 @@ c) Las cantidades pertinentes para atender el pago de los conceptos de antigüed
 
 9. En la Ley de Presupuestos Generales del Estado se determinará el importe máximo de las cuotas que los centros con concierto singular podrán percibir de las familias.
 
-## TÍTULO V
+## Título V
 
 **Participación, autonomía y gobierno de los centros**
 
-CAPÍTULO I
-
-Participación en el funcionamiento y el gobierno de los centros
+## Capítulo I. Participación en el funcionamiento y el gobierno de los centros.
 
 #### Artículo 118. Principios generales.
 
@@ -2682,9 +2618,7 @@ Participación en el funcionamiento y el gobierno de los centros
 
 6. Los centros tendrán al menos los siguientes órganos colegiados de gobierno: Consejo Escolar y Claustro de profesores.
 
-CAPÍTULO II
-
-Autonomía de los centros
+## Capítulo II. Autonomía de los centros.
 
 #### Artículo 120. Disposiciones generales.
 
@@ -2742,11 +2676,9 @@ Autonomía de los centros
 
 Los centros educativos elaborarán al principio de cada curso una programación general anual que recoja todos los aspectos relativos a la organización y funcionamiento del centro, incluidos los proyectos, el currículo, las normas, y todos los planes de actuación acordados y aprobados.
 
-CAPÍTULO III
+## Capítulo III. Órganos colegiados de gobierno y de coordinación docente de los centros públicos.
 
-Órganos colegiados de gobierno y de coordinación docente de los centros públicos
-
-Sección primera. Consejo Escolar
+#### Sección primera. Consejo Escolar
 
 #### Artículo 126. Composición del Consejo Escolar.
 
@@ -2808,7 +2740,7 @@ k) Elaborar propuestas e informes, a iniciativa propia o a petición de la Admin
 
 l) Cualesquiera otras que le sean atribuidas por la Administración educativa.
 
-Sección segunda. Claustro de profesores
+#### Sección segunda. Claustro de profesores
 
 #### Artículo 128. Composición.
 
@@ -2842,7 +2774,7 @@ j) Proponer medidas e iniciativas que favorezcan la convivencia en el centro.
 
 k) Cualesquiera otras que le sean atribuidas por la Administración educativa o por las respectivas normas de organización y funcionamiento.
 
-Sección tercera. Otros órganos de coordinación docente
+#### Sección tercera. Otros órganos de coordinación docente
 
 #### Artículo 130. Órganos de coordinación docente.
 
@@ -2850,9 +2782,7 @@ Sección tercera. Otros órganos de coordinación docente
 
 2. En los institutos de educación secundaria existirán, entre los órganos de coordinación docente, departamentos de coordinación didáctica que se encargarán de la organización y desarrollo de las enseñanzas propias de las materias o módulos que se les encomienden.
 
-CAPÍTULO IV
-
-Dirección de los centros públicos
+## Capítulo IV. Dirección de los centros públicos.
 
 #### Artículo 131. El equipo directivo.
 
@@ -2964,7 +2894,7 @@ d) Revocación motivada, por la Administración educativa competente, a iniciati
 
 4. Los directores de los centros públicos que hayan ejercido su cargo con valoración positiva durante el periodo de tiempo que cada Administración educativa determine, mantendrán, mientras permanezcan en situación de activo, la percepción de una parte del complemento retributivo correspondiente en la proporción, condiciones y requisitos que determinen las Administraciones educativas.
 
-## TÍTULO VI
+## Título VI
 
 **Evaluación del sistema educativo**
 
@@ -3028,7 +2958,7 @@ Con el fin de mejorar el funcionamiento de los centros educativos, las Administr
 
 2. El Ministerio de Educación y Ciencia publicará periódicamente las conclusiones de interés general de las evaluaciones efectuadas por el Instituto de Evaluación en colaboración con las Administraciones educativas y dará a conocer la información que ofrezca periódicamente el Sistema Estatal de Indicadores.
 
-## TÍTULO VII
+## Título VII
 
 **Inspección del sistema educativo**
 
@@ -3040,13 +2970,7 @@ Con el fin de mejorar el funcionamiento de los centros educativos, las Administr
 
 3. La inspección educativa se realizará sobre todos los elementos y aspectos del sistema educativo, a fin de asegurar el cumplimiento de las leyes, la garantía de los derechos y la observancia de los deberes de cuantos participan en los procesos de enseñanza y aprendizaje, la mejora del sistema educativo y la calidad y equidad de la enseñanza.
 
-CAPÍTULO I
-
-Alta Inspección
-
-#### Artículo 149. Ámbito.
-
-Corresponde al Estado la alta inspección educativa, para garantizar el cumplimento de las facultades que le están atribuidas en materia de enseñanza y la observancia de los principios y normas constitucionales aplicables y demás normas básicas que desarrollan el artículo 27 de la Constitución.
+## Capítulo I. Alta Inspección artículo 149 Ámbito. Corresponde al Estado la alta inspección educativa, para garantizar el cumplimento de las facultades que le están atribuidas en materia de enseñanza y la observancia de los principios y normas constitucionales aplicables y demás normas básicas que desarrollan el artículo 27 de la Constitución.
 
 #### Artículo 150. Competencias.
 
@@ -3066,13 +2990,9 @@ e) Verificar la adecuación de la concesión de las subvenciones y becas a los c
 
 3. El Gobierno regulará la organización y régimen de personal de la Alta Inspección, así como su dependencia. Asimismo, el Gobierno, consultadas las Comunidades Autónomas, regulará los procedimientos de actuación de la Alta Inspección.
 
-CAPÍTULO II
+## Capítulo II. Inspección educativa.
 
-Inspección educativa
-
-#### Artículo 151. Funciones de la inspección educativa.
-
-Las funciones de la inspección educativa son las siguientes:
+#### Artículo 151. Funciones de la inspección educativa. Las funciones de la inspección educativa son las siguientes:.
 
 a) Supervisar y controlar, desde el punto de vista pedagógico y organizativo, el funcionamiento de los centros educativos así como los programas que en ellos inciden.
 
@@ -3114,7 +3034,7 @@ d) Cualesquiera otras que le sean atribuidas por las Administraciones educativas
 
 3. En los procedimientos para la provisión de puestos de trabajo en la inspección educativa podrán tenerse en consideración las necesidades de las respectivas Administraciones educativas y podrá ser valorada como mérito la especialización de los aspirantes de acuerdo con las condiciones descritas en el apartado anterior.
 
-## TÍTULO VIII
+## Título VIII
 
 **Recursos económicos**
 
@@ -3352,35 +3272,35 @@ En lo que se refiere a las corporaciones locales, se establecerán procedimiento
 
 7. Las Administraciones educativas, deportivas y municipales, colaborarán para el establecimiento de procedimientos que permitan el doble uso de las instalaciones deportivas pertenecientes a los centros docentes o a los municipios.
 
-#### Disposición adicional decimosexta. Denominación de las etapas educativas.
+Disposición adicional decimosexta.... Denominación de las etapas educativas.
 
 Las referencias, contenidas en la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, Reguladora del Derecho a la Educación, a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se establecen en esta Ley.
 
-#### Disposición adicional decimoséptima. Claustro de profesores de los centros privados concertados.
+Disposición adicional decimoséptima.... Claustro de profesores de los centros privados concertados.
 
 El claustro de profesores de los centros privados concertados tendrá funciones análogas a las previstas en el artículo 129 de esta Ley.
 
-#### Disposición adicional decimoctava. Procedimiento de consulta a las Comunidades Autónomas.
+Disposición adicional decimoctava.... Procedimiento de consulta a las Comunidades Autónomas.
 
 La referencia en el articulado de esta Ley a las consultas previas a las Comunidades Autónomas se entienden realizadas en el seno de la Conferencia Sectorial.
 
-#### Disposición adicional decimonovena. Alumnado extranjero.
+Disposición adicional decimonovena.... Alumnado extranjero.
 
 Lo establecido en esta Ley en relación con la escolarización, obtención de títulos y acceso al sistema general de becas y ayudas al estudio será aplicable al alumnado extranjero en los términos establecidos en la [Ley Orgánica 4/2000](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre derechos y libertades de los Extranjeros en España y su integración social, modificada por la Ley Orgánica 8/2000, de 22 de diciembre, y en la normativa que las desarrolla.
 
-#### Disposición adicional vigésima. Atención a las víctimas del terrorismo.
+Disposición adicional vigésima.... Atención a las víctimas del terrorismo.
 
 Las Administraciones educativas facilitarán que los centros educativos puedan prestar especial atención a los alumnos víctimas del terrorismo para que éstos reciban la ayuda necesaria para realizar adecuadamente sus estudios.
 
-#### Disposición adicional vigesimoprimera. Cambios de centro derivados de actos de violencia.
+Disposición adicional vigesimoprimera.... Cambios de centro derivados de actos de violencia.
 
 Las Administraciones educativas asegurarán la escolarización inmediata de las alumnas o alumnos que se vean afectados por cambios de centro derivados de actos de violencia de género o acoso escolar. Igualmente, facilitarán que los centros educativos presten especial atención a dichos alumnos.
 
-#### Disposición adicional vigesimosegunda. Transformación de enseñanzas.
+Disposición adicional vigesimosegunda.... Transformación de enseñanzas.
 
 En el supuesto de que en el proceso de ordenación de la enseñanza universitaria se definieran en el futuro títulos que correspondan a estudios regulados en la presente Ley, el Gobierno, previa consulta a las Comunidades Autónomas, podrá establecer el oportuno proceso de transformación de tales estudios.
 
-#### Disposición adicional vigesimotercera. Datos personales de los alumnos.
+Disposición adicional vigesimotercera.... Datos personales de los alumnos.
 
 1. Los centros docentes podrán recabar los datos personales de su alumnado que sean necesarios para el ejercicio de su función educativa. Dichos datos podrán hacer referencia al origen y ambiente familiar y social, a características o condiciones personales, al desarrollo y resultados de su escolarización, así como a aquellas otras circunstancias cuyo conocimiento sea necesario para la educación y orientación de los alumnos.
 
@@ -3390,39 +3310,39 @@ En el supuesto de que en el proceso de ordenación de la enseñanza universitari
 
 4. La cesión de los datos, incluidos los de carácter reservado, necesarios para el sistema educativo, se realizará preferentemente por vía telemática y estará sujeta a la legislación en materia de protección de datos de carácter personal, y las condiciones mínimas serán acordadas por el Gobierno con las Comunidades Autónomas en el seno de la Conferencia Sectorial de Educación.
 
-#### Disposición adicional vigesimocuarta. Incorporación de créditos en los Presupuestos Generales del Estado para la gratuidad del segundo ciclo de educación infantil.
+Disposición adicional vigesimocuarta.... Incorporación de créditos en los Presupuestos Generales del Estado para la gratuidad del segundo ciclo de educación infantil.
 
 Los Presupuestos Generales del Estado correspondientes al ámbito temporal de aplicación de la presente Ley incorporarán progresivamente los créditos necesarios para hacer efectiva la gratuidad del segundo ciclo de la educación infantil a la que se refiere el artículo 15.2.
 
-#### Disposición adicional vigesimoquinta. Fomento de la igualdad efectiva entre hombres y mujeres.
+Disposición adicional vigesimoquinta.... Fomento de la igualdad efectiva entre hombres y mujeres.
 
 Con el fin de favorecer la igualdad de derechos y oportunidades y fomentar la igualdad efectiva entre hombres y mujeres, los centros que desarrollen el principio de coeducación en todas las etapas educativas, serán objeto de atención preferente y prioritaria en la aplicación de las previsiones recogidas en la presente Ley, sin perjuicio de lo dispuesto en los convenios internacionales suscritos por España.
 
-#### Disposición adicional vigesimosexta. Denominación específica para el Consejo Escolar de los centros educativos.
+Disposición adicional vigesimosexta.... Denominación específica para el Consejo Escolar de los centros educativos.
 
 Las Administraciones educativas podrán establecer una denominación específica para referirse al Consejo Escolar de los centros educativos.
 
-#### Disposición adicional vigesimoséptima. Revisión de los módulos de conciertos.
+Disposición adicional vigesimoséptima.... Revisión de los módulos de conciertos.
 
 1. Durante el periodo al que se refiere la disposición adicional primera de la presente Ley, y en cumplimiento del Acuerdo suscrito entre el Ministerio de Educación y Ciencia y las organizaciones sindicales representativas del profesorado de los centros privados concertados, todas las partidas de los módulos del concierto se revisarán anualmente en un porcentaje equivalente al de las retribuciones de los funcionarios públicos dependientes de las Administraciones del Estado.
 
 2. Las Administraciones educativas posibilitarán, para el ejercicio de la función directiva en los centros privados concertados, unas compensaciones económicas, análogas a las previstas para los cargos directivos de los centros públicos, de las mismas características.
 
-#### Disposición adicional vigesimoctava. Convenios con centros que impartan ciclos de formación profesional.
+Disposición adicional vigesimoctava.... Convenios con centros que impartan ciclos de formación profesional.
 
 Las Administraciones educativas podrán establecer convenios educativos con los centros que impartan ciclos formativos de formación profesional que complementen la oferta educativa de los centros públicos de acuerdo con la programación general de la enseñanza.
 
-#### Disposición adicional vigesimonovena. Fijación del importe de los módulos.
+Disposición adicional vigesimonovena.... Fijación del importe de los módulos.
 
 1. Durante el periodo al que se refiere la disposición adicional primera de la presente Ley, se procederá a la fijación de los importes de los módulos económicos establecidos, de acuerdo con el artículo 117, en función de la implantación de las enseñanzas que ordena la presente Ley.
 
 2. En el seno de la Conferencia Sectorial se constituirá una comisión, en la que participarán las organizaciones empresariales y sindicales más representativas en el ámbito de la enseñanza privada concertada, para el estudio de la cuantía de los módulos de concierto que valore el coste total de la impartición de las enseñanzas en condiciones de gratuidad.
 
-#### Disposición adicional trigésima. Integración de centros en la red de centros de titularidad pública.
+Disposición adicional trigésima.... Integración de centros en la red de centros de titularidad pública.
 
 Las Comunidades Autónomas podrán integrar en la respectiva red de centros docentes públicos, de acuerdo con la forma y el procedimiento que se establezca mediante Ley de sus Parlamentos, los centros de titularidad de las Administraciones locales que cumplan los requisitos establecidos en la Ley, atiendan poblaciones escolares de condiciones socioeconómicas desfavorables o que desempeñen una reconocida labor en la atención a las necesidades de escolarización, siempre que las Administraciones locales manifiesten su voluntad de integrarlos en dicha red.
 
-#### Disposición adicional trigesimoprimera. Vigencias de titulaciones.
+Disposición adicional trigesimoprimera.... Vigencias de titulaciones.
 
 1. El título de Graduado Escolar de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa y el título de Graduado en Educación Secundaria de la Ley Orgánica 3/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, tendrán los mismos efectos profesionales que el título de Graduado en Educación Secundaria Obligatoria establecido en la presente Ley.
 
@@ -3432,7 +3352,7 @@ Las Comunidades Autónomas podrán integrar en la respectiva red de centros doce
 
 4. El título de Técnico Especialista de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa tendrá los mismos efectos académicos y profesionales que el nuevo título de Técnico Superior en la correspondiente especialidad.
 
-#### Disposición adicional trigesimosegunda. Nuevas titulaciones de formación profesional.
+Disposición adicional trigesimosegunda.... Nuevas titulaciones de formación profesional.
 
 En el periodo de aplicación de esta Ley el Gobierno, según lo dispuesto en el apartado 6 del artículo 39 de la misma, procederá a establecer las enseñanzas de formación profesional de grado medio y grado superior relacionadas con las artes escénicas.
 
@@ -3542,25 +3462,25 @@ Los requisitos de titulación establecidos en la presente Ley, para la impartici
 
 3. Quienes superen el proceso selectivo quedarán destinados en la misma plaza que vinieren desempeñando y, a los solos efectos de determinar su antigüedad en el cuerpo en el que se integran, se les reconocerá la fecha de su acceso con carácter definitivo en los equipos psicopedagógicos de la Administración educativa.
 
-#### Disposición transitoria decimosexta. Prioridad de conciertos en el segundo ciclo de educación infantil.
+Disposición transitoria decimosexta.... Prioridad de conciertos en el segundo ciclo de educación infantil.
 
 En relación con lo dispuesto en el artículo 15.2 de la presente Ley, las Administraciones educativas, en el régimen de conciertos a que se refiere el artículo 116 de la misma, y teniendo en cuenta lo previsto en el artículo 117, considerarán las solicitudes formuladas por los centros privados, y darán preferencia, por este orden, a las unidades que se soliciten para primero, segundo y tercer curso del segundo ciclo de la educación infantil.
 
-#### Disposición transitoria decimoséptima. Acceso a la función pública docente.
+Disposición transitoria decimoséptima.... Acceso a la función pública docente.
 
 1. El Ministerio de Educación y Ciencia propondrá a las Administraciones educativas, a través de la Conferencia Sectorial de Educación, la adopción de medidas que permitan la reducción del porcentaje de profesores interinos en los centros educativos, de manera que en el plazo de cuatro años, desde la aprobación de la presente Ley, no se sobrepasen los límites máximos establecidos de forma general para la función pública.
 
 2. Durante los años de implantación de la presente Ley, el acceso a la función pública docente se realizará mediante un procedimiento selectivo en el que, en la fase de concurso se valorarán la formación académica y, de forma preferente, la experiencia docente previa en los centros públicos de la misma etapa educativa, hasta los límites legales permitidos. La fase de oposición, que tendrá una sola prueba, versará sobre los contenidos de la especialidad que corresponda, la aptitud pedagógica y el dominio de las técnicas necesarias para el ejercicio de la docencia. Para la regulación de este procedimiento de concurso-oposición, se tendrá en cuenta lo previsto en el apartado anterior, a cuyos efectos se requerirán los informes oportunos de las Administraciones educativas.
 
-#### Disposición transitoria decimoctava. Adaptación de normativa sobre conciertos.
+Disposición transitoria decimoctava.... Adaptación de normativa sobre conciertos.
 
 A fin de que las Administraciones educativas puedan adaptar su normativa sobre conciertos educativos a las disposiciones de la presente Ley, podrán acordar la prórroga de hasta dos años del periodo general de concertación educativa en curso a la entrada en vigor de la presente Ley.
 
-#### Disposición transitoria decimonovena. Procedimiento de admisión de alumnos.
+Disposición transitoria decimonovena.... Procedimiento de admisión de alumnos.
 
 Los procedimientos de admisión de alumnos se adaptarán a lo previsto en el capítulo III del título II de esta Ley a partir del curso académico 2007/2008.
 
-#### Disposición derogatoria única
+#### Disposición derogatoria única.
 
 1. Quedan derogadas las siguientes Leyes:
 
@@ -3804,11 +3724,10 @@ El Presidente del Gobierno,
 
 JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrollado por**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 - **Desarrollado por**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](../08_personal_docente/LO1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
 - **Desarrollado por**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](../03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
@@ -4251,6 +4170,7 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - **Fundamento de**: [**D103_2023 Ordenacion y Curriculo del Bachillerato en Canarias**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)

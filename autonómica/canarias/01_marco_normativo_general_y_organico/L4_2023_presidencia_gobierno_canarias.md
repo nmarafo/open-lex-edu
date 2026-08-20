@@ -18,1605 +18,1542 @@ clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Estructura de la Consejería
 tags:
-- administracion-autonomica
-- autonomia-centro
-- estructura-de-la-consejer-a
-- evaluacion
-- gobierno-canarias
-- igualdad-genero
+  - administracion-autonomica
+  - autonomia-centro
+  - estructura-de-la-consejer-a
+  - evaluacion
+  - gobierno-canarias
+  - igualdad-genero
 relaciones:
   fundamentado_en:
-  - norma_id: norm-can-lo-1-2018
-  - norma_id: norm-es-2010-4518
-  - norma_id: norm-es-2012-9364
-  - norma_id: norm-es-2021-11382
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-40-2015
-  - norma_id: norm-can-l-6-2014
+    - norma_id: norm-can-lo-1-2018
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2012-9364
+    - norma_id: norm-es-2021-11382
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-l-40-2015
+    - norma_id: norm-can-l-6-2014
   fundamento_de:
-  - norma_id: norm-can-d-123-2023
-  - norma_id: norm-can-d-84-2024
-  - norma_id: norm-can-res-125
+    - norma_id: norm-can-d-123-2023
+    - norma_id: norm-can-d-84-2024
+    - norma_id: norm-can-res-125
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-ce-1978
-fundamentos_derecho:
-- norma_id: norm-can-lo-1-2018
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-can-lo-1-2018
   articulos:
-  - '50'
-  - '51'
-- norma_id: norm-es-l-39-2015
-- norma_id: norm-es-2010-4518
-- norma_id: norm-es-2021-11382
-- norma_id: norm-es-2012-9364
+    - '50'
+    - '51'
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-2010-4518
+    - norma_id: norm-es-2021-11382
+    - norma_id: norm-es-2012-9364
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-060-884.pdf
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
 ---
+# Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
 ## Preámbulo
 
-# Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias
+45 páginas.
 
-LEY 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+Formato de archivo en PDF/Adobe Acrobat. Tamaño: 381.54 Kb.
 
-                            45 páginas.
+Firma electrónica
+- Descargar
 
-                        Formato de archivo en PDF/Adobe Acrobat.
-                        Tamaño: 381.54 Kb.
+Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
-BOC-A-2023-066-987. 
-                    Firma electrónica
-                    - Descargar
+ÍNDICE
 
-				        Sea notorio a todos los ciudadanos y ciudadanas que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 47.1 del Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
+## Título Preliminar. DISPOSICIÓN GENERAL
 
-				        ÍNDICE
+#### Artículo 1. Objeto de la ley
 
-				        PREÁMBULO.
+## Título I. PRESIDENCIA DE CANARIAS
 
-				        TÍTULO PRELIMINAR. DISPOSICIÓN GENERAL
+### Capítulo I. Caracterización, elección y nombramiento
 
-				        Artículo 1. Objeto de la ley
+#### Artículo 2. El presidente o presidenta de Canarias.
 
-				        TÍTULO I. PRESIDENCIA DE CANARIAS
+#### Artículo 3. Requisitos de acceso al cargo.
 
-				        CAPÍTULO I. Caracterización, elección y nombramiento
+#### Artículo 4. Elección.
 
-				        Artículo 2. El presidente o presidenta de Canarias
+#### Artículo 5. Nombramiento y toma de posesión.
 
-				        Artículo 3. Requisitos de acceso al cargo
+### Capítulo II. Estatuto del presidente o presidenta de Canarias
 
-				        Artículo 4. Elección
+#### Artículo 6. Deberes.
 
-				        Artículo 5. Nombramiento y toma de posesión
+#### Artículo 7. Derechos.
 
-				        CAPÍTULO II. Estatuto del presidente o presidenta de Canarias
+#### Artículo 8. Incompatibilidades.
 
-				        Artículo 6. Deberes
+#### Artículo 9. Responsabilidad política.
 
-				        Artículo 7. Derechos
+#### Artículo 10. Sede de la Presidencia.
 
-				        Artículo 8. Incompatibilidades
+### Capítulo III. Atribuciones del presidente o presidenta
 
-				        Artículo 9. Responsabilidad política
+#### Artículo 11. Atribuciones como alta representación de la comunidad autónoma.
 
-				        Artículo 10. Sede de la Presidencia
+#### Artículo 12. Atribuciones como representante ordinario del Estado.
 
-				        CAPÍTULO III. Atribuciones del presidente o presidenta
+#### Artículo 13. Atribuciones como titular de la jefatura del Gobierno de Canarias.
 
-				        Artículo 11. Atribuciones como alta representación de la comunidad autónoma
+#### Artículo 14. Delegación de funciones.
 
-				        Artículo 12. Atribuciones como representante ordinario del Estado
+### Capítulo IV. Cese, sustitución y suplencia del presidente o presidenta
 
-				        Artículo 13. Atribuciones como titular de la jefatura del Gobierno de Canarias
+#### Artículo 15. Cese del presidente o presidenta.
 
-				        Artículo 14. Delegación de funciones
+#### Artículo 16. Sustitución del presidente o presidenta.
 
-				        CAPÍTULO IV. Cese, sustitución y suplencia del presidente o presidenta
+#### Artículo 17. Presidente o presidenta en funciones.
 
-				        Artículo 15. Cese del presidente o presidenta
+#### Artículo 18. Suplencia del presidente o presidenta.
 
-				        Artículo 16. Sustitución del presidente o presidenta
+### Capítulo V. Estatuto de los expresidentes o expresidentas
 
-				        Artículo 17. Presidente o presidenta en funciones
+#### Artículo 19. Estatuto de los expresidentes o expresidentas.
 
-				        Artículo 18. Suplencia del presidente o presidenta
+## Título II. GOBIERNO DE CANARIAS
 
-				        CAPÍTULO V. Estatuto de los expresidentes o expresidentas
+### Capítulo I. Disposiciones generales
 
-				        Artículo 19. Estatuto de los expresidentes o expresidentas
+#### Artículo 20. El Gobierno.
 
-				        TÍTULO II. GOBIERNO DE CANARIAS
+#### Artículo 21. Régimen jurídico.
 
-				        CAPÍTULO I. Disposiciones generales
+#### Artículo 22. Sede del Gobierno.
 
-				        Artículo 20. El Gobierno
+#### Artículo 23. Funcionamiento.
 
-				        Artículo 21. Régimen jurídico
+### Capítulo II. Composición del Gobierno
 
-				        Artículo 22. Sede del Gobierno
+#### Artículo 24. Composición del Gobierno.
 
-				        Artículo 23. Funcionamiento
+#### Artículo 25. Secretaría del Gobierno.
 
-				        CAPÍTULO II. Composición del Gobierno
+### Capítulo III. Atribuciones del Gobierno
 
-				        Artículo 24. Composición del Gobierno
+#### Artículo 26. Atribuciones del Gobierno en materia de dirección política.
 
-				        Artículo 25. Secretaría del Gobierno
+#### Artículo 27. Atribuciones del Gobierno en relación con el Parlamento.
 
-				        CAPÍTULO III. Atribuciones del Gobierno
+#### Artículo 28. Atribuciones del Gobierno relativas a la potestad normativa.
 
-				        Artículo 26. Atribuciones del Gobierno en materia de dirección política
+#### Artículo 29. Atribuciones del Gobierno en relación con el Tribunal Constitucional.
 
-				        Artículo 27. Atribuciones del Gobierno en relación con el Parlamento
+#### Artículo 30. Atribuciones del Gobierno en materia presupuestaria.
 
-				        Artículo 28. Atribuciones del Gobierno relativas a la potestad normativa
+#### Artículo 31. Atribuciones del Gobierno en materia ejecutiva y administrativa.
 
-				        Artículo 29. Atribuciones del Gobierno en relación con el Tribunal Constitucional
+#### Artículo 32. Delegación en miembros del Gobierno.
 
-				        Artículo 30. Atribuciones del Gobierno en materia presupuestaria
+### Capítulo IV. Funcionamiento del Consejo de Gobierno
 
-				        Artículo 31. Atribuciones del Gobierno en materia ejecutiva y administrativa
+#### Artículo 33. Reuniones del Consejo de Gobierno.
 
-				        Artículo 32. Delegación en miembros del Gobierno
+#### Artículo 34. Quorum.
 
-				        CAPÍTULO IV. Funcionamiento del Consejo de Gobierno
+#### Artículo 35. Asistencia a las reuniones.
 
-				        Artículo 33. Reuniones del Consejo de Gobierno
+#### Artículo 36. Carácter de las deliberaciones y documentación.
 
-				        Artículo 34. Quorum
+#### Artículo 37. Decisiones del Consejo de Gobierno.
 
-				        Artículo 35. Asistencia a las reuniones
+#### Artículo 38. Actas.
 
-				        Artículo 36. Carácter de las deliberaciones y documentación
+#### Artículo 39. Abstención y recusación.
 
-				        Artículo 37. Decisiones del Consejo de Gobierno
+### Capítulo V. Comisiones delegadas del Gobierno
 
-				        Artículo 38. Actas
+#### Artículo 40. Comisiones delegadas del Gobierno.
 
-				        Artículo 39. Abstención y recusación
+#### Artículo 41. Creación, modificación y supresión.
 
-				        CAPÍTULO V. Comisiones delegadas del Gobierno
+#### Artículo 42. Funciones.
 
-				        Artículo 40. Comisiones delegadas del Gobierno
+#### Artículo 43. Funcionamiento.
 
-				        Artículo 41. Creación, modificación y supresión
+#### Artículo 44. Decisiones de las comisiones delegadas.
 
-				        Artículo 42. Funciones
+### Capítulo VI. Órganos y unidades de apoyo del Gobierno
 
-				        Artículo 43. Funcionamiento
+#### Artículo 45. Comisión Preparatoria de Asuntos del Gobierno.
 
-				        Artículo 44. Decisiones de las comisiones delegadas
+#### Artículo 46. Portavocía del Gobierno.
 
-				        CAPÍTULO VI. Órganos y unidades de apoyo del Gobierno
+### Capítulo VII. Cese del Gobierno
 
-				        Artículo 45. Comisión Preparatoria de Asuntos del Gobierno
+#### Artículo 47. Cese del Gobierno.
 
-				        Artículo 46. Portavocía del Gobierno
+#### Artículo 48. Gobierno en funciones.
 
-				        CAPÍTULO VII. Cese del Gobierno
+## Título III. VICEPRESIDENTE O VICEPRESIDENTA Y CONSEJEROS O CONSEJERAS
 
-				        Artículo 47. Cese del Gobierno
+### Capítulo I. Vicepresidente o vicepresidenta
 
-				        Artículo 48. Gobierno en funciones
+#### Artículo 49. Caracterización y requisitos de acceso al cargo.
 
-				        TÍTULO III. VICEPRESIDENTE O VICEPRESIDENTA Y CONSEJEROS O CONSEJERAS
+#### Artículo 50. Nombramiento y cese del vicepresidente o vicepresidenta.
 
-				        CAPÍTULO I. Vicepresidente o vicepresidenta
+#### Artículo 51. Sede de la Vicepresidencia.
 
-				        Artículo 49. Caracterización y requisitos de acceso al cargo
+#### Artículo 52. Derechos y deberes.
 
-				        Artículo 50. Nombramiento y cese del vicepresidente o vicepresidenta
+#### Artículo 53. Atribuciones del vicepresidente o vicepresidenta.
 
-				        Artículo 51. Sede de la Vicepresidencia
+#### Artículo 54. Suplencia.
 
-				        Artículo 52. Derechos y deberes
+### Capítulo II. Consejeros o consejeras
 
-				        Artículo 53. Atribuciones del vicepresidente o vicepresidenta
+#### Artículo 55. Caracterización y requisitos de acceso al cargo.
 
-				        Artículo 54. Suplencia
+#### Artículo 56. Nombramiento y cese.
 
-				        CAPÍTULO II. Consejeros o consejeras
+#### Artículo 57. Derechos y deberes.
 
-				        Artículo 55. Caracterización y requisitos de acceso al cargo
+#### Artículo 58. Atribuciones de los consejeros o consejeras.
 
-				        Artículo 56. Nombramiento y cese
+#### Artículo 59. Suplencia.
 
-				        Artículo 57. Derechos y deberes
+## Título IV. RELACIONES CON EL PARLAMENTO DE CANARIAS
 
-				        Artículo 58. Atribuciones de los consejeros o consejeras
+### Capítulo I. Disposiciones generales
 
-				        Artículo 59. Suplencia
+#### Artículo 60. Impulso y control de la acción política.
 
-				        TÍTULO IV. RELACIONES CON EL PARLAMENTO DE CANARIAS
+#### Artículo 61. Comparecencia e información.
 
-				        CAPÍTULO I. Disposiciones generales
+#### Artículo 62. Relación ordinaria del Gobierno con el Parlamento.
 
-				        Artículo 60. Impulso y control de la acción política
+### Capítulo II. Responsabilidad política
 
-				        Artículo 61. Comparecencia e información
+#### Artículo 63. Exigencia de responsabilidad política.
 
-				        Artículo 62. Relación ordinaria del Gobierno con el Parlamento
+### Capítulo III. Disolución del Parlamento de Canarias
 
-				        CAPÍTULO II. Responsabilidad política
+#### Artículo 64. Disolución del Parlamento de Canarias.
 
-				        Artículo 63. Exigencia de responsabilidad política
+## Título V. INICIATIVA LEGISLATIVA Y POTESTADES NORMATIVAS DEL GOBIERNO
 
-				        CAPÍTULO III. Disolución del Parlamento de Canarias
+### Capítulo I. Disposiciones generales
 
-				        Artículo 64. Disolución del Parlamento de Canarias
+#### Artículo 65. Ejercicio de la iniciativa legislativa y potestades normativas del Gobierno.
 
-				        TÍTULO V. INICIATIVA LEGISLATIVA Y POTESTADES NORMATIVAS DEL GOBIERNO
+#### Artículo 66. Principios de buena regulación.
 
-				        CAPÍTULO I. Disposiciones generales
+#### Artículo 67. Programa legislativo y reglamentario.
 
-				        Artículo 65. Ejercicio de la iniciativa legislativa y potestades normativas del Gobierno
+#### Artículo 68. Procedimiento de elaboración y aprobación.
 
-				        Artículo 66. Principios de buena regulación
+#### Artículo 69. Transparencia y participación ciudadana en el procedimiento de elaboración.
 
-				        Artículo 67. Programa legislativo y reglamentario
+### Capítulo II. Iniciativa legislativa y potestad legislativa del Gobierno
 
-				        Artículo 68. Procedimiento de elaboración y aprobación
+#### Sección 1. ª Iniciativa legislativa del Gobierno
 
-				        Artículo 69. Transparencia y participación ciudadana en el procedimiento de elaboración
+#### Artículo 70. Iniciativa legislativa.
 
-				        CAPÍTULO II. Iniciativa legislativa y potestad legislativa del Gobierno
+#### Artículo 71. Procedimiento de elaboración de los proyectos de ley.
 
-				        Sección 1.ª Iniciativa legislativa del Gobierno
+#### Artículo 72. Tramitación urgente de iniciativas legislativas.
 
-				        Artículo 70. Iniciativa legislativa
+#### Artículo 73. Nueva aprobación de determinados proyectos de ley.
 
-				        Artículo 71. Procedimiento de elaboración de los proyectos de ley
+#### Sección 2. ª Decretos leyes
 
-				        Artículo 72. Tramitación urgente de iniciativas legislativas
+#### Artículo 74. Decretos leyes.
 
-				        Artículo 73. Nueva aprobación de determinados proyectos de ley
+#### Sección 3. ª Decretos legislativos
 
-				        Sección 2.ª Decretos leyes
+#### Artículo 75. Decretos legislativos.
 
-				        Artículo 74. Decretos leyes
+### Capítulo III. Potestad reglamentaria del Gobierno
 
-				        Sección 3.ª Decretos legislativos
+#### Sección 1. ª Principios generales
 
-				        Artículo 75. Decretos legislativos
+#### Artículo 76. Órganos competentes.
 
-				        CAPÍTULO III. Potestad reglamentaria del Gobierno
+#### Artículo 77. Forma de las disposiciones reglamentarias.
 
-				        Sección 1.ª Principios generales
+#### Artículo 78. Jerarquía y competencia.
 
-				        Artículo 76. Órganos competentes
+#### Artículo 79. Publicación.
 
-				        Artículo 77. Forma de las disposiciones reglamentarias
+#### Sección 2. ª Procedimiento de elaboración y aprobación
 
-				        Artículo 78. Jerarquía y competencia
+#### Artículo 80. Procedimiento de elaboración y aprobación.
 
-				        Artículo 79. Publicación
+#### Artículo 81. Tramitación urgente de iniciativas reglamentarias.
 
-				        Sección 2.ª Procedimiento de elaboración y aprobación
+#### Artículo 82. Especialidades de la elaboración de normas de organización.
 
-				        Artículo 80. Procedimiento de elaboración y aprobación
+#### Artículo 83. Iniciativas reglamentarias en caso de cese del Gobierno.
 
-				        Artículo 81. Tramitación urgente de iniciativas reglamentarias
+### Capítulo IV. Evaluación y transparencia
 
-				        Artículo 82. Especialidades de la elaboración de normas de organización
+#### Artículo 84. Evaluación normativa.
 
-				        Artículo 83. Iniciativas reglamentarias en caso de cese del Gobierno
+#### Artículo 85. Medidas de transparencia y simplificación del ordenamiento autonómico.
 
-				        CAPÍTULO IV. Evaluación y transparencia
+## Título VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
 
-				        Artículo 84. Evaluación normativa
+#### Artículo 86. Control de la actuación del Gobierno.
 
-				        Artículo 85. Medidas de transparencia y simplificación del ordenamiento autonómico
+### Disposiciones adicionales
 
-				        TÍTULO VI. CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+#### Primera. Uso de nuevas tecnologías.
 
-				        Artículo 86. Control de la actuación del Gobierno
+#### Segunda. Delegaciones del Gobierno de Canarias en el exterior.
 
-				        DISPOSICIONES ADICIONALES
+#### Tercera. Desconcentración y delegación de funciones y competencias.
 
-				        Primera.- Uso de nuevas tecnologías
+#### Disposición derogatoria . Única. Disposiciones que se derogan.
 
-				        Segunda.- Delegaciones del Gobierno de Canarias en el exterior
+### Disposiciones finales
 
-				        Tercera.- Desconcentración y delegación de funciones y competencias
+#### Primera. Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
-				        DISPOSICIÓN DEROGATORIA
+#### Segunda. Facultades de desarrollo.
 
-				        Única. Disposiciones que se derogan
+#### Tercera. Entrada en vigor.
 
-				        DISPOSICIONES FINALES
+**I**
 
-				        Primera.- Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
+El régimen, organización y funcionamiento del Gobierno, así como el estatuto de sus miembros, se ha venido rigiendo durante cuatro décadas por las normas contenidas en la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, cuyo título II, que abordaba la regulación de la Administración pública de la Comunidad Autónoma de Canarias, fue derogado por la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
-				        Segunda.- Facultades de desarrollo
+Dicha ley se aprobó en uso de la competencia exclusiva en materia de organización, régimen y funcionamiento de sus instituciones de autogobierno que el Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 10/1982, de 10 de agosto, atribuía a la comunidad autónoma, y en cumplimiento del mandato contenido en su artículo 16.2, que establecía que una ley determinará la composición y atribuciones del Gobierno, así como el estatuto de sus miembros.
 
-				        Tercera.- Entrada en vigor
+Hay que resaltar, además, que dicha ley fue la primera y única ley aprobada por el Parlamento provisional, determinado por una proyección de los resultados de las elecciones generales de octubre de 1982, en el que los diputados autonómicos fueron designados por acuerdo de la asamblea mixta parlamentarios-mancomunidades provinciales interinsulares de 4 de diciembre de 1982. Pese a ello, la misma ha cumplido durante su prolongada vigencia la misión que tenía confiada, contribuyendo a definir y a dar continuidad a los órganos de autogobierno de la comunidad autónoma, y, en definitiva, ganando su aceptación institucional por su funcionalidad y por su adecuación a las circunstancias. Por ello, solo ha sido objeto de modificaciones posteriores en aquellos aspectos que se consideraron imprescindibles para garantizar el correcto funcionamiento del Gobierno.
 
-				        PREÁMBULO
+Sin embargo, la necesidad de adecuar el régimen, organización y funcionamiento de la Presidencia y el Gobierno de Canarias a las circunstancias actuales, básicamente se impone por dos motivos.
 
-				        I
+El primero, como consecuencia de la reforma del Estatuto de Autonomía de Canarias, aprobada por la Ley Orgánica 1/2018, de 5 de noviembre, que ha introducido distintas previsiones que modifican la configuración tanto de la Presidencia como del Gobierno de Canarias, entre las que, sin perjuicio de otros aspectos, hay que destacar la atribución a la Presidencia de la facultad de disolución anticipada del Parlamento de Canarias, la supresión de la limitación numérica del Gobierno de Canarias, la posibilidad de que el Gobierno dicte decretos leyes en caso de extraordinaria y urgente necesidad y las limitaciones del Gobierno cesante o en funciones. Aspectos del régimen de configuración, organización, atribuciones y funcionamiento de la Presidencia y del Gobierno de Canarias que deben articularse en la regulación legal de las mismas, máxime cuando el propio Estatuto de Autonomía de Canarias remite a la ley, por una parte, el desarrollo del estatuto y atribuciones de quienes forman parte del Gobierno (artículo 51.2); y, por otra, la regulación de las atribuciones del Gobierno cesante (artículo 52.2).
 
-				        El régimen, organización y funcionamiento del Gobierno, así como el estatuto de sus miembros, se ha venido rigiendo durante cuatro décadas por las normas contenidas en la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, cuyo título II, que abordaba la regulación de la Administración pública de la Comunidad Autónoma de Canarias, fue derogado por la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
+Y el segundo atiende a la conveniencia de corregir en este preciso momento las deficiencias, insuficiencias y carencias que se han puesto de manifiesto a lo largo del dilatado periodo de vigencia de la Ley 1/1983, de 14 de abril, aun cuando la mayoría se han superado con una aplicación de la norma conciliadora con los propósitos de la acción de Gobierno y con el eficaz y transparente funcionamiento de este.
 
-				        Dicha ley se aprobó en uso de la competencia exclusiva en materia de organización, régimen y funcionamiento de sus instituciones de autogobierno que el Estatuto de Autonomía de Canarias, aprobado por Ley Orgánica 10/1982, de 10 de agosto, atribuía a la comunidad autónoma, y en cumplimiento del mandato contenido en su artículo 16.2, que establecía que una ley determinará la composición y atribuciones del Gobierno, así como el estatuto de sus miembros.
+**II**
 
-				        Hay que resaltar, además, que dicha ley fue la primera y única ley aprobada por el Parlamento provisional, determinado por una proyección de los resultados de las elecciones generales de octubre de 1982, en el que los diputados autonómicos fueron designados por acuerdo de la asamblea mixta parlamentarios-mancomunidades provinciales interinsulares de 4 de diciembre de 1982. Pese a ello, la misma ha cumplido durante su prolongada vigencia la misión que tenía confiada, contribuyendo a definir y a dar continuidad a los órganos de autogobierno de la comunidad autónoma, y, en definitiva, ganando su aceptación institucional por su funcionalidad y por su adecuación a las circunstancias. Por ello, solo ha sido objeto de modificaciones posteriores en aquellos aspectos que se consideraron imprescindibles para garantizar el correcto funcionamiento del Gobierno.
+La ley aborda el desarrollo estatutario de dos instituciones básicas del autogobierno de la comunidad autónoma, como son la Presidencia de Canarias y el Gobierno de Canarias, con una regulación actualizada y más completa de su régimen, organización y funcionamiento, en ejercicio de la competencia que reconoce el artículo 148.1.1.ª de la Constitución española para la organización de sus instituciones de autogobierno, así como en ejecución de las reservas de ley contenidas en los artículos 50, 51 y 52 del Estatuto de Autonomía de Canarias.
 
-				        Sin embargo, la necesidad de adecuar el régimen, organización y funcionamiento de la Presidencia y el Gobierno de Canarias a las circunstancias actuales, básicamente se impone por dos motivos.
+Se ha optado, tanto en el título de la ley como en el contenido de la misma, por esta regulación de la Presidencia y del Gobierno de Canarias, con base en la necesidad de poner de relieve que al presidente o presidenta de Canarias, además del desempeño de la Presidencia de la Comunidad Autónoma de Canarias, le corresponde la jefatura del órgano colegiado ejecutivo, lo que le confiere especial relevancia institucional, al detentar la máxima representación de la Comunidad Autónoma de Canarias y, conjuntamente, la representación ordinaria del Estado en la misma.
 
-				        El primero, como consecuencia de la reforma del Estatuto de Autonomía de Canarias, aprobada por la Ley Orgánica 1/2018, de 5 de noviembre, que ha introducido distintas previsiones que modifican la configuración tanto de la Presidencia como del Gobierno de Canarias, entre las que, sin perjuicio de otros aspectos, hay que destacar la atribución a la Presidencia de la facultad de disolución anticipada del Parlamento de Canarias, la supresión de la limitación numérica del Gobierno de Canarias, la posibilidad de que el Gobierno dicte decretos leyes en caso de extraordinaria y urgente necesidad y las limitaciones del Gobierno cesante o en funciones. Aspectos del régimen de configuración, organización, atribuciones y funcionamiento de la Presidencia y del Gobierno de Canarias que deben articularse en la regulación legal de las mismas, máxime cuando el propio Estatuto de Autonomía de Canarias remite a la ley, por una parte, el desarrollo del estatuto y atribuciones de quienes forman parte del Gobierno (artículo 51.2); y, por otra, la regulación de las atribuciones del Gobierno cesante (artículo 52.2).
+Junto a ello, resulta necesario que la ley contenga las normas imprescindibles relativas a las relaciones del Gobierno de Canarias con el Parlamento de Canarias, sin que con ello se menoscabe el ámbito reservado estatutariamente al Reglamento del Parlamento de Canarias, que no es otro que la organización y funcionamiento del órgano representativo del pueblo canario.
 
-				        Y el segundo atiende a la conveniencia de corregir en este preciso momento las deficiencias, insuficiencias y carencias que se han puesto de manifiesto a lo largo del dilatado periodo de vigencia de la Ley 1/1983, de 14 de abril, aun cuando la mayoría se han superado con una aplicación de la norma conciliadora con los propósitos de la acción de Gobierno y con el eficaz y transparente funcionamiento de este.
+Asimismo, en la medida en que el Gobierno tiene atribuidas la iniciativa legislativa y la potestad reglamentaria, así como, en el marco de lo establecido en el Estatuto de Autonomía, las facultades para dictar normas con rango de ley, bien decretos leyes, en caso de extraordinaria y urgente necesidad, o bien decretos legislativos, previa delegación del Parlamento de Canarias, resulta también necesario abordar el régimen de ejercicio de la iniciativa legislativa y de las potestades normativas, así como el procedimiento de elaboración de las disposiciones normativas, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª de la Constitución, que atribuye al Estado la competencia sobre las bases del régimen jurídico de las administraciones públicas.
 
-				        II
+**III**
 
-				        La ley aborda el desarrollo estatutario de dos instituciones básicas del autogobierno de la comunidad autónoma, como son la Presidencia de Canarias y el Gobierno de Canarias, con una regulación actualizada y más completa de su régimen, organización y funcionamiento, en ejercicio de la competencia que reconoce el artículo 148.1.1.ª de la Constitución española para la organización de sus instituciones de autogobierno, así como en ejecución de las reservas de ley contenidas en los artículos 50, 51 y 52 del Estatuto de Autonomía de Canarias.
+La ley se estructura en un título preliminar, limitado al objeto de la ley, seis títulos, tres disposiciones adicionales, una derogatoria y tres disposiciones finales.
 
-				        Se ha optado, tanto en el título de la ley como en el contenido de la misma, por esta regulación de la Presidencia y del Gobierno de Canarias, con base en la necesidad de poner de relieve que al presidente o presidenta de Canarias, además del desempeño de la Presidencia de la Comunidad Autónoma de Canarias, le corresponde la jefatura del órgano colegiado ejecutivo, lo que le confiere especial relevancia institucional, al detentar la máxima representación de la Comunidad Autónoma de Canarias y, conjuntamente, la representación ordinaria del Estado en la misma.
+El título I aborda la regulación del presidente o presidenta de Canarias, en su condición constitucional y estatutaria de presidente o presidenta de la comunidad autónoma y de presidente o presidenta del Gobierno. En dicho título, su elección se remite a las normas y procedimiento que se contienen en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias; se establecen las normas que regulan su nombramiento y toma de posesión; se recoge su estatuto personal y atribuciones, destacando respecto de estas últimas la distinción entre las que le corresponden como presidente o presidenta de la Comunidad Autónoma de Canarias y como presidente o presidenta del Gobierno de Canarias; y concluye con la regulación del estatuto de los expresidentes o expresidentas.
 
-				        Junto a ello, resulta necesario que la ley contenga las normas imprescindibles relativas a las relaciones del Gobierno de Canarias con el Parlamento de Canarias, sin que con ello se menoscabe el ámbito reservado estatutariamente al Reglamento del Parlamento de Canarias, que no es otro que la organización y funcionamiento del órgano representativo del pueblo canario.
+El título II contiene las normas de régimen, organización y funcionamiento del Gobierno, como órgano superior colegiado de dirección política de la comunidad autónoma y de su administración.
 
-				        Asimismo, en la medida en que el Gobierno tiene atribuidas la iniciativa legislativa y la potestad reglamentaria, así como, en el marco de lo establecido en el Estatuto de Autonomía, las facultades para dictar normas con rango de ley, bien decretos leyes, en caso de extraordinaria y urgente necesidad, o bien decretos legislativos, previa delegación del Parlamento de Canarias, resulta también necesario abordar el régimen de ejercicio de la iniciativa legislativa y de las potestades normativas, así como el procedimiento de elaboración de las disposiciones normativas, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª de la Constitución, que atribuye al Estado la competencia sobre las bases del régimen jurídico de las administraciones públicas.
+El título III está dedicado al vicepresidente o vicepresidenta y a los consejeros o consejeras, y se destina a regular los requisitos de acceso al cargo, nombramiento, cese y suplencia, así como su estatuto y atribuciones como miembros del Gobierno de Canarias.
 
-				        III
+El título IV recoge las normas relativas a las relaciones del Gobierno de Canarias con el Parlamento de Canarias, destacando la regulación de la disolución del Parlamento y de la exigencia de responsabilidad política en concordancia con lo establecido en el Estatuto de Autonomía de Canarias.
 
-				        La ley se estructura en un título preliminar, limitado al objeto de la ley, seis títulos, tres disposiciones adicionales, una derogatoria y tres disposiciones finales.
+El título V está destinado a regular la iniciativa legislativa, la legislación de urgencia y delegada, así como la potestad reglamentaria del Gobierno de Canarias, recogiéndose el procedimiento de elaboración de las disposiciones normativas.
 
-				        El título I aborda la regulación del presidente o presidenta de Canarias, en su condición constitucional y estatutaria de presidente o presidenta de la comunidad autónoma y de presidente o presidenta del Gobierno. En dicho título, su elección se remite a las normas y procedimiento que se contienen en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias; se establecen las normas que regulan su nombramiento y toma de posesión; se recoge su estatuto personal y atribuciones, destacando respecto de estas últimas la distinción entre las que le corresponden como presidente o presidenta de la Comunidad Autónoma de Canarias y como presidente o presidenta del Gobierno de Canarias; y concluye con la regulación del estatuto de los expresidentes o expresidentas.
+El título VI, bajo la rúbrica de control de la actuación del Gobierno, consta de un único artículo, en el que se recoge el régimen de control político y judicial de las actuaciones del Gobierno.
 
-				        El título II contiene las normas de régimen, organización y funcionamiento del Gobierno, como órgano superior colegiado de dirección política de la comunidad autónoma y de su administración.
+En las disposiciones adicionales se recoge, por una parte, el uso de las nuevas tecnologías en el funcionamiento del Gobierno y sus comisiones, la previsión de existencia de delegaciones del Gobierno de Canarias en el exterior, y la posibilidad de desconcentración y delegación de las competencias del presidente o presidenta como titular del departamento.
 
-				        El título III está dedicado al vicepresidente o vicepresidenta y a los consejeros o consejeras, y se destina a regular los requisitos de acceso al cargo, nombramiento, cese y suplencia, así como su estatuto y atribuciones como miembros del Gobierno de Canarias.
+La disposición derogatoria procede a la derogación expresa de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y de la disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias, así como de todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con esta nueva ley.
 
-				        El título IV recoge las normas relativas a las relaciones del Gobierno de Canarias con el Parlamento de Canarias, destacando la regulación de la disolución del Parlamento y de la exigencia de responsabilidad política en concordancia con lo establecido en el Estatuto de Autonomía de Canarias.
+Las disposiciones finales contienen, en primer término, la modificación parcial de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; en segundo lugar, la habilitación al Gobierno y al presidente o presidenta, en cada uno en los ámbitos que se determinan en el articulado de la propia ley, para el desarrollo y ejecución de la misma; y, por último, su entrada en vigor, que se producirá al día siguiente de su publicación en el Boletín Oficial de Canarias, pues su aplicación no presenta dificultades que exijan que se demore su entrada en vigor.
 
-				        El título V está destinado a regular la iniciativa legislativa, la legislación de urgencia y delegada, así como la potestad reglamentaria del Gobierno de Canarias, recogiéndose el procedimiento de elaboración de las disposiciones normativas.
+## Título Preliminar
 
-				        El título VI, bajo la rúbrica de control de la actuación del Gobierno, consta de un único artículo, en el que se recoge el régimen de control político y judicial de las actuaciones del Gobierno.
+DISPOSICIÓN GENERAL
 
-				        En las disposiciones adicionales se recoge, por una parte, el uso de las nuevas tecnologías en el funcionamiento del Gobierno y sus comisiones, la previsión de existencia de delegaciones del Gobierno de Canarias en el exterior, y la posibilidad de desconcentración y delegación de las competencias del presidente o presidenta como titular del departamento.
+#### Artículo 1. Objeto de la ley.
 
-				        La disposición derogatoria procede a la derogación expresa de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y de la disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias, así como de todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con esta nueva ley.
+Es objeto de la presente ley la regulación del estatuto y atribuciones del presidente o presidenta, así como de la organización, régimen jurídico y funcionamiento del Gobierno de Canarias y de sus relaciones con el Parlamento de Canarias. Asimismo, se regula la iniciativa legislativa y las potestades normativas del Gobierno.
 
-				        Las disposiciones finales contienen, en primer término, la modificación parcial de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias; en segundo lugar, la habilitación al Gobierno y al presidente o presidenta, en cada uno en los ámbitos que se determinan en el articulado de la propia ley, para el desarrollo y ejecución de la misma; y, por último, su entrada en vigor, que se producirá al día siguiente de su publicación en el Boletín Oficial de Canarias, pues su aplicación no presenta dificultades que exijan que se demore su entrada en vigor.
+## Título I
 
-				        TÍTULO PRELIMINAR
+PRESIDENCIA DE CANARIAS
 
-				        DISPOSICIÓN GENERAL
+## Capítulo I. CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO artículo 2 El presidente o presidenta de Canarias. El presidente o presidenta de Canarias ostenta la más alta representación de la comunidad autónoma y la ordinaria del Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción del Gobierno.
 
-				        Artículo 1. Objeto de la ley.
+#### Artículo 3. Requisitos de acceso al cargo.
 
-				        Es objeto de la presente ley la regulación del estatuto y atribuciones del presidente o presidenta, así como de la organización, régimen jurídico y funcionamiento del Gobierno de Canarias y de sus relaciones con el Parlamento de Canarias. Asimismo, se regula la iniciativa legislativa y las potestades normativas del Gobierno.
+Para ser presidenta o presidente de Canarias se requiere tener la condición de diputada o diputado del Parlamento de Canarias.
 
-				        TÍTULO I
+#### Artículo 4. Elección.
 
-				        PRESIDENCIA DE CANARIAS
+La elección del presidente o presidenta se realizará por el Parlamento de Canarias según el procedimiento previsto en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias.
 
-				        CAPÍTULO I
+#### Artículo 5. Nombramiento y toma de posesión.
 
-				        CARACTERIZACIÓN, ELECCIÓN Y NOMBRAMIENTO
+1. El nombramiento de la presidenta o presidente de Canarias corresponde al rey o la reina, mediante real decreto, que será publicado en el Boletín Oficial del Estado y en el Boletín Oficial de Canarias.
 
-				        Artículo 2. El presidente o presidenta de Canarias.
+2. El presidente o presidenta tomará posesión de su cargo dentro de los diez días naturales siguientes a la publicación de su nombramiento en el Boletín Oficial de Canarias.
 
-				        El presidente o presidenta de Canarias ostenta la más alta representación de la comunidad autónoma y la ordinaria del Estado en Canarias, designa y separa libremente al vicepresidente o vicepresidenta y a los restantes miembros del Gobierno, y dirige, coordina e impulsa la acción del Gobierno.
+3. La toma de posesión se realizará ante la Mesa del Parlamento de Canarias, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
 
-				        Artículo 3. Requisitos de acceso al cargo.
+## Capítulo II. ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS artículo 6 Deberes. El presidente o presidenta de Canarias en el ejercicio de su cargo tiene los siguientes deberes:.
 
-				        Para ser presidenta o presidente de Canarias se requiere tener la condición de diputada o diputado del Parlamento de Canarias.
+a) Cumplir fielmente las obligaciones propias de su cargo, con sometimiento pleno a la Constitución, al Estatuto de Autonomía y las leyes.
 
-				        Artículo 4. Elección.
+b) Ejercer sus funciones con dedicación plena.
 
-				        La elección del presidente o presidenta se realizará por el Parlamento de Canarias según el procedimiento previsto en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias.
+c) Abstenerse de conocer e intervenir en asuntos en los que hubiesen participado en el ejercicio de sus actividades privadas o de aquellos otros que afecten a empresas o sociedades en cuya dirección, asesoramiento, representación, administración o capital social hayan participado o participen, tanto ellos como su cónyuge o persona vinculada por análoga relación de afectividad, así como sus familiares dentro del cuarto grado de consanguinidad o del segundo de afinidad.
 
-				        Artículo 5. Nombramiento y toma de posesión.
+d) Desempeñar las funciones que tiene atribuidas con sujeción a las leyes de buen gobierno y las disposiciones que se aprueben en su desarrollo.
 
-				        1. El nombramiento de la presidenta o presidente de Canarias corresponde al rey o la reina, mediante real decreto, que será publicado en el Boletín Oficial del Estado y en el Boletín Oficial de Canarias.
+e) Cualquier otro establecido en el ordenamiento jurídico.
 
-				        2. El presidente o presidenta tomará posesión de su cargo dentro de los diez días naturales siguientes a la publicación de su nombramiento en el Boletín Oficial de Canarias.
+#### Artículo 7. Derechos.
 
-				        3. La toma de posesión se realizará ante la Mesa del Parlamento de Canarias, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
+La presidenta o presidente de Canarias, en razón de su cargo, goza de los derechos que le otorguen las leyes y, en todo caso, de los siguientes:
 
-				        CAPÍTULO II
+a) Utilizar la bandera y el escudo de Canarias como guion.
 
-				        ESTATUTO DEL PRESIDENTE O PRESIDENTA DE CANARIAS
+b) Recibir los honores que le correspondan, con arreglo a las normas vigentes en la materia.
 
-				        Artículo 6. Deberes.
+c) Percibir la remuneración determinada en la ley de presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
 
-				        El presidente o presidenta de Canarias en el ejercicio de su cargo tiene los siguientes deberes:
+d) Utilizar la residencia oficial de la Presidencia con el personal, medios y dotación correspondiente.
 
-				        a) Cumplir fielmente las obligaciones propias de su cargo, con sometimiento pleno a la Constitución, al Estatuto de Autonomía y las leyes.
+e) Cualquier otro que le reconozca el ordenamiento jurídico.
 
-				        b) Ejercer sus funciones con dedicación plena.
+#### Artículo 8. Incompatibilidades.
 
-				        c) Abstenerse de conocer e intervenir en asuntos en los que hubiesen participado en el ejercicio de sus actividades privadas o de aquellos otros que afecten a empresas o sociedades en cuya dirección, asesoramiento, representación, administración o capital social hayan participado o participen, tanto ellos como su cónyuge o persona vinculada por análoga relación de afectividad, así como sus familiares dentro del cuarto grado de consanguinidad o del segundo de afinidad.
+1. El cargo de presidente o presidenta de Canarias es incompatible con el ejercicio de cualquier otra función pública que no derive de su cargo, así como de cualquier actividad profesional o empresarial, ya sea por sí mismo o mediante apoderamiento o sustitución.
 
-				        d) Desempeñar las funciones que tiene atribuidas con sujeción a las leyes de buen gobierno y las disposiciones que se aprueben en su desarrollo.
+2. El cargo de presidenta o presidente de Canarias es compatible con las siguientes actividades:
 
-				        e) Cualquier otro establecido en el ordenamiento jurídico.
+a) El desarrollo de las funciones propias de la condición de miembro del Parlamento de Canarias.
 
-				        Artículo 7. Derechos.
+b) El ejercicio de funciones representativas en organismos, corporaciones, fundaciones e instituciones análogas, así como en sociedades mercantiles, cuyos puestos corresponda designar a las instituciones de la comunidad autónoma o se deriven de las funciones propias de su cargo.
 
-				        La presidenta o presidente de Canarias, en razón de su cargo, goza de los derechos que le otorguen las leyes y, en todo caso, de los siguientes:
+c) Las actividades derivadas de la mera administración del patrimonio personal o familiar.
 
-				        a) Utilizar la bandera y el escudo de Canarias como guion.
+d) El ejercicio de cargos directivos en partidos políticos sin retribución.
 
-				        b) Recibir los honores que le correspondan, con arreglo a las normas vigentes en la materia.
+e) El ejercicio de cargos representativos no retribuidos en instituciones o entes de carácter benéfico, social, cultural o protocolario.
 
-				        c) Percibir la remuneración determinada en la ley de presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
+f) Las actividades de producción y creación literaria, artística, científica o técnica y las publicaciones derivadas de aquellas, siempre que no sean consecuencia de una relación de empleo o de prestación de servicios permanente, ni supongan un menoscabo del estricto cumplimiento de sus deberes.
 
-				        d) Utilizar la residencia oficial de la Presidencia con el personal, medios y dotación correspondiente.
+3. En ningún caso el presidente o presidenta de Canarias podrá percibir más de una remuneración, periódica o eventual, con cargo a los presupuestos de las administraciones públicas, organismos o entidades públicas o privadas vinculadas o dependientes de las mismas, sin perjuicio de las indemnizaciones por razón del servicio que le correspondan por las actividades declaradas compatibles.
 
-				        e) Cualquier otro que le reconozca el ordenamiento jurídico.
+4. El ejercicio del cargo de presidente o presidenta de Canarias es incompatible con la percepción de derechos pasivos o de cualquier otro régimen de Seguridad Social público y obligatorio.
 
-				        Artículo 8. Incompatibilidades.
+5. En todo lo no previsto en los apartados anteriores se aplicará el régimen de conflictos de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma, salvo en lo que se refiere al régimen sancionador.
 
-				        1. El cargo de presidente o presidenta de Canarias es incompatible con el ejercicio de cualquier otra función pública que no derive de su cargo, así como de cualquier actividad profesional o empresarial, ya sea por sí mismo o mediante apoderamiento o sustitución.
+#### Artículo 9. Responsabilidad política.
 
-				        2. El cargo de presidenta o presidente de Canarias es compatible con las siguientes actividades:
+La presidenta o presidente de Canarias responde políticamente ante el Parlamento de Canarias, de acuerdo con lo establecido en el Estatuto de Autonomía de Canarias, el Reglamento del Parlamento de Canarias y la presente ley.
 
-				        a) El desarrollo de las funciones propias de la condición de miembro del Parlamento de Canarias.
+#### Artículo 10. Sede de la Presidencia.
 
-				        b) El ejercicio de funciones representativas en organismos, corporaciones, fundaciones e instituciones análogas, así como en sociedades mercantiles, cuyos puestos corresponda designar a las instituciones de la comunidad autónoma o se deriven de las funciones propias de su cargo.
+La sede de la Presidencia alternará, por periodos legislativos, entre las ciudades de Las Palmas de Gran Canaria y Santa Cruz de Tenerife.
 
-				        c) Las actividades derivadas de la mera administración del patrimonio personal o familiar.
+## Capítulo III. Atribuciones del presidente O presidenta.
 
-				        d) El ejercicio de cargos directivos en partidos políticos sin retribución.
+#### Artículo 11. Atribuciones como alta representación de la comunidad autónoma.
 
-				        e) El ejercicio de cargos representativos no retribuidos en instituciones o entes de carácter benéfico, social, cultural o protocolario.
+Al presidente o presidenta de Canarias, en el ejercicio de la alta representación de la Comunidad Autónoma de Canarias, le corresponde:
 
-				        f) Las actividades de producción y creación literaria, artística, científica o técnica y las publicaciones derivadas de aquellas, siempre que no sean consecuencia de una relación de empleo o de prestación de servicios permanente, ni supongan un menoscabo del estricto cumplimiento de sus deberes.
+a) Mantener las relaciones con las instituciones del Estado, de la Unión Europea y de las comunidades autónomas, así como sus administraciones, sin perjuicio de las funciones atribuidas al vicepresidente o vicepresidenta y los consejeros o consejeras.
 
-				        3. En ningún caso el presidente o presidenta de Canarias podrá percibir más de una remuneración, periódica o eventual, con cargo a los presupuestos de las administraciones públicas, organismos o entidades públicas o privadas vinculadas o dependientes de las mismas, sin perjuicio de las indemnizaciones por razón del servicio que le correspondan por las actividades declaradas compatibles.
+b) Suscribir los acuerdos de cooperación y los convenios con las comunidades autónomas para la gestión y prestación de sus servicios propios.
 
-				        4. El ejercicio del cargo de presidente o presidenta de Canarias es incompatible con la percepción de derechos pasivos o de cualquier otro régimen de Seguridad Social público y obligatorio.
+c) Convocar elecciones al Parlamento de Canarias.
 
-				        5. En todo lo no previsto en los apartados anteriores se aplicará el régimen de conflictos de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma, salvo en lo que se refiere al régimen sancionador.
+d) Proponer, por iniciativa propia o a solicitud de la ciudadanía, de conformidad con las leyes, la celebración de consultas populares en el ámbito de la Comunidad Autónoma de Canarias sobre cuestiones de interés general en materias autonómicas o locales.
 
-				        Artículo 9. Responsabilidad política.
+e) Firmar los convenios y acuerdos de colaboración con entidades públicas o privadas en los supuestos que estime convenientes, sin perjuicio de la competencia de las personas titulares de las consejerías.
 
-				        La presidenta o presidente de Canarias responde políticamente ante el Parlamento de Canarias, de acuerdo con lo establecido en el Estatuto de Autonomía de Canarias, el Reglamento del Parlamento de Canarias y la presente ley.
+f) Presidir las delegaciones oficiales del Gobierno de Canarias y la representación autonómica en los actos y reuniones de órganos colegiados a los que asista.
 
-				        Artículo 10. Sede de la Presidencia.
+g) Ejercer cuantas otras atribuciones le atribuya el ordenamiento jurídico.
 
-				        La sede de la Presidencia alternará, por periodos legislativos, entre las ciudades de Las Palmas de Gran Canaria y Santa Cruz de Tenerife.
+#### Artículo 12. Atribuciones como representante ordinario del Estado.
 
-				        CAPÍTULO III
+A la presidenta o presidente de Canarias, como representante ordinario del Estado en la Comunidad Autónoma de Canarias, le corresponde:
 
-				        ATRIBUCIONES DEL PRESIDENTE O PRESIDENTA
+a) Promulgar, en nombre del rey o la reina, las leyes del Parlamento de Canarias y demás normas con fuerza de ley, así como ordenar su publicación en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado.
 
-				        Artículo 11. Atribuciones como alta representación de la comunidad autónoma.
+b) Ordenar la publicación, en el Boletín Oficial de Canarias, de los nombramientos de la persona titular de la Presidencia del Tribunal Superior de Justicia de Canarias y de la persona titular de la Fiscalía Superior de Canarias.
 
-				        Al presidente o presidenta de Canarias, en el ejercicio de la alta representación de la Comunidad Autónoma de Canarias, le corresponde:
+c) Ejercer las demás atribuidas por el ordenamiento jurídico.
 
-				        a) Mantener las relaciones con las instituciones del Estado, de la Unión Europea y de las comunidades autónomas, así como sus administraciones, sin perjuicio de las funciones atribuidas al vicepresidente o vicepresidenta y los consejeros o consejeras.
+#### Artículo 13. Atribuciones como titular de la jefatura del Gobierno de Canarias.
 
-				        b) Suscribir los acuerdos de cooperación y los convenios con las comunidades autónomas para la gestión y prestación de sus servicios propios.
+Al presidente o presidenta, como titular de la jefatura del Gobierno de Canarias, le corresponden las siguientes funciones:
 
-				        c) Convocar elecciones al Parlamento de Canarias.
+a) Definir el programa de gobierno.
 
-				        d) Proponer, por iniciativa propia o a solicitud de la ciudadanía, de conformidad con las leyes, la celebración de consultas populares en el ámbito de la Comunidad Autónoma de Canarias sobre cuestiones de interés general en materias autonómicas o locales.
+b) Mantener la unidad de dirección política y administrativa de la actividad gubernativa, establecer las directrices de la política general e impartir a los miembros del Gobierno las instrucciones pertinentes.
 
-				        e) Firmar los convenios y acuerdos de colaboración con entidades públicas o privadas en los supuestos que estime convenientes, sin perjuicio de la competencia de las personas titulares de las consejerías.
+c) Cuidar de que la actuación del Gobierno y la de cada uno de sus integrantes se ajuste a las directrices de la política general.
 
-				        f) Presidir las delegaciones oficiales del Gobierno de Canarias y la representación autonómica en los actos y reuniones de órganos colegiados a los que asista.
+d) Coordinar el programa legislativo del Gobierno.
 
-				        g) Ejercer cuantas otras atribuciones le atribuya el ordenamiento jurídico.
+e) Coordinar la acción exterior del Gobierno, sin perjuicio de que se atribuya su dirección y ejecución a otro órgano o departamento.
 
-				        Artículo 12. Atribuciones como representante ordinario del Estado.
+f) Coordinar las relaciones de los departamentos con el Estado, la Unión Europea, las comunidades autónomas y sus administraciones, así como con los cabildos insulares y ayuntamientos de Canarias.
 
-				        A la presidenta o presidente de Canarias, como representante ordinario del Estado en la Comunidad Autónoma de Canarias, le corresponde:
+g) Plantear, previa deliberación del Gobierno, ante el Parlamento la cuestión de confianza sobre su programa o sobre una declaración de política general, en los términos previstos en el Estatuto de Autonomía y el Reglamento del Parlamento.
 
-				        a) Promulgar, en nombre del rey o la reina, las leyes del Parlamento de Canarias y demás normas con fuerza de ley, así como ordenar su publicación en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado.
+h) Disolver, previa deliberación del Gobierno, el Parlamento de Canarias en los términos previstos en el Estatuto de Autonomía.
 
-				        b) Ordenar la publicación, en el Boletín Oficial de Canarias, de los nombramientos de la persona titular de la Presidencia del Tribunal Superior de Justicia de Canarias y de la persona titular de la Fiscalía Superior de Canarias.
+i) Determinar, sin perjuicio de las que tienen atribuidas por el Estatuto de Autonomía, las competencias de la Presidencia y Vicepresidencia, así como el número, denominación, competencias y orden de precedencia de las consejerías.
 
-				        c) Ejercer las demás atribuidas por el ordenamiento jurídico.
+j) Aprobar el reglamento orgánico de la Presidencia del Gobierno.
 
-				        Artículo 13. Atribuciones como titular de la jefatura del Gobierno de Canarias.
+k) Establecer los órganos de apoyo del Gobierno, así como su organización y funciones.
 
-				        Al presidente o presidenta, como titular de la jefatura del Gobierno de Canarias, le corresponden las siguientes funciones:
+l) Nombrar y cesar al vicepresidente o vicepresidenta y a los consejeros o consejeras, así como a quienes desempeñen la Secretaría y la Portavocía del Gobierno.
 
-				        a) Definir el programa de gobierno.
+m) Aprobar las normas internas para el buen orden de los trabajos del Gobierno y de sus comisiones, así como para la adecuada preparación de los acuerdos que hayan de adoptarse.
 
-				        b) Mantener la unidad de dirección política y administrativa de la actividad gubernativa, establecer las directrices de la política general e impartir a los miembros del Gobierno las instrucciones pertinentes.
+n) Proponer al Gobierno la aprobación de las disposiciones de tramitación de las iniciativas normativas y las directrices de técnica normativa, así como coordinar la elaboración de disposiciones administrativas generales.
 
-				        c) Cuidar de que la actuación del Gobierno y la de cada uno de sus integrantes se ajuste a las directrices de la política general.
+ñ) Convocar y decidir las reuniones del Gobierno y, cuando proceda, el orden del día, así como, en su caso, de sus comisiones delegadas.
 
-				        d) Coordinar el programa legislativo del Gobierno.
+o) Presidir, suspender y levantar las sesiones del Gobierno y, en su caso, de sus comisiones delegadas, y dirigir las deliberaciones.
 
-				        e) Coordinar la acción exterior del Gobierno, sin perjuicio de que se atribuya su dirección y ejecución a otro órgano o departamento.
+p) Firmar los decretos leyes, decretos legislativos, decretos del Gobierno y demás disposiciones, actos y acuerdos establecidos en esta ley y en el ordenamiento jurídico.
 
-				        f) Coordinar las relaciones de los departamentos con el Estado, la Unión Europea, las comunidades autónomas y sus administraciones, así como con los cabildos insulares y ayuntamientos de Canarias.
+q) Promover y coordinar la ejecución de los acuerdos del Gobierno y de sus comisiones delegadas, así como velar por su cumplimiento.
 
-				        g) Plantear, previa deliberación del Gobierno, ante el Parlamento la cuestión de confianza sobre su programa o sobre una declaración de política general, en los términos previstos en el Estatuto de Autonomía y el Reglamento del Parlamento.
+r) Coordinar la actividad de las consejerías y resolver los conflictos de atribuciones que se susciten entre las mismas.
 
-				        h) Disolver, previa deliberación del Gobierno, el Parlamento de Canarias en los términos previstos en el Estatuto de Autonomía.
+s) Disponer la suplencia de los miembros del Gobierno en los casos de vacante, ausencia, enfermedad u otro impedimento temporal, así como disponer su sustitución en los supuestos de abstención o recusación.
 
-				        i) Determinar, sin perjuicio de las que tienen atribuidas por el Estatuto de Autonomía, las competencias de la Presidencia y Vicepresidencia, así como el número, denominación, competencias y orden de precedencia de las consejerías.
+t) Proponer al Gobierno los acuerdos sobre interposición de recursos de inconstitucionalidad, requerimientos de incompetencia y planteamiento de conflictos de competencia, así como de las demás actuaciones que le correspondan, de acuerdo con lo establecido en la Ley Orgánica del Tribunal Constitucional.
 
-				        j) Aprobar el reglamento orgánico de la Presidencia del Gobierno.
+u) Solicitar dictámenes del Consejo Consultivo de Canarias en los supuestos establecidos en su ley reguladora.
 
-				        k) Establecer los órganos de apoyo del Gobierno, así como su organización y funciones.
+v) Ejercer cuantas otras atribuciones, facultades, funciones y competencias le atribuya el ordenamiento jurídico.
 
-				        l) Nombrar y cesar al vicepresidente o vicepresidenta y a los consejeros o consejeras, así como a quienes desempeñen la Secretaría y la Portavocía del Gobierno.
+#### Artículo 14. Delegación de funciones.
 
-				        m) Aprobar las normas internas para el buen orden de los trabajos del Gobierno y de sus comisiones, así como para la adecuada preparación de los acuerdos que hayan de adoptarse.
+1. La presidenta o presidente podrá delegar temporalmente las funciones ejecutivas previstas en los apartados d), e), f), q), t), u) y v) del artículo anterior en el vicepresidente o vicepresidenta.
 
-				        n) Proponer al Gobierno la aprobación de las disposiciones de tramitación de las iniciativas normativas y las directrices de técnica normativa, así como coordinar la elaboración de disposiciones administrativas generales.
+2. En los casos previstos en el apartado anterior, la delegación deberá justificar las circunstancias que la hacen necesaria o conveniente y su efectividad estará supeditada a su publicación en el Boletín Oficial de Canarias. De la delegación se dará cuenta al Parlamento de Canarias, en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
 
-				        ñ) Convocar y decidir las reuniones del Gobierno y, cuando proceda, el orden del día, así como, en su caso, de sus comisiones delegadas.
+3. El presidente o presidenta podrá delegar en el vicepresidente o vicepresidenta, así como en los consejeros o consejeras, su representación en actos oficiales, así como la suscripción de convenios con las comunidades autónomas para la gestión y prestación de servicios propios de las mismas.
 
-				        o) Presidir, suspender y levantar las sesiones del Gobierno y, en su caso, de sus comisiones delegadas, y dirigir las deliberaciones.
+## Capítulo IV. Cese, sustitución y suplencia del presidente O presidenta.
 
-				        p) Firmar los decretos leyes, decretos legislativos, decretos del Gobierno y demás disposiciones, actos y acuerdos establecidos en esta ley y en el ordenamiento jurídico.
+#### Artículo 15. Cese del presidente o presidenta.
 
-				        q) Promover y coordinar la ejecución de los acuerdos del Gobierno y de sus comisiones delegadas, así como velar por su cumplimiento.
+1. La presidenta o presidente de Canarias cesa en sus funciones por las siguientes causas:
 
-				        r) Coordinar la actividad de las consejerías y resolver los conflictos de atribuciones que se susciten entre las mismas.
+a) Tras la celebración de elecciones al Parlamento de Canarias.
 
-				        s) Disponer la suplencia de los miembros del Gobierno en los casos de vacante, ausencia, enfermedad u otro impedimento temporal, así como disponer su sustitución en los supuestos de abstención o recusación.
+b) Pérdida de la confianza parlamentaria.
 
-				        t) Proponer al Gobierno los acuerdos sobre interposición de recursos de inconstitucionalidad, requerimientos de incompetencia y planteamiento de conflictos de competencia, así como de las demás actuaciones que le correspondan, de acuerdo con lo establecido en la Ley Orgánica del Tribunal Constitucional.
+c) Dimisión.
 
-				        u) Solicitar dictámenes del Consejo Consultivo de Canarias en los supuestos establecidos en su ley reguladora.
+d) Pérdida de la condición de diputado o diputada.
 
-				        v) Ejercer cuantas otras atribuciones, facultades, funciones y competencias le atribuya el ordenamiento jurídico.
+e) Notoria incapacidad permanente, física o mental, que le inhabilite para el ejercicio del cargo.
 
-				        Artículo 14. Delegación de funciones.
+f) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
 
-				        1. La presidenta o presidente podrá delegar temporalmente las funciones ejecutivas previstas en los apartados d), e), f), q), t), u) y v) del artículo anterior en el vicepresidente o vicepresidenta.
+g) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio de cargo público, cualquiera que sea la duración de la misma.
 
-				        2. En los casos previstos en el apartado anterior, la delegación deberá justificar las circunstancias que la hacen necesaria o conveniente y su efectividad estará supeditada a su publicación en el Boletín Oficial de Canarias. De la delegación se dará cuenta al Parlamento de Canarias, en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
+h) Incumplimiento del régimen de incompatibilidades previsto en esta ley.
 
-				        3. El presidente o presidenta podrá delegar en el vicepresidente o vicepresidenta, así como en los consejeros o consejeras, su representación en actos oficiales, así como la suscripción de convenios con las comunidades autónomas para la gestión y prestación de servicios propios de las mismas.
+i) Fallecimiento.
 
-				        CAPÍTULO IV
+2. La concurrencia de la causa prevista en la letra e) del apartado anterior debe ser reconocida por el Parlamento de Canarias, por mayoría absoluta, de acuerdo con lo establecido en su Reglamento. Asimismo, el incumplimiento del régimen de incompatibilidades al que hace referencia la letra h) del apartado anterior debe ser declarado por el Parlamento de Canarias, por mayoría absoluta, de acuerdo con lo establecido en su Reglamento.
 
-				        CESE, SUSTITUCIÓN Y SUPLENCIA DEL PRESIDENTE O PRESIDENTA
+3. Producido el cese, se iniciará el procedimiento para la elección de nuevo presidente o presidenta, conforme a lo establecido en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias.
 
-				        Artículo 15. Cese del presidente o presidenta.
+#### Artículo 16. Sustitución del presidente o presidenta.
 
-				        1. La presidenta o presidente de Canarias cesa en sus funciones por las siguientes causas:
+1. En los supuestos de cese por pérdida de la condición de diputado o diputada, constitución de curatela con facultades representativas, incumplimiento del régimen de incompatibilidades, inhabilitación o fallecimiento de la presidenta o presidente, le sustituirá el vicepresidente o vicepresidenta y, en defecto del mismo, la consejera o consejero que corresponda según el orden de precedencia.
 
-				        a) Tras la celebración de elecciones al Parlamento de Canarias.
+2. El presidente o presidenta por sustitución, hasta la toma de posesión de la nueva presidenta o presidente, tendrá derecho a los mismos honores y ejercerá sus atribuciones con las limitaciones del presidente o presidenta en funciones.
 
-				        b) Pérdida de la confianza parlamentaria.
+#### Artículo 17. Presidente o presidenta en funciones.
 
-				        c) Dimisión.
+1. En los supuestos de cese por celebración de elecciones al Parlamento de Canarias, pérdida de la confianza parlamentaria y dimisión, el presidente o presidenta continuará en funciones hasta la toma de posesión del nuevo presidente o presidenta.
 
-				        d) Pérdida de la condición de diputado o diputada.
+2. La presidenta o presidente en funciones limitará su gestión al despacho ordinario de los asuntos que le corresponden y a facilitar el traspaso de poderes al nuevo presidente o presidenta, sin que en ningún caso pueda ejercer las atribuciones siguientes:
 
-				        e) Notoria incapacidad permanente, física o mental, que le inhabilite para el ejercicio del cargo.
+a) Disolver el Parlamento de Canarias.
 
-				        f) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
+b) Definir el programa de gobierno.
 
-				        g) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio de cargo público, cualquiera que sea la duración de la misma.
+c) Modificar el número, denominación y competencias de las consejerías.
 
-				        h) Incumplimiento del régimen de incompatibilidades previsto en esta ley.
+d) Nombrar y cesar a los miembros del Gobierno, salvo declarar el cese por fallecimiento, constitución de curatela con facultades representativas, inhabilitación o incompatibilidad o disponer el cese por dimisión.
 
-				        i) Fallecimiento.
+#### Artículo 18. Suplencia del presidente o presidenta.
 
-				        2. La concurrencia de la causa prevista en la letra e) del apartado anterior debe ser reconocida por el Parlamento de Canarias, por mayoría absoluta, de acuerdo con lo establecido en su Reglamento. Asimismo, el incumplimiento del régimen de incompatibilidades al que hace referencia la letra h) del apartado anterior debe ser declarado por el Parlamento de Canarias, por mayoría absoluta, de acuerdo con lo establecido en su Reglamento.
+1. En los casos de ausencia, enfermedad o impedimento temporal del presidente o presidenta, le suplirá la vicepresidenta o vicepresidente y, en su defecto, el consejero o consejera que designe la persona titular de la presidencia, operando la suplencia, cuando no haya designación expresa, por el orden de precedencia de las consejerías.
 
-				        3. Producido el cese, se iniciará el procedimiento para la elección de nuevo presidente o presidenta, conforme a lo establecido en el Estatuto de Autonomía de Canarias y en el Reglamento del Parlamento de Canarias.
+2. Quien ejerza la Presidencia por suplencia tendrá derecho a los mismos honores y ejercerá sus funciones y competencias, con excepción de las siguientes:
 
-				        Artículo 16. Sustitución del presidente o presidenta.
+a) Disolver el Parlamento de Canarias.
 
-				        1. En los supuestos de cese por pérdida de la condición de diputado o diputada, constitución de curatela con facultades representativas, incumplimiento del régimen de incompatibilidades, inhabilitación o fallecimiento de la presidenta o presidente, le sustituirá el vicepresidente o vicepresidenta y, en defecto del mismo, la consejera o consejero que corresponda según el orden de precedencia.
+b) Definir el programa de gobierno.
 
-				        2. El presidente o presidenta por sustitución, hasta la toma de posesión de la nueva presidenta o presidente, tendrá derecho a los mismos honores y ejercerá sus atribuciones con las limitaciones del presidente o presidenta en funciones.
+c) Plantear la cuestión de confianza.
 
-				        Artículo 17. Presidente o presidenta en funciones.
+d) Modificar el número, denominación y competencias de las consejerías.
 
-				        1. En los supuestos de cese por celebración de elecciones al Parlamento de Canarias, pérdida de la confianza parlamentaria y dimisión, el presidente o presidenta continuará en funciones hasta la toma de posesión del nuevo presidente o presidenta.
+e) Nombrar y cesar a los miembros del Gobierno, salvo declarar el cese por fallecimiento, incapacidad, inhabilitación o incompatibilidad o disponer el cese por dimisión.
 
-				        2. La presidenta o presidente en funciones limitará su gestión al despacho ordinario de los asuntos que le corresponden y a facilitar el traspaso de poderes al nuevo presidente o presidenta, sin que en ningún caso pueda ejercer las atribuciones siguientes:
+3. La suplencia deberá comunicarse al Parlamento de Canarias desde el momento en que su duración exceda de un mes, cualquiera que sea su causa.
 
-				        a) Disolver el Parlamento de Canarias.
+## Capítulo V. Estatuto de los expresidentes O expresidentas.
 
-				        b) Definir el programa de gobierno.
+#### Artículo 19. Estatuto de los expresidentes o expresidentas.
 
-				        c) Modificar el número, denominación y competencias de las consejerías.
+1. Las personas que hayan sido titulares de la Presidencia de Canarias, a partir del momento del cese, gozarán de los siguientes derechos:
 
-				        d) Nombrar y cesar a los miembros del Gobierno, salvo declarar el cese por fallecimiento, constitución de curatela con facultades representativas, inhabilitación o incompatibilidad o disponer el cese por dimisión.
+a) Al tratamiento de presidente o presidenta con carácter vitalicio.
 
-				        Artículo 18. Suplencia del presidente o presidenta.
+b) Al lugar protocolario en los actos oficiales de la comunidad autónoma establecido en las disposiciones legales y reglamentarias.
 
-				        1. En los casos de ausencia, enfermedad o impedimento temporal del presidente o presidenta, le suplirá la vicepresidenta o vicepresidente y, en su defecto, el consejero o consejera que designe la persona titular de la presidencia, operando la suplencia, cuando no haya designación expresa, por el orden de precedencia de las consejerías.
+c) Al apoyo de los servicios del Gobierno en sus desplazamientos en el territorio de Canarias, así como a la asistencia de las delegaciones en el exterior en sus desplazamientos fuera del territorio de la comunidad autónoma.
 
-				        2. Quien ejerza la Presidencia por suplencia tendrá derecho a los mismos honores y ejercerá sus funciones y competencias, con excepción de las siguientes:
+d) A la utilización de los medios personales y materiales que se determinen.
 
-				        a) Disolver el Parlamento de Canarias.
+e) A los demás que se determinen en las leyes y, en su caso, en las disposiciones de desarrollo.
 
-				        b) Definir el programa de gobierno.
+2. Lo establecido en el apartado anterior no será de aplicación a las personas titulares de la Presidencia que hayan cesado como consecuencia de sentencia judicial firme de inhabilitación.
 
-				        c) Plantear la cuestión de confianza.
+3. Reglamentariamente se regulará el estatuto de los expresidentes y expresidentas, que recogerá la expresa prohibición de percepción de remuneraciones o derechos económicos con cargo a los presupuestos autonómicos, que no se encuentren vinculados a la realización de actividades propias de su condición; así como la percepción de cualquier sueldo, remuneración o derecho económico vitalicio.
 
-				        d) Modificar el número, denominación y competencias de las consejerías.
+4. Los expresidentes y las expresidentas de Canarias se abstendrán de intervenir en asuntos que pudieran ocasionar un conflicto de intereses.
 
-				        e) Nombrar y cesar a los miembros del Gobierno, salvo declarar el cese por fallecimiento, incapacidad, inhabilitación o incompatibilidad o disponer el cese por dimisión.
+## Título II
 
-				        3. La suplencia deberá comunicarse al Parlamento de Canarias desde el momento en que su duración exceda de un mes, cualquiera que sea su causa.
+GOBIERNO DE CANARIAS
 
-				        CAPÍTULO V
+### Capítulo I
 
-				        ESTATUTO DE LOS EXPRESIDENTES O EXPRESIDENTAS
+### Disposiciones generales artículo 20 El Gobierno. El Gobierno de Canarias es el órgano superior colegiado de dirección política de la comunidad autónoma y de su administración. A tal fin, ejerce la iniciativa legislativa, las funciones ejecutiva y administrativa, así como las potestades normativas previstas en esta ley, de conformidad con la Constitución, el Estatuto de Autonomía y las leyes.
 
-				        Artículo 19. Estatuto de los expresidentes o expresidentas.
+#### Artículo 21. Régimen jurídico.
 
-				        1. Las personas que hayan sido titulares de la Presidencia de Canarias, a partir del momento del cese, gozarán de los siguientes derechos:
+La composición, organización y funcionamiento del Gobierno de Canarias se rige por lo establecido en el Estatuto de Autonomía de Canarias, en esta ley y por las disposiciones internas de organización, funcionamiento y actuación aprobadas por el presidente o la presidenta.
 
-				        a) Al tratamiento de presidente o presidenta con carácter vitalicio.
+#### Artículo 22. Sede del Gobierno.
 
-				        b) Al lugar protocolario en los actos oficiales de la comunidad autónoma establecido en las disposiciones legales y reglamentarias.
+La sede del Gobierno y de sus comisiones delegadas será compartida entre las dos capitales de Canarias, sin perjuicio de que sus reuniones se celebren en cualquier localidad del archipiélago.
 
-				        c) Al apoyo de los servicios del Gobierno en sus desplazamientos en el territorio de Canarias, así como a la asistencia de las delegaciones en el exterior en sus desplazamientos fuera del territorio de la comunidad autónoma.
+#### Artículo 23. Funcionamiento.
 
-				        d) A la utilización de los medios personales y materiales que se determinen.
+El Gobierno de Canarias funciona en Consejo de Gobierno y en comisiones delegadas del Gobierno.
 
-				        e) A los demás que se determinen en las leyes y, en su caso, en las disposiciones de desarrollo.
+## Capítulo II. Composición del gobierno.
 
-				        2. Lo establecido en el apartado anterior no será de aplicación a las personas titulares de la Presidencia que hayan cesado como consecuencia de sentencia judicial firme de inhabilitación.
+#### Artículo 24. Composición del Gobierno.
 
-				        3. Reglamentariamente se regulará el estatuto de los expresidentes y expresidentas, que recogerá la expresa prohibición de percepción de remuneraciones o derechos económicos con cargo a los presupuestos autonómicos, que no se encuentren vinculados a la realización de actividades propias de su condición; así como la percepción de cualquier sueldo, remuneración o derecho económico vitalicio.
+1. El Gobierno de Canarias se compone del presidente o presidenta, el vicepresidente o vicepresidenta y los consejeros o consejeras.
 
-				        4. Los expresidentes y las expresidentas de Canarias se abstendrán de intervenir en asuntos que pudieran ocasionar un conflicto de intereses.
+2. En la composición del Gobierno de Canarias se deberá garantizar la presencia equilibrada de mujeres y hombres, sin que el número de las personas de cada sexo supere el sesenta por ciento ni sea inferior al cuarenta por ciento del total del órgano.
 
-				        TÍTULO II
+#### Artículo 25. Secretaría del Gobierno.
 
-				        GOBIERNO DE CANARIAS
+1. La Secretaría del Gobierno de Canarias la ejercerá la consejera o consejero que designe el presidente o presidenta.
 
-				        CAPÍTULO I
+2. En caso de ausencia, vacante, enfermedad o impedimento temporal de la persona que desempeñe la Secretaría corresponde su suplencia al consejero o consejera que determine el presidente o presidenta o, en su defecto, al de menor edad de entre el resto de consejeros o consejeras.
 
-				        DISPOSICIONES GENERALES
+3. Corresponde a la Secretaría del Gobierno:
 
-				        Artículo 20. El Gobierno.
+a) Verificar el cumplimiento de los requisitos establecidos en la ley para la validez de la constitución del órgano, de sus deliberaciones y de la adopción de sus acuerdos.
 
-				        El Gobierno de Canarias es el órgano superior colegiado de dirección política de la comunidad autónoma y de su administración. A tal fin, ejerce la iniciativa legislativa, las funciones ejecutiva y administrativa, así como las potestades normativas previstas en esta ley, de conformidad con la Constitución, el Estatuto de Autonomía y las leyes.
+b) Levantar acta de las reuniones del Gobierno.
 
-				        Artículo 21. Régimen jurídico.
+c) Expedir certificaciones de los acuerdos.
 
-				        La composición, organización y funcionamiento del Gobierno de Canarias se rige por lo establecido en el Estatuto de Autonomía de Canarias, en esta ley y por las disposiciones internas de organización, funcionamiento y actuación aprobadas por el presidente o la presidenta.
+d) Disponer lo necesario para el archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones del Gobierno.
 
-				        Artículo 22. Sede del Gobierno.
+e) Velar por la correcta y fiel publicación de los actos y disposiciones emanadas del Gobierno que deban insertarse en el Boletín Oficial de Canarias.
 
-				        La sede del Gobierno y de sus comisiones delegadas será compartida entre las dos capitales de Canarias, sin perjuicio de que sus reuniones se celebren en cualquier localidad del archipiélago.
+f) Ejercer las demás funciones que se le atribuyan.
 
-				        Artículo 23. Funcionamiento.
+## Capítulo III. Atribuciones del gobierno.
 
-				        El Gobierno de Canarias funciona en Consejo de Gobierno y en comisiones delegadas del Gobierno.
+#### Artículo 26. Atribuciones del Gobierno en materia de dirección política.
 
-				        CAPÍTULO II
+1. En ejercicio de su función de dirección política, corresponde al Gobierno:
 
-				        COMPOSICIÓN DEL GOBIERNO
+a) Desarrollar el programa de gobierno.
 
-				        Artículo 24. Composición del Gobierno.
+b) Acordar la planificación y desarrollo de la política general de la comunidad autónoma, así como la planificación y coordinación de la política económica, teniendo en cuenta las necesidades de cada isla y el interés general.
 
-				        1. El Gobierno de Canarias se compone del presidente o presidenta, el vicepresidente o vicepresidenta y los consejeros o consejeras.
+c) Acordar la creación de comisiones delegadas del Gobierno y determinar su composición y funciones.
 
-				        2. En la composición del Gobierno de Canarias se deberá garantizar la presencia equilibrada de mujeres y hombres, sin que el número de las personas de cada sexo supere el sesenta por ciento ni sea inferior al cuarenta por ciento del total del órgano.
+d) Coordinar la actividad de los cabildos insulares y ayuntamientos en cuanto afecte directamente al interés general de la comunidad autónoma.
 
-				        Artículo 25. Secretaría del Gobierno.
+e) Aprobar planes y programas vinculantes para la Administración de la comunidad autónoma y sus organismos y entidades públicas.
 
-				        1. La Secretaría del Gobierno de Canarias la ejercerá la consejera o consejero que designe el presidente o presidenta.
+f) Aprobar las instrucciones a los representantes de la Administración pública de la comunidad autónoma y de sus organismos y entidades públicas en los órganos de dirección de las sociedades mercantiles y fundaciones públicas.
 
-				        2. En caso de ausencia, vacante, enfermedad o impedimento temporal de la persona que desempeñe la Secretaría corresponde su suplencia al consejero o consejera que determine el presidente o presidenta o, en su defecto, al de menor edad de entre el resto de consejeros o consejeras.
+g) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
 
-				        3. Corresponde a la Secretaría del Gobierno:
+2. En ejercicio de su función de dirección política, el Gobierno aprueba directrices o estrategias de actuación de la Administración pública y de sus entidades vinculadas y dependientes, en las que podrán establecerse los objetivos, políticas o acciones a desarrollar. Estas directrices o estrategias podrán desarrollarse en planes, programas o actuaciones determinadas, correspondiendo a los órganos o entidades destinatarias fijar, dentro de los límites del ordenamiento jurídico, los medios para su ejecución, salvo que se especifiquen en las directrices o estrategias aprobadas.
 
-				        a) Verificar el cumplimiento de los requisitos establecidos en la ley para la validez de la constitución del órgano, de sus deliberaciones y de la adopción de sus acuerdos.
+#### Artículo 27. Atribuciones del Gobierno en relación con el Parlamento.
 
-				        b) Levantar acta de las reuniones del Gobierno.
+En relación con el Parlamento de Canarias, de acuerdo, en su caso, con las previsiones del Reglamento del Parlamento, corresponde al Gobierno:
 
-				        c) Expedir certificaciones de los acuerdos.
+a) Presentar los proyectos de ley y, en su caso, acordar su retirada.
 
-				        d) Disponer lo necesario para el archivo y custodia de las convocatorias, órdenes del día y actas de las reuniones del Gobierno.
+b) Manifestar la conformidad o disconformidad con la tramitación en el Parlamento de Canarias de proposiciones de ley o enmiendas que impliquen aumento de los créditos o disminución de los ingresos presupuestarios en vigor, así como manifestar su criterio respecto a la toma en consideración de cualesquiera otras proposiciones de ley.
 
-				        e) Velar por la correcta y fiel publicación de los actos y disposiciones emanadas del Gobierno que deban insertarse en el Boletín Oficial de Canarias.
+c) Solicitar que el Parlamento de Canarias se reúna en sesión extraordinaria.
 
-				        f) Ejercer las demás funciones que se le atribuyan.
+d) Aprobar y remitir al Parlamento de Canarias, para su aprobación si tienen una afectación legislativa, los proyectos de convenios con otras comunidades autónomas para la gestión y prestación de servicios propios correspondientes a materias de su exclusiva competencia y los proyectos de acuerdos de cooperación con otras comunidades autónomas.
 
-				        CAPÍTULO III
+e) Remitir al Parlamento comunicaciones para su debate.
 
-				        ATRIBUCIONES DEL GOBIERNO
+f) Solicitar el pronunciamiento del Parlamento sobre planes y programas.
 
-				        Artículo 26. Atribuciones del Gobierno en materia de dirección política.
+g) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
 
-				        1. En ejercicio de su función de dirección política, corresponde al Gobierno:
+#### Artículo 28. Atribuciones del Gobierno relativas a la potestad normativa.
 
-				        a) Desarrollar el programa de gobierno.
+En ejercicio de las funciones relativas a la iniciativa legislativa, a la legislación delegada y a la potestad reglamentaria, corresponde al Gobierno:
 
-				        b) Acordar la planificación y desarrollo de la política general de la comunidad autónoma, así como la planificación y coordinación de la política económica, teniendo en cuenta las necesidades de cada isla y el interés general.
+a) Aprobar los proyectos de ley.
 
-				        c) Acordar la creación de comisiones delegadas del Gobierno y determinar su composición y funciones.
+b) Dictar decretos leyes en los supuestos y con los requisitos establecidos en el Estatuto de Autonomía.
 
-				        d) Coordinar la actividad de los cabildos insulares y ayuntamientos en cuanto afecte directamente al interés general de la comunidad autónoma.
+c) Dictar decretos legislativos, previa delegación expresa del Parlamento de Canarias.
 
-				        e) Aprobar planes y programas vinculantes para la Administración de la comunidad autónoma y sus organismos y entidades públicas.
+d) Ejercer la potestad reglamentaria, en los términos establecidos en el Estatuto de Autonomía, la presente ley y el resto del ordenamiento jurídico.
 
-				        f) Aprobar las instrucciones a los representantes de la Administración pública de la comunidad autónoma y de sus organismos y entidades públicas en los órganos de dirección de las sociedades mercantiles y fundaciones públicas.
+e) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
 
-				        g) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
+#### Artículo 29. Atribuciones del Gobierno en relación con el Tribunal Constitucional.
 
-				        2. En ejercicio de su función de dirección política, el Gobierno aprueba directrices o estrategias de actuación de la Administración pública y de sus entidades vinculadas y dependientes, en las que podrán establecerse los objetivos, políticas o acciones a desarrollar. Estas directrices o estrategias podrán desarrollarse en planes, programas o actuaciones determinadas, correspondiendo a los órganos o entidades destinatarias fijar, dentro de los límites del ordenamiento jurídico, los medios para su ejecución, salvo que se especifiquen en las directrices o estrategias aprobadas.
+En relación con el Tribunal Constitucional y en los términos previstos en la Ley Orgánica del Tribunal Constitucional, le corresponde:
 
-				        Artículo 27. Atribuciones del Gobierno en relación con el Parlamento.
+a) Acordar la interposición de recursos de inconstitucionalidad, así como la personación ante este en dichos recursos cuando proceda.
 
-				        En relación con el Parlamento de Canarias, de acuerdo, en su caso, con las previsiones del Reglamento del Parlamento, corresponde al Gobierno:
+b) Acordar, en los supuestos que proceda, la personación en los conflictos en defensa de la autonomía local y en las cuestiones de inconstitucionalidad.
 
-				        a) Presentar los proyectos de ley y, en su caso, acordar su retirada.
+c) Plantear conflictos de competencia ante el Tribunal Constitucional, previa práctica de los requerimientos exigidos, y acordar la personación en los incoados cuando proceda.
 
-				        b) Manifestar la conformidad o disconformidad con la tramitación en el Parlamento de Canarias de proposiciones de ley o enmiendas que impliquen aumento de los créditos o disminución de los ingresos presupuestarios en vigor, así como manifestar su criterio respecto a la toma en consideración de cualesquiera otras proposiciones de ley.
+d) Una vez informado, adoptar los acuerdos que sean precisos en relación con las negociaciones para resolver las discrepancias respecto de las disposiciones con rango de ley previstas en la Ley Orgánica del Tribunal Constitucional.
 
-				        c) Solicitar que el Parlamento de Canarias se reúna en sesión extraordinaria.
+e) Ejercer cualquier otra función o competencia atribuida al Gobierno.
 
-				        d) Aprobar y remitir al Parlamento de Canarias, para su aprobación si tienen una afectación legislativa, los proyectos de convenios con otras comunidades autónomas para la gestión y prestación de servicios propios correspondientes a materias de su exclusiva competencia y los proyectos de acuerdos de cooperación con otras comunidades autónomas.
+#### Artículo 30. Atribuciones del Gobierno en materia presupuestaria En materia presupuestaria, corresponde al Gobierno:.
 
-				        e) Remitir al Parlamento comunicaciones para su debate.
+a) Aprobar el proyecto de ley de presupuestos generales de la comunidad autónoma y remitirlo al Parlamento para su aprobación.
 
-				        f) Solicitar el pronunciamiento del Parlamento sobre planes y programas.
+b) Aprobar los proyectos de ley de crédito extraordinario y suplemento de crédito y remitirlos al Parlamento para su aprobación.
 
-				        g) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
+c) Autorizar o aprobar las modificaciones presupuestarias que sean de su competencia, de conformidad con la legislación reguladora de la hacienda pública y de la actividad económico-financiera de la comunidad autónoma.
 
-				        Artículo 28. Atribuciones del Gobierno relativas a la potestad normativa.
+d) Autorizar y, en su caso, acordar los actos, operaciones y resoluciones previstos en la legislación reguladora de la hacienda pública y de la actividad económico-financiera de la comunidad autónoma.
 
-				        En ejercicio de las funciones relativas a la iniciativa legislativa, a la legislación delegada y a la potestad reglamentaria, corresponde al Gobierno:
+#### Artículo 31. Atribuciones del Gobierno en materia ejecutiva y administrativa En ejercicio de las funciones ejecutivas y administrativas, corresponde al Gobierno:.
 
-				        a) Aprobar los proyectos de ley.
+a) Aprobar la estructura orgánica y las sedes de las consejerías, así como los reglamentos orgánicos de las mismas y de sus organismos públicos.
 
-				        b) Dictar decretos leyes en los supuestos y con los requisitos establecidos en el Estatuto de Autonomía.
+b) Ejercer el mando superior del Cuerpo General de la Policía Canaria y las demás competencias que le atribuye su legislación reguladora.
 
-				        c) Dictar decretos legislativos, previa delegación expresa del Parlamento de Canarias.
+c) Ejercer las competencias que en relación con los cabildos insulares y ayuntamientos de la comunidad autónoma le atribuye el ordenamiento jurídico.
 
-				        d) Ejercer la potestad reglamentaria, en los términos establecidos en el Estatuto de Autonomía, la presente ley y el resto del ordenamiento jurídico.
+d) Adoptar las disposiciones y medidas necesarias para la ejecución de los tratados y convenios internacionales, así como para el cumplimiento de los actos normativos derivados de los mismos, que afecten a las materias atribuidas a la competencia de la comunidad autónoma.
 
-				        e) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
+e) Aprobar los informes de las disposiciones reglamentarias estatales de desarrollo de las leyes del Régimen Económico y Fiscal de Canarias, así como, de acuerdo con lo previsto en el Reglamento del Parlamento y cuando así lo solicite el Parlamento, manifestar su criterio sobre las disposiciones estatales con rango de ley que afecten a dicho régimen que se sometan a informe del Parlamento de Canarias.
 
-				        Artículo 29. Atribuciones del Gobierno en relación con el Tribunal Constitucional.
+f) Participar en el proceso de modificación del Régimen Económico y Fiscal de Canarias previsto en el Estatuto de Autonomía.
 
-				        En relación con el Tribunal Constitucional y en los términos previstos en la Ley Orgánica del Tribunal Constitucional, le corresponde:
+g) Adoptar las resoluciones de los procedimientos administrativos que le atribuya el ordenamiento jurídico.
 
-				        a) Acordar la interposición de recursos de inconstitucionalidad, así como la personación ante este en dichos recursos cuando proceda.
+h) Declarar la urgente ocupación de los bienes y derechos afectados en las expropiaciones autonómicas y locales, cuando concurran los requisitos exigidos legalmente.
 
-				        b) Acordar, en los supuestos que proceda, la personación en los conflictos en defensa de la autonomía local y en las cuestiones de inconstitucionalidad.
+i) Resolver aquellos asuntos que le sometan las personas miembros del Gobierno cuando estos disientan del dictamen del Consejo Consultivo de Canarias.
 
-				        c) Plantear conflictos de competencia ante el Tribunal Constitucional, previa práctica de los requerimientos exigidos, y acordar la personación en los incoados cuando proceda.
+j) Nombrar y cesar a los altos cargos de la Administración de la comunidad autónoma.
 
-				        d) Una vez informado, adoptar los acuerdos que sean precisos en relación con las negociaciones para resolver las discrepancias respecto de las disposiciones con rango de ley previstas en la Ley Orgánica del Tribunal Constitucional.
+k) Nombrar y cesar a los representantes del Gobierno de Canarias y de la Administración pública de la comunidad autónoma en los organismos y órganos estatales, supranacionales e internacionales.
 
-				        e) Ejercer cualquier otra función o competencia atribuida al Gobierno.
+l) Disponer los nombramientos y ceses establecidos en el ordenamiento jurídico, así como autorizar los que procedan.
 
-				        Artículo 30. Atribuciones del Gobierno en materia presupuestaria.
+m) Proponer al Gobierno del Estado las personas que hayan de formar parte de los órganos de administración de las sociedades mercantiles estatales implantadas en Canarias, en los términos y número que determine la legislación estatal.
 
-				        En materia presupuestaria, corresponde al Gobierno:
+n) Autorizar los actos, contratos y convenios cuando así venga exigido por el ordenamiento jurídico.
 
-				        a) Aprobar el proyecto de ley de presupuestos generales de la comunidad autónoma y remitirlo al Parlamento para su aprobación.
+ñ) Incoar y resolver los procedimientos de revisión de oficio de los actos administrativos dictados por el Consejo de Gobierno y las comisiones delegadas.
 
-				        b) Aprobar los proyectos de ley de crédito extraordinario y suplemento de crédito y remitirlos al Parlamento para su aprobación.
+o) Ejercer las competencias que le atribuye la legislación de patrimonio de la comunidad autónoma.
 
-				        c) Autorizar o aprobar las modificaciones presupuestarias que sean de su competencia, de conformidad con la legislación reguladora de la hacienda pública y de la actividad económico-financiera de la comunidad autónoma.
+p) Entender de los asuntos que por su importancia o naturaleza requieran el conocimiento, deliberación o decisión del Gobierno, a juicio del presidente o presidenta, por propia iniciativa o a instancia de los demás miembros del Gobierno.
 
-				        d) Autorizar y, en su caso, acordar los actos, operaciones y resoluciones previstos en la legislación reguladora de la hacienda pública y de la actividad económico-financiera de la comunidad autónoma.
+q) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
 
-				        Artículo 31. Atribuciones del Gobierno en materia ejecutiva y administrativa.
+#### Artículo 32. Delegación en miembros del Gobierno.
 
-				        En ejercicio de las funciones ejecutivas y administrativas, corresponde al Gobierno:
+Las funciones administrativas previstas en el apartado c) del artículo 30 y en.
 
-				        a) Aprobar la estructura orgánica y las sedes de las consejerías, así como los reglamentos orgánicos de las mismas y de sus organismos públicos.
+los apartados d), g), h) y q) del artículo 31 pueden delegarse en los miembros del Gobierno, mediante decreto. La delegación surtirá efectos desde la fecha de publicación en el Boletín Oficial de Canarias.
 
-				        b) Ejercer el mando superior del Cuerpo General de la Policía Canaria y las demás competencias que le atribuye su legislación reguladora.
+## Capítulo IV. Funcionamiento del consejo de gobierno.
 
-				        c) Ejercer las competencias que en relación con los cabildos insulares y ayuntamientos de la comunidad autónoma le atribuye el ordenamiento jurídico.
+#### Artículo 33. Reuniones del Consejo de Gobierno.
 
-				        d) Adoptar las disposiciones y medidas necesarias para la ejecución de los tratados y convenios internacionales, así como para el cumplimiento de los actos normativos derivados de los mismos, que afecten a las materias atribuidas a la competencia de la comunidad autónoma.
+1. Las reuniones del Consejo de Gobierno podrán tener carácter decisorio o deliberante.
 
-				        e) Aprobar los informes de las disposiciones reglamentarias estatales de desarrollo de las leyes del Régimen Económico y Fiscal de Canarias, así como, de acuerdo con lo previsto en el Reglamento del Parlamento y cuando así lo solicite el Parlamento, manifestar su criterio sobre las disposiciones estatales con rango de ley que afecten a dicho régimen que se sometan a informe del Parlamento de Canarias.
+2. El Consejo de Gobierno se reunirá periódicamente, previa convocatoria de su presidenta o presidente, a la que se acompañará el orden del día de la sesión.
 
-				        f) Participar en el proceso de modificación del Régimen Económico y Fiscal de Canarias previsto en el Estatuto de Autonomía.
+3. Asimismo, cuando concurran razones de urgencia, por decisión del presidente o presidenta, podrá reunirse el Consejo de Gobierno sin necesidad de remitir orden del día.
 
-				        g) Adoptar las resoluciones de los procedimientos administrativos que le atribuya el ordenamiento jurídico.
+4. También podrá reunirse el Consejo de Gobierno, sin necesidad de convocatoria previa ni orden del día, cuando así lo decida la presidenta o presidente y se hallen presentes todas las personas integrantes del órgano.
 
-				        h) Declarar la urgente ocupación de los bienes y derechos afectados en las expropiaciones autonómicas y locales, cuando concurran los requisitos exigidos legalmente.
+#### Artículo 34. Quorum.
 
-				        i) Resolver aquellos asuntos que le sometan las personas miembros del Gobierno cuando estos disientan del dictamen del Consejo Consultivo de Canarias.
+Para la validez de la constitución del Consejo de Gobierno y de sus deliberaciones, así como para la adopción de decisiones, será necesaria la asistencia de la mayoría de sus miembros, entre los que estará el presidente o presidenta o quien le supla.
 
-				        j) Nombrar y cesar a los altos cargos de la Administración de la comunidad autónoma.
+#### Artículo 35. Asistencia a las reuniones.
 
-				        k) Nombrar y cesar a los representantes del Gobierno de Canarias y de la Administración pública de la comunidad autónoma en los organismos y órganos estatales, supranacionales e internacionales.
+1. La presidenta o presidente podrá convocar a las reuniones del Consejo de Gobierno a las personas que desempeñen altos cargos en la Administración pública de la comunidad autónoma y en sus entidades públicas vinculadas o dependientes, para una sesión o para el debate de un asunto concreto.
 
-				        l) Disponer los nombramientos y ceses establecidos en el ordenamiento jurídico, así como autorizar los que procedan.
+2. Asimismo, el presidente o presidenta podrá convocar a cualquier persona a los únicos efectos de informar sobre algún asunto, limitándose su presencia al acto estricto de la información.
 
-				        m) Proponer al Gobierno del Estado las personas que hayan de formar parte de los órganos de administración de las sociedades mercantiles estatales implantadas en Canarias, en los términos y número que determine la legislación estatal.
+3. Las personas que desempeñen altos cargos que asistan a las reuniones del Consejo de Gobierno y que no sean miembros del Gobierno, quedarán sujetas al deber de guardar secreto de las deliberaciones, aun después de cesar en el cargo.
 
-				        n) Autorizar los actos, contratos y convenios cuando así venga exigido por el ordenamiento jurídico.
+#### Artículo 36. Carácter de las deliberaciones y documentación.
 
-				        ñ) Incoar y resolver los procedimientos de revisión de oficio de los actos administrativos dictados por el Consejo de Gobierno y las comisiones delegadas.
+1. Las deliberaciones del Consejo de Gobierno tienen carácter reservado y secreto, estando obligados sus miembros a mantener dicho carácter, aun después de haber cesado en su cargo.
 
-				        o) Ejercer las competencias que le atribuye la legislación de patrimonio de la comunidad autónoma.
+2. El Consejo de Gobierno decidirá qué documentación de la sometida a su consideración se clasifica como reservada.
 
-				        p) Entender de los asuntos que por su importancia o naturaleza requieran el conocimiento, deliberación o decisión del Gobierno, a juicio del presidente o presidenta, por propia iniciativa o a instancia de los demás miembros del Gobierno.
+#### Artículo 37. Decisiones del Consejo de Gobierno.
 
-				        q) Ejercer cualquier otra función o competencia atribuida por el ordenamiento jurídico.
+1. Las decisiones del Consejo de Gobierno constituyen la expresión unitaria de la voluntad del mismo y obligan a todos sus miembros, sin que estén sujetas a votación formal.
 
-				        Artículo 32. Delegación en miembros del Gobierno.
+2. Las decisiones del Consejo de Gobierno revestirán la forma de decreto cuando aprueben disposiciones generales, lo exija el ordenamiento jurídico o lo acuerde el Gobierno por ser conveniente o necesaria su publicación.
 
-				        Las funciones administrativas previstas en el apartado c) del artículo 30 y en los apartados d), g), h) y q) del artículo 31 pueden delegarse en los miembros del Gobierno, mediante decreto. La delegación surtirá efectos desde la fecha de publicación en el Boletín Oficial de Canarias.
+3. Cuando no se adopten como decreto, las decisiones del Consejo de Gobierno revestirán la forma de acuerdo.
 
-				        CAPÍTULO IV
+#### Artículo 38. Actas.
 
-				        FUNCIONAMIENTO DEL CONSEJO DE GOBIERNO
+1. De las reuniones del Consejo de Gobierno se levantará acta en la que figurarán, exclusivamente, las circunstancias relativas al tiempo y lugar de su celebración, la relación de asistentes, los acuerdos adoptados y los informes presentados.
 
-				        Artículo 33. Reuniones del Consejo de Gobierno.
+2. Las actas serán firmadas por quien desempeñe la Secretaría del Gobierno.
 
-				        1. Las reuniones del Consejo de Gobierno podrán tener carácter decisorio o deliberante.
+#### Artículo 39. Abstención y recusación.
 
-				        2. El Consejo de Gobierno se reunirá periódicamente, previa convocatoria de su presidenta o presidente, a la que se acompañará el orden del día de la sesión.
+1. Cuando los miembros del Gobierno, de acuerdo con la legislación aplicable, estén incursos en causa de abstención, deberán comunicarlo por escrito dirigido al presidente o presidenta, quien dispondrá, cuando proceda, el miembro del Gobierno que debe elevar la propuesta al Gobierno.
 
-				        3. Asimismo, cuando concurran razones de urgencia, por decisión del presidente o presidenta, podrá reunirse el Consejo de Gobierno sin necesidad de remitir orden del día.
+2. En caso de recusación de un miembro del Gobierno, el mismo manifestará su criterio por escrito dirigido al presidente o presidenta, que adoptará la resolución que proceda y, en su caso, designará el miembro del Gobierno que le sustituya.
 
-				        4. También podrá reunirse el Consejo de Gobierno, sin necesidad de convocatoria previa ni orden del día, cuando así lo decida la presidenta o presidente y se hallen presentes todas las personas integrantes del órgano.
+3. Si la causa de abstención o la recusación afecta a la presidenta o presidente, le sustituirá el vicepresidente o vicepresidenta, o, en su defecto, la consejera o consejero que corresponda, según el orden de precedencias.
 
-				        Artículo 34. Quorum.
+## Capítulo V. Comisiones delegadas del gobierno.
 
-				        Para la validez de la constitución del Consejo de Gobierno y de sus deliberaciones, así como para la adopción de decisiones, será necesaria la asistencia de la mayoría de sus miembros, entre los que estará el presidente o presidenta o quien le supla.
+#### Artículo 40. Comisiones delegadas del Gobierno.
 
-				        Artículo 35. Asistencia a las reuniones.
+El Gobierno podrá constituir, en su seno, comisiones delegadas, de carácter permanente o temporal, para el ejercicio de las funciones que le atribuya su norma de creación y las que le delegue el Consejo de Gobierno.
 
-				        1. La presidenta o presidente podrá convocar a las reuniones del Consejo de Gobierno a las personas que desempeñen altos cargos en la Administración pública de la comunidad autónoma y en sus entidades públicas vinculadas o dependientes, para una sesión o para el debate de un asunto concreto.
+#### Artículo 41. Creación, modificación y supresión.
 
-				        2. Asimismo, el presidente o presidenta podrá convocar a cualquier persona a los únicos efectos de informar sobre algún asunto, limitándose su presencia al acto estricto de la información.
+1. La creación, modificación y supresión de las comisiones delegadas del Gobierno se aprobará por el Gobierno mediante decreto, a propuesta del presidente o presidenta.
 
-				        3. Las personas que desempeñen altos cargos que asistan a las reuniones del Consejo de Gobierno y que no sean miembros del Gobierno, quedarán sujetas al deber de guardar secreto de las deliberaciones, aun después de cesar en el cargo.
+2. El decreto de creación regulará, en todo caso, los miembros del Gobierno que la integran y las funciones que se le atribuyen.
 
-				        Artículo 36. Carácter de las deliberaciones y documentación.
+#### Artículo 42. Funciones.
 
-				        1. Las deliberaciones del Consejo de Gobierno tienen carácter reservado y secreto, estando obligados sus miembros a mantener dicho carácter, aun después de haber cesado en su cargo.
+En el decreto de creación se podrá atribuir a las comisiones delegadas el estudio y resolución de asuntos que afecten a la competencia de dos o más departamentos, la elaboración y aprobación de directrices de programas o actuaciones de interés común, así como las funciones que se recogen en las letras c) y d) del artículo 30 y en.
 
-				        2. El Consejo de Gobierno decidirá qué documentación de la sometida a su consideración se clasifica como reservada.
+el artículo 31, salvo las previstas en las letras b), i), j), k), l) y p).
 
-				        Artículo 37. Decisiones del Consejo de Gobierno.
+#### Artículo 43. Funcionamiento.
 
-				        1. Las decisiones del Consejo de Gobierno constituyen la expresión unitaria de la voluntad del mismo y obligan a todos sus miembros, sin que estén sujetas a votación formal.
+1. Las comisiones ajustarán su funcionamiento a las normas establecidas para el Gobierno.
 
-				        2. Las decisiones del Consejo de Gobierno revestirán la forma de decreto cuando aprueben disposiciones generales, lo exija el ordenamiento jurídico o lo acuerde el Gobierno por ser conveniente o necesaria su publicación.
+2. Corresponde la presidencia de las comisiones delegadas a la presidenta o presidente. No obstante, en el decreto de creación se podrá atribuir la presidencia de la Comisión Delegada al vicepresidente o vicepresidenta, salvo que forme parte de la misma el presidente o presidenta.
 
-				        3. Cuando no se adopten como decreto, las decisiones del Consejo de Gobierno revestirán la forma de acuerdo.
+3. Corresponde la secretaría de las comisiones delegadas a quien desempeña la Secretaría del Gobierno.
 
-				        Artículo 38. Actas.
+#### Artículo 44. Decisiones de las comisiones delegadas.
 
-				        1. De las reuniones del Consejo de Gobierno se levantará acta en la que figurarán, exclusivamente, las circunstancias relativas al tiempo y lugar de su celebración, la relación de asistentes, los acuerdos adoptados y los informes presentados.
+1. Las decisiones adoptadas por las comisiones delegadas constituyen la expresión unitaria de la voluntad de la misma.
 
-				        2. Las actas serán firmadas por quien desempeñe la Secretaría del Gobierno.
+2. Las decisiones que se adopten por las comisiones delegadas adoptarán la forma de acuerdo, salvo las disposiciones generales, que adoptará la forma de decreto de Comisión Delegada.
 
-				        Artículo 39. Abstención y recusación.
+## Capítulo VI. Órganos y unidades de apoyo del gobierno.
 
-				        1. Cuando los miembros del Gobierno, de acuerdo con la legislación aplicable, estén incursos en causa de abstención, deberán comunicarlo por escrito dirigido al presidente o presidenta, quien dispondrá, cuando proceda, el miembro del Gobierno que debe elevar la propuesta al Gobierno.
+#### Artículo 45. Comisión Preparatoria de Asuntos del Gobierno.
 
-				        2. En caso de recusación de un miembro del Gobierno, el mismo manifestará su criterio por escrito dirigido al presidente o presidenta, que adoptará la resolución que proceda y, en su caso, designará el miembro del Gobierno que le sustituya.
+1. El Gobierno estará asistido para el examen y preparación de los asuntos que vayan a someterse a su consideración por la Comisión Preparatoria de Asuntos del Gobierno, presidida por la consejera o consejero que desempeñe la Secretaría del Gobierno, con la composición y funciones que se establezcan reglamentariamente.
 
-				        3. Si la causa de abstención o la recusación afecta a la presidenta o presidente, le sustituirá el vicepresidente o vicepresidenta, o, en su defecto, la consejera o consejero que corresponda, según el orden de precedencias.
+2. La Comisión Preparatoria no podrá adoptar decisiones o acuerdos por delegación de los órganos colegiados del Gobierno.
 
-				        CAPÍTULO V
+#### Artículo 46. Portavocía del Gobierno.
 
-				        COMISIONES DELEGADAS DEL GOBIERNO
+1. El presidente o presidenta podrá crear la Portavocía del Gobierno, cuyo titular asistirá a las reuniones de los órganos colegiados del Gobierno, estando obligado a mantener el secreto propio de las deliberaciones de dichos órganos.
 
-				        Artículo 40. Comisiones delegadas del Gobierno.
+2. Corresponden a la Portavocía del Gobierno las funciones y competencias que determinen las disposiciones organizativas dictadas por el presidente o la presidenta.
 
-				        El Gobierno podrá constituir, en su seno, comisiones delegadas, de carácter permanente o temporal, para el ejercicio de las funciones que le atribuya su norma de creación y las que le delegue el Consejo de Gobierno.
+## Capítulo VII. Cese del gobierno.
 
-				        Artículo 41. Creación, modificación y supresión.
+#### Artículo 47. Cese del Gobierno.
 
-				        1. La creación, modificación y supresión de las comisiones delegadas del Gobierno se aprobará por el Gobierno mediante decreto, a propuesta del presidente o presidenta.
+El Gobierno de Canarias cesa tras la celebración de elecciones al Parlamento de Canarias, por pérdida de la confianza parlamentaria y en los demás supuestos de cese del presidente o presidenta, continuando en funciones hasta la toma de posesión del nuevo Gobierno, que tendrá lugar en el plazo máximo de quince días, a contar desde la fecha de nombramiento de la persona titular de la Presidencia.
 
-				        2. El decreto de creación regulará, en todo caso, los miembros del Gobierno que la integran y las funciones que se le atribuyen.
+#### Artículo 48. Gobierno en funciones.
 
-				        Artículo 42. Funciones.
+1. El Gobierno en funciones facilitará el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes al mismo, absteniéndose de adoptar decisiones que impliquen dirección de la política general o comprometan la política del Gobierno que vaya a sucederle.
 
-				        En el decreto de creación se podrá atribuir a las comisiones delegadas el estudio y resolución de asuntos que afecten a la competencia de dos o más departamentos, la elaboración y aprobación de directrices de programas o actuaciones de interés común, así como las funciones que se recogen en las letras c) y d) del artículo 30 y en el artículo 31, salvo las previstas en las letras b), i), j), k), l) y p).
+2. El Gobierno en funciones limitará su gestión al despacho ordinario de los asuntos públicos de su competencia.
 
-				        Artículo 43. Funcionamiento.
+3. El Gobierno en funciones no podrá aprobar el proyecto de ley de presupuestos de la comunidad autónoma ni ejercer, salvo casos de urgencia o interés general debidamente acreditados, las siguientes facultades:
 
-				        1. Las comisiones ajustarán su funcionamiento a las normas establecidas para el Gobierno.
+a) La iniciativa legislativa.
 
-				        2. Corresponde la presidencia de las comisiones delegadas a la presidenta o presidente. No obstante, en el decreto de creación se podrá atribuir la presidencia de la Comisión Delegada al vicepresidente o vicepresidenta, salvo que forme parte de la misma el presidente o presidenta.
+b) Hacer uso de las delegaciones legislativas conferidas por el Parlamento de Canarias.
 
-				        3. Corresponde la secretaría de las comisiones delegadas a quien desempeña la Secretaría del Gobierno.
+c) La potestad reglamentaria, salvo que se limite a la mera organización interna.
 
-				        Artículo 44. Decisiones de las comisiones delegadas.
+## Título III
 
-				        1. Las decisiones adoptadas por las comisiones delegadas constituyen la expresión unitaria de la voluntad de la misma.
+VICEPRESIDENTE O VICEPRESIDENTA Y CONSEJEROS O CONSEJERAS
 
-				        2. Las decisiones que se adopten por las comisiones delegadas adoptarán la forma de acuerdo, salvo las disposiciones generales, que adoptará la forma de decreto de Comisión Delegada.
+## Capítulo I. Vicepresidente O vicepresidenta.
 
-				        CAPÍTULO VI
+#### Artículo 49. Caracterización y requisitos de acceso al cargo.
 
-				        ÓRGANOS Y UNIDADES DE APOYO DEL GOBIERNO
+1. El vicepresidente o vicepresidenta es miembro del Gobierno, pudiendo ostentar la titularidad de una consejería cuando así lo disponga el presidente o presidenta.
 
-				        Artículo 45. Comisión Preparatoria de Asuntos del Gobierno.
+2. Para ser vicepresidenta o vicepresidente se requiere tener la condición de diputada o diputado del Parlamento de Canarias y no hallarse imposibilitada por sanción para ser nombrada cargo público de acuerdo con la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
 
-				        1. El Gobierno estará asistido para el examen y preparación de los asuntos que vayan a someterse a su consideración por la Comisión Preparatoria de Asuntos del Gobierno, presidida por la consejera o consejero que desempeñe la Secretaría del Gobierno, con la composición y funciones que se establezcan reglamentariamente.
+#### Artículo 50. Nombramiento y cese del vicepresidente o vicepresidenta.
 
-				        2. La Comisión Preparatoria no podrá adoptar decisiones o acuerdos por delegación de los órganos colegiados del Gobierno.
+1. El nombramiento y cese del vicepresidente o vicepresidenta se efectuará por decreto del presidente o presidenta.
 
-				        Artículo 46. Portavocía del Gobierno.
+2. El nombramiento de la vicepresidenta o vicepresidente se publicará en el Boletín Oficial de Canarias, iniciando sus funciones en el momento de la toma de posesión, que deberá producirse dentro de los cinco días naturales siguientes a la publicación del nombramiento, fuera del supuesto previsto en el artículo 52.2 del Estatuto de Autonomía.
 
-				        1. El presidente o presidenta podrá crear la Portavocía del Gobierno, cuyo titular asistirá a las reuniones de los órganos colegiados del Gobierno, estando obligado a mantener el secreto propio de las deliberaciones de dichos órganos.
+3. La toma de posesión se realizará ante el presidente o presidenta, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
 
-				        2. Corresponden a la Portavocía del Gobierno las funciones y competencias que determinen las disposiciones organizativas dictadas por el presidente o la presidenta.
+4. El cese del vicepresidente o vicepresidenta se producirá por las siguientes causas:
 
-				        CAPÍTULO VII
+a) Pérdida de la condición de diputado o diputada del Parlamento de Canarias.
 
-				        CESE DEL GOBIERNO
+b) Cese del Gobierno.
 
-				        Artículo 47. Cese del Gobierno.
+c) Decisión del presidente o presidenta.
 
-				        El Gobierno de Canarias cesa tras la celebración de elecciones al Parlamento de Canarias, por pérdida de la confianza parlamentaria y en los demás supuestos de cese del presidente o presidenta, continuando en funciones hasta la toma de posesión del nuevo Gobierno, que tendrá lugar en el plazo máximo de quince días, a contar desde la fecha de nombramiento de la persona titular de la Presidencia.
+d) Petición propia o dimisión aceptadas por el presidente o presidenta.
 
-				        Artículo 48. Gobierno en funciones.
+e) Fallecimiento.
 
-				        1. El Gobierno en funciones facilitará el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes al mismo, absteniéndose de adoptar decisiones que impliquen dirección de la política general o comprometan la política del Gobierno que vaya a sucederle.
+f) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio del cargo, cualquiera que sea la duración de la misma.
 
-				        2. El Gobierno en funciones limitará su gestión al despacho ordinario de los asuntos públicos de su competencia.
+g) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
 
-				        3. El Gobierno en funciones no podrá aprobar el proyecto de ley de presupuestos de la comunidad autónoma ni ejercer, salvo casos de urgencia o interés general debidamente acreditados, las siguientes facultades:
+h) Imposición de sanción por infracción grave o muy grave de la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
 
-				        a) La iniciativa legislativa.
+5. El decreto de cese se publicará en el Boletín Oficial de Canarias.
 
-				        b) Hacer uso de las delegaciones legislativas conferidas por el Parlamento de Canarias.
+#### Artículo 51. Sede de la Vicepresidencia.
 
-				        c) La potestad reglamentaria, salvo que se limite a la mera organización interna.
+La sede de la Vicepresidencia se ubicará en capital distinta a la de la Presidencia.
 
-				        TÍTULO III
+#### Artículo 52. Derechos y deberes.
 
-				        VICEPRESIDENTE O VICEPRESIDENTA Y CONSEJEROS O CONSEJERAS
+1. El vicepresidente o vicepresidenta, en razón de su cargo, goza de los derechos que le otorguen las leyes y en todo caso los siguientes:
 
-				        CAPÍTULO I
+a) Recibir los honores que le correspondan, con arreglo a lo que establezcan las normas vigentes en la materia.
 
-				        VICEPRESIDENTE O VICEPRESIDENTA
+b) Percibir la remuneración determinada en los presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
 
-				        Artículo 49. Caracterización y requisitos de acceso al cargo.
+2. La vicepresidenta o vicepresidente está sujeto al régimen de conflicto de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma. Asimismo deberá desempeñar sus funciones con sujeción a las normas legales de buen gobierno y las que se aprueben en su desarrollo.
 
-				        1. El vicepresidente o vicepresidenta es miembro del Gobierno, pudiendo ostentar la titularidad de una consejería cuando así lo disponga el presidente o presidenta.
+#### Artículo 53. Atribuciones del vicepresidente o vicepresidenta.
 
-				        2. Para ser vicepresidenta o vicepresidente se requiere tener la condición de diputada o diputado del Parlamento de Canarias y no hallarse imposibilitada por sanción para ser nombrada cargo público de acuerdo con la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
+1. Corresponde al vicepresidente o vicepresidenta el ejercicio de las funciones que le delegue temporalmente el presidente o presidenta, así como las funciones y competencias que le atribuya el presidente o presidenta en el ámbito material de competencias administrativas de la Presidencia del Gobierno.
 
-				        Artículo 50. Nombramiento y cese del vicepresidente o vicepresidenta.
+2. Cuando se le atribuya un ámbito material de competencias administrativas de la Presidencia, el vicepresidente o vicepresidenta tendrá las atribuciones que corresponden a los consejeros o consejeras.
 
-				        1. El nombramiento y cese del vicepresidente o vicepresidenta se efectuará por decreto del presidente o presidenta.
+#### Artículo 54. Suplencia.
 
-				        2. El nombramiento de la vicepresidenta o vicepresidente se publicará en el Boletín Oficial de Canarias, iniciando sus funciones en el momento de la toma de posesión, que deberá producirse dentro de los cinco días naturales siguientes a la publicación del nombramiento, fuera del supuesto previsto en el artículo 52.2 del Estatuto de Autonomía.
+1. En los casos de vacante, ausencia, enfermedad o impedimento temporal de quien desempeñe la Vicepresidencia, le suplirá el miembro del Gobierno que determine el presidente o presidenta.
 
-				        3. La toma de posesión se realizará ante el presidente o presidenta, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
+2. Quien supla a la vicepresidenta o vicepresidente tendrá derecho a los mismos honores y ejercerá sus funciones y competencias.
 
-				        4. El cese del vicepresidente o vicepresidenta se producirá por las siguientes causas:
+## Capítulo II. Consejeros O consejeras.
 
-				        a) Pérdida de la condición de diputado o diputada del Parlamento de Canarias.
+#### Artículo 55. Caracterización y requisitos de acceso al cargo.
 
-				        b) Cese del Gobierno.
+1. Las consejeras o consejeros son miembros del Gobierno. Asimismo, son titulares de las consejerías, salvo que su nombramiento sea para la dirección política de determinadas funciones de gobierno especificadas en el decreto de nombramiento.
 
-				        c) Decisión del presidente o presidenta.
+2. Para ser designados consejeros o consejeras se requiere tener la condición política de canario de acuerdo con el Estatuto de Autonomía, estar en posesión de sus derechos de sufragio activo y pasivo, no estar inhabilitado por sentencia judicial firme para el ejercicio de empleo o cargo público y no hallarse imposibilitados por sanción para ser nombrados cargo público de acuerdo con la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
 
-				        d) Petición propia o dimisión aceptadas por el presidente o presidenta.
+#### Artículo 56. Nombramiento y cese.
 
-				        e) Fallecimiento.
+1. El nombramiento y cese de los consejeros o consejeras se realizará por el presidente o presidenta mediante decreto.
 
-				        f) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio del cargo, cualquiera que sea la duración de la misma.
+2. El nombramiento de las consejeras o consejeros se publicará en el Boletín Oficial de Canarias, iniciando sus funciones en el momento de la toma de posesión, que deberá producirse dentro de los cinco días naturales siguientes a la publicación del nombramiento, fuera del supuesto previsto en el artículo 52.2 del Estatuto de Autonomía.
 
-				        g) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
+3. La toma de posesión se realizará ante el presidente o presidenta, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
 
-				        h) Imposición de sanción por infracción grave o muy grave de la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
+4. Los consejeros o consejeras cesan por alguna de las siguientes causas:
 
-				        5. El decreto de cese se publicará en el Boletín Oficial de Canarias.
+a) Cese del Gobierno.
 
-				        Artículo 51. Sede de la Vicepresidencia.
+b) Decisión del presidente o presidenta.
 
-				        La sede de la Vicepresidencia se ubicará en capital distinta a la de la Presidencia.
+c) Petición propia o dimisión aceptadas por el presidente o presidenta.
 
-				        Artículo 52. Derechos y deberes.
+d) Fallecimiento.
 
-				        1. El vicepresidente o vicepresidenta, en razón de su cargo, goza de los derechos que le otorguen las leyes y en todo caso los siguientes:
+e) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio del cargo, cualquiera que sea la duración de la misma.
 
-				        a) Recibir los honores que le correspondan, con arreglo a lo que establezcan las normas vigentes en la materia.
+f) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
 
-				        b) Percibir la remuneración determinada en los presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
+g) Imposición de sanción por infracción grave o muy grave de la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
 
-				        2. La vicepresidenta o vicepresidente está sujeto al régimen de conflicto de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma. Asimismo deberá desempeñar sus funciones con sujeción a las normas legales de buen gobierno y las que se aprueben en su desarrollo.
+5. El decreto de cese se publicará en el Boletín Oficial de Canarias.
 
-				        Artículo 53. Atribuciones del vicepresidente o vicepresidenta.
+#### Artículo 57. Derechos y deberes.
 
-				        1. Corresponde al vicepresidente o vicepresidenta el ejercicio de las funciones que le delegue temporalmente el presidente o presidenta, así como las funciones y competencias que le atribuya el presidente o presidenta en el ámbito material de competencias administrativas de la Presidencia del Gobierno.
+1. Las consejeras o consejeros, en razón de su cargo, gozan de los derechos que le otorguen las leyes y, en todo caso, los siguientes:
 
-				        2. Cuando se le atribuya un ámbito material de competencias administrativas de la Presidencia, el vicepresidente o vicepresidenta tendrá las atribuciones que corresponden a los consejeros o consejeras.
+a) Recibir los honores que le correspondan, con arreglo a lo que establezcan las normas vigentes en la materia.
 
-				        Artículo 54. Suplencia.
+b) Percibir la remuneración determinada en los presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
 
-				        1. En los casos de vacante, ausencia, enfermedad o impedimento temporal de quien desempeñe la Vicepresidencia, le suplirá el miembro del Gobierno que determine el presidente o presidenta.
+2. Los consejeros o consejeras están sujetos al régimen de conflicto de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma. Asimismo deberá desempeñar sus funciones con sujeción a las normas legales de buen gobierno y las que se aprueben en su desarrollo.
 
-				        2. Quien supla a la vicepresidenta o vicepresidente tendrá derecho a los mismos honores y ejercerá sus funciones y competencias.
+#### Artículo 58. Atribuciones de los consejeros o consejeras.
 
-				        CAPÍTULO II
+1. Como miembros del Gobierno de Canarias, corresponden a las consejeras o consejeros las siguientes funciones:
 
-				        CONSEJEROS O CONSEJERAS
+a) Preparar y presentar al Gobierno los anteproyectos de ley, los proyectos de decretos leyes y decretos legislativos, así como los proyectos de decreto, relativos a las cuestiones propias de su departamento.
 
-				        Artículo 55. Caracterización y requisitos de acceso al cargo.
+b) Ejercer la potestad reglamentaria en los términos previstos en esta ley.
 
-				        1. Las consejeras o consejeros son miembros del Gobierno. Asimismo, son titulares de las consejerías, salvo que su nombramiento sea para la dirección política de determinadas funciones de gobierno especificadas en el decreto de nombramiento.
+c) Proponer los acuerdos del Gobierno en los asuntos competencia de su consejería.
 
-				        2. Para ser designados consejeros o consejeras se requiere tener la condición política de canario de acuerdo con el Estatuto de Autonomía, estar en posesión de sus derechos de sufragio activo y pasivo, no estar inhabilitado por sentencia judicial firme para el ejercicio de empleo o cargo público y no hallarse imposibilitados por sanción para ser nombrados cargo público de acuerdo con la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
+d) Formular la propuesta de nombramiento y cese de los altos cargos de su consejería, así como de los demás cargos establecidos en el ordenamiento jurídico.
 
-				        Artículo 56. Nombramiento y cese.
+e) Ejecutar y disponer lo necesario para la ejecución de los acuerdos del Gobierno en el ámbito de sus competencias.
 
-				        1. El nombramiento y cese de los consejeros o consejeras se realizará por el presidente o presidenta mediante decreto.
+f) Cualesquiera otras que les atribuya el ordenamiento.
 
-				        2. El nombramiento de las consejeras o consejeros se publicará en el Boletín Oficial de Canarias, iniciando sus funciones en el momento de la toma de posesión, que deberá producirse dentro de los cinco días naturales siguientes a la publicación del nombramiento, fuera del supuesto previsto en el artículo 52.2 del Estatuto de Autonomía.
+2. Asimismo, los consejeros o consejeras tienen las funciones y competencias que les corresponden como titulares de departamento.
 
-				        3. La toma de posesión se realizará ante el presidente o presidenta, mediante el compromiso de acatar la Constitución española, el Estatuto de Autonomía de Canarias y las leyes, así como de cumplir fielmente las obligaciones propias de su cargo.
+#### Artículo 59. Suplencia.
 
-				        4. Los consejeros o consejeras cesan por alguna de las siguientes causas:
+En los casos de vacante, ausencia, enfermedad o impedimento temporal de las consejeras o consejeros, corresponde su suplencia al miembro del Gobierno que determine el presidente o presidenta o, en defecto de designación expresa, al consejero o consejera que le anteceda en el orden de precedencia.
 
-				        a) Cese del Gobierno.
+## Título IV
 
-				        b) Decisión del presidente o presidenta.
+RELACIONES CON EL PARLAMENTO DE CANARIAS
 
-				        c) Petición propia o dimisión aceptadas por el presidente o presidenta.
+### Capítulo I
 
-				        d) Fallecimiento.
+### Disposiciones generales artículo 60 Impulso y control de la acción política. El impulso y control de la acción política y de gobierno se ejercerá por el Parlamento de Canarias mediante los mecanismos y procedimientos previstos en el Reglamento del Parlamento de Canarias.
 
-				        e) Sentencia judicial firme que lleve aparejada la inhabilitación para el ejercicio del cargo, cualquiera que sea la duración de la misma.
+#### Artículo 61. Comparecencia e información.
 
-				        f) Cuando se constituya mediante resolución judicial una curatela con facultades representativas.
+1. El Gobierno de Canarias y cada uno de sus miembros, en los términos establecidos en el Reglamento del Parlamento de Canarias, deberán:
 
-				        g) Imposición de sanción por infracción grave o muy grave de la legislación reguladora de los conflictos de intereses e incompatibilidades de los miembros del Gobierno de la comunidad autónoma.
+a) Comparecer en el Parlamento cuando este reclame su presencia.
 
-				        5. El decreto de cese se publicará en el Boletín Oficial de Canarias.
+b) Atender las preguntas, interpelaciones y mociones que se les formule.
 
-				        Artículo 57. Derechos y deberes.
+c) Proporcionar al Parlamento la información que precise del Gobierno de Canarias, de sus miembros o de cualquier autoridad, personal funcionario, entidad u organismo público, sociedad mercantil o servicio dependiente del Gobierno o de la Administración pública de la comunidad autónoma.
 
-				        1. Las consejeras o consejeros, en razón de su cargo, gozan de los derechos que le otorguen las leyes y, en todo caso, los siguientes:
+d) Y en general, dar cumplimiento a cualesquiera deberes que establezca el Reglamento del Parlamento de Canarias.
 
-				        a) Recibir los honores que le correspondan, con arreglo a lo que establezcan las normas vigentes en la materia.
+2. Los miembros del Gobierno tienen acceso a las sesiones del Parlamento y la facultad de hacerse oír en los órganos parlamentarios en los términos previstos en el Reglamento del Parlamento de Canarias.
 
-				        b) Percibir la remuneración determinada en los presupuestos generales de la comunidad autónoma y disponer de los medios que requiera el ejercicio de su cargo.
+#### Artículo 62. Relación ordinaria del Gobierno con el Parlamento.
 
-				        2. Los consejeros o consejeras están sujetos al régimen de conflicto de intereses e incompatibilidades previsto para los miembros del Gobierno en la legislación de la comunidad autónoma. Asimismo deberá desempeñar sus funciones con sujeción a las normas legales de buen gobierno y las que se aprueben en su desarrollo.
+La relación ordinaria entre el Gobierno y el Parlamento de Canarias se canalizará a través de la persona titular del departamento que se determine por el presidente o presidenta del Gobierno y, en su defecto, por el que tenga atribuidas las competencias en materia de relaciones parlamentarias o institucionales.
 
-				        Artículo 58. Atribuciones de los consejeros o consejeras.
+## Capítulo II. Responsabilidad política.
 
-				        1. Como miembros del Gobierno de Canarias, corresponden a las consejeras o consejeros las siguientes funciones:
+#### Artículo 63. Exigencia de responsabilidad política.
 
-				        a) Preparar y presentar al Gobierno los anteproyectos de ley, los proyectos de decretos leyes y decretos legislativos, así como los proyectos de decreto, relativos a las cuestiones propias de su departamento.
+La responsabilidad política del Gobierno es exigible por medio de la moción de censura y de la cuestión de confianza, con los requisitos y procedimiento establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento de Canarias.
 
-				        b) Ejercer la potestad reglamentaria en los términos previstos en esta ley.
+## Capítulo III. Disolución del parlamento de canarias.
 
-				        c) Proponer los acuerdos del Gobierno en los asuntos competencia de su consejería.
+#### Artículo 64. Disolución del Parlamento de Canarias.
 
-				        d) Formular la propuesta de nombramiento y cese de los altos cargos de su consejería, así como de los demás cargos establecidos en el ordenamiento jurídico.
+1. El presidente o presidenta de Canarias, previa deliberación del Gobierno, y bajo su exclusiva responsabilidad, podrá disolver el Parlamento de Canarias, en los términos y con los límites establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento de Canarias.
 
-				        e) Ejecutar y disponer lo necesario para la ejecución de los acuerdos del Gobierno en el ámbito de sus competencias.
+2. El decreto de disolución se publicará en el Boletín Oficial de Canarias al día siguiente de su expedición y entrará en vigor el mismo día de su publicación. En dicho decreto se procederá a la convocatoria de elecciones al Parlamento de Canarias, en los términos previstos en la legislación electoral.
 
-				        f) Cualesquiera otras que les atribuya el ordenamiento.
+## Título V
 
-				        2. Asimismo, los consejeros o consejeras tienen las funciones y competencias que les corresponden como titulares de departamento.
+INICIATIVA LEGISLATIVA Y POTESTADES NORMATIVAS DEL GOBIERNO
 
-				        Artículo 59. Suplencia.
+### Capítulo I
 
-				        En los casos de vacante, ausencia, enfermedad o impedimento temporal de las consejeras o consejeros, corresponde su suplencia al miembro del Gobierno que determine el presidente o presidenta o, en defecto de designación expresa, al consejero o consejera que le anteceda en el orden de precedencia.
+### Disposiciones generales artículo 65 Ejercicio de la iniciativa legislativa y potestades normativas del Gobierno. El Gobierno ejerce, de acuerdo con este título, la iniciativa legislativa y las potestades normativas que le atribuye el Estatuto de Autonomía.
 
-				        TÍTULO IV
+#### Artículo 66. Principios de buena regulación.
 
-				        RELACIONES CON EL PARLAMENTO DE CANARIAS
+1. En el ejercicio de la iniciativa legislativa y de las potestades normativas previstas en este título se actuará de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en los términos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o norma que la sustituya.
 
-				        CAPÍTULO I
+2. En la exposición de motivos de los anteproyectos de ley y de los decretos leyes, o en el preámbulo de los proyectos de reglamento, según se trate, se justificará la adecuación a los mencionados principios.
 
-				        DISPOSICIONES GENERALES
+#### Artículo 67. Programa legislativo y reglamentario.
 
-				        Artículo 60. Impulso y control de la acción política.
+1. El Gobierno de Canarias hará público en el Portal de Transparencia y mantendrá actualizado anualmente su programa legislativo y reglamentario, indicando las iniciativas normativas cuya elaboración, tramitación y aprobación estén previstas de acuerdo con el programa de gobierno, así como las modificaciones que, en su caso, se hayan acordado por el Gobierno.
 
-				        El impulso y control de la acción política y de gobierno se ejercerá por el Parlamento de Canarias mediante los mecanismos y procedimientos previstos en el Reglamento del Parlamento de Canarias.
+2. Asimismo, se harán públicas las iniciativas legislativas y reglamentarias que se hayan iniciado, tramitado o aprobado sin estar incluidas en el programa legislativo o reglamentario, expresando los motivos que justificaron su elaboración sin estar recogidas en dicho programa.
 
-				        Artículo 61. Comparecencia e información.
+#### Artículo 68. Procedimiento de elaboración y aprobación.
 
-				        1. El Gobierno de Canarias y cada uno de sus miembros, en los términos establecidos en el Reglamento del Parlamento de Canarias, deberán:
+El procedimiento para la elaboración y aprobación de proyectos de ley, proyectos de decretos legislativos, decretos leyes y de proyectos de reglamentos se ajustará a lo establecido en esta ley y en las disposiciones de desarrollo que se dicten por el Gobierno.
 
-				        a) Comparecer en el Parlamento cuando este reclame su presencia.
+#### Artículo 69. Transparencia y participación ciudadana en el procedimiento de elaboración.
 
-				        b) Atender las preguntas, interpelaciones y mociones que se les formule.
+1. La elaboración y tramitación de los anteproyectos de ley y proyectos de reglamentos se harán públicas en el Portal de Transparencia, de acuerdo con lo establecido en las disposiciones reguladoras de la transparencia de la Comunidad Autónoma de Canarias.
 
-				        c) Proporcionar al Parlamento la información que precise del Gobierno de Canarias, de sus miembros o de cualquier autoridad, personal funcionario, entidad u organismo público, sociedad mercantil o servicio dependiente del Gobierno o de la Administración pública de la comunidad autónoma.
+2. Para la participación ciudadana en el procedimiento de elaboración de las disposiciones normativas de la comunidad autónoma, conforme a lo establecido en esta ley, se habilitará una dirección electrónica en la que la ciudadanía tendrá acceso a la información y podrá participar en los trámites de consulta previa, información pública y audiencia que se convoquen por el Gobierno de Canarias.
 
-				        d) Y en general, dar cumplimiento a cualesquiera deberes que establezca el Reglamento del Parlamento de Canarias.
+3. Para la cumplimentación de los trámites de consulta previa, información pública y audiencia previstas en este título bastará que los órganos responsables de la tramitación de las disposiciones normativas inserten el correspondiente anuncio en la dirección electrónica de participación ciudadana en la elaboración normativa, sin perjuicio de que se hagan públicos por cualquier otro medio.
 
-				        2. Los miembros del Gobierno tienen acceso a las sesiones del Parlamento y la facultad de hacerse oír en los órganos parlamentarios en los términos previstos en el Reglamento del Parlamento de Canarias.
+## Capítulo II. Iniciativa legislativa y potestad legislativa del gobierno.
 
-				        Artículo 62. Relación ordinaria del Gobierno con el Parlamento.
+#### Sección 1. ª
 
-				        La relación ordinaria entre el Gobierno y el Parlamento de Canarias se canalizará a través de la persona titular del departamento que se determine por el presidente o presidenta del Gobierno y, en su defecto, por el que tenga atribuidas las competencias en materia de relaciones parlamentarias o institucionales.
+Iniciativa legislativa del Gobierno
 
-				        CAPÍTULO II
+#### Artículo 70. Iniciativa legislativa.
 
-				        RESPONSABILIDAD POLÍTICA
+El Gobierno de Canarias ejercerá la iniciativa legislativa prevista en el Estatuto de Autonomía mediante la aprobación y posterior remisión de los proyectos de ley al Parlamento de Canarias.
 
-				        Artículo 63. Exigencia de responsabilidad política.
+#### Artículo 71. Procedimiento de elaboración de los proyectos de ley.
 
-				        La responsabilidad política del Gobierno es exigible por medio de la moción de censura y de la cuestión de confianza, con los requisitos y procedimiento establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento de Canarias.
+1. El procedimiento para la elaboración previsto en esta sección no será de aplicación a los proyectos de ley que tengan fijada por ley un procedimiento especial. En todo caso, la elaboración de los proyectos de ley de presupuestos generales de la comunidad autónoma se ajustará a lo establecido en la legislación reguladora de la hacienda canaria.
 
-				        CAPÍTULO III
+2. Con carácter previo a la iniciación del procedimiento, podrán realizarse los estudios, informes o consultas que se estimen necesarios, así como celebrar encuentros o reuniones con los interesados u organizaciones de los sectores afectados, con el objeto de conocer la opinión y las reivindicaciones de los mismos. Las actuaciones previas que pudieran haberse realizado deberán quedar documentadas en el correspondiente expediente administrativo de elaboración de la iniciativa legislativa.
 
-				        DISOLUCIÓN DEL PARLAMENTO DE CANARIAS
+3. La iniciación del procedimiento de elaboración de los proyectos de ley precisa de la conformidad previa del Gobierno, para lo cual se someterá a la consideración del mismo mediante un informe sobre la oportunidad de la iniciativa legislativa, sus objetivos y los principios generales que la inspiran. El Gobierno, cuando dé su conformidad a la oportunidad de la iniciativa, podrá acordar que en su tramitación se lleve a cabo la realización de trámites adicionales a los que sean preceptivos.
 
-				        Artículo 64. Disolución del Parlamento de Canarias.
+4. Iniciado el procedimiento de elaboración, y con anterioridad a la redacción del texto de la iniciativa legislativa, se podrá efectuar una consulta previa para recabar la opinión de la ciudadanía y de las organizaciones más representativas potencialmente afectadas por la misma, acerca de:
 
-				        1. El presidente o presidenta de Canarias, previa deliberación del Gobierno, y bajo su exclusiva responsabilidad, podrá disolver el Parlamento de Canarias, en los términos y con los límites establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento de Canarias.
+a) Los problemas que se pretenden solucionar con la iniciativa.
 
-				        2. El decreto de disolución se publicará en el Boletín Oficial de Canarias al día siguiente de su expedición y entrará en vigor el mismo día de su publicación. En dicho decreto se procederá a la convocatoria de elecciones al Parlamento de Canarias, en los términos previstos en la legislación electoral.
+b) La necesidad y oportunidad de su aprobación.
 
-				        TÍTULO V
+c) Los fines y objetivos perseguidos con la iniciativa.
 
-				        INICIATIVA LEGISLATIVA Y POTESTADES NORMATIVAS DEL GOBIERNO
+d) Las posibles soluciones alternativas regulatorias y no regulatorias.
 
-				        CAPÍTULO I
+Cuando se decida realizar la consulta pública previa, la misma deberá efectuarse de forma que la ciudadanía y todos los potenciales destinatarios de la iniciativa legislativa tengan la posibilidad de emitir su opinión, concediendo para ello un plazo adecuado que no podrá ser inferior a veinte días naturales.
 
-				        DISPOSICIONES GENERALES
+5. La elaboración del texto del anteproyecto se realizará atendiendo a los fines y objetivos perseguidos por la norma, debiendo contener una exposición de motivos, en la que fundamentará la necesidad y oportunidad de su aprobación.
 
-				        Artículo 65. Ejercicio de la iniciativa legislativa y potestades normativas del Gobierno.
+Conjuntamente con la elaboración del anteproyecto de ley, se elaborará una memoria justificativa con el siguiente contenido:
 
-				        El Gobierno ejerce, de acuerdo con este título, la iniciativa legislativa y las potestades normativas que le atribuye el Estatuto de Autonomía.
+a) Identificación de la situación jurídica y de hecho.
 
-				        Artículo 66. Principios de buena regulación.
+b) Justificación del proyecto.
 
-				        1. En el ejercicio de la iniciativa legislativa y de las potestades normativas previstas en este título se actuará de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en los términos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, o norma que la sustituya.
+c) Alternativas a una actuación legislativa.
 
-				        2. En la exposición de motivos de los anteproyectos de ley y de los decretos leyes, o en el preámbulo de los proyectos de reglamento, según se trate, se justificará la adecuación a los mencionados principios.
+d) Aspectos técnico-jurídicos.
 
-				        Artículo 67. Programa legislativo y reglamentario.
+e) Impactos normativos requeridos por las normas sectoriales.
 
-				        1. El Gobierno de Canarias hará público en el Portal de Transparencia y mantendrá actualizado anualmente su programa legislativo y reglamentario, indicando las iniciativas normativas cuya elaboración, tramitación y aprobación estén previstas de acuerdo con el programa de gobierno, así como las modificaciones que, en su caso, se hayan acordado por el Gobierno.
+f) Efectos económicos y sociales.
 
-				        2. Asimismo, se harán públicas las iniciativas legislativas y reglamentarias que se hayan iniciado, tramitado o aprobado sin estar incluidas en el programa legislativo o reglamentario, expresando los motivos que justificaron su elaboración sin estar recogidas en dicho programa.
+Reglamentariamente se desarrollará el contenido de la memoria justificativa y se preverán los supuestos en que la misma podrá realizarse de forma abreviada, así como el contenido de la misma.
 
-				        Artículo 68. Procedimiento de elaboración y aprobación.
+6. Elaborado el texto del anteproyecto de ley y la memoria justificativa, se procederá a recabar los informes y dictámenes preceptivos, así como, en su caso, a cumplimentar los demás trámites que haya acordado el Gobierno. La cumplimentación de los mencionados trámites se impulsará simultáneamente, salvo que esté previsto su cumplimiento sucesivo por las disposiciones aplicables al procedimiento de elaboración.
 
-				        El procedimiento para la elaboración y aprobación de proyectos de ley, proyectos de decretos legislativos, decretos leyes y de proyectos de reglamentos se ajustará a lo establecido en esta ley y en las disposiciones de desarrollo que se dicten por el Gobierno.
+En todo caso, el texto del anteproyecto, la memoria justificativa y, en su caso, la documentación aportada al expediente, se remitirán a los departamentos al objeto de que puedan formular las observaciones que estimen procedentes.
 
-				        Artículo 69. Transparencia y participación ciudadana en el procedimiento de elaboración.
+7. Cuando un anteproyecto de ley afecte a derechos e intereses legítimos de las personas, será objeto de trámite de audiencia, durante un plazo razonable y no inferior a veinte días hábiles, directamente o a través de las organizaciones y asociaciones reconocidas por la ley que las agrupe o las represente y cuyos fines guarden relación directa con el objeto de la disposición. La decisión sobre el procedimiento escogido para dar audiencia a la ciudadanía afectada será debidamente motivada en el expediente por el órgano que acuerde la apertura del trámite de audiencia.
 
-				        1. La elaboración y tramitación de los anteproyectos de ley y proyectos de reglamentos se harán públicas en el Portal de Transparencia, de acuerdo con lo establecido en las disposiciones reguladoras de la transparencia de la Comunidad Autónoma de Canarias.
+Asimismo, cuando la naturaleza del anteproyecto lo aconseje, se someterá a información pública, salvo cuando haya sido sometido al proceso de participación ciudadana, conforme a lo establecido en la normativa autonómica que la regula.
 
-				        2. Para la participación ciudadana en el procedimiento de elaboración de las disposiciones normativas de la comunidad autónoma, conforme a lo establecido en esta ley, se habilitará una dirección electrónica en la que la ciudadanía tendrá acceso a la información y podrá participar en los trámites de consulta previa, información pública y audiencia que se convoquen por el Gobierno de Canarias.
+Solo podrá omitirse el trámite de audiencia cuando graves razones de interés público lo exijan, que habrán de constar en el expediente administrativo. No obstante, no será necesario dicho trámite si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración.
 
-				        3. Para la cumplimentación de los trámites de consulta previa, información pública y audiencia previstas en este título bastará que los órganos responsables de la tramitación de las disposiciones normativas inserten el correspondiente anuncio en la dirección electrónica de participación ciudadana en la elaboración normativa, sin perjuicio de que se hagan públicos por cualquier otro medio.
+El trámite de audiencia, en sus diversas formas, no será aplicable a los anteproyectos de ley que regulen la organización del Gobierno o de la Administración pública de la comunidad autónoma y de los organismos públicos dependientes o vinculados a la misma.
 
-				        CAPÍTULO II
+8. Concluidos los trámites anteriores, se elevará el anteproyecto de ley al Consejo de Gobierno para su toma en consideración como proyecto de ley, a efectos de solicitar el dictamen del Consejo Consultivo de Canarias.
 
-				        INICIATIVA LEGISLATIVA Y POTESTAD LEGISLATIVA DEL GOBIERNO
+9. Emitido el dictamen del Consejo de Consultivo de Canarias, el anteproyecto se someterá al Gobierno para su aprobación como proyecto de ley y su remisión al Parlamento de Canarias. El proyecto de ley que se remita al Parlamento irá acompañado de una copia completa, en formato electrónico, del expediente administrativo de elaboración de la iniciativa legislativa.
 
-				        Sección 1.ª
+#### Artículo 72. Tramitación urgente de iniciativas legislativas.
 
-				        Iniciativa legislativa del Gobierno
+1. El Gobierno, a propuesta de la Presidencia y por iniciativa del departamento o departamentos competentes por razón de la materia, podrá acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley cuando concurran alguno de los siguientes casos:
 
-				        Artículo 70. Iniciativa legislativa.
+a) Cuando sea preciso que la ley entre en vigor en el plazo establecido para la transposición de directivas comunitarias o en otras normas de la Unión Europea.
 
-				        El Gobierno de Canarias ejercerá la iniciativa legislativa prevista en el Estatuto de Autonomía mediante la aprobación y posterior remisión de los proyectos de ley al Parlamento de Canarias.
+b) Cuando sea necesaria la adaptación a la legislación básica, se haya declarado la inconstitucionalidad de una determinada norma, o sean consecuencia de acuerdos de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Canarias, adoptados al amparo de lo establecido en el artículo 33.2 de la Ley Orgánica del Tribunal Constitucional.
 
-				        Artículo 71. Procedimiento de elaboración de los proyectos de ley.
+c) Cuando concurran otras circunstancias extraordinarias que exijan la aprobación urgente de la norma.
 
-				        1. El procedimiento para la elaboración previsto en esta sección no será de aplicación a los proyectos de ley que tengan fijada por ley un procedimiento especial. En todo caso, la elaboración de los proyectos de ley de presupuestos generales de la comunidad autónoma se ajustará a lo establecido en la legislación reguladora de la hacienda canaria.
+2. El acuerdo de tramitación urgente de la iniciativa legislativa, desde la fecha de su adopción, tendrá los efectos siguientes:
 
-				        2. Con carácter previo a la iniciación del procedimiento, podrán realizarse los estudios, informes o consultas que se estimen necesarios, así como celebrar encuentros o reuniones con los interesados u organizaciones de los sectores afectados, con el objeto de conocer la opinión y las reivindicaciones de los mismos. Las actuaciones previas que pudieran haberse realizado deberán quedar documentadas en el correspondiente expediente administrativo de elaboración de la iniciativa legislativa.
+a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en esta ley o en otra norma, se reducirán a la mitad de su duración. No obstante, en los casos en que legislación reguladora de los órganos consultivos que deban emitir informe o dictamen exigiese acuerdo para requerirlo en dicho plazo, se adoptará el mismo por el órgano competente.
 
-				        3. La iniciación del procedimiento de elaboración de los proyectos de ley precisa de la conformidad previa del Gobierno, para lo cual se someterá a la consideración del mismo mediante un informe sobre la oportunidad de la iniciativa legislativa, sus objetivos y los principios generales que la inspiran. El Gobierno, cuando dé su conformidad a la oportunidad de la iniciativa, podrá acordar que en su tramitación se lleve a cabo la realización de trámites adicionales a los que sean preceptivos.
+b) El plazo de realización de los trámites de audiencia o de información pública será de siete días.
 
-				        4. Iniciado el procedimiento de elaboración, y con anterioridad a la redacción del texto de la iniciativa legislativa, se podrá efectuar una consulta previa para recabar la opinión de la ciudadanía y de las organizaciones más representativas potencialmente afectadas por la misma, acerca de:
+c) La falta de emisión en plazo de un dictamen o informe preceptivo no impedirá la continuación del procedimiento, sin perjuicio de su incorporación y consideración cuando se reciba, siempre que la recepción sea anterior a la elevación de la propuesta de aprobación al Gobierno.
 
-				        a) Los problemas que se pretenden solucionar con la iniciativa.
+3. El acuerdo de tramitación urgente de la iniciativa legislativa podrá adoptarse por el Gobierno con anterioridad a la iniciación del procedimiento de elaboración o en cualquier momento posterior.
 
-				        b) La necesidad y oportunidad de su aprobación.
+#### Artículo 73. Nueva aprobación de determinados proyectos de ley.
 
-				        c) Los fines y objetivos perseguidos con la iniciativa.
+1. Los proyectos de ley cuya tramitación en el Parlamento de Canarias haya decaído por disolución o expiración de su mandato, así como los que hayan sido devueltos por aquel o retirados por el Gobierno, se podrán someter nuevamente a la aprobación del Consejo de Gobierno sin necesidad de repetir los trámites ya realizados, siempre que concurran las circunstancias siguientes:
 
-				        d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+a) Que su texto sea sustancialmente idéntico al tramitado y aprobado con anterioridad.
 
-				        Cuando se decida realizar la consulta pública previa, la misma deberá efectuarse de forma que la ciudadanía y todos los potenciales destinatarios de la iniciativa legislativa tengan la posibilidad de emitir su opinión, concediendo para ello un plazo adecuado que no podrá ser inferior a veinte días naturales.
+b) Que no hayan cambiado sustancialmente las circunstancias de hecho o de derecho que justificaron la aprobación.
 
-				        5. La elaboración del texto del anteproyecto se realizará atendiendo a los fines y objetivos perseguidos por la norma, debiendo contener una exposición de motivos, en la que fundamentará la necesidad y oportunidad de su aprobación.
+c) Que el tiempo transcurrido no haga aconsejable el inicio de un nuevo procedimiento para su reelaboración.
 
-				        Conjuntamente con la elaboración del anteproyecto de ley, se elaborará una memoria justificativa con el siguiente contenido:
+2. En el acuerdo de aprobación por el Gobierno de los proyectos de ley a que se refiere este artículo se hará constar la causa en que se justifica y se dispondrá su remisión al Parlamento.
 
-				        a) Identificación de la situación jurídica y de hecho.
+#### Sección 2. ª
 
-				        b) Justificación del proyecto.
+Decretos leyes
 
-				        c) Alternativas a una actuación legislativa.
+#### Artículo 74. Decretos leyes.
 
-				        d) Aspectos técnico-jurídicos.
+1. El Gobierno, en caso de extraordinaria y urgente necesidad y de acuerdo con lo establecido en el Estatuto de Autonomía, podrá dictar normas con rango de ley, que recibirán el nombre de decretos leyes.
 
-				        e) Impactos normativos requeridos por las normas sectoriales.
+2. La elaboración de los decretos leyes se inicia por el departamento o los departamentos competentes por razón de la materia, a los que corresponde elaborar el proyecto y la memoria justificativa abreviada correspondiente. El inicio de la tramitación debe comunicarse a quien desempeñe la Secretaría del Consejo de Gobierno.
 
-				        f) Efectos económicos y sociales.
+3. Los proyectos de decretos leyes contendrán una exposición de motivos en la que se recojan las razones de extraordinaria y urgente necesidad de la iniciativa y que las medidas que contiene son congruentes y guardan relación directa con la situación que debe afrontarse, así como las competencias estatutarias que se ejercen.
 
-				        Reglamentariamente se desarrollará el contenido de la memoria justificativa y se preverán los supuestos en que la misma podrá realizarse de forma abreviada, así como el contenido de la misma.
+4. La memoria justificativa abreviada deberá recoger las razones de interés general y la extraordinaria y urgente necesidad que justifican su aprobación, los fines y objetivos perseguidos, así como la proporcionalidad entre estos y el contenido de la iniciativa. Asimismo, podrán acompañarse los estudios, informes y dictámenes sobre la adecuación de las medidas propuestas a los fines que se persiguen que se estimen necesarios.
 
-				        6. Elaborado el texto del anteproyecto de ley y la memoria justificativa, se procederá a recabar los informes y dictámenes preceptivos, así como, en su caso, a cumplimentar los demás trámites que haya acordado el Gobierno. La cumplimentación de los mencionados trámites se impulsará simultáneamente, salvo que esté previsto su cumplimiento sucesivo por las disposiciones aplicables al procedimiento de elaboración.
+5. Los proyectos de decretos leyes se someterán a la aprobación del Gobierno, a propuesta de las personas titulares de los departamentos que lo hayan elaborado.
 
-				        En todo caso, el texto del anteproyecto, la memoria justificativa y, en su caso, la documentación aportada al expediente, se remitirán a los departamentos al objeto de que puedan formular las observaciones que estimen procedentes.
+6. Los decretos leyes serán publicados en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado, de acuerdo con lo dispuesto en el Estatuto de Autonomía.
 
-				        7. Cuando un anteproyecto de ley afecte a derechos e intereses legítimos de las personas, será objeto de trámite de audiencia, durante un plazo razonable y no inferior a veinte días hábiles, directamente o a través de las organizaciones y asociaciones reconocidas por la ley que las agrupe o las represente y cuyos fines guarden relación directa con el objeto de la disposición. La decisión sobre el procedimiento escogido para dar audiencia a la ciudadanía afectada será debidamente motivada en el expediente por el órgano que acuerde la apertura del trámite de audiencia.
+7. Los decretos leyes se comunicarán al Parlamento de Canarias inmediatamente después de su publicación en el Boletín Oficial de Canarias, acompañando una copia completa del expediente administrativo, a efectos de que se pronuncie sobre su convalidación o derogación, en los términos establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento.
 
-				        Asimismo, cuando la naturaleza del anteproyecto lo aconseje, se someterá a información pública, salvo cuando haya sido sometido al proceso de participación ciudadana, conforme a lo establecido en la normativa autonómica que la regula.
+#### Sección 3. ª
 
-				        Solo podrá omitirse el trámite de audiencia cuando graves razones de interés público lo exijan, que habrán de constar en el expediente administrativo. No obstante, no será necesario dicho trámite si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración.
+Decretos legislativos
 
-				        El trámite de audiencia, en sus diversas formas, no será aplicable a los anteproyectos de ley que regulen la organización del Gobierno o de la Administración pública de la comunidad autónoma y de los organismos públicos dependientes o vinculados a la misma.
+#### Artículo 75. Decretos legislativos.
 
-				        8. Concluidos los trámites anteriores, se elevará el anteproyecto de ley al Consejo de Gobierno para su toma en consideración como proyecto de ley, a efectos de solicitar el dictamen del Consejo Consultivo de Canarias.
+1. Las disposiciones con rango de ley que se dicten por el Gobierno, con la denominación de decretos legislativos, se ajustarán a lo establecido en el Estatuto de Autonomía de Canarias y a lo dispuesto en la ley que otorgue la delegación legislativa, quedando sujetos a los mecanismos de control establecidos en el Estatuto de Autonomía.
 
-				        9. Emitido el dictamen del Consejo de Consultivo de Canarias, el anteproyecto se someterá al Gobierno para su aprobación como proyecto de ley y su remisión al Parlamento de Canarias. El proyecto de ley que se remita al Parlamento irá acompañado de una copia completa, en formato electrónico, del expediente administrativo de elaboración de la iniciativa legislativa.
+2. La tramitación de los decretos legislativos se ajustará a lo establecido para la elaboración de los proyectos de ley, con las especialidades que se establecen en este artículo.
 
-				        Artículo 72. Tramitación urgente de iniciativas legislativas.
+3. Cuando la delegación legislativa tenga por objeto la formación de textos articulados, el órgano competente procederá a la elaboración del proyecto de decreto legislativo y de una memoria justificativa abreviada, en la que se recogerán los extremos que se establezcan por decreto de la Presidencia del Gobierno.
 
-				        1. El Gobierno, a propuesta de la Presidencia y por iniciativa del departamento o departamentos competentes por razón de la materia, podrá acordar la tramitación urgente del procedimiento de elaboración y aprobación de anteproyectos de ley cuando concurran alguno de los siguientes casos:
+Elaborado el proyecto de decreto legislativo y la memoria justificativa, los departamentos competentes, con carácter previo a la cumplimentación de los restantes trámites del procedimiento, deberán someterlo a la consideración del Gobierno, a efectos de que dé su conformidad a la oportunidad de la iniciativa y, en su caso, acuerde los trámites adicionales a los que debe someterse el mismo.
 
-				        a) Cuando sea preciso que la ley entre en vigor en el plazo establecido para la transposición de directivas comunitarias o en otras normas de la Unión Europea.
+Concluida la tramitación, el departamento o departamentos competentes elevarán el proyecto de decreto legislativo al Consejo de Gobierno para su toma en consideración y se solicitará por el presidente o presidenta del Gobierno el dictamen del Consejo Consultivo de Canarias.
 
-				        b) Cuando sea necesaria la adaptación a la legislación básica, se haya declarado la inconstitucionalidad de una determinada norma, o sean consecuencia de acuerdos de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Canarias, adoptados al amparo de lo establecido en el artículo 33.2 de la Ley Orgánica del Tribunal Constitucional.
+4. Cuando la delegación tenga por objeto refundir varios textos legales en uno, la tramitación de proyectos de decretos legislativos podrá limitarse a los trámites siguientes:
 
-				        c) Cuando concurran otras circunstancias extraordinarias que exijan la aprobación urgente de la norma.
+a) La solicitud de informe del Servicio Jurídico del Gobierno de Canarias.
 
-				        2. El acuerdo de tramitación urgente de la iniciativa legislativa, desde la fecha de su adopción, tendrá los efectos siguientes:
+b) La solicitud de dictamen del Consejo Consultivo de Canarias, que se hará por el presidente o presidenta del Gobierno, previa su toma en consideración por el Gobierno, a propuesta de la persona titular del departamento o de los departamentos competentes.
 
-				        a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en esta ley o en otra norma, se reducirán a la mitad de su duración. No obstante, en los casos en que legislación reguladora de los órganos consultivos que deban emitir informe o dictamen exigiese acuerdo para requerirlo en dicho plazo, se adoptará el mismo por el órgano competente.
+5. Emitido el dictamen del Consejo de Consultivo de Canarias, el proyecto de decreto legislativo se someterá al Gobierno para su aprobación y su comunicación al Parlamento, conforme a lo establecido en el Reglamento del Parlamento de Canarias.
 
-				        b) El plazo de realización de los trámites de audiencia o de información pública será de siete días.
+6. El decreto legislativo aprobado será publicado en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado, de acuerdo con lo dispuesto en el Estatuto de Autonomía.
 
-				        c) La falta de emisión en plazo de un dictamen o informe preceptivo no impedirá la continuación del procedimiento, sin perjuicio de su incorporación y consideración cuando se reciba, siempre que la recepción sea anterior a la elevación de la propuesta de aprobación al Gobierno.
+7. El Gobierno podrá acordar la tramitación urgente de los decretos legislativos cuando concurran las causas y con los efectos previstos para los anteproyectos de ley en esta ley.
 
-				        3. El acuerdo de tramitación urgente de la iniciativa legislativa podrá adoptarse por el Gobierno con anterioridad a la iniciación del procedimiento de elaboración o en cualquier momento posterior.
+## Capítulo III. Potestad reglamentaria del gobierno.
 
-				        Artículo 73. Nueva aprobación de determinados proyectos de ley.
+#### Sección 1. ª
 
-				        1. Los proyectos de ley cuya tramitación en el Parlamento de Canarias haya decaído por disolución o expiración de su mandato, así como los que hayan sido devueltos por aquel o retirados por el Gobierno, se podrán someter nuevamente a la aprobación del Consejo de Gobierno sin necesidad de repetir los trámites ya realizados, siempre que concurran las circunstancias siguientes:
+Principios generales
 
-				        a) Que su texto sea sustancialmente idéntico al tramitado y aprobado con anterioridad.
+#### Artículo 76. Órganos competentes.
 
-				        b) Que no hayan cambiado sustancialmente las circunstancias de hecho o de derecho que justificaron la aprobación.
+1. El ejercicio de la potestad reglamentaria del Gobierno se ajustará a lo establecido en la Constitución, el Estatuto de Autonomía y las leyes.
 
-				        c) Que el tiempo transcurrido no haga aconsejable el inicio de un nuevo procedimiento para su reelaboración.
+2. Las comisiones delegadas del Gobierno podrán dictar reglamentos cuando sean habilitadas para ello por la ley y dentro del ámbito propio de su competencia.
 
-				        2. En el acuerdo de aprobación por el Gobierno de los proyectos de ley a que se refiere este artículo se hará constar la causa en que se justifica y se dispondrá su remisión al Parlamento.
+3. El presidente o presidenta, el vicepresidente o vicepresidenta y los consejeros y consejeras titulares de los departamentos tienen potestad reglamentaria en lo relativo a la organización y al ámbito interno de funcionamiento de sus departamentos. Asimismo, podrán dictar reglamentos cuando sean específicamente habilitados para ello por ley.
 
-				        Sección 2.ª
+#### Artículo 77. Forma de las disposiciones reglamentarias.
 
-				        Decretos leyes
+1. Las disposiciones generales emanadas del Gobierno de Canarias y de sus miembros adoptarán la siguiente forma:
 
-				        Artículo 74. Decretos leyes.
+a) **Decretos.** Las disposiciones generales del Consejo de Gobierno.
 
-				        1. El Gobierno, en caso de extraordinaria y urgente necesidad y de acuerdo con lo establecido en el Estatuto de Autonomía, podrá dictar normas con rango de ley, que recibirán el nombre de decretos leyes.
+b) **Decretos de Comisión Delegada.** Las disposiciones generales acordadas por las comisiones delegadas del Gobierno.
 
-				        2. La elaboración de los decretos leyes se inicia por el departamento o los departamentos competentes por razón de la materia, a los que corresponde elaborar el proyecto y la memoria justificativa abreviada correspondiente. El inicio de la tramitación debe comunicarse a quien desempeñe la Secretaría del Consejo de Gobierno.
+c) **Decretos del presidente o presidenta.** Las disposiciones generales del presidente o presidenta.
 
-				        3. Los proyectos de decretos leyes contendrán una exposición de motivos en la que se recojan las razones de extraordinaria y urgente necesidad de la iniciativa y que las medidas que contiene son congruentes y guardan relación directa con la situación que debe afrontarse, así como las competencias estatutarias que se ejercen.
+d) **Orden.** Las disposiciones generales del vicepresidente o vicepresidenta y de los consejeros o consejeras.
 
-				        4. La memoria justificativa abreviada deberá recoger las razones de interés general y la extraordinaria y urgente necesidad que justifican su aprobación, los fines y objetivos perseguidos, así como la proporcionalidad entre estos y el contenido de la iniciativa. Asimismo, podrán acompañarse los estudios, informes y dictámenes sobre la adecuación de las medidas propuestas a los fines que se persiguen que se estimen necesarios.
+2. Las disposiciones generales en materia de la competencia de más de un departamento revestirán la forma de orden conjunta.
 
-				        5. Los proyectos de decretos leyes se someterán a la aprobación del Gobierno, a propuesta de las personas titulares de los departamentos que lo hayan elaborado.
+3. Los decretos son firmados por la presidenta o presidente y también, si emanan del Gobierno, por los consejeros o consejeras que hayan formulado la propuesta. Los decretos de Comisión Delegada son firmados por el presidente o presidenta de la comisión y por las consejeras o consejeros proponentes. Las órdenes son firmadas por el vicepresidente o vicepresidenta o los consejeros o consejeras competentes en razón de la materia.
 
-				        6. Los decretos leyes serán publicados en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado, de acuerdo con lo dispuesto en el Estatuto de Autonomía.
+#### Artículo 78. Jerarquía y competencia.
 
-				        7. Los decretos leyes se comunicarán al Parlamento de Canarias inmediatamente después de su publicación en el Boletín Oficial de Canarias, acompañando una copia completa del expediente administrativo, a efectos de que se pronuncie sobre su convalidación o derogación, en los términos establecidos en el Estatuto de Autonomía y en el Reglamento del Parlamento.
+Las disposiciones reglamentarias emanadas del Gobierno y de sus miembros se ajustarán a las siguientes normas de jerarquía y competencia:
 
-				        Sección 3.ª
+1.º. Disposiciones aprobadas por decreto del Gobierno, por decreto de Comisión Delegada y por decreto de la Presidencia, en este último caso cuando las apruebe en ejercicio de las competencias que le atribuyen el Estatuto de Autonomía y las leyes como presidente o presidenta del Gobierno.
 
-				        Decretos legislativos
+2.º. Disposiciones aprobadas por decreto de la Presidencia, en los casos no previstos en el apartado anterior, y disposiciones aprobadas por orden.
 
-				        Artículo 75. Decretos legislativos.
+#### Artículo 79. Publicación.
 
-				        1. Las disposiciones con rango de ley que se dicten por el Gobierno, con la denominación de decretos legislativos, se ajustarán a lo establecido en el Estatuto de Autonomía de Canarias y a lo dispuesto en la ley que otorgue la delegación legislativa, quedando sujetos a los mecanismos de control establecidos en el Estatuto de Autonomía.
+La entrada en vigor de las disposiciones reglamentarias exige su íntegra publicación en el Boletín Oficial de Canarias.
 
-				        2. La tramitación de los decretos legislativos se ajustará a lo establecido para la elaboración de los proyectos de ley, con las especialidades que se establecen en este artículo.
+#### Sección 2. ª
 
-				        3. Cuando la delegación legislativa tenga por objeto la formación de textos articulados, el órgano competente procederá a la elaboración del proyecto de decreto legislativo y de una memoria justificativa abreviada, en la que se recogerán los extremos que se establezcan por decreto de la Presidencia del Gobierno.
+Procedimiento de elaboración y aprobación
 
-				        Elaborado el proyecto de decreto legislativo y la memoria justificativa, los departamentos competentes, con carácter previo a la cumplimentación de los restantes trámites del procedimiento, deberán someterlo a la consideración del Gobierno, a efectos de que dé su conformidad a la oportunidad de la iniciativa y, en su caso, acuerde los trámites adicionales a los que debe someterse el mismo.
+#### Artículo 80. Procedimiento de elaboración y aprobación.
 
-				        Concluida la tramitación, el departamento o departamentos competentes elevarán el proyecto de decreto legislativo al Consejo de Gobierno para su toma en consideración y se solicitará por el presidente o presidenta del Gobierno el dictamen del Consejo Consultivo de Canarias.
+1. La iniciación del procedimiento de elaboración de un reglamento se llevará a cabo por resolución de la persona titular del departamento o departamentos competentes para su aprobación o para proponer la misma al Gobierno, previo informe justificativo de la iniciativa reglamentaria del órgano que promueva su aprobación.
 
-				        4. Cuando la delegación tenga por objeto refundir varios textos legales en uno, la tramitación de proyectos de decretos legislativos podrá limitarse a los trámites siguientes:
+2. Con anterioridad a la redacción del texto de la iniciativa reglamentaria, se deberá efectuar una consulta previa para recabar la opinión de la ciudadanía y de las organizaciones más representativas potencialmente afectadas por la misma, acerca de:
 
-				        a) La solicitud de informe del Servicio Jurídico del Gobierno de Canarias.
+a) Los problemas que se pretenden solucionar con la iniciativa.
 
-				        b) La solicitud de dictamen del Consejo Consultivo de Canarias, que se hará por el presidente o presidenta del Gobierno, previa su toma en consideración por el Gobierno, a propuesta de la persona titular del departamento o de los departamentos competentes.
+b) La necesidad y oportunidad de su aprobación.
 
-				        5. Emitido el dictamen del Consejo de Consultivo de Canarias, el proyecto de decreto legislativo se someterá al Gobierno para su aprobación y su comunicación al Parlamento, conforme a lo establecido en el Reglamento del Parlamento de Canarias.
+c) Los fines y objetivos perseguidos con la iniciativa.
 
-				        6. El decreto legislativo aprobado será publicado en el Boletín Oficial de Canarias y en el Boletín Oficial del Estado, de acuerdo con lo dispuesto en el Estatuto de Autonomía.
+d) Las posibles soluciones alternativas regulatorias y no regulatorias.
 
-				        7. El Gobierno podrá acordar la tramitación urgente de los decretos legislativos cuando concurran las causas y con los efectos previstos para los anteproyectos de ley en esta ley.
+La consulta pública deberá realizarse de tal forma que la ciudadanía y todos los potenciales destinatarios de la iniciativa reglamentaria tengan la posibilidad de emitir su opinión, concediendo para ello un plazo adecuado que no podrá ser inferior a quince días naturales.
 
-				        CAPÍTULO III
+3. No será necesaria la consulta previa en los supuestos siguientes:
 
-				        POTESTAD REGLAMENTARIA DEL GOBIERNO
+a) Reglamentos presupuestarios.
 
-				        Sección 1.ª
+b) Reglamentos organizativos.
 
-				        Principios generales
+c) Reglamentos que tengan una escasa incidencia económica, jurídica o social.
 
-				        Artículo 76. Órganos competentes.
+d) Reglamentos que no impongan obligaciones relevantes a los destinatarios.
 
-				        1. El ejercicio de la potestad reglamentaria del Gobierno se ajustará a lo establecido en la Constitución, el Estatuto de Autonomía y las leyes.
+e) Reglamentos que recojan aspectos parciales de una materia.
 
-				        2. Las comisiones delegadas del Gobierno podrán dictar reglamentos cuando sean habilitadas para ello por la ley y dentro del ámbito propio de su competencia.
+f) Reglamentos cuyo contenido venga sustancialmente determinado por una norma de rango superior o por acuerdos vinculantes adoptados, de acuerdo con la legislación básica, por órganos mixtos Estado-comunidad autónoma.
 
-				        3. El presidente o presidenta, el vicepresidente o vicepresidenta y los consejeros y consejeras titulares de los departamentos tienen potestad reglamentaria en lo relativo a la organización y al ámbito interno de funcionamiento de sus departamentos. Asimismo, podrán dictar reglamentos cuando sean específicamente habilitados para ello por ley.
+g) Cuando concurran razones graves de interés público que lo justifiquen.
 
-				        Artículo 77. Forma de las disposiciones reglamentarias.
+h) Cuando se acuerde la tramitación urgente del procedimiento de elaboración.
 
-				        1. Las disposiciones generales emanadas del Gobierno de Canarias y de sus miembros adoptarán la siguiente forma:
+4. Se elaborará un informe justificativo de la iniciativa reglamentaria con el siguiente contenido:
 
-				        a) Decretos: las disposiciones generales del Consejo de Gobierno.
+a) Identificación de la situación jurídica y de hecho.
 
-				        b) Decretos de Comisión Delegada: las disposiciones generales acordadas por las comisiones delegadas del Gobierno.
+b) Justificación del proyecto.
 
-				        c) Decretos del presidente o presidenta: las disposiciones generales del presidente o presidenta.
+c) Aspectos técnico-jurídicos.
 
-				        d) Orden: las disposiciones generales del vicepresidente o vicepresidenta y de los consejeros o consejeras.
+d) Impactos normativos requeridos por las normas sectoriales.
 
-				        2. Las disposiciones generales en materia de la competencia de más de un departamento revestirán la forma de orden conjunta.
+e) Efectos económicos y sociales.
 
-				        3. Los decretos son firmados por la presidenta o presidente y también, si emanan del Gobierno, por los consejeros o consejeras que hayan formulado la propuesta. Los decretos de Comisión Delegada son firmados por el presidente o presidenta de la comisión y por las consejeras o consejeros proponentes. Las órdenes son firmadas por el vicepresidente o vicepresidenta o los consejeros o consejeras competentes en razón de la materia.
+Reglamentariamente se desarrollará el contenido del informe justificativo y se preverán los supuestos en los que el mismo podrá realizarse de forma abreviada, así como el contenido del mismo.
 
-				        Artículo 78. Jerarquía y competencia.
+5. La redacción del texto del proyecto se realizará atendiendo a los fines y objetivos perseguidos por la norma. En el texto del proyecto, antes de su parte dispositiva se incluirá un breve preámbulo en el que se justifique la iniciativa y su adecuación a los principios de buena regulación.
 
-				        Las disposiciones reglamentarias emanadas del Gobierno y de sus miembros se ajustarán a las siguientes normas de jerarquía y competencia:
+6. Redactado el texto de la iniciativa reglamentaria y el informe justificativo, se cumplimentarán los trámites preceptivos y los que se estime convenientes, debiendo impulsarse simultáneamente, salvo que esté previsto su cumplimiento sucesivo por las disposiciones aplicables al procedimiento de elaboración.
 
-				        1.º. Disposiciones aprobadas por decreto del Gobierno, por decreto de Comisión Delegada y por decreto de la Presidencia, en este último caso cuando las apruebe en ejercicio de las competencias que le atribuyen el Estatuto de Autonomía y las leyes como presidente o presidenta del Gobierno.
+7. Cuando una disposición afecte a derechos e intereses legítimos de las personas, será objeto de trámite de audiencia durante un plazo razonable y no inferior a quince días hábiles. Asimismo, cuando por la naturaleza de la disposición lo estime conveniente el órgano responsable de la instrucción, se podrá someter al trámite de información pública por un plazo no inferior a quince días hábiles.
 
-				        2.º. Disposiciones aprobadas por decreto de la Presidencia, en los casos no previstos en el apartado anterior, y disposiciones aprobadas por orden.
+Solo podrá omitirse el trámite de audiencia cuando graves razones de interés público lo exijan, que habrán de constar en el expediente administrativo. No obstante, no será necesario dicho trámite si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración.
 
-				        Artículo 79. Publicación.
+El trámite de audiencia, en sus diversas formas, no será aplicable a los proyectos de disposiciones presupuestarias o que regulen la organización del Gobierno o de la Administración pública de la comunidad autónoma y de los organismos públicos dependientes o vinculados a la misma, siempre que no tengan incidencia sobre los intereses de la ciudadanía y las organizaciones que la representan.
 
-				        La entrada en vigor de las disposiciones reglamentarias exige su íntegra publicación en el Boletín Oficial de Canarias.
+8. Concluida la tramitación, cuando sea preceptivo el dictamen del Consejo Consultivo de Canarias, por la Presidencia del Gobierno se solicitará el dictamen en la forma siguiente:
 
-				        Sección 2.ª
+a) Los proyectos de reglamentos cuya aprobación corresponde al Gobierno se someterán a su toma en consideración con carácter previo a la solicitud de dictamen. No obstante, excepcionalmente y por razones de urgencia, la Presidencia del Gobierno, a iniciativa del departamento o departamentos competentes, podrá solicitar el dictamen sin la toma en consideración previa por el Gobierno.
 
-				        Procedimiento de elaboración y aprobación
+b) Para los proyectos de reglamento cuya aprobación corresponde a los departamentos, la solicitud de dictamen se realizará a iniciativa de la persona titular del departamento o departamento competentes.
 
-				        Artículo 80. Procedimiento de elaboración y aprobación.
+9. Emitido el dictamen del Consejo Consultivo de Canarias, el proyecto de reglamento se someterá al órgano competente para su aprobación.
 
-				        1. La iniciación del procedimiento de elaboración de un reglamento se llevará a cabo por resolución de la persona titular del departamento o departamentos competentes para su aprobación o para proponer la misma al Gobierno, previo informe justificativo de la iniciativa reglamentaria del órgano que promueva su aprobación.
+10. Las disposiciones reglamentarias entrarán en vigor conforme a lo dispuesto en el artículo 2 l.
 
-				        2. Con anterioridad a la redacción del texto de la iniciativa reglamentaria, se deberá efectuar una consulta previa para recabar la opinión de la ciudadanía y de las organizaciones más representativas potencialmente afectadas por la misma, acerca de:
+Código Civil.
 
-				        a) Los problemas que se pretenden solucionar con la iniciativa.
+11. El procedimiento previsto en este artículo no será de aplicación a la elaboración y aprobación de las normas que establecen las bases reguladoras de concesión de las subvenciones, que se ajustarán al procedimiento establecido en la normativa en materia de subvenciones.
 
-				        b) La necesidad y oportunidad de su aprobación.
+#### Artículo 81. Tramitación urgente de iniciativas reglamentarias.
 
-				        c) Los fines y objetivos perseguidos con la iniciativa.
+1. El órgano competente para acordar el inicio del procedimiento de elaboración de las disposiciones reglamentarias podrá acordar su tramitación urgente cuando concurra alguna de las causas siguientes:
 
-				        d) Las posibles soluciones alternativas regulatorias y no regulatorias.
+a) Cuando sea preciso que la norma entre en vigor en el plazo establecido para la transposición de directivas comunitarias o en otras normas de la Unión Europea.
 
-				        La consulta pública deberá realizarse de tal forma que la ciudadanía y todos los potenciales destinatarios de la iniciativa reglamentaria tengan la posibilidad de emitir su opinión, concediendo para ello un plazo adecuado que no podrá ser inferior a quince días naturales.
+b) Cuando sea necesaria la adaptación a la legislación básica, se haya declarado la inconstitucionalidad o la nulidad judicial de una determinada norma, o sea consecuencia de acuerdos de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Canarias, adoptados al amparo de lo establecido en el artículo 33.2 de la Ley Orgánica del Tribunal Constitucional.
 
-				        3. No será necesaria la consulta previa en los supuestos siguientes:
+c) Cuando concurran otras circunstancias extraordinarias que exijan la aprobación urgente de la norma.
 
-				        a) Reglamentos presupuestarios.
+2. La tramitación por la vía de urgencia implicará que:
 
-				        b) Reglamentos organizativos.
+a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en esta o en otra norma, se reducirán a la mitad de su duración. Si en aplicación de la normativa reguladora de los órganos consultivos que hubieran de emitir dictamen fuera necesario un acuerdo para requerirlo en dicho plazo, se adoptará por el órgano competente.
 
-				        c) Reglamentos que tengan una escasa incidencia económica, jurídica o social.
+b) No será preciso el trámite de consulta pública previa y, en su caso, el plazo de realización de los trámites de audiencia o de información pública será de siete días.
 
-				        d) Reglamentos que no impongan obligaciones relevantes a los destinatarios.
+c) La falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su incorporación y consideración cuando se reciba, siempre que sea anterior a la elevación de la propuesta de aprobación al órgano competente.
 
-				        e) Reglamentos que recojan aspectos parciales de una materia.
+3. El acuerdo de tramitación urgente de la iniciativa reglamentaria podrá adoptarse en la misma resolución de inicio del procedimiento de elaboración o en cualquier momento posterior.
 
-				        f) Reglamentos cuyo contenido venga sustancialmente determinado por una norma de rango superior o por acuerdos vinculantes adoptados, de acuerdo con la legislación básica, por órganos mixtos Estado-comunidad autónoma.
+#### Artículo 82. Especialidades de la elaboración de normas de organización.
 
-				        g) Cuando concurran razones graves de interés público que lo justifiquen.
+1. La aprobación de las disposiciones reglamentarias de la Presidencia, del Gobierno o de las consejerías que tengan carácter organizativo irá precedida de la resolución de inicio y de un informe justificativo de la iniciativa reglamentaria, así como de los informes del Servicio Jurídico y de los órganos competentes en materia de organización administrativa y en materia de gasto público, cuando sean preceptivos por una disposición general.
 
-				        h) Cuando se acuerde la tramitación urgente del procedimiento de elaboración.
+2. El informe justificativo de las iniciativas reglamentarias de carácter organizativo tendrá el siguiente contenido:
 
-				        4. Se elaborará un informe justificativo de la iniciativa reglamentaria con el siguiente contenido:
+a) El análisis pormenorizado de las áreas funcionales afectadas.
 
-				        a) Identificación de la situación jurídica y de hecho.
+b) La justificación de la propuesta de distribución de competencias en cada sector material de funciones.
 
-				        b) Justificación del proyecto.
+c) El informe de impacto por razón de género.
 
-				        c) Aspectos técnico-jurídicos.
+d) La valoración económica de la iniciativa reglamentaria.
 
-				        d) Impactos normativos requeridos por las normas sectoriales.
+3. Los proyectos de reglamentos en materia organizativa no serán objeto de consulta previa, pero podrán someterse al trámite de información pública cuando así lo considere conveniente el órgano competente para su aprobación o para proponer su aprobación al Gobierno.
 
-				        e) Efectos económicos y sociales.
+4. La tramitación de los decretos que determinen el número, denominación y competencias de las consejerías, así como los que establezcan la estructura orgánica y las sedes de las consejerías, se limitará a los informes del Servicio Jurídico y del órgano competente en materia de gasto público, todo ello sin perjuicio de lo dispuesto en el artículo 27 de la Ley 14/1990, de 26 de julio, o ley que la sustituya.
 
-				        Reglamentariamente se desarrollará el contenido del informe justificativo y se preverán los supuestos en los que el mismo podrá realizarse de forma abreviada, así como el contenido del mismo.
+#### Artículo 83. Iniciativas reglamentarias en caso de cese del Gobierno.
 
-				        5. La redacción del texto del proyecto se realizará atendiendo a los fines y objetivos perseguidos por la norma. En el texto del proyecto, antes de su parte dispositiva se incluirá un breve preámbulo en el que se justifique la iniciativa y su adecuación a los principios de buena regulación.
+Las iniciativas reglamentarias cuya tramitación no haya concluido por el cese del Gobierno podrán proseguir y finalizar su tramitación una vez que se haya nombrado el nuevo Gobierno, siempre que el órgano competente para su aprobación dé su conformidad al texto elaborado y a la tramitación seguida.
 
-				        6. Redactado el texto de la iniciativa reglamentaria y el informe justificativo, se cumplimentarán los trámites preceptivos y los que se estime convenientes, debiendo impulsarse simultáneamente, salvo que esté previsto su cumplimiento sucesivo por las disposiciones aplicables al procedimiento de elaboración.
+## Capítulo IV. Evaluación y transparencia.
 
-				        7. Cuando una disposición afecte a derechos e intereses legítimos de las personas, será objeto de trámite de audiencia durante un plazo razonable y no inferior a quince días hábiles. Asimismo, cuando por la naturaleza de la disposición lo estime conveniente el órgano responsable de la instrucción, se podrá someter al trámite de información pública por un plazo no inferior a quince días hábiles.
+#### Artículo 84. Evaluación normativa.
 
-				        Solo podrá omitirse el trámite de audiencia cuando graves razones de interés público lo exijan, que habrán de constar en el expediente administrativo. No obstante, no será necesario dicho trámite si las organizaciones o asociaciones mencionadas hubieran participado por medio de informes o consultas en el proceso de elaboración.
+1. Los departamentos de la Administración pública de la comunidad autónoma revisarán periódicamente la normativa aplicable a los sectores funcionales que tenga atribuidos para verificar su adaptación a los principios de buena regulación y comprobar el grado de cumplimiento de objetivos previstos, la corrección del coste inicialmente contemplado y la justificación de las cargas eventualmente impuestas.
 
-				        El trámite de audiencia, en sus diversas formas, no será aplicable a los proyectos de disposiciones presupuestarias o que regulen la organización del Gobierno o de la Administración pública de la comunidad autónoma y de los organismos públicos dependientes o vinculados a la misma, siempre que no tengan incidencia sobre los intereses de la ciudadanía y las organizaciones que la representan.
+2. La revisión y evaluación se efectuará bajo la coordinación de la Presidencia del Gobierno, que plasmará su resultado en un informe que se hará público en el Portal de Transparencia.
 
-				        8. Concluida la tramitación, cuando sea preceptivo el dictamen del Consejo Consultivo de Canarias, por la Presidencia del Gobierno se solicitará el dictamen en la forma siguiente:
+#### Artículo 85. Medidas de transparencia y simplificación del ordenamiento autonómico.
 
-				        a) Los proyectos de reglamentos cuya aprobación corresponde al Gobierno se someterán a su toma en consideración con carácter previo a la solicitud de dictamen. No obstante, excepcionalmente y por razones de urgencia, la Presidencia del Gobierno, a iniciativa del departamento o departamentos competentes, podrá solicitar el dictamen sin la toma en consideración previa por el Gobierno.
+1. Sin perjuicio de la publicación en el Boletín Oficial de Canarias de las disposiciones normativas previstas en este título, el Gobierno hará públicos en el Portal de Transparencia los textos actualizados y consolidados de las disposiciones vigentes, incorporando en los mismos las modificaciones parciales de que hayan sido objeto.
 
-				        b) Para los proyectos de reglamento cuya aprobación corresponde a los departamentos, la solicitud de dictamen se realizará a iniciativa de la persona titular del departamento o departamento competentes.
+2. En los textos consolidados que se hagan públicos en cumplimiento de lo establecido en el apartado anterior se contendrá la información siguiente:
 
-				        9. Emitido el dictamen del Consejo Consultivo de Canarias, el proyecto de reglamento se someterá al órgano competente para su aprobación.
+a) Las normas que hayan introducido las modificaciones y las derogaciones que se hayan incorporado, con su correspondiente enlace a la norma modificativa o derogatoria.
 
-				        10. Las disposiciones reglamentarias entrarán en vigor conforme a lo dispuesto en el artículo 2 del Código Civil.
+b) Las sentencias que afecten a la validez e interpretación de las normas, con enlace al texto de las mismas.
 
-				        11. El procedimiento previsto en este artículo no será de aplicación a la elaboración y aprobación de las normas que establecen las bases reguladoras de concesión de las subvenciones, que se ajustarán al procedimiento establecido en la normativa en materia de subvenciones.
+c) La fecha en la que se ha elaborado cada texto consolidado y la última fecha de actualización.
 
-				        Artículo 81. Tramitación urgente de iniciativas reglamentarias.
+d) La indicación de que el texto es de carácter informativo y carece de valor jurídico.
 
-				        1. El órgano competente para acordar el inicio del procedimiento de elaboración de las disposiciones reglamentarias podrá acordar su tramitación urgente cuando concurra alguna de las causas siguientes:
+3. Para facilitar el conocimiento de las normas de la comunidad autónoma, la publicación de los textos consolidados podrá hacerse en recopilaciones normativas por sectores de la organización institucional o por áreas de la acción pública.
 
-				        a) Cuando sea preciso que la norma entre en vigor en el plazo establecido para la transposición de directivas comunitarias o en otras normas de la Unión Europea.
+## Título VI
 
-				        b) Cuando sea necesaria la adaptación a la legislación básica, se haya declarado la inconstitucionalidad o la nulidad judicial de una determinada norma, o sea consecuencia de acuerdos de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Canarias, adoptados al amparo de lo establecido en el artículo 33.2 de la Ley Orgánica del Tribunal Constitucional.
+CONTROL DE LA ACTUACIÓN DEL GOBIERNO
 
-				        c) Cuando concurran otras circunstancias extraordinarias que exijan la aprobación urgente de la norma.
+#### Artículo 86. Control de la actuación del Gobierno.
 
-				        2. La tramitación por la vía de urgencia implicará que:
+1. El control político de la actuación del presidente o presidenta y del Gobierno de Canarias es ejercido por el Parlamento de Canarias de acuerdo con lo establecido en el Estatuto de Autonomía y el Reglamento del Parlamento de Canarias.
 
-				        a) Los plazos previstos para la realización de los trámites del procedimiento de elaboración, establecidos en esta o en otra norma, se reducirán a la mitad de su duración. Si en aplicación de la normativa reguladora de los órganos consultivos que hubieran de emitir dictamen fuera necesario un acuerdo para requerirlo en dicho plazo, se adoptará por el órgano competente.
+2. Las actuaciones del Gobierno de Canarias son impugnables ante las jurisdicciones competentes, de acuerdo con sus leyes reguladoras, y ante el Tribunal Constitucional en los términos de la ley orgánica reguladora del mismo.
 
-				        b) No será preciso el trámite de consulta pública previa y, en su caso, el plazo de realización de los trámites de audiencia o de información pública será de siete días.
+### Disposiciones adicionales
 
-				        c) La falta de emisión de un dictamen o informe preceptivo en plazo no impedirá la continuación del procedimiento, sin perjuicio de su incorporación y consideración cuando se reciba, siempre que sea anterior a la elevación de la propuesta de aprobación al órgano competente.
+#### Primera. Uso de nuevas tecnologías.
 
-				        3. El acuerdo de tramitación urgente de la iniciativa reglamentaria podrá adoptarse en la misma resolución de inicio del procedimiento de elaboración o en cualquier momento posterior.
+1. El Gobierno y sus comisiones delegadas, así como la Comisión Preparatoria de Asuntos del Gobierno, podrán utilizar redes de comunicación a distancia o medios telemáticos para su funcionamiento. A tal fin, se establecerán los mecanismos necesarios que permitan garantizar la identidad de los comunicantes y la autenticidad de los mensajes, informaciones y manifestaciones verbales o escritas transmitidas.
 
-				        Artículo 82. Especialidades de la elaboración de normas de organización.
+2. Cuando concurran circunstancias excepcionales que impidan la celebración de sesiones presenciales, la Presidencia del Gobierno podrá decidir motivadamente que el Gobierno o sus comisiones delegadas puedan celebrar sesiones, adoptar acuerdos y aprobar actas a distancia por medios telemáticos, disponiéndose los medios necesarios para garantizar el carácter secreto o reservado de sus deliberaciones. A estos efectos, se consideran medios telemáticos válidos las audioconferencias y videoconferencias.
 
-				        1. La aprobación de las disposiciones reglamentarias de la Presidencia, del Gobierno o de las consejerías que tengan carácter organizativo irá precedida de la resolución de inicio y de un informe justificativo de la iniciativa reglamentaria, así como de los informes del Servicio Jurídico y de los órganos competentes en materia de organización administrativa y en materia de gasto público, cuando sean preceptivos por una disposición general.
+En la celebración de las reuniones en las que no estén presentes en un mismo lugar quienes integran el Gobierno o sus comisiones delegadas, quien desempeñe la Secretaría del Gobierno hará constar esta circunstancia en el acta de la sesión y verificará el cumplimiento de los requisitos establecidos en la ley para la válida constitución del órgano y para la adopción de sus acuerdos.
 
-				        2. El informe justificativo de las iniciativas reglamentarias de carácter organizativo tendrá el siguiente contenido:
+3. En la celebración de las reuniones en las que no estén presentes en un mismo lugar quienes integran la Comisión Preparatoria de Asuntos del Gobierno, quien desempeñe la Secretaría de la misma hará constar esta circunstancia en el acta de la sesión, y verificará el cumplimiento de los requisitos establecidos para la válida constitución y funcionamiento del órgano.
 
-				        a) El análisis pormenorizado de las áreas funcionales afectadas.
+4. La transmisión de información y documentación al Gobierno y sus comisiones delegadas, así como a la Comisión Preparatoria de Asuntos del Gobierno, podrá realizarse, igualmente, por medios telemáticos de comunicación. Tales sistemas también podrán utilizarse para la remisión de las decisiones y certificaciones de los acuerdos a los órganos destinatarios de las mismas.
 
-				        b) La justificación de la propuesta de distribución de competencias en cada sector material de funciones.
+#### Segunda. Delegaciones del Gobierno de Canarias en el exterior.
 
-				        c) El informe de impacto por razón de género.
+El Gobierno podrá crear delegaciones del Gobierno de Canarias en el exterior para la representación, defensa y promoción de los intereses de la comunidad autónoma, así como para dar soporte a las relaciones con personas y entidades en el exterior en el ámbito de competencias de la Comunidad Autónoma de Canarias.
 
-				        d) La valoración económica de la iniciativa reglamentaria.
+#### Tercera. Desconcentración y delegación de funciones y competencias.
 
-				        3. Los proyectos de reglamentos en materia organizativa no serán objeto de consulta previa, pero podrán someterse al trámite de información pública cuando así lo considere conveniente el órgano competente para su aprobación o para proponer su aprobación al Gobierno.
+1. Las funciones y competencias que el ordenamiento jurídico atribuye a las personas titulares de los departamentos o consejerías y que corresponden a la presidenta o presidente como titular de la Presidencia del Gobierno, pueden ser objeto de desconcentración en los órganos superiores de la Presidencia del Gobierno mediante decreto del presidente o de la presidenta.
 
-				        4. La tramitación de los decretos que determinen el número, denominación y competencias de las consejerías, así como los que establezcan la estructura orgánica y las sedes de las consejerías, se limitará a los informes del Servicio Jurídico y del órgano competente en materia de gasto público, todo ello sin perjuicio de lo dispuesto en el artículo 27 de la Ley 14/1990, de 26 de julio, o ley que la sustituya.
+2. Asimismo, las funciones y competencias como titular de la Presidencia del Gobierno pueden delegarse de acuerdo con las previsiones del ordenamiento jurídico.
 
-				        Artículo 83. Iniciativas reglamentarias en caso de cese del Gobierno.
+#### Disposición derogatoria . Única. Disposiciones que se derogan.
 
-				        Las iniciativas reglamentarias cuya tramitación no haya concluido por el cese del Gobierno podrán proseguir y finalizar su tramitación una vez que se haya nombrado el nuevo Gobierno, siempre que el órgano competente para su aprobación dé su conformidad al texto elaborado y a la tramitación seguida.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con la presente ley, y específicamente las siguientes:
 
-				        CAPÍTULO IV
+1. La Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias.
 
-				        EVALUACIÓN Y TRANSPARENCIA
+2. La disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias.
 
-				        Artículo 84. Evaluación normativa.
+### Disposiciones finales
 
-				        1. Los departamentos de la Administración pública de la comunidad autónoma revisarán periódicamente la normativa aplicable a los sectores funcionales que tenga atribuidos para verificar su adaptación a los principios de buena regulación y comprobar el grado de cumplimiento de objetivos previstos, la corrección del coste inicialmente contemplado y la justificación de las cargas eventualmente impuestas.
+#### Primera. Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
 
-				        2. La revisión y evaluación se efectuará bajo la coordinación de la Presidencia del Gobierno, que plasmará su resultado en un informe que se hará público en el Portal de Transparencia.
+Se modifica la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en los términos siguientes:
 
-				        Artículo 85. Medidas de transparencia y simplificación del ordenamiento autonómico.
+Uno.- El artículo 27 queda.
 
-				        1. Sin perjuicio de la publicación en el Boletín Oficial de Canarias de las disposiciones normativas previstas en este título, el Gobierno hará públicos en el Portal de Transparencia los textos actualizados y consolidados de las disposiciones vigentes, incorporando en los mismos las modificaciones parciales de que hayan sido objeto.
+redactado en la forma siguiente:
 
-				        2. En los textos consolidados que se hagan públicos en cumplimiento de lo establecido en el apartado anterior se contendrá la información siguiente:
+"Artículo 27.
 
-				        a) Las normas que hayan introducido las modificaciones y las derogaciones que se hayan incorporado, con su correspondiente enlace a la norma modificativa o derogatoria.
+1. Bajo la superior dirección del presidente o presidenta del Gobierno de Canarias, la Administración pública de la comunidad autónoma se organiza en consejerías.
 
-				        b) Las sentencias que afecten a la validez e interpretación de las normas, con enlace al texto de las mismas.
+2. Cada una de las consejerías tendrá atribuida la gestión de áreas determinadas de la acción pública competencia de la comunidad autónoma.
 
-				        c) La fecha en la que se ha elaborado cada texto consolidado y la última fecha de actualización.
+3. La estructura orgánica y las sedes de las consejerías serán aprobadas por decreto del Gobierno de Canarias, a propuesta de la Presidencia del Gobierno. Del establecimiento de dicha estructura y sedes, así como de su modificación se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
 
-				        d) La indicación de que el texto es de carácter informativo y carece de valor jurídico.
+4. Corresponde al Gobierno la creación, organización y funcionamiento de órganos colegiados de la Administración pública autonómica a los que se atribuyan competencias decisorias, de propuesta o informes preceptivos, así como de seguimiento o control de órganos administrativos. Asimismo, corresponde al Gobierno la creación de órganos colegiados que estén integrados únicamente por personas dependientes de distintas consejerías o departamentos. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
 
-				        3. Para facilitar el conocimiento de las normas de la comunidad autónoma, la publicación de los textos consolidados podrá hacerse en recopilaciones normativas por sectores de la organización institucional o por áreas de la acción pública.
+5. La creación, organización y funcionamiento de órganos colegiados distintos de los establecidos en el apartado anterior se llevarán a cabo por disposición del departamento al que queden adscritos, atendiendo al sector material de las funciones que se le atribuyan. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias."
 
-				        TÍTULO VI
+Dos.- Se suprime el artículo 28.
 
-				        CONTROL DE LA ACTUACIÓN DEL GOBIERNO
+Tres.- Se añade un nuevo
 
-				        Artículo 86. Control de la actuación del Gobierno.
+#### Artículo 33. bis,.
 
-				        1. El control político de la actuación del presidente o presidenta y del Gobierno de Canarias es ejercido por el Parlamento de Canarias de acuerdo con lo establecido en el Estatuto de Autonomía y el Reglamento del Parlamento de Canarias.
+con el siguiente contenido:
 
-				        2. Las actuaciones del Gobierno de Canarias son impugnables ante las jurisdicciones competentes, de acuerdo con sus leyes reguladoras, y ante el Tribunal Constitucional en los términos de la ley orgánica reguladora del mismo.
+"Artículo 33 bis.
 
-				        DISPOSICIONES ADICIONALES
+1. Los actos administrativos de los órganos de la Administración pública adoptarán la forma siguiente:
 
-				        Primera.- Uso de nuevas tecnologías.
+a) **Decreto.** Los dictados por el presidente o presidenta.
 
-				        1. El Gobierno y sus comisiones delegadas, así como la Comisión Preparatoria de Asuntos del Gobierno, podrán utilizar redes de comunicación a distancia o medios telemáticos para su funcionamiento. A tal fin, se establecerán los mecanismos necesarios que permitan garantizar la identidad de los comunicantes y la autenticidad de los mensajes, informaciones y manifestaciones verbales o escritas transmitidas.
+b) **Orden.** Los dictados por el vicepresidente o vicepresidenta y los consejeros o consejeras.
 
-				        2. Cuando concurran circunstancias excepcionales que impidan la celebración de sesiones presenciales, la Presidencia del Gobierno podrá decidir motivadamente que el Gobierno o sus comisiones delegadas puedan celebrar sesiones, adoptar acuerdos y aprobar actas a distancia por medios telemáticos, disponiéndose los medios necesarios para garantizar el carácter secreto o reservado de sus deliberaciones. A estos efectos, se consideran medios telemáticos válidos las audioconferencias y videoconferencias.
+c) **Resolución.** Los dictados por los demás órganos administrativos.
 
-				        En la celebración de las reuniones en las que no estén presentes en un mismo lugar quienes integran el Gobierno o sus comisiones delegadas, quien desempeñe la Secretaría del Gobierno hará constar esta circunstancia en el acta de la sesión y verificará el cumplimiento de los requisitos establecidos en la ley para la válida constitución del órgano y para la adopción de sus acuerdos.
+2. En cada órgano superior de la Administración pública autonómica deberá existir un registro de actos en el que se inscribirán todos los dictados por el mismo."
 
-				        3. En la celebración de las reuniones en las que no estén presentes en un mismo lugar quienes integran la Comisión Preparatoria de Asuntos del Gobierno, quien desempeñe la Secretaría de la misma hará constar esta circunstancia en el acta de la sesión, y verificará el cumplimiento de los requisitos establecidos para la válida constitución y funcionamiento del órgano.
+#### Segunda. Facultades de desarrollo.
 
-				        4. La transmisión de información y documentación al Gobierno y sus comisiones delegadas, así como a la Comisión Preparatoria de Asuntos del Gobierno, podrá realizarse, igualmente, por medios telemáticos de comunicación. Tales sistemas también podrán utilizarse para la remisión de las decisiones y certificaciones de los acuerdos a los órganos destinatarios de las mismas.
+Se faculta al Gobierno y al presidente o presidenta, en los términos establecidos en el articulado, para dictar las disposiciones necesarias para el desarrollo y ejecución de la presente ley.
 
-				        Segunda.- Delegaciones del Gobierno de Canarias en el exterior.
+#### Tercera. Entrada en vigor.
 
-				        El Gobierno podrá crear delegaciones del Gobierno de Canarias en el exterior para la representación, defensa y promoción de los intereses de la comunidad autónoma, así como para dar soporte a las relaciones con personas y entidades en el exterior en el ámbito de competencias de la Comunidad Autónoma de Canarias.
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.
 
-				        Tercera.- Desconcentración y delegación de funciones y competencias.
+Por tanto, ordeno a la ciudadanía y a las autoridades que la cumplan y la hagan cumplir.
 
-				        1. Las funciones y competencias que el ordenamiento jurídico atribuye a las personas titulares de los departamentos o consejerías y que corresponden a la presidenta o presidente como titular de la Presidencia del Gobierno, pueden ser objeto de desconcentración en los órganos superiores de la Presidencia del Gobierno mediante decreto del presidente o de la presidenta.
+En Canarias, a 23 de marzo de 2023.
 
-				        2. Asimismo, las funciones y competencias como titular de la Presidencia del Gobierno pueden delegarse de acuerdo con las previsiones del ordenamiento jurídico.
-
-				        DISPOSICIÓN DEROGATORIA
-
-				        Única. Disposiciones que se derogan.
-
-				        Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con la presente ley, y específicamente las siguientes:
-
-				        1. La Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias.
-
-				        2. La disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias.
-
-				        DISPOSICIONES FINALES
-
-				        Primera.- Modificación de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
-
-				        Se modifica la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en los términos siguientes:
-
-				        Uno.- El artículo 27 queda redactado en la forma siguiente:
-
-				        “Artículo 27.
-
-				        1. Bajo la superior dirección del presidente o presidenta del Gobierno de Canarias, la Administración pública de la comunidad autónoma se organiza en consejerías.
-
-				        2. Cada una de las consejerías tendrá atribuida la gestión de áreas determinadas de la acción pública competencia de la comunidad autónoma.
-
-				        3. La estructura orgánica y las sedes de las consejerías serán aprobadas por decreto del Gobierno de Canarias, a propuesta de la Presidencia del Gobierno. Del establecimiento de dicha estructura y sedes, así como de su modificación se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
-
-				        4. Corresponde al Gobierno la creación, organización y funcionamiento de órganos colegiados de la Administración pública autonómica a los que se atribuyan competencias decisorias, de propuesta o informes preceptivos, así como de seguimiento o control de órganos administrativos. Asimismo, corresponde al Gobierno la creación de órganos colegiados que estén integrados únicamente por personas dependientes de distintas consejerías o departamentos. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.
-
-				        5. La creación, organización y funcionamiento de órganos colegiados distintos de los establecidos en el apartado anterior se llevarán a cabo por disposición del departamento al que queden adscritos, atendiendo al sector material de las funciones que se le atribuyan. Del ejercicio de dichas competencias se dará cuenta al Parlamento en forma de comunicación para su debate ante en el Pleno de conformidad con el Reglamento del Parlamento de Canarias.”
-
-				        Dos.- Se suprime el artículo 28.
-
-				        Tres.- Se añade un nuevo artículo 33 bis, con el siguiente contenido:
-
-				        “Artículo 33 bis.
-
-				        1. Los actos administrativos de los órganos de la Administración pública adoptarán la forma siguiente:
-
-				        a) Decreto: los dictados por el presidente o presidenta.
-
-				        b) Orden: los dictados por el vicepresidente o vicepresidenta y los consejeros o consejeras.
-
-				        c) Resolución: los dictados por los demás órganos administrativos.
-
-				        2. En cada órgano superior de la Administración pública autonómica deberá existir un registro de actos en el que se inscribirán todos los dictados por el mismo.”
-
-				        Segunda.- Facultades de desarrollo.
-
-				        Se faculta al Gobierno y al presidente o presidenta, en los términos establecidos en el articulado, para dictar las disposiciones necesarias para el desarrollo y ejecución de la presente ley.
-
-				        Tercera.- Entrada en vigor.
-
-				        La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial de Canarias.
-
-				        Por tanto, ordeno a la ciudadanía y a las autoridades que la cumplan y la hagan cumplir.
-
-				        En Canarias, a 23 de marzo de 2023.
-
-				        EL PRESIDENTE,
-Ángel Víctor Torres Pérez.
+EL PRESIDENTE, Ángel Víctor Torres Pérez.
 
 © Gobierno de Canarias
 
-Aviso Legal
-Sugerencias y Reclamaciones
+Aviso Legal Sugerencias y Reclamaciones

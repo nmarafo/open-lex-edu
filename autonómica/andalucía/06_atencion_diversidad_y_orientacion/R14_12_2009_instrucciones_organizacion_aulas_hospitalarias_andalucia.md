@@ -1,12 +1,10 @@
 ---
 id: norm-and-r-14-12-2009
 codigo_sintetizado: R14_12_2009 Aulas Hospitalarias y Atencion Domiciliaria Andalucía
-titulo: Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias
-  y atención domiciliaria.
+titulo: Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
-  de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
 tipo_disposicion: Resolución
 numero_disposicion: 14/12/2009
 fecha_disposicion: '2009-12-14'
@@ -20,1432 +18,586 @@ clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
 tags:
-- aulas_hospitalarias
-- atencion_domiciliaria
-- andalucia
+  - aulas_hospitalarias
+  - atencion_domiciliaria
+  - andalucia
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-and-l17-2007
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-1-1996
+    - norma_id: norm-and-l17-2007
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-1-1996
 ---
+# Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
 
 ## Preámbulo
 
-# Resolución de 14 de diciembre de 2009, sobre atención educativa en aulas hospitalarias y atención domiciliaria.
+Sevilla, 24 de diciembre 2009 Página núm. 7 DECRETO Ley 3/2009, de 22 de diciembre, por el que se modifican diversas leyes para la transposición en Andalucía de la Directiva 2006/123/CE, de 12 de diciembre de 2006, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 7
-DECRETO Ley 3/2009, de 22 de diciembre, por 
-el que se modifican diversas leyes para la transposición en Andalucía de la Directiva 2006/123/CE, de 12 
-de diciembre de 2006, del Parlamento Europeo y del 
-Consejo, relativa a los servicios en el mercado interior. 
-EXPOSICIÓN DE MOTIVOS
-I
-El sector servicios, el más importante de nuestra economía, es un motor de crecimiento y creación de empleo en 
-España y, en particular, en Andalucía. De esta manera, es el 
-sector de mayor importancia cuantitativa por su peso en el 
-PIB (a nivel nacional  66,7% y a nivel andaluz 67,5%) y empleo 
-total  (a nivel nacional 66,2% y a nivel andaluz 66,9%), y de él 
-depende de manera decisiva el crecimiento y la competitividad 
-del resto de ramas de actividad.
-Con el fin de mejorar la regulación de las actividades de 
-servicios y lograr la consecución del mercado interior en este 
-sector, el 27 de diciembre de 2006 se publicó en el Diario Oficial de la Unión Europea la Directiva 2006/123/CE, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, 
-la cual establece en su artículo 44 que los Estados miembros 
-pondrán en vigor las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido 
-en la misma a más tardar antes del 28 de diciembre de 2009. 
-El fin perseguido por la Directiva es eliminar los obstáculos que se oponen a la libertad de establecimiento de quienes 
-presten servicios en los Estados miembros y a la libre circulación de servicios entre los Estados miembros y garantizar, 
-tanto a las personas destinatarias como a las prestadoras de 
-los servicios, la seguridad jurídica necesaria para el ejercicio 
-efectivo de estas dos libertades fundamentales del Tratado. 
-En relación con la libertad de establecimiento de los prestadores de servicios, la Directiva establece la eliminación de 
-todo procedimiento de autorización que afecte al acceso o 
-ejercicio de una actividad de servicios, si dicho procedimiento 
-no cumple con los requisitos de necesidad, proporcionalidad y 
-carácter no discriminatorio.
-La legislación de los Estados miembros relativa al acceso o 
-ejercicio de una actividad de servicios no podrá contener una serie 
-de requisitos prohibidos, listados en el artículo 14 de la Directiva, 
-y deberá justificarse la exigencia de otros, listados en su artículo 
-15, atendiendo a los criterios señalados en el párrafo anterior.  
-En cuanto a la libre prestación de servicios, que tiene lugar cuando un prestador o prestadora ya establecido en un 
-Estado miembro se desplaza a otro Estado miembro para 
-prestar temporalmente un servicio, la Directiva establece los 
-principios que deberán respetar los Estados miembros para 
-asegurar el libre ejercicio de la actividad en su territorio.
-Además, la Directiva establece, con carácter general, en 
-su artículo 5 la simplificación de los procedimientos.
-La Ley 17/2009, de 23 de noviembre,  sobre el libre acceso a las actividades de servicios y su ejercicio, ha incorporado 
-parcialmente al derecho español la Directiva 2006/123/CE 
-del Parlamento Europeo y del Consejo, de 12 de diciembre de 
-2006. Ahora bien, como indica su exposición de motivos, para 
-alcanzar el objetivo de reformar significativamente el marco 
-regulatorio no basta con el establecimiento de los principios 
-generales que deben regir la regulación actual y futura de las 
-actividades de servicios, sino que es necesario proceder a un 
-ejercicio de evaluación de toda la normativa reguladora del 
-acceso a las actividades de servicios y de su ejercicio, para 
-adecuarla a los principios que dicha Ley establece.
-El objetivo del presente Decreto es adaptar la normativa 
-andaluza de rango legal a lo dispuesto en la Ley 17/2009, de 
-23 de noviembre, y por tanto, incorporar parcialmente al derecho español la Directiva 2006/123/CE, de 12 de diciembre de 
-2006, relativa a los servicios en el mercado interior.
-En el marco de la transposición de la citada Directiva se ha 
-realizado un ejercicio de evaluación de toda la normativa andaluza 
-reguladora del acceso a las actividades de servicios y de su ejercicio para adecuarla a los principios que dicha Directiva establece. 
-El resultado de la evaluación de las normas con rango legal en Andalucía ha concluido en la conveniencia de introducir 
-reformas en la Ley 12/1999, de 15 de diciembre, del Turismo; 
-en la Ley 8/2001, de 12 de julio, de Carreteras de Andalucía; 
-en la Ley 8/2007, de 5 de octubre, de Museos y Colecciones 
-Museográficas de Andalucía; en la Ley 14/2007, de 26 de 
-noviembre, del Patrimonio Histórico de Andalucía; en la Ley 
-2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad 
-Autónoma de Andalucía; en el Decreto Legislativo 1/2009, de 
-1 de septiembre, por el que se aprueba el Texto Refundido de 
-las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos; en la Ley 22/2007, de 
-18 de diciembre, de Farmacia de Andalucía; en la Ley 2/2007, 
-de 27 de marzo, de fomento de las energías renovables y del 
-ahorro y eficiencia energética de Andalucía; en la Ley 2/1989, 
-de 18 de julio, por la que se aprueba el Inventario de espacios 
-naturales Protegidos de Andalucía; en la Ley 2/1992, de 15 de 
-junio, Forestal de Andalucía; en la Ley 5/1999, de 29 de junio, 
-de Prevención y lucha contra los incendios forestales; en la Ley 
-8/1999, de 27 de octubre, de Régimen Jurídico del Espacio Natural de Doñana; en la Ley 8/2003, de 28 de octubre, de la flora 
-y la fauna silvestres; en la Ley 9/1988, de 25 de noviembre, del 
-Comercio Ambulante; en la Ley 3/1992, de 22 de octubre, de 
-Ferias Comerciales Oficiales en Andalucía y en la Ley 1/1996, 
-de 10 de enero, de Comercio Interior de Andalucía.
-La Comunidad Autónoma de Andalucía tiene competencias exclusivas en virtud del artículo 58.1.1.º del Estatuto de 
-Autonomía, tanto en materia de comercio interior como en 
-materia de ferias, del artículo 56.3 y 5, en materias de urbanismo y de ordenación del territorio, y del artículo 58.2.4.º, en 
-materia de defensa de los derechos de las personas consumidoras.
-El Estatuto de Autonomía no sólo ha clarificado el marco competencial en materia de comercio sino que, al mismo 
-tiempo, ha determinado de forma inequívoca la orientación 
-que debe tomar la legislación de Andalucía en esta materia, al 
-anudar la planificación territorial y la autorización de las grandes superficies minoristas. La evolución del sector de la distribución comercial, en el contexto del proceso de terciarización 
-de las economías desarrolladas, ha provocado que el comercio tenga un importante protagonismo, no sólo desde el punto 
-de vista económico, sino también territorial, cultural e incluso 
-como elemento de comunicación ciudadana.
-Además, el Estatuto de Autonomía para Andalucía atribuye a la Comunidad Autónoma en su artículo 42.4, competencias en relación con la aplicación del derecho comunitario, que 
-comprenden el desarrollo y la ejecución de la normativa de la 
-Unión Europea cuando afecte al ámbito de sus competencias. 
-Asimismo se le atribuye la competencia exclusiva, que comprende la potestad legislativa, en materia de turismo (artículo 
-71), y en materia de carreteras (artículo 64.1); en materia de 
-cultura, lo que está directamente relacionado con cuanto se 
-refiere a la protección del patrimonio histórico de Andalucía 
-y a los Museos y colecciones museográficas de Andalucía, 
-sin perjuicio de la asunción de competencias ejecutivas sobre 
-aquellos aspectos culturales que el Estado se haya reservado la titularidad, de acuerdo con lo dispuesto en el artículo 
-149.1.28.ª, de la Constitución (artículo 68 del Estatuto de Au1. Disposiciones generales
-CONSEJERÍA DE LA PRESIDENCIA
+## Exposición de motivos
 
-Página núm. 8 
-Se vi lla, 24 de diciembre 2009
-tonomía de Andalucía). La atribución competencial en materia 
-de juego se contiene en el artículo 81, en lo referente a la actividad, y en el artículo 178, en lo concerniente a su consideración como fuente de ingreso. De igual modo, el artículo 55 atribuye a la Comunidad Autónoma la competencia exclusiva en 
-materia de sanidad interior y de ordenación farmacéutica, que 
-comprende la potestad legislativa y ejecutiva dentro del marco 
-de la normativa estatal básica dictada al amparo del artículo 
-149.1.16.ª de la Constitución; en materia de Medio Ambiente, 
-espacios protegidos y sostenibilidad el artículo 57 atribuye a la 
-Comunidad Autónoma competencia exclusiva, sin perjuicio de 
-lo dispuesto en el artículo 149.1.23 de la Constitución.
-II
-En Andalucía, la transposición de la Directiva afecta a las 
-tres leyes que regulan la actividad comercial y ferial: la Ley 
-1/1996, de 10 de enero, del Comercio Interior de Andalucía; 
-la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante 
-y la Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía, por lo que se ha escogido como técnica 
-legislativa la opción de una modificación conjunta para que se 
-visualice con mayor nitidez el objeto y alcance de la adaptación realizada, así como por economía procedimental.
-Los principales elementos de la legislación comercial y ferial que se eliminan para dar cumplimiento a los requerimientos de la Directiva son:
-a) La licencia comercial específica previa a la licencia municipal de los grandes establecimientos comerciales, prevista 
-en el Título IV de la Ley 1/1996, de 10 de enero.
-b) Los límites inferiores a 2.500 metros cuadrados de 
-superficie útil de exposición y venta para la consideración de 
-gran superficie minorista.
-c) Las pruebas económicas para fundamentar la decisión 
-de otorgamiento de la licencia comercial específica.
-d) Las disposiciones que permitían la intervención en el 
-procedimiento de autorización de personas que representan 
-los intereses comerciales ya presentes en el mercado.
-e) La licencia comercial específica para los establecimientos 
-de descuento y de venta de restos de fábrica con una superficie 
-útil de exposición y venta mínima de 400 metros cuadrados.
-f) La tasa autonómica por la tramitación de la licencia 
-comercial.
+**I**
+El sector servicios, el más importante de nuestra economía, es un motor de crecimiento y creación de empleo en España y, en particular, en Andalucía. De esta manera, es el sector de mayor importancia cuantitativa por su peso en el PIB (a nivel nacional  66,7% y a nivel andaluz 67,5%) y empleo total  (a nivel nacional 66,2% y a nivel andaluz 66,9%), y de él depende de manera decisiva el crecimiento y la competitividad del resto de ramas de actividad. Con el fin de mejorar la regulación de las actividades de servicios y lograr la consecución del mercado interior en este sector, el 27 de diciembre de 2006 se publicó en el Diario Oficial de la Unión Europea la Directiva 2006/123/CE, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, la cual establece en su artículo 44 que los Estados miembros pondrán en vigor las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido en la misma a más tardar antes del 28 de diciembre de 2009. El fin perseguido por la Directiva es eliminar los obstáculos que se oponen a la libertad de establecimiento de quienes presten servicios en los Estados miembros y a la libre circulación de servicios entre los Estados miembros y garantizar, tanto a las personas destinatarias como a las prestadoras de los servicios, la seguridad jurídica necesaria para el ejercicio efectivo de estas dos libertades fundamentales del Tratado. En relación con la libertad de establecimiento de los prestadores de servicios, la Directiva establece la eliminación de todo procedimiento de autorización que afecte al acceso o ejercicio de una actividad de servicios, si dicho procedimiento no cumple con los requisitos de necesidad, proporcionalidad y carácter no discriminatorio. La legislación de los Estados miembros relativa al acceso o ejercicio de una actividad de servicios no podrá contener una serie de requisitos prohibidos, listados en el artículo 14 de la Directiva, y deberá justificarse la exigencia de otros, listados en su artículo 15, atendiendo a los criterios señalados en el párrafo anterior. En cuanto a la libre prestación de servicios, que tiene lugar cuando un prestador o prestadora ya establecido en un Estado miembro se desplaza a otro Estado miembro para prestar temporalmente un servicio, la Directiva establece los principios que deberán respetar los Estados miembros para asegurar el libre ejercicio de la actividad en su territorio. Además, la Directiva establece, con carácter general, en su artículo 5 la simplificación de los procedimientos. La Ley 17/2009, de 23 de noviembre,  sobre el libre acceso a las actividades de servicios y su ejercicio, ha incorporado parcialmente al derecho español la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de
+
+2006. Ahora bien, como indica su exposición de motivos, para alcanzar el objetivo de reformar significativamente el marco regulatorio no basta con el establecimiento de los principios generales que deben regir la regulación actual y futura de las actividades de servicios, sino que es necesario proceder a un ejercicio de evaluación de toda la normativa reguladora del acceso a las actividades de servicios y de su ejercicio, para adecuarla a los principios que dicha Ley establece. El objetivo del presente Decreto es adaptar la normativa andaluza de rango legal a lo dispuesto en la Ley 17/2009, de 23 de noviembre, y por tanto, incorporar parcialmente al derecho español la Directiva 2006/123/CE, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior. En el marco de la transposición de la citada Directiva se ha realizado un ejercicio de evaluación de toda la normativa andaluza reguladora del acceso a las actividades de servicios y de su ejercicio para adecuarla a los principios que dicha Directiva establece. El resultado de la evaluación de las normas con rango legal en Andalucía ha concluido en la conveniencia de introducir reformas en la Ley 12/1999, de 15 de diciembre, del Turismo; en la Ley 8/2001, de 12 de julio, de Carreteras de Andalucía; en la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía; en la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía; en la Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía; en el Decreto Legislativo 1/2009, de 1 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos; en la Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía; en la Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía; en la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de espacios naturales Protegidos de Andalucía; en la Ley 2/1992, de 15 de junio, Forestal de Andalucía; en la Ley 5/1999, de 29 de junio, de Prevención y lucha contra los incendios forestales; en la Ley 8/1999, de 27 de octubre, de Régimen Jurídico del Espacio Natural de Doñana; en la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres; en la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante; en la Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales en Andalucía y en la Ley 1/1996, de 10 de enero, de Comercio Interior de Andalucía. La Comunidad Autónoma de Andalucía tiene competencias exclusivas en virtud del artículo 58.1.1.º del Estatuto de Autonomía, tanto en materia de comercio interior como en materia de ferias, del artículo 56.3 y 5, en materias de urbanismo y de ordenación del territorio, y del artículo 58.2.4.º, en materia de defensa de los derechos de las personas consumidoras. El Estatuto de Autonomía no sólo ha clarificado el marco competencial en materia de comercio sino que, al mismo tiempo, ha determinado de forma inequívoca la orientación que debe tomar la legislación de Andalucía en esta materia, al anudar la planificación territorial y la autorización de las grandes superficies minoristas. La evolución del sector de la distribución comercial, en el contexto del proceso de terciarización de las economías desarrolladas, ha provocado que el comercio tenga un importante protagonismo, no sólo desde el punto de vista económico, sino también territorial, cultural e incluso como elemento de comunicación ciudadana. Además, el Estatuto de Autonomía para Andalucía atribuye a la Comunidad Autónoma en su artículo 42.4, competencias en relación con la aplicación del derecho comunitario, que comprenden el desarrollo y la ejecución de la normativa de la Unión Europea cuando afecte al ámbito de sus competencias. Asimismo se le atribuye la competencia exclusiva, que comprende la potestad legislativa, en materia de turismo (artículo 71), y en materia de carreteras (artículo 64.1); en materia de cultura, lo que está directamente relacionado con cuanto se refiere a la protección del patrimonio histórico de Andalucía y a los Museos y colecciones museográficas de Andalucía, sin perjuicio de la asunción de competencias ejecutivas sobre aquellos aspectos culturales que el Estado se haya reservado la titularidad, de acuerdo con lo dispuesto en el artículo 149.1.28.ª, de la Constitución (artículo 68 del Estatuto de Au1. Disposiciones generales CONSEJERÍA DE LA PRESIDENCIA
+
+Página núm. 8 Se vi lla, 24 de diciembre 2009 tonomía de Andalucía). La atribución competencial en materia de juego se contiene en el artículo 81, en lo referente a la actividad, y en el artículo 178, en lo concerniente a su consideración como fuente de ingreso. De igual modo, el artículo 55 atribuye.
+
+a la Comunidad Autónoma la competencia exclusiva en materia de sanidad interior y de ordenación farmacéutica, que comprende la potestad legislativa y ejecutiva dentro del marco de la normativa estatal básica dictada al amparo del artículo 149.1.16.ª de la Constitución; en materia de Medio Ambiente, espacios protegidos y sostenibilidad el artículo 57 atribuye a la Comunidad Autónoma competencia exclusiva, sin perjuicio de lo dispuesto en el artículo 149.1.23 de la Constitución.
+**II**
+En Andalucía, la transposición de la Directiva afecta a las tres leyes que regulan la actividad comercial y ferial: la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía; la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante y la Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía, por lo que se ha escogido como técnica legislativa la opción de una modificación conjunta para que se visualice con mayor nitidez el objeto y alcance de la adaptación realizada, así como por economía procedimental. Los principales elementos de la legislación comercial y ferial que se eliminan para dar cumplimiento a los requerimientos de la Directiva son:
+a) La licencia comercial específica previa a la licencia municipal de los grandes establecimientos comerciales, prevista en el Título IV de la Ley 1/1996, de 10 de enero.
+b) Los límites inferiores a 2.500 metros cuadrados de superficie útil de exposición y venta para la consideración de gran superficie minorista.
+c) Las pruebas económicas para fundamentar la decisión de otorgamiento de la licencia comercial específica.
+d) Las disposiciones que permitían la intervención en el procedimiento de autorización de personas que representan los intereses comerciales ya presentes en el mercado.
+e) La licencia comercial específica para los establecimientos de descuento y de venta de restos de fábrica con una superficie útil de exposición y venta mínima de 400 metros cuadrados.
+f) La tasa autonómica por la tramitación de la licencia comercial.
 g) Las inscripciones previas en el Registro de Comerciantes y Actividades Comerciales de Andalucía, en el Registro General de Comerciantes Ambulantes de Andalucía y en el Registro de Ferias Comerciales Oficiales de Andalucía.
-h) Los obstáculos a la libertad de establecimiento de los 
-prestadores pertenecientes a los Estados miembros, y a la libre circulación de servicios entre los Estados miembros en la 
-organización de las ferias comerciales.
-El presente Decreto-Ley, que modifica profundamente la 
-legislación comercial y ferial andaluza, da un paso más incorporando la perspectiva territorial y urbanística a la planificación comercial, mediante la redacción de un nuevo Título IV, y la introducción de modificaciones sustantivas en los Títulos I y II de la 
-Ley 1/1996, de 10 de enero, para profundizar en la coherencia 
-entre la actividad (dimensión sectorial), el propio medio en que 
-se inserta (dimensión territorial ambiental) y el uso que se hace 
-del suelo (dimensión urbanística). Por tanto, la planificación que 
-se realiza es de naturaleza estrictamente territorial y urbanística, por lo que no le es de aplicación la Directiva de Servicios, tal 
-como se aclara en el considerando nueve de la misma.
-Respecto a la regulación de los horarios comerciales, 
-se realiza una clarificación de los párrafos c) y e) del artículo 
-20 de la Ley 1/1996, de 10 de enero, relativos a los establecimientos con libertad horaria, con el objeto de evitar interpretaciones que vayan contra la finalidad de la Ley.
-El nuevo Título IV de la Ley 1/1996, de 10 de enero, cambia por completo el régimen jurídico de los establecimientos 
-comerciales en Andalucía, especialmente el de las grandes superficies minoristas. A tal efecto su nuevo Capítulo I procede a 
-delimitar los conceptos y definiciones que van a ser utilizados 
-para lograr una mayor precisión, destacando la definición de las 
-grandes superficies minoristas como cualquier establecimiento 
-minorista con una superficie útil de exposición y venta superior 
-a los 2.500 metros cuadrados. En la sección 2.ª de este Capítulo, se establecen criterios de aplicación general, como el de la 
-cohesión y equilibrio territorial, la defensa de la ciudad compacta, la cercanía y fácil acceso de la oferta comercial para los consumidores, la previsión de la red viaria o la conexión con redes 
-de transporte público, entre otros. Asimismo, se determina el 
-contenido mínimo de la planificación comercial y urbanística. 
-El Capítulo II regula el Plan de Establecimientos Comerciales cuyo objeto es contribuir al emplazamiento eficiente de 
-las grandes superficies minoristas mediante la delimitación de 
-ámbitos aptos para su localización, teniendo carácter preferente para el planeamiento urbanístico. La determinación de 
-los ámbitos potencialmente aptos para las grandes superficies 
-minoristas se lleva a cabo mediante la aplicación de criterios 
-territoriales que den cobertura a todas las exigencias y requisitos físicos y ambientales. 
-El Plan de Establecimientos Comerciales es un plan con 
-incidencia en la Ordenación del Territorio, a los efectos previstos en la Ley 1/1994, de 11 de enero, de Ordenación del 
-Territorio de la Comunidad Autónoma de Andalucía.
-En la Sección 1.ª del Capítulo III se determinan los criterios 
-para el emplazamiento urbanístico de las grandes superficies minoristas, destacando el principio básico de que la planificación urbanística deberá preceder a la instalación, y en su caso autorización, en función de los ámbitos aptos determinados por el Plan de 
-Establecimientos Comerciales. Cualquiera otra previsión deberá 
-ser motivada en el mismo instrumento de planeamiento. A estos 
-efectos, el planeamiento urbanístico deberá definir el uso pormenorizado de grandes superficies minoristas, no pudiendo este 
-tipo de establecimiento instalarse en ningún otro uso de suelo. 
-Igualmente, podrá identificar los espacios comerciales susceptibles de rehabilitación, valorando su accesibilidad, peatonalización, 
-aparcamientos y mobiliario urbano, y programar, en su caso, la 
-rehabilitación mediante actuaciones integradas de reforma. 
-En la Sección 2.ª de este mismo Capítulo se establece una 
-nueva regulación del informe comercial relativo a los instrumentos de planeamiento urbanístico, que deberá pronunciarse 
-en relación con los intereses generales afectados por las previsiones sobre grandes superficies minoristas que contengan.
-Una novedad que contiene la Sección 3.ª de este capítulo es la instauración del Certificado de Calidad Municipal del 
-Comercio de Andalucía, para los municipios que hayan adaptado su Plan General de Ordenación Urbanística a las determinaciones de este Decreto-Ley y al Plan de Establecimientos 
-Comerciales, diseñando una estrategia para el mantenimiento 
-y mejora de la estructura comercial urbana y previendo zonas 
-de rehabilitación de espacios comerciales.
-El Capítulo IV regula de forma novedosa la autorización 
-de las grandes superficies minoristas, caracterizadas tanto 
-por sus dimensiones como por el acceso masivo de las personas consumidoras. El control previo, atendiendo al principio de 
-simplificación administrativa y ventanilla única, se delega en 
-los municipios y se incardina dentro de la licencia municipal 
-de obras de grandes superficies minoristas, al mismo tiempo 
-que los criterios para su ejercicio son estrictamente territoriales, urbanísticos y medio ambientales. Destaca en este único 
-procedimiento un informe autonómico preceptivo de la Consejería competente en materia de comercio interior sobre la 
-adecuación del proyecto a los criterios para la implantación de 
-las grandes superficies minoristas establecidos en este Decreto-Ley y al contenido del Plan de Establecimientos Comerciales, motivado por el carácter supramunicipal de la incidencia 
+h) Los obstáculos a la libertad de establecimiento de los prestadores pertenecientes a los Estados miembros, y a la libre circulación de servicios entre los Estados miembros en la organización de las ferias comerciales. El presente Decreto-Ley, que modifica profundamente la legislación comercial y ferial andaluza, da un paso más incorporando la perspectiva territorial y urbanística a la planificación comercial, mediante la redacción de un nuevo Título IV, y la introducción de modificaciones sustantivas en los Títulos I y II de la Ley 1/1996, de 10 de enero, para profundizar en la coherencia entre la actividad (dimensión sectorial), el propio medio en que se inserta (dimensión territorial ambiental) y el uso que se hace del suelo (dimensión urbanística). Por tanto, la planificación que se realiza es de naturaleza estrictamente territorial y urbanística, por lo que no le es de aplicación la Directiva de Servicios, tal como se aclara en el considerando nueve de la misma. Respecto a la regulación de los horarios comerciales, se realiza una clarificación de los párrafos c) y e) del artículo 20 de la Ley 1/1996, de 10 de enero, relativos a los establecimientos con libertad horaria, con el objeto de evitar interpretaciones que vayan contra la finalidad de la Ley. El nuevo Título IV de la Ley 1/1996, de 10 de enero, cambia por completo el régimen jurídico de los establecimientos comerciales en Andalucía, especialmente el de las grandes superficies minoristas. A tal efecto su nuevo Capítulo I procede a delimitar los conceptos y definiciones que van a ser utilizados para lograr una mayor precisión, destacando la definición de las grandes superficies minoristas como cualquier establecimiento minorista con una superficie útil de exposición y venta superior a los 2.500 metros cuadrados. En la sección 2.ª de este Capítulo, se establecen criterios de aplicación general, como el de la cohesión y equilibrio territorial, la defensa de la ciudad compacta, la cercanía y fácil acceso de la oferta comercial para los consumidores, la previsión de la red viaria o la conexión con redes de transporte público, entre otros. Asimismo, se determina el contenido mínimo de la planificación comercial y urbanística. El Capítulo II regula el Plan de Establecimientos Comerciales cuyo objeto es contribuir al emplazamiento eficiente de las grandes superficies minoristas mediante la delimitación de ámbitos aptos para su localización, teniendo carácter preferente para el planeamiento urbanístico. La determinación de los ámbitos potencialmente aptos para las grandes superficies minoristas se lleva a cabo mediante la aplicación de criterios territoriales que den cobertura a todas las exigencias y requisitos físicos y ambientales. El Plan de Establecimientos Comerciales es un plan con incidencia en la Ordenación del Territorio, a los efectos previstos en la Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía. En la Sección 1.ª del Capítulo III se determinan los criterios para el emplazamiento urbanístico de las grandes superficies minoristas, destacando el principio básico de que la planificación urbanística deberá preceder a la instalación, y en su caso autorización, en función de los ámbitos aptos determinados por el Plan de Establecimientos Comerciales. Cualquiera otra previsión deberá ser motivada en el mismo instrumento de planeamiento. A estos efectos, el planeamiento urbanístico deberá definir el uso pormenorizado de grandes superficies minoristas, no pudiendo este tipo de establecimiento instalarse en ningún otro uso de suelo. Igualmente, podrá identificar los espacios comerciales susceptibles de rehabilitación, valorando su accesibilidad, peatonalización, aparcamientos y mobiliario urbano, y programar, en su caso, la rehabilitación mediante actuaciones integradas de reforma. En la Sección 2.ª de este mismo Capítulo se establece una nueva regulación del informe comercial relativo a los instrumentos de planeamiento urbanístico, que deberá pronunciarse en relación con los intereses generales afectados por las previsiones sobre grandes superficies minoristas que contengan. Una novedad que contiene la Sección 3.ª de este capítulo es la instauración del Certificado de Calidad Municipal del Comercio de Andalucía, para los municipios que hayan adaptado su Plan General de Ordenación Urbanística a las determinaciones de este Decreto-Ley y al Plan de Establecimientos Comerciales, diseñando una estrategia para el mantenimiento y mejora de la estructura comercial urbana y previendo zonas de rehabilitación de espacios comerciales. El Capítulo IV regula de forma novedosa la autorización de las grandes superficies minoristas, caracterizadas tanto por sus dimensiones como por el acceso masivo de las personas consumidoras. El control previo, atendiendo al principio de simplificación administrativa y ventanilla única, se delega en los municipios y se incardina dentro de la licencia municipal de obras de grandes superficies minoristas, al mismo tiempo que los criterios para su ejercicio son estrictamente territoriales, urbanísticos y medio ambientales. Destaca en este único procedimiento un informe autonómico preceptivo de la Consejería competente en materia de comercio interior sobre la adecuación del proyecto a los criterios para la implantación de las grandes superficies minoristas establecidos en este Decreto-Ley y al contenido del Plan de Establecimientos Comerciales, motivado por el carácter supramunicipal de la incidencia
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 9
-territorial de estos establecimientos. Conviene destacar que la 
-licencia municipal de obras es plenamente compatible con la 
-Directiva de Servicios.
-En los dos artículos siguientes se modifican la Ley 
-9/1988, de 25 de noviembre, del Comercio Ambulante y la 
-Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía.
-La Ley 9/1988, de 25 de noviembre, es la norma que ha 
-venido regulando el comercio ambulante durante los últimos 
-veinte años. Su aprobación se vio justificada por el crecimiento que experimentó dicho comercio en el último tercio del siglo 
-XX, lo que hizo necesaria una regulación jurídica en la que 
-la Comunidad Autónoma Andaluza fue pionera. No obstante, 
-esta actividad ha continuado creciendo y diversificándose a lo 
-largo de estos años, como se aprecia en el último censo realizado en el año 2006, cuando los mercadillos andaluces alcanzaban la cifra de 889 y los comerciantes inscritos en el Registro General de Comerciantes Ambulantes ascendían a cerca 
-de 25.000. Por otra parte, el comercio ambulante, al igual que 
-el comercio establecido y los demás sectores económicos, no 
-ha cesado en su diversificación, aumentando las mercancías 
-comercializadas, así como los cauces para su venta. Por ello, 
-se hace preciso abordar una nueva regulación que se adapte a 
-la realidad comercial actual y que configure el comercio ambulante como una forma más de actividad comercial.
-El ejercicio del comercio ambulante, por su propia naturaleza, tiene lugar en suelo público, lo que conlleva la necesidad 
-de contar con autorización previa de los Ayuntamientos donde 
-se vaya a llevar a cabo esa actividad. Este régimen de autorización previa que se establece en el Decreto-Ley viene plenamente justificado por razones de orden público, protección de 
-los consumidores, protección civil, salud pública, protección 
-de los destinatarios de los servicios, del medio ambiente y del 
-entorno urbano. 
-Otra novedad importante que introduce este Decreto-Ley 
-es la desaparición, como requisito previo al ejercicio del comercio ambulante en la Comunidad Autónoma de Andalucía, 
-de la inscripción obligatoria en el Registro General de Comerciantes Ambulantes y la obtención del carné profesional, pasando a ser la inscripción voluntaria. Dicha inscripción voluntaria puede suponer una serie de incentivos para el ejercicio 
-de la actividad. 
-También se introducen algunas modificaciones en el régimen sancionador, con el objeto de garantizar de una manera más eficiente el cumplimiento de las disposiciones que se 
-contienen en la ley. De este modo, se introducen criterios de 
-graduación para la imposición de las sanciones y se establece 
-la posibilidad de acordar medidas provisionales, como la incautación de productos objeto de comercio no autorizados, el 
-levantamiento inmediato o la incautación de los puestos.
-La Ley 3/1992, de 22 de octubre, ha sentado las bases 
-normativas de las ferias que con carácter oficial se han celebrado en Andalucía. Dicha norma preveía la exclusividad de las 
-Instituciones Feriales como organizadoras de las ferias comerciales oficiales, debiendo tener una determinada personalidad 
-jurídica y un recinto ferial adecuado, limitando su ámbito territorial de actuación a la provincia. La Consejería competente 
-en materia de comercio interior participaba en sus órganos de 
-gobierno, correspondiendo el reconocimiento y la aprobación 
-de sus estatutos al Consejo de Gobierno. 
-En dicha ley, se determinaba que era requisito para la 
-celebración de las ferias comerciales oficiales obtener una 
-autorización previa, valorando la administración, entre otros, 
-el impacto comercial o el resultado y el balance de ediciones 
-anteriores, previo informe del Comité Consultivo de Ferias Comerciales Oficiales de Andalucía integrado, entre otros, por los 
-operadores económicos presentes en el mercado.
-La Directiva 2006/123/CE propugna la eliminación de obstáculos que se opongan a la libre circulación de los servicios y 
-prohíbe autorizaciones administrativas previas para el acceso a 
-una actividad, salvo que su necesidad esté justificada por una 
-razón imperiosa de interés general y no se pueda conseguir el 
-objetivo perseguido, mediante una medida menos restrictiva.
-Por su parte la Comunicación interpretativa de la Comisión referente a la aplicación de las reglas de mercado interior 
-al sector de las ferias y exposiciones, ya analizaba determinadas medidas incluidas en esta Ley 3/1992, de 22 de octubre, 
-concluyendo las que estaban justificadas o no, bajo los criterios de necesidad y proporcionalidad.
-Es por ello que la modificación de la Ley 3/1992, de 22 
-de octubre, salvaguarda la libertad para celebrar ferias comerciales en Andalucía, pudiendo cualquier operador ser entidad 
-organizadora, instaurando el reconocimiento oficial de las ferias con vocación de continuidad, garantías, prestigio y calidad 
-mínimos, y estableciendo un registro de oficio con todas las 
-ferias que se planifiquen en un calendario de ferias comerciales oficiales. 
-III
-En el artículo cuarto se recogen las modificaciones que 
-es necesario introducir en la vigente Ley 12/1999, de 15 de 
-diciembre, del Turismo, para garantizar su compatibilidad con 
-la Directiva de Servicios en una serie de procedimientos.
-La Ley del Turismo experimenta una profunda reforma en 
-la ordenación de la actividad turística tradicionalmente basada en el esquema clásico de intervención jurídico-público de 
-«policía administrativa». Esto es, mediante el establecimiento 
-de una reglamentación estricta de requisitos iniciales exigibles 
-para el ejercicio de la actividad controlables a priori mediante el instituto de la autorización administrativa; lo que se ve 
-acompañado por el despliegue de una actividad administrativa 
-de control e inspección y, en su caso, sancionadora por parte 
-de las Administraciones competentes.
-Puede sostenerse que, con la reforma que opera el presente Decreto-Ley, el régimen general de establecimiento para 
-el ejercicio de una actividad de servicios pasa de la sujeción 
-a autorización previa a una mera declaración responsable que 
-facilite el control de la actividad.
-En definitiva, de un control previo de la Administración 
-basado en la autorización previa se pasa a un control a posteriori basado en la actuación inspectora. 
-En este ámbito, la inscripción en el Registro de Turismo 
-de Andalucía pierde su carácter autorizatorio para desempeñar un papel necesario como instrumento de información para 
-la actuación inspectora así como de fuente estadística. Ello 
-conlleva una modificación considerable del procedimiento de 
-inscripción en el que ésta se conceptúa como un acto debido 
-de la Administración que trae causa de la mera declaración 
-responsable.
-La transposición de la Directiva también incide en la concepción tradicional de determinados servicios turísticos, especialmente, la intermediación turística realizada por agencias 
-de viajes a las que se asigna, con carácter exclusivo, la organización y/o comercialización de viajes combinados de acuerdo 
-con lo establecido por el Real Decreto Legislativo 1/2007 de 
-16 de noviembre, por el que se aprueba el texto refundido de 
-la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias. Finalmente, se da una 
-nueva redacción a la habilitación de guías de turismo acorde 
-con los principios de la Directiva.
-IV
-En los artículos siguientes se regulan las modificaciones 
-a introducir en las siguientes leyes andaluzas: la Ley 8/2001, 
-de 12 de julio, de Carreteras de Andalucía; la Ley 8/2007, de 
-5 de octubre, de Museos y Colecciones Museográficas de Andalucía; la Ley 14/2007, de 26 de noviembre, del Patrimonio 
-Histórico de Andalucía; la Ley 2/1986, de 19 de abril, del Jue-
+Sevilla, 24 de diciembre 2009 Página núm. 9 territorial de estos establecimientos. Conviene destacar que la licencia municipal de obras es plenamente compatible con la Directiva de Servicios. En los dos artículos siguientes se modifican la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante y la Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía. La Ley 9/1988, de 25 de noviembre, es la norma que ha venido regulando el comercio ambulante durante los últimos veinte años. Su aprobación se vio justificada por el crecimiento que experimentó dicho comercio en el último tercio del siglo XX, lo que hizo necesaria una regulación jurídica en la que la Comunidad Autónoma Andaluza fue pionera. No obstante, esta actividad ha continuado creciendo y diversificándose a lo largo de estos años, como se aprecia en el último censo realizado en el año 2006, cuando los mercadillos andaluces alcanzaban la cifra de 889 y los comerciantes inscritos en el Registro General de Comerciantes Ambulantes ascendían a cerca de 25.000. Por otra parte, el comercio ambulante, al igual que el comercio establecido y los demás sectores económicos, no ha cesado en su diversificación, aumentando las mercancías comercializadas, así como los cauces para su venta. Por ello, se hace preciso abordar una nueva regulación que se adapte a la realidad comercial actual y que configure el comercio ambulante como una forma más de actividad comercial. El ejercicio del comercio ambulante, por su propia naturaleza, tiene lugar en suelo público, lo que conlleva la necesidad de contar con autorización previa de los Ayuntamientos donde se vaya a llevar a cabo esa actividad. Este régimen de autorización previa que se establece en el Decreto-Ley viene plenamente justificado por razones de orden público, protección de los consumidores, protección civil, salud pública, protección de los destinatarios de los servicios, del medio ambiente y del entorno urbano. Otra novedad importante que introduce este Decreto-Ley es la desaparición, como requisito previo al ejercicio del comercio ambulante en la Comunidad Autónoma de Andalucía, de la inscripción obligatoria en el Registro General de Comerciantes Ambulantes y la obtención del carné profesional, pasando a ser la inscripción voluntaria. Dicha inscripción voluntaria puede suponer una serie de incentivos para el ejercicio de la actividad. También se introducen algunas modificaciones en el régimen sancionador, con el objeto de garantizar de una manera más eficiente el cumplimiento de las disposiciones que se contienen en la ley. De este modo, se introducen criterios de graduación para la imposición de las sanciones y se establece la posibilidad de acordar medidas provisionales, como la incautación de productos objeto de comercio no autorizados, el levantamiento inmediato o la incautación de los puestos. La Ley 3/1992, de 22 de octubre, ha sentado las bases normativas de las ferias que con carácter oficial se han celebrado en Andalucía. Dicha norma preveía la exclusividad de las Instituciones Feriales como organizadoras de las ferias comerciales oficiales, debiendo tener una determinada personalidad jurídica y un recinto ferial adecuado, limitando su ámbito territorial de actuación a la provincia. La Consejería competente en materia de comercio interior participaba en sus órganos de gobierno, correspondiendo el reconocimiento y la aprobación de sus estatutos al Consejo de Gobierno. En dicha ley, se determinaba que era requisito para la celebración de las ferias comerciales oficiales obtener una autorización previa, valorando la administración, entre otros, el impacto comercial o el resultado y el balance de ediciones anteriores, previo informe del Comité Consultivo de Ferias Comerciales Oficiales de Andalucía integrado, entre otros, por los operadores económicos presentes en el mercado. La Directiva 2006/123/CE propugna la eliminación de obstáculos que se opongan a la libre circulación de los servicios y prohíbe autorizaciones administrativas previas para el acceso a una actividad, salvo que su necesidad esté justificada por una razón imperiosa de interés general y no se pueda conseguir el objetivo perseguido, mediante una medida menos restrictiva. Por su parte la Comunicación interpretativa de la Comisión referente a la aplicación de las reglas de mercado interior al sector de las ferias y exposiciones, ya analizaba determinadas medidas incluidas en esta Ley 3/1992, de 22 de octubre, concluyendo las que estaban justificadas o no, bajo los criterios de necesidad y proporcionalidad. Es por ello que la modificación de la Ley 3/1992, de 22 de octubre, salvaguarda la libertad para celebrar ferias comerciales en Andalucía, pudiendo cualquier operador ser entidad organizadora, instaurando el reconocimiento oficial de las ferias con vocación de continuidad, garantías, prestigio y calidad mínimos, y estableciendo un registro de oficio con todas las ferias que se planifiquen en un calendario de ferias comerciales oficiales.
+**III**
+En el artículo cuarto se recogen las modificaciones que es necesario introducir en la vigente Ley 12/1999, de 15 de diciembre, del Turismo, para garantizar su compatibilidad con la Directiva de Servicios en una serie de procedimientos. La Ley del Turismo experimenta una profunda reforma en la ordenación de la actividad turística tradicionalmente basada en el esquema clásico de intervención jurídico-público de «policía administrativa». Esto es, mediante el establecimiento de una reglamentación estricta de requisitos iniciales exigibles para el ejercicio de la actividad controlables a priori mediante el instituto de la autorización administrativa; lo que se ve acompañado por el despliegue de una actividad administrativa de control e inspección y, en su caso, sancionadora por parte de las Administraciones competentes. Puede sostenerse que, con la reforma que opera el presente Decreto-Ley, el régimen general de establecimiento para el ejercicio de una actividad de servicios pasa de la sujeción a autorización previa a una mera declaración responsable que facilite el control de la actividad. En definitiva, de un control previo de la Administración basado en la autorización previa se pasa a un control a posteriori basado en la actuación inspectora. En este ámbito, la inscripción en el Registro de Turismo de Andalucía pierde su carácter autorizatorio para desempeñar un papel necesario como instrumento de información para la actuación inspectora así como de fuente estadística. Ello conlleva una modificación considerable del procedimiento de inscripción en el que ésta se conceptúa como un acto debido de la Administración que trae causa de la mera declaración responsable. La transposición de la Directiva también incide en la concepción tradicional de determinados servicios turísticos, especialmente, la intermediación turística realizada por agencias de viajes a las que se asigna, con carácter exclusivo, la organización y/o comercialización de viajes combinados de acuerdo con lo establecido por el Real Decreto Legislativo 1/2007 de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias. Finalmente, se da una nueva redacción a la habilitación de guías de turismo acorde con los principios de la Directiva.
+**IV**
+En los artículos siguientes se regulan las modificaciones a introducir en las siguientes leyes andaluzas: la Ley 8/2001, de 12 de julio, de Carreteras de Andalucía; la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía; la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía; la Ley 2/1986, de 19 de abril, del JuePágina núm. 10 Se vi lla, 24 de diciembre 2009 go y Apuestas de la Comunidad Autónoma de Andalucía; el Decreto Legislativo 1/2009, de 1 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos; la Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía y la Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía. La Ley 8/2001, de 12 de julio, de Carreteras de Andalucía, se modifica en su artículo 58 en relación con el procedimiento relativo al otorgamiento de autorización para la instalación, fuera de la zona de dominio público, de rótulos de establecimientos mercantiles o industriales, indicativos de la actividad que se desarrolla en los mismos, el cual queda sustituido por un régimen de comunicación previa por parte de la persona interesada. En concordancia con este nuevo régimen de comunicación previa, se modifica la infracción tipificada en los artículos 71.a) y 72..1.a) de la Ley. Las modificaciones a introducir en la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía, se refieren al procedimiento de autorización para la disolución de museos y colecciones museográficas, regulado en su artículo 12 y el procedimiento de notificación y autorización de. salida de fondos museísticos regulado en su artículo 36.3 El primero de estos procedimientos, relativo a la disolución de museos, consiste en la comprobación, por parte de la Administración competente en materia de museos, de que la extinción de la institución no comporta riesgo o peligro para la protección y conservación de los bienes culturales de la institución extinguida. Este procedimiento de autorización previa para la disolución de un museo quedará sustituido por una comunicación previa del titular del mismo indicando fecha de extinción, destino de los bienes y medidas de seguridad, para garantizar su protección y conservación. En concordancia con este nuevo régimen de comunicación previa, se modifica la infracción tipificada en el artículo 55.d) de la Ley. En el segundo de estos procedimientos, relativo a la notificación y autorización de salida de fondos museísticos, se modificará el artículo 36.3 de la Ley 8/2007, en el sentido de establecer un régimen único de control de los movimientos de fondos, desapareciendo la anterior distinción. El procedimiento único consistirá en la notificación previa de los movimientos de los fondos con indicación de las condiciones de seguridad que se establezcan reglamentariamente. Además, se recoge una modificación en relación con la autorización para actividades arqueológicas preventivas, y aun cuando estas actividades están reguladas en el artículo 59 de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía, se estima que la modificación normativa precisa para que el régimen de autorización no resulte ni directa, ni indirectamente discriminatorio, no implica la modificación del artículo 59 , del que  por sí mismo no se sigue discriminación. alguna, sino del artículo 53, por la remisión que éste efectúa al régimen de autorizaciones previsto en el mismo Título de la citada Ley. En las reformas introducidas en la Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía se suprime la exigencia de autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna, cualquiera que fuere el procedimiento o sistema a través del que se realice. La supresión de la autorización administrativa previa para la organización, celebración y desarrollo de las citadas combinaciones aleatorias, requiere la reforma del artículo 47 del Decreto Legislativo 1/2009, de 1 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos. Igualmente, se modifica el artículo 68.3 de Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía, en cuanto al requisito de los almacenes mayoristas de distribución de medicamentos de disponer de un número adicional suficiente de farmacéuticos adicionales para garantizar su adecuado funcionamiento. Dicha modificación viene determinada, a su vez, por la modificación que la Ley estatal de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, realiza en el párrafo segundo del artículo 71 de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios. Por último, se modifica el artículo 29 de la Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía para eliminar el régimen de autorización de los organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética, las restricciones a la forma jurídica que deben adoptar los prestadores de servicios; así como incluir la exigencia legal del seguro de responsabilidad civil.
+**V**
+En los artículos siguientes se regulan las modificaciones a introducir en las leyes medioambientales andaluzas: Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de Espacios Naturales Protegidos de Andalucía; Ley 2/1992, de 15 de junio, Forestal de Andalucía; Ley 5/1999, de 29 de junio, de Prevención y lucha contra los incendios forestales; Ley 8/1999, de 27 de octubre, de Régimen Jurídico del Espacio Natural de Doñana y en la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres. Las reformas a introducir en las citadas leyes responden a la necesidad de tipificar determinadas infracciones en los casos en los que por vía reglamentaria se establezcan mecanismos alternativos al régimen de autorización para determinadas y concretas actuaciones siempre que no pongan en peligro los valores a proteger. Con carácter adicional a las reformas anteriores, se modifican la Ley 2/1992, de 15 de junio, Forestal de Andalucía y la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres con el fin de eliminar requisitos prohibidos por la Directiva de carácter discriminatorio.
+**VI**
+La reforma pretendida exige acudir a la figura del DecretoLey prevista en el artículo 110 l.
 
-Página núm. 10 
-Se vi lla, 24 de diciembre 2009
-go y Apuestas de la Comunidad Autónoma de Andalucía; el 
-Decreto Legislativo 1/2009, de 1 de septiembre, por el que se 
-aprueba el Texto Refundido de las disposiciones dictadas por 
-la Comunidad Autónoma de Andalucía en materia de tributos 
-cedidos; la Ley 22/2007, de 18 de diciembre, de Farmacia de 
-Andalucía y la Ley 2/2007, de 27 de marzo, de fomento de 
-las energías renovables y del ahorro y eficiencia energética de 
-Andalucía.
-La Ley 8/2001, de 12 de julio, de Carreteras de Andalucía, se modifica en su artículo 58 en relación con el procedimiento relativo al otorgamiento de autorización para la 
-instalación, fuera de la zona de dominio público, de rótulos de 
-establecimientos mercantiles o industriales, indicativos de la 
-actividad que se desarrolla en los mismos, el cual queda sustituido por un régimen de comunicación previa por parte de la 
-persona interesada. En concordancia con este nuevo régimen 
-de comunicación previa, se modifica la infracción tipificada en 
-los artículos 71.a) y 72..1.a) de la Ley.
-Las modificaciones a introducir en la Ley 8/2007, de 5 de 
-octubre, de Museos y Colecciones Museográficas de Andalucía, se refieren al procedimiento de autorización para la disolución de museos y colecciones museográficas, regulado en su 
+Estatuto de Autonomía para Andalucía, por razón de la extraordinaria y urgente necesidad de llevar a cabo la regulación que el mismo contiene. La extraordinaria y urgente necesidad de la norma responde, en primer lugar, a la necesidad de establecer en Andalucía, antes del 28 de diciembre de 2009, un nuevo marco legislativo en el sector servicios conforme con el principio de libre acceso y ejercicio que establecen la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, y el proyecto de Ley de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio. En segundo lugar, está justificada por la exigencia de garantizar seguridad jurídica a los prestadores de servicios que quieran establecerse o ejercer su actividad en Andalucía, ya que de no aprobarse por esta vía, la disposición derogatoria de la Ley 17/2009, de 23 de noviembre, dará lugar a un desplazamiento de la normativa andaluza que resulte incompatible con los Capítulos II y III, el artículo 17 1 del Capítulo IV y los artículos 24 y 25 del Capítulo. Sevilla, 24 de diciembre 2009 Página núm. 11 V de dicha Ley. Esta extraordinaria y urgente necesidad se fundamenta igualmente en la entrada en vigor de la Ley 17/2009, de 23 de noviembre, conforme a su Disposición Final Sexta, el 27 de diciembre de 2009,  y en el mandato que recoge la
 
-#### artículo 12 y el procedimiento de notificación y autorización de 
+#### Disposición final quinta. de la citada Ley, en la que señala que.
 
-salida de fondos museísticos regulado en su artículo 36.3
-El primero de estos procedimientos, relativo a la disolución de museos, consiste en la comprobación, por parte de la 
-Administración competente en materia de museos, de que la 
-extinción de la institución no comporta riesgo o peligro para la 
-protección y conservación de los bienes culturales de la institución extinguida. Este procedimiento de autorización previa 
-para la disolución de un museo quedará sustituido por una 
-comunicación previa del titular del mismo indicando fecha de 
-extinción, destino de los bienes y medidas de seguridad, para 
-garantizar su protección y conservación. En concordancia con 
-este nuevo régimen de comunicación previa, se modifica la 
-infracción tipificada en el artículo 55.d) de la Ley.
-En el segundo de estos procedimientos, relativo a la notificación y autorización de salida de fondos museísticos, se 
-modificará el artículo 36.3 de la Ley 8/2007, en el sentido de 
-establecer un régimen único de control de los movimientos de 
-fondos, desapareciendo la anterior distinción. El procedimiento único consistirá en la notificación previa de los movimientos 
-de los fondos con indicación de las condiciones de seguridad 
-que se establezcan reglamentariamente.   
-Además, se recoge una modificación en relación con la 
-autorización para actividades arqueológicas preventivas, y aun 
-cuando estas actividades están reguladas en el artículo 59 de 
-la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico 
-de Andalucía, se estima que la modificación normativa precisa 
-para que el régimen de autorización no resulte ni directa, ni 
-indirectamente discriminatorio, no implica la modificación del 
-artículo 59, del que  por sí mismo no se sigue discriminación 
-alguna, sino del artículo 53, por la remisión que éste efectúa 
-al régimen de autorizaciones previsto en el mismo Título de la 
-citada Ley.
-En las reformas introducidas en la Ley 2/1986, de 19 de 
-abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía se suprime la exigencia de autorización administrativa 
-previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, 
-cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, siempre que la participación del público en 
-estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna, cualquiera que fuere el 
-procedimiento o sistema a través del que se realice. 
-La supresión de la autorización administrativa previa para 
-la organización, celebración y desarrollo de las citadas combinaciones aleatorias, requiere la reforma del artículo 47 del 
-Decreto Legislativo 1/2009, de 1 de septiembre, por el que se 
-aprueba el Texto Refundido de las disposiciones dictadas por 
-la Comunidad Autónoma de Andalucía en materia de tributos 
-cedidos.
-Igualmente, se modifica el artículo 68.3 de Ley 22/2007, 
-de 18 de diciembre, de Farmacia de Andalucía, en cuanto 
-al requisito de los almacenes mayoristas de distribución de 
-medicamentos de disponer de un número adicional suficiente de farmacéuticos adicionales para garantizar su adecuado 
-funcionamiento. Dicha modificación viene determinada, a su 
-vez, por la modificación que la Ley estatal de modificación de 
-diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, realiza en 
-el párrafo segundo del artículo 71 de la Ley 29/2006, de 26 
-de julio, de garantías y uso racional de los medicamentos y 
-productos sanitarios.
-Por último, se modifica el artículo 29 de la Ley 2/2007, 
-de 27 de marzo, de fomento de las energías renovables y del 
-ahorro y eficiencia energética de Andalucía para eliminar el 
-régimen de autorización de los organismos colaboradores en 
-materia de energías renovables, ahorro y eficiencia energética, las restricciones a la forma jurídica que deben adoptar los 
-prestadores de servicios; así como incluir la exigencia legal del 
-seguro de responsabilidad civil.
-V
-En los artículos siguientes se regulan las modificaciones 
-a introducir en las leyes medioambientales andaluzas: Ley 
-2/1989, de 18 de julio, por la que se aprueba el Inventario de 
-Espacios Naturales Protegidos de Andalucía; Ley 2/1992, de 
-15 de junio, Forestal de Andalucía; Ley 5/1999, de 29 de junio, de Prevención y lucha contra los incendios forestales; Ley 
-8/1999, de 27 de octubre, de Régimen Jurídico del Espacio 
-Natural de Doñana y en la Ley 8/2003, de 28 de octubre, de 
-la flora y la fauna silvestres.
-Las reformas a introducir en las citadas leyes responden 
-a la necesidad de tipificar determinadas infracciones en los 
-casos en los que por vía reglamentaria se establezcan mecanismos alternativos al régimen de autorización para determinadas y concretas actuaciones siempre que no pongan en 
-peligro los valores a proteger.
- Con carácter adicional a las reformas anteriores, se modifican la Ley 2/1992, de 15 de junio, Forestal de Andalucía y 
-la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres con el fin de eliminar requisitos prohibidos por la Directiva 
-de carácter discriminatorio.
-VI
-La reforma pretendida exige acudir a la figura del DecretoLey prevista en el artículo 110 del Estatuto de Autonomía para 
-Andalucía, por razón de la extraordinaria y urgente necesidad 
-de llevar a cabo la regulación que el mismo contiene. La extraordinaria y urgente necesidad de la norma responde, en primer lugar, a la necesidad de establecer en Andalucía, antes 
-del 28 de diciembre de 2009, un nuevo marco legislativo en 
-el sector servicios conforme con el principio de libre acceso 
-y ejercicio que establecen la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, 
-relativa a los servicios en el mercado interior, la Ley 17/2009, 
-de 23 de noviembre, sobre el libre acceso a las actividades de 
-servicios y su ejercicio, y el proyecto de Ley de modificación 
-de diversas leyes para su adaptación a la Ley sobre el libre 
-acceso a las actividades de servicios y su ejercicio. En segundo 
-lugar, está justificada por la exigencia de garantizar seguridad 
-jurídica a los prestadores de servicios que quieran establecerse 
-o ejercer su actividad en Andalucía, ya que de no aprobarse por 
-esta vía, la disposición derogatoria de la Ley 17/2009, de 23 
-de noviembre, dará lugar a un desplazamiento de la normativa 
-andaluza que resulte incompatible con los Capítulos II y III, el 
+las Comunidades Autónomas comunicarán a la Administración General del Estado, antes de 26 de diciembre de 2009, las disposiciones legales y reglamentarias de su competencia que hubieran modificado para adaptar su contenido a lo establecido en la Directiva y en la Ley 17/2009, de 23 de noviembre, a fin de hacer posible el cumplimiento de la obligación contenida en el artículo 44 de la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006. Por todo ello, en ejercicio de la facultad concedida por el artículo 110 del Estatuto de Autonomía para Andalucía, a propuesta conjunta del Consejero de la Presidencia; del Consejero de Turismo, Comercio y Deporte, de la Consejera de Cultura; de la Consejera de Obras Públicas y Transporte; del Consejero de Gobernación, de la Consejera de Economía y Hacienda; de la Consejera de Salud; del Consejero de Innovación, Ciencia y Empresa y de la Consejera de Medio Ambiente y previa deliberación del Consejo de Gobierno en su reunión del día 22 de diciembre de 2009,
+DISPONGO:
+Artículo primero. Modificación de la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía. La Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía, queda modificada como sigue:
 
-#### artículo 17.1 del Capítulo IV y los artículos 24 y 25 del Capítulo 
+Uno. Se suprime el apartado 2 del artículo 6, quedando un solo apartado sin numerar. Dos. Se modifica el apartado 2 del artículo 7, se introduce un nuevo apartado 3, y los actuales apartados 3, 4 y 5 pasan a ser los apartados 4, 5 y 6, quedando redactados de la siguiente manera:
+«2. Las funciones inspectoras en materia de comercio interior en la Administración de la Junta de Andalucía serán ejercidas por la Consejería competente en materia de Comercio Interior, a la que se adscriben los correspondientes servicios de Inspección, sin perjuicio de las competencias que le puedan corresponder a otros órganos de la Administración de la Junta de Andalucía. La Consejería competente en materia de comercio interior, para el adecuado ejercicio de sus competencias, establecerá reglamentariamente las funciones, el régimen de actuación y la composición de los servicios de la inspección comercial, y elaborará los correspondientes planes de inspección, en coordinación con otros órganos de la Administración Estatal, Autonómica y Local.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 11
-V de dicha Ley. Esta extraordinaria y urgente necesidad se fundamenta igualmente en la entrada en vigor de la Ley 17/2009, 
-de 23 de noviembre, conforme a su Disposición Final Sexta, 
-el 27 de diciembre de 2009,  y en el mandato que recoge la 
+3. En los supuestos en que por motivos de especialidad técnica, por acumulación de tareas, por razones de urgencia o por insuficiencia de personas inspectoras, no sea posible llevar a cabo adecuadamente las tareas encomendadas a la inspección de comercio, la Dirección General competente en materia de comercio interior, podrá habilitar a otras personas funcionarias para su realización conforme a un procedimiento que garantice la formación especializada de éstas.
 
-#### Disposición Final Quinta de la citada Ley, en la que señala que 
+4. Las personas inspectoras así como las que tengan asignadas las funciones de inspección en los respectivos Ayuntamientos tendrán, en el ejercicio de su cometido, la consideración de autoridad pública, disfrutando como tales de la protección y facultades que a éstos les dispensa la normativa vigente.
 
-las Comunidades Autónomas comunicarán a la Administración 
-General del Estado, antes de 26 de diciembre de 2009, las 
-disposiciones legales y reglamentarias de su competencia que 
-hubieran modificado para adaptar su contenido a lo establecido en la Directiva y en la Ley 17/2009, de 23 de noviembre, a 
-fin de hacer posible el cumplimiento de la obligación contenida 
-en el artículo 44 de la Directiva 2006/123/CE, del Parlamento 
-Europeo y del Consejo, de 12 de diciembre de 2006.
-Por todo ello, en ejercicio de la facultad concedida por 
-el artículo 110 del Estatuto de Autonomía para Andalucía, a 
-propuesta conjunta del Consejero de la Presidencia; del Consejero de Turismo, Comercio y Deporte, de la Consejera de 
-Cultura; de la Consejera de Obras Públicas y Transporte; del 
-Consejero de Gobernación, de la Consejera de Economía y Hacienda; de la Consejera de Salud; del Consejero de Innovación, 
-Ciencia y Empresa y de la Consejera de Medio Ambiente y 
-previa deliberación del Consejo de Gobierno en su reunión del 
-día 22 de diciembre de 2009,
-D I S P O N G O
-Artículo primero. Modificación de la Ley 1/1996, de 10 de 
-enero, del Comercio Interior de Andalucía.
-La Ley 1/1996, de 10 de enero, del Comercio Interior de 
-Andalucía, queda modificada como sigue:
+5. Las actas de inspección deberán hacer constar: los datos identificativos del establecimiento o actividad de la persona interesada y de las personas inspectoras actuantes; los hechos constatados, con expresión del lugar, fecha y hora, destacando, en su caso, los hechos relevantes a efectos de tipificación de la infracción; la infracción que tales hechos puedan constituir con expresión del precepto infringido, graduación de la sanción y persona presuntamente responsable de aquélla; así como las alegaciones o aclaraciones efectuadas, en su caso, en el acto por la persona interesada.
 
-Uno. Se suprime el apartado 2 del artículo 6, quedando 
-un solo apartado sin numerar. 
-Dos. Se modifica el apartado 2 del artículo 7, se introduce 
-un nuevo apartado 3, y los actuales apartados 3, 4 y 5 pasan 
-a ser los apartados 4, 5 y 6, quedando redactados de la siguiente manera:
-«2. Las funciones inspectoras en materia de comercio interior en la Administración de la Junta de Andalucía serán ejercidas por la Consejería competente en materia de Comercio 
-Interior, a la que se adscriben los correspondientes servicios 
-de Inspección, sin perjuicio de las competencias que le puedan corresponder a otros órganos de la Administración de la 
-Junta de Andalucía.
-La Consejería competente en materia de comercio interior, para el adecuado ejercicio de sus competencias, establecerá reglamentariamente las funciones, el régimen de actuación y la composición de los servicios de la inspección comercial, y elaborará los correspondientes planes de inspección, en 
-coordinación con otros órganos de la Administración Estatal, 
-Autonómica y Local.
-3. En los supuestos en que por motivos de especialidad 
-técnica, por acumulación de tareas, por razones de urgencia 
-o por insuficiencia de personas inspectoras, no sea posible 
-llevar a cabo adecuadamente las tareas encomendadas a la 
-inspección de comercio, la Dirección General competente en 
-materia de comercio interior, podrá habilitar a otras personas 
-funcionarias para su realización conforme a un procedimiento 
-que garantice la formación especializada de éstas.
-4. Las personas inspectoras así como las que tengan 
-asignadas las funciones de inspección en los respectivos 
-Ayuntamientos tendrán, en el ejercicio de su cometido, la consideración de autoridad pública, disfrutando como tales de la 
-protección y facultades que a éstos les dispensa la normativa 
-vigente. 
-5. Las actas de inspección deberán hacer constar: los 
-datos identificativos del establecimiento o actividad de la persona interesada y de las personas inspectoras actuantes; los 
-hechos constatados, con expresión del lugar, fecha y hora, 
-destacando, en su caso, los hechos relevantes a efectos de 
-tipificación de la infracción; la infracción que tales hechos puedan constituir con expresión del precepto infringido, graduación de la sanción y persona presuntamente responsable de 
-aquélla; así como las alegaciones o aclaraciones efectuadas, 
-en su caso, en el acto por la persona interesada.
-6. Las actas de la inspección, debidamente formalizadas, 
-tendrán valor probatorio respecto a los hechos reflejados en 
-ellas, constatados personalmente por las personas inspectoras actuantes, sin perjuicio de las pruebas que en defensa de 
-sus derechos e intereses puedan aportar o señalar las personas interesadas.»
-Tres. Se modifica el artículo 10, que queda con la siguiente redacción:
+6. Las actas de la inspección, debidamente formalizadas, tendrán valor probatorio respecto a los hechos reflejados en ellas, constatados personalmente por las personas inspectoras actuantes, sin perjuicio de las pruebas que en defensa de sus derechos e intereses puedan aportar o señalar las personas interesadas.» Tres. Se modifica el artículo 10, que queda con la siguiente redacción:
 «Artículo 10. Registro de comerciantes y actividades comerciales de Andalucía.
-1. El Registro de comerciantes y actividades comerciales 
-de Andalucía tiene carácter público y naturaleza administrativa 
-y dependerá de la Dirección General competente en materia 
-de comercio interior.
-2. Sus objetivos generales son:
-a) La elaboración de un censo comercial permanente de 
-Andalucía.
-b) Facilitar el ejercicio de las funciones de control y tutela 
-de los intereses públicos del comercio que corresponden a la 
-Junta de Andalucía.
-c) Contribuir a la definición de las políticas de ayudas públicas al sector comercial.
-3. Quienes ejerzan la actividad comercial comunicarán al 
-Registro el comienzo y la finalización de dicha actividad, así 
-como sus modificaciones, en un plazo de tres meses desde 
-que tenga lugar el hecho causante.
-4. Los Ayuntamientos, por su parte, comunicarán al Registro el otorgamiento de la licencia municipal de obras para 
-grandes superficies minoristas en el plazo máximo de diez 
-días desde su notificación al interesado.
-5. Las inscripciones en el Registro se efectuarán de oficio 
-por el órgano administrativo competente, al recibir la correspondiente comunicación de la persona interesada o del Ayuntamiento.
-6. El Registro de comerciantes y actividades comerciales 
-de Andalucía se instalará en soporte informático, teniendo en 
-cuenta los principios de unidad, desconcentración, simplificación administrativa, y garantizándose la tramitación de todos 
-los procedimientos y trámites a través de la ventanilla única 
-que han de regir su gestión y con arreglo a la normativa vigente en materia de tratamiento de datos automatizados.
-7. El Registro de comerciantes y actividades comerciales de 
-Andalucía admitirá y promoverá la presentación por medios electrónicos de las comunicaciones para su posterior inscripción.»
-Cuatro. Se modifica la denominación del Título II, que 
-queda con la siguiente redacción:
-TÍTULO II
-«EL CONSEJO ANDALUZ DE COMERCIO»
-Cinco. Se modifica el artículo 12 que queda con la siguiente redacción:
-«Artículo 12. Consejo Andaluz de Comercio.
-1. Se crea el Consejo Andaluz de Comercio, como órgano 
-colegiado consultivo y de participación social de la Consejería 
-competente en materia de comercio interior.
 
-Página núm. 12 
-Se vi lla, 24 de diciembre 2009
-2. El Consejo tiene por finalidad el asesoramiento a la Administración de la Junta de Andalucía en materia de comercio, 
-así como servir de cauce para la participación de las distintas 
-organizaciones y entidades relacionadas con el comercio en 
-Andalucía.
+1. El Registro de comerciantes y actividades comerciales de Andalucía tiene carácter público y naturaleza administrativa y dependerá de la Dirección General competente en materia de comercio interior.
+
+2. Sus objetivos generales son:
+a) La elaboración de un censo comercial permanente de Andalucía.
+b) Facilitar el ejercicio de las funciones de control y tutela de los intereses públicos del comercio que corresponden a la Junta de Andalucía.
+c) Contribuir a la definición de las políticas de ayudas públicas al sector comercial.
+
+3. Quienes ejerzan la actividad comercial comunicarán al Registro el comienzo y la finalización de dicha actividad, así como sus modificaciones, en un plazo de tres meses desde que tenga lugar el hecho causante.
+
+4. Los Ayuntamientos, por su parte, comunicarán al Registro el otorgamiento de la licencia municipal de obras para grandes superficies minoristas en el plazo máximo de diez días desde su notificación al interesado.
+
+5. Las inscripciones en el Registro se efectuarán de oficio por el órgano administrativo competente, al recibir la correspondiente comunicación de la persona interesada o del Ayuntamiento.
+
+6. El Registro de comerciantes y actividades comerciales de Andalucía se instalará en soporte informático, teniendo en cuenta los principios de unidad, desconcentración, simplificación administrativa, y garantizándose la tramitación de todos los procedimientos y trámites a través de la ventanilla única que han de regir su gestión y con arreglo a la normativa vigente en materia de tratamiento de datos automatizados.
+
+7. El Registro de comerciantes y actividades comerciales de Andalucía admitirá y promoverá la presentación por medios electrónicos de las comunicaciones para su posterior inscripción.» Cuatro. Se modifica la denominación del Título II, que queda con la siguiente redacción:
+
+## Título II
+
+«EL CONSEJO ANDALUZ DE COMERCIO» Cinco. Se modifica el artículo 12 que.
+
+queda con la siguiente redacción:
+«Artículo 12. Consejo Andaluz de Comercio.
+
+1. Se crea el Consejo Andaluz de Comercio, como órgano colegiado consultivo y de participación social de la Consejería competente en materia de comercio interior.
+
+Página núm. 12 Se vi lla, 24 de diciembre 2009
+
+2. El Consejo tiene por finalidad el asesoramiento a la Administración de la Junta de Andalucía en materia de comercio, así como servir de cauce para la participación de las distintas organizaciones y entidades relacionadas con el comercio en Andalucía.
+
 3. El Consejo tiene como funciones:
 a) Informar la legislación y planificación comercial.
 b) Conocer y valorar las medidas de política comercial.
-c) Impulsar medidas que promuevan la innovación y la 
-calidad en el comercio.
-d)  Identificar las necesidades del sector comercial en Andalucía.»
-Seis. Se modifica el artículo 13, que queda con la siguiente redacción:
-«Artículo 13. Atribuciones del Consejo Andaluz de Comercio.
-El Consejo Andaluz de Comercio será oído preceptivamente en los siguientes supuestos:
-a) En el procedimiento de elaboración de las normas de 
-la Comunidad Autónoma que se refieran específicamente al 
-comercio interior.
+c) Impulsar medidas que promuevan la innovación y la calidad en el comercio.
+d) Identificar las necesidades del sector comercial en Andalucía.» Seis. Se modifica el artículo 13, que queda con la siguiente redacción:
+«Artículo 13. Atribuciones del Consejo Andaluz de Comercio. El Consejo Andaluz de Comercio será oído preceptivamente en los siguientes supuestos:
+a) En el procedimiento de elaboración de las normas de la Comunidad Autónoma que se refieran específicamente al comercio interior.
 b) En la elaboración de los planes plurianuales de fomento del comercio interior.
-c) Con carácter previo a la aprobación y revisión del Plan 
-de Establecimientos Comerciales y a la presentación de su informe de seguimiento.
-d) En el procedimiento de concesión del Certificado de 
-Calidad Municipal del Comercio de Andalucía.
-e) En aquellos otros supuestos que por esta Ley o por 
-su normativa de desarrollo se determine o cuando, por su relevancia para el comercio en Andalucía, le sea solicitado su 
-parecer por la Consejería competente en materia de comercio 
-interior.»
-Siete. Se modifica el artículo 14, que queda con la siguiente redacción:
+c) Con carácter previo a la aprobación y revisión del Plan de Establecimientos Comerciales y a la presentación de su informe de seguimiento.
+d) En el procedimiento de concesión del Certificado de Calidad Municipal del Comercio de Andalucía.
+e) En aquellos otros supuestos que por esta Ley o por su normativa de desarrollo se determine o cuando, por su relevancia para el comercio en Andalucía, le sea solicitado su parecer por la Consejería competente en materia de comercio interior.» Siete. Se modifica el artículo 14, que queda con la siguiente redacción:
 «Artículo 14. Composición.
+
 1. El Consejo Andaluz de Comercio estará compuesto por:
 a) La persona titular de la Consejería competente en materia de comercio interior, que lo presidirá.
 b) La persona titular de la Viceconsejería competente en materia de comercio interior, que ostentará su Vicepresidencia.
-c) Dos representantes de cada una de las Consejerías con 
-competencia en materia de comercio interior, economía, ordenación del territorio, urbanismo, administración local, medio 
-ambiente, consumo, empleo y educación.
-d) Dos representantes de los municipios y provincias de 
-Andalucía.
-e) Seis representantes de las organizaciones empresariales más representativas. 
-f) Seis representantes de las organizaciones sindicales 
-más representativas. 
+c) Dos representantes de cada una de las Consejerías con competencia en materia de comercio interior, economía, ordenación del territorio, urbanismo, administración local, medio ambiente, consumo, empleo y educación.
+d) Dos representantes de los municipios y provincias de Andalucía.
+e) Seis representantes de las organizaciones empresariales más representativas.
+f) Seis representantes de las organizaciones sindicales más representativas.
 g) Tres representantes de las asociaciones de consumidores más representativas.
 h) Dos representantes de las Cámaras Oficiales de Comercio, Industria y Navegación de Andalucía.
-i) Cuatro personas de reconocida capacidad técnica en 
-materia de comercio interior designados por la Consejería 
-competente en materia de comercio interior.
+i) Cuatro personas de reconocida capacidad técnica en materia de comercio interior designados por la Consejería competente en materia de comercio interior.
 j) Un representante de la Consejería competente en materia de comercio interior, que ostente la condición de funcionario, que ejercerá la Secretaría, con voz y sin voto.
-2. La designación de los representantes incluidos en el 
-apartado anterior se hará por sus respectivas organizaciones 
-e instituciones, y su nombramiento se efectuará por la persona titular de la Consejería competente en materia de comercio 
-interior. La representación de las organizaciones e instituciones respetará el equilibrio entre hombres y mujeres en los términos previstos por los artículos 18 y 19 de la Ley 9/2007, de 
-22 de octubre, de la Administración de la Junta de Andalucía.
+
+2. La designación de los representantes incluidos en el apartado anterior se hará por sus respectivas organizaciones e instituciones, y su nombramiento se efectuará por la persona titular de la Consejería competente en materia de comercio interior. La representación de las organizaciones e instituciones respetará el equilibrio entre hombres y mujeres en los términos previstos por los artículos 18 y 19 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
+
 3. Reglamentariamente se determinará su régimen de organización y funcionamiento.
-4. En caso de vacante, ausencia o enfermedad de la persona que ostente la Secretaría, su sustituta será una persona 
-funcionaria de la Consejería competente en materia de comercio interior.»
-Ocho. Se modifican los párrafos c) y e) del apartado 1 del 
-artículo 20, que quedan con la siguiente redacción, y se renumeran el último inciso del apartado 1 y los apartados 2 y 3, 
-que pasan a ser los apartados 2, 3 y 4, respectivamente.
-«c) Los establecimientos instalados en puntos fronterizos, 
-en estaciones y medios de transporte terrestre, marítimo y 
-aéreo, que tengan acceso restringido para los viajeros. En el 
-caso de no existir zonas restringidas, la libertad horaria sólo 
-se aplicará a un total de quinientos metros cuadrados de superficie útil de exposición y venta al público. Esta superficie 
-será determinada por quien posea la titularidad de los puntos 
-fronterizos, estaciones y medios de transporte excepto en el 
-caso de establecimientos de carácter colectivo, que será determinada por la entidad promotora de los mismos.
-e) Los establecimientos comerciales individuales, que no 
-formen parte de un establecimiento colectivo, y dispongan de 
-una superficie útil para la exposición y venta al público inferior 
-a trescientos metros cuadrados, excluidos los pertenecientes 
-a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación 
-vigente o que operen bajo el mismo nombre comercial de dichos grupos o empresas.»
-Nueve. Se modifica en su integridad el Título IV que queda con la siguiente redacción:
-«TÍTULO IV
-LOS ESTABLECIMIENTOS COMERCIALES
 
-### CAPÍTULO I
+4. En caso de vacante, ausencia o enfermedad de la persona que ostente la Secretaría, su sustituta será una persona funcionaria de la Consejería competente en materia de comercio interior.» Ocho. Se modifican los párrafos c) y e) del apartado 1 del artículo 20 , que quedan con la siguiente redacción, y se renumeran el último inciso del apartado 1 y los apartados 2 y 3, que pasan a ser los apartados 2, 3 y 4, respectivamente. «c) Los establecimientos instalados en puntos fronterizos, en estaciones y medios de transporte terrestre, marítimo y aéreo, que tengan acceso restringido para los viajeros. En el caso de no existir zonas restringidas, la libertad horaria sólo se aplicará a un total de quinientos metros cuadrados de superficie útil de exposición y venta al público. Esta superficie será determinada por quien posea la titularidad de los puntos fronterizos, estaciones y medios de transporte excepto en el caso de establecimientos de carácter colectivo, que será determinada por la entidad promotora de los mismos.
+e) Los establecimientos comerciales individuales, que no formen parte de un establecimiento colectivo, y dispongan de una superficie útil para la exposición y venta al público inferior a trescientos metros cuadrados, excluidos los pertenecientes a empresas o grupos de distribución que no tengan la consideración de pequeña y mediana empresa según la legislación vigente o que operen bajo el mismo nombre comercial de dichos grupos o empresas.» Nueve. Se modifica en su integridad el Título IV que queda con la siguiente redacción:
+«TÍTULO IV LOS ESTABLECIMIENTOS COMERCIALES
 
- Disposiciones generales
+### Capítulo I
 
- Sección 1.ª Conceptos y definiciones.»
+### Disposiciones generales
+
+#### Sección 1. ª Conceptos y definiciones.»
 
 #### Artículo 21. Establecimientos comerciales.
 
-1. Tendrán la consideración de establecimientos comerciales todos los locales y las construcciones o instalaciones de 
-carácter permanente, cubiertos o sin cubrir, con escaparates o 
-sin ellos, que estén en el exterior o interior de una edificación, 
-destinados al ejercicio regular de actividades comerciales, ya sea 
-de forma continuada, o en días o temporadas determinadas, así 
-como cualesquiera otros recintos acotados que reciban aquella 
-calificación en virtud de disposición legal o reglamentaria.
+1. Tendrán la consideración de establecimientos comerciales todos los locales y las construcciones o instalaciones de carácter permanente, cubiertos o sin cubrir, con escaparates o sin ellos, que estén en el exterior o interior de una edificación, destinados al ejercicio regular de actividades comerciales, ya sea de forma continuada, o en días o temporadas determinadas, así como cualesquiera otros recintos acotados que reciban aquella calificación en virtud de disposición legal o reglamentaria.
+
 2. Estos establecimientos se clasifican en establecimientos mayoristas y minoristas.
-3. Se considerarán establecimientos comerciales de carácter colectivo los conformados por un conjunto de establecimientos comerciales individuales integrados en un edificio o 
-complejo de edificios, en los que se ejerzan las respectivas 
-actividades de forma independiente, siempre que compartan 
-la utilización de alguno de los siguientes elementos:
+
+3. Se considerarán establecimientos comerciales de carácter colectivo los conformados por un conjunto de establecimientos comerciales individuales integrados en un edificio o complejo de edificios, en los que se ejerzan las respectivas actividades de forma independiente, siempre que compartan la utilización de alguno de los siguientes elementos:
 a) Acceso desde la vía pública de uso exclusivo o preferente de los establecimientos o sus clientes.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 13
-b)  Aparcamientos privados.
+Sevilla, 24 de diciembre 2009 Página núm. 13
+b) Aparcamientos privados.
 c) Servicios para los clientes.
 d) Imagen comercial común.
 e) Perímetro común delimitado.
-4. Tendrán incidencia territorial los establecimientos comerciales, individuales o colectivos, cuya implantación tenga 
-impacto de carácter supramunicipal sobre su entorno o alguno 
-de sus elementos significativos. En todo caso, se considerará 
-que tiene incidencia territorial supramunicipal cualquier implantación de gran superficie minorista. 
-5. Exclusivamente las grandes superficies minoristas estarán sometidas al procedimiento de autorización previsto en 
-el Capítulo IV de este Título.
+
+4. Tendrán incidencia territorial los establecimientos comerciales, individuales o colectivos, cuya implantación tenga impacto de carácter supramunicipal sobre su entorno o alguno de sus elementos significativos. En todo caso, se considerará que tiene incidencia territorial supramunicipal cualquier implantación de gran superficie minorista.
+
+5. Exclusivamente las grandes superficies minoristas estarán sometidas al procedimiento de autorización previsto en el Capítulo IV de este Título.
 
 #### Artículo 22. Grandes superficies minoristas.
 
-1. Tendrá la consideración de gran superficie minorista, 
-con independencia de su denominación, todo establecimiento 
-de carácter individual o colectivo, en el que se ejerza la actividad comercial minorista y tenga una superficie útil para la exposición y venta al público superior a 2.500 metros cuadrados. 
-2. Quedan excluidos de la consideración de grandes superficies minoristas de carácter colectivo, los mercados municipales de abastos así como las agrupaciones de comerciantes establecidas en los espacios comerciales que tengan por 
-finalidad realizar cualquier forma de gestión en común, con 
-independencia de la forma jurídica que adopten. No obstante, si en alguno de los dos supuestos anteriores hubiera un 
-establecimiento comercial individual que superase los 2.500 
-metros cuadrados de superficie útil para la exposición y venta 
-al público, éste se considerará gran superficie minorista.
-3. A los efectos de la aplicación de esta Ley, las grandes 
-superficies minoristas colectivas constituyen un único establecimiento comercial.
-4. No perderá, sin embargo, la condición de gran superficie minorista, el establecimiento individual que, teniendo una 
-superficie útil para la exposición y venta al público que supere 
-el límite establecido en el apartado 1, forme parte, a su vez, 
-de una gran superficie minorista de carácter colectivo.
+1. Tendrá la consideración de gran superficie minorista, con independencia de su denominación, todo establecimiento de carácter individual o colectivo, en el que se ejerza la actividad comercial minorista y tenga una superficie útil para la exposición y venta al público superior a 2.500 metros cuadrados.
 
-#### Artículo 23. Superficie útil para la exposición y venta al 
+2. Quedan excluidos de la consideración de grandes superficies minoristas de carácter colectivo, los mercados municipales de abastos así como las agrupaciones de comerciantes establecidas en los espacios comerciales que tengan por finalidad realizar cualquier forma de gestión en común, con independencia de la forma jurídica que adopten. No obstante, si en alguno de los dos supuestos anteriores hubiera un establecimiento comercial individual que superase los 2.500 metros cuadrados de superficie útil para la exposición y venta al público, éste se considerará gran superficie minorista.
 
-público.
-1. Se entenderá por superficie útil para la exposición y 
-venta al público la superficie total, esté cubierta o no, de los 
-espacios destinados a exponer las mercancías con carácter 
-habitual o permanente, o con carácter eventual o periódico, 
-a la que puedan acceder los consumidores para realizar las 
-compras, así como la superficie de los espacios internos destinados al tránsito de personas. El cómputo se realizará desde 
-la puerta o acceso al establecimiento.
-2. En ningún caso tendrán la consideración de superficie 
-útil para la exposición y venta al público, los espacios destinados exclusivamente a almacén, aparcamiento, o a prestación de servicios, ya sean estos últimos inherentes o no a la 
-actividad comercial. En los establecimientos de jardinería no 
-computará la superficie destinada a la producción de plantas 
-para su venta posterior en viveros.
-3. En las grandes superficies minoristas de carácter colectivo se excluirán del cómputo las zonas destinadas exclusivamente al tránsito común que no pertenezcan expresamente 
-a ningún establecimiento. Si existiera algún establecimiento 
-que delimitara parte de su superficie por una línea de cajas, el 
-espacio que éstas ocupen se incluirá como superficie útil para 
-la exposición y venta al público.
-4. Para calcular la superficie útil para la exposición y venta al público sólo se computará la superficie estrictamente comercial, excluyéndose, por lo tanto, cualquier superficie destinada al ocio, la restauración o cualquier otra actividad distinta 
-de la definida en el artículo 3 de esta Ley.
+3. A los efectos de la aplicación de esta Ley, las grandes superficies minoristas colectivas constituyen un único establecimiento comercial.
 
-#### Artículo 24. Definiciones.
+4. No perderá, sin embargo, la condición de gran superficie minorista, el establecimiento individual que, teniendo una superficie útil para la exposición y venta al público que supere el límite establecido en el apartado 1, forme parte, a su vez, de una gran superficie minorista de carácter colectivo.
 
-A los efectos de la presente Ley se entenderá por: 
+#### Artículo 23. Superficie útil para la exposición y venta al público.
+
+1. Se entenderá por superficie útil para la exposición y venta al público la superficie total, esté cubierta o no, de los espacios destinados a exponer las mercancías con carácter habitual o permanente, o con carácter eventual o periódico, a la que puedan acceder los consumidores para realizar las compras, así como la superficie de los espacios internos destinados al tránsito de personas. El cómputo se realizará desde la puerta o acceso al establecimiento.
+
+2. En ningún caso tendrán la consideración de superficie útil para la exposición y venta al público, los espacios destinados exclusivamente a almacén, aparcamiento, o a prestación de servicios, ya sean estos últimos inherentes o no a la actividad comercial. En los establecimientos de jardinería no computará la superficie destinada a la producción de plantas para su venta posterior en viveros.
+
+3. En las grandes superficies minoristas de carácter colectivo se excluirán del cómputo las zonas destinadas exclusivamente al tránsito común que no pertenezcan expresamente a ningún establecimiento. Si existiera algún establecimiento que delimitara parte de su superficie por una línea de cajas, el espacio que éstas ocupen se incluirá como superficie útil para la exposición y venta al público.
+
+4. Para calcular la superficie útil para la exposición y venta al público sólo se computará la superficie estrictamente comercial, excluyéndose, por lo tanto, cualquier superficie destinada al ocio, la restauración o cualquier otra actividad distinta de la definida en el artículo 3 de esta Ley.
+
+#### Artículo 24. Definiciones A los efectos de la presente Ley se entenderá por:.
+
 1. Implantación de grandes superficies minoristas: Proceso que engloba tanto su planificación como su instalación.
-2. Localización de grandes superficies minoristas: Determinaciones relativas a su ubicación que pueda establecer el 
-Plan de Establecimientos Comerciales o los Planes de Ordenación del Territorio de ámbito subregional.
-3. Emplazamiento de grandes superficies minoristas: Determinaciones relativas a su ubicación que pueda establecer el 
-planeamiento urbanístico.
-4. Instalación de grandes superficies minoristas: Proceso 
-de construcción de las mismas.
-5. Espacio comercial: Zona de la trama urbana donde se 
-produce una concentración de comercio minorista que contribuye a la centralidad de la ciudad, compuesto mayoritaria o 
-exclusivamente por pequeños comercios.
-6. Ámbitos aptos: Espacios de naturaleza territorial, identificados en el Plan de Establecimientos Comerciales, que tienen por finalidad servir de referencia al planeamiento urbanístico para el emplazamiento de las grandes superficies minoristas mediante la calificación de suelo de uso pormenorizado de 
-gran superficie minorista.
 
-#### Sección 2.ª Criterios y contenidos de aplicación general
+2. Localización de grandes superficies minoristas: Determinaciones relativas a su ubicación que pueda establecer el Plan de Establecimientos Comerciales o los Planes de Ordenación del Territorio de ámbito subregional.
 
- Artículo 25. Criterios de aplicación general.
-1. Serán aplicables a la implantación de todas las grandes 
-superficies minoristas los siguientes criterios territoriales:
-a) La cohesión y el equilibrio territorial mediante el fomento de la centralidad a través de la definición de espacios estratégicos para la ubicación de una oferta supramunicipal, localizados en los municipios que componen la zona, en función de 
-los niveles de jerarquía establecidos en el Plan de Ordenación 
-del Territorio de Andalucía.
-b) La ciudad compacta, a través de la preferencia por los 
-sectores limítrofes o contiguos a áreas urbanas, capaces de 
-articular territorios fragmentados y de contribuir en todo caso 
-a consolidar un espacio urbano compacto y diversificado, evitando soluciones aisladas de implantación que conlleven efectos expansivos no deseados.
-c) La cercanía y el fácil acceso de la oferta comercial para 
-los consumidores.
-d) La previsión de la capacidad de la red viaria, urbana e 
-interurbana, y de las redes generales de servicio necesarias, para 
-soportar los flujos de tráfico que genere la nueva implantación.
+3. Emplazamiento de grandes superficies minoristas: Determinaciones relativas a su ubicación que pueda establecer el planeamiento urbanístico.
+
+4. Instalación de grandes superficies minoristas: Proceso de construcción de las mismas.
+
+5. Espacio comercial: Zona de la trama urbana donde se produce una concentración de comercio minorista que contribuye a la centralidad de la ciudad, compuesto mayoritaria o exclusivamente por pequeños comercios.
+
+6. Ámbitos aptos: Espacios de naturaleza territorial, identificados en el Plan de Establecimientos Comerciales, que tienen por finalidad servir de referencia al planeamiento urbanístico para el emplazamiento de las grandes superficies minoristas mediante la calificación de suelo de uso pormenorizado de gran superficie minorista.
+
+#### Sección 2. ª Criterios y contenidos de aplicación general
+
+#### Artículo 25. Criterios de aplicación general.
+
+1. Serán aplicables a la implantación de todas las grandes superficies minoristas los siguientes criterios territoriales:
+a) La cohesión y el equilibrio territorial mediante el fomento de la centralidad a través de la definición de espacios estratégicos para la ubicación de una oferta supramunicipal, localizados en los municipios que componen la zona, en función de los niveles de jerarquía establecidos en el Plan de Ordenación del Territorio de Andalucía.
+b) La ciudad compacta, a través de la preferencia por los sectores limítrofes o contiguos a áreas urbanas, capaces de articular territorios fragmentados y de contribuir en todo caso a consolidar un espacio urbano compacto y diversificado, evitando soluciones aisladas de implantación que conlleven efectos expansivos no deseados.
+c) La cercanía y el fácil acceso de la oferta comercial para los consumidores.
+d) La previsión de la capacidad de la red viaria, urbana e interurbana, y de las redes generales de servicio necesarias, para soportar los flujos de tráfico que genere la nueva implantación.
 e) La conexión con redes de transporte público, en especial las de gran capacidad.
 f) La preferencia por la ampliación de las instalaciones comerciales existentes, frente a la instalación de establecimientos aislados.
-2. Los instrumentos de planeamiento urbanístico podrán 
-definir como deberes de la urbanización para la implantación 
-de una gran superficie minorista, los previstos en el Capítulo II 
-del Título II de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
+
+2. Los instrumentos de planeamiento urbanístico podrán definir como deberes de la urbanización para la implantación de una gran superficie minorista, los previstos en el Capítulo II del Título II de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
+
 3. En ningún caso podrá planificarse o autorizarse la implantación de grandes superficies minoristas en suelo clasificado como no urbanizable.
 
 #### Artículo 26. Estrategia de Planificación.
 
-1. El planeamiento comercial, territorial o urbanístico que 
-prevea o permita la implantación de grandes superficies minoristas, deberá utilizar los conceptos y definiciones de esta 
-Ley sobre establecimiento comercial, grandes superficies minoristas, superficie útil para la exposición y venta al público y 
-espacios comerciales.
+1. El planeamiento comercial, territorial o urbanístico que prevea o permita la implantación de grandes superficies minoristas, deberá utilizar los conceptos y definiciones de esta Ley sobre establecimiento comercial, grandes superficies minoristas, superficie útil para la exposición y venta al público y espacios comerciales.
 
-Página núm. 14 
-Se vi lla, 24 de diciembre 2009
-2. El planeamiento comercial, de acuerdo con el alcance 
-de sus determinaciones, deberá incorporar a su contenido, información de la estructura comercial existente en su ámbito, 
-parámetros y expectativas de desarrollo local, el derecho de 
-los consumidores y el análisis espacial de los establecimientos 
-comerciales existentes. 
-3. Igualmente, el planeamiento urbanístico, cuando permita la implantación de una o más grandes superficies minoristas, deberá valorar el suelo comercial previsto y los problemas de accesibilidad, utilización de infraestructuras y servicios 
-públicos derivados de estas implantaciones.
-4. La planificación, en los supuestos anteriores, deberá 
-contener entre sus determinaciones una estrategia relativa 
-a la implantación de las grandes superficies minoristas, de 
-acuerdo con los criterios previstos en esta Ley.
+Página núm. 14 Se vi lla, 24 de diciembre 2009
 
-### CAPÍTULO II
+2. El planeamiento comercial, de acuerdo con el alcance de sus determinaciones, deberá incorporar a su contenido, información de la estructura comercial existente en su ámbito, parámetros y expectativas de desarrollo local, el derecho de los consumidores y el análisis espacial de los establecimientos comerciales existentes.
 
-El Plan de Establecimientos Comerciales
+3. Igualmente, el planeamiento urbanístico, cuando permita la implantación de una o más grandes superficies minoristas, deberá valorar el suelo comercial previsto y los problemas de accesibilidad, utilización de infraestructuras y servicios públicos derivados de estas implantaciones.
+
+4. La planificación, en los supuestos anteriores, deberá contener entre sus determinaciones una estrategia relativa a la implantación de las grandes superficies minoristas, de acuerdo con los criterios previstos en esta Ley.
+
+## Capítulo II. El Plan de Establecimientos Comerciales.
 
 #### Artículo 27. Objeto y naturaleza.
 
-1. El Plan de Establecimientos Comerciales tiene por objeto contribuir al emplazamiento eficiente de las grandes superficies minoristas mediante el análisis del comercio, el desarrollo de criterios o la determinación de ámbitos aptos para 
-su localización, de acuerdo con lo establecido en esta Ley y en 
-el marco de los Planes de Ordenación del Territorio.
-2. La localización de las grandes superficies minoristas 
-en los ámbitos aptos será de aplicación preferente para el planeamiento urbanístico.
-3. El Plan de Establecimientos Comerciales tendrá la consideración de Plan con Incidencia en la Ordenación del Territorio, a los efectos previstos en la Ley 1/1994, de 11 de enero, 
-de Ordenación del Territorio de la Comunidad Autónoma de 
-Andalucía y estará sometido a la evaluación ambiental establecida por la Ley 7/2007, de 9 de julio, de Gestión Integrada de 
-la Calidad Ambiental.
-4. Los Planes de Ordenación del Territorio de ámbito subregional establecerán, de acuerdo a su legislación específica, 
-determinaciones sobre la localización de las grandes superficies minoristas, en desarrollo del Plan de Establecimientos 
-Comerciales.
+1. El Plan de Establecimientos Comerciales tiene por objeto contribuir al emplazamiento eficiente de las grandes superficies minoristas mediante el análisis del comercio, el desarrollo de criterios o la determinación de ámbitos aptos para su localización, de acuerdo con lo establecido en esta Ley y en el marco de los Planes de Ordenación del Territorio.
+
+2. La localización de las grandes superficies minoristas en los ámbitos aptos será de aplicación preferente para el planeamiento urbanístico.
+
+3. El Plan de Establecimientos Comerciales tendrá la consideración de Plan con Incidencia en la Ordenación del Territorio, a los efectos previstos en la Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía y estará sometido a la evaluación ambiental establecida por la Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental.
+
+4. Los Planes de Ordenación del Territorio de ámbito subregional establecerán, de acuerdo a su legislación específica, determinaciones sobre la localización de las grandes superficies minoristas, en desarrollo del Plan de Establecimientos Comerciales.
 
 #### Artículo 28. Contenido.
 
-El Plan de Establecimientos Comerciales, sin perjuicio de 
-lo establecido en el artículo 17 de la Ley 1/1994, de 11 de 
-enero, tendrá, al menos, el siguiente contenido:
-1. La definición de las zonas comerciales de Andalucía 
-de acuerdo con lo establecido en el Plan de Ordenación del 
-Territorio de Andalucía.
+El Plan de Establecimientos Comerciales, sin perjuicio de lo establecido en el artículo 17 de la Ley 1/1994, de 11 de enero, tendrá, al menos, el siguiente contenido:
+
+1. La definición de las zonas comerciales de Andalucía de acuerdo con lo establecido en el Plan de Ordenación del Territorio de Andalucía.
+
 2. El análisis del comercio interior en Andalucía.
-3. La determinación, en su caso, en desarrollo de esta 
-Ley, de criterios para la localización de las grandes superficies 
-minoristas.
-4. Un Programa de Establecimientos Comerciales para 
-cada una de las zonas que incluirá, al menos:
-a) El análisis territorial del comercio, la caracterización de 
-las diferentes tipologías de grandes superficies minoristas y de 
-su distribución espacial.
-b) La delimitación de ámbitos aptos para la localización 
-de las grandes superficies minoristas.
+
+3. La determinación, en su caso, en desarrollo de esta Ley, de criterios para la localización de las grandes superficies minoristas.
+
+4. Un Programa de Establecimientos Comerciales para cada una de las zonas que incluirá, al menos:
+a) El análisis territorial del comercio, la caracterización de las diferentes tipologías de grandes superficies minoristas y de su distribución espacial.
+b) La delimitación de ámbitos aptos para la localización de las grandes superficies minoristas.
 
 #### Artículo 29. Tramitación, aprobación y efectos.
 
-1. El Plan de Establecimientos Comerciales se elaborará 
-por la Consejería competente en materia de comercio interior. 
-Con carácter previo a su aprobación, el Plan de Establecimientos Comerciales será informado preceptivamente por el Consejo Andaluz de Concertación Local y por el órgano competente en ordenación del territorio, además de lo dispuesto en el 
-apartado 3 del artículo 27. Se aprobará mediante decreto del 
-Consejo de Gobierno, a propuesta de la Consejería competente en materia de comercio interior, oído el Consejo Andaluz de 
-Comercio. 
-2. La vigencia del Plan de Establecimientos Comerciales 
-será indefinida, actualizándose su contenido cuando se produzca alguna alteración sustancial de naturaleza comercial, 
-territorial o urbanística, y en todo caso, cada cuatro años, mediante orden de la Consejería competente en materia de comercio, oído el Consejo Andaluz de Comercio y previo informe 
-del Consejo Andaluz de Concertación Local y del órgano competente en ordenación del territorio, además de lo dispuesto 
-en el apartado 3 del artículo 27.
+1. El Plan de Establecimientos Comerciales se elaborará por la Consejería competente en materia de comercio interior. Con carácter previo a su aprobación, el Plan de Establecimientos Comerciales será informado preceptivamente por el Consejo Andaluz de Concertación Local y por el órgano competente en ordenación del territorio, además de lo dispuesto en el apartado 3 del artículo 27. Se aprobará mediante decreto del Consejo de Gobierno, a propuesta de la Consejería competente en materia de comercio interior, oído el Consejo Andaluz de Comercio.
+
+2. La vigencia del Plan de Establecimientos Comerciales será indefinida, actualizándose su contenido cuando se produzca alguna alteración sustancial de naturaleza comercial, territorial o urbanística, y en todo caso, cada cuatro años, mediante orden de la Consejería competente en materia de comercio, oído el Consejo Andaluz de Comercio y previo informe del Consejo Andaluz de Concertación Local y del órgano competente en ordenación del territorio, además de lo dispuesto en el apartado 3 del artículo 27.
+
 3. La Consejería competente en materia de comercio interior presentará cada dos años al Consejo Andaluz de Comercio un informe de seguimiento del Plan.
-4. El Plan de Establecimientos Comerciales deberá ser 
-tenido en cuenta en la elaboración de los instrumentos de planeamiento urbanístico.
-5. El informe comercial sobre los instrumentos de planeamiento urbanístico y el informe autonómico para la autorización de grandes superficies minoristas, regulado en este 
-Título IV, se emitirán de acuerdo con el contenido del Plan de 
+
+4. El Plan de Establecimientos Comerciales deberá ser tenido en cuenta en la elaboración de los instrumentos de planeamiento urbanístico.
+
+5. El informe comercial sobre los instrumentos de planeamiento urbanístico y el informe autonómico para la autorización de grandes superficies minoristas, regulado en este
+
+## Título IV. , se emitirán de acuerdo con el contenido del Plan de
+
 Establecimientos Comerciales.
 
 #### Artículo 30. Establecimientos Comerciales mayoristas.
 
-1. El Plan de Establecimientos Comerciales podrá determinar también criterios o ámbitos aptos para establecimientos 
-comerciales mayoristas con incidencia territorial, de acuerdo 
-con el criterio de máxima accesibilidad para el transporte pesado, a través de las infraestructuras que mejor garanticen 
-dicho objetivo.
-2. Se considera que la implantación de un establecimiento 
-comercial mayorista tiene incidencia territorial cuando tenga 
-una superficie construida total superior a 5.000 metros cuadrados.
+1. El Plan de Establecimientos Comerciales podrá determinar también criterios o ámbitos aptos para establecimientos comerciales mayoristas con incidencia territorial, de acuerdo con el criterio de máxima accesibilidad para el transporte pesado, a través de las infraestructuras que mejor garanticen dicho objetivo.
 
-### CAPÍTULO III
+2. Se considera que la implantación de un establecimiento comercial mayorista tiene incidencia territorial cuando tenga una superficie construida total superior a 5.000 metros cuadrados.
 
-El emplazamiento urbanístico de las grandes superficies 
-minoristas
+## Capítulo III. El emplazamiento urbanístico de las grandes superficies minoristas.
 
-#### Sección 1.ª Criterios para la determinación de los usos 
+#### Sección 1. ª Criterios para la determinación de los usos
 
 comerciales.»
 
-#### Artículo 31. Grandes superficies minoristas y planificación 
+#### Artículo 31. Grandes superficies minoristas y planificación urbanística.
 
-urbanística.
-1. Las grandes superficies minoristas constituyen un elemento integrante de la planificación urbanística, la cual deberá 
-pronunciarse sobre su idoneidad, emplazamiento y protección 
-de su entorno.
-2. La planificación urbanística deberá preceder a la instalación, y en su caso autorización, de las grandes superficies 
-minoristas.
-3. Esta planificación deberá realizarse de acuerdo con los 
-intereses de las personas consumidoras, la utilización racional 
-del territorio, la sostenibilidad de los recursos naturales, las 
-infraestructuras y servicios públicos existentes y previstos y la 
-salud pública.
+1. Las grandes superficies minoristas constituyen un elemento integrante de la planificación urbanística, la cual deberá pronunciarse sobre su idoneidad, emplazamiento y protección de su entorno.
+
+2. La planificación urbanística deberá preceder a la instalación, y en su caso autorización, de las grandes superficies minoristas.
+
+3. Esta planificación deberá realizarse de acuerdo con los intereses de las personas consumidoras, la utilización racional del territorio, la sostenibilidad de los recursos naturales, las infraestructuras y servicios públicos existentes y previstos y la salud pública.
 
 #### Artículo 32. Planeamiento urbanístico.
 
-1. La previsión de emplazamientos para las grandes superficies minoristas se efectuará por el planeamiento urbanístico de conformidad con los criterios establecidos en esta Ley 
-y en el Plan de Establecimientos Comerciales, así como, en 
-los Planes de Ordenación del Territorio. 
-2. Los instrumentos de planeamiento urbanístico deberán 
-prever el emplazamiento de las grandes superficies minoristas 
-en función de los ámbitos aptos determinados por el Plan de 
+1. La previsión de emplazamientos para las grandes superficies minoristas se efectuará por el planeamiento urbanístico de conformidad con los criterios establecidos en esta Ley y en el Plan de Establecimientos Comerciales, así como, en los Planes de Ordenación del Territorio.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 15
-Establecimientos Comerciales. Cualquiera otra previsión deberá ser motivada en el mismo instrumento de planeamiento, de 
-acuerdo con los criterios territoriales previstos en esta Ley.
-3. El Plan General de Ordenación Urbanística deberá definir el uso pormenorizado de gran superficie minorista, así 
-como establecer expresamente la compatibilidad, complementariedad, incompatibilidad y prohibición con otros usos.
-4. El planeamiento urbanístico, ya sea general o de desarrollo, preverá el emplazamiento de las grandes superficies 
-minoristas en suelo calificado de uso pormenorizado de gran 
-superficie minorista, no pudiendo instalarse en ninguna otra 
-calificación de suelo.
-5. El instrumento de planeamiento urbanístico que prevea 
-de forma detallada el emplazamiento de una gran superficie 
-minorista deberá incorporar un plan de movilidad urbana.
-6. El planeamiento urbanístico que prevea espacios comerciales susceptibles de rehabilitación, valorará su accesibilidad, peatonalización, aparcamientos y mobiliario urbano, programando, en su caso, su rehabilitación mediante actuaciones 
-integradas de reforma.
+2. Los instrumentos de planeamiento urbanístico deberán prever el emplazamiento de las grandes superficies minoristas en función de los ámbitos aptos determinados por el Plan de
+
+Sevilla, 24 de diciembre 2009 Página núm. 15 Establecimientos Comerciales. Cualquiera otra previsión deberá ser motivada en el mismo instrumento de planeamiento, de acuerdo con los criterios territoriales previstos en esta Ley.
+
+3. El Plan General de Ordenación Urbanística deberá definir el uso pormenorizado de gran superficie minorista, así como establecer expresamente la compatibilidad, complementariedad, incompatibilidad y prohibición con otros usos.
+
+4. El planeamiento urbanístico, ya sea general o de desarrollo, preverá el emplazamiento de las grandes superficies minoristas en suelo calificado de uso pormenorizado de gran superficie minorista, no pudiendo instalarse en ninguna otra calificación de suelo.
+
+5. El instrumento de planeamiento urbanístico que prevea de forma detallada el emplazamiento de una gran superficie minorista deberá incorporar un plan de movilidad urbana.
+
+6. El planeamiento urbanístico que prevea espacios comerciales susceptibles de rehabilitación, valorará su accesibilidad, peatonalización, aparcamientos y mobiliario urbano, programando, en su caso, su rehabilitación mediante actuaciones integradas de reforma.
 
 #### Artículo 33. Criterios para la determinación del uso pormenorizado de gran superficie minorista.
 
-Los instrumentos de planeamiento urbanístico determinarán el suelo de uso comercial destinado a grandes superficies 
-minoristas, teniendo en cuenta los siguientes criterios:
+Los instrumentos de planeamiento urbanístico determinarán el suelo de uso comercial destinado a grandes superficies minoristas, teniendo en cuenta los siguientes criterios:
 a) Preferencia del emplazamiento en suelo urbano.
-b) Sinergias con la rehabilitación de espacios comerciales 
-y de áreas, instalaciones y edificios urbanos.
+b) Sinergias con la rehabilitación de espacios comerciales y de áreas, instalaciones y edificios urbanos.
 c) Potenciación de la centralidad urbana.
-d) Contribución a la definición del perímetro de la trama 
-urbana.
+d) Contribución a la definición del perímetro de la trama urbana.
 e) Conexión con el suelo residencial.
-f) Contribución al mantenimiento de los espacios comerciales presentes en la ciudad, identificando itinerarios y ejes 
-comerciales, garantizando su accesibilidad, potenciando su 
-concentración y delimitando zonas de actuación específica 
-para su mejora.
+f) Contribución al mantenimiento de los espacios comerciales presentes en la ciudad, identificando itinerarios y ejes comerciales, garantizando su accesibilidad, potenciando su concentración y delimitando zonas de actuación específica para su mejora.
 g) Integración en el tejido comercial urbano, especialmente en los espacios comerciales existentes.
-h) Ordenación de la movilidad urbana, priorizando el acceso 
-peatonal, el transporte no motorizado y el transporte público. 
+h) Ordenación de la movilidad urbana, priorizando el acceso peatonal, el transporte no motorizado y el transporte público.
 i) Preservación del paisaje urbano y de sus valores naturales, históricos y artísticos.
 
-#### Sección 2.ª El informe comercial sobre los instrumentos de 
+#### Sección 2. ª El informe comercial sobre los instrumentos de
 
 planeamiento urbanístico
 
-#### Artículo 34. Ámbito de aplicación y carácter del informe 
+#### Artículo 34. Ámbito de aplicación y carácter del informe. comercial.
 
-comercial.
-1. Los instrumentos de planeamiento urbanístico general y las innovaciones de los mismos que prevean o permitan 
-la instalación de una gran superficie minorista o dispongan 
-de usos terciarios comerciales con una superficie construida 
-superior a 5.000 metros cuadrados, se someterán a informe 
-comercial de la Consejería competente en materia de comercio interior, que deberá pronunciarse, en todo caso, sobre los 
-intereses generales afectados.
-2. Igualmente, se someterá a informe comercial el planeamiento de desarrollo que ordene usos pormenorizados de 
-grandes superficies minoristas o la compatibilidad o complementariedad para la instalación de grandes superficies minoristas.
-3. Como regla general este informe tendrá carácter no 
-vinculante, excepto cuando:
-a) Los instrumentos de planeamiento urbanístico prevean 
-el emplazamiento de grandes superficies minoristas fuera de 
-los ámbitos aptos para ellas, previstos en el Plan de Establecimientos Comerciales. En este caso el informe deberá valorar la motivación a que se refiere este Título respecto a los 
-criterios de naturaleza territorial y a los demás intereses de 
-carácter general que han de salvaguardarse.
-b) Los instrumentos de planeamiento con usos pormenorizados que no establezcan expresamente usos pormenorizados de grandes superficies minoristas y, sin embargo, permitan más de 5.000 metros cuadrados de edificabilidad terciaria o comercial sin prohibir expresamente la implantación de 
-grandes superficies minoristas.
+1. Los instrumentos de planeamiento urbanístico general y las innovaciones de los mismos que prevean o permitan la instalación de una gran superficie minorista o dispongan de usos terciarios comerciales con una superficie construida superior a 5.000 metros cuadrados, se someterán a informe comercial de la Consejería competente en materia de comercio interior, que deberá pronunciarse, en todo caso, sobre los intereses generales afectados.
+
+2. Igualmente, se someterá a informe comercial el planeamiento de desarrollo que ordene usos pormenorizados de grandes superficies minoristas o la compatibilidad o complementariedad para la instalación de grandes superficies minoristas.
+
+3. Como regla general este informe tendrá carácter no vinculante, excepto cuando:
+a) Los instrumentos de planeamiento urbanístico prevean el emplazamiento de grandes superficies minoristas fuera de los ámbitos aptos para ellas, previstos en el Plan de Establecimientos Comerciales. En este caso el informe deberá valorar la motivación a que se refiere este Título respecto a los criterios de naturaleza territorial y a los demás intereses de carácter general que han de salvaguardarse.
+b) Los instrumentos de planeamiento con usos pormenorizados que no establezcan expresamente usos pormenorizados de grandes superficies minoristas y, sin embargo, permitan más de 5.000 metros cuadrados de edificabilidad terciaria o comercial sin prohibir expresamente la implantación de grandes superficies minoristas.
 
 #### Artículo 35. Contenido del informe comercial.
 
-El informe comercial manifestará la adecuación o no del 
-instrumento de planeamiento urbanístico al Plan de Establecimientos Comerciales pronunciándose, entre otros aspectos 
-sobre:
+El informe comercial manifestará la adecuación o no del instrumento de planeamiento urbanístico al Plan de Establecimientos Comerciales pronunciándose, entre otros aspectos sobre:
+
 1. El empleo de los conceptos de carácter comercial establecidos en esta Ley.
+
 2. La estrategia de implantación de las grandes superficies minoristas.
+
 3. El emplazamiento de las grandes superficies minoristas en los ámbitos aptos establecidos por el Plan de Establecimientos Comerciales.
+
 4. Las calificaciones del suelo que permitan la implantación de las grandes superficies minoristas.
+
 5. El plan de movilidad urbana.
+
 6. Los requisitos para la instalación de las grandes superficies minoristas.
-7. La identificación de las zonas de rehabilitación de espacios comerciales y las actuaciones integradas de reforma 
-de los mismos.
+
+7. La identificación de las zonas de rehabilitación de espacios comerciales y las actuaciones integradas de reforma de los mismos.
 
 #### Artículo 36. Emisión del informe comercial.
 
-1. La Administración competente para la formulación del 
-instrumento de planeamiento urbanístico, deberá solicitar a la 
-Consejería competente en materia de comercio interior el correspondiente informe comercial acompañando la documentación requerida en el artículo 19.1 de la Ley 7/2002, de 17 de 
-diciembre, de Ordenación Urbanística de Andalucía.
-2.  La petición de informe comercial deberá presentarse tras la aprobación inicial del instrumento de planeamiento, 
-regulada en el artículo 32.1.2.ª de la Ley 7/2002, de 17 de 
-diciembre.
-3. La Consejería competente en materia de comercio interior, deberá emitir el informe comercial solicitado en el plazo 
-máximo de dos meses, cuando se trate de planeamiento general, y en el de un mes cuando se trate de planeamiento de 
-desarrollo, ambos plazos a contar desde la fecha de entrada de 
-la solicitud, con la documentación completa, en su registro.
-4. Si la solicitud o la documentación presentadas no reunieran los requisitos establecidos, se requerirá a la Administración peticionaria del informe comercial para que en el plazo 
-máximo de 10 días proceda a subsanarla. Transcurrido dicho 
-plazo sin haber efectuado la subsanación, se dictará Resolución declarándola desistida de su solicitud con devolución de 
-la documentación, presentada.
+1. La Administración competente para la formulación del instrumento de planeamiento urbanístico, deberá solicitar a la Consejería competente en materia de comercio interior el correspondiente informe comercial acompañando la documentación requerida en el artículo 19.1 de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
 
-#### Sección 3.ª El Certificado de Calidad Municipal del Comercio 
+2.  La petición de informe comercial deberá presentarse tras la aprobación inicial del instrumento de planeamiento, regulada en el artículo 32.1.2.ª de la Ley 7/2002, de 17 de diciembre.
+
+3. La Consejería competente en materia de comercio interior, deberá emitir el informe comercial solicitado en el plazo máximo de dos meses, cuando se trate de planeamiento general, y en el de un mes cuando se trate de planeamiento de desarrollo, ambos plazos a contar desde la fecha de entrada de la solicitud, con la documentación completa, en su registro.
+
+4. Si la solicitud o la documentación presentadas no reunieran los requisitos establecidos, se requerirá a la Administración peticionaria del informe comercial para que en el plazo máximo de 10 días proceda a subsanarla. Transcurrido dicho plazo sin haber efectuado la subsanación, se dictará Resolución declarándola desistida de su solicitud con devolución de la documentación, presentada.
+
+#### Sección 3. ª El Certificado de Calidad Municipal del Comercio
 
 de Andalucía
 
-#### Artículo 37. Certificado de calidad Municipal del Comercio 
+#### Artículo 37. Certificado de calidad Municipal del Comercio. de Andalucía.
 
-de Andalucía.
-1. Los ayuntamientos podrán solicitar de la Consejería 
-competente en materia de comercio interior la concesión del 
-Certificado de calidad Municipal del Comercio de Andalucía.
+1. Los ayuntamientos podrán solicitar de la Consejería competente en materia de comercio interior la concesión del Certificado de calidad Municipal del Comercio de Andalucía.
+
 2. Los criterios para su concesión son:
 a) La adaptación de su Plan General de Ordenación Urbanística a las determinaciones de esta Ley y al Plan de Establecimientos Comerciales.
 
-Página núm. 16 
-Se vi lla, 24 de diciembre 2009
-b)  La estrategia para el mantenimiento y mejora de la 
-estructura comercial urbana.
-c)  La previsión de zonas de rehabilitación de espacios 
-comerciales.
-d) La previsión de mecanismos de mejora de la calidad 
-del comercio.
-e) La información, educación, orientación y asesoramiento 
-de las personas consumidoras y usuarias y la tramitación de quejas, reclamaciones y denuncias que éstas formulen a través de la 
-oficina de información al consumidor de su ámbito territorial.
-3. La persona titular de la Consejería competente en materia de comercio interior resolverá previo informe del Consejo 
-Andaluz del Comercio.
-4. Los efectos de la concesión del Certificado de calidad 
-Municipal del Comercio de Andalucía son:
-a) Prioridad del Ayuntamiento y de los establecimientos 
-comerciales de su término municipal a la hora de obtener subvenciones para urbanismo comercial de la Consejería competente en materia de comercio interior.
-b) Usar el distintivo del Certificado de calidad Municipal 
-del Comercio de Andalucía, en los establecimientos comerciales del municipio.
-5. La denominación de «Certificado de calidad Municipal 
-del Comercio de Andalucía» sólo podrá ser utilizada de acuerdo con lo que determina la presente ley.
+Página núm. 16 Se vi lla, 24 de diciembre 2009
+b) La estrategia para el mantenimiento y mejora de la estructura comercial urbana.
+c) La previsión de zonas de rehabilitación de espacios comerciales.
+d) La previsión de mecanismos de mejora de la calidad del comercio.
+e) La información, educación, orientación y asesoramiento de las personas consumidoras y usuarias y la tramitación de quejas, reclamaciones y denuncias que éstas formulen a través de la oficina de información al consumidor de su ámbito territorial.
 
-### CAPÍTULO IV
+3. La persona titular de la Consejería competente en materia de comercio interior resolverá previo informe del Consejo Andaluz del Comercio.
 
-Régimen de las grandes superficies minoristas
+4. Los efectos de la concesión del Certificado de calidad Municipal del Comercio de Andalucía son:
+a) Prioridad del Ayuntamiento y de los establecimientos comerciales de su término municipal a la hora de obtener subvenciones para urbanismo comercial de la Consejería competente en materia de comercio interior.
+b) Usar el distintivo del Certificado de calidad Municipal del Comercio de Andalucía, en los establecimientos comerciales del municipio.
 
-#### Sección 1.ª Licencia municipal de obras de gran superficie 
+5. La denominación de «Certificado de calidad Municipal del Comercio de Andalucía» sólo podrá ser utilizada de acuerdo con lo que determina la presente ley.
+
+## Capítulo IV. Régimen de las grandes superficies minoristas.
+
+#### Sección 1. ª Licencia municipal de obras de gran superficie
 
 minorista
 
 #### Artículo 38. Autorizaciones de grandes superficies minoristas.
 
-1.  Las grandes superficies minoristas estarán sometidas 
-a la obtención, previa a su instalación o ampliación, de la licencia municipal de obras que, además de instrumento para 
-el ejercicio de las competencias propias municipales, comprobará el cumplimiento de las prescripciones de esta Ley y de 
-las normas y planes que la desarrollen.
-2. No podrá iniciarse actuación urbanística alguna que 
-implique actos de transformación física del suelo, ni desarrollo 
-de actividad alguna en orden a la instalación, ampliación, cambio de actividad o traslado de una gran superficie minorista, 
-sin haber obtenido previamente la licencia municipal de obras, 
-siendo directamente responsable la persona física o jurídica 
-por cuenta de la que se realicen las obras.
-3. La Consejería competente en materia de comercio interior podrá aprobar la información mínima y específica que el 
-promotor deberá aportar mediante Orden, sin perjuicio de la 
-facultad del Ayuntamiento de establecer, en el ámbito de sus 
-competencias, otros requisitos necesarios.
+1.  Las grandes superficies minoristas estarán sometidas a la obtención, previa a su instalación o ampliación, de la licencia municipal de obras que, además de instrumento para el ejercicio de las competencias propias municipales, comprobará el cumplimiento de las prescripciones de esta Ley y de las normas y planes que la desarrollen.
 
-#### Artículo 39. Requisitos para la instalación o ampliación de 
+2. No podrá iniciarse actuación urbanística alguna que implique actos de transformación física del suelo, ni desarrollo de actividad alguna en orden a la instalación, ampliación, cambio de actividad o traslado de una gran superficie minorista, sin haber obtenido previamente la licencia municipal de obras, siendo directamente responsable la persona física o jurídica por cuenta de la que se realicen las obras.
 
-grandes superficies minoristas.
-1. Además de los requisitos necesarios para la instalación o 
-ampliación de cualquier establecimiento comercial, las grandes 
-superficies minoristas deberán cumplir los siguientes requisitos:
-a) Estar emplazada en suelo calificado de gran superficie 
-minorista por el planeamiento urbanístico.
-b) Observación de las determinaciones establecidas por 
-el plan de movilidad urbana correspondiente.
+3. La Consejería competente en materia de comercio interior podrá aprobar la información mínima y específica que el promotor deberá aportar mediante Orden, sin perjuicio de la facultad del Ayuntamiento de establecer, en el ámbito de sus competencias, otros requisitos necesarios.
+
+#### Artículo 39. Requisitos para la instalación o ampliación de grandes superficies minoristas.
+
+1. Además de los requisitos necesarios para la instalación o ampliación de cualquier establecimiento comercial, las grandes superficies minoristas deberán cumplir los siguientes requisitos:
+a) Estar emplazada en suelo calificado de gran superficie minorista por el planeamiento urbanístico.
+b) Observación de las determinaciones establecidas por el plan de movilidad urbana correspondiente.
+
 2. Sin perjuicio de las determinaciones que el planeamiento urbanístico establezca para la edificación de las grandes superficies minoristas, su instalación deberá garantizar:
-a) La dotación de al menos cinco plazas de aparcamientos por cada 100 metros cuadrados de superficie útil para la 
-exposición y venta al público.
-b) La recogida selectiva en origen de los residuos sólidos, 
-orgánicos, vidrio, papel y cartón, metales y plásticos, así como 
-tóxicos y peligrosos, para facilitar su reciclaje, de acuerdo con 
-su legislación reguladora.
-c) Existencia de instalaciones para la utilización de aguas 
-regeneradas y pluviales.
-d) La instalación de aguas grises o regeneradas, garantizando la imposibilidad de confundirlas con el agua potable o 
-de contaminar su suministro. A tal efecto, ambas redes deberán ser totalmente independientes y fácilmente diferenciables 
-por el color y la calidad de los materiales empleados en ellas.
-e) Existencia de instalaciones receptoras de energía solar 
-para satisfacer, al menos, las necesidades energéticas relativas al agua caliente sanitaria propia del edificio.
-f) La utilización de combustibles líquidos o gaseosos, con 
-preferencia a la energía eléctrica, para los usos de calefacción 
-o calentamiento de agua, quedando prohibida las instalaciones para fuel-oil.
-g) La accesibilidad a las personas con cualquier tipo de 
-discapacidad.
+a) La dotación de al menos cinco plazas de aparcamientos por cada 100 metros cuadrados de superficie útil para la exposición y venta al público.
+b) La recogida selectiva en origen de los residuos sólidos, orgánicos, vidrio, papel y cartón, metales y plásticos, así como tóxicos y peligrosos, para facilitar su reciclaje, de acuerdo con su legislación reguladora.
+c) Existencia de instalaciones para la utilización de aguas regeneradas y pluviales.
+d) La instalación de aguas grises o regeneradas, garantizando la imposibilidad de confundirlas con el agua potable o de contaminar su suministro. A tal efecto, ambas redes deberán ser totalmente independientes y fácilmente diferenciables por el color y la calidad de los materiales empleados en ellas.
+e) Existencia de instalaciones receptoras de energía solar para satisfacer, al menos, las necesidades energéticas relativas al agua caliente sanitaria propia del edificio.
+f) La utilización de combustibles líquidos o gaseosos, con preferencia a la energía eléctrica, para los usos de calefacción o calentamiento de agua, quedando prohibida las instalaciones para fuel-oil.
+g) La accesibilidad a las personas con cualquier tipo de discapacidad.
 
 #### Artículo 40. Tramitación, aprobación y efectos.
 
-1. Las personas interesadas presentarán la solicitud de 
-licencia municipal de obras de gran superficie minorista en el 
-Ayuntamiento correspondiente, aportando la documentación 
-necesaria.
-2. Si la solicitud no reuniera los requisitos necesarios, se 
-requerirá a las personas interesadas para que subsanen. Una 
-vez subsanada, en su caso, la solicitud, el Ayuntamiento procederá al trámite de información pública en el Boletín Oficial 
-de su provincia.
-3. El Ayuntamiento podrá denegar la autorización, sin 
-necesidad de tramitar los informes preceptivos, cuando compruebe que la solicitud de la licencia municipal de obras para 
-la gran superficie minorista incumple las prescripciones de 
-esta Ley, de las normas y planes que la desarrollen, o de los 
-planes territoriales o urbanísticos que le sean de aplicación.
-4. Además de los trámites propios del procedimiento en 
-materia de licencia municipal de obras de establecimientos, el 
-Ayuntamiento solicitará informe sobre el proyecto a la Agencia 
-de Defensa de la Competencia de Andalucía, de acuerdo con 
-la Ley 6/2007, de 26 de junio, de Promoción y Defensa de la 
-Competencia de Andalucía.
-5. El Ayuntamiento deberá de instar, de la Consejería 
-competente en materia de comercio interior, informe autonómico previo sobre la solicitud de licencia municipal de obras 
-de gran superficie minorista, para lo cual remitirá la memoria 
-de idoneidad, junto con la solicitud del promotor y las alegaciones que, en su caso, se hubiesen producido durante el trámite 
-de información pública. El informe autonómico se tramitará de 
-conformidad y con los efectos previstos en la Sección 2.ª de 
-este Capítulo.
-6. Corresponde al Ayuntamiento resolver las solicitudes 
-de licencia municipal de obras para grandes superficies minoristas, una vez recibidos los informes preceptivos.
-7. El plazo máximo para resolver y notificar la Resolución 
-será de tres meses, desde la fecha en la que la solicitud haya 
-tenido entrada en el registro del órgano competente para su 
-tramitación, sin contar los períodos en los que haya estado 
-suspendida la tramitación municipal como consecuencia de la 
-subsanación de la solicitud o de la emisión de informes preceptivos.
-8. Transcurrido dicho plazo sin que se hubiese notificado 
-la resolución expresa, la solicitud podrá entenderse estimada 
-excepto cuando concurra alguno de los supuestos en que la legislación urbanística establece el carácter negativo del silencio 
-o cuando se trate de un procedimiento en el que el informe au-
+1. Las personas interesadas presentarán la solicitud de licencia municipal de obras de gran superficie minorista en el Ayuntamiento correspondiente, aportando la documentación necesaria.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 17
-tonómico tenga la naturaleza de vinculante, por resultar afectadas razones de interés general. En estos casos, la solicitud 
-se entenderá desestimada, sin perjuicio de la obligación del 
-Ayuntamiento de resolver. 
-9. La Resolución se publicará en el Boletín Oficial de la 
-Junta de Andalucía.
+2. Si la solicitud no reuniera los requisitos necesarios, se requerirá a las personas interesadas para que subsanen. Una vez subsanada, en su caso, la solicitud, el Ayuntamiento procederá al trámite de información pública en el Boletín Oficial de su provincia.
 
-#### Sección 2.ª Informe autonómico para la autorización de 
+3. El Ayuntamiento podrá denegar la autorización, sin necesidad de tramitar los informes preceptivos, cuando compruebe que la solicitud de la licencia municipal de obras para la gran superficie minorista incumple las prescripciones de esta Ley, de las normas y planes que la desarrollen, o de los planes territoriales o urbanísticos que le sean de aplicación.
+
+4. Además de los trámites propios del procedimiento en materia de licencia municipal de obras de establecimientos, el Ayuntamiento solicitará informe sobre el proyecto a la Agencia de Defensa de la Competencia de Andalucía, de acuerdo con la Ley 6/2007, de 26 de junio, de Promoción y Defensa de la Competencia de Andalucía.
+
+5. El Ayuntamiento deberá de instar, de la Consejería competente en materia de comercio interior, informe autonómico previo sobre la solicitud de licencia municipal de obras de gran superficie minorista, para lo cual remitirá la memoria de idoneidad, junto con la solicitud del promotor y las alegaciones que, en su caso, se hubiesen producido durante el trámite de información pública. El informe autonómico se tramitará de conformidad y con los efectos previstos en la Sección 2.ª de este Capítulo.
+
+6. Corresponde al Ayuntamiento resolver las solicitudes de licencia municipal de obras para grandes superficies minoristas, una vez recibidos los informes preceptivos.
+
+7. El plazo máximo para resolver y notificar la Resolución será de tres meses, desde la fecha en la que la solicitud haya tenido entrada en el registro del órgano competente para su tramitación, sin contar los períodos en los que haya estado suspendida la tramitación municipal como consecuencia de la subsanación de la solicitud o de la emisión de informes preceptivos.
+
+8. Transcurrido dicho plazo sin que se hubiese notificado la resolución expresa, la solicitud podrá entenderse estimada excepto cuando concurra alguno de los supuestos en que la legislación urbanística establece el carácter negativo del silencio o cuando se trate de un procedimiento en el que el informe auSevilla, 24 de diciembre 2009 Página núm. 17 tonómico tenga la naturaleza de vinculante, por resultar afectadas razones de interés general. En estos casos, la solicitud se entenderá desestimada, sin perjuicio de la obligación del Ayuntamiento de resolver.
+
+9. La Resolución se publicará en el Boletín Oficial de la Junta de Andalucía.
+
+#### Sección 2. ª Informe autonómico para la autorización de
 
 grandes superficies minoristas
 
 #### Artículo 41. Contenido de la memoria de idoneidad.
 
-El Ayuntamiento elaborará una memoria sobre la idoneidad de la gran superficie minorista que contenga la superficie 
-útil para la exposición y venta al público, la inversión y empleo 
-previsto, planos de situación del establecimiento y cadena a la 
-que pertenece cuando exista una gran superficie minorista de 
-carácter individual, debiendo pronunciarse sobre: 
-1. El instrumento de planeamiento que contenga la ordenación detallada en la que se emplaza la gran superficie 
-minorista, su localización en los ámbitos aptos y la calificación 
-y uso del suelo en que está previsto su emplazamiento.
+El Ayuntamiento elaborará una memoria sobre la idoneidad de la gran superficie minorista que contenga la superficie útil para la exposición y venta al público, la inversión y empleo previsto, planos de situación del establecimiento y cadena a la que pertenece cuando exista una gran superficie minorista de carácter individual, debiendo pronunciarse sobre:
+
+1. El instrumento de planeamiento que contenga la ordenación detallada en la que se emplaza la gran superficie minorista, su localización en los ámbitos aptos y la calificación y uso del suelo en que está previsto su emplazamiento.
+
 2.  El plan de movilidad urbana.
+
 3. La adecuación a las necesidades previstas del establecimiento, de las infraestructuras de abastecimiento y saneamiento de agua, así como de las de suministro de energía.
-4. El cumplimiento de los requisitos de aparcamientos, 
-tratamiento y eliminación de residuos sólidos, instalación de 
-aguas grises y eficiencia energética.
-5. La accesibilidad a las personas con cualquier tipo de 
-discapacidad.
+
+4. El cumplimiento de los requisitos de aparcamientos, tratamiento y eliminación de residuos sólidos, instalación de aguas grises y eficiencia energética.
+
+5. La accesibilidad a las personas con cualquier tipo de discapacidad.
 
 #### Artículo 42. Tramitación y efectos del informe autonómico.
 
-1.  La Consejería competente en materia de comercio interior deberá notificar a la persona solicitante de la licencia de 
-obras la fecha de recepción de la documentación enviada por 
-el Ayuntamiento, a partir de la cual comenzará el cómputo del 
-plazo de emisión del informe autonómico. Asimismo, deberá 
-notificarle las fechas de comienzo y de finalización de las posibles interrupciones de dicho plazo para la subsanación de 
-deficiencias, en su caso, y el régimen jurídico de finalización 
-del procedimiento.
-2. El informe de la Consejería considerará la adecuación del 
-proyecto al contenido del Plan de Establecimientos Comerciales 
-y al cumplimiento de los requisitos previstos en esta ley.
-3. La Consejería competente para la emisión del informe, 
-podrá requerir al Ayuntamiento para que subsane las deficiencias observadas, siempre que no motiven por sí mismas un informe desfavorable, suspendiéndose el plazo para la emisión 
-del informe hasta que las mismas sean subsanadas, o haya 
-transcurrido el plazo otorgado para la subsanación.
-4. El informe se evacuará en el plazo de dos meses, dejando 
-a salvo los períodos de subsanación de deficiencias. Dicho informe se entenderá favorable si, en el plazo previsto, no se hubiese 
-notificado al Ayuntamiento. En todo caso se dará traslado de una 
-copia del mismo al solicitante de la licencia de obras.
-5. El informe no será vinculante para el Ayuntamiento 
-cuando el emplazamiento de la gran superficie minorista se 
-encuentre dentro del ámbito territorial de un instrumento de 
-planeamiento urbanístico adaptado a las previsiones de esta 
-ley y cuente con informe comercial favorable.
-6. El informe será vinculante cuando la gran superficie 
-minorista se encuentre prevista en un instrumento de planeamiento urbanístico que no haya sido informado por la 
-Consejería competente en materia de comercio interior o haya 
-sido informado desfavorablemente. Excepcionalmente, en ambos casos, el silencio tendrá un carácter desfavorable. 
-7. Si el informe fuera favorable con especificaciones o 
-condiciones concretas, éstas deberán ser incorporadas a la 
-Resolución municipal.»
-Diez. Se suprimen los artículos 43 a 49 y se renumera el 
+1.  La Consejería competente en materia de comercio interior deberá notificar a la persona solicitante de la licencia de obras la fecha de recepción de la documentación enviada por el Ayuntamiento, a partir de la cual comenzará el cómputo del plazo de emisión del informe autonómico. Asimismo, deberá notificarle las fechas de comienzo y de finalización de las posibles interrupciones de dicho plazo para la subsanación de deficiencias, en su caso, y el régimen jurídico de finalización del procedimiento.
 
-#### artículo 50 que pasa a ser el artículo 43.
+2. El informe de la Consejería considerará la adecuación del proyecto al contenido del Plan de Establecimientos Comerciales y al cumplimiento de los requisitos previstos en esta ley.
 
-Once. Se suprime el apartado 2 del artículo 51 y se renumera el apartado siguiente como 2. Se renumera el artículo 
-51 que pasa a ser el artículo 44.
-Doce. Se renumera el artículo 52 que pasa a ser el artículo 45.
-Trece. Se modifica el artículo 53 que pasa a ser el artículo 46, con la siguiente redacción:
-«Artículo 46. Comunicación al Registro.
-Además de los datos que requieran la comunicación al 
-Registro, de acuerdo con lo dispuesto en el artículo 10, se deberán facilitar los siguientes:
+3. La Consejería competente para la emisión del informe, podrá requerir al Ayuntamiento para que subsane las deficiencias observadas, siempre que no motiven por sí mismas un informe desfavorable, suspendiéndose el plazo para la emisión del informe hasta que las mismas sean subsanadas, o haya transcurrido el plazo otorgado para la subsanación.
+
+4. El informe se evacuará en el plazo de dos meses, dejando a salvo los períodos de subsanación de deficiencias. Dicho informe se entenderá favorable si, en el plazo previsto, no se hubiese notificado al Ayuntamiento. En todo caso se dará traslado de una copia del mismo al solicitante de la licencia de obras.
+
+5. El informe no será vinculante para el Ayuntamiento cuando el emplazamiento de la gran superficie minorista se encuentre dentro del ámbito territorial de un instrumento de planeamiento urbanístico adaptado a las previsiones de esta ley y cuente con informe comercial favorable.
+
+6. El informe será vinculante cuando la gran superficie minorista se encuentre prevista en un instrumento de planeamiento urbanístico que no haya sido informado por la Consejería competente en materia de comercio interior o haya sido informado desfavorablemente. Excepcionalmente, en ambos casos, el silencio tendrá un carácter desfavorable.
+
+7. Si el informe fuera favorable con especificaciones o condiciones concretas, éstas deberán ser incorporadas a la Resolución municipal.» Diez. Se suprimen los artículos 43 a 49 y se renumera el artículo 50 que.
+
+pasa a ser el artículo 43. Once. Se suprime el apartado 2 del artículo 51 y se renumera el apartado siguiente como 2. Se renumera el artículo 51 que pasa a ser el artículo 44. Doce. Se renumera el artículo 52 que pasa a ser el artículo 45. Trece. Se modifica el artículo 53 que pasa a ser el artículo 46, con la siguiente redacción:
+«Artículo 46. Comunicación al Registro. Además de los datos que requieran la comunicación al Registro, de acuerdo con lo dispuesto en el artículo 10, se deberán facilitar los siguientes:
+
 1. La gama o gamas de productos que comercialicen.
-2. La relación de almacenes y, en su caso, de los establecimientos que dispongan para sus ventas en Andalucía.
-3. Las direcciones donde se atienden los encargos y las 
-solicitudes de información, así como las posibles reclamaciones de los consumidores.»
-Catorce. Se renumeran los artículos 54, 55 y 56 que pasan a ser los artículos 47, 48 y 49, respectivamente.
-Quince. Se modifica el artículo 57, que pasa a ser el artículo 50, con la siguiente redacción:
-«Artículo 50. Comunicación al Registro.
-Además de los datos que requieran la comunicación al 
-Registro, de acuerdo con lo dispuesto en el artículo 10, se deberán facilitar los siguientes:
-1. La gama o gamas de productos que comercialicen.
-2. La relación de almacenes y, en su caso, de los establecimientos que dispongan para sus ventas en Andalucía.
-3. Las direcciones donde se atienden los encargos y las 
-solicitudes de información, así como las posibles reclamaciones de los consumidores.»
-Dieciséis. Se modifica el artículo 58, que pasa a ser el 
-artículo 51, con la siguiente redacción:
-«1. Las máquinas expendedoras deberán reunir los requisitos que reglamentariamente se determinen y, en todo caso, 
-deberán contener un sistema automático de recuperación de 
-monedas para los supuestos de error, inexistencia de mercancías o mal funcionamiento de la máquina.
-2. La venta automática de productos alimenticios sólo se 
-permitirá cuando éstos se hallen envasados y etiquetados según la normativa específica vigente.»
-Diecisiete. Se renumeran los artículos 59, 60 y 61 que 
-pasan a ser los artículos 52, 53 y 54, respectivamente.
-Dieciocho. Se suprime el párrafo a) del artículo 62 pasando los párrafos b) y c) a constituir los párrafos a) y b), respectivamente, y se renumera pasando a ser el artículo 55.
-Diecinueve. Se renumeran los artículos 63 y 64 que pasan a ser los artículos 56 y 57, respectivamente. 
-Veinte. Se suprime el artículo 65.
-Veintiuno. Se renumeran los artículos 66 y 67, que pasan 
-a ser los artículos 58 y 59, respectivamente. 
-Veintidós. Se renumera el artículo 68, que pasa a ser el artículo 60, y se le añade un apartado 3 con la siguiente redacción: 
-«3. Asimismo, las personas consumidoras podrán ejercitar el derecho de desistimiento reconocido en el artículo 10.1 
 
-Página núm. 18 
-Se vi lla, 24 de diciembre 2009
-de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y en el Capítulo II del Título I del libro II, del texto 
-refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.» 
-Veintitrés. Se renumeran los artículos del 69 al 90, que 
-pasan a ser los artículos del 61 al 82.
-Veinticuatro. Se introduce un párrafo f) al artículo 91, pasando a ser el artículo 83, con la redacción que se indica a 
-continuación, y el actual párrafo f) pasa a ser el párrafo g):
-«f) La omisión de comunicación al Registro de Comerciantes y Actividades Comerciales de Andalucía en el caso establecido en los apartados 3 y 4 del artículo 10 de la presente ley.»
-Veinticinco. Se suprimen los párrafos e) y g) del artículo 
-92, pasando los párrafos f), h), i), j), k), l), m) y n) a constituir 
-los párrafos e), f), g), h), i), j), k), y l), respectivamente, se añade el párrafo m) con la siguiente redacción, y se renumera 
-pasando a ser el artículo 84:
-«m) La utilización de la denominación de «Certificado de 
-Calidad Municipal del Comercio de Andalucía» sin su previo 
-reconocimiento por la Consejería competente en materia de 
-comercio interior.»
-Veintiséis. Se modifica el párrafo a) del artículo 93, que 
-queda con la siguiente redacción y se renumera pasando a ser 
-el artículo 85:
+2. La relación de almacenes y, en su caso, de los establecimientos que dispongan para sus ventas en Andalucía.
+
+3. Las direcciones donde se atienden los encargos y las solicitudes de información, así como las posibles reclamaciones de los consumidores.» Catorce. Se renumeran los artículos 54, 55 y 56 que pasan a ser los artículos 47, 48 y 49, respectivamente. Quince. Se modifica el artículo 57, que pasa a ser el artículo 50, con la siguiente redacción:
+«Artículo 50. Comunicación al Registro. Además de los datos que requieran la comunicación al Registro, de acuerdo con lo dispuesto en el artículo 10, se deberán facilitar los siguientes:
+
+1. La gama o gamas de productos que comercialicen.
+
+2. La relación de almacenes y, en su caso, de los establecimientos que dispongan para sus ventas en Andalucía.
+
+3. Las direcciones donde se atienden los encargos y las solicitudes de información, así como las posibles reclamaciones de los consumidores.» Dieciséis. Se modifica el artículo 58, que pasa a ser el artículo 51 , con la siguiente redacción «1.
+
+Las máquinas expendedoras deberán reunir los requisitos que reglamentariamente se determinen y, en todo caso, deberán contener un sistema automático de recuperación de monedas para los supuestos de error, inexistencia de mercancías o mal funcionamiento de la máquina.
+
+2. La venta automática de productos alimenticios sólo se permitirá cuando éstos se hallen envasados y etiquetados según la normativa específica vigente.» Diecisiete. Se renumeran los artículos 59, 60 y 61 que pasan a ser los artículos 52, 53 y 54, respectivamente. Dieciocho. Se suprime el párrafo a) del artículo 62 pasando.
+
+los párrafos b) y c) a constituir los párrafos a) y b), respectivamente, y se renumera pasando a ser el artículo 55. Diecinueve. Se renumeran los artículos 63 y 64 que pasan a ser los artículos 56 y 57, respectivamente. Veinte. Se suprime el artículo 65. Veintiuno. Se renumeran los artículos 66 y 67, que pasan a ser los artículos 58 y 59, respectivamente. Veintidós. Se renumera el artículo 68, que pasa a ser el artículo 60, y se le añade un apartado 3 con la siguiente redacción:
+«3. Asimismo, las personas consumidoras podrán ejercitar el derecho de desistimiento reconocido en el artículo 10.1
+
+Página núm. 18 Se vi lla, 24 de diciembre 2009 de la Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista, y en el Capítulo II del Título I del libro II, del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.» Veintitrés. Se renumeran los artículos del 69 al 90, que pasan a ser los artículos del 61 al 82. Veinticuatro. Se introduce un párrafo f) al artículo 91, pasando a ser el artículo 83, con la redacción que se indica a continuación, y el actual párrafo f) pasa a ser el párrafo g):
+«f) La omisión de comunicación al Registro de Comerciantes y Actividades Comerciales de Andalucía en el caso establecido en los apartados 3 y 4 del artículo 10 de la presente ley.» Veinticinco. Se suprimen los párrafos e) y g) del artículo 92, pasando los párrafos f), h), i), j), k), l), m) y n) a constituir los párrafos e), f), g), h), i), j), k), y l), respectivamente, se añade el párrafo m) con la siguiente redacción, y se renumera pasando a ser el artículo 84:
+«m) La utilización de la denominación de «Certificado de Calidad Municipal del Comercio de Andalucía» sin su previo reconocimiento por la Consejería competente en materia de comercio interior.» Veintiséis. Se modifica el párrafo a) del artículo 93, que queda con la siguiente redacción y se renumera pasando a ser el artículo 85:
 «a) El inicio de actuaciones sin que se haya obtenido previamente la licencia municipal de obras de acuerdo con lo establecido en el Título IV de esta ley.»
 
-Veintisiete. Se renumera el artículo 94, que pasa a ser el 
-
-#### artículo 86.
-
-Veintiocho. Se modifican los párrafos b) y c) del apartado 
+Veintisiete. Se renumera el artículo 94, que pasa a ser el artículo 86 Veintiocho. Se modifican los párrafos b) y c) del apartado
 primero del artículo 95, que pasa a ser el artículo 87, quedando con la siguiente redacción:
-«b) Las infracciones graves, con multa desde 3.001 hasta 
-45.000 euros.
-c) Las infracciones muy graves, con multa desde  45.001 
-hasta 150.000 euros. Esta última cantidad se podrá sobrepasar hasta alcanzar su décuplo, en el supuesto contemplado en 
-el artículo 85.a) de la presente ley.»
-Veintinueve. Se renumeran los artículos 96 y 97, que pasan a ser los artículos 88 y 89.
-Artículo segundo. Modificación de la Ley 9/1988, de 25 
-de noviembre, del Comercio Ambulante.
-La Ley 9/1988, de 25 de noviembre, del Comercio Ambulante queda modificada como sigue: 
-Uno. Se suprime el párrafo segundo del artículo 1.
-Dos. Se modifican, en el artículo 2, los párrafos a) y c) 
-del apartado 1, el párrafo c) del apartado 2, y se introduce un 
-apartado 3, quedando todos ellos con la siguiente redacción:
-«1.a) El comercio en mercadillos que se celebren regularmente, con una periodicidad determinada, en los lugares 
-públicos establecidos». 
-«1.c) El comercio itinerante, realizado en las vías públicas 
-a lo largo de itinerarios establecidos, con el medio adecuado 
-ya sea transportable o móvil.»
- «2.c) Las actividades ambulantes industriales y de servicios no comerciales.»
-«3. Asimismo, quedan excluidas las actividades comerciales que entran dentro del ámbito de aplicación de la Ley 
-15/2005, de 22 de diciembre, de Artesanía de Andalucía.»
-Tres. Se modifica el artículo 3, que queda con la siguiente 
-redacción:
-«Artículo 3. Autorización Municipal. 
-1. El ejercicio de las modalidades de comercio ambulante 
-previstas en el artículo 2, al desarrollarse en suelo público, 
-queda sometido a autorización previa. 
-Corresponderá a los Ayuntamientos el otorgamiento de 
-la autorización así como establecer el procedimiento para la 
-concesión de la misma, garantizando la incorporación de los 
-informes preceptivos exigidos por la legislación administrativa 
-especial, la transparencia, imparcialidad y publicidad adecuada de su inicio, desarrollo y fin. 
-La duración de la autorización podrá ser de uno a cuatro 
-años, con el fin de permitir a los titulares de la misma la amortización de las inversiones y una remuneración equitativa de 
-los capitales invertidos. 
-2. En las autorizaciones expedidas por los Ayuntamientos 
-se hará constar:
-a) La persona física o jurídica titular de la autorización 
-para el ejercicio del comercio ambulante, su DNI o NIF, domicilio a efectos de posibles reclamaciones y, en su caso, las personas con relación familiar o laboral que vayan a desarrollar 
-en su nombre la actividad. 
+«b) Las infracciones graves, con multa desde 3.001 hasta 45.000 euros.
+c) Las infracciones muy graves, con multa desde  45.001 hasta 150.000 euros. Esta última cantidad se podrá sobrepasar hasta alcanzar su décuplo, en el supuesto contemplado en el artículo 85.a) de la presente ley.» Veintinueve. Se renumeran los artículos 96 y 97, que pasan a ser los artículos 88 y 89.
+Artículo segundo. Modificación de la Ley 9/1988, de 25 de noviembre, del Comercio Ambulante. La Ley 9/1988, de 25 de noviembre, del Comercio Ambulante queda modificada como sigue:
+Uno. Se suprime el párrafo segundo del artículo 1. Dos. Se modifican, en el artículo 2, los párrafos a) y c) del apartado 1, el párrafo c) del apartado 2, y se introduce un apartado 3, quedando todos ellos con la siguiente redacción:
+«1.a) El comercio en mercadillos que se celebren regularmente, con una periodicidad determinada, en los lugares públicos establecidos». «1.c) El comercio itinerante, realizado en las vías públicas a lo largo de itinerarios establecidos, con el medio adecuado ya sea transportable o móvil.» «2.c) Las actividades ambulantes industriales y de servicios no comerciales.» «3. Asimismo, quedan excluidas las actividades comerciales que entran dentro del ámbito de aplicación de la Ley 15/2005, de 22 de diciembre, de Artesanía de Andalucía.» Tres. Se modifica el artículo 3, que queda con la siguiente redacción:
+«Artículo 3. Autorización Municipal.
+
+1. El ejercicio de las modalidades de comercio ambulante previstas en el artículo 2, al desarrollarse en suelo público, queda sometido a autorización previa. Corresponderá a los Ayuntamientos el otorgamiento de la autorización así como establecer el procedimiento para la concesión de la misma, garantizando la incorporación de los informes preceptivos exigidos por la legislación administrativa especial, la transparencia, imparcialidad y publicidad adecuada de su inicio, desarrollo y fin. La duración de la autorización podrá ser de uno a cuatro años, con el fin de permitir a los titulares de la misma la amortización de las inversiones y una remuneración equitativa de los capitales invertidos.
+
+2. En las autorizaciones expedidas por los Ayuntamientos se hará constar:
+a) La persona física o jurídica titular de la autorización para el ejercicio del comercio ambulante, su DNI o NIF, domicilio a efectos de posibles reclamaciones y, en su caso, las personas con relación familiar o laboral que vayan a desarrollar en su nombre la actividad.
 b) La duración de la autorización.
 c) La modalidad de Comercio Ambulante autorizada.
-d) La indicación precisa del lugar, fecha y horario en que 
-se va a ejercer la actividad.
-e) El tamaño, ubicación y estructura de los puestos donde 
-se va a realizar la actividad comercial.
+d) La indicación precisa del lugar, fecha y horario en que se va a ejercer la actividad.
+e) El tamaño, ubicación y estructura de los puestos donde se va a realizar la actividad comercial.
 f) Los productos autorizados para su comercialización.
-g) En la modalidad de comercio itinerante, el medio transportable o móvil en el que se ejerce la actividad y los itinerarios permitidos. 
-3. Los Ayuntamientos deberán verificar que las personas 
-físicas o jurídicas que hayan solicitado la autorización municipal están dadas de alta en el correspondiente epígrafe del 
-Impuesto de Actividades Económicas y en el régimen de la 
-Seguridad Social que corresponda.
-4. Las personas físicas o jurídicas, que obtengan la oportuna autorización municipal, deberán tener contratado un seguro de responsabilidad civil que cubra los riesgos de la actividad comercial. Además, en el caso de que los objetos de 
-venta consistan en productos para la alimentación humana, 
-las personas que vayan a manipular los alimentos deberán estar en posesión del certificado correspondiente acreditativo de 
-la formación como manipulador de alimentos. 
-5. Los Ayuntamientos habrán de facilitar a la Dirección 
-General competente en materia de comercio interior, mediante los instrumentos de comunicación que se determinen, una 
-relación anual de las autorizaciones concedidas en su municipio para el ejercicio del comercio ambulante.
-6. Los Ayuntamientos entregarán a las personas físicas o 
-jurídicas que hayan autorizado para el ejercicio del comercio 
-ambulante dentro de su término municipal, una placa identificativa que contendrá los datos esenciales de la autorización.»
-Cuatro. Se modifica el artículo 4, que queda con la siguiente redacción:
-«Artículo 4. Ordenanzas Municipales.
-1. Los Municipios donde se lleve a cabo el ejercicio del 
-comercio ambulante deberán contar con una Ordenanza reguladora de la actividad que desarrolle los preceptos recogidos 
-en la presente ley. 
-2. Las Ordenanzas municipales podrán establecer el régimen interno de funcionamiento de los mercadillos y, en todo 
-caso, habrán de contemplar:
+g) En la modalidad de comercio itinerante, el medio transportable o móvil en el que se ejerce la actividad y los itinerarios permitidos.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 19
+3. Los Ayuntamientos deberán verificar que las personas físicas o jurídicas que hayan solicitado la autorización municipal están dadas de alta en el correspondiente epígrafe del Impuesto de Actividades Económicas y en el régimen de la Seguridad Social que corresponda.
+
+4. Las personas físicas o jurídicas, que obtengan la oportuna autorización municipal, deberán tener contratado un seguro de responsabilidad civil que cubra los riesgos de la actividad comercial. Además, en el caso de que los objetos de venta consistan en productos para la alimentación humana, las personas que vayan a manipular los alimentos deberán estar en posesión del certificado correspondiente acreditativo de la formación como manipulador de alimentos.
+
+5. Los Ayuntamientos habrán de facilitar a la Dirección General competente en materia de comercio interior, mediante los instrumentos de comunicación que se determinen, una relación anual de las autorizaciones concedidas en su municipio para el ejercicio del comercio ambulante.
+
+6. Los Ayuntamientos entregarán a las personas físicas o jurídicas que hayan autorizado para el ejercicio del comercio ambulante dentro de su término municipal, una placa identificativa que contendrá los datos esenciales de la autorización.» Cuatro. Se modifica el artículo 4, que queda con la siguiente redacción:
+«Artículo 4. Ordenanzas Municipales.
+
+1. Los Municipios donde se lleve a cabo el ejercicio del comercio ambulante deberán contar con una Ordenanza reguladora de la actividad que desarrolle los preceptos recogidos en la presente ley.
+
+2. Las Ordenanzas municipales podrán establecer el régimen interno de funcionamiento de los mercadillos y, en todo caso, habrán de contemplar:
+
+Sevilla, 24 de diciembre 2009 Página núm. 19
 a) Las modalidades de comercio ambulante que se puedan realizar en los espacios públicos de su municipio.
 b) La duración de la autorización.
 c) Los lugares donde se puede realizar la actividad.
 d) Las fechas y horarios autorizados.
-e) El número, tamaño, estructura y localización de los 
-puestos.
-f) Las tasas que en su caso puedan establecer los ayuntamientos para la tramitación de las licencias que autoricen el 
-ejercicio del comercio ambulante en su municipio.
-g) El procedimiento para el otorgamiento de la autorización en el que se den las garantías recogidas en el apartado 1 
-del artículo 3 de la presente ley.
-3. Las Ordenanzas Municipales y sus modificaciones, 
-antes de su aprobación y publicación en el Boletín Oficial correspondiente, habrán de ser informadas por el Consejo Andaluz de Comercio. El informe versará sobre su adecuación 
-a las previsiones recogidas en la presente Ley y su normativa 
-de aplicación y será preceptivo y no vinculante. No obstante, 
-en caso de que la ordenanza se separe del criterio expresado 
-en el informe, el Ayuntamiento deberá, mediante Resolución 
-motivada y notificada al citado Consejo Andaluz de Comercio, 
-indicar las razones de dicha discrepancia». 
-Cinco. Se modifica el artículo 5, que queda con la siguiente redacción:
-«Artículo 5. Ejercicio de la Actividad.
-1. Las personas físicas o jurídicas titulares de la autorización municipal, en el ejercicio de su actividad comercial, deberán cumplir los siguientes requisitos: 
-a) Respetar las condiciones exigidas en la normativa reguladora de los productos objeto de comercio, en especial de 
-aquéllos destinados a alimentación humana. 
-b) Tener expuesto al público, en lugar visible, la placa 
-identificativa y los precios de venta de las mercancías, que 
-serán finales y completos (impuestos incluidos). 
-c) Tener a disposición de la autoridad competente las facturas y comprobantes de compra de los productos objeto de 
-comercio.
-d) Tener a disposición de las personas consumidoras y 
-usuarias las hojas de quejas y reclamaciones, de acuerdo con 
-el modelo reglamentariamente establecido.
-2. Corresponde a los ayuntamientos garantizar el cumplimiento de las disposiciones de policía y vigilancia de las actividades desarrolladas en los espacios públicos destinados al 
-comercio ambulante en sus municipios y de los puestos que 
-se ubiquen en los mismos. 
-3. Por la Consejería competente en materia de comercio 
-interior se podrán adoptar medidas de fomento para la mejora 
-de los Mercadillos de aquellos municipios cuyas Ordenanzas 
-hayan sido objeto de informe favorable por el Consejo Andaluz 
-de Comercio.»
-Seis. Se modifica el artículo 6, que queda con la siguiente 
-redacción:
-«Artículo 6. Del Registro General de Comerciantes Ambulantes.
-1. Las personas físicas y jurídicas que ejerzan el comercio 
-ambulante en la Comunidad Autónoma de Andalucía, podrán 
-solicitar su inscripción en el Registro General de Comerciantes 
-Ambulantes. Este Registro tiene naturaleza administrativa y 
-carácter público y gratuito.
-2. Las inscripciones se realizarán por la Dirección General 
-competente en materia de comercio interior. Asimismo, a solicitud de los ayuntamientos y mediante los instrumentos de comunicación que se determinen, la Dirección General competente 
-en materia de comercio interior deberá facilitar información 
-sobre si las personas físicas o jurídicas que solicitan la autorización municipal prevista en el artículo 3 de la presente ley, están 
-inscritas en el Registro de Comerciantes Ambulantes.
-3. La inscripción en el Registro General de Comerciantes 
-Ambulantes es voluntaria, tiene una validez de 4 años, y las 
-personas comerciantes inscritas podrán obtener los siguientes 
-beneficios:
-a) Ser reconocido como profesional del sector, pudiendo 
-expedirse a tal efecto una certificación acreditativa de la inscripción en el Registro.
-b) Solicitar el otorgamiento de alguno de los distintivos de 
-calidad que reglamentariamente se pudieran determinar.
-c) Solicitar posibles incentivos que la Consejería competente en materia de comercio interior pudiera acordar relacionados con el ejercicio de la actividad.
-d) Participar en cursos, conferencias y demás actividades 
-de esta índole que organice la Consejería competente en materia 
-de comercio interior, o en las que colabore dicha Consejería.»
-Siete. Se modifica el artículo 8, que queda con la siguiente redacción:
-«Artículo 8. Régimen sancionador.
-1. Corresponde a los ayuntamientos la inspección y sanción de las infracciones a la presente ley y disposiciones de 
-desarrollo, sin perjuicio de otras atribuciones competenciales 
-establecidas en la legislación vigente, y en especial en la Ley 
-13/2003, de 17 de diciembre, de defensa y protección de los 
-Consumidores y Usuarios en Andalucía.
-Cuando sean detectadas infracciones de índole sanitaria, 
-los ayuntamientos deberán dar cuenta inmediata de las mismas, para su tramitación y sanción si procediese, a las autoridades sanitarias que correspondan.
-2. A efectos de esta ley las infracciones se clasifican de la 
-siguiente forma:
-A) Infracciones leves:
-a) No tener expuesta al público, en lugar visible, la placa 
-identificativa y los precios de venta de las mercancías.
-b) No tener, a disposición de la autoridad competente, las 
-facturas y comprobantes de compra de los productos objeto 
-de comercio.
-c) No tener, a disposición de los consumidores y usuarios, 
-las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía, así como el cartel informativo 
-al respecto.
-d) El incumplimiento de los demás requisitos, obligaciones y prohibiciones contenidos en esta Ley, siempre que no 
-esté calificado como infracción grave o muy grave, así como el 
-incumplimiento del régimen interno de funcionamiento de los 
-mercadillos establecido en las Ordenanzas Municipales, salvo que se trate de infracciones tipificadas por la presente Ley 
-como infracción grave o muy grave.
-B) Infracciones graves:
-a) La reincidencia en infracciones leves. Se entenderá 
-que existe reincidencia por comisión en el término de un año 
-de más de una infracción leve, cuando así haya sido declarado 
-por Resolución firme.
-b) El incumplimiento de los requisitos exigidos por la normativa reguladora de los productos objetos de comercio, así 
-como el comercio de los no autorizados.
-c) La desobediencia o negativa a suministrar información 
-a la Autoridad Municipal o a sus funcionarios o agentes en el 
-cumplimiento de su misión.
+e) El número, tamaño, estructura y localización de los puestos.
+f) Las tasas que en su caso puedan establecer los ayuntamientos para la tramitación de las licencias que autoricen el ejercicio del comercio ambulante en su municipio.
+g) El procedimiento para el otorgamiento de la autorización en el que se den las garantías recogidas en el apartado 1 del artículo 3 de la presente ley.
 
-Página núm. 20 
-Se vi lla, 24 de diciembre 2009
-d) El ejercicio de la actividad incumpliendo las condiciones establecidas en la autorización municipal respecto al lugar 
-autorizado, fecha, horario, tamaño, ubicación y estructura de 
-los puestos.
-e) El ejercicio de la actividad por personas distintas a las 
-previstas en la autorización municipal.
+3. Las Ordenanzas Municipales y sus modificaciones, antes de su aprobación y publicación en el Boletín Oficial correspondiente, habrán de ser informadas por el Consejo Andaluz de Comercio. El informe versará sobre su adecuación a las previsiones recogidas en la presente Ley y su normativa de aplicación y será preceptivo y no vinculante. No obstante, en caso de que la ordenanza se separe del criterio expresado en el informe, el Ayuntamiento deberá, mediante Resolución motivada y notificada al citado Consejo Andaluz de Comercio, indicar las razones de dicha discrepancia». Cinco. Se modifica el artículo 5, que queda con la siguiente redacción:
+«Artículo 5. Ejercicio de la Actividad.
+
+1. Las personas físicas o jurídicas titulares de la autorización municipal, en el ejercicio de su actividad comercial, deberán cumplir los siguientes requisitos:
+a) Respetar las condiciones exigidas en la normativa reguladora de los productos objeto de comercio, en especial de aquéllos destinados a alimentación humana.
+b) Tener expuesto al público, en lugar visible, la placa identificativa y los precios de venta de las mercancías, que serán finales y completos (impuestos incluidos).
+c) Tener a disposición de la autoridad competente las facturas y comprobantes de compra de los productos objeto de comercio.
+d) Tener a disposición de las personas consumidoras y usuarias las hojas de quejas y reclamaciones, de acuerdo con el modelo reglamentariamente establecido.
+
+2. Corresponde a los ayuntamientos garantizar el cumplimiento de las disposiciones de policía y vigilancia de las actividades desarrolladas en los espacios públicos destinados al comercio ambulante en sus municipios y de los puestos que se ubiquen en los mismos.
+
+3. Por la Consejería competente en materia de comercio interior se podrán adoptar medidas de fomento para la mejora de los Mercadillos de aquellos municipios cuyas Ordenanzas hayan sido objeto de informe favorable por el Consejo Andaluz de Comercio.» Seis. Se modifica el artículo 6, que queda con la siguiente redacción:
+«Artículo 6. Del Registro General de Comerciantes Ambulantes.
+
+1. Las personas físicas y jurídicas que ejerzan el comercio ambulante en la Comunidad Autónoma de Andalucía, podrán solicitar su inscripción en el Registro General de Comerciantes Ambulantes. Este Registro tiene naturaleza administrativa y carácter público y gratuito.
+
+2. Las inscripciones se realizarán por la Dirección General competente en materia de comercio interior. Asimismo, a solicitud de los ayuntamientos y mediante los instrumentos de comunicación que se determinen, la Dirección General competente en materia de comercio interior deberá facilitar información sobre si las personas físicas o jurídicas que solicitan la autorización municipal prevista en el artículo 3 de la presente ley, están inscritas en el Registro de Comerciantes Ambulantes.
+
+3. La inscripción en el Registro General de Comerciantes Ambulantes es voluntaria, tiene una validez de 4 años, y las personas comerciantes inscritas podrán obtener los siguientes beneficios:
+a) Ser reconocido como profesional del sector, pudiendo expedirse a tal efecto una certificación acreditativa de la inscripción en el Registro.
+b) Solicitar el otorgamiento de alguno de los distintivos de calidad que reglamentariamente se pudieran determinar.
+c) Solicitar posibles incentivos que la Consejería competente en materia de comercio interior pudiera acordar relacionados con el ejercicio de la actividad.
+d) Participar en cursos, conferencias y demás actividades de esta índole que organice la Consejería competente en materia de comercio interior, o en las que colabore dicha Consejería.» Siete. Se modifica el artículo 8, que queda con la siguiente redacción:
+«Artículo 8. Régimen sancionador.
+
+1. Corresponde a los ayuntamientos la inspección y sanción de las infracciones a la presente ley y disposiciones de desarrollo, sin perjuicio de otras atribuciones competenciales establecidas en la legislación vigente, y en especial en la Ley 13/2003, de 17 de diciembre, de defensa y protección de los Consumidores y Usuarios en Andalucía. Cuando sean detectadas infracciones de índole sanitaria, los ayuntamientos deberán dar cuenta inmediata de las mismas, para su tramitación y sanción si procediese, a las autoridades sanitarias que correspondan.
+
+2. A efectos de esta ley las infracciones se clasifican de la siguiente forma:
+A) Infracciones leves:
+a) No tener expuesta al público, en lugar visible, la placa identificativa y los precios de venta de las mercancías.
+b) No tener, a disposición de la autoridad competente, las facturas y comprobantes de compra de los productos objeto de comercio.
+c) No tener, a disposición de los consumidores y usuarios, las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía, así como el cartel informativo al respecto.
+d) El incumplimiento de los demás requisitos, obligaciones y prohibiciones contenidos en esta Ley, siempre que no esté calificado como infracción grave o muy grave, así como el incumplimiento del régimen interno de funcionamiento de los mercadillos establecido en las Ordenanzas Municipales, salvo que se trate de infracciones tipificadas por la presente Ley como infracción grave o muy grave.
+B) Infracciones graves:
+a) **La reincidencia en infracciones leves.** Se entenderá que existe reincidencia por comisión en el término de un año de más de una infracción leve, cuando así haya sido declarado por Resolución firme.
+b) El incumplimiento de los requisitos exigidos por la normativa reguladora de los productos objetos de comercio, así como el comercio de los no autorizados.
+c) La desobediencia o negativa a suministrar información a la Autoridad Municipal o a sus funcionarios o agentes en el cumplimiento de su misión.
+
+Página núm. 20 Se vi lla, 24 de diciembre 2009
+d) El ejercicio de la actividad incumpliendo las condiciones establecidas en la autorización municipal respecto al lugar autorizado, fecha, horario, tamaño, ubicación y estructura de los puestos.
+e) El ejercicio de la actividad por personas distintas a las previstas en la autorización municipal.
 C) Infracciones muy graves:
-a) La reincidencia en infracciones graves. Se entenderá 
-que existe reincidencia por comisión en el término de un año 
-de más de una infracción grave, cuando así haya sido declarado por Resolución firme.
+a) **La reincidencia en infracciones graves.** Se entenderá que existe reincidencia por comisión en el término de un año de más de una infracción grave, cuando así haya sido declarado por Resolución firme.
 b) Carecer de la autorización municipal correspondiente.
-c) La resistencia, coacción o amenaza a la Autoridad Municipal, funcionarios y agentes de la misma, en cumplimiento 
-de su misión.
-3. Las infracciones leves podrán ser sancionadas con 
-apercibimiento o multa de hasta 1.500 euros. 
-Las infracciones graves podrán ser sancionadas con multa de 1.501 a 3.000 euros. 
-Las infracciones muy graves podrán ser sancionadas con 
-multa de 3.001 a 18.000 euros.
-En el caso de reincidencia por infracción muy grave, los 
-Ayuntamientos podrán comunicar esta circunstancia a la Dirección General competente en materia de comercio interior a 
-fin de que, en el supuesto de que la persona comerciante se 
-encontrara inscrita en el Registro de Comerciantes Ambulantes, se pueda acordar la cancelación de la inscripción.
-4. Con la finalidad de asegurar la eficacia de la resolución 
-que pudiera recaer, así como la protección provisional de los 
-intereses implicados, en el caso de infracciones graves o muy 
-graves, se podrán adoptar motivadamente como medidas provisionales la incautación de los productos objeto de comercio 
-no autorizados, y la incautación de los puestos, instalaciones 
-vehículos o cualquier medio utilizado para el ejercicio de la 
-actividad.
- Las medidas provisionales podrán ser adoptadas una vez 
-iniciado el procedimiento, o bien, por razones de urgencia, antes de la iniciación por el órgano competente para efectuar las 
-funciones de inspección. En este caso, las medidas deberán 
-ser confirmadas, modificadas o levantadas en el acuerdo de 
-iniciación del procedimiento, que deberá efectuarse dentro de 
-los quince días siguientes a su adopción, el cual podrá ser 
-objeto del recurso que proceda. Estas medidas se extinguirán 
-con la eficacia de la Resolución administrativa que ponga fin al 
-procedimiento correspondiente.
-5. De acuerdo con lo establecido en el artículo 131.3 de 
-la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de 
-las Administraciones Públicas y del Procedimiento Administrativo Común, en todo caso, para la graduación de las sanciones 
-se tendrán en cuenta los siguientes criterios:
+c) La resistencia, coacción o amenaza a la Autoridad Municipal, funcionarios y agentes de la misma, en cumplimiento de su misión.
+
+3. Las infracciones leves podrán ser sancionadas con apercibimiento o multa de hasta 1.500 euros. Las infracciones graves podrán ser sancionadas con multa de 1.501 a 3.000 euros. Las infracciones muy graves podrán ser sancionadas con multa de 3.001 a 18.000 euros. En el caso de reincidencia por infracción muy grave, los Ayuntamientos podrán comunicar esta circunstancia a la Dirección General competente en materia de comercio interior a fin de que, en el supuesto de que la persona comerciante se encontrara inscrita en el Registro de Comerciantes Ambulantes, se pueda acordar la cancelación de la inscripción.
+
+4. Con la finalidad de asegurar la eficacia de la resolución que pudiera recaer, así como la protección provisional de los intereses implicados, en el caso de infracciones graves o muy graves, se podrán adoptar motivadamente como medidas provisionales la incautación de los productos objeto de comercio no autorizados, y la incautación de los puestos, instalaciones vehículos o cualquier medio utilizado para el ejercicio de la actividad. Las medidas provisionales podrán ser adoptadas una vez iniciado el procedimiento, o bien, por razones de urgencia, antes de la iniciación por el órgano competente para efectuar las funciones de inspección. En este caso, las medidas deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda. Estas medidas se extinguirán con la eficacia de la Resolución administrativa que ponga fin al procedimiento correspondiente.
+
+5. De acuerdo con lo establecido en el artículo 131.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en todo caso, para la graduación de las sanciones se tendrán en cuenta los siguientes criterios:
 a) El volumen de la facturación a la que afecte.
 b) La naturaleza de los perjuicios causados.
 c) El grado de intencionalidad del infractor o reiteración.
@@ -1453,1103 +605,545 @@ d) La cuantía del beneficio obtenido.
 e) La reincidencia, cuando no sea determinante de la infracción.
 f) El plazo de tiempo durante el que se haya venido cometiendo la infracción.
 g) El número de consumidores y usuarios afectados.
-6. Además de las sanciones previstas en el apartado 3, en 
-el caso de infracciones graves o muy graves se podrá acordar 
-con carácter accesorio la revocación de la autorización municipal, así como el decomiso de la mercancía que sea objeto de 
-comercio y el decomiso de los puestos, instalaciones vehículos 
-o cualquier medio utilizado para el ejercicio de la actividad.»
-Artículo tercero. Modificación de la Ley 3/1992, de 22 de 
-octubre, de Ferias Comerciales Oficiales de Andalucía.
-La Ley 3/1992, de 22 de octubre, de Ferias Comerciales 
-Oficiales de Andalucía  queda modificada como sigue:
-Uno. Se modifica el artículo 1, que queda con la siguiente 
-redacción:
+
+6. Además de las sanciones previstas en el apartado 3, en el caso de infracciones graves o muy graves se podrá acordar con carácter accesorio la revocación de la autorización municipal, así como el decomiso de la mercancía que sea objeto de comercio y el decomiso de los puestos, instalaciones vehículos o cualquier medio utilizado para el ejercicio de la actividad.»
+Artículo tercero. Modificación de la Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía. La Ley 3/1992, de 22 de octubre, de Ferias Comerciales Oficiales de Andalucía  queda modificada como sigue:
+Uno. Se modifica el artículo 1, que queda con la siguiente redacción:
 «Artículo 1.Objeto y ámbito de aplicación.
-1. La presente ley tiene por objeto establecer las condiciones que rigen la organización, participación y reconocimiento 
-de las ferias comerciales que se celebren con carácter de «Oficial» en Andalucía. 
+
+1. La presente ley tiene por objeto establecer las condiciones que rigen la organización, participación y reconocimiento de las ferias comerciales que se celebren con carácter de «Oficial» en Andalucía.
+
 2. Quedan excluidas de la presente ley:
 a) Las ferias internacionales.
 b) Las muestras y mercados populares dedicados fundamentalmente a promover transacciones de productos agrícolas y ganaderos.
-c) Las exposiciones de carácter esporádico.»
-Dos. Se modifica el artículo 2, que queda con la siguiente 
-redacción: 
+c) Las exposiciones de carácter esporádico.» Dos. Se modifica el artículo 2, que queda con la siguiente redacción:
 «Artículo 2. Concepto.
-1. A los efectos de esta ley, son Ferias Comerciales las 
-muestras profesionales con finalidad comercial en las que, de 
-forma colectiva, temporal y periódica, un grupo de operadores 
-expone bienes u ofrece servicios con objeto de favorecer su 
-conocimiento y difusión, y promueve contactos e intercambios 
-comerciales facilitando el acercamiento entre la oferta y la demanda en un entorno propicio a los operadores económicos, 
-no siendo su finalidad la venta directa.
-2. Son Ferias Comerciales Oficiales, las Ferias Comerciales que se celebren con arreglo a esta ley y así sea reconocido 
-por la Consejería competente en materia de comercio interior 
-en orden a asegurar su nivel de calidad y la coordinación de su 
-calendario de celebración. 
-3. La venta directa que de modo ocasional se realice en 
-una Feria Comercial Oficial, que suponga retirada de la mercancía o conclusión del contrato de servicios, tendrá la consideración de venta especial fuera de establecimiento comercial 
-permanente, conforme a lo previsto en la Ley 1/1996, de 10 
-de enero, del comercio interior de Andalucía.» 
-Tres. Se modifica la denominación del Capítulo II, que 
-queda con la siguiente redacción:
- «CAPÍTULO II
-Clasificación y características de las Ferias Comerciales 
-Oficiales»
-Cuatro. Se modifica el artículo 3, que queda con la siguiente redacción:
-«Artículo 3. Clasificaciones.
-1. Atendiendo a la procedencia territorial de los expositores y al origen de los bienes y servicios expuestos, las ferias 
-comerciales oficiales se clasificarán en nacionales, regionales, 
-provinciales, comarcales y locales.
-2. En función de la oferta exhibida, las ferias comerciales 
-oficiales se clasificarán en: 
-a) Generales: Aquéllas en las que se incluyan bienes y 
-servicios pertenecientes a todas o varias ramas de los distintos sectores de la actividad económica.
-b) Sectoriales: Aquéllas en las que los bienes y servicios 
-pertenecen a varias ramas de un mismo sector de la actividad 
-económica.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 21
-c) Monográficas: Aquéllas en las que los bienes y servicios pertenecen a una sola rama o producto de la actividad 
-económica.
-3. Corresponde a la Consejería competente en materia 
-de comercio interior, la clasificación de las ferias comerciales 
-oficiales, una vez recibida la declaración responsable de la entidad organizadora.»
-Cinco. Se modifica el artículo 4, que queda con la siguiente redacción: 
-«Artículo 4. Duración y periodicidad.
-La duración de las ferias comerciales oficiales será la que 
-comunique en la declaración responsable la entidad organizadora, sin que pueda exceder de quince días, ni ser su periodicidad inferior a un año, salvo que concurran motivos de 
-especial interés económico o social.» 
-Seis. Se modifica el artículo 5, que queda con la siguiente 
-redacción:
+1. A los efectos de esta ley, son Ferias Comerciales las muestras profesionales con finalidad comercial en las que, de forma colectiva, temporal y periódica, un grupo de operadores expone bienes u ofrece servicios con objeto de favorecer su conocimiento y difusión, y promueve contactos e intercambios comerciales facilitando el acercamiento entre la oferta y la demanda en un entorno propicio a los operadores económicos, no siendo su finalidad la venta directa.
+
+2. Son Ferias Comerciales Oficiales, las Ferias Comerciales que se celebren con arreglo a esta ley y así sea reconocido por la Consejería competente en materia de comercio interior en orden a asegurar su nivel de calidad y la coordinación de su calendario de celebración.
+
+3. La venta directa que de modo ocasional se realice en una Feria Comercial Oficial, que suponga retirada de la mercancía o conclusión del contrato de servicios, tendrá la consideración de venta especial fuera de establecimiento comercial permanente, conforme a lo previsto en la Ley 1/1996, de 10 de enero, del comercio interior de Andalucía.» Tres. Se modifica la denominación del Capítulo II, que queda con la siguiente redacción:
+«CAPÍTULO II Clasificación y características de las Ferias Comerciales Oficiales» Cuatro. Se modifica el artículo 3, que queda con la siguiente redacción:
+«Artículo 3. Clasificaciones.
+
+1. Atendiendo a la procedencia territorial de los expositores y al origen de los bienes y servicios expuestos, las ferias comerciales oficiales se clasificarán en nacionales, regionales, provinciales, comarcales y locales.
+
+2. En función de la oferta exhibida, las ferias comerciales oficiales se clasificarán en:
+a) **Generales.** Aquéllas en las que se incluyan bienes y servicios pertenecientes a todas o varias ramas de los distintos sectores de la actividad económica.
+b) **Sectoriales.** Aquéllas en las que los bienes y servicios pertenecen a varias ramas de un mismo sector de la actividad económica.
+
+Sevilla, 24 de diciembre 2009 Página núm. 21
+c) **Monográficas.** Aquéllas en las que los bienes y servicios pertenecen a una sola rama o producto de la actividad económica.
+
+3. Corresponde a la Consejería competente en materia de comercio interior, la clasificación de las ferias comerciales oficiales, una vez recibida la declaración responsable de la entidad organizadora.» Cinco. Se modifica el artículo 4, que queda con la siguiente redacción:
+«Artículo 4. Duración y periodicidad. La duración de las ferias comerciales oficiales será la que comunique en la declaración responsable la entidad organizadora, sin que pueda exceder de quince días, ni ser su periodicidad inferior a un año, salvo que concurran motivos de especial interés económico o social.» Seis. Se modifica el artículo 5, que queda con la siguiente redacción:
 «Artículo 5. Entidades organizadoras.
-1. Las entidades organizadoras de las ferias comerciales 
-oficiales tendrán personalidad jurídica propia y llevarán a cabo 
-la promoción, organización y celebración de éstas con arreglo 
-a las disposiciones de esta Ley.
-2. Las entidades organizadoras deberán disponer de un 
-seguro de responsabilidad profesional u otros medios adecuados para garantizar de forma suficiente las eventuales responsabilidades que se deriven de la celebración de las ferias comerciales oficiales que organicen.»
-Siete. Se suprimen los artículos 6, 7 y 8.
-Ocho. Se modifica el artículo 9, que pasa a ser el artículo 
-6, que queda con la siguiente redacción: 
-«Artículo 6. Obligaciones de la entidad organizadora.
-Son obligaciones de la entidad organizadora: 
-1. Comunicar a la Consejería competente en materia de 
-comercio interior, a través de una declaración responsable, la 
-relación de Ferias Comerciales Oficiales que vaya a organizar, 
-detallándose la clasificación, duración y periodicidad de las 
-mismas en los términos previstos en el artículo 7, así como 
-información sobre dicha entidad organizadora incluyendo NIF, 
-domicilio y datos profesionales, con objeto de garantizar la calidad necesaria del servicio ofrecido así como la seguridad de 
-las personas y bienes presentes en la Feria Comercial Oficial.
-Aquellas ferias que no vengan indicadas en la declaración 
-responsable no podrán obtener la condición de Ferias Comerciales Oficiales, y no se incluirán en el calendario correspondiente.
-2. Constituir un Comité Organizador para cada feria comercial oficial, bajo la dependencia directa de la entidad organizadora, responsable de su promoción y organización, en el 
-que deberán estar representadas, al menos, las organizaciones sectoriales más representativas del objeto de la muestra.
-3. Admitir como expositores a las entidades privadas 
-que ejerzan legalmente su actividad garantizando la no discriminación, así como a aquellos Entes Públicos que lo soliciten, 
-siempre con adecuación a la clasificación de la feria comercial 
-oficial.
-4. Celebrar las ferias comerciales oficiales conforme a las 
-condiciones comunicadas. 
-5. Garantizar dentro del recinto ferial, el mantenimiento 
-del orden público, la seguridad de las personas, productos, 
-instalaciones, medio ambiente, y protección de las personas 
-consumidoras y usuarias, así como el cumplimiento de la normativa sanitaria que resulte de aplicación. 
-6. Garantizar la calidad del servicio prestado en las Ferias 
-Comerciales Oficiales
-7. Remitir a la Consejería competente en materia de comercio interior, en el plazo de tres meses tras la clausura de 
-la feria comercial oficial, una Memoria en la que se dé cuenta 
-de las actividades desarrolladas, los resultados obtenidos, así 
-como la valoración razonada que a la entidad organizadora le 
-merezca la celebración de la feria.
-8. Tener a disposición pública las hojas de quejas y reclamaciones de acuerdo con el modelo establecido en el Anexo I 
-del Decreto 72/2008, de 4 de marzo, por el que se regulan las 
-hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía, y las actuaciones administrativas 
-relacionadas con ellas. 
-9. Prestar la colaboración que le sea requerida por la 
-Consejería competente en materia de comercio interior, en el 
-cumplimiento de sus funciones.
-10. Cumplir aquellos otros requisitos contenidos en esta 
-Ley y sus disposiciones de desarrollo.»
-Nueve. Se modifica el Título del Capítulo IV que queda 
-con la siguiente redacción:
-«CAPÍTULO IV
-Procedimiento de obtención de la condición de Feria 
-Comercial Oficial y competencias de la Administración»
-Diez. Se modifica el artículo 10, que pasa a ser el artículo 
-7, con la siguiente redacción: 
+
+1. Las entidades organizadoras de las ferias comerciales oficiales tendrán personalidad jurídica propia y llevarán a cabo la promoción, organización y celebración de éstas con arreglo a las disposiciones de esta Ley.
+
+2. Las entidades organizadoras deberán disponer de un seguro de responsabilidad profesional u otros medios adecuados para garantizar de forma suficiente las eventuales responsabilidades que se deriven de la celebración de las ferias comerciales oficiales que organicen.» Siete. Se suprimen los artículos 6, 7 y 8. Ocho. Se modifica el artículo 9, que pasa a ser el artículo 6, que queda con la siguiente redacción:
+«Artículo 6. Obligaciones de la entidad organizadora. Son obligaciones de la entidad organizadora:
+
+1. Comunicar a la Consejería competente en materia de comercio interior, a través de una declaración responsable, la relación de Ferias Comerciales Oficiales que vaya a organizar, detallándose la clasificación, duración y periodicidad de las mismas en los términos previstos en el artículo 7, así como información sobre dicha entidad organizadora incluyendo NIF, domicilio y datos profesionales, con objeto de garantizar la calidad necesaria del servicio ofrecido así como la seguridad de las personas y bienes presentes en la Feria Comercial Oficial. Aquellas ferias que no vengan indicadas en la declaración responsable no podrán obtener la condición de Ferias Comerciales Oficiales, y no se incluirán en el calendario correspondiente.
+
+2. Constituir un Comité Organizador para cada feria comercial oficial, bajo la dependencia directa de la entidad organizadora, responsable de su promoción y organización, en el que deberán estar representadas, al menos, las organizaciones sectoriales más representativas del objeto de la muestra.
+
+3. Admitir como expositores a las entidades privadas que ejerzan legalmente su actividad garantizando la no discriminación, así como a aquellos Entes Públicos que lo soliciten, siempre con adecuación a la clasificación de la feria comercial oficial.
+
+4. Celebrar las ferias comerciales oficiales conforme a las condiciones comunicadas.
+
+5. Garantizar dentro del recinto ferial, el mantenimiento del orden público, la seguridad de las personas, productos, instalaciones, medio ambiente, y protección de las personas consumidoras y usuarias, así como el cumplimiento de la normativa sanitaria que resulte de aplicación.
+
+6. Garantizar la calidad del servicio prestado en las Ferias Comerciales Oficiales
+
+7. Remitir a la Consejería competente en materia de comercio interior, en el plazo de tres meses tras la clausura de la feria comercial oficial, una Memoria en la que se dé cuenta de las actividades desarrolladas, los resultados obtenidos, así como la valoración razonada que a la entidad organizadora le merezca la celebración de la feria.
+
+8. Tener a disposición pública las hojas de quejas y reclamaciones de acuerdo con el modelo establecido en el Anexo I del Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía, y las actuaciones administrativas relacionadas con ellas.
+
+9. Prestar la colaboración que le sea requerida por la Consejería competente en materia de comercio interior, en el cumplimiento de sus funciones.
+
+10. Cumplir aquellos otros requisitos contenidos en esta Ley y sus disposiciones de desarrollo.» Nueve. Se modifica el Título del Capítulo IV que queda con la siguiente redacción:
+«CAPÍTULO IV Procedimiento de obtención de la condición de Feria Comercial Oficial y competencias de la Administración» Diez. Se modifica el artículo 10, que pasa a ser el artículo 7, con la siguiente redacción:
 «Artículo 7. Declaración y reconocimiento.
-1. A fin de coordinar los espacios adecuados para la celebración de ferias comerciales oficiales y el calendario de celebración de las mismas, las entidades organizadoras que deseen 
-el reconocimiento oficial de las ferias comerciales que celebren, 
-deberán presentar en la Consejería competente en materia de 
-comercio interior, una declaración responsable con sus datos 
-identificativos y los relativos a las actividades feriales para las 
-cuales solicitan la obtención del reconocimiento oficial.
-La declaración responsable deberá presentarse antes de 
-la finalización del año anterior al de celebración de las ferias 
-comerciales para las que se solicita la oficialidad, y su contenido y modelo se determinarán reglamentariamente.
-2. La Consejería competente en materia de comercio 
-interior, con el fin de conseguir la mayor calidad del servicio 
-prestado, la mejor planificación sectorial, un mínimo nivel de 
-prestigio y de seguridad de las Ferias Comerciales Oficiales, 
-valorará, dentro del derecho de libre establecimiento y de libre 
-prestación de servicios, la información aportada por la entidad 
-organizadora en la declaración responsable, y en particular:
-a) La disponibilidad de un recinto adecuado para la celebración de ferias. 
-b) La incidencia en el desarrollo empresarial en el ámbito 
-territorial de la feria.
+
+1. A fin de coordinar los espacios adecuados para la celebración de ferias comerciales oficiales y el calendario de celebración de las mismas, las entidades organizadoras que deseen el reconocimiento oficial de las ferias comerciales que celebren, deberán presentar en la Consejería competente en materia de comercio interior, una declaración responsable con sus datos identificativos y los relativos a las actividades feriales para las cuales solicitan la obtención del reconocimiento oficial. La declaración responsable deberá presentarse antes de la finalización del año anterior al de celebración de las ferias comerciales para las que se solicita la oficialidad, y su contenido y modelo se determinarán reglamentariamente.
+
+2. La Consejería competente en materia de comercio interior, con el fin de conseguir la mayor calidad del servicio prestado, la mejor planificación sectorial, un mínimo nivel de prestigio y de seguridad de las Ferias Comerciales Oficiales, valorará, dentro del derecho de libre establecimiento y de libre prestación de servicios, la información aportada por la entidad organizadora en la declaración responsable, y en particular:
+a) La disponibilidad de un recinto adecuado para la celebración de ferias.
+b) La incidencia en el desarrollo empresarial en el ámbito territorial de la feria.
 c) La repercusión en los intereses generales afectados.
-d) La no coincidencia de una feria comercial oficial con 
-otra de la misma clasificación.
-e) La consolidación y prestigio de la feria, en el caso de 
-concurrir varias ferias comerciales en un mismo período.
-f) El nivel de participación previsto, tanto de expositores, 
-como de profesionales y, en su caso, períodos de acceso al 
-público en general.
+d) La no coincidencia de una feria comercial oficial con otra de la misma clasificación.
+e) La consolidación y prestigio de la feria, en el caso de concurrir varias ferias comerciales en un mismo período.
+f) El nivel de participación previsto, tanto de expositores, como de profesionales y, en su caso, períodos de acceso al público en general.
 g) Solvencia y profesionalidad del organizador.
 h) Aquellos otros factores que permitan la evaluación objetiva de la solicitud presentada.
-3. La Consejería competente en materia de comercio interior otorgará la condición de Feria Comercial Oficial mediante 
 
-Página núm. 22 
-Se vi lla, 24 de diciembre 2009
-la publicación del calendario anual, inscribiéndolas de oficio 
-en el Registro de Ferias Comerciales Oficiales de Andalucía. 
-La inscripción deberá notificarse al interesado.»
-Once. Se modifica el artículo 11, que pasa a ser el artículo 8, con la siguiente redacción.
-«Artículo 8. Competencias de la Consejería. 
-Corresponde a la Consejería competente en materia de 
-comercio interior: 
-1. El otorgamiento de la condición de ferias comerciales 
-oficiales en Andalucía, y su clasificación.
-2. La supervisión de las ferias comerciales oficiales y sus 
-entidades organizadoras en los términos previstos en la presente Ley.
+3. La Consejería competente en materia de comercio interior otorgará la condición de Feria Comercial Oficial mediante
+
+Página núm. 22 Se vi lla, 24 de diciembre 2009 la publicación del calendario anual, inscribiéndolas de oficio en el Registro de Ferias Comerciales Oficiales de Andalucía. La inscripción deberá notificarse al interesado.» Once. Se modifica el artículo 11, que pasa a ser el artículo 8, con la siguiente redacción. «Artículo 8. Competencias de la Consejería. Corresponde a la Consejería competente en materia de comercio interior:
+
+1. El otorgamiento de la condición de ferias comerciales oficiales en Andalucía, y su clasificación.
+
+2. La supervisión de las ferias comerciales oficiales y sus entidades organizadoras en los términos previstos en la presente Ley.
+
 3. La elaboración del calendario anual de las ferias comerciales oficiales que se celebren en Andalucía, que será publicado en el Boletín Oficial de la Junta de Andalucía.
-4. La revocación, previo requerimiento, de la condición 
-de una Feria Comercial Oficial y, en su caso, su clasificación, 
-cuando se incumpla lo previsto en la presente Ley y disposiciones de desarrollo o en la declaración responsable a que se 
-refiere el artículo 7.
-5. La promoción de las ferias comerciales oficiales cuya 
-realización aconsejen los intereses generales de la Comunidad 
-Autónoma.
-6. La ejecución de la legislación estatal en relación con 
-las ferias internacionales que se celebren en Andalucía.
-7. El ejercicio de aquellas funciones que le sean asignadas por la presente ley o disposiciones de desarrollo.»
-Doce. Se modifica el título del Capítulo V, con la siguiente 
-redacción:
-«Capítulo V. Registro Oficial.»
-Trece. Se modifica el artículo 12 que pasa a ser el artículo 
-9, con la siguiente redacción:
-«Artículo 9. Registro de Ferias Comerciales Oficiales de 
-Andalucía.
-1. Se crea el Registro de Ferias Comerciales Oficiales de 
-Andalucía, bajo la dependencia de la Consejería competente 
-en materia de comercio interior.
+
+4. La revocación, previo requerimiento, de la condición de una Feria Comercial Oficial y, en su caso, su clasificación, cuando se incumpla lo previsto en la presente Ley y disposiciones de desarrollo o en la declaración responsable a que se refiere el artículo 7.
+
+5. La promoción de las ferias comerciales oficiales cuya realización aconsejen los intereses generales de la Comunidad Autónoma.
+
+6. La ejecución de la legislación estatal en relación con las ferias internacionales que se celebren en Andalucía.
+
+7. El ejercicio de aquellas funciones que le sean asignadas por la presente ley o disposiciones de desarrollo.» Doce. Se modifica el título del Capítulo V, con la siguiente redacción:
+«Capítulo V. Registro Oficial.» Trece. Se modifica el artículo 12 que.
+
+pasa a ser el artículo 9, con la siguiente redacción:
+«Artículo 9. Registro de Ferias Comerciales Oficiales de Andalucía.
+
+1. Se crea el Registro de Ferias Comerciales Oficiales de Andalucía, bajo la dependencia de la Consejería competente en materia de comercio interior.
+
 2. En el citado Registro, que se desarrollará reglamentariamente, deberán inscribirse de oficio:
-a) Las entidades organizadoras, debiendo constar en el 
-asiento de inscripción todos los datos identificativos de las 
-mismas.
+a) Las entidades organizadoras, debiendo constar en el asiento de inscripción todos los datos identificativos de las mismas.
 b) Las ferias comerciales oficiales reconocidas, con expresión de su denominación, fecha y lugar de celebración, clasificación legal otorgada y entidad organizadora.
-3. Serán objeto de anotación en el Registro las sanciones 
-impuestas por las infracciones previstas en el capítulo VI.
-4. El Registro de Ferias Comerciales Oficiales de Andalucía 
-tiene naturaleza administrativa y carácter público y gratuito.»
-Catorce. Se suprime el artículo 13.
-Quince. Se modifica el artículo 14 que pasa a ser el artículo 10, con la siguiente redacción.
-«Artículo 10. Infracciones.
-Son infracciones administrativas las acciones u omisiones contrarias a las disposiciones contenidas en la presente 
-Ley, pudiendo ser calificadas como infracción leve, grave o 
-muy grave.
+
+3. Serán objeto de anotación en el Registro las sanciones impuestas por las infracciones previstas en el capítulo VI.
+
+4. El Registro de Ferias Comerciales Oficiales de Andalucía tiene naturaleza administrativa y carácter público y gratuito.» Catorce. Se suprime el artículo 13. Quince. Se modifica el artículo 14 que.
+
+pasa a ser el artículo 10, con la siguiente redacción. «Artículo 10. Infracciones. Son infracciones administrativas las acciones u omisiones contrarias a las disposiciones contenidas en la presente Ley, pudiendo ser calificadas como infracción leve, grave o muy grave.
+
 1. Constituyen infracciones leves:
-a) No tener a disposición de las personas consumidoras 
-y usuarias las hojas de quejas y reclamaciones exigidas en 
-el artículo 6.8, de acuerdo con el modelo establecido en el 
+a) No tener a disposición de las personas consumidoras y usuarias las hojas de quejas y reclamaciones exigidas en el artículo 6.8, de acuerdo con el modelo establecido en el
 
-## Anexo I del Decreto 72/2008, de 4 de marzo.
+## Anexo I. del Decreto 72/2008, de 4 de marzo.
 
-b) Cualquier acción u omisión que resulte contraria a la 
-presente Ley, siempre que no deba ser calificada como infracción grave o muy grave.
+b) Cualquier acción u omisión que resulte contraria a la presente Ley, siempre que no deba ser calificada como infracción grave o muy grave.
+
 2. Son infracciones graves:
-a) El uso indebido de la denominación «Feria Comercial 
-Oficial» u «Oficial» para muestras carentes de tal carácter.
-b) El uso indebido de las clasificaciones reconocidas de 
-acuerdo con lo dispuesto en el artículo 3 de esta Ley.
-c) La exclusión injustificada de expositores en una feria 
-comercial oficial.
-d) El incumplimiento de la condiciones comunicadas para 
-la celebración de la feria comercial oficial.
-e) No prestar la colaboración requerida por la Consejería 
-competente en materia de comercio interior.
+a) El uso indebido de la denominación «Feria Comercial Oficial» u «Oficial» para muestras carentes de tal carácter.
+b) El uso indebido de las clasificaciones reconocidas de acuerdo con lo dispuesto en el artículo 3 de esta Ley.
+c) La exclusión injustificada de expositores en una feria comercial oficial.
+d) El incumplimiento de la condiciones comunicadas para la celebración de la feria comercial oficial.
+e) No prestar la colaboración requerida por la Consejería competente en materia de comercio interior.
 f) La no celebración de ferias comerciales oficiales comunicadas e inscritas, salvo que concurran circunstancias de especial gravedad debidamente justificadas.
-g) La inobservancia de las obligaciones de organización y 
-funcionamiento establecidas en el artículo 6, no tipificadas en 
-este artículo.
-h) La comisión en el término de un año, de más de una infracción leve, cuando así haya sido declarado por resolución firme. 
-i) El incumplimiento de los mandatos o requerimientos 
-realizados por la Consejería competente en materia de comercio interior en el ejercicio de sus funciones. 
-3. Se considera infracción muy grave la reincidencia en 
-infracciones graves. Se entenderá que existe reincidencia por 
-comisión en el término de un año de más de una infracción 
-grave, cuando así haya sido declarado por resolución firme.
-Dieciséis. Se modifica el artículo 15, que pasa a ser el 
+g) La inobservancia de las obligaciones de organización y funcionamiento establecidas en el artículo 6, no tipificadas en este artículo.
+h) La comisión en el término de un año, de más de una infracción leve, cuando así haya sido declarado por resolución firme.
+i) El incumplimiento de los mandatos o requerimientos realizados por la Consejería competente en materia de comercio interior en el ejercicio de sus funciones.
 
-#### artículo 11 con la siguiente redacción:
+3. Se considera infracción muy grave la reincidencia en infracciones graves. Se entenderá que existe reincidencia por comisión en el término de un año de más de una infracción grave, cuando así haya sido declarado por resolución firme. Dieciséis. Se modifica el artículo 15, que pasa a ser el artículo 11 con la siguiente redacción:
 
-«Artículo 11. Sanciones. 
-1. Por razón de las infracciones previstas en el artículo 
-anterior, podrán imponerse las siguientes sanciones:
+«Artículo 11. Sanciones.
+
+1. Por razón de las infracciones previstas en el artículo anterior, podrán imponerse las siguientes sanciones:
 a) Infracciones leves, multa de hasta 3.000 euros.
 b) Infracciones graves, multa de 3.001 hasta 18.000 euros.
-c) Infracciones muy graves, multa desde 18.001 hasta 
-30.000 euros.
-2. Las sanciones serán graduadas atendiendo a las circunstancias agravantes o atenuantes que pudieran concurrir en la 
-infracción cometida, teniéndose en cuenta la existencia o no de 
-intencionalidad, reiteración, connivencia en la comisión, participación en el perjuicio, y mayor o menor cifra de negocios afectada.
-3. En los supuestos de infracciones graves y muy graves 
-en los que medien reiteradamente circunstancias agravantes, 
-las sanciones establecidas en el apartado primero podrán llevar aparejadas la prohibición de organización y participación 
-en futuras ferias durante el año siguiente al de la fecha de resolución firme en el caso de infracciones graves y los dos años 
-siguientes en el caso de infracciones muy graves.»
-Diecisiete. Se modifica el artículo 16, que pasa a ser el 
-artículo 12, con la siguiente redacción:
-«Artículo 12. Procedimiento sancionador.
-1. El procedimiento para la imposición de las sanciones 
-se ajustará a lo establecido en la Ley 30/1992, de 26 de no-
+c) Infracciones muy graves, multa desde 18.001 hasta 30.000 euros.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 23
-viembre, de Régimen jurídico de las Administraciones Públicas 
-y del Procedimiento Administrativo Común y demás normativa 
-de aplicación.
-2. La incoación del procedimiento sancionador corresponde al órgano de la Consejería competente en materia de 
-comercio interior que se determine reglamentariamente.
-3. Corresponde a la persona titular de la Dirección General competente en materia de comercio interior sancionar las 
-infracciones cometidas al amparo de esta Ley.»
-Dieciocho. Se modifica el artículo 17, que pasa a ser el 
-artículo 13, con la siguiente redacción:
-«Artículo 13. Responsabilidad y prescripción.
+2. Las sanciones serán graduadas atendiendo a las circunstancias agravantes o atenuantes que pudieran concurrir en la infracción cometida, teniéndose en cuenta la existencia o no de intencionalidad, reiteración, connivencia en la comisión, participación en el perjuicio, y mayor o menor cifra de negocios afectada.
+
+3. En los supuestos de infracciones graves y muy graves en los que medien reiteradamente circunstancias agravantes, las sanciones establecidas en el apartado primero podrán llevar aparejadas la prohibición de organización y participación en futuras ferias durante el año siguiente al de la fecha de resolución firme en el caso de infracciones graves y los dos años siguientes en el caso de infracciones muy graves.» Diecisiete. Se modifica el artículo 16, que pasa a ser el artículo 12 , con la siguiente redacción «Artículo 12.
+
+Procedimiento sancionador.
+
+1. El procedimiento para la imposición de las sanciones se ajustará a lo establecido en la Ley 30/1992, de 26 de noSevilla, 24 de diciembre 2009 Página núm. 23 viembre, de Régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y demás normativa de aplicación.
+
+2. La incoación del procedimiento sancionador corresponde al órgano de la Consejería competente en materia de comercio interior que se determine reglamentariamente.
+
+3. Corresponde a la persona titular de la Dirección General competente en materia de comercio interior sancionar las infracciones cometidas al amparo de esta Ley.» Dieciocho. Se modifica el artículo 17, que pasa a ser el artículo 13 , con la siguiente redacción «Artículo 13.
+
+Responsabilidad y prescripción.
+
 1. Serán responsables de las infracciones quienes por acción u omisión hubieren participado en su realización.
-2. Las infracciones muy graves, prescribirán a los dos 
-años, las graves prescribirán al año y las leves a los seis meses. Los plazos empezarán a computarse a partir del día en 
-que se hubieren cometido.
-3. Las sanciones impuestas por infracciones muy graves, 
-prescribirán a los tres años, las impuestas por infracciones 
-graves prescribirán a los dos años, y las impuestas por infracciones leves al año, computándose dichos plazos a partir del 
-día siguiente a aquél en que adquiera firmeza la resolución por 
-la que se impone la sanción.»
-Artículo Cuarto. Modificación de la Ley 12/1999, de 15 
-de diciembre, del Turismo.
-La Ley 12/1999, de 15 de diciembre, del Turismo  queda 
-modificada como sigue:
-Uno. La letra g) del apartado 1 del artículo 3 queda con la 
-siguiente redacción:
-«La planificación y ordenación del turismo y de los recursos turísticos de interés para Andalucía y la coordinación de 
-las actuaciones que en esa materia ejerzan las entidades locales.»
-Dos. La letra d) del artículo 25 queda con la siguiente 
-redacción:
-«d) Al reconocimiento por parte de la Administración turística, en los supuestos previstos en la presente Ley, de la 
-clasificación administrativa de los establecimientos de su titularidad.»
-Tres. El artículo 28 queda con la siguiente redacción:
-«Artículo 28. Libertad de establecimiento y de prestación 
-de los servicios turísticos.
-1. Cualquier prestador de servicios turísticos podrá establecerse libremente en Andalucía, sin más limitaciones que las 
-derivadas del cumplimiento de las normas legales y reglamentarias que les sean de aplicación, previa presentación de la 
-declaración responsable en los términos expresados en el artículo 35.2, la cual habilitará para el ejercicio de la actividad.
-Los prestadores de servicios turísticos que ejercen una 
-actividad turística y estén legalmente establecidos en otra 
-Comunidad Autónoma podrán desarrollarla en Andalucía sin 
-necesidad de presentar la citada declaración.
-2. Los prestadores de servicios turísticos establecidos en 
-cualquier otro Estado miembro de la Unión Europea podrán 
-prestar libremente servicios turísticos de carácter temporal en 
-Andalucía sin necesidad de presentar declaración responsable 
-alguna.
-3. A efectos de libertad de establecimiento y de prestación 
-de servicios, se consideran prestadores de servicios turísticos 
-quienes se dediquen en nombre propio y de manera habitual y 
-remunerada a la prestación de algún servicio turístico conforme a la normativa de aplicación debiendo figurar inscritos en 
-el Registro de Turismo de Andalucía en los supuestos y en la 
-forma que dispone la presente Ley.
-La habitualidad se presumirá respecto de quienes ofrezcan la prestación de servicios turísticos a través de cualquier 
-medio publicitario o cuando se preste el servicio en una o 
-varias ocasiones dentro del mismo año por tiempo que, en 
-conjunto, exceda de un mes, salvo que reglamentariamente 
-se determine otro para determinados servicios turísticos, en 
-razón de las peculiaridades de los mismos.
-4. La publicidad por cualquier medio de difusión o la efectiva prestación de servicios turísticos sin haber cumplido el 
-deber de presentación de la declaración responsable prevista 
-en el artículo 35.2 o de la comunicación regulada en el artículo 49.3, párrafo segundo, de esta Ley, será considerada 
-actividad clandestina.»
-Cuatro. El artículo 29 queda con la siguiente redacción:
-«Artículo 29. Signos distintivos y publicidad de los servicios turísticos.
-En toda la publicidad, anuncios, documentación, correspondencia y tarifas de precios y facturas, las empresas turísticas y los 
-sujetos no empresariales que presten servicios turísticos deberán 
-hacer constar, de manera legible e inteligible, la clasificación administrativa del establecimiento turístico, con los símbolos acreditativos de la misma que reglamentariamente se determinen.» 
-Cinco. Se incorpora un nuevo artículo 31.bis con la siguiente redacción:
-«Artículo 31 bis. Clasificación en base a una declaración 
-responsable.
-1. Los interesados en la construcción, ampliación o reforma 
-de un establecimiento de alojamiento turístico sujeto a clasificación administrativa presentarán ante el Ayuntamiento competente, junto con la solicitud de la licencia de obras, la documentación 
-establecida reglamentariamente, con declaración responsable 
-expresa de que el establecimiento proyectado reúne los requisitos 
-previstos en la normativa aplicable para ostentar una determinada 
-clasificación turística de acuerdo con el grupo, categoría, modalidad y, en su caso, especialidad del establecimiento proyectado.
-2. En el plazo máximo de diez días, el Ayuntamiento remitirá la documentación y la declaración a las que se refiere 
-el apartado anterior a la Consejería competente en materia 
-de turismo, que comprobará la adecuación de la declaración 
-responsable a la normativa turística reguladora de la clasificación aplicable al establecimiento proyectado en el plazo de un 
-mes a partir de la fecha de recepción de aquéllas, pudiendo 
-reformular la clasificación pretendida, lo que deberá ser objeto 
-de notificación al interesado y al Ayuntamiento.
-Transcurrido el plazo señalado en el párrafo anterior sin 
-que la Consejería hubiera comunicado o notificado objeciones, 
-se considerará conforme con el proyecto.
-3. Finalizadas las obras de construcción, ampliación o 
-reforma, el interesado presentará ante la Consejería competente en materia de turismo, la documentación preceptiva y la 
-declaración responsable a la que se refiere el artículo 35.2 de 
-la presente Ley, incluyendo en esta última declaración expresa 
-sobre la adecuación del establecimiento a la normativa reguladora de la clasificación de los establecimientos turísticos, cuyo 
-reconocimiento se solicite. 
-4. Reglamentariamente podrán eximirse de la obligación 
-contenida en el presente artículo aquellos tipos de establecimientos de alojamiento turístico que así se determinen.» 
-Seis. El apartado 1 del artículo 32 queda con la siguiente 
-redacción:
-«1. En los términos que reglamentariamente se determine, los establecimientos turísticos deberán cumplir los requi-
 
-Página núm. 24 
-Se vi lla, 24 de diciembre 2009
-sitos mínimos de  infraestructura, los establecidos en materia 
-de seguridad, los relativos al medio ambiente, los relativos a 
-la seguridad y salud laboral en cumplimiento de la normativa 
-de prevención de riesgos laborales, así como, en su caso, los 
-exigidos por cualquier otra normativa que resulte aplicable.
-Los municipios exigirán el cumplimiento de dicha normativa 
-en el ámbito de sus procedimientos de autorización y control.»
-Siete. La letra c) del apartado 1 y el apartado 2 del artículo 34 queda con la siguiente redacción:
-«c) Las empresas de intermediación turística que organicen o comercialicen viajes combinados.»
-«Los titulares de viviendas turísticas deberán comunicar el 
-inicio de la actividad a la Consejería competente en materia de turismo para su anotación en el Registro de Turismo de Andalucía.»
-Ocho. El artículo 35 queda con la siguiente redacción:
+2. Las infracciones muy graves, prescribirán a los dos años, las graves prescribirán al año y las leves a los seis meses. Los plazos empezarán a computarse a partir del día en que se hubieren cometido.
+
+3. Las sanciones impuestas por infracciones muy graves, prescribirán a los tres años, las impuestas por infracciones graves prescribirán a los dos años, y las impuestas por infracciones leves al año, computándose dichos plazos a partir del día siguiente a aquél en que adquiera firmeza la resolución por la que se impone la sanción.»
+Artículo Cuarto. Modificación de la Ley 12/1999, de 15 de diciembre, del Turismo. La Ley 12/1999, de 15 de diciembre, del Turismo  queda modificada como sigue:
+Uno. La letra g) del apartado 1 del artículo 3 queda.
+
+con la siguiente redacción:
+«La planificación y ordenación del turismo y de los recursos turísticos de interés para Andalucía y la coordinación de las actuaciones que en esa materia ejerzan las entidades locales.» Dos. La letra d) del artículo 25 queda.
+
+con la siguiente redacción:
+«d) Al reconocimiento por parte de la Administración turística, en los supuestos previstos en la presente Ley, de la clasificación administrativa de los establecimientos de su titularidad.» Tres. El artículo 28 queda.
+
+con la siguiente redacción:
+«Artículo 28. Libertad de establecimiento y de prestación de los servicios turísticos.
+
+1. Cualquier prestador de servicios turísticos podrá establecerse libremente en Andalucía, sin más limitaciones que las derivadas del cumplimiento de las normas legales y reglamentarias que les sean de aplicación, previa presentación de la declaración responsable en los términos expresados en el artículo 35.2, la cual habilitará para el ejercicio de la actividad. Los prestadores de servicios turísticos que ejercen una actividad turística y estén legalmente establecidos en otra Comunidad Autónoma podrán desarrollarla en Andalucía sin necesidad de presentar la citada declaración.
+
+2. Los prestadores de servicios turísticos establecidos en cualquier otro Estado miembro de la Unión Europea podrán prestar libremente servicios turísticos de carácter temporal en Andalucía sin necesidad de presentar declaración responsable alguna.
+
+3. A efectos de libertad de establecimiento y de prestación de servicios, se consideran prestadores de servicios turísticos quienes se dediquen en nombre propio y de manera habitual y remunerada a la prestación de algún servicio turístico conforme a la normativa de aplicación debiendo figurar inscritos en el Registro de Turismo de Andalucía en los supuestos y en la forma que dispone la presente Ley. La habitualidad se presumirá respecto de quienes ofrezcan la prestación de servicios turísticos a través de cualquier medio publicitario o cuando se preste el servicio en una o varias ocasiones dentro del mismo año por tiempo que, en conjunto, exceda de un mes, salvo que reglamentariamente se determine otro para determinados servicios turísticos, en razón de las peculiaridades de los mismos.
+
+4. La publicidad por cualquier medio de difusión o la efectiva prestación de servicios turísticos sin haber cumplido el deber de presentación de la declaración responsable prevista en el artículo 35.2 o de la comunicación regulada en el artículo 49.3, párrafo segundo, de esta Ley, será considerada actividad clandestina.» Cuatro. El artículo 29 queda.
+
+con la siguiente redacción:
+«Artículo 29. Signos distintivos y publicidad de los servicios turísticos. En toda la publicidad, anuncios, documentación, correspondencia y tarifas de precios y facturas, las empresas turísticas y los sujetos no empresariales que presten servicios turísticos deberán hacer constar, de manera legible e inteligible, la clasificación administrativa del establecimiento turístico, con los símbolos acreditativos de la misma que reglamentariamente se determinen.» Cinco. Se incorpora un nuevo artículo 31.bis con la siguiente redacción:
+«Artículo 31 bis. Clasificación en base a una declaración responsable.
+
+1. Los interesados en la construcción, ampliación o reforma de un establecimiento de alojamiento turístico sujeto a clasificación administrativa presentarán ante el Ayuntamiento competente, junto con la solicitud de la licencia de obras, la documentación establecida reglamentariamente, con declaración responsable expresa de que el establecimiento proyectado reúne los requisitos previstos en la normativa aplicable para ostentar una determinada clasificación turística de acuerdo con el grupo, categoría, modalidad y, en su caso, especialidad del establecimiento proyectado.
+
+2. En el plazo máximo de diez días, el Ayuntamiento remitirá la documentación y la declaración a las que se refiere el apartado anterior a la Consejería competente en materia de turismo, que comprobará la adecuación de la declaración responsable a la normativa turística reguladora de la clasificación aplicable al establecimiento proyectado en el plazo de un mes a partir de la fecha de recepción de aquéllas, pudiendo reformular la clasificación pretendida, lo que deberá ser objeto de notificación al interesado y al Ayuntamiento. Transcurrido el plazo señalado en el párrafo anterior sin que la Consejería hubiera comunicado o notificado objeciones, se considerará conforme con el proyecto.
+
+3. Finalizadas las obras de construcción, ampliación o reforma, el interesado presentará ante la Consejería competente en materia de turismo, la documentación preceptiva y la declaración responsable a la que se refiere el artículo 35.2 de la presente Ley, incluyendo en esta última declaración expresa sobre la adecuación del establecimiento a la normativa reguladora de la clasificación de los establecimientos turísticos, cuyo reconocimiento se solicite.
+
+4. Reglamentariamente podrán eximirse de la obligación contenida en el presente artículo aquellos tipos de establecimientos de alojamiento turístico que así se determinen.» Seis. El apartado 1 del artículo 32 queda.
+
+con la siguiente redacción:
+«1. En los términos que reglamentariamente se determine, los establecimientos turísticos deberán cumplir los requiPágina núm. 24 Se vi lla, 24 de diciembre 2009 sitos mínimos de  infraestructura, los establecidos en materia de seguridad, los relativos al medio ambiente, los relativos a la seguridad y salud laboral en cumplimiento de la normativa de prevención de riesgos laborales, así como, en su caso, los exigidos por cualquier otra normativa que resulte aplicable. Los municipios exigirán el cumplimiento de dicha normativa en el ámbito de sus procedimientos de autorización y control.» Siete. La letra c) del apartado 1 y el apartado 2 del artículo 34 queda.
+
+con la siguiente redacción:
+«c) Las empresas de intermediación turística que organicen o comercialicen viajes combinados.» «Los titulares de viviendas turísticas deberán comunicar el inicio de la actividad a la Consejería competente en materia de turismo para su anotación en el Registro de Turismo de Andalucía.» Ocho. El artículo 35 queda.
+
+con la siguiente redacción:
 «Artículo 35. Inscripción en base a una declaración responsable.
-1. Los sujetos y establecimientos turísticos a que se refiere el apartado primero del artículo anterior deberán figurar 
-inscritos en el Registro de Turismo de Andalucía, aunque no 
-concurra en aquellos la condición de empresarios o la prestación de los servicios turísticos no se realice en establecimientos permanentemente abiertos al público.
-No obstante, no están obligados a inscribirse los prestadores de servicios turísticos  legalmente establecidos en otras 
-Comunidades Autónomas y en otros Estados de la Unión Europea que operen en régimen de libre prestación salvo, en 
-este último caso, los guías de turismo en los términos previstos en el artículo 49.3, párrafo segundo.
-2. Salvo los supuestos previstos en la normativa vigente, la 
-inscripción en el Registro de Turismo de Andalucía se practicará 
-de oficio previa presentación, por parte del sujeto legalmente habilitado para ello, de una declaración responsable manifestando 
-el cumplimiento de los requisitos establecidos en la normativa 
-vigente relativos al servicio o al establecimiento y su clasificación; 
-el compromiso de su mantenimiento durante el tiempo de vigencia de la actividad; así como la disposición, en su caso, de la 
-documentación acreditativa que corresponda.
-Podrá exigirse como requisito a los prestadores de servicios la suscripción de un seguro de responsabilidad civil profesional adecuado u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio turístico 
-que corresponda a agencias de viajes, actividades de turismo 
-activo y establecimientos de alojamiento turístico en los términos que se determine reglamentariamente.
-3. La presentación de la declaración responsable a que 
-se refiere el apartado anterior bastará para considerar cumplido el deber de figurar inscrito del sujeto o el establecimiento 
-en el Registro de Turismo de Andalucía, pudiendo iniciar la 
-actividad, salvo en aquellos supuestos en que se determine 
-reglamentariamente.
-4. La Consejería competente en materia de turismo procederá a inscribir al sujeto o establecimiento en el Registro de 
-Turismo de Andalucía conforme al contenido de la declaración 
-responsable y, en su caso, de la documentación a la que se refiere el apartado 6; sin perjuicio del ejercicio de las potestades 
-administrativas de control y de la adopción, en su caso, de las 
-medidas cautelares o sancionadoras que pudieran corresponder.
-5. Toda modificación de los presupuestos, requisitos y datos 
-contenidos en la declaración a que se refiere el apartado 2 del presente artículo, determinantes de la inscripción, incluidas las bajas, 
-deberá ser comunicada al Registro de Turismo de Andalucía. 
-6. Reglamentariamente se determinará la documentación 
-complementaria que, en su caso, deba acompañarse a la declaración responsable, así como los términos y condiciones 
-procedimentales para la realización de los trámites a los que 
-se refieren los apartados anteriores.» 
- Nueve. El apartado 5 del artículo 36 queda con la siguiente redacción:
-«5. Sin perjuicio de las facultades de comprobación de 
-otras determinaciones previstas en la legislación vigente, el 
-cumplimiento de los requisitos a que se refiere el presente artículo será objeto de comprobación por la Consejería competente en materia de turismo, así como por los Ayuntamientos 
-al tramitar las correspondientes licencias.»
-Diez. El apartado 2 del artículo 40 queda con la siguiente 
-redacción:
-«2. Sin perjuicio de lo dispuesto en el apartado anterior, en 
-los campamentos de turismo podrán construirse elementos fijos 
-destinados a alojamiento, tipo bungaló, siempre que la superficie 
-que ocupen no supere el límite establecido reglamentariamente 
-y sean explotados por el mismo titular que el del campamento.»
-Once. El apartado 1 del artículo 41 queda con la siguiente 
-redacción:
-«1. Son casas rurales aquellas edificaciones situadas en 
-el medio rural que presentan especiales características de 
-construcción, ubicación y tipicidad, prestan servicios de alojamiento y otros complementarios, que figuren inscritas como 
-tales en el Registro de Turismo de Andalucía en los términos 
-establecidos en la presente Ley.»
-Doce. El artículo 47 queda con la siguiente redacción:
-«Artículo 47. Empresas de intermediación turística.
-1. Se consideran empresas de intermediación turística aquellas que, reuniendo los requisitos que reglamentariamente se determinen, se dediquen a intermediar en la actividad turística.
-2. Las empresas de intermediación turística que organicen o comercialicen viajes combinados pertenecerán necesariamente al grupo de agencias de viajes, debiendo, a estos 
-efectos, constituir una fianza en los términos establecidos reglamentariamente.
-Dicha fianza no se exigirá a aquellas agencias de viajes 
-que ejerzan legalmente la actividad en otra Comunidad Autónoma española.
-3. Reglamentariamente se determinarán los requisitos 
-exigidos a las empresas de intermediación turística. »
-Trece. El artículo 49 queda con la siguiente redacción:
-«Art. 49. Guías de turismo.
-1. Se considera actividad propia de los guías de turismo la 
-prestación, de manera habitual y retribuida, de servicios de información turística a quienes realicen visitas a los bienes integrantes del Catálogo General del Patrimonio Histórico Andaluz.
-No obstante lo dispuesto en el párrafo anterior, quedan 
-excluidas las funciones de divulgación y difusión desarrolladas 
-por el personal de museos o instituciones del patrimonio conforme a lo establecido en su normativa de aplicación.
-2. Quienes pretendan establecerse en Andalucía para desarrollar la actividad propia de los guías de turismo, deberán estar 
-en posesión de la correspondiente habilitación otorgada por la 
-Administración turística o, en su caso, el reconocimiento de la 
-misma, en los términos que se determine reglamentariamente.
-3. El reconocimiento por la Administración turística de la 
-habilitación para el ejercicio de la actividad de guía de turismo, 
-conforme a lo dispuesto en el apartado anterior, conllevará su 
-inscripción de oficio en el Registro de Turismo de Andalucía.
-No obstante, los guías de turismo ya establecidos en un 
-Estado miembro de la Unión Europea que deseen ejercer la 
-actividad de forma temporal en Andalucía en régimen de libre 
-prestación, deberán comunicarlo a la Administración turística, 
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 25
-antes de la primera actividad transfronteriza, en los términos y 
-condiciones que se regulan en el artículo 13 del Real Decreto 
-1837/2008, de 8 de noviembre, por el que se incorpora al 
-ordenamiento jurídico español la Directiva 2005/36/CE, del 
-Parlamento Europeo y del Consejo, relativa al reconocimiento 
-de cualificaciones profesionales.»
-Catorce. Se modifican los apartados 1 y 5 del artículo 59 y 
-se añade un apartado 9 que quedan con la siguiente redacción:
-«1. La publicidad o prestación de un servicio turístico habiendo cumplido el deber de presentación de la declaración 
-responsable prevista en el artículo 35.2, pero careciendo de 
-documentos que al efecto sean exigibles por las disposiciones 
-turísticas que regulen dicha actividad.
-5. El retraso en el cumplimiento de las comunicaciones 
-que exija la normativa turística. 
-9. La inexactitud de los datos manifestados en la declaración responsable a que se refiere el artículo 35.2 o en la 
-comunicación prevista en el artículo 49.3 de esta Ley».
-Quince. Los apartados 1, 4, 5, 7 y 13 del artículo 60 quedan con la siguiente redacción:
-«1. La realización o prestación clandestina de un servicio 
-turístico, definida en el artículo 28.4 de la presente Ley.
+1. Los sujetos y establecimientos turísticos a que se refiere el apartado primero del artículo anterior deberán figurar inscritos en el Registro de Turismo de Andalucía, aunque no concurra en aquellos la condición de empresarios o la prestación de los servicios turísticos no se realice en establecimientos permanentemente abiertos al público. No obstante, no están obligados a inscribirse los prestadores de servicios turísticos  legalmente establecidos en otras Comunidades Autónomas y en otros Estados de la Unión Europea que operen en régimen de libre prestación salvo, en este último caso, los guías de turismo en los términos previstos en el artículo 49.3, párrafo segundo.
+
+2. Salvo los supuestos previstos en la normativa vigente, la inscripción en el Registro de Turismo de Andalucía se practicará de oficio previa presentación, por parte del sujeto legalmente habilitado para ello, de una declaración responsable manifestando el cumplimiento de los requisitos establecidos en la normativa vigente relativos al servicio o al establecimiento y su clasificación; el compromiso de su mantenimiento durante el tiempo de vigencia de la actividad; así como la disposición, en su caso, de la documentación acreditativa que corresponda. Podrá exigirse como requisito a los prestadores de servicios la suscripción de un seguro de responsabilidad civil profesional adecuado u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio turístico que corresponda a agencias de viajes, actividades de turismo activo y establecimientos de alojamiento turístico en los términos que se determine reglamentariamente.
+
+3. La presentación de la declaración responsable a que se refiere el apartado anterior bastará para considerar cumplido el deber de figurar inscrito del sujeto o el establecimiento en el Registro de Turismo de Andalucía, pudiendo iniciar la actividad, salvo en aquellos supuestos en que se determine reglamentariamente.
+
+4. La Consejería competente en materia de turismo procederá a inscribir al sujeto o establecimiento en el Registro de Turismo de Andalucía conforme al contenido de la declaración responsable y, en su caso, de la documentación a la que se refiere el apartado 6; sin perjuicio del ejercicio de las potestades administrativas de control y de la adopción, en su caso, de las medidas cautelares o sancionadoras que pudieran corresponder.
+
+5. Toda modificación de los presupuestos, requisitos y datos contenidos en la declaración a que se refiere el apartado 2 del presente artículo, determinantes de la inscripción, incluidas las bajas, deberá ser comunicada al Registro de Turismo de Andalucía.
+
+6. Reglamentariamente se determinará la documentación complementaria que, en su caso, deba acompañarse a la declaración responsable, así como los términos y condiciones procedimentales para la realización de los trámites a los que se refieren los apartados anteriores.» Nueve. El apartado 5 del artículo 36 queda.
+
+con la siguiente redacción:
+«5. Sin perjuicio de las facultades de comprobación de otras determinaciones previstas en la legislación vigente, el cumplimiento de los requisitos a que se refiere el presente artículo será objeto de comprobación por la Consejería competente en materia de turismo, así como por los Ayuntamientos al tramitar las correspondientes licencias.» Diez. El apartado 2 del artículo 40 queda.
+
+con la siguiente redacción:
+«2. Sin perjuicio de lo dispuesto en el apartado anterior, en los campamentos de turismo podrán construirse elementos fijos destinados a alojamiento, tipo bungaló, siempre que la superficie que ocupen no supere el límite establecido reglamentariamente y sean explotados por el mismo titular que el del campamento.» Once. El apartado 1 del artículo 41 queda.
+
+con la siguiente redacción:
+«1. Son casas rurales aquellas edificaciones situadas en el medio rural que presentan especiales características de construcción, ubicación y tipicidad, prestan servicios de alojamiento y otros complementarios, que figuren inscritas como tales en el Registro de Turismo de Andalucía en los términos establecidos en la presente Ley.» Doce. El artículo 47 queda.
+
+con la siguiente redacción:
+«Artículo 47. Empresas de intermediación turística.
+
+1. Se consideran empresas de intermediación turística aquellas que, reuniendo los requisitos que reglamentariamente se determinen, se dediquen a intermediar en la actividad turística.
+
+2. Las empresas de intermediación turística que organicen o comercialicen viajes combinados pertenecerán necesariamente al grupo de agencias de viajes, debiendo, a estos efectos, constituir una fianza en los términos establecidos reglamentariamente. Dicha fianza no se exigirá a aquellas agencias de viajes que ejerzan legalmente la actividad en otra Comunidad Autónoma española.
+
+3. Reglamentariamente se determinarán los requisitos exigidos a las empresas de intermediación turística. » Trece. El artículo 49 queda.
+
+con la siguiente redacción:
+«Art. 49. Guías de turismo.
+
+1. Se considera actividad propia de los guías de turismo la prestación, de manera habitual y retribuida, de servicios de información turística a quienes realicen visitas a los bienes integrantes del Catálogo General del Patrimonio Histórico Andaluz. No obstante lo dispuesto en el párrafo anterior, quedan excluidas las funciones de divulgación y difusión desarrolladas por el personal de museos o instituciones del patrimonio conforme a lo establecido en su normativa de aplicación.
+
+2. Quienes pretendan establecerse en Andalucía para desarrollar la actividad propia de los guías de turismo, deberán estar en posesión de la correspondiente habilitación otorgada por la Administración turística o, en su caso, el reconocimiento de la misma, en los términos que se determine reglamentariamente.
+
+3. El reconocimiento por la Administración turística de la habilitación para el ejercicio de la actividad de guía de turismo, conforme a lo dispuesto en el apartado anterior, conllevará su inscripción de oficio en el Registro de Turismo de Andalucía. No obstante, los guías de turismo ya establecidos en un Estado miembro de la Unión Europea que deseen ejercer la actividad de forma temporal en Andalucía en régimen de libre prestación, deberán comunicarlo a la Administración turística,
+
+Sevilla, 24 de diciembre 2009 Página núm. 25 antes de la primera actividad transfronteriza, en los términos y condiciones que se regulan en el artículo 13 l.
+
+Real Decreto 1837/2008, de 8 de noviembre, por el que se incorpora al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, relativa al reconocimiento de cualificaciones profesionales.» Catorce. Se modifican los apartados 1 y 5 del artículo 59 y se añade un apartado 9 que quedan con la siguiente redacción:
+«1. La publicidad o prestación de un servicio turístico habiendo cumplido el deber de presentación de la declaración responsable prevista en el artículo 35.2, pero careciendo de documentos que al efecto sean exigibles por las disposiciones turísticas que regulen dicha actividad.
+
+5. El retraso en el cumplimiento de las comunicaciones que exija la normativa turística.
+
+9. La inexactitud de los datos manifestados en la declaración responsable a que se refiere el artículo 35.2 o en la comunicación prevista en el artículo 49.3 de esta Ley». Quince. Los apartados 1, 4, 5, 7 y 13 del artículo 60 quedan.
+
+con la siguiente redacción:
+«1. La realización o prestación clandestina de un servicio turístico, definida en el artículo 28.4 de la presente Ley.
+
 4. El incumplimiento del deber de realizar las comunicaciones que exija la normativa turística, tras ser requerido al efecto.
-5. La falsedad de los datos manifestados en la declaración responsable a que se refiere el artículo 35.2 o en la comunicación prevista en el artículo 49.3 de esta Ley así como 
-su alteración sin haber instado su modificación en los términos legal o reglamentariamente establecidos.
-7. Prestar el servicio turístico tras efectuar modificaciones estructurales que afecten al grupo, categoría, modalidad 
-o especialidad del establecimiento sin la presentación de la 
-declaración responsable en los términos legal o reglamentariamente establecidos.
-13. El no mantener vigente la cuantía de las garantías de fianza y, en su caso, seguro exigidas por la normativa de aplicación.»
-Dieciséis. El apartado 1 del artículo 62 queda con la siguiente redacción:
-«1. Son responsables de las infracciones tipificadas en la 
-presente Ley las siguientes personas físicas o jurídicas, públicas o privadas que realicen las acciones u omisiones tipificadas en la misma, aun a título de simple inobservancia:
-a) Las personas titulares de empresas, establecimientos 
-o actividades turísticas, a cuyo nombre figure la habilitación o 
-inscripción en el Registro de Turismo de Andalucía.
-b) Las personas que hubieren suscrito la declaración responsable a que se refiere el artículo 35.2 o la comunicación 
-prevista en el artículo 49.3 de esta Ley.
-c) Las personas que presten cualquier servicio turístico 
-de manera clandestina.»
-Diecisiete. El artículo 65 queda con la siguiente redacción:
+
+5. La falsedad de los datos manifestados en la declaración responsable a que se refiere el artículo 35.2 o en la comunicación prevista en el artículo 49.3 de esta Ley así como su alteración sin haber instado su modificación en los términos legal o reglamentariamente establecidos.
+
+7. Prestar el servicio turístico tras efectuar modificaciones estructurales que afecten al grupo, categoría, modalidad o especialidad del establecimiento sin la presentación de la declaración responsable en los términos legal o reglamentariamente establecidos.
+
+13. El no mantener vigente la cuantía de las garantías de fianza y, en su caso, seguro exigidas por la normativa de aplicación.» Dieciséis. El apartado 1 del artículo 62 queda.
+
+con la siguiente redacción:
+«1. Son responsables de las infracciones tipificadas en la presente Ley las siguientes personas físicas o jurídicas, públicas o privadas que realicen las acciones u omisiones tipificadas en la misma, aun a título de simple inobservancia:
+a) Las personas titulares de empresas, establecimientos o actividades turísticas, a cuyo nombre figure la habilitación o inscripción en el Registro de Turismo de Andalucía.
+b) Las personas que hubieren suscrito la declaración responsable a que se refiere el artículo 35.2 o la comunicación prevista en el artículo 49.3 de esta Ley.
+c) Las personas que presten cualquier servicio turístico de manera clandestina.» Diecisiete. El artículo 65 queda.
+
+con la siguiente redacción:
 «Las infracciones contra lo dispuesto en esta Ley y demás disposiciones en materia de turismo darán lugar a la imposición de las siguientes sanciones:
 a) Principales:
 - Apercibimiento.
 - Multa.
 b) Accesorias:
-- Suspensión temporal del ejercicio de servicios turísticos 
-y clausura temporal del establecimiento.
-- La clausura definitiva del establecimiento o actividad turística.» 
-Dieciocho. El párrafo segundo del apartado 3 del artículo 
-67 queda con la siguiente redacción:
-«La clausura definitiva del establecimiento procederá en 
-el caso de infracciones muy graves cuando el responsable 
-haya sido sancionado dos o más veces, mediante resolución 
-firme en vía administrativa, por este tipo de infracciones en el 
-transcurso de tres años consecutivos y medien graves perjuicios para los intereses turísticos de Andalucía derivados de la 
-conducta del infractor.» 
-Diecinueve. El apartado c) del artículo 69 queda con la 
-siguiente redacción:
-«c) El Consejero competente en materia turística para la imposición de las sanciones correspondientes a infracciones muy 
-graves cuya cuantía supere los 90.152 euros o consista en la 
-clausura definitiva del establecimiento o actividad turística».
-Artículo quinto. Modificación de la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía.
-La Ley 8/2007, de 5 de octubre, de Museos y Colecciones 
-Museográficas de Andalucía queda modificada como sigue:
-Uno. El artículo 12 queda con la siguiente redacción:
-«Artículo 12. Disolución de museos y colecciones museográficas.
-1. La disolución de museos y colecciones museográficas 
-de titularidad privada, deberá ser comunicada previamente a 
-la Consejería competente en materia de museos y colecciones 
-museográficas.
-En la citada comunicación, que deberá cursarse con una 
-antelación de, al menos, dos meses a la fecha prevista de disolución, la persona titular de la institución hará constar la fecha de 
-disolución, el destino de los bienes y las medidas de seguridad 
-para garantizar la protección y conservación de los mismos. 
-2. La disolución de museos y colecciones museográficas 
-de titularidad de las Entidades Locales se acordará por el órgano al que corresponda autorizar la creación. En este caso, 
-el procedimiento para la disolución se iniciará a petición de su 
-titular, y deberá resolverse y notificarse en el plazo de seis meses, a contar desde la recepción de la solicitud en el registro 
-del órgano competente para resolver. Transcurrido dicho plazo 
-sin que se haya notificado resolución expresa, el titular podrá 
-entender estimada la solicitud.
-3. Cuando existan causas de peligro para la protección, 
-conservación o accesibilidad de los fondos, la Consejería competente en materia de museos y colecciones museográficas podrá 
-acordar el depósito forzoso previsto en el artículo 48 de esta ley.
-4. El órgano competente para autorizar la creación de un 
-museo o colección museográfica, a la vista de la comunicación de disolución o del acto de disolución, según proceda, 
-dispondrá la cancelación de su inscripción en el Registro andaluz de museos y colecciones museográficas.
-5. En todo caso, los bienes integrantes de museos o colecciones museográficas disueltos conservarán el régimen jurídico de protección que les otorgue la legislación general de 
-protección del patrimonio histórico.»
-Dos. El apartado 3 del artículo 36 queda con la siguiente 
-redacción:
-«3. La salida de fondos museísticos pertenecientes a los museos y colecciones museográficas no comprendidos en los apartados anteriores deberá comunicarse previamente a la Consejería 
-competente en materia de museos y colecciones museográficas. 
-En la citada notificación, que deberá cursarse con una antelación 
-de, al menos, dos meses a la fecha prevista de la salida, se harán 
-constar las condiciones que se establezcan reglamentariamente. 
+- Suspensión temporal del ejercicio de servicios turísticos y clausura temporal del establecimiento.
+- La clausura definitiva del establecimiento o actividad turística.» Dieciocho. El párrafo segundo del apartado 3 del artículo 67 queda.
 
-Página núm. 26 
-Se vi lla, 24 de diciembre 2009
-Durante el expresado plazo, la citada Consejería comprobará la documentación presentada a efecto, en su caso, de 
-requerir que se subsane la misma o se completen las condiciones de la salida. En este último caso, no podrá efectuarse 
-la salida hasta que se cumplimente el requerimiento.»  
-Tres. La letra d) del artículo 55 queda con la siguiente 
-redacción:
-«d) La disolución sin autorización de un museo o colección museográfica de titularidad de las Entidades Locales o 
-sin la comunicación prevista en el artículo 12.1 en el caso de 
-un museo o colección museográfica de titularidad privada.»
-Artículo sexto. Modificación de la Ley 14/2007, de 26 de 
-noviembre, del Patrimonio Histórico de Andalucía.
-La Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía queda modificada en su artículo 53 con la 
-siguiente redacción:
-«Artículo 53. Solicitudes.
-1. Podrán solicitar autorización para realizar actividades 
-arqueológicas:
-a) Las personas físicas, individualmente consideradas o formando equipos de investigación, que cuenten con la titulación o 
-acreditación profesional que normativamente se determine.
-b) Los departamentos de universidades u otras instituciones científicas, españolas o comunitarias, relacionados con la 
-investigación del Patrimonio Arqueológico.
-c) Los museos arqueológicos o que cuenten con sección 
-de Arqueología. 
-d) Los institutos de Prehistoria y Arqueología del Consejo 
-Superior de Investigaciones Científicas.
-e) Las Administraciones Públicas que pretendan realizar 
-tales actividades directamente y cuenten con el personal debidamente titulado o acreditado para ello.
-Cuando se trate de personas físicas, equipos de investigación o instituciones científicas extranjeras no comunitarias, la 
-solicitud se acompañará de informe emitido por otra persona o 
-institución española de entre las enumeradas en este apartado.
-2. En todo caso la solicitud habrá de ir suscrita por la 
-persona con titulación suficiente y acreditada experiencia que 
-asuma la dirección de los trabajos.
-3. Por la Consejería competente en materia de patrimonio histórico podrá recabarse de los organismos y autoridades 
-competentes la información precisa para comprobar los datos 
-referentes a titulación y experiencia profesional.» 
-Artículo séptimo. Modificación de la Ley 8/2001, de 12 
-de julio, de Carreteras de Andalucía.
-La Ley 8/2001, de 12 de julio, de Carreteras de Andalucía 
-queda modificada como sigue:
-Uno. El apartado 2 del artículo 58 queda con la siguiente 
-redacción:
-«2. No se considera publicidad los carteles informativos 
-autorizados por la Administración titular de la vía, o, en su 
-caso, comunicados a ésta, en los términos que establece el 
-apartado 7 de este artículo, y que se adecuen a las prescripciones siguientes: 
-a) Señales de servicio.
-b) Los informativos e indicativos que localicen lugares de interés general para los usuarios de las carreteras, ya sean culturales, 
-medioambientales o turísticos, poblaciones, urbanizaciones y centros importantes de atracción con acceso directo desde la carretera, siempre que no contengan, a su vez, mensajes publicitarios.
-c) Los que se refieran a actividades y obras que afecten 
-a la carretera.
-d) Rótulos de los establecimientos mercantiles o industriales que sean indicativos de la actividad que se desarrolla 
-en los mismos, siempre que estén situados sobre los inmuebles en que aquéllos tengan su sede o en sus accesos y no 
-incluyan comunicación adicional alguna tendente a promover 
-la contratación de los productos o servicios que ofrezcan.»
-Dos. Se añade un nuevo apartado 7 al artículo 58, con la 
-siguiente redacción:
-«7. Fuera de la zona de dominio público, los interesados 
-podrán colocar los rótulos de establecimientos mercantiles o industriales a que se refiere el apartado 2.d del presente artículo, 
-previa comunicación a la Administración titular de la vía. Reglamentariamente podrá establecerse el régimen de instalación. 
-La citada comunicación deberá cursarse con una antelación 
-al menos de un mes de la fecha prevista para la actuación. 
-En el supuesto de comunicación, la Administración tendrá un 
-plazo preclusivo de un mes para denegar la actuación comunicada 
-por razones de seguridad vial, sin perjuicio de las potestades administrativas de control y de la adopción, en su caso, de las medidas 
-cautelares o sancionadoras que pudieran corresponder.»
-Tres. La letra a) del artículo 71 queda con la siguiente 
-redacción:
-«a) Realizar obras, instalaciones o actuaciones, incluida 
-la colocación de carteles, en el dominio público viario o en las 
-zonas de servidumbre legal o de afección de las carreteras, 
-sin las autorizaciones o comunicaciones requeridas o incumpliendo alguna de las condiciones impuestas en las mismas, 
-cuando puedan ser objeto de legalización posterior y ésta se 
-solicite en el plazo correspondiente.»  
-Cuatro. La letra a) del apartado primero del artículo 72 
-queda con la siguiente redacción:
-«a) Realizar obras, instalaciones o actuaciones no permitidas, incluida la colocación de carteles, en el dominio público 
-viario o en las zonas de servidumbre legal o de afección de las 
-carreteras, llevadas a cabo sin las autorizaciones o comunicaciones requeridas o incumpliendo alguna de las condiciones impuestas en las mismas, cuando no sean susceptibles de legalización posterior o ésta no se solicite en plazo correspondiente.» 
-Artículo Octavo. Modificación de la Ley 2/1986, de 19 de abril, 
-del Juego y Apuestas de la Comunidad Autónoma de Andalucía.
-La Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía queda modificada como sigue:
-Uno. La letra e) del apartado 1 del artículo 4 queda con la 
-siguiente redacción:
-«e) Las rifas y tómbolas, incluidas las loterías.»
-Dos. Se incorpora un nuevo apartado 3 al artículo 4, que 
-queda con la siguiente redacción:
-«3. No se requerirá la autorización administrativa previa 
-para la organización, celebración y desarrollo de combinaciones 
-aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que 
-revistan, incluidos los establecidos en el artículo 20 de la Ley 
-34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, siempre que la participación 
-del público en estas actividades sea gratuita y en ningún caso 
-exista sobreprecio o tarificación adicional alguna cualquiera que 
-fuere el procedimiento o sistema a través del que se realice.» 
-Artículo Noveno. Modificación del Decreto Legislativo 
-1/2009, de 1 de septiembre, por el que se aprueba el Texto 
-Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos.
-El Decreto Legislativo 1/2009, de 1 de septiembre, por el que 
-se aprueba el Texto Refundido de las disposiciones dictadas por la 
-Comunidad Autónoma de Andalucía en materia de tributos cedidos 
-queda modificado en su artículo 47.1 con la siguiente redacción:
-
-Sevilla, 24 de diciembre 2009 
-Página núm. 27
-«Artículo 47. Declaración, liquidación y pago.
-1. En las rifas, tómbolas y combinaciones aleatorias, al concederse la autorización, la Agencia Tributaria de Andalucía girará liquidación por el importe total de la tasa, que será notificada al sujeto 
-pasivo, quien deberá proceder a su ingreso en los plazos previstos 
-en la Ley 58/2003, de 17 de diciembre, General Tributaria.
-En el caso de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de 
-loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, 
-de Servicios de la Sociedad de la Información y de Comercio 
-Electrónico, siempre que la participación del público en estas 
-actividades sea gratuita y que en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el 
-procedimiento o sistema a través del que se realice, los sujetos pasivos habrán de presentar una autoliquidación de la tasa 
-dentro de los treinta días siguientes al devengo.
-La Consejería de Economía y Hacienda aprobará el modelo de dicha declaración-liquidación, y determinará el lugar y el 
-documento de pago»
-Artículo Décimo. Modificación de la Ley 22/2007, de 18 
-de diciembre, de Farmacia de Andalucía.
-La Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía queda modificada en el apartado 3 de su artículo 68, 
 con la siguiente redacción:
-«3. Los almacenes mayoristas autorizados dispondrán de 
-una dirección técnica, a cargo de un farmacéutico, de acuerdo 
-con lo dispuesto en el artículo 71 de la Ley 29/2006, de 26 
-de julio. Reglamentariamente se establecerá las condiciones, 
-requisitos y procedimiento para su nombramiento, así como la 
-exigencia de la presencia de un farmacéutico durante el horario de actividad del almacén.»
-Artículo Undécimo. Modificación de la Ley 2/2007, de 27 
-de marzo, de fomento de las energías renovables y del ahorro 
-y eficiencia energética de Andalucía.
-La Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía 
-queda modificada en el artículo 29, con la siguiente redacción:
-«Artículo 29. Control administrativo y organismos colaboradores en materia de energías renovables, ahorro y eficiencia 
-energética.
-1. La Consejería competente en materia de energía podrá 
-comprobar en cualquier momento, por sí misma o a través de 
-organismos colaboradores, el cumplimiento de la normativa en 
-materia de energías renovables, ahorro y eficiencia energética.
-2. Los organismos colaboradores en materia de energías 
-renovables, ahorro y eficiencia energética serán personas naturales o jurídicas, con capacidad de obrar, con la función de 
-verificar el cumplimiento de las obligaciones que se establezcan por esta ley y su normativa de desarrollo.
-3. Las certificaciones o actas de inspección y comprobación 
-de los organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética tendrán valor probatorio.
-4. Los requisitos, régimen de funcionamiento y procedimiento de inicio de actividades en Andalucía de los organismos colaboradores en materia de energías renovables, ahorro 
-y eficiencia energética se establecerán reglamentariamente.
-5. Los Organismos Colaboradores en Materia de energías 
-renovables, ahorro y eficiencia energética, deberán tener cubierta la responsabilidad civil que pueda derivarse de sus actuaciones mediante una póliza de seguros u otra garantía equivalente, 
-cuya cuantía y actualización se determinará reglamentariamente, sin que dicha cuantía limite la citada responsabilidad.»
-Artículo Duodécimo. Modificación de la Ley 2/1989, de 
-18 de julio, por la que se aprueba el Inventario de espacios 
-naturales Protegidos de Andalucía y se establecen medidas 
-adicionales para su protección. 
-Se añaden las letras m), n) y ñ) al apartado 2 del artículo 
-26, con la siguiente redacción:
-«m) La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
-n) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se 
-acompañe o incorpore a la declaración responsable o comunicación previa.
-ñ) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Artículo Décimo Tercero. Modificación de la Ley 2/1992, 
-de 15 de junio, Forestal de Andalucía
-La Ley 2/1992, de 15 de junio, Forestal de Andalucía 
-queda modificada como sigue:
-Uno. Se deroga el artículo 67 de la Ley 2/1992, de 15 de 
-junio, Forestal de Andalucía, que queda sin contenido.
-Dos.  Se añaden tres nuevos párrafos al artículo 77, con 
-la siguiente redacción:
-«9.º  La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-10.º La inexactitud, falsedad u omisión, de carácter esencial, 
-en cualquier dato, manifestación o documento, que se acompañe 
-o incorpore a la declaración responsable o comunicación previa.
-11.º La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Artículo Décimo Cuarto. Modificación de la Ley 5/1999, 
-de 29 de junio, de Prevención y lucha contra los incendios 
-forestales.     
-Se añaden tres nuevos párrafos al artículo 64, con la siguiente redacción:
-«13. La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-14. La inexactitud, falsedad u omisión, de carácter esencial, 
-en cualquier dato, manifestación o documento, que se acompañe 
-o incorpore a la declaración responsable o comunicación previa.
-15. La alteración o el incumplimiento de las previsiones 
-contenidas en la comunicación o declaración responsable para 
-el ejercicio de una determinada actuación o actividad o de las 
-condiciones impuestas por la administración para el ejercicio 
-de la misma.»
-Artículo Décimo Quinto. Modificación de la Ley 8/1999, de 27 
-de octubre, de Régimen Jurídico del Espacio Natural de Doñana.    
-La Ley 8/1999, de 27 de octubre, de Régimen Jurídico 
-del Espacio Natural de Doñana queda modificada como sigue:
-Uno. Se añaden las letras g), h) y i) al artículo 41, con la 
-siguiente redacción:
-«g) La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-h) La inexactitud, falsedad u omisión, de carácter esencial, en 
-cualquier dato, manifestación o documento, que se acompañe o 
-incorpore a la declaración responsable o comunicación previa.
-i) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejerci-
+«La clausura definitiva del establecimiento procederá en el caso de infracciones muy graves cuando el responsable haya sido sancionado dos o más veces, mediante resolución firme en vía administrativa, por este tipo de infracciones en el transcurso de tres años consecutivos y medien graves perjuicios para los intereses turísticos de Andalucía derivados de la conducta del infractor.» Diecinueve. El apartado c) del artículo 69 queda.
 
-Página núm. 28 
-Se vi lla, 24 de diciembre 2009
-cio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Dos.  Se añaden las letras l), m) y n) al artículo 42, con la 
-siguiente redacción:
-«l) La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-m) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se 
-acompañe o incorpore a la declaración responsable o comunicación previa.
-n) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Tres. Se añaden las letras k), l) y m) al artículo 44, con la 
-siguiente redacción:
-«k) La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
-l) La inexactitud, falsedad u omisión, de carácter esencial, en 
-cualquier dato, manifestación o documento, que se acompañe o 
-incorpore a la declaración responsable o comunicación previa.
-m) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Cuarto. El apartado 2 del artículo 45 queda con la siguiente redacción:
-«2. Son infracciones graves las descritas en los artículos 
-siguientes: Artículo 41, letras d), e), f), g), h) y i); artículo 42, 
-letras a), b), c), e), f), h), j), l), m) y n); artículo 44, letras a), b), 
-d), g), i), j), k), l) y m).»
-Artículo Décimo Sexto. Modificación de la Ley 8/2003, de 
-28 de octubre, de la flora y la fauna silvestres
-La Ley 8/2003, de 28 de octubre, de la flora y la fauna 
-silvestres queda modificada como sigue:
-Uno. El apartado 3 del artículo 44 queda con la siguiente 
-redacción:
-«3. Reglamentariamente se regulará su régimen de gestión, debiendo garantizarse la distribución equitativa del disfrute de la caza entre cazadores.»
-Dos.  Se incorporan tres nuevos párrafos al artículo 74, 
-que quedan con la siguiente redacción:
-«16.  La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-17. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se 
-acompañe o incorpore a la declaración responsable o comunicación previa.
-18. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Tres. Se incorporan tres nuevos párrafos al artículo 77, 
-que quedan con la siguiente redacción:
-«30. La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o 
-declaración responsable cuando alguna de ellas sea preceptiva.
-31. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se 
-acompañe o incorpore a la declaración responsable o comunicación previa.
-32. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
-Cuatro. Se incorporan tres nuevos párrafos al artículo 80, 
-que quedan con la siguiente redacción:
-«17. La realización de una actuación o actividad sin cumplir 
-los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
-18. La inexactitud, falsedad u omisión, de carácter esencial, 
-en cualquier dato, manifestación o documento, que se acompañe 
-o incorpore a la declaración responsable o comunicación previa.
-19. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones 
-impuestas por la administración para el ejercicio de la misma.»
+con la siguiente redacción:
+«c) El Consejero competente en materia turística para la imposición de las sanciones correspondientes a infracciones muy graves cuya cuantía supere los 90.152 euros o consista en la clausura definitiva del establecimiento o actividad turística».
+Artículo quinto. Modificación de la Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía. La Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía queda modificada como sigue:
+Uno. El artículo 12 queda.
 
-#### Disposición adicional primera. Acceso y comunicación 
+con la siguiente redacción:
+«Artículo 12. Disolución de museos y colecciones museográficas.
+
+1. La disolución de museos y colecciones museográficas de titularidad privada, deberá ser comunicada previamente a la Consejería competente en materia de museos y colecciones museográficas. En la citada comunicación, que deberá cursarse con una antelación de, al menos, dos meses a la fecha prevista de disolución, la persona titular de la institución hará constar la fecha de disolución, el destino de los bienes y las medidas de seguridad para garantizar la protección y conservación de los mismos.
+
+2. La disolución de museos y colecciones museográficas de titularidad de las Entidades Locales se acordará por el órgano al que corresponda autorizar la creación. En este caso, el procedimiento para la disolución se iniciará a petición de su titular, y deberá resolverse y notificarse en el plazo de seis meses, a contar desde la recepción de la solicitud en el registro del órgano competente para resolver. Transcurrido dicho plazo sin que se haya notificado resolución expresa, el titular podrá entender estimada la solicitud.
+
+3. Cuando existan causas de peligro para la protección, conservación o accesibilidad de los fondos, la Consejería competente en materia de museos y colecciones museográficas podrá acordar el depósito forzoso previsto en el artículo 48 de esta ley.
+
+4. El órgano competente para autorizar la creación de un museo o colección museográfica, a la vista de la comunicación de disolución o del acto de disolución, según proceda, dispondrá la cancelación de su inscripción en el Registro andaluz de museos y colecciones museográficas.
+
+5. En todo caso, los bienes integrantes de museos o colecciones museográficas disueltos conservarán el régimen jurídico de protección que les otorgue la legislación general de protección del patrimonio histórico.» Dos. El apartado 3 del artículo 36 queda.
+
+con la siguiente redacción:
+«3. La salida de fondos museísticos pertenecientes a los museos y colecciones museográficas no comprendidos en los apartados anteriores deberá comunicarse previamente a la Consejería competente en materia de museos y colecciones museográficas. En la citada notificación, que deberá cursarse con una antelación de, al menos, dos meses a la fecha prevista de la salida, se harán constar las condiciones que se establezcan reglamentariamente.
+
+Página núm. 26 Se vi lla, 24 de diciembre 2009 Durante el expresado plazo, la citada Consejería comprobará la documentación presentada a efecto, en su caso, de requerir que se subsane la misma o se completen las condiciones de la salida. En este último caso, no podrá efectuarse la salida hasta que se cumplimente el requerimiento.» Tres. La letra d) del artículo 55 queda.
+
+con la siguiente redacción:
+«d) La disolución sin autorización de un museo o colección museográfica de titularidad de las Entidades Locales o sin la comunicación prevista en el artículo 12.1 en el caso de un museo o colección museográfica de titularidad privada.»
+Artículo sexto. Modificación de la Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía. La Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía queda modificada en su artículo 53 con la siguiente redacción:
+«Artículo 53. Solicitudes.
+
+1. Podrán solicitar autorización para realizar actividades arqueológicas:
+a) Las personas físicas, individualmente consideradas o formando equipos de investigación, que cuenten con la titulación o acreditación profesional que normativamente se determine.
+b) Los departamentos de universidades u otras instituciones científicas, españolas o comunitarias, relacionados con la investigación del Patrimonio Arqueológico.
+c) Los museos arqueológicos o que cuenten con sección de Arqueología.
+d) Los institutos de Prehistoria y Arqueología del Consejo Superior de Investigaciones Científicas.
+e) Las Administraciones Públicas que pretendan realizar tales actividades directamente y cuenten con el personal debidamente titulado o acreditado para ello. Cuando se trate de personas físicas, equipos de investigación o instituciones científicas extranjeras no comunitarias, la solicitud se acompañará de informe emitido por otra persona o institución española de entre las enumeradas en este apartado.
+
+2. En todo caso la solicitud habrá de ir suscrita por la persona con titulación suficiente y acreditada experiencia que asuma la dirección de los trabajos.
+
+3. Por la Consejería competente en materia de patrimonio histórico podrá recabarse de los organismos y autoridades competentes la información precisa para comprobar los datos referentes a titulación y experiencia profesional.»
+Artículo séptimo. Modificación de la Ley 8/2001, de 12 de julio, de Carreteras de Andalucía. La Ley 8/2001, de 12 de julio, de Carreteras de Andalucía queda modificada como sigue:
+Uno. El apartado 2 del artículo 58 queda.
+
+con la siguiente redacción:
+«2. No se considera publicidad los carteles informativos autorizados por la Administración titular de la vía, o, en su caso, comunicados a ésta, en los términos que establece el apartado 7 de este artículo, y que se adecuen a las prescripciones siguientes:
+a) Señales de servicio.
+b) Los informativos e indicativos que localicen lugares de interés general para los usuarios de las carreteras, ya sean culturales, medioambientales o turísticos, poblaciones, urbanizaciones y centros importantes de atracción con acceso directo desde la carretera, siempre que no contengan, a su vez, mensajes publicitarios.
+c) Los que se refieran a actividades y obras que afecten a la carretera.
+d) Rótulos de los establecimientos mercantiles o industriales que sean indicativos de la actividad que se desarrolla en los mismos, siempre que estén situados sobre los inmuebles en que aquéllos tengan su sede o en sus accesos y no incluyan comunicación adicional alguna tendente a promover la contratación de los productos o servicios que ofrezcan.» Dos. Se añade un nuevo apartado 7 al artículo 58, con la siguiente redacción:
+«7. Fuera de la zona de dominio público, los interesados podrán colocar los rótulos de establecimientos mercantiles o industriales a que se refiere el apartado 2.d del presente artículo, previa comunicación a la Administración titular de la vía. Reglamentariamente podrá establecerse el régimen de instalación. La citada comunicación deberá cursarse con una antelación al menos de un mes de la fecha prevista para la actuación. En el supuesto de comunicación, la Administración tendrá un plazo preclusivo de un mes para denegar la actuación comunicada por razones de seguridad vial, sin perjuicio de las potestades administrativas de control y de la adopción, en su caso, de las medidas cautelares o sancionadoras que pudieran corresponder.» Tres. La letra a) del artículo 71 queda.
+
+con la siguiente redacción:
+«a) Realizar obras, instalaciones o actuaciones, incluida la colocación de carteles, en el dominio público viario o en las zonas de servidumbre legal o de afección de las carreteras, sin las autorizaciones o comunicaciones requeridas o incumpliendo alguna de las condiciones impuestas en las mismas, cuando puedan ser objeto de legalización posterior y ésta se solicite en el plazo correspondiente.» Cuatro. La letra a) del apartado primero del artículo 72 queda.
+
+con la siguiente redacción:
+«a) Realizar obras, instalaciones o actuaciones no permitidas, incluida la colocación de carteles, en el dominio público viario o en las zonas de servidumbre legal o de afección de las carreteras, llevadas a cabo sin las autorizaciones o comunicaciones requeridas o incumpliendo alguna de las condiciones impuestas en las mismas, cuando no sean susceptibles de legalización posterior o ésta no se solicite en plazo correspondiente.»
+Artículo Octavo. Modificación de la Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía. La Ley 2/1986, de 19 de abril, del Juego y Apuestas de la Comunidad Autónoma de Andalucía queda modificada como sigue:
+Uno. La letra e) del apartado 1 del artículo 4 queda.
+
+con la siguiente redacción:
+«e) Las rifas y tómbolas, incluidas las loterías.» Dos. Se incorpora un nuevo apartado 3 al artículo 4, que queda con la siguiente redacción:
+«3. No se requerirá la autorización administrativa previa para la organización, celebración y desarrollo de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, siempre que la participación del público en estas actividades sea gratuita y en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice.»
+Artículo Noveno. Modificación del Decreto Legislativo 1/2009, de 1 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos. El Decreto Legislativo 1/2009, de 1 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones dictadas por la Comunidad Autónoma de Andalucía en materia de tributos cedidos queda modificado en su artículo 47.1 con la siguiente redacción:
+
+Sevilla, 24 de diciembre 2009 Página núm. 27 «Artículo 47. Declaración, liquidación y pago.
+
+1. En las rifas, tómbolas y combinaciones aleatorias, al concederse la autorización, la Agencia Tributaria de Andalucía girará liquidación por el importe total de la tasa, que será notificada al sujeto pasivo, quien deberá proceder a su ingreso en los plazos previstos en la Ley 58/2003, de 17 de diciembre, General Tributaria. En el caso de combinaciones aleatorias con fines publicitarios o promocionales, cualquiera que sea la fórmula de loterías o juegos promocionales que revistan, incluidos los establecidos en el artículo 20 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, siempre que la participación del público en estas actividades sea gratuita y que en ningún caso exista sobreprecio o tarificación adicional alguna cualquiera que fuere el procedimiento o sistema a través del que se realice, los sujetos pasivos habrán de presentar una autoliquidación de la tasa dentro de los treinta días siguientes al devengo. La Consejería de Economía y Hacienda aprobará el modelo de dicha declaración-liquidación, y determinará el lugar y el documento de pago»
+Artículo Décimo. Modificación de la Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía. La Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía queda modificada en el apartado 3 de su artículo 68, con la siguiente redacción:
+«3. Los almacenes mayoristas autorizados dispondrán de una dirección técnica, a cargo de un farmacéutico, de acuerdo con lo dispuesto en el artículo 71 de la Ley 29/2006, de 26 de julio. Reglamentariamente se establecerá las condiciones, requisitos y procedimiento para su nombramiento, así como la exigencia de la presencia de un farmacéutico durante el horario de actividad del almacén.»
+Artículo Undécimo. Modificación de la Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía. La Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía queda modificada en el artículo 29, con la siguiente redacción:
+«Artículo 29. Control administrativo y organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética.
+
+1. La Consejería competente en materia de energía podrá comprobar en cualquier momento, por sí misma o a través de organismos colaboradores, el cumplimiento de la normativa en materia de energías renovables, ahorro y eficiencia energética.
+
+2. Los organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética serán personas naturales o jurídicas, con capacidad de obrar, con la función de verificar el cumplimiento de las obligaciones que se establezcan por esta ley y su normativa de desarrollo.
+
+3. Las certificaciones o actas de inspección y comprobación de los organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética tendrán valor probatorio.
+
+4. Los requisitos, régimen de funcionamiento y procedimiento de inicio de actividades en Andalucía de los organismos colaboradores en materia de energías renovables, ahorro y eficiencia energética se establecerán reglamentariamente.
+
+5. Los Organismos Colaboradores en Materia de energías renovables, ahorro y eficiencia energética, deberán tener cubierta la responsabilidad civil que pueda derivarse de sus actuaciones mediante una póliza de seguros u otra garantía equivalente, cuya cuantía y actualización se determinará reglamentariamente, sin que dicha cuantía limite la citada responsabilidad.»
+Artículo Duodécimo. Modificación de la Ley 2/1989, de 18 de julio, por la que se aprueba el Inventario de espacios naturales Protegidos de Andalucía y se establecen medidas adicionales para su protección. Se añaden las letras m), n) y ñ) al apartado 2 del artículo 26, con la siguiente redacción:
+«m) La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+n) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa. ñ) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.»
+Artículo Décimo Tercero. Modificación de la Ley 2/1992, de 15 de junio, Forestal de Andalucía La Ley 2/1992, de 15 de junio, Forestal de Andalucía queda modificada como sigue:
+Uno. Se deroga el artículo 67 de la Ley 2/1992, de 15 de junio, Forestal de Andalucía, que queda sin contenido. Dos.  Se añaden tres nuevos párrafos al artículo 77, con la siguiente redacción:
+«9.º  La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva. 10.º La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa. 11.º La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.»
+Artículo Décimo Cuarto. Modificación de la Ley 5/1999, de 29 de junio, de Prevención y lucha contra los incendios forestales. Se añaden tres nuevos párrafos al artículo 64, con la siguiente redacción:
+«13. La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+
+14. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+
+15. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.»
+Artículo Décimo Quinto. Modificación de la Ley 8/1999, de 27 de octubre, de Régimen Jurídico del Espacio Natural de Doñana. La Ley 8/1999, de 27 de octubre, de Régimen Jurídico del Espacio Natural de Doñana queda modificada como sigue:
+Uno. Se añaden las letras g), h) y i) al artículo 41, con la siguiente redacción:
+«g) La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+h) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+i) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejerciPágina núm. 28 Se vi lla, 24 de diciembre 2009 cio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.» Dos.  Se añaden las letras l), m) y n) al artículo 42, con la siguiente redacción:
+«l) La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+m) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+n) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.» Tres. Se añaden las letras k), l) y m) al artículo 44, con la siguiente redacción:
+«k) La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+l) La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+m) La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.»
+Cuarto. El apartado 2 del artículo 45 queda.
+
+con la siguiente redacción:
+«2. Son infracciones graves las descritas en los artículos siguientes: Artículo 41, letras d), e), f), g), h) y i); artículo 42, letras a), b), c), e), f), h), j), l), m) y n); artículo 44, letras a), b), d), g), i), j), k), l) y m).»
+Artículo Décimo Sexto. Modificación de la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres La Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres queda modificada como sigue:
+Uno. El apartado 3 del artículo 44 queda.
+
+con la siguiente redacción:
+«3. Reglamentariamente se regulará su régimen de gestión, debiendo garantizarse la distribución equitativa del disfrute de la caza entre cazadores.» Dos.  Se incorporan tres nuevos párrafos al artículo 74, que quedan con la siguiente redacción:
+«16.  La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+
+17. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+
+18. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.» Tres. Se incorporan tres nuevos párrafos al artículo 77, que quedan con la siguiente redacción:
+«30. La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+
+31. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+
+32. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.» Cuatro. Se incorporan tres nuevos párrafos al artículo 80, que quedan con la siguiente redacción:
+«17. La realización de una actuación o actividad sin cumplir los requisitos exigidos o sin haber realizado la comunicación o declaración responsable cuando alguna de ellas sea preceptiva.
+
+18. La inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento, que se acompañe o incorpore a la declaración responsable o comunicación previa.
+
+19. La alteración o el incumplimiento de las previsiones contenidas en la comunicación o declaración responsable para el ejercicio de una determinada actuación o actividad o de las condiciones impuestas por la administración para el ejercicio de la misma.»
+
+#### Disposición adicional primera. Acceso y comunicación.
 
 electrónica.
-1. El Plan de Establecimientos Comerciales será accesible a través del portal de la Administración de la Junta de 
-Andalucía, conforme a lo dispuesto en el artículo 6 del Decreto 
-183/2003, de 24 de junio.
-2. La Consejería competente en materia de comercio interior, dictará las normas y desarrollará los mecanismos necesarios para que la comunicación entre ésta y los municipios 
-en relación con el informe comercial sobre los instrumentos 
-de planeamiento urbanístico, el informe autonómico para la 
-autorización de grandes superficies minoristas, así como en 
-relación con las personas inscritas en el Registro General de 
-Comerciantes Ambulantes y las autorizaciones municipales 
-para el ejercicio del comercio ambulante, se realice por medios electrónicos, de acuerdo con lo previsto en el apartado 
-e) del artículo 4 de la Ley 11/2007, de 22 de junio, de acceso 
-electrónico de los ciudadanos a los servicios públicos. 
-3. La acreditación, autenticidad e integridad de los documentos electrónicos presentados se garantizarán mediante la 
-utilización de sistemas de firma electrónica avanzada, en los términos previstos en la normativa citada en el apartado anterior.
-4. La Consejería competente en materia de comercio interior, facilitará asistencia técnica a los municipios en materia de 
-comercio interior a través de una plataforma digital, sin perjuicio de las competencias de las Diputaciones Provinciales.
+
+1. El Plan de Establecimientos Comerciales será accesible a través del portal de la Administración de la Junta de Andalucía, conforme a lo dispuesto en el artículo 6 l.
+
+Decreto 183/2003, de 24 de junio.
+
+2. La Consejería competente en materia de comercio interior, dictará las normas y desarrollará los mecanismos necesarios para que la comunicación entre ésta y los municipios en relación con el informe comercial sobre los instrumentos de planeamiento urbanístico, el informe autonómico para la autorización de grandes superficies minoristas, así como en relación con las personas inscritas en el Registro General de Comerciantes Ambulantes y las autorizaciones municipales para el ejercicio del comercio ambulante, se realice por medios electrónicos, de acuerdo con lo previsto en el apartado
+e) Del artículo 4 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
+
+3. La acreditación, autenticidad e integridad de los documentos electrónicos presentados se garantizarán mediante la utilización de sistemas de firma electrónica avanzada, en los términos previstos en la normativa citada en el apartado anterior.
+
+4. La Consejería competente en materia de comercio interior, facilitará asistencia técnica a los municipios en materia de comercio interior a través de una plataforma digital, sin perjuicio de las competencias de las Diputaciones Provinciales.
 
 #### Disposición adicional segunda. Certificado de Calidad Municipal del Comercio de Andalucía.
 
-Por Orden de la persona titular de la Consejería competente en materia de comercio interior se desarrollarán las características y el uso del Certificado de Calidad Municipal del 
-Comercio de Andalucía.
+Por Orden de la persona titular de la Consejería competente en materia de comercio interior se desarrollarán las características y el uso del Certificado de Calidad Municipal del Comercio de Andalucía.
 
 #### Disposición adicional tercera. Consejo Andaluz de Comercio.
 
-A partir de la entrada en vigor del presente Decreto-Ley, 
-todas las menciones realizadas por la normativa vigente a la 
-Comisión Asesora de Comercio Interior se entenderán hechas 
-al Consejo Andaluz de Comercio.
+A partir de la entrada en vigor del presente Decreto-Ley, todas las menciones realizadas por la normativa vigente a la Comisión Asesora de Comercio Interior se entenderán hechas al Consejo Andaluz de Comercio.
 
-#### Disposición adicional cuarta. Plan de Establecimientos 
+#### Disposición adicional cuarta. Plan de Establecimientos.
 
 Comerciales.
-1. El Consejo de Gobierno aprobará el Plan de Establecimientos Comerciales en el plazo de un año desde la entrada 
-en vigor del presente Decreto-Ley.
-2. Los instrumentos de planeamiento urbanístico podrán 
-prever el emplazamiento de las grandes superficies minoristas 
-en las ubicaciones que consideren más idóneas aplicando los 
-criterios establecidos en este Decreto-Ley, si en la fecha de 
-su aprobación inicial no estuviera en vigor el Plan de Establecimientos Comerciales.
 
-Sevilla, 24 de diciembre 2009 
-Página núm. 29
-3. En el supuesto previsto en el apartado anterior, el informe comercial sobre estos instrumentos de planeamiento 
-urbanístico, tendrá carácter vinculante.
-4. Tras la entrada en vigor del Plan de Establecimientos Comerciales, los instrumentos de planeamiento urbanístico, cuya 
-aprobación inicial se produzca con posterioridad al mismo, deberán localizar los usos comerciales, con carácter preferente, en 
-función de los ámbitos aptos establecidos en el Plan.
+1. El Consejo de Gobierno aprobará el Plan de Establecimientos Comerciales en el plazo de un año desde la entrada en vigor del presente Decreto-Ley.
+
+2. Los instrumentos de planeamiento urbanístico podrán prever el emplazamiento de las grandes superficies minoristas en las ubicaciones que consideren más idóneas aplicando los criterios establecidos en este Decreto-Ley, si en la fecha de su aprobación inicial no estuviera en vigor el Plan de Establecimientos Comerciales.
+
+Sevilla, 24 de diciembre 2009 Página núm. 29
+
+3. En el supuesto previsto en el apartado anterior, el informe comercial sobre estos instrumentos de planeamiento urbanístico, tendrá carácter vinculante.
+
+4. Tras la entrada en vigor del Plan de Establecimientos Comerciales, los instrumentos de planeamiento urbanístico, cuya aprobación inicial se produzca con posterioridad al mismo, deberán localizar los usos comerciales, con carácter preferente, en función de los ámbitos aptos establecidos en el Plan.
 
 #### Disposición adicional quinta. Prohibición de grandes superficies minoristas sobre suelo no urbanizable.
 
-A partir de la entrada en vigor del presente Decreto-Ley, 
-no podrá concederse licencia municipal de obras de grandes 
-superficies minoristas en suelo no urbanizable. 
+A partir de la entrada en vigor del presente Decreto-Ley, no podrá concederse licencia municipal de obras de grandes superficies minoristas en suelo no urbanizable.
 
 #### Disposición adicional sexta. Licencia municipal de obras.
 
-A partir de la entrada en vigor del presente Decreto-Ley, 
-todas las menciones realizadas a la licencia comercial se entenderán hechas a la licencia municipal de obras.
+A partir de la entrada en vigor del presente Decreto-Ley, todas las menciones realizadas a la licencia comercial se entenderán hechas a la licencia municipal de obras.
 
 #### Disposición adicional séptima. Régimen de seguros.
 
-Con el fin de dar cumplimiento al principio de reserva de 
-ley establecido en el artículo 21 de la Ley sobre el libre acceso 
-a las actividades de servicios y su ejercicio, y sin perjuicio de 
-aquellos otros seguros que vengan establecidos en cualesquiera otras normas con rango de Ley, en el Anexo se relacionan 
-las actividades de servicios para las que será necesario la cobertura de un seguro por presentar un riesgo directo y concreto para la salud o para la seguridad del destinatario o de un 
+Con el fin de dar cumplimiento al principio de reserva de ley establecido en el artículo 21 de la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, y sin perjuicio de aquellos otros seguros que vengan establecidos en cualesquiera otras normas con rango de Ley, en el Anexo se relacionan las actividades de servicios para las que será necesario la cobertura de un seguro por presentar un riesgo directo y concreto para la salud o para la seguridad del destinatario o de un
 tercero, o para la seguridad financiera del destinatario.
 
-#### Disposición adicional octava. Aplicación de los requisitos 
+#### Disposición adicional octava. Aplicación de los requisitos.
 
-previstos para el silencio administrativo desestimatorio regulado en normas preexistentes.
-A los efectos previstos en el primer párrafo del artículo 
-43.1 de la Ley 30/1992, de 26 de noviembre, de Régimen 
-Jurídico de las Administraciones Públicas y del Procedimiento 
-Administrativo Común, de acuerdo con la redacción dada por 
-la Ley de modificación de diversas leyes para su adaptación 
-a la Ley sobre el libre acceso a las actividades de servicios y 
-su ejercicio, en la Administración de la Junta de Andalucía se 
-entenderá que concurren razones imperiosas de interés general en aquellos procedimientos que, habiendo sido regulados 
-con anterioridad a la entrada en vigor de este Decreto ley por 
-normas con rango de ley o de Derecho comunitario, prevean 
-efectos desestimatorios a la falta de notificación de la resolución expresa del procedimiento en el plazo previsto.
+previstos para el silencio administrativo desestimatorio regulado en normas preexistentes. A los efectos previstos en el primer párrafo del artículo 43.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, de acuerdo con la redacción dada por la Ley de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, en la Administración de la Junta de Andalucía se entenderá que concurren razones imperiosas de interés general en aquellos procedimientos que, habiendo sido regulados con anterioridad a la entrada en vigor de este Decreto ley por normas con rango de ley o de Derecho comunitario, prevean efectos desestimatorios a la falta de notificación de la resolución expresa del procedimiento en el plazo previsto.
 
-#### Disposición adicional novena. Notificación a la Comisión 
+#### Disposición adicional novena. Notificación a la Comisión.
 
-Europea.
-El órgano administrativo competente comunicará a la 
-Consejería de la Presidencia, antes de su aprobación y en los 
-términos que se establezcan reglamentariamente, cualquier 
-proyecto legal, reglamentario o administrativo que contenga 
-requisitos de los previstos en el apartado 2 del artículo 15 o 
-del artículo 16 de la Directiva 2006/123/CE del Parlamento 
-Europeo y del Consejo, de 12 de diciembre de 2006, relativa 
-a los servicios en el mercado interior, motivando su compatibilidad con los criterios de necesidad, proporcionalidad y no 
-discriminación, para su posterior notificación a la Comisión 
-Europea por los conductos correspondientes.
+Europea. El órgano administrativo competente comunicará a la Consejería de la Presidencia, antes de su aprobación y en los términos que se establezcan reglamentariamente, cualquier proyecto legal, reglamentario o administrativo que contenga requisitos de los previstos en el apartado 2 del artículo 15 o del.
+
+artículo 16 de la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, motivando su compatibilidad con los criterios de necesidad, proporcionalidad y no discriminación, para su posterior notificación a la Comisión Europea por los conductos correspondientes.
 
 #### Disposición transitoria primera. Previsiones del planeamiento urbanístico sobre grandes superficies minoristas.
 
-1. No será necesaria la calificación expresa de uso pormenorizado de gran superficie minorista, en aquellos casos 
-en que los instrumentos de planeamiento urbanístico, vigentes a la entrada en vigor del presente Decreto-Ley, ordenen 
-de forma concreta y pormenorizada, la parcela en donde esté 
-prevista la instalación de una gran superficie minorista.
-2. Igual régimen será aplicable una vez aprobado definitivamente el instrumento de planeamiento urbanístico que ordene la gran superficie minorista, cuando el mismo se encuentre 
-en tramitación y cuente con la aprobación inicial a la entrada 
-en vigor de este Decreto-Ley.
+1. No será necesaria la calificación expresa de uso pormenorizado de gran superficie minorista, en aquellos casos en que los instrumentos de planeamiento urbanístico, vigentes a la entrada en vigor del presente Decreto-Ley, ordenen de forma concreta y pormenorizada, la parcela en donde esté prevista la instalación de una gran superficie minorista.
+
+2. Igual régimen será aplicable una vez aprobado definitivamente el instrumento de planeamiento urbanístico que ordene la gran superficie minorista, cuando el mismo se encuentre en tramitación y cuente con la aprobación inicial a la entrada en vigor de este Decreto-Ley.
 
 #### Disposición transitoria segunda. Adaptación del planeamiento sin aprobación inicial.
 
-1. El planeamiento que a la entrada en vigor del presente Decreto-Ley no hubiera sido aprobado inicialmente, deberá 
-adaptarse a las determinaciones de este Decreto-Ley.
-2. En todo caso, los instrumentos de planeamiento urbanístico, que a la entrada en vigor del presente Decreto-Ley no 
-hubieran sido aprobados inicialmente, deberán calificar, en su 
-ámbito territorial, suelo de uso pormenorizado de gran superficie minorista como requisito necesario para la instalación de 
-una gran superficie minorista.
+1. El planeamiento que a la entrada en vigor del presente Decreto-Ley no hubiera sido aprobado inicialmente, deberá adaptarse a las determinaciones de este Decreto-Ley.
 
-#### Disposición transitoria tercera. Aplicación de los requisitos 
+2. En todo caso, los instrumentos de planeamiento urbanístico, que a la entrada en vigor del presente Decreto-Ley no hubieran sido aprobados inicialmente, deberán calificar, en su ámbito territorial, suelo de uso pormenorizado de gran superficie minorista como requisito necesario para la instalación de una gran superficie minorista.
 
-establecidos en el Título IV de la Ley 1/1996, de 10 de enero, 
-a las solicitudes de licencia municipal de obras.
-Los requisitos para la instalación de grandes superficies 
-minoristas previstos en el apartado 2 del artículo 39 serán de 
-aplicación a las solicitudes de licencia municipal de obras de 
-grandes superficies minoristas presentadas con posterioridad 
-a la entrada en vigor de este Decreto-Ley y que no cuenten 
-con licencia comercial.
+#### Disposición transitoria tercera. Aplicación de los requisitos.
+
+establecidos en el Título IV de la Ley 1/1996, de 10 de enero, a las solicitudes de licencia municipal de obras. Los requisitos para la instalación de grandes superficies minoristas previstos en el apartado 2 del artículo 39 serán.
+
+de aplicación a las solicitudes de licencia municipal de obras de grandes superficies minoristas presentadas con posterioridad a la entrada en vigor de este Decreto-Ley y que no cuenten con licencia comercial.
 
 #### Disposición transitoria cuarta. Licencias comerciales y licencias municipales en tramitación.
 
-1. Los promotores cuya solicitud de licencia comercial se encuentre tramitándose a la entrada en vigor del presente DecretoLey podrán optar, previo requerimiento del órgano administrativo 
-competente, entre su archivo, sin perjuicio de la conservación de 
-los trámites útiles para la tramitación de la licencia municipal de 
-obras, o la continuación de su tramitación, que continuará rigiéndose por la legislación vigente en la fecha de su presentación, 
-excepto en la necesidad de informe preceptivo de la Comisión 
-Asesora de Comercio Interior. Si la solicitud fuese resuelta favorablemente, el proyecto no estará sometido a los trámites específicos de la licencia municipal de obras de grandes superficies 
-minoristas que se regulan en el presente Decreto-Ley.
-2. En el caso de que no haya una respuesta expresa por 
-la persona promotora, en el plazo de diez días, el expediente 
-continuará su tramitación de acuerdo con la legislación vigente en la fecha de presentación de la solicitud, conforme a lo 
-previsto en el apartado anterior.
-3. Asimismo, no será aplicable el régimen específico de 
-licencia municipal de obras de grandes superficies minoristas 
-establecido en este Decreto-Ley, a quienes ya sean titulares 
-de una licencia comercial, sin perjuicio de la obligación de obtener las licencias municipales necesarias.
+1. Los promotores cuya solicitud de licencia comercial se encuentre tramitándose a la entrada en vigor del presente DecretoLey podrán optar, previo requerimiento del órgano administrativo competente, entre su archivo, sin perjuicio de la conservación de los trámites útiles para la tramitación de la licencia municipal de obras, o la continuación de su tramitación, que continuará rigiéndose por la legislación vigente en la fecha de su presentación, excepto en la necesidad de informe preceptivo de la Comisión Asesora de Comercio Interior. Si la solicitud fuese resuelta favorablemente, el proyecto no estará sometido a los trámites específicos de la licencia municipal de obras de grandes superficies minoristas que se regulan en el presente Decreto-Ley.
+
+2. En el caso de que no haya una respuesta expresa por la persona promotora, en el plazo de diez días, el expediente continuará su tramitación de acuerdo con la legislación vigente en la fecha de presentación de la solicitud, conforme a lo previsto en el apartado anterior.
+
+3. Asimismo, no será aplicable el régimen específico de licencia municipal de obras de grandes superficies minoristas establecido en este Decreto-Ley, a quienes ya sean titulares de una licencia comercial, sin perjuicio de la obligación de obtener las licencias municipales necesarias.
 
 #### Disposición transitoria quinta. Solicitudes de licencia municipal de obras con planeamiento con ordenación pormenorizada a la entrada en vigor de este Decreto-Ley.
 
-1. Toda persona con derecho a uso de parcelas o fincas 
-que, a la entrada en vigor del presente Decreto-Ley, tengan 
-ordenación pormenorizada apta para la instalación de una 
-gran superficie minorista y no estén calificadas expresamente 
-como uso pormenorizado de gran superficie minorista, o cuya 
-ordenación pormenorizada se esté realizando por un instrumento de planeamiento que tenga la aprobación inicial, podrán solicitar la licencia municipal de obras, sin necesidad de 
-que su emplazamiento esté calificado expresamente de uso 
-pormenorizado de gran superficie minorista.
-2. En los supuestos previstos en el apartado anterior, serán preceptivos, en la tramitación de las licencias municipales de obras de 
-grandes superficies minoristas, los informes de la Consejería competente en materia de Ordenación del Territorio y de Urbanismo, que 
-serán emitidos con antelación al informe autonómico para la autorización de grandes superficies minoristas. Dichos informes tendrán 
-carácter vinculante y su plazo de emisión será de dos meses.
+1. Toda persona con derecho a uso de parcelas o fincas que, a la entrada en vigor del presente Decreto-Ley, tengan ordenación pormenorizada apta para la instalación de una gran superficie minorista y no estén calificadas expresamente como uso pormenorizado de gran superficie minorista, o cuya ordenación pormenorizada se esté realizando por un instrumento de planeamiento que tenga la aprobación inicial, podrán solicitar la licencia municipal de obras, sin necesidad de que su emplazamiento esté calificado expresamente de uso pormenorizado de gran superficie minorista.
 
-Página núm. 30 
-Se vi lla, 24 de diciembre 2009
+2. En los supuestos previstos en el apartado anterior, serán preceptivos, en la tramitación de las licencias municipales de obras de grandes superficies minoristas, los informes de la Consejería competente en materia de Ordenación del Territorio y de Urbanismo, que serán emitidos con antelación al informe autonómico para la autorización de grandes superficies minoristas. Dichos informes tendrán carácter vinculante y su plazo de emisión será de dos meses.
+
+Página núm. 30 Se vi lla, 24 de diciembre 2009
 
 #### Disposición transitoria sexta. Prórroga de licencias comerciales no ejecutadas.
 
-La persona titular de una licencia comercial, que a la entrada 
-en vigor del presente Decreto-Ley no haya iniciado la actividad, 
-mantendrá vigente el plazo máximo contenido en la Orden por 
-la que se le otorgó la licencia. Este plazo podrá ser prorrogado a 
-solicitud del interesado de forma debidamente justificada.
+La persona titular de una licencia comercial, que a la entrada en vigor del presente Decreto-Ley no haya iniciado la actividad, mantendrá vigente el plazo máximo contenido en la Orden por la que se le otorgó la licencia. Este plazo podrá ser prorrogado a solicitud del interesado de forma debidamente justificada.
 
-#### Disposición transitoria séptima. Personas inscritas en el 
+#### Disposición transitoria séptima. Personas inscritas en el.
 
-Registro General de Comerciantes Ambulantes.
-Las personas que se encuentran inscritas en el Registro 
-General de Comerciantes Ambulantes y estén en posesión del 
-carné profesional de comerciante ambulante, podrán obtener los 
-beneficios establecidos en el artículo 6.3 de la Ley 9/1988, de 
-25 de noviembre, durante el tiempo de vigencia que les reste. 
+Registro General de Comerciantes Ambulantes. Las personas que se encuentran inscritas en el Registro General de Comerciantes Ambulantes y estén en posesión del carné profesional de comerciante ambulante, podrán obtener los beneficios establecidos en el artículo 6.3 de la Ley 9/1988, de 25 de noviembre, durante el tiempo de vigencia que les reste.
 
 #### Disposición transitoria octava. Ordenanzas Municipales.
 
-Los ayuntamientos deberán adecuar sus Ordenanzas reguladoras del Comercio Ambulante a las previsiones contenidas en el presente Decreto-Ley en el plazo de 6 meses desde 
-su entrada en vigor. 
+Los ayuntamientos deberán adecuar sus Ordenanzas reguladoras del Comercio Ambulante a las previsiones contenidas en el presente Decreto-Ley en el plazo de 6 meses desde su entrada en vigor.
 
 #### Disposición transitoria novena. Instituciones Feriales.
 
-Las Instituciones Feriales existentes en Andalucía, creadas al amparo de la Ley 3/1992 de Ferias Comerciales Oficiales, deberán adaptar su forma jurídica en el plazo de un año 
-desde la entrada en vigor del presente Decreto-Ley.  
+Las Instituciones Feriales existentes en Andalucía, creadas al amparo de la Ley 3/1992 de Ferias Comerciales Oficiales, deberán adaptar su forma jurídica en el plazo de un año desde la entrada en vigor del presente Decreto-Ley.
 
 #### Disposición transitoria décima. Ferias Comerciales Oficiales.
 
-Las Ferias Comerciales Oficiales que hayan sido objeto de 
-autorización expresa antes de la entrada en vigor del presente 
-Decreto-Ley, quedarán sujetas al régimen legal anterior para la 
-edición incluida en el calendario aprobado.
+Las Ferias Comerciales Oficiales que hayan sido objeto de autorización expresa antes de la entrada en vigor del presente Decreto-Ley, quedarán sujetas al régimen legal anterior para la edición incluida en el calendario aprobado.
 
-#### Disposición transitoria undécima. Régimen transitorio en 
+#### Disposición transitoria undécima. Régimen transitorio en.
 
-materias distintas al área comercial y ferial.
-Los procedimientos de autorizaciones iniciados con anterioridad a la entrada en vigor de este Decreto ley se tramitarán y 
-resolverán por la normativa vigente en el momento de la presentación de la solicitud. Si la tramitación y resolución se produce a 
-partir del 28 de diciembre de 2009 y la normativa de aplicación 
-incluye requisitos prohibidos según el artículo 14 de la Directiva, 
-éstos no se tendrán en cuenta por el órgano competente.
+materias distintas al área comercial y ferial. Los procedimientos de autorizaciones iniciados con anterioridad a la entrada en vigor de este Decreto ley se tramitarán y resolverán por la normativa vigente en el momento de la presentación de la solicitud. Si la tramitación y resolución se produce a partir del 28 de diciembre de 2009 y la normativa de aplicación incluye requisitos prohibidos según el artículo 14 de la Directiva, éstos no se tendrán en cuenta por el órgano competente.
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto Ley y, 
-expresamente, las siguientes:
-1. La disposición adicional segunda de la Ley 1/1996, de 
-10 de enero, del Comercio Interior de Andalucía.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto Ley y, expresamente, las siguientes:
+
+1. La disposición adicional segunda de la Ley 1/1996, de 10 de enero, del Comercio Interior de Andalucía.
+
 2. El Decreto 208/2007, de 17 de julio, por el que se aprueba el Plan Andaluz de Orientación Comercial 2007-2010 y se regulan los criterios de evaluación para el otorgamiento de la licencia comercial de grandes establecimientos comerciales.
+
 3. El Decreto 81/1998, de 7 de abril, por el que se aprueba el Reglamento de Ferias Comerciales de Andalucía.
 
-#### Disposición final Primera. Adaptación de la normativa vigente.
+#### Disposición final primera. Adaptación de la normativa vigente.
 
-En el plazo de tres meses a partir de la entrada en vigor 
-de este Decreto Ley, las normas que fueron dictadas en desarrollo de las Leyes que son objeto de modificación deberán 
-adaptarse al presente Decreto Ley en lo que contradigan o se 
-opongan a la misma. 
+En el plazo de tres meses a partir de la entrada en vigor de este Decreto Ley, las normas que fueron dictadas en desarrollo de las Leyes que son objeto de modificación deberán adaptarse al presente Decreto Ley en lo que contradigan o se opongan a la misma.
 
-#### Disposición final Segunda. Desarrollo.
+#### Disposición final segunda. Desarrollo.
 
-El desarrollo reglamentario de este Decreto Ley se llevará 
-a efecto de acuerdo con lo dispuesto en los artículos 112 y 
-119.3 del Estatuto de Autonomía para Andalucía y 44 de la 
-Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
-Autónoma de Andalucía.
+El desarrollo reglamentario de este Decreto Ley se llevará a efecto de acuerdo con lo dispuesto en los artículos 112 y 119.3 del Estatuto de Autonomía para Andalucía y 44 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía.
 
-#### Disposición final Tercera. Entrada en vigor  
+#### Disposición final tercera. Entrada en vigor.
 
-El presente Decreto Ley entrará en vigor el 27 de diciembre de 2009. 
-Sevilla, 22 de diciembre de 2009
-JOSÉ ANTONIO GRIÑÁN MARTÍNEZ
-Presidente de la Junta de Andalucía
-   ANTONIO ÁVILA CANO
-Consejero de la Presidencia
-A N E X O 
-Actividades de servicios para las que será necesaria la cobertura de un seguro
-Seguro
-Normativa de referencia
-Seguro de responsabilidad civil profesional cuya cobertura sea suficiente para 
-garantizar los riesgos que pudieran derivarse de la ejecución de los trabajos que 
-se deriven de la actividad arqueológica autorizada
-Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades 
-Arqueológicas
-Seguro de accidentes para todo el personal participante en la actividad 
-arqueológica
-Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades 
-Arqueológicas
-Seguro para preservar los fondos museísticos que salgan de Andalucía, su 
-conservación y su regreso
-Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de 
-Museos y de Gestión de Fondos Museísticos de la Comunidad Autónoma de Andalucía
-Póliza de seguros multirriesgo y de responsabilidad civil para los Servicios y 
-Centros de Servicios Sociales de Andalucía
-Orden de 28 de julio de 2000, conjunta de las Consejerías de la Presidencia y de Asuntos 
-Sociales, por la que se regulan los requisitos materiales y funcionales de los Servicios y Centros 
-de Servicios Sociales de Andalucía y se aprueba el modelo de solicitud de las autorizaciones 
-administrativas
-Póliza de responsabilidad civil, que cubra los riesgos de su responsabilidad, 
-respecto a daños materiales y personales a terceros de las Entidades de 
-Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los 
-Edificios
-Resolución de 9 de abril de 2008, de la Dirección General de Industria, Energía y Minas, por 
-la que se regulan los procedimientos para la obtención/convalidación del carné profesional en 
-Instalaciones Térmicas de Edificios (RITE-07), los requisitos de acreditación de las Entidades 
-de Formación Autorizadas en Instalaciones Térmicas de Edificios, y sobre normas aclaratorias 
-para las tramitaciones a realizar de acuerdo con el Reglamento de Instalaciones Térmicas en los 
-Edificios, aprobado mediante Real Decreto 1027/2007, de 20 de julio (RITE-07)
-Póliza de seguro de responsabilidad Civil para la autorización de los laboratorios 
-de ensayo y contraste
-Decreto 155/1996, de 7 de mayo, por el que se regulan los laboratorios de ensayo y contraste 
-de objetos fabricados con metales preciosos
+El presente Decreto Ley entrará en vigor el 27 de diciembre de 2009. Sevilla, 22 de diciembre de 2009 JOSÉ ANTONIO GRIÑÁN MARTÍNEZ Presidente de la Junta de Andalucía ANTONIO ÁVILA CANO Consejero de la Presidencia
+
+## Anexo
+
+Actividades de servicios para las que será necesaria la cobertura de un seguro Seguro Normativa de referencia Seguro de responsabilidad civil profesional cuya cobertura sea suficiente para garantizar los riesgos que pudieran derivarse de la ejecución de los trabajos que se deriven de la actividad arqueológica autorizada Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro de accidentes para todo el personal participante en la actividad arqueológica Decreto 168/2003, de 17 de junio, por el que se aprueba el Reglamento de Actividades Arqueológicas Seguro para preservar los fondos museísticos que salgan de Andalucía, su conservación y su regreso Decreto 284/1995, de 28 de noviembre, por el que se aprueba el Reglamento de Creación de Museos y de Gestión de Fondos Museísticos de la Comunidad Autónoma de Andalucía Póliza de seguros multirriesgo y de responsabilidad civil para los Servicios y Centros de Servicios Sociales de Andalucía Orden de 28 de julio de 2000, conjunta de las Consejerías de la Presidencia y de Asuntos Sociales, por la que se regulan los requisitos materiales y funcionales de los Servicios y Centros de Servicios Sociales de Andalucía y se aprueba el modelo de solicitud de las autorizaciones administrativas Póliza de responsabilidad civil, que cubra los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros de las Entidades de Formación Autorizadas en el Reglamento de Instalaciones Térmicas en los Edificios Resolución de 9 de abril de 2008, de la Dirección General de Industria, Energía y Minas, por la que se regulan los procedimientos para la obtención/convalidación del carné profesional en Instalaciones Térmicas de Edificios (RITE-07), los requisitos de acreditación de las Entidades de Formación Autorizadas en Instalaciones Térmicas de Edificios, y sobre normas aclaratorias para las tramitaciones a realizar de acuerdo con el Reglamento de Instalaciones Térmicas en los Edificios, aprobado mediante Real Decreto 1027/2007, de 20 de julio (RITE-07) Póliza de seguro de responsabilidad Civil para la autorización de los laboratorios de ensayo y contraste Decreto 155/1996, de 7 de mayo, por el que se regulan los laboratorios de ensayo y contraste de objetos fabricados con metales preciosos

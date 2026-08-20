@@ -1,14 +1,10 @@
 ---
 id: norm-es-2010-4130
 codigo_sintetizado: BOE-A-2010-4130
-titulo: Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación
-  de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno
-  de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros
-  docentes españoles.
+titulo: Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2010-03-12'
 boletin: BOE
@@ -19,46 +15,47 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Bachillerato
 tags:
-- bachillerato
-- consejo-escolar
-- curriculo
-- eso
-- evaluacion
-- profesorado
-- titulacion
+  - bachillerato
+  - consejo-escolar
+  - curriculo
+  - eso
+  - evaluacion
+  - profesorado
+  - titulacion
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
   fundamento_de:
-  - norma_id: norm-es-2010-12706
-  - norma_id: norm-es-2022-15953
-  - norma_id: norm-es-2023-3846
-  - norma_id: norm-es-2025-16039
-  - norma_id: norm-can-res-063
-  - norma_id: norm-can-res-boc-2026-077-62
+    - norma_id: norm-es-2010-12706
+    - norma_id: norm-es-2022-15953
+    - norma_id: norm-es-2023-3846
+    - norma_id: norm-es-2025-16039
+    - norma_id: norm-can-res-063
+    - norma_id: norm-can-res-boc-2026-077-62
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 
 ## Preámbulo
 
-# Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
+Con fecha 16 de mayo de 2005 se firma el Acuerdo Marco entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados. Dicho Acuerdo hace referencia en su
 
-# Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
+#### Artículo 7. a una.
 
-Con fecha 16 de mayo de 2005 se firma el Acuerdo Marco entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados. Dicho Acuerdo hace referencia en su artículo 7 a una posible integración de los currículos respectivos de Educación Secundaria en un currículo común mixto, con objeto de otorgar una doble titulación al término de los estudios secundarios, a los alumnos que superen este currículo integrado.
+posible integración de los currículos respectivos de Educación Secundaria en un currículo común mixto, con objeto de otorgar una doble titulación al término de los estudios secundarios, a los alumnos que superen este currículo integrado.
 
 Los representantes de España y de Francia, animados por la voluntad común de continuar promoviendo la cooperación cultural entre los dos Estados, en particular en el ámbito educativo, firman el día 10 de enero de 2008 el Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a la doble titulación de Bachiller y de Baccalauréat, con el objetivo de desarrollar el contenido del Acuerdo Marco. Por tanto, procede ahora ordenar la aplicación de ambos Acuerdos de modo que sus beneficios puedan extenderse a centros de todas las comunidades autónomas, respetando las competencias que, en materia de currículo del sistema educativo español, tienen las Administraciones educativas.
 
@@ -94,7 +91,9 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 3. El Ministerio de Educación comunicará a las Administraciones educativas que gestionen centros acogidos al Acuerdo de doble titulación de Bachiller y Baccalauréat, los contenidos, métodos pedagógicos y criterios de evaluación propios del sistema educativo francés que deberán ser integrados en el currículo mixto.
 
-4. La comunicación a la que se refiere el apartado anterior se producirá con antelación suficiente y como consecuencia, en todo caso, de los acuerdos que se adopten en la comisión de seguimiento prevista en el artículo 7 del Acuerdo de Doble Titulación.
+4. La comunicación a la que se refiere el apartado anterior se producirá con antelación suficiente y como consecuencia, en todo caso, de los acuerdos que se adopten en la comisión de seguimiento prevista en el artículo 7 l.
+
+Acuerdo de Doble Titulación.
 
 5. El currículo mixto respetará en todo caso la proporcionalidad que corresponda a las enseñanzas comunes o mínimas establecidas con carácter estatal.
 
@@ -102,7 +101,9 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 1. En los centros a los que se refiere este real decreto y en las etapas afectadas se impartirá íntegramente en lengua francesa, al menos, las materias específicas del currículo mixto, cuyo contenido será objeto de acuerdo entre las Partes y estará incluido en la prueba específica en los términos establecidos en el artículo 7.
 
-2. En virtud del artículo 2 del Acuerdo de Doble Titulación, las enseñanzas de este currículo mixto deberán permitir que el alumnado alcance al final de la etapa, al menos, el nivel de usuario independiente correspondiente al nivel B2 del Marco común europeo de referencia para las lenguas.
+2. En virtud del artículo 2 l.
+
+Acuerdo de Doble Titulación, las enseñanzas de este currículo mixto deberán permitir que el alumnado alcance al final de la etapa, al menos, el nivel de usuario independiente correspondiente al nivel B2 del Marco común europeo de referencia para las lenguas.
 
 3. Podrán ser admitidos en este programa los alumnos y alumnas que hayan cursado la Educación secundaria obligatoria en una sección bilingüe hispano-francesa, los que hayan efectuado toda o parte de su escolaridad obligatoria en el sistema educativo de un país de lengua francesa, así como los que puedan acreditar un nivel equivalente al B1 del Marco común europeo de referencia para las lenguas, en el uso de la lengua francesa al comienzo del Bachillerato.
 
@@ -110,7 +111,9 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 1. El Ministerio de Educación, en colaboración con las comunidades autónomas, planificará las actividades de formación inicial y permanente del profesorado implicado en este currículo mixto, y establecerá las medidas oportunas para estimular la participación en ellas y para favorecer la movilidad internacional de estos docentes.
 
-2. De conformidad con el artículo 6 del Acuerdo de Doble Titulación, podrá establecerse un sistema de colaboración entre las Partes para la formación del profesorado implicado en este programa que podrá incluir la acogida de profesores nativos de ambos países.
+2. De conformidad con el artículo 6 l.
+
+Acuerdo de Doble Titulación, podrá establecerse un sistema de colaboración entre las Partes para la formación del profesorado implicado en este programa que podrá incluir la acogida de profesores nativos de ambos países.
 
 #### Artículo 6. Centros escolares.
 
@@ -136,11 +139,15 @@ Este real decreto tiene por objeto regular las enseñanzas conducentes a la obte
 
 4. En virtud de lo establecido en el Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a la doble titulación de Bachiller y de Baccalauréat, de 10 de enero de 2008, el Ministerio de Educación de España dispondrá lo necesario para hacer efectiva la expedición del título de Bachiller al alumnado de centros franceses que cumplan lo previsto a este respecto en dicho acuerdo.
 
-5. Estos dos títulos otorgarán al alumnado que los obtenga el derecho a acceder a la enseñanza superior española y a la enseñanza superior francesa de conformidad con lo establecido en el artículo 1 del Acuerdo de Doble Titulación.
+5. Estos dos títulos otorgarán al alumnado que los obtenga el derecho a acceder a la enseñanza superior española y a la enseñanza superior francesa de conformidad con lo establecido en el artículo 1 l.
+
+Acuerdo de Doble Titulación.
 
 #### Artículo 9. Supervisión del Acuerdo de Doble Titulación.
 
-1. La Comisión de seguimiento, prevista en el artículo 7 del Acuerdo de Doble Titulación, regulará y velará por el buen funcionamiento del mismo.
+1. La Comisión de seguimiento, prevista en el artículo 7 l.
+
+Acuerdo de Doble Titulación, regulará y velará por el buen funcionamiento del mismo.
 
 2. La Comisión de seguimiento creará una Comisión técnica formada por tres representantes del Ministerio de Educación, y tres representantes de las comunidades autónomas, cuyos centros impartan el currículo mixto, que resolverá las cuestiones que le sean asignadas.
 
@@ -170,11 +177,10 @@ El Ministro de Educación,
 
 ÁNGEL GABILONDO PUJOL
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -187,6 +193,7 @@ El Ministro de Educación,
 - **Fundamento de**: [**Resolucion BOC 62**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R14_4_2026_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)

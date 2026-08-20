@@ -1,12 +1,10 @@
 ---
 id: norm-es-2012-5337
 codigo_sintetizado: BOE-A-2012-5337
-titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización
-  del gasto público en el ámbito educativo.
+titulo: Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2012-04-21'
 boletin: BOE
@@ -17,44 +15,41 @@ clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Jornada laboral y horarios
 tags:
-- bachillerato
-- curriculo
-- ebep
-- ensenanzas-universitarias
-- formacion-profesional
-- fp-basica
-- interinos
-- jornada-laboral-y-horarios
-- oposiciones
-- personal-no-docente
-- profesorado
+  - bachillerato
+  - curriculo
+  - ebep
+  - ensenanzas-universitarias
+  - formacion-profesional
+  - fp-basica
+  - interinos
+  - jornada-laboral-y-horarios
+  - oposiciones
+  - personal-no-docente
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-rd-132-2010
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-rd-132-2010
   fundamento_de:
-  - norma_id: norm-es-2019-3307
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+    - norma_id: norm-es-2019-3307
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-rd-132-2010
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-rd-132-2010
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 ## Preámbulo
-
-# Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
-
-# Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 En la actual coyuntura económica se hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria derivado del marco constitucional y de la Unión Europea.
 
@@ -80,7 +75,7 @@ En su virtud, en uso de la autorización contenida en el artículo 86 de la Cons
 
 El objeto de este Real Decreto-ley es adoptar medidas urgentes para la racionalización del gasto público en el ámbito de la educación, de conformidad con los principios de eficiencia y austeridad que deben presidir el funcionamiento de los servicios públicos.
 
-## TÍTULO I
+## Título I
 
 **Educación no universitaria**
 
@@ -112,7 +107,7 @@ Los ciclos formativos de grado medio y grado superior cuya implantación estuvie
 
 Las Administraciones educativas podrán anticipar la implantación de las medidas que consideren necesarias en los cursos anteriores.
 
-## TÍTULO II
+## Título II
 
 **Enseñanza universitaria**
 
@@ -204,7 +199,7 @@ Las Universidades remitirán copia de la liquidación de sus presupuestos y el r
 
 La falta de remisión de la liquidación del presupuesto, o la falta de adopción de medidas en caso de liquidación con remanente negativo, facultará a la Comunidad Autónoma para adoptar, en el ámbito de sus competencias, las medidas necesarias para garantizar la estabilidad presupuestaria de la Universidad.»
 
-#### Articulo 7. Financiación de las becas y ayudas al estudio.
+#### Artículo 7. Financiación de las becas y ayudas al estudio.
 
 1. El coste del componente individual de las becas y ayudas al estudio destinado a financiar los gastos derivados de la matrícula de alumnos de estudios universitarios será financiado conforme a las siguientes reglas:
 
@@ -214,9 +209,9 @@ b) Las Comunidades Autónomas financiarán íntegramente con cargo a sus presupu
 
 2. Hasta que todas las universidades implanten sistemas de contabilidad analítica y, como máximo, hasta el curso universitario 2015/2016, la parte del componente de matrícula que se financiará con cargo a los Presupuestos Generales del Estado será el precio público vigente para cada titulación en el momento de entrada en vigor de este Real Decreto-ley. Estas cantidades se actualizarán cada curso mediante la aplicación del coeficiente que determine la Conferencia General de Política Universitaria.
 
-#### Disposición derogatoria única.
+#### Disposición derogatoria única. Quedan derogados los apartados 3 y 4 del artículo 13 l [Real.
 
-Quedan derogados los apartados 3 y 4 del artículo 13 del [Real Decreto 132/2010](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
+Decreto 132/2010](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la educación infantil, la educación primaria y la educación secundaria.
 
 #### Disposición final primera. Fundamento competencial.
 
@@ -226,11 +221,15 @@ Este real Decreto-ley tiene carácter de legislación básica y se dicta al ampa
 
 Primero.–Con efectos para los períodos impositivos que se inicien dentro de los años 2012 y 2013, se modifica el artículo 1. Primero. Cuatro del Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, que queda redactado de la siguiente forma:
 
-«Cuatro. El importe de los pagos fraccionados establecidos en el apartado 3 del artículo 45 del texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 8 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado en las bases imponibles negativas pendientes de compensar por los sujetos pasivos, teniendo en cuenta los límites que correspondan de acuerdo con lo establecido en el artículo 9. Primero. Dos del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011.
+«Cuatro. El importe de los pagos fraccionados establecidos en el apartado 3 del artículo 45 l.
 
-No obstante, el porcentaje establecido en el párrafo anterior será del 4 por ciento para aquellas entidades allí referidas, en las que al menos del 85 por ciento de los ingresos de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, correspondan a rentas a las que resulte de aplicación las exenciones previstas en los artículos 21 y 22 o la deducción prevista en el artículo 30.2, del texto refundido de la Ley del Impuesto sobre Sociedades.
+texto refundido de la Ley del Impuesto sobre Sociedades, para los sujetos pasivos cuyo importe neto de la cifra de negocios en los doce meses anteriores a la fecha en que se inicien los períodos impositivos dentro del año 2012 ó 2013 sea al menos veinte millones de euros, no podrá ser inferior, en ningún caso, al 8 por ciento del resultado positivo de la cuenta de pérdidas y ganancias del ejercicio de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, determinado de acuerdo con el Código de Comercio y demás normativa contable de desarrollo, minorado en las bases imponibles negativas pendientes de compensar por los sujetos pasivos, teniendo en cuenta los límites que correspondan de acuerdo con lo establecido en el artículo 9. Primero. Dos del Real Decreto-ley 9/2011, de 19 de agosto, de medidas para la mejora de la calidad y cohesión del sistema nacional de salud, de contribución a la consolidación fiscal, y de elevación del importe máximo de los avales del Estado para 2011.
 
-En cualquier caso, el porcentaje establecido en el primer párrafo de este apartado sería del 4 por ciento, y el establecido en el segundo párrafo de este apartado será del 2 por ciento para el pago fraccionado cuyo plazo de declaración vence el 20 de abril de 2012. Adicionalmente, no resultará de aplicación a dicho pago fraccionado lo establecido en el artículo 20 del texto refundido de la Ley del Impuesto sobre Sociedades, según redacción dada al mismo por el Real Decreto-ley 12/2012, de 30 de marzo.»
+No obstante, el porcentaje establecido en el párrafo anterior será del 4 por ciento para aquellas entidades allí referidas, en las que al menos del 85 por ciento de los ingresos de los tres, nueve u once primeros meses de cada año natural o, para sujetos pasivos cuyo período impositivo no coincida con el año natural, del ejercicio transcurrido desde el inicio del período impositivo hasta el día anterior al inicio de cada período de ingreso del pago fraccionado, correspondan a rentas a las que resulte de aplicación las exenciones previstas en los artículos 21 y 22 o la deducción prevista en el artículo 30.2, del texto refundido de la Ley del Impuesto sobre Sociedades.
+
+En cualquier caso, el porcentaje establecido en el primer párrafo de este apartado sería del 4 por ciento, y el establecido en el segundo párrafo de este apartado será del 2 por ciento para el pago fraccionado cuyo plazo de declaración vence el 20 de abril de 2012. Adicionalmente, no resultará de aplicación a dicho pago fraccionado lo establecido en el artículo 20 l.
+
+texto refundido de la Ley del Impuesto sobre Sociedades, según redacción dada al mismo por el Real Decreto-ley 12/2012, de 30 de marzo.»
 
 Segundo.–Con efectos a partir de la entrada en vigor del Real Decreto-ley 12/2012, de 30 de marzo, por el que se introducen diversas medidas tributarias y administrativas dirigidas a la reducción del déficit público, se modifican los apartados 1 y 2 de la disposición adicional decimoquinta del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, que queda redactado de la siguiente forma:
 
@@ -256,11 +255,10 @@ El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
@@ -269,6 +267,7 @@ MARIANO RAJOY BREY
 - **Fundamento de**: [**BOE-A-2019-3307**](./L4_2019_mejora_condiciones_desempeno_docencia_ensenanza_ambito.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)

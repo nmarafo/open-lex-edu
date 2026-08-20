@@ -1,12 +1,10 @@
 ---
 id: norm-es-rd-157-2022
 codigo_sintetizado: RD157_2022 Ensenanzas Minimas de Educacion Primaria
-titulo: Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación
-  y las enseñanzas mínimas de la Educación Primaria.
+titulo: Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto
 numero_disposicion: 157/2022
 fecha_disposicion: '2022-03-01'
@@ -20,126 +18,121 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- curriculo
-- educaci-n-primaria
-- educacion-primaria
-- ensenanzas-artisticas
-- ensenanzas-minimas
-- evaluacion
-- inclusiva
-- neae
-- oposiciones
-- ordenacion-primaria
-- perfil-salida
-- proteccion-menores
+  - curriculo
+  - educaci-n-primaria
+  - educacion-primaria
+  - ensenanzas-artisticas
+  - ensenanzas-minimas
+  - evaluacion
+  - inclusiva
+  - neae
+  - oposiciones
+  - ordenacion-primaria
+  - perfil-salida
+  - proteccion-menores
 relaciones:
   desarrolla:
-  - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-2-2006
   fundamentado_en:
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2014-2222
-  - norma_id: norm-es-2021-18812
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-l-39-2015
-  - norma_id: norm-es-lo-3-2018
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-l-39-2015
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-lo-8-1985
   desarrollado_por:
-  - norma_id: norm-can-d-101-2023
+    - norma_id: norm-can-d-101-2023
   fundamento_de: []
-fundamentos_derecho:
-- norma_id: norm-es-lo-2-2006
+  fundamentos_derecho:
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '6.2'
-  - '16'
-  - '18'
-  - '19'
-  - '20'
-- norma_id: norm-es-ce-1978
+    - '6.2'
+    - '16'
+    - '18'
+    - '19'
+    - '20'
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-l-39-2015
+    - '27'
+    - norma_id: norm-es-l-39-2015
   articulos:
-  - '1'
-- norma_id: norm-es-lo-3-2018
-- norma_id: norm-es-lo-8-1985
-- norma_id: norm-es-2014-2222
-- norma_id: norm-es-2021-18812
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - norma_id: norm-es-lo-3-2018
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-2014-2222
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
 
 ## Preámbulo
 
-# Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
 
-# Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria
-
-La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
-
-De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
+De acuerdo con este enfoque, el nuevo texto de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, incorpora entre los principios y fines de la educación el cumplimiento efectivo de los derechos de la infancia según lo establecido en la Convención sobre los Derechos del Niño de Naciones Unidas, la inclusión educativa y la aplicación de los principios del Diseño Universal para el Aprendizaje.
 
 Al mismo tiempo, la ley reformula, en primer lugar, la definición de currículo, enumerando los elementos que lo integran y señalando a continuación que su configuración deberá estar orientada a facilitar el desarrollo educativo de los alumnos y alumnas, garantizando su formación integral, contribuyendo al pleno desarrollo de su personalidad y preparándolos para el ejercicio pleno de los derechos humanos, de una ciudadanía activa y democrática en la sociedad actual, sin que en ningún caso pueda suponer una barrera que genere abandono escolar o impida el acceso y disfrute del derecho a la educación. En consonancia con esta visión, la ley, manteniendo el enfoque competencial que aparecía ya en el texto original, hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.
 
 Asimismo, se modifica la anterior distribución de competencias entre el Estado y las comunidades autónomas en lo relativo a los contenidos básicos de las enseñanzas mínimas. De este modo, corresponderá al Gobierno, previa consulta a las comunidades autónomas en el marco de la Conferencia Sectorial de Educación, fijar, en relación con los objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del currículo, que constituyen las enseñanzas mínimas. Las administraciones educativas, a su vez, serán las responsables de establecer el currículo correspondiente para su ámbito territorial, del que formarán parte los aspectos básicos antes mencionados. Finalmente, corresponderá a los centros educativos desarrollar y completar, en su caso, el currículo de las diferentes etapas y ciclos en el uso de su autonomía, tal y como se recoge en la propia ley.
 
-Con relación a la Educación Primaria, los cambios introducidos por la Ley Orgánica 3/2020, de 29 de diciembre, en la redacción de la Ley Orgánica 2/2006, de 3 de mayo, modifica significativamente la ordenación y la organización de las enseñanzas, recuperando los tres ciclos anteriormente existentes, reordenando las áreas con objeto de favorecer el desarrollo de las competencias del alumnado, y permitiendo su organización en ámbitos. En el tercer ciclo se añade además un área de Educación en Valores Cívicos y Éticos. Por otra parte, se establece que la evaluación durante la etapa se basará en el grado de desarrollo de las competencias previstas.
+Con relación a la Educación Primaria, los cambios introducidos por la Ley Orgánica 3/2020, de 29 de diciembre, en la redacción de la Ley Orgánica 2/2006, de 3 de mayo, modifica significativamente la ordenación y la organización de las enseñanzas, recuperando los tres ciclos anteriormente existentes, reordenando las áreas con objeto de favorecer el desarrollo de las competencias del alumnado, y permitiendo su organización en ámbitos. En el tercer ciclo se añade además un área de Educación en Valores Cívicos y Éticos. Por otra parte, se establece que la evaluación durante la etapa se basará en el grado de desarrollo de las competencias previstas.
 
 De igual modo, se establece que cada alumno y alumna dispondrá, al finalizar la etapa, de un informe sobre su evolución y las competencias desarrolladas, según dispongan las administraciones educativas, a fin de garantizar una transición con las mayores garantías a la etapa de Educación Secundaria Obligatoria.
 
 En función de la nueva regulación que la ley establece con relación a las evaluaciones de diagnóstico, se prevé que en cuarto curso de Educación Primaria los centros evalúen las competencias adquiridas por su alumnado. Esta evaluación, responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para los alumnos y las alumnas, para sus madres, padres, tutoras y tutores legales y para el conjunto de la comunidad educativa.
 
-Como desarrollo de lo anteriormente expuesto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, y recogiendo al mismo tiempo el mandato del artículo 6.3 de la ley, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas, este real decreto establece los objetivos, los fines y los principios generales y pedagógicos del conjunto de la etapa. La concreción en términos competenciales de estos fines y principios se recoge en el Perfil de salida del alumnado al término de la enseñanza básica, que identifica las competencias clave que necesariamente deberán haberse adquirido y desarrollado al finalizar la enseñanza obligatoria, así como los descriptores operativos que orientan sobre el nivel de desempeño esperado al completar la Educación Primaria. Por otro lado, para cada una de las áreas se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada ciclo.
+Como desarrollo de lo anteriormente expuesto, en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en el artículo 6 bis de la ley, y recogiendo al mismo tiempo el mandato del artículo 6.3 de la ley, que encomienda al Gobierno, previa consulta a las comunidades autónomas, la determinación de los aspectos básicos del currículo, que constituyen las enseñanzas mínimas, este real decreto establece los objetivos, los fines y los principios generales y pedagógicos del conjunto de la etapa. La concreción en términos competenciales de estos fines y principios se recoge en el Perfil de salida del alumnado al término de la enseñanza básica, que identifica las competencias clave que necesariamente deberán haberse adquirido y desarrollado al finalizar la enseñanza obligatoria, así como los descriptores operativos que orientan sobre el nivel de desempeño esperado al completar la Educación Primaria. Por otro lado, para cada una de las áreas se fijan las competencias específicas previstas para la etapa, así como los criterios de evaluación y los contenidos enunciados en forma de saberes básicos para cada ciclo.
 
 Con el fin de facilitar al profesorado su propia práctica, se propone una definición de situación de aprendizaje y se enuncian orientaciones para su diseño.
 
-Además, se establece para las diferentes áreas el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la ley orgánica.
+Además, se establece para las diferentes áreas el horario escolar que corresponde a las enseñanzas mínimas, de acuerdo con la proporción establecida en el artículo 6.4 de la ley orgánica.
 
 Finalmente, se recogen en esta norma otras disposiciones referidas a aspectos esenciales de la ordenación de la etapa, como la tutoría, la orientación, la evaluación o los criterios para la promoción de ciclo y etapa.
 
-El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
+El presente real decreto se adecúa a los principios de buena regulación previstos en el artículo 129 de la [Ley 39/2015](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En lo que se refiere a los principios de necesidad y eficacia, se trata de una norma necesaria para la regulación de las enseñanzas de Educación Primaria conforme a la nueva redacción de la Ley Orgánica 2/2006, de 3 de mayo, tras las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre. De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible de la estructura de estas enseñanzas, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. Conforme a los principios de seguridad jurídica y eficiencia, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos. Cumple también con el principio de transparencia, ya que identifica claramente su propósito y durante el procedimiento de elaboración de la norma se ha permitido la participación activa de los potenciales destinatarios a través del trámite de audiencia e información pública.
 
 En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas en el seno de la Conferencia Sectorial de Educación y ha emitido informe el Consejo Escolar del Estado y el Ministerio de Política Territorial.
 
-El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+El presente real decreto tiene carácter de norma básica y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-De acuerdo con la jurisprudencia constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por el dicho tribunal, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
+De acuerdo con la jurisprudencia constitucional, procede en este caso establecer la extensión del carácter básico a una norma reglamentaria, ya que, conforme a la excepcionalidad admitida por el dicho tribunal, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988, «resulta complemento indispensable en determinados supuestos para asegurar el mínimo común denominador establecido en las normas legales básicas».
 
-En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de marzo de 2022,
+En su virtud, a propuesta de la Ministra de Educación y Formación Profesional, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 1 de marzo de 2022,
 
 **DISPONGO:**
 
-#### Artículo 1. Objeto.
+#### Artículo 1. Objeto.
 
 El presente real decreto tiene por objeto establecer la ordenación y las enseñanzas mínimas de la etapa de Educación Primaria.
 
-#### Artículo 2. Definiciones.
+#### Artículo 2. Definiciones A efectos de este real decreto, se entenderá por:.
 
-A efectos de este real decreto, se entenderá por:
+a) **Objetivos.** Logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 
-a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
+b) **Competencias clave.** Desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Las competencias clave aparecen recogidas en el Perfil de salida del alumnado al término de la enseñanza básica y son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente.
 
-b) Competencias clave: desempeños que se consideran imprescindibles para que el alumnado pueda progresar con garantías de éxito en su itinerario formativo, y afrontar los principales retos y desafíos globales y locales. Las competencias clave aparecen recogidas en el Perfil de salida del alumnado al término de la enseñanza básica y son la adaptación al sistema educativo español de las competencias clave establecidas en la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente.
+c) **Competencias específicas.** Desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área o ámbito. Las competencias específicas constituyen un elemento de conexión entre, por una parte, el Perfil de salida del alumnado, y, por otra, los saberes básicos de las áreas o ámbitos y los criterios de evaluación.
 
-c) Competencias específicas: desempeños que el alumnado debe poder desplegar en actividades o en situaciones cuyo abordaje requiere de los saberes básicos de cada área o ámbito. Las competencias específicas constituyen un elemento de conexión entre, por una parte, el Perfil de salida del alumnado, y, por otra, los saberes básicos de las áreas o ámbitos y los criterios de evaluación.
+d) **Criterios de evaluación.** Referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
 
-d) Criterios de evaluación: referentes que indican los niveles de desempeño esperados en el alumnado en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado de su proceso de aprendizaje.
+e) **Saberes básicos.** Conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área o ámbito y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
 
-e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área o ámbito y cuyo aprendizaje es necesario para la adquisición de las competencias específicas.
+f) **Situaciones de aprendizaje.** Situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
 
-f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y competencias específicas y que contribuyen a la adquisición y desarrollo de las mismas.
-
-#### Artículo 3. La etapa de Educación Primaria en el marco del sistema educativo.
+#### Artículo 3. La etapa de Educación Primaria en el marco del sistema educativo.
 
 1. La Educación Primaria es una etapa educativa que constituye, junto con la Educación Secundaria Obligatoria y los Ciclos Formativos de Grado Básico, la Educación Básica.
 
 2. La Educación Primaria comprende tres ciclos de dos años académicos cada uno y se organiza en áreas que tendrán un carácter global e integrador, estarán orientadas al desarrollo de las competencias del alumnado y podrán organizarse en ámbitos.
 
-#### Artículo 4. Fines.
+#### Artículo 4. Fines.
 
 La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los aprendizajes de la expresión y comprensión oral, la lectura, la escritura, el cálculo, las habilidades lógicas y matemáticas, la adquisición de nociones básicas de la cultura, y el hábito de convivencia así como los de estudio y trabajo, el sentido artístico, la creatividad y la afectividad, con el fin de garantizar una formación integral que contribuya al pleno desarrollo de su personalidad, y de prepararlos para cursar con aprovechamiento la Educación Secundaria Obligatoria.
 
-#### Artículo 5. Principios generales.
+#### Artículo 5. Principios generales.
 
 1. La Educación Primaria es una etapa que comprende seis cursos académicos y tiene carácter obligatorio y gratuito.
 
@@ -149,7 +142,7 @@ La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los 
 
 4. Las medidas organizativas, metodológicas y curriculares que se adopten a tal fin se regirán por los principios del Diseño Universal para el Aprendizaje.
 
-#### Artículo 6. Principios pedagógicos.
+#### Artículo 6. Principios pedagógicos.
 
 1. En esta etapa se pondrá especial énfasis en garantizar la inclusión educativa, la atención personalizada al alumnado y a sus necesidades de aprendizaje, la participación y la convivencia, la prevención de dificultades de aprendizaje y la puesta en práctica de mecanismos de refuerzo y flexibilización, alternativas metodológicas u otras medidas adecuadas tan pronto como se detecten cualquiera de estas situaciones.
 
@@ -171,53 +164,53 @@ La finalidad de la Educación Primaria es facilitar a los alumnos y alumnas los 
 
 10. Las lenguas oficiales se utilizarán solo como apoyo en el proceso de aprendizaje de la lengua extranjera. En dicho proceso, se priorizará la comprensión, la expresión y la interacción oral.
 
-#### Artículo 7. Objetivos.
+#### Artículo 7. Objetivos.
 
 La Educación Primaria contribuirá a desarrollar en los niños y las niñas las capacidades que les permitan:
 
-a) Conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática, prepararse para el ejercicio activo de la ciudadanía y respetar los derechos humanos, así como el pluralismo propio de una sociedad democrática.
+a) Conocer y apreciar los valores y las normas de convivencia, aprender a obrar de acuerdo con ellas de forma empática, prepararse para el ejercicio activo de la ciudadanía y respetar los derechos humanos, así como el pluralismo propio de una sociedad democrática.
 
-b) Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en el estudio, así como actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor.
+b) Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de responsabilidad en el estudio, así como actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés y creatividad en el aprendizaje, y espíritu emprendedor.
 
-c) Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desenvolverse con autonomía en el ámbito escolar y familiar, así como en los grupos sociales con los que se relacionan.
+c) Adquirir habilidades para la resolución pacífica de conflictos y la prevención de la violencia, que les permitan desenvolverse con autonomía en el ámbito escolar y familiar, así como en los grupos sociales con los que se relacionan.
 
-d) Conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades de hombres y mujeres y la no discriminación de personas por motivos de etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones.
+d) Conocer, comprender y respetar las diferentes culturas y las diferencias entre las personas, la igualdad de derechos y oportunidades de hombres y mujeres y la no discriminación de personas por motivos de etnia, orientación o identidad sexual, religión o creencias, discapacidad u otras condiciones.
 
-e) Conocer y utilizar de manera apropiada la lengua castellana y, si la hubiere, la lengua cooficial de la comunidad autónoma y desarrollar hábitos de lectura.
+e) Conocer y utilizar de manera apropiada la lengua castellana y, si la hubiere, la lengua cooficial de la comunidad autónoma y desarrollar hábitos de lectura.
 
-f) Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.
+f) Adquirir en, al menos, una lengua extranjera la competencia comunicativa básica que les permita expresar y comprender mensajes sencillos y desenvolverse en situaciones cotidianas.
 
-g) Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las situaciones de su vida cotidiana.
+g) Desarrollar las competencias matemáticas básicas e iniciarse en la resolución de problemas que requieran la realización de operaciones elementales de cálculo, conocimientos geométricos y estimaciones, así como ser capaces de aplicarlos a las situaciones de su vida cotidiana.
 
-h) Conocer los aspectos fundamentales de las Ciencias de la Naturaleza, las Ciencias Sociales, la Geografía, la Historia y la Cultura.
+h) Conocer los aspectos fundamentales de las Ciencias de la Naturaleza, las Ciencias Sociales, la Geografía, la Historia y la Cultura.
 
-i) Desarrollar las competencias tecnológicas básicas e iniciarse en su utilización, para el aprendizaje, desarrollando un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran.
+i) Desarrollar las competencias tecnológicas básicas e iniciarse en su utilización, para el aprendizaje, desarrollando un espíritu crítico ante su funcionamiento y los mensajes que reciben y elaboran.
 
-j) Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.
+j) Utilizar diferentes representaciones y expresiones artísticas e iniciarse en la construcción de propuestas visuales y audiovisuales.
 
-k) Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las diferencias y utilizar la educación física, el deporte y la alimentación como medios para favorecer el desarrollo personal y social.
+k) Valorar la higiene y la salud, aceptar el propio cuerpo y el de los otros, respetar las diferencias y utilizar la educación física, el deporte y la alimentación como medios para favorecer el desarrollo personal y social.
 
-l) Conocer y valorar los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado.
+l) Conocer y valorar los animales más próximos al ser humano y adoptar modos de comportamiento que favorezcan la empatía y su cuidado.
 
-m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con las demás personas, así como una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
+m) Desarrollar sus capacidades afectivas en todos los ámbitos de la personalidad y en sus relaciones con las demás personas, así como una actitud contraria a la violencia, a los prejuicios de cualquier tipo y a los estereotipos sexistas.
 
-n) Desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomentando la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
+n) Desarrollar hábitos cotidianos de movilidad activa autónoma saludable, fomentando la educación vial y actitudes de respeto que incidan en la prevención de los accidentes de tráfico.
 
-#### Artículo 8. Áreas.
+#### Artículo 8. Áreas.
 
 1. Las áreas de la Educación Primaria que se imparten en todos los cursos son las siguientes:
 
-a) Conocimiento del Medio Natural, Social y Cultural, que se podrá desdoblar en Ciencias de la Naturaleza y Ciencias Sociales.
+a) Conocimiento del Medio Natural, Social y Cultural, que se podrá desdoblar en Ciencias de la Naturaleza y Ciencias Sociales.
 
-b) Educación Artística, que se podrá desdoblar en Educación Plástica y Visual, por una parte, y Música y Danza, por otra.
+b) Educación Artística, que se podrá desdoblar en Educación Plástica y Visual, por una parte, y Música y Danza, por otra.
 
-c) Educación Física.
+c) Educación Física.
 
-d) Lengua Castellana y Literatura y, si la hubiere, Lengua Cooficial y Literatura.
+d) Lengua Castellana y Literatura y, si la hubiere, Lengua Cooficial y Literatura.
 
-e) Lengua Extranjera.
+e) Lengua Extranjera.
 
-f) Matemáticas.
+f) Matemáticas.
 
 2. A las áreas incluidas en el apartado anterior se añadirá en alguno de los cursos del tercer ciclo la Educación en Valores Cívicos y Éticos.
 
@@ -231,25 +224,25 @@ f) Matemáticas.
 
 7. La organización en áreas se entenderá sin perjuicio del carácter global de la etapa, dada la necesidad de integrar las distintas experiencias y aprendizajes del alumnado en estas edades.
 
-#### Artículo 9. Competencias clave y Perfil de salida del alumnado al término de la enseñanza básica.
+#### Artículo 9. Competencias clave y Perfil de salida del alumnado al término de la enseñanza básica.
 
 1. A efectos de este real decreto, las competencias clave del currículo son las siguientes:
 
-a) Competencia en comunicación lingüística.
+a) Competencia en comunicación lingüística.
 
-b) Competencia plurilingüe.
+b) Competencia plurilingüe.
 
-c) Competencia matemática y competencia en ciencia, tecnología e ingeniería.
+c) Competencia matemática y competencia en ciencia, tecnología e ingeniería.
 
-d) Competencia digital.
+d) Competencia digital.
 
-e) Competencia personal, social y de aprender a aprender.
+e) Competencia personal, social y de aprender a aprender.
 
-f) Competencia ciudadana.
+f) Competencia ciudadana.
 
-g) Competencia emprendedora.
+g) Competencia emprendedora.
 
-h) Competencia en conciencia y expresión culturales.
+h) Competencia en conciencia y expresión culturales.
 
 2. El Perfil de salida del alumnado al término de la enseñanza básica (en adelante Perfil de salida) constituye la concreción de los principios y fines del sistema educativo referidos a la educación básica que fundamenta el resto de decisiones curriculares. El Perfil de salida identifica y define, en conexión con los retos del siglo XXI, las competencias clave que el alumnado debe haber desarrollado al finalizar la educación básica, e introduce orientaciones sobre el nivel de desempeño esperado al término de la Educación Primaria.
 
@@ -257,25 +250,25 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Las enseñanzas mínimas que establece este real decreto tienen por objeto garantizar el desarrollo de las competencias clave previsto en el Perfil de salida. Los currículos establecidos por las administraciones educativas y la concreción de los mismos que los centros realicen en sus proyectos educativos tendrán, asimismo, como referente dicho Perfil de salida.
 
-#### Artículo 10. Competencias específicas, criterios de evaluación y saberes básicos.
+#### Artículo 10. Competencias específicas, criterios de evaluación y saberes básicos.
 
 1. En el anexo II de este real decreto se fijan las competencias específicas de cada área, que serán comunes para todos los ciclos de la etapa, así como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos, que se establecen para cada ciclo en cada una de las áreas.
 
 2. Para la adquisición y desarrollo, tanto de las competencias clave como de las competencias específicas, el equipo docente planificará situaciones de aprendizaje en los términos que dispongan las administraciones educativas. Con el fin de facilitar al profesorado su propia práctica se enuncian en el anexo III orientaciones para su diseño.
 
-#### Artículo 11. Currículo.
+#### Artículo 11. Currículo.
 
 1. El conjunto de objetivos, competencias, contenidos enunciados en forma de saberes básicos, métodos pedagógicos y criterios de evaluación de la Educación Primaria constituye el currículo de esta etapa.
 
-2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas de la Educación Primaria a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. El presente real decreto fija los aspectos básicos del currículo que constituyen las enseñanzas mínimas de la Educación Primaria a los que se refiere el artículo 6.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
-3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo de la Educación Primaria, del que formarán parte las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para aquellas comunidades autónomas que no tengan lengua cooficial, y el 50 por ciento para las que la tengan.
+3. Las administraciones educativas establecerán, conforme a lo dispuesto en este real decreto, el currículo de la Educación Primaria, del que formarán parte las enseñanzas mínimas fijadas en el mismo, que requerirán el 60 por ciento de los horarios escolares para aquellas comunidades autónomas que no tengan lengua cooficial, y el 50 por ciento para las que la tengan.
 
 4. Los centros docentes, en el uso de su autonomía, desarrollarán y completarán, en su caso, el currículo de la Educación Primaria establecido por las administraciones educativas, concreción que formará parte del proyecto educativo.
 
 5. En caso de que se establezcan ámbitos, el currículo de los mismos incluirá las competencias específicas, los criterios de evaluación y los saberes básicos de las áreas que los conforman.
 
-#### Artículo 12. Horario.
+#### Artículo 12. Horario.
 
 1. En el anexo IV se establece, para cada uno de los ciclos de la etapa y para las diferentes áreas de la Educación Primaria, el horario escolar que corresponde a las enseñanzas mínimas.
 
@@ -285,15 +278,15 @@ h) Competencia en conciencia y expresión culturales.
 
 4. Las administraciones educativas determinarán el porcentaje de los horarios escolares de que dispondrán los centros para garantizar el desarrollo integrado de todas las competencias de la etapa y la incorporación de los contenidos de carácter transversal a todas las áreas y ámbitos.
 
-#### Artículo 13. Tutoría y orientación.
+#### Artículo 13. Tutoría y orientación.
 
 1. En la Educación Primaria, la orientación y la acción tutorial acompañarán el proceso educativo individual y colectivo del alumnado. Asimismo, se fomentará en la etapa el respeto mutuo y la cooperación entre iguales, con especial atención a la igualdad de género.
 
-2. Desde la tutoría se coordinará la intervención educativa del conjunto del profesorado y se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
+2. Desde la tutoría se coordinará la intervención educativa del conjunto del profesorado y se mantendrá una relación permanente con las madres, los padres, las tutoras o los tutores legales, a fin de facilitar el ejercicio de los derechos reconocidos en el artículo 4.1.d) y g) de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación.
 
 3. A lo largo del tercer ciclo, desde la tutoría se coordinará la incorporación de elementos de orientación educativa, académica y profesional que incluyan, al menos, el progresivo descubrimiento de estudios y profesiones, así como la generación de intereses vocacionales libres de estereotipos sexistas.
 
-#### Artículo 14. Evaluación.
+#### Artículo 14. Evaluación.
 
 1. La evaluación del alumnado será global, continua y formativa, y tendrá en cuenta el grado de desarrollo de las competencias clave y su progreso en el conjunto de los procesos de aprendizaje.
 
@@ -307,7 +300,7 @@ h) Competencia en conciencia y expresión culturales.
 
 6. Igualmente, se promoverá el uso generalizado de instrumentos de evaluación variados, diversos, accesibles y adaptados a las distintas situaciones de aprendizaje que permitan la valoración objetiva de todo el alumnado.
 
-#### Artículo 15. Promoción.
+#### Artículo 15. Promoción.
 
 1. Al final de cada ciclo, el equipo docente adoptará las decisiones relativas a la promoción del alumnado de manera colegiada, tomando especialmente en consideración la información y el criterio del tutor o la tutora.
 
@@ -319,7 +312,7 @@ h) Competencia en conciencia y expresión culturales.
 
 5. Con el fin de garantizar la continuidad del proceso de formación del alumnado, cada alumno o alumna dispondrá al finalizar la etapa de un informe sobre su evolución y el grado de desarrollo de las competencias clave, según lo dispuesto por las administraciones educativas.
 
-#### Artículo 16. Atención a las diferencias individuales.
+#### Artículo 16. Atención a las diferencias individuales.
 
 1. Con objeto de reforzar la inclusión y asegurar el derecho a una educación de calidad, en esta etapa se pondrá especial énfasis en la atención individualizada a los alumnos y alumnas, en la detección precoz de sus necesidades específicas y en el establecimiento de mecanismos de apoyo y refuerzo para evitar la permanencia en un mismo curso, particularmente en entornos socialmente desfavorecidos.
 
@@ -335,7 +328,7 @@ h) Competencia en conciencia y expresión culturales.
 
 Igualmente, se establecerán las medidas más adecuadas para que las condiciones de realización de los procesos asociados a la evaluación se adapten a las necesidades de este alumnado.
 
-#### Artículo 17. Alumnado con necesidades educativas especiales.
+#### Artículo 17. Alumnado con necesidades educativas especiales.
 
 1. La escolarización del alumnado que presenta necesidades educativas especiales se regirá por los principios de normalización e inclusión y asegurará su no discriminación y la igualdad efectiva en el acceso y la permanencia en el sistema educativo, pudiendo introducirse medidas de flexibilización de las distintas etapas educativas, cuando se considere necesario.
 
@@ -345,7 +338,7 @@ Igualmente, se establecerán las medidas más adecuadas para que las condiciones
 
 4. La identificación y la valoración de las necesidades educativas de este alumnado se realizarán lo más tempranamente posible por profesionales especialistas y en los términos que determinen las administraciones educativas. En este proceso serán preceptivamente oídos e informados los padres, madres, tutores o tutoras legales del alumnado. Las administraciones educativas regularán los procedimientos que permitan resolver las discrepancias que puedan surgir, siempre teniendo en cuenta el interés superior del menor y la voluntad de las familias que muestren su preferencia por el régimen más inclusivo.
 
-#### Artículo 18. Alumnado con dificultades específicas de aprendizaje.
+#### Artículo 18. Alumnado con dificultades específicas de aprendizaje.
 
 1. Corresponde a las administraciones educativas adoptar las medidas necesarias para identificar al alumnado con dificultades específicas de aprendizaje y valorar de forma temprana sus necesidades.
 
@@ -353,19 +346,19 @@ Igualmente, se establecerán las medidas más adecuadas para que las condiciones
 
 3. La identificación, valoración e intervención de las necesidades educativas de este alumnado se realizará de la forma más temprana posible, en los términos que determinen las administraciones educativas.
 
-#### Artículo 19. Alumnado con integración tardía en el sistema educativo español.
+#### Artículo 19. Alumnado con integración tardía en el sistema educativo español.
 
 1. La escolarización del alumnado que se incorpora tardíamente al sistema educativo español se realizará atendiendo a sus circunstancias, conocimientos, edad e historial académico. Cuando presente graves carencias en la lengua o lenguas de escolarización, recibirá una atención específica que será, en todo caso, simultánea a su escolarización en los grupos ordinarios, con los que compartirá el mayor tiempo posible del horario semanal.
 
 2. Quienes presenten un desfase en su nivel de competencia curricular de un ciclo o más podrán ser escolarizados en el curso inferior al que les correspondería por edad. Para este alumnado se adoptarán las medidas de refuerzo necesarias que faciliten su integración escolar y la recuperación de su desfase y le permitan continuar con aprovechamiento su aprendizaje. En el caso de superar dicho desfase, se incorporarán al grupo correspondiente a su edad.
 
-#### Artículo 20. Alumnado con altas capacidades intelectuales.
+#### Artículo 20. Alumnado con altas capacidades intelectuales.
 
 En los términos que determinen las administraciones educativas, se podrá flexibilizar la escolarización del alumnado con altas capacidades intelectuales, de forma que pueda reducirse un curso la duración de la etapa, cuando se prevea que esta es la medida más adecuada para el desarrollo de su equilibrio personal y su socialización.
 
-#### Artículo 21. Autonomía de los centros.
+#### Artículo 21. Autonomía de los centros.
 
-1. Las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan.
+1. Las administraciones educativas facilitarán a los centros el ejercicio de su autonomía pedagógica, de organización y de gestión, en los términos recogidos en la Ley Orgánica 2/2006, de 3 de mayo, y en las normas que la desarrollan.
 
 2. Corresponde a las administraciones educativas contribuir al desarrollo del currículo favoreciendo la elaboración de modelos abiertos de programación docente y de materiales didácticos que atiendan a las distintas necesidades de los alumnos y alumnas y del profesorado, bajo los principios del Diseño Universal para el Aprendizaje.
 
@@ -379,29 +372,29 @@ En los términos que determinen las administraciones educativas, se podrá flexi
 
 7. Para garantizar la continuidad del proceso de formación y una transición y evolución positivas desde la Educación Infantil a la Educación Primaria y desde esta a la Educación Secundaria Obligatoria, las administraciones educativas y los centros establecerán mecanismos para favorecer la coordinación entre las diferentes etapas.
 
-#### Artículo 22. Evaluación de diagnóstico.
+#### Artículo 22. Evaluación de diagnóstico.
 
-En el cuarto curso de Educación Primaria, todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido de acuerdo con el artículo 144.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+En el cuarto curso de Educación Primaria, todos los centros realizarán una evaluación de diagnóstico de las competencias adquiridas por su alumnado. Esta evaluación, que será responsabilidad de las administraciones educativas, tendrá carácter informativo, formativo y orientador para los centros, para el profesorado, para el alumnado y sus familias o tutores legales y para el conjunto de la comunidad educativa. Esta evaluación, de carácter censal, tendrá como marco de referencia el establecido de acuerdo con el artículo 144.1 de la Ley Orgánica 2/2006, de 3 de mayo.
 
-#### Artículo 23. Derecho del alumnado a una evaluación objetiva.
+#### Artículo 23. Derecho del alumnado a una evaluación objetiva.
 
 Las administraciones educativas garantizarán el derecho del alumnado a que su dedicación, esfuerzo y rendimiento sean valorados y reconocidos con objetividad, para lo que establecerán los oportunos procedimientos, que, en todo caso, atenderán a las características de la evaluación dispuestas en la legislación vigente y, en particular, al carácter global, continuo y formativo de la evaluación en esta etapa.
 
-#### Artículo 24. Participación y derecho a la información de madres, padres, tutoras o tutores legales.
+#### Artículo 24. Participación y derecho a la información de madres, padres, tutoras o tutores legales.
 
-Las madres, los padres, las tutoras o los tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a los documentos oficiales de su evaluación y a las pruebas y documentos de las evaluaciones que se les realicen, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
+Las madres, los padres, las tutoras o los tutores legales deberán participar y apoyar la evolución del proceso educativo de sus hijos, hijas, tutelados o tuteladas, colaborando en las medidas de apoyo o refuerzo que adopten los centros para facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su evaluación y promoción, así como al acceso a los documentos oficiales de su evaluación y a las pruebas y documentos de las evaluaciones que se les realicen, en la parte referida al alumno o alumna de que se trate, sin perjuicio del respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa aplicable en materia de protección de datos de carácter personal.
 
-#### Artículo 25. Documentos e informes de evaluación.
+#### Artículo 25. Documentos e informes de evaluación.
 
 1. En la Educación Primaria, los documentos oficiales de evaluación son las actas de evaluación, el expediente académico, el historial académico, el informe de final de etapa y, en su caso, el informe personal por traslado.
 
 2. El historial académico y, en su caso, el informe personal por traslado se consideran documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
 
-3. Las administraciones educativas establecerán las características de los informes finales de ciclo y etapa a los que se refieren los apartados 4 y 5 del artículo 15.
+3. Las administraciones educativas establecerán las características de los informes finales de ciclo y etapa a los que se refieren los apartados 4 y 5 del artículo 15.
 
-4. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+4. Los documentos oficiales de evaluación deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente. Cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 15.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 
-#### Artículo 26. Actas de evaluación.
+#### Artículo 26. Actas de evaluación.
 
 1. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán al término del período lectivo ordinario. Comprenderán, al menos, la relación nominal del alumnado que compone el grupo, junto con los resultados de la evaluación de las áreas o ámbitos y las decisiones sobre promoción y permanencia.
 
@@ -411,7 +404,7 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 4. Las actas de evaluación serán firmadas por el tutor o la tutora del grupo y llevarán el visto bueno de la persona titular de la dirección del centro.
 
-#### Artículo 27. Expediente académico.
+#### Artículo 27. Expediente académico.
 
 1. El expediente académico recogerá, junto con los datos de identificación del centro, los del alumno o alumna, así como la información relativa a su proceso de evaluación. Se abrirá en el momento de incorporación al centro y recogerá, al menos, los resultados de la evaluación de las áreas o ámbitos, las decisiones de promoción de etapa, las medidas de apoyo educativo y las adaptaciones curriculares que se hayan adoptado para el alumno o alumna.
 
@@ -419,7 +412,7 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 3. La custodia y el archivo de los expedientes académicos corresponden a los centros docentes en que se hayan realizado los estudios de las enseñanzas correspondientes y serán supervisados por la Inspección educativa.
 
-#### Artículo 28. Historial académico.
+#### Artículo 28. Historial académico.
 
 1. El historial académico llevará el visto bueno del director o directora y tendrá valor acreditativo de los estudios realizados. Como mínimo recogerá los datos identificativos del alumno o alumna, las áreas cursadas en cada uno de los años de escolarización, las medidas curriculares y organizativas aplicadas, los resultados de la evaluación, las decisiones sobre promoción y permanencia, la información relativa a los cambios de centro y las fechas en que se han producido los diferentes hitos. Deberá figurar, asimismo, la indicación de las áreas que se han cursado con adaptaciones curriculares significativas.
 
@@ -427,27 +420,29 @@ Las madres, los padres, las tutoras o los tutores legales deberán participar y 
 
 3. Tras finalizar la etapa, el historial académico de Educación Primaria se entregará a los padres, madres, tutores o tutoras del alumno o alumna. Igualmente, se enviará una copia del historial académico y del informe de final de etapa al centro de educación secundaria en el que vaya a proseguir sus estudios el alumno o alumna, previa petición de dicho centro.
 
-#### Artículo 29. Informe personal por traslado.
+#### Artículo 29. Informe personal por traslado.
 
 1. En caso de traslado antes de finalizar la etapa, el centro de origen deberá remitir al de destino, y a petición de este, el informe personal por traslado, junto a una copia del historial académico. El centro receptor abrirá el correspondiente expediente académico. La matriculación adquirirá carácter definitivo una vez recibida la copia del historial académico.
 
 2. El informe personal por traslado contendrá los resultados de las evaluaciones que se hubieran realizado, la aplicación, en su caso, de medidas curriculares y organizativas, y todas aquellas observaciones que se consideren oportunas acerca del progreso general del alumno o de la alumna.
 
-#### Artículo 30. Autenticidad, seguridad y confidencialidad.
+#### Artículo 30. Autenticidad, seguridad y confidencialidad.
 
 1. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos y su supervisión y custodia, así como su conservación y traslado en caso de supresión o extinción del centro.
 
-2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
+2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y, en todo caso, a lo establecido en la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo.
 
-3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que queden garantizadas su autenticidad, integridad y, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, por la Ley 39/2015, de 1 de octubre, y por la normativa que las desarrolla.
+3. Los documentos oficiales de evaluación y sus procedimientos de validación descritos en los apartados anteriores podrán ser sustituidos por sus equivalentes realizados por medios electrónicos, informáticos o telemáticos, siempre que queden garantizadas su autenticidad, integridad y, conservación, y se cumplan las garantías y los requisitos establecidos por la Ley Orgánica 3/2018, de 5 de diciembre, por la Ley 39/2015, de 1 de octubre, y por la normativa que las desarrolla.
 
-4. El expediente electrónico del alumno estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
+4. El expediente electrónico del alumno estará constituido, al menos, por los datos contenidos en los documentos oficiales de evaluación, y cumplirá con lo establecido en el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
 
-5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y el formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumno descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111 bis y en el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
+5. El Ministerio de Educación y Formación Profesional, previa consulta a las comunidades autónomas, en el marco de la Conferencia Sectorial de Educación, establecerá la estructura y el formato de, al menos, los datos contenidos en los documentos oficiales de evaluación del expediente electrónico del alumno descritos en la presente disposición, de acuerdo con lo previsto en el artículo 111 bis y en.
 
-#### Disposición adicional primera. Enseñanzas de religión.
+el apartado 4 de la disposición adicional vigesimotercera de la Ley Orgánica 2/2006, de 3 de mayo, que junto con otros garanticen la interoperabilidad entre los distintos sistemas de información utilizados en el sistema educativo español.
 
-1. Las enseñanzas de religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
+#### Disposición adicional primera. Enseñanzas de religión.
+
+1. Las enseñanzas de religión se incluirán en la Educación Primaria de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
 
 2. Las administraciones educativas garantizarán que, al inicio del curso, las madres, los padres, las tutoras o los tutores de los alumnos y las alumnas puedan manifestar su voluntad de que estos reciban o no enseñanzas de religión.
 
@@ -461,51 +456,51 @@ Las actividades a las que se refiere este apartado en ningún caso comportarán 
 
 6. Con el fin de garantizar el principio de igualdad y la libre concurrencia entre todo el alumnado, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas de religión no se computarán en las convocatorias en las que deban entrar en concurrencia los expedientes académicos.
 
-#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
+#### Disposición adicional segunda. Enseñanzas del sistema educativo español impartidas en lenguas extranjeras.
 
 1. Las administraciones educativas podrán autorizar que una parte de las áreas del currículo se impartan en lenguas extranjeras, sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa los alumnos y alumnas adquieran la terminología propia de las áreas en la lengua extranjera y en la lengua o lenguas oficiales de la comunidad autónoma.
 
-2. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
+2. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
 
-#### Disposición adicional tercera. Calendario.
+#### Disposición adicional tercera. Calendario.
 
-El calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
+El calendario escolar, que fijarán anualmente las administraciones educativas, comprenderá un mínimo de 175 días lectivos para las enseñanzas obligatorias.
 
-#### Disposición transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+#### Disposición transitoria primera. Aplicabilidad del [Real Decreto 126/2014](RD126_2014_establece_curriculo_basico_educacion_primaria.md), de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
-1. Las enseñanzas mínimas reguladas de acuerdo con el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, serán de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
+1. Las enseñanzas mínimas reguladas de acuerdo con el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria, serán de aplicación en los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
 
-2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real Decreto 126/2014, de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023.
+2. Los estándares de aprendizaje evaluables que figuran en los anexos al citado Real Decreto 126/2014, de 28 de febrero, tienen carácter meramente orientativo para los cursos de Educación Primaria a que se refiere el apartado 1 durante el año académico 2022-2023.
 
-#### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+#### Disposición transitoria segunda. Aplicabilidad del [Real Decreto 984/2021](RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md), de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
-El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
+El Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, se aplicará a los cursos segundo, cuarto y sexto de Educación Primaria, durante el año académico 2022-2023.
 
-#### Disposición derogatoria única. Derogación normativa.
+#### Disposición derogatoria única. Derogación normativa.
 
-1. Queda derogado el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
+1. Queda derogado el Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
-2. Asimismo, queda derogado el capítulo II del Real Decreto 984/2021, de 16 de noviembre por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
+2. Asimismo, queda derogado el capítulo II del Real Decreto 984/2021, de 16 de noviembre por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 3. Quedan derogadas las demás normas de igual o inferior rango en cuanto se opongan a lo establecido en este real decreto.
 
-#### Disposición final primera. Título competencial.
+#### Disposición final primera. Título competencial.
 
-El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+El presente real decreto tiene carácter básico y se dicta al amparo de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución Española, sobre la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
 El anexo III carece del carácter de normativa básica.
 
-#### Disposición final segunda. Aplicación.
+#### Disposición final segunda. Aplicación.
 
 Corresponde a la persona titular del Ministerio de Educación y Formación Profesional dictar, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la ejecución y aplicación de lo establecido en este real decreto, sin perjuicio de las competencias que corresponden a las comunidades autónomas.
 
-#### Disposición final tercera. Calendario de implantación.
+#### Disposición final tercera. Calendario de implantación.
 
-Lo dispuesto en este real decreto se implantará para los cursos primero, tercero y quinto en el curso escolar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso 2023-2024.
+Lo dispuesto en este real decreto se implantará para los cursos primero, tercero y quinto en el curso escolar 2022-2023, y para los cursos segundo, cuarto y sexto en el curso 2023-2024.
 
-#### Disposición final cuarta. Entrada en vigor.
+#### Disposición final cuarta. Entrada en vigor.
 
-Dado en Madrid, el 1 de marzo de 2022.
+Dado en Madrid, el 1 de marzo de 2022.
 
 FELIPE R.
 
@@ -513,7 +508,7 @@ La Ministra de Educación y Formación Profesional,
 
 MARÍA DEL PILAR ALEGRÍA CONTINENTE
 
-ANEXO I
+## Anexo I
 
 Perfil de salida del alumnado al término de la enseñanza básica
 
@@ -521,11 +516,11 @@ El Perfil de salida del alumnado al término de la enseñanza básica es la herr
 
 El Perfil de salida es único y el mismo para todo el territorio nacional. Es la piedra angular de todo el currículo, la matriz que cohesiona y hacia donde convergen los objetivos de las distintas etapas que constituyen la enseñanza básica. Se concibe, por tanto, como el elemento que debe fundamentar las decisiones curriculares, así como las estrategias y las orientaciones metodológicas en la práctica lectiva. Debe ser, además, el fundamento del aprendizaje permanente y el referente de la evaluación interna y externa de los aprendizajes del alumnado, en particular en lo relativo a la toma de decisiones sobre promoción entre los distintos cursos, así como a la obtención del título de Graduado en Educación Secundaria Obligatoria.
 
-El Perfil de salida parte de una visión a la vez estructural y funcional de las competencias clave, cuya adquisición por parte del alumnado se considera indispensable para su desarrollo personal, para resolver situaciones y problemas de los distintos ámbitos de su vida, para crear nuevas oportunidades de mejora, así como para lograr la continuidad de su itinerario formativo y facilitar y desarrollar su inserción y participación activa en la sociedad y en el cuidado de las personas, del entorno natural y del planeta. Se garantiza así la consecución del doble objetivo de formación personal y de socialización previsto para la enseñanza básica en el artículo 4.4 de la LOE, con el fin de dotar a cada alumno o alumna de las herramientas imprescindibles para que desarrolle un proyecto de vida personal, social y profesional satisfactorio. Dicho proyecto se constituye como el elemento articulador de los diversos aprendizajes que le permitirán afrontar con éxito los desafíos y los retos a los que habrá de enfrentarse para llevarlo a cabo.
+El Perfil de salida parte de una visión a la vez estructural y funcional de las competencias clave, cuya adquisición por parte del alumnado se considera indispensable para su desarrollo personal, para resolver situaciones y problemas de los distintos ámbitos de su vida, para crear nuevas oportunidades de mejora, así como para lograr la continuidad de su itinerario formativo y facilitar y desarrollar su inserción y participación activa en la sociedad y en el cuidado de las personas, del entorno natural y del planeta. Se garantiza así la consecución del doble objetivo de formación personal y de socialización previsto para la enseñanza básica en el artículo 4.4 de la LOE, con el fin de dotar a cada alumno o alumna de las herramientas imprescindibles para que desarrolle un proyecto de vida personal, social y profesional satisfactorio. Dicho proyecto se constituye como el elemento articulador de los diversos aprendizajes que le permitirán afrontar con éxito los desafíos y los retos a los que habrá de enfrentarse para llevarlo a cabo.
 
-El referente de partida para definir las competencias recogidas en el Perfil de salida ha sido la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. El anclaje del Perfil de salida a la Recomendación del Consejo refuerza el compromiso del sistema educativo español con el objetivo de adoptar unas referencias comunes que fortalezcan la cohesión entre los sistemas educativos de la Unión Europea y faciliten que sus ciudadanos y ciudadanas, si así lo consideran, puedan estudiar y trabajar a lo largo de su vida tanto en su propio país como en otros países de su entorno.
+El referente de partida para definir las competencias recogidas en el Perfil de salida ha sido la Recomendación del Consejo de la Unión Europea, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente. El anclaje del Perfil de salida a la Recomendación del Consejo refuerza el compromiso del sistema educativo español con el objetivo de adoptar unas referencias comunes que fortalezcan la cohesión entre los sistemas educativos de la Unión Europea y faciliten que sus ciudadanos y ciudadanas, si así lo consideran, puedan estudiar y trabajar a lo largo de su vida tanto en su propio país como en otros países de su entorno.
 
-En el Perfil, las competencias clave de la Recomendación europea se han vinculado con los principales retos y desafíos globales del siglo XXI a los que el alumnado va a verse confrontado y ante los que necesitará desplegar esas mismas competencias clave. Del mismo modo, se han incorporado también los retos recogidos en el documento Key Drivers of Curricula Change in the 21st Century de la Oficina Internacional de Educación de la UNESCO, así como los Objetivos de Desarrollo Sostenible de la Agenda 2030 adoptada por la Asamblea General de las Naciones Unidas en septiembre de 2015.
+En el Perfil, las competencias clave de la Recomendación europea se han vinculado con los principales retos y desafíos globales del siglo XXI a los que el alumnado va a verse confrontado y ante los que necesitará desplegar esas mismas competencias clave. Del mismo modo, se han incorporado también los retos recogidos en el documento Key Drivers of Curricula Change in the 21st Century de la Oficina Internacional de Educación de la UNESCO, así como los Objetivos de Desarrollo Sostenible de la Agenda 2030 adoptada por la Asamblea General de las Naciones Unidas en septiembre de 2015.
 
 La vinculación entre competencias clave y retos del siglo XXI es la que dará sentido a los aprendizajes, al acercar la escuela a situaciones, cuestiones y problemas reales de la vida cotidiana, lo que, a su vez, proporcionará el necesario punto de apoyo para favorecer situaciones de aprendizaje significativas y relevantes, tanto para el alumnado como para el personal docente. Se quiere garantizar que todo alumno o alumna que supere con éxito la enseñanza básica y, por tanto, alcance el Perfil de salida sepa activar los aprendizajes adquiridos para responder a los principales desafíos a los que deberá hacer frente a lo largo de su vida:
 
@@ -627,7 +622,7 @@ La competencia personal, social y de aprender a aprender implica la capacidad de
 
 Competencia ciudadana (CC)
 
-La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
+La competencia ciudadana contribuye a que alumnos y alumnas puedan ejercer una ciudadanía responsable y participar plenamente en la vida social y cívica, basándose en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización cívica, la adopción consciente de los valores propios de una cultura democrática fundada en el respeto a los derechos humanos, la reflexión crítica acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la Agenda 2030.
 
 **Descriptores operativos**
 
@@ -645,7 +640,7 @@ La competencia en conciencia y expresión culturales supone comprender y respeta
 
 CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales.
 
-ANEXO II
+## Anexo II
 
 Áreas de Educación Primaria
 
@@ -755,11 +750,11 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Utilizar dispositivos y recursos digitales de forma segura y de acuerdo con las necesidades del contexto educativo.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones.
 
@@ -771,7 +766,7 @@ Competencia específica 2.
 
 2.5 Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guion.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo diferentes prototipos y utilizando de forma segura los materiales adecuados.
 
@@ -779,13 +774,13 @@ Competencia específica 3.
 
 3.3 Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Identificar las emociones propias y las de los demás, entendiendo las relaciones familiares y escolares a las que pertenecen y reconociendo las acciones que favorezcan el bienestar emocional y social.
 
 4.2 Reconocer estilos de vida saludables valorando la importancia de una alimentación variada, equilibrada y sostenible, la higiene, el ejercicio físico, el contacto con la naturaleza, el descanso y el uso adecuado de las tecnologías.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de la indagación, utilizando las herramientas y procesos adecuados de forma pautada.
 
@@ -793,23 +788,23 @@ Competencia específica 5.
 
 5.3 Mostrar actitudes de respeto ante el patrimonio natural y cultural, reconociéndolo como un bien común.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Mostrar estilos de vida sostenible y valorar la importancia del respeto, los cuidados, la corresponsabilidad y la protección de los elementos y seres del planeta, identificando la relación de la vida de las personas con sus acciones sobre los elementos y recursos del medio como el suelo y el agua.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Ordenar temporalmente hechos del entorno social y cultural cercano, empleando nociones básicas de medida y sucesión.
 
 7.2 Conocer personas y grupos sociales relevantes de la historia, así como formas de vida del pasado, incorporando la perspectiva de género.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Recoger información acerca de manifestaciones culturales del propio entorno, mostrando respeto, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje.
 
 8.2 Mostrar actitudes que fomenten la igualdad de género y las conductas no sexistas reconociendo modelos positivos en el entorno cercano.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Establecer acuerdos de forma dialógica y democrática como parte de grupos próximos a su entorno, identificando las responsabilidades individuales y empleando un lenguaje inclusivo y no violento.
 
@@ -923,11 +918,11 @@ C. Sociedades y territorios.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Utilizar dispositivos y recursos digitales, de acuerdo con las necesidades del contexto educativo de forma segura, buscando información, comunicándose y trabajando de forma individual y en equipo, reelaborando y creando contenidos digitales sencillos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Formular preguntas y realizar predicciones razonadas, demostrando curiosidad por el medio natural, social y cultural cercano.
 
@@ -939,7 +934,7 @@ Competencia específica 2.
 
 2.5 Presentar los resultados de las investigaciones en diferentes formatos, utilizando lenguaje científico básico y explicando los pasos seguidos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Construir en equipo un producto final sencillo que dé solución a un problema de diseño, proponiendo posibles soluciones, probando diferentes prototipos y utilizando de forma segura las herramientas, técnicas y materiales adecuados.
 
@@ -947,35 +942,35 @@ Competencia específica 3.
 
 3.3 Resolver, de forma guiada, problemas sencillos de programación, modificando algoritmos de acuerdo con los principios básicos del pensamiento computacional.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Mostrar actitudes que fomenten el bienestar emocional y social, identificando las emociones propias y las de los demás, mostrando empatía y estableciendo relaciones afectivas saludables.
 
-Competencia específica 5.
+Competencia específica 5.
 
-5.1 Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de la indagación y utilizando las herramientas y procesos adecuados.
+5.1 Identificar las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de la indagación y utilizando las herramientas y procesos adecuados.
 
 5.2âIdentificar conexiones sencillas entre diferentes elementos del medio natural social y cultural mostrando comprensiÃ³n de las relaciones que se establecen.Â
 
 5.3 Proteger el patrimonio natural y cultural y valorarlo como un bien común, adoptando conductas respetuosas para su disfrute y proponiendo acciones para su conservación y mejora.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Identificar problemas ecosociales, proponer posibles soluciones y poner en práctica estilos de vida sostenible, reconociendo comportamientos respetuosos de cuidado, corresponsabilidad y protección del entorno y uso sostenible de los recursos naturales, y expresando los cambios positivos y negativos causados en el medio por la acción humana.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Identificar hechos del entorno social y cultural desde la Prehistoria hasta la Edad Antigua, empleando las nociones de causalidad, simultaneidad y sucesión.
 
 7.2 Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Prehistoria hasta la Edad Antigua, incorporando la perspectiva de género.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Analizar la importancia demográfica, cultural y económica de las migraciones en la actualidad, valorando con respeto y empatía el aporte de la diversidad cultural al bienestar individual y colectivo.
 
 8.2 Valorar positivamente las acciones que fomentan la igualdad de género y las conductas no sexistas reconociendo modelos positivos a lo largo de la historia.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Realizar actividades en el contexto de la comunidad escolar, asumiendo responsabilidades y estableciendo acuerdos de forma dialogada y democrática y empleando un lenguaje inclusivo y no violento.
 
@@ -1107,15 +1102,15 @@ C. Sociedades y territorios.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Utilizar recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura y eficiente, buscando información, comunicándose y trabajando de forma individual, en equipo y en red, reelaborando y creando contenidos digitales sencillos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Formular preguntas y realizar predicciones razonadas sobre el medio natural, social o cultural mostrando y manteniendo la curiosidad.
 
-2.2âBuscar, seleccionar y contrastar informaciÃ³n, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo lÃ©xico cientÃ­fico bÃ¡sico, y utilizÃ¡ndola en investigaciones relacionadas con el medio natural, social y cultural.Â
+2.2âBuscar, seleccionar y contrastar informaciÃ³n, de diferentes fuentes seguras y fiables, usando los criterios de fiabilidad de fuentes, adquiriendo lÃ©xico cientÃfico bÃ¡sico, y utilizÃ¡ndola en investigaciones relacionadas con el medio natural, social y cultural.Â
 
 2.3 Diseñar y realizar experimentos guiados, cuando la investigación lo requiera, utilizando diferentes técnicas de indagación y modelos, empleando de forma segura los instrumentos y dispositivos apropiados, realizando observaciones y mediciones precisas y registrándolas correctamente.
 
@@ -1123,7 +1118,7 @@ Competencia específica 2.
 
 2.5 Comunicar los resultados de las investigaciones adaptando el mensaje y el formato a la audiencia a la que va dirigido, utilizando el lenguaje científico y explicando los pasos seguidos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Plantear problemas de diseño que se resuelvan con la creación de un prototipo o solución digital, evaluando necesidades del entorno y estableciendo objetivos concretos.
 
@@ -1133,39 +1128,39 @@ Competencia específica 3.
 
 3.4 Comunicar el diseño de un producto final, adaptando el mensaje y el formato a la audiencia, explicando los pasos seguidos, justificando por qué ese prototipo o solución digital cumple con los requisitos del proyecto y proponiendo posibles retos para futuros proyectos.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Promover actitudes que fomenten el bienestar emocional y social, gestionando las emociones propias y respetando las de los demás, fomentando relaciones afectivas saludables y reflexionando ante los usos de la tecnología y la gestión del tiempo libre.
 
 4.2 Adoptar estilos de vida saludables valorando la importancia de una alimentación variada, equilibrada y sostenible, el ejercicio físico, el contacto con la naturaleza, el descanso, la higiene, la prevención de enfermedades y el uso adecuado de nuevas tecnologías.
 
-Competencia específica 5.
+Competencia específica 5.
 
-5.1âIdentificar y analizar las caracterÃ­sticas, la organizaciÃ³n y las propiedades de los elementos del medio natural, social y cultural a travÃ©s de la indagaciÃ³n utilizando las herramientas y procesos adecuados.Â
+5.1âIdentificar y analizar las caracterÃsticas, la organizaciÃ³n y las propiedades de los elementos del medio natural, social y cultural a travÃ©s de la indagaciÃ³n utilizando las herramientas y procesos adecuados.Â
 
 5.2 Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural mostrando comprensión de las relaciones que se establecen.
 
 5.3 Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejen compromisos y conductas en favor de la sostenibilidad.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Promover estilos de vida sostenible y consecuentes con el respeto, los cuidados, la corresponsabilidad y la protección de las personas y del planeta, a partir del análisis de la intervención humana en el entorno.
 
 6.2 Participar con actitud emprendedora en la búsqueda, contraste y evaluación de propuestas para afrontar problemas ecosociales, buscar soluciones y actuar para su resolución, a partir del análisis de las causas y consecuencias de la intervención humana en el entorno.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio social y cultural desde la Edad Media hasta la actualidad, situando cronológicamente los hechos.
 
 7.2 Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Edad Media hasta la actualidad, incorporando la perspectiva de género, situándolas cronológicamente e identificando rasgos significativos sociales en distintas épocas de la historia.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Analizar los procesos geográficos, históricos y culturales que han conformado la sociedad actual, valorando la diversidad etnocultural o afectivo-sexual y la cohesión social y mostrando empatía y respeto por otras culturas y la igualdad de género.
 
 8.2 Promover actitudes de igualdad de género y conductas no sexistas, analizando y contrastando diferentes modelos en nuestra sociedad.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Resolver de forma pacífica y dialogada los conflictos, promoviendo una interacción respetuosa y equitativa a partir del lenguaje inclusivo y no violento, explicando y ejercitando las principales normas, derechos, deberes y libertades que forman parte de la Constitución española, y de la de Unión Europea, y conociendo la función que el Estado y sus instituciones desempeñan en el mantenimiento de la paz, la seguridad integral ciudadana y el reconocimiento de las víctimas de violencia.
 
@@ -1237,7 +1232,7 @@ B. Tecnología y digitalización.
 
 – Fases del pensamiento computacional (descomposición de una tarea en partes más sencillas, reconocimiento de patrones y creación de algoritmos sencillos para la resolución del problema...).
 
-– Materiales, herramientas, objetos, dispositivos y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D…) seguros y adecuados a la consecución del proyecto.
+– Materiales, herramientas, objetos, dispositivos y recursos digitales (programación por bloques, sensores, motores, simuladores, impresoras 3D…) seguros y adecuados a la consecución del proyecto.
 
 – Estrategias en situaciones de incertidumbre: adaptación y cambio de estrategia cuando sea necesario, valoración del error propio y el de los demás como oportunidad de aprendizaje.
 
@@ -1263,7 +1258,7 @@ C. Sociedades y territorios.
 
 – El papel de la mujer en la historia y los principales movimientos en defensa de sus derechos. Situación actual y retos de futuro en la igualdad de género.
 
-– La memoria democrática. Análisis multicausal del proceso de construcción de la democracia en España. La Constitución de 1978. Fórmulas para la participación de la ciudadanía en la vida pública.
+– La memoria democrática. Análisis multicausal del proceso de construcción de la democracia en España. La Constitución de 1978. Fórmulas para la participación de la ciudadanía en la vida pública.
 
 – Las expresiones artísticas y culturales medievales, modernas y contemporáneas y su contextualización histórica desde una perspectiva de género. La función del arte y la cultura en el mundo medieval, moderno y contemporáneo.
 
@@ -1355,25 +1350,25 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Descubrir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.
 
 1.2 Describir manifestaciones culturales y artísticas del entorno próximo, explorando sus características con actitud abierta e interés.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Seleccionar y aplicar estrategias elementales para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como cooperativa.
 
 2.2 Reconocer elementos característicos básicos de distintas manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas empleados e identificando diferencias y similitudes.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir obras propias de manera guiada, utilizando algunas de las posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos, y mostrando confianza en las capacidades propias.
 
 3.2 Expresar de forma guiada ideas, sentimientos y emociones a través de manifestaciones artísticas sencillas, experimentando con los diferentes lenguajes e instrumentos a su alcance.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar de manera guiada en el diseño de producciones culturales y artísticas elementales, trabajando de forma cooperativa a partir de la igualdad y el respeto a la diversidad.
 
@@ -1443,25 +1438,25 @@ D. Música y artes escénicas y performativas.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.
 
 1.2 Describir manifestaciones culturales y artísticas, explorando sus características con actitud abierta e interés y estableciendo relaciones básicas entre ellas.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Seleccionar y aplicar estrategias para la búsqueda guiada de información sobre manifestaciones culturales y artísticas, a través de canales y medios de acceso sencillos, tanto de forma individual como colectiva.
 
 2.2 Distinguir elementos característicos básicos de manifestaciones culturales y artísticas que forman parte del patrimonio, indicando los canales, medios y técnicas utilizados, analizando sus diferencias y similitudes y reflexionando sobre las sensaciones producidas, con actitud de interés y respeto.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir obras propias básicas, utilizando las posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos, y mostrando confianza en las capacidades propias.
 
 3.2 Expresar con creatividad ideas, sentimientos y emociones a través de manifestaciones artísticas básicas, experimentando con los diferentes lenguajes e instrumentos a su alcance.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar de manera guiada en el diseño de producciones culturales y artísticas, trabajando de forma cooperativa en la consecución de un resultado final planificado y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.
 
@@ -1547,13 +1542,13 @@ D. Música y artes escénicas y performativas.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Distinguir propuestas artísticas de diferentes géneros, estilos, épocas y culturas, a través de la recepción activa y mostrando curiosidad y respeto por las mismas.
 
 1.2 Describir manifestaciones culturales y artísticas, explorando sus características con actitud abierta e interés, estableciendo relaciones entre ellas y valorando la diversidad que las genera.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Seleccionar y aplicar estrategias para la búsqueda de información sobre manifestaciones culturales y artísticas, a través de diversos canales y medios de acceso, tanto de forma individual como cooperativa.
 
@@ -1561,13 +1556,13 @@ Competencia específica 2.
 
 2.3 Valorar las sensaciones y emociones producidas por diferentes manifestaciones culturales y artísticas, a partir del análisis y la comprensión de dichas manifestaciones.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir obras propias básicas, utilizando las posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos y mostrando confianza en las capacidades propias.
 
 3.2 Expresar con creatividad ideas, sentimientos y emociones a través de diversas manifestaciones artísticas, utilizando los diferentes lenguajes e instrumentos a su alcance, mostrando confianza en las propias capacidades y perfeccionando la ejecución.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Planificar y diseñar producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.
 
@@ -1733,7 +1728,7 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Identificar los desplazamientos activos como práctica saludable, conociendo sus beneficios físicos para el establecimiento de un estilo de vida activo.
 
@@ -1743,7 +1738,7 @@ Competencia específica 1.
 
 1.4 Conocer los valores positivos que fomenta la práctica motriz compartida, reconociendo, vivenciando y disfrutando sus beneficios en contextos variados e inclusivos y respetando a todos los participantes con independencia de sus diferencias individuales.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Reconocer la importancia de establecer metas claras a la hora de desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, valorando su consecución a partir de un análisis de los resultados obtenidos.
 
@@ -1751,7 +1746,7 @@ Competencia específica 2.
 
 2.3 Descubrir, reconocer y emplear los componentes cualitativos y cuantitativos de la motricidad de manera lúdica e integrada en diferentes situaciones y contextos, mejorando progresivamente su control y su dominio corporal.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Identificar las emociones que se producen durante el juego, intentando gestionarlas y disfrutando de la actividad física.
 
@@ -1759,7 +1754,7 @@ Competencia específica 3.
 
 3.3 Participar en las prácticas motrices cotidianas, comenzando a desarrollar habilidades sociales de acogida, inclusión, ayuda y cooperación, iniciándose en la resolución de conflictos personales de forma dialógica y justa, y mostrando un compromiso activo frente a las actuaciones contrarias a la convivencia.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar activamente en juegos y otras manifestaciones artístico-expresivas de carácter cultural propias del entorno, valorando su componente lúdico-festivo y disfrutando de su puesta en práctica.
 
@@ -1767,7 +1762,7 @@ Competencia específica 4.
 
 4.3 Adecuar los distintos usos comunicativos de la corporalidad y sus manifestaciones a diferentes ritmos y contextos expresivos.
 
-Competencia específica 5.
+Competencia específica 5.
 
 Participar en actividades lúdico-recreativas de forma segura en los entornos natural y urbano y en contextos terrestres o acuáticos, conociendo otros usos desde la motricidad y adoptando actitudes de respeto, cuidado y conservación de dichos entornos.
 
@@ -1841,7 +1836,7 @@ F. Interacción eficiente y sostenible con el entorno.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer la actividad física como alternativa de ocio saludable, identificando desplazamientos activos y sostenibles y conociendo los efectos beneficiosos a nivel físico y mental que posee adoptar un estilo de vida activo.
 
@@ -1851,7 +1846,7 @@ Competencia específica 1.
 
 1.4 Reconocer la propia imagen corporal y la de los demás, aceptando y respetando las diferencias individuales que puedan existir, superando y rechazando las conductas discriminatorias que se puedan producir en contextos de práctica motriz.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Llevar a cabo proyectos motores de carácter individual, cooperativo o colaborativo, empleando estrategias de monitorización y seguimiento que permitan analizar los resultados obtenidos.
 
@@ -1859,7 +1854,7 @@ Competencia específica 2.
 
 2.3 Emplear los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa en distintos contextos y situaciones motrices, adquiriendo un progresivo control y dominio corporal sobre ellos.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Mostrar una disposición positiva hacia la práctica física y hacia el esfuerzo, controlando la impulsividad y las emociones negativas que surjan en contextos de actividad motriz.
 
@@ -1867,7 +1862,7 @@ Competencia específica 3.
 
 3.3 Desarrollar habilidades sociales de acogida, inclusión, ayuda y cooperación al participar en prácticas motrices variadas, resolviendo los conflictos individuales y colectivos de forma dialógica y justa, mostrando un compromiso activo frente a los estereotipos, las actuaciones discriminatorias y cualquier tipo de violencia.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar activamente en juegos motores y otras manifestaciones artístico-expresivas con arraigo en la cultura propia, tradicional o actual, así como otros procedentes de diversas culturas, contextualizando su origen, su aparición y su transmisión a lo largo del tiempo y valorando su importancia, repercusión e influencia en las sociedades pasadas y presentes.
 
@@ -1875,7 +1870,7 @@ Competencia específica 4.
 
 4.3 Reproducir distintas combinaciones de movimientos o coreografías individuales y grupales que incorporen prácticas comunicativas que transmitan sentimientos, emociones o ideas a través del cuerpo, empleando los distintos recursos expresivos y rítmicos de la corporalidad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 Desarrollar una práctica motriz segura en contextos naturales y urbanos de carácter terrestre o acuático, adecuando las acciones al análisis de cada situación y aplicando medidas de conservación ambiental.
 
@@ -1951,7 +1946,7 @@ F. Interacción eficiente y sostenible con el entorno.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer los efectos beneficiosos a nivel físico y mental de la actividad física como paso previo para su integración en la vida diaria.
 
@@ -1961,7 +1956,7 @@ Competencia específica 1.
 
 1.4 Identificar y abordar conductas vinculadas al ámbito corporal, la actividad física y el deporte que resultan perjudiciales para la salud o afectan negativamente a la convivencia, adoptando posturas de rechazo a la violencia, a la discriminación y a los estereotipos de género, y evitando activamente su reproducción.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, definiendo metas, secuenciando acciones, introduciendo cambios, si es preciso, durante el proceso, y generando producciones motrices de calidad, valorando el grado de ajuste al proceso seguido y al resultado obtenido.
 
@@ -1969,7 +1964,7 @@ Competencia específica 2.
 
 2.3 Adquirir un progresivo control y dominio corporal, empleando los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa y haciendo frente a las demandas de resolución de problemas en situaciones motrices transferibles a su espacio vivencial.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar en actividades motrices, desde la autorregulación de su actuación, con predisposición, esfuerzo, perseverancia y mentalidad de crecimiento, controlando la impulsividad, gestionando las emociones y expresándolas de forma asertiva.
 
@@ -1977,7 +1972,7 @@ Competencia específica 3.
 
 3.3 Convivir mostrando en el contexto de las prácticas motrices habilidades sociales, diálogo en la resolución de conflictos y respeto a la diversidad, ya sea de género, afectivo-sexual, de origen nacional, étnica, socio-económica o de competencia motriz, así como una actitud crítica y un compromiso activo frente a los estereotipos, las actuaciones discriminatorias y la violencia, haciendo especial hincapié en el fomento de la igualdad de género.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Participar activamente en juegos motores y otras manifestaciones artístico-expresivas con arraigo en la cultura propia, tradicional o actual, así como otros procedentes de diversas culturas, reconociendo y transmitiendo su valor cultural y su potencial como espacio generador de interacciones constructivas entre personas con orígenes diferentes y entendiendo las ventajas de su conservación.
 
@@ -1985,7 +1980,7 @@ Competencia específica 4.
 
 4.3 Reproducir y crear composiciones con o sin soporte musical, y comunicar diferentes sensaciones, emociones e ideas, de forma estética y creativa, desde el uso de los recursos rítmicos y expresivos de la motricidad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 Adaptar las acciones motrices a la incertidumbre propia del medio natural y urbano en contextos terrestres o acuáticos de forma eficiente y segura, valorando sus posibilidades para la práctica de actividad física y actuando desde una perspectiva ecosostenible del entorno y comunitaria.
 
@@ -2105,7 +2100,7 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Construir un adecuado concepto de sí mismo o sí misma en relación con los demás y la naturaleza, organizando y generando, de forma segura y crítica, información analógica y digital acerca de los rasgos relativos a la identidad, diferencia y dignidad de las personas.
 
@@ -2113,7 +2108,7 @@ Competencia específica 1.
 
 1.3 Generar una posición moral autónoma mediante el ejercicio de la deliberación racional, el uso de conceptos éticos y el diálogo respetuoso con otros, en torno a distintos valores y modos de vida, así como a problemas relacionados con el uso responsable, seguro y crítico de las redes y medios de comunicación, las conductas adictivas, la prevención del abuso y el acoso escolar, y el respeto a la intimidad personal.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Promover y demostrar un modo de convivencia democrática, justa, inclusiva, respetuosa y pacífica a partir de la investigación y comprensión de la naturaleza social y política del ser humano y mediante el uso crítico de los conceptos de ley, ética, civismo, democracia, justicia y paz.
 
@@ -2125,13 +2120,13 @@ Competencia específica 2.
 
 2.5 Comprender y valorar los principios de justicia, solidaridad, seguridad y paz, a la vez que el respeto a las libertades básicas, a partir del análisis y la ponderación de las políticas y acciones de ayuda y cooperación internacional, de defensa para la paz y de seguridad integral ciudadana, ejercidas por el Estado y sus instituciones, los organismos internaciones, las ONG y ONGD y la propia ciudadanía.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Evaluar diferentes alternativas con que frenar el cambio climático y lograr los Objetivos de Desarrollo Sostenible, identificando causas y problemas ecosociales, y justificando argumentalmente y de modo crítico el deber ético de proteger y cuidar la naturaleza.
 
 3.2 Comprometerse activamente con valores, prácticas y actitudes afectivas consecuentes con el respeto, cuidado y protección de las personas, los animales y el planeta, a través de la participación en actividades que promuevan un consumo responsable y un uso sostenible del suelo, el aire, el agua, la energía, la movilidad segura, saludable y sostenible, y la prevención y gestión de residuos, reconociendo el papel de las personas, colectivos y entidades comprometidas con la protección del entorno.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Gestionar equilibradamente pensamientos, sentimientos y emociones, y desarrollar una actitud de estima y cuidado de sí mismo o sí misma, de los demás y del entorno, identificando, analizando y expresando de manera asertiva las propias emociones y afectos, y reconociendo y valorando los de otras personas, en distintos contextos y en relación con actividades creativas y de reflexión individual o dialogada sobre cuestiones éticas y cívicas.
 
@@ -2199,7 +2194,7 @@ Para determinar el progreso en el grado de adquisición de estas competencias es
 
 Para abordar las actuaciones descritas en las competencias específicas, es imprescindible movilizar los saberes básicos del área. Los aprendizajes de Lengua Castellana y Literatura no pueden concebirse, en modo alguno, como la mera transmisión y recepción de contenidos disciplinares; por el contrario, deben entenderse como un proceso en construcción basado en la reflexión y el análisis acompañado, cuyo fin último es formar personas capaces de comunicarse de manera eficaz y ética. Los saberes básicos del área se agrupan en los siguientes bloques: «Las lenguas y sus hablantes», «Comunicación (Contexto, Géneros discursivos y Procesos)», «Educación literaria» y «Reflexión sobre la lengua y sus usos».
 
-El progreso en los aprendizajes del área debe permitir al alumnado responder a situaciones comunicativas reales, en los ámbitos personal, social y educativo. De ahí la importancia de vertebrar la programación de aula en torno a un conjunto de situaciones de aprendizaje contextualizadas, significativas y relevantes, atendiendo a su gradación y complementariedad, para que al término del año escolar se hayan trabajado de manera proporcionada todos los saberes básicos incluidos en el currículo. En el área de Lengua Castellana y Literatura, la adquisición de las competencias específicas debe producirse a partir de la articulación de los saberes de todos los bloques del área, de manera coordinada e interrelacionada, promoviéndose en todo momento la interacción comunicativa y la colaboración del alumnado entre sí y con los demás agentes que intervienen en los procesos de enseñanza-aprendizaje. En todo caso, el trabajo interdisciplinar, que obliga a movilizar los saberes de más de un área, aportará un valor añadido a los aprendizajes, al potenciar su carácter competencial. Por último, la diversidad lingüística de la mayor parte de los contextos escolares y la innegable necesidad de una educación plurilingüe para todo el alumnado invita al tratamiento integrado de las lenguas como un cauce excelente para estimular la reflexión interlingüística y aproximarse a los usos sociales reales, en los que a menudo se han de manejar simultáneamente dos o más lenguas.
+El progreso en los aprendizajes del área debe permitir al alumnado responder a situaciones comunicativas reales, en los ámbitos personal, social y educativo. De ahí la importancia de vertebrar la programación de aula en torno a un conjunto de situaciones de aprendizaje contextualizadas, significativas y relevantes, atendiendo a su gradación y complementariedad, para que al término del año escolar se hayan trabajado de manera proporcionada todos los saberes básicos incluidos en el currículo. En el área de Lengua Castellana y Literatura, la adquisición de las competencias específicas debe producirse a partir de la articulación de los saberes de todos los bloques del área, de manera coordinada e interrelacionada, promoviéndose en todo momento la interacción comunicativa y la colaboración del alumnado entre sí y con los demás agentes que intervienen en los procesos de enseñanza-aprendizaje. En todo caso, el trabajo interdisciplinar, que obliga a movilizar los saberes de más de un área, aportará un valor añadido a los aprendizajes, al potenciar su carácter competencial. Por último, la diversidad lingüística de la mayor parte de los contextos escolares y la innegable necesidad de una educación plurilingüe para todo el alumnado invita al tratamiento integrado de las lenguas como un cauce excelente para estimular la reflexión interlingüística y aproximarse a los usos sociales reales, en los que a menudo se han de manejar simultáneamente dos o más lenguas.
 
 Competencias específicas.
 
@@ -2255,9 +2250,9 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 7. Leer de manera autónoma obras diversas seleccionadas atendiendo a sus gustos e intereses, compartiendo las experiencias de lectura, para iniciar la construcción de la identidad lectora, para fomentar el gusto por la lectura como fuente de placer y para disfrutar de su dimensión social.
 
-Desarrollar esta competencia implica iniciar un camino de progreso planificado hacia la construcción de personalidades lectoras, lo que requiere la dedicación de un tiempo periódico y constante a la lectura individual, acompañado de las estrategias y andamiajes adecuados para iniciar la configuración de la autonomía y la identidad lectora, que deberá desarrollarse a lo largo de toda la vida. La construcción de la identidad lectora apela al autoconcepto que cada uno se forja de sí mismo como lector y se relaciona especialmente con la selección de los textos y con los hábitos lectores. Se trata, pues, de fortalecer la autoimagen de cada estudiante como sujeto lector para que ello ayude a leer más y mejor. Para ello se debe partir de la configuración de un corpus de textos adecuado y variado, equilibrando la presencia de autores y autoras, y que responda a los intereses y necesidades individuales, y favorezca el acercamiento hacia la reflexión sobre los grandes retos del siglo XXI. Se seleccionarán, preferentemente, textos que desarrollen o propicien la reflexión sobre valores como la cultura de paz, los derechos de la infancia, la igualdad de género y el respeto hacia la diversidad familiar, funcional y étnico-cultural.
+Desarrollar esta competencia implica iniciar un camino de progreso planificado hacia la construcción de personalidades lectoras, lo que requiere la dedicación de un tiempo periódico y constante a la lectura individual, acompañado de las estrategias y andamiajes adecuados para iniciar la configuración de la autonomía y la identidad lectora, que deberá desarrollarse a lo largo de toda la vida. La construcción de la identidad lectora apela al autoconcepto que cada uno se forja de sí mismo como lector y se relaciona especialmente con la selección de los textos y con los hábitos lectores. Se trata, pues, de fortalecer la autoimagen de cada estudiante como sujeto lector para que ello ayude a leer más y mejor. Para ello se debe partir de la configuración de un corpus de textos adecuado y variado, equilibrando la presencia de autores y autoras, y que responda a los intereses y necesidades individuales, y favorezca el acercamiento hacia la reflexión sobre los grandes retos del siglo XXI. Se seleccionarán, preferentemente, textos que desarrollen o propicien la reflexión sobre valores como la cultura de paz, los derechos de la infancia, la igualdad de género y el respeto hacia la diversidad familiar, funcional y étnico-cultural.
 
-La biblioteca escolar puede convertirse en un centro neurálgico del aprendizaje de los saberes básicos y de la adquisición de competencias, que ofrece recursos tanto para compartir, reflexionar y expresar preferencias personales en torno a la lectura, como para impulsar la innovación, la creatividad y el pensamiento crítico de la comunidad educativa. Es también recomendable configurar comunidades lectoras con referentes compartidos; desarrollar estrategias que ayuden al alumnado a seleccionar los textos de su interés, apropiarse de ellos y compartir de manera personal y creativa su experiencia personal de lectura; y establecer contextos en los que surjan motivos para leer, a partir de retos de indagación, y que propongan maneras de vincular afectivamente a los lectores y lectoras con los textos. A medida que se avance en la adquisición de la competencia, será posible ir reduciendo progresivamente el acompañamiento docente.
+La biblioteca escolar puede convertirse en un centro neurálgico del aprendizaje de los saberes básicos y de la adquisición de competencias, que ofrece recursos tanto para compartir, reflexionar y expresar preferencias personales en torno a la lectura, como para impulsar la innovación, la creatividad y el pensamiento crítico de la comunidad educativa. Es también recomendable configurar comunidades lectoras con referentes compartidos; desarrollar estrategias que ayuden al alumnado a seleccionar los textos de su interés, apropiarse de ellos y compartir de manera personal y creativa su experiencia personal de lectura; y establecer contextos en los que surjan motivos para leer, a partir de retos de indagación, y que propongan maneras de vincular afectivamente a los lectores y lectoras con los textos. A medida que se avance en la adquisición de la competencia, será posible ir reduciendo progresivamente el acompañamiento docente.
 
 Esta competencia específica se conecta con los siguientes descriptores del Perfil de salida: CCL1, CCL4, CD3, CPSAA1, CCEC1, CCEC2, CCEC3.
 
@@ -2289,33 +2284,33 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Mostrar interés y respeto a las distintas lenguas y variedades dialectales de su entorno, valorando la igualdad en las diferencias.
 
 1.2 Reconocer, de manera acompañada y en contextos próximos, algunos prejuicios y estereotipos lingüísticos y culturales muy frecuentes.
 
-Competencia específica 2.
+Competencia específica 2.
 
 Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos y los mensajes implícitos más sencillos, e iniciando, de manera acompañada, la valoración del contenido y de los elementos no verbales más elementales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir textos orales y multimodales coherentes, con planificación acompañada y utilizando recursos no verbales elementales.
 
 3.2 Participar en interacciones orales espontáneas, incorporando estrategias elementales de escucha activa y de cortesía lingüística.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Comprender el sentido global y la información relevante de textos cercanos, escritos y multimodales, a partir de estrategias básicas de comprensión antes, durante y después de la lectura.
 
 4.2 Analizar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales sencillos valorando su contenido y estructura.
 
-Competencia específica 5.
+Competencia específica 5.
 
 Producir textos escritos y multimodales sencillos y coherentes en distintos soportes, desde las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados y movilizando, de manera acompañada, estrategias elementales, individuales o grupales, de planificación, textualización y revisión.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.
 
@@ -2323,25 +2318,25 @@ Competencia específica 6.
 
 6.3 Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación con la búsqueda y la comunicación de la información.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Leer con progresiva autonomía textos de distintos autores y autoras acordes con sus gustos e intereses, seleccionados de manera acompañada, desde las diferentes etapas del proceso evolutivo de la lectura.
 
 7.2 Compartir oralmente la experiencia y disfrute por la lectura participando en comunidades lectoras de ámbito escolar.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Escuchar y leer textos orales y escritos de la literatura infantil, que recojan diversidad de autores y autoras, estableciendo de manera acompañada relaciones elementales entre ellos y con otras manifestaciones artísticas o culturales.
 
 8.2 Producir, de manera acompañada, textos sencillos individuales o colectivos con intención literaria, adaptados a las diferentes etapas del proceso evolutivo de la escritura, ajustándose a modelos dados, en distintos soportes y complementándolos con otros lenguajes artísticos.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Formular conclusiones elementales sobre el funcionamiento de la lengua, prestando especial atención a la concordancia y a las relaciones de significado entre las palabras, a partir de la observación, comparación y transformación de palabras y enunciados, en un proceso acompañado de producción o comprensión de textos en contextos significativos.
 
 9.2 Revisar y mejorar los textos propios y subsanar algunos problemas de comprensión lectora, de manera acompañada, a partir de la reflexión metalingüística e interlingüística y usando la terminología lingüística básica adecuada.
 
-Competencia específica 10.
+Competencia específica 10.
 
 10.1 Rechazar los usos lingüísticos discriminatorios identificados a partir de la reflexión grupal acompañada sobre los aspectos elementales, verbales y no verbales, de la comunicación, teniendo en cuenta una perspectiva de género.
 
@@ -2423,33 +2418,33 @@ D. Reflexión sobre la lengua y sus usos en el marco de propuestas la producci
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Mostrar interés y respeto a las distintas lenguas y variedades dialectales de su entorno, identificando algunas expresiones de uso cotidiano.
 
 1.2 Identificar, con cierta autonomía y en contextos próximos, prejuicios y estereotipos lingüísticos frecuentes, aportando alternativas y reconociendo la diversidad lingüística de su entorno como una fuente de riqueza cultural.
 
-Competencia específica 2.
+Competencia específica 2.
 
 Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales, los mensajes explícitos y los mensajes implícitos más sencillos, y progresando, de manera acompañada, en la valoración crítica del contenido y de los elementos no verbales elementales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir textos orales y multimodales coherentes, con planificación acompañada, ajustando el discurso a la situación comunicativa y utilizando recursos no verbales básicos.
 
 3.2 Participar en interacciones orales espontáneas o regladas, incorporando estrategias básicas de escucha activa y cortesía lingüística.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Comprender el sentido global y la información relevante de textos sencillos, escritos y multimodales, realizando inferencias a partir de estrategias básicas de comprensión antes, durante y después de la lectura.
 
 4.2 Analizar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales, valorando su contenido y estructura e iniciándose en la evaluación de su fiabilidad.
 
-Competencia específica 5.
+Competencia específica 5.
 
 Producir textos escritos y multimodales sencillos, con coherencia y adecuación, en distintos soportes, iniciándose en el uso de las normas gramaticales y ortográficas más sencillas al servicio de la cohesión y progresando, de manera acompañada, en la movilización de estrategias sencillas, individuales o grupales, de planificación, textualización y revisión.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.
 
@@ -2457,25 +2452,25 @@ Competencia específica 6.
 
 6.3 Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación con la búsqueda y la comunicación de la información.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Leer con progresiva autonomía o de forma acompañada textos de diversos autores y autoras, ajustados a sus gustos e intereses y seleccionados con creciente autonomía, avanzando en la construcción de su identidad lectora.
 
 7.2 Compartir la experiencia de lectura, en soportes diversos, participando en comunidades lectoras en el ámbito escolar.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Escuchar y leer textos variados de la literatura infantil universal, que recojan diversidad de autores y autoras, relacionándolos en función de temas y aspectos elementales del género literario, e interpretándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera acompañada.
 
 8.2 Producir, de manera acompañada, textos sencillos individuales o colectivos con intención literaria, recreando de manera personal los modelos dados, en distintos soportes y complementándolos con otros lenguajes artísticos.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Formular conclusiones elementales sobre el funcionamiento de la lengua, prestando especial atención a la relación entre sustantivos, adjetivos y verbos, a partir de la observación, comparación y transformación de palabras, enunciados y textos, en un proceso acompañado de producción o comprensión de textos en contextos significativos.
 
 9.2 Revisar y mejorar los textos propios y ajenos y subsanar algunos problemas de comprensión lectora, de manera acompañada, a partir de la reflexión metalingüística e interlingüística y usando la terminología básica adecuada.
 
-Competencia específica 10.
+Competencia específica 10.
 
 10.1 Rechazar los usos lingüísticos discriminatorios e identificar los abusos de poder a través de la palabra a partir de la reflexión grupal acompañada sobre los aspectos básicos, verbales y no verbales, de la comunicación, teniendo en cuenta una perspectiva de género.
 
@@ -2561,33 +2556,33 @@ D. Reflexión sobre la lengua y sus usos en el marco de propuestas de producci
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Mostrar interés y respeto a las distintas lenguas y variedades dialectales, identificando las características fundamentales de las de su entorno geográfico, así como algunos rasgos de los dialectos y lenguas familiares del alumnado.
 
 1.2 Detectar, con autonomía creciente y en contextos próximos, prejuicios y estereotipos lingüísticos frecuentes, aportando alternativas y valorando la diversidad lingüística del mundo como una fuente de riqueza cultural.
 
-Competencia específica 2.
+Competencia específica 2.
 
 Comprender el sentido de textos orales y multimodales sencillos, reconociendo las ideas principales y los mensajes explícitos e implícitos, valorando su contenido y los elementos no verbales elementales y, de manera acompañada, algunos elementos formales elementales.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Producir textos orales y multimodales, de manera autónoma, coherente y fluida, en contextos formales sencillos y utilizando correctamente recursos verbales y no verbales básicos.
 
 3.2 Participar en interacciones orales espontáneas o regladas, incorporando estrategias sencillas de escucha activa, de cortesía lingüística y de cooperación conversacional.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Comprender el sentido global y la información relevante de textos escritos y multimodales, realizando inferencias y a partir de estrategias básicas de comprensión antes, durante y después de la lectura.
 
 4.2 Analizar, de manera acompañada, el contenido y aspectos formales y no formales elementales de textos escritos y multimodales, valorando su contenido y estructura y evaluando su calidad, fiabilidad e idoneidad en función del propósito de lectura.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Producir textos escritos y multimodales de relativa complejidad, con coherencia y adecuación, en distintos soportes, progresando en el uso de las normas gramaticales y ortográficas básicas al servicio de la cohesión textual y movilizando estrategias sencillas, individuales o grupales, de planificación, textualización, revisión y edición.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.
 
@@ -2595,25 +2590,25 @@ Competencia específica 6.
 
 6.3 Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación con la búsqueda y la comunicación de la información.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Leer de manera autónoma textos de diversos autores y autoras ajustados a sus gustos e intereses, progresando en la construcción de su identidad lectora.
 
 7.2 Compartir la experiencia de lectura, en soportes diversos, participando en comunidades lectoras en el ámbito escolar o social.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Escuchar y leer de manera acompañada textos literarios adecuados a su edad, que recojan diversidad de autores y autoras, relacionándolos en función de los temas y de aspectos elementales de cada género literario, e interpretándolos, valorándolos y relacionándolos con otras manifestaciones artísticas o culturales de manera progresivamente autónoma.
 
 8.2 Producir, de manera progresivamente autónoma, textos sencillos individuales o colectivos con intención literaria, reelaborando con creatividad los modelos dados, en distintos soportes y complementándolos con otros lenguajes artísticos.
 
-Competencia específica 9.
+Competencia específica 9.
 
 9.1 Establecer generalizaciones sobre aspectos básicos del funcionamiento de la lengua de manera acompañada, formulando hipótesis y buscando contraejemplos, a partir de la observación, comparación y transformación de palabras, enunciados y textos, en un proceso acompañado de producción o comprensión de textos en contextos significativos.
 
 9.2 Revisar y mejorar los textos propios y ajenos y subsanar algunos problemas de comprensión lectora, de manera progresivamente autónoma, a partir de la reflexión metalingüística e interlingüística y usando la terminología básica adecuada.
 
-Competencia específica 10.
+Competencia específica 10.
 
 10.1 Rechazar los usos lingüísticos discriminatorios y los abusos de poder a través de la palabra identificados mediante la reflexión grupal acompañada sobre distintos aspectos, verbales y no verbales, de la comunicación, teniendo en cuenta una perspectiva de género.
 
@@ -2769,13 +2764,13 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer e interpretar palabras y expresiones habituales en textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos de relevancia personal y próximos a su experiencia, expresados de forma comprensible, clara, sencilla y directa, y en lengua estándar.
 
 1.2 Seleccionar y aplicar de forma guiada estrategias elementales en situaciones comunicativas cotidianas y de relevancia para el alumnado con el fin de captar la idea global e identificar elementos específicos con ayuda de elementos lingüísticos y no lingüísticos del contexto y el cotexto.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar oralmente frases cortas y sencillas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando de forma guiada recursos verbales y no verbales, recurriendo a modelos y estructuras previamente presentados y prestando atención al ritmo, la acentuación y la entonación.
 
@@ -2783,17 +2778,17 @@ Competencia específica 2.
 
 2.3 Seleccionar y aplicar, de forma guiada, estrategias básicas para producir mensajes breves y sencillos adecuados a las intenciones comunicativas usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar, de forma guiada, en situaciones interactivas elementales sobre temas cotidianos, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía.
 
 3.2 Seleccionar y utilizar, de forma guiada y en entornos próximos, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes sencillos y breves; y formular y contestar preguntas básicas para la comunicación.
 
-Competencia específica 4.
+Competencia específica 4.
 
 Interpretar y explicar, de forma guiada, información básica de conceptos, comunicaciones y textos breves y sencillos en situaciones en las que atender a la diversidad, mostrando empatía e interés por los interlocutores e interlocutoras y por los problemas de entendimiento en su entorno inmediato, apoyándose en diversos recursos y soportes.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comparar y contrastar similitudes y diferencias evidentes entre distintas lenguas, reflexionando, de forma guiada, sobre aspectos elementales de su funcionamiento.
 
@@ -2801,7 +2796,7 @@ Competencia específica 5.
 
 5.3 Identificar y explicar, de manera guiada, progresos y dificultades elementales en el proceso de aprendizaje de la lengua extranjera.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Mostrar interés por la comunicación intercultural, identificando y analizando, de forma guiada, las discriminaciones, los prejuicios y los estereotipos más comunes, en situaciones cotidianas y habituales.
 
@@ -2851,13 +2846,13 @@ C. Interculturalidad.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer e interpretar el sentido global, así como palabras y frases previamente indicadas, en textos orales, escritos y multimodales, breves y sencillos, sobre temas frecuentes y cotidianos de relevancia personal y próximos a su experiencia, así como de textos de ficción adecuados al nivel de desarrollo del alumnado, expresados de forma comprensible, clara y en lengua estándar a través de distintos soportes.
 
 1.2 Seleccionar y aplicar, de forma guiada, estrategias adecuadas en situaciones comunicativas cotidianas y de relevancia para el alumnado, para captar el sentido global y procesar informaciones explícitas en textos breves y sencillos sobre temas familiares.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar oralmente frases cortas con información básica sobre asuntos cotidianos y de relevancia para el alumnado, utilizando, de forma guiada, recursos verbales y no verbales, prestando atención al ritmo, la acentuación y la entonación.
 
@@ -2865,19 +2860,19 @@ Competencia específica 2.
 
 2.3 Seleccionar y aplicar, de forma guiada, estrategias para producir mensajes breves y sencillos adecuados a las intenciones comunicativas, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próximos a su experiencia, preparadas previamente, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por la cortesía lingüística y la etiqueta digital.
 
 3.2 Seleccionar y utilizar, de forma guiada y en situaciones cotidianas, estrategias elementales para saludar, despedirse y presentarse; expresar mensajes breves; y formular y contestar preguntas sencillas.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Interpretar y explicar textos, conceptos y comunicaciones breves y sencillas, de forma guiada, en situaciones en las que atender a la diversidad, mostrando empatía e interés por los interlocutores e interlocutoras y por los problemas de entendimiento en su entorno más próximo, apoyándose en diversos recursos y soportes.
 
 4.2 Seleccionar y aplicar, de forma guiada, estrategias elementales que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comparar y contrastar las similitudes y diferencias entre distintas lenguas reflexionando, de forma guiada, sobre aspectos básicos de su funcionamiento.
 
@@ -2885,7 +2880,7 @@ Competencia específica 5.
 
 5.3 Registrar y aplicar, de manera guiada, los progresos y dificultades elementales en el proceso de aprendizaje de la lengua extranjera, reconociendo los aspectos que ayudan a mejorar y participando en actividades de autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL).
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Actuar con respeto en situaciones interculturales, identificando y comparando semejanzas y diferencias elementales entre lenguas y culturas, y mostrando rechazo frente a discriminaciones, prejuicios y estereotipos de cualquier tipo en contextos comunicativos cotidianos y habituales.
 
@@ -2947,13 +2942,13 @@ C. Interculturalidad.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Reconocer, interpretar y analizar el sentido global, así como palabras y frases específicas de textos orales, escritos y multimodales breves y sencillos sobre temas frecuentes y cotidianos de relevancia personal y ámbitos próximos a su experiencia, así como de textos literarios adecuados al nivel de desarrollo del alumnado, expresados de forma comprensible, clara y en lengua estándar a través de distintos soportes.
 
 1.2 Seleccionar, organizar y aplicar, de forma guiada, estrategias y conocimientos adecuados en situaciones comunicativas cotidianas y de relevancia para el alumnado para captar el sentido global y procesar informaciones explícitas en textos diversos.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Expresar oralmente textos breves y sencillos, previamente preparados, sobre asuntos cotidianos y de relevancia para el alumnado, utilizando, de forma guiada, recursos verbales y no verbales, y usando formas y estructuras básicas y de uso frecuente propias de la lengua extranjera.
 
@@ -2961,19 +2956,19 @@ Competencia específica 2.
 
 2.3 Seleccionar, organizar y aplicar, de forma guiada, conocimientos y estrategias para preparar y producir textos adecuados a las intenciones comunicativas, las características contextuales y la tipología textual, usando, con ayuda, recursos físicos o digitales en función de la tarea y las necesidades de cada momento.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Planificar y participar en situaciones interactivas breves y sencillas sobre temas cotidianos, de relevancia personal y próximos a su experiencia, a través de diversos soportes, apoyándose en recursos tales como la repetición, el ritmo pausado o el lenguaje no verbal, y mostrando empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas y motivaciones de los interlocutores e interlocutoras.
 
 3.2 Seleccionar, organizar y utilizar, de forma guiada y en situaciones cotidianas, estrategias elementales para saludar, despedirse y presentarse; formular y contestar preguntas sencillas; expresar mensajes, e iniciar y terminar la comunicación.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Inferir y explicar textos, conceptos y comunicaciones breves y sencillas, de forma guiada, en situaciones en las que atender a la diversidad, mostrando respeto y empatía por los interlocutores e interlocutoras y por las lenguas empleadas, e interés por participar en la solución de problemas de intercomprensión y de entendimiento en su entorno próximo, apoyándose en diversos recursos y soportes.
 
 4.2 Seleccionar y aplicar, de forma guiada, estrategias básicas que ayuden a crear puentes y faciliten la comprensión y producción de información y la comunicación, adecuadas a las intenciones comunicativas, usando, con ayuda, recursos y apoyos físicos o digitales en función de las necesidades de cada momento.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Comparar y contrastar las similitudes y diferencias entre distintas lenguas reflexionando de manera progresivamente autónoma sobre aspectos básicos de su funcionamiento.
 
@@ -2981,7 +2976,7 @@ Competencia específica 5.
 
 5.3 Registrar y utilizar, de manera guiada, los progresos y dificultades en el proceso de aprendizaje de la lengua extranjera, reconociendo los aspectos que ayudan a mejorar y realizando actividades de autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Actuar con aprecio y respeto en situaciones interculturales, construyendo vínculos entre las diferentes lenguas y culturas, y mostrando rechazo ante cualquier tipo de discriminación, prejuicio y estereotipo en contextos comunicativos cotidianos y habituales.
 
@@ -3017,7 +3012,7 @@ A. Comunicación.
 
 – Propiedad intelectual de las fuentes consultadas y contenidos utilizados.
 
-– Herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal, y plataformas virtuales de interacción, cooperación y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas...) para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.
+– Herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal, y plataformas virtuales de interacción, cooperación y colaboración educativa (aulas virtuales, videoconferencias, herramientas digitales colaborativas...) para el aprendizaje, la comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.
 
 B. Plurilingüismo.
 
@@ -3143,13 +3138,13 @@ Esta competencia específica se conecta con los siguientes descriptores del Perf
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Comprender las preguntas planteadas a través de diferentes estrategias o herramientas, reconociendo la información contenida en problemas de la vida cotidiana.
 
 1.2 Proporcionar ejemplos de representaciones de situaciones problematizadas sencillas, con recursos manipulativos y gráficos que ayuden en la resolución de un problema de la vida cotidiana.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Emplear algunas estrategias adecuadas en la resolución de problemas.
 
@@ -3157,37 +3152,37 @@ Competencia específica 2.
 
 2.3 Describir verbalmente la idoneidad de las soluciones de un problema a partir de las preguntas previamente planteadas.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Realizar conjeturas matemáticas sencillas, investigando patrones, propiedades y relaciones de forma guiada.
 
 3.2 Dar ejemplos de problemas a partir de situaciones cotidianas que se resuelven matemáticamente.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Describir rutinas y actividades sencillas de la vida cotidiana que se realicen paso a paso, utilizando principios básicos del pensamiento computacional de forma guiada.
 
 4.2 Emplear herramientas tecnológicas adecuadas, de forma guiada, en el proceso de resolución de problemas.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Reconocer conexiones entre los diferentes elementos matemáticos, aplicando conocimientos y experiencias propios.
 
 5.2 Reconocer las matemáticas presentes en la vida cotidiana y en otras áreas, estableciendo conexiones sencillas entre ellas.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Reconocer lenguaje matemático sencillo presente en la vida cotidiana, adquiriendo vocabulario específico básico.
 
 6.2 Explicar ideas y procesos matemáticos sencillos, los pasos seguidos en la resolución de un problema o los resultados matemáticos, de forma verbal o gráfica.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Reconocer las emociones básicas propias al abordar retos matemáticos, pidiendo ayuda solo cuando sea necesario.
 
 7.2 Expresar actitudes positivas ante retos matemáticos, valorando el error como una oportunidad de aprendizaje.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Participar respetuosamente en el trabajo en equipo, estableciendo relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos.
 
@@ -3199,25 +3194,25 @@ A. Sentido numérico.
 
 1. Conteo.
 
-– Estrategias variadas de conteo y recuento sistemático en situaciones de la vida cotidiana en cantidades hasta el 999.
+– Estrategias variadas de conteo y recuento sistemático en situaciones de la vida cotidiana en cantidades hasta el 999.
 
 2. Cantidad.
 
 – Estimaciones razonadas de cantidades en contextos de resolución de problemas.
 
-– Lectura, representación (incluida la recta numérica y con materiales manipulativos), composición, descomposición y recomposición de números naturales hasta 999.
+– Lectura, representación (incluida la recta numérica y con materiales manipulativos), composición, descomposición y recomposición de números naturales hasta 999.
 
 – Representación de una misma cantidad de distintas formas (manipulativa, gráfica o numérica) y estrategias de elección de la representación adecuada para cada situación o problema.
 
 3. Sentido de las operaciones.
 
-– Estrategias de cálculo mental con números naturales hasta 999.
+– Estrategias de cálculo mental con números naturales hasta 999.
 
 – Suma y resta de números naturales resueltas con flexibilidad y sentido: utilidad en situaciones contextualizadas, estrategias y herramientas de resolución y propiedades.
 
 4. Relaciones.
 
-– Sistema de numeración de base diez (hasta el 999): aplicación de las relaciones que genera en las operaciones.
+– Sistema de numeración de base diez (hasta el 999): aplicación de las relaciones que genera en las operaciones.
 
 – Números naturales en contextos de la vida cotidiana: comparación y ordenación.
 
@@ -3225,7 +3220,7 @@ A. Sentido numérico.
 
 5. Educación financiera.
 
-– Sistema monetario europeo: monedas (1, 2 euros) y billetes de euro (5, 10, 20, 50 y 100), valor y equivalencia.
+– Sistema monetario europeo: monedas (1, 2 euros) y billetes de euro (5, 10, 20, 50 y 100), valor y equivalencia.
 
 B. Sentido de la medida.
 
@@ -3317,13 +3312,13 @@ F. Sentido socioafectivo.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Interpretar, de forma verbal o gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas, incluidas las tecnológicas.
 
 1.2 Producir representaciones matemáticas a través de esquemas o diagramas que ayuden en la resolución de una situación problematizada.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Comparar entre diferentes estrategias para resolver un problema de forma pautada.
 
@@ -3331,37 +3326,37 @@ Competencia específica 2.
 
 2.3 Demostrar la corrección matemática de las soluciones de un problema y su coherencia en el contexto planteado.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Analizar conjeturas matemáticas sencillas investigando patrones, propiedades y relaciones de forma pautada.
 
 3.2 Dar ejemplos de problemas sobre situaciones cotidianas que se resuelven matemáticamente.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Automatizar situaciones sencillas de la vida cotidiana que se realicen paso a paso o sigan una rutina, utilizando de forma pautada principios básicos del pensamiento computacional.
 
 4.2 Emplear herramientas tecnológicas adecuadas en el proceso de resolución de problemas.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Realizar conexiones entre los diferentes elementos matemáticos, aplicando conocimientos y experiencias propios.
 
 5.2 Interpretar situaciones en contextos diversos, reconociendo las conexiones entre las matemáticas y la vida cotidiana.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Reconocer el lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario específico básico y mostrando la comprensión del mensaje.
 
 6.2 Explicar los procesos e ideas matemáticas, los pasos seguidos en la resolución de un problema o los resultados obtenidos, utilizando un lenguaje matemático sencillo en diferentes formatos.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Identificar las emociones propias al abordar retos matemáticos, pidiendo ayuda solo cuando sea necesario y desarrollando la autoconfianza.
 
 7.2 Mostrar actitudes positivas ante retos matemáticos tales como el esfuerzo y la flexibilidad, valorando el error como una oportunidad de aprendizaje.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Trabajar en equipo activa y respetuosamente, comunicándose adecuadamente, respetando la diversidad del grupo y estableciendo relaciones saludables basadas en la igualdad y la resolución pacífica de conflictos.
 
@@ -3373,7 +3368,7 @@ A. Sentido numérico.
 
 1. Conteo.
 
-– Estrategias variadas de conteo, recuento sistemático y adaptación del conteo al tamaño de los números en situaciones de la vida cotidiana en cantidades hasta el 9999.
+– Estrategias variadas de conteo, recuento sistemático y adaptación del conteo al tamaño de los números en situaciones de la vida cotidiana en cantidades hasta el 9999.
 
 2. Cantidad.
 
@@ -3381,9 +3376,9 @@ A. Sentido numérico.
 
 – Estimaciones y aproximaciones razonadas de cantidades en contextos de resolución de problemas.
 
-– Lectura, representación (incluida la recta numérica y con materiales manipulativos), composición, descomposición y recomposición de números naturales hasta 9999.
+– Lectura, representación (incluida la recta numérica y con materiales manipulativos), composición, descomposición y recomposición de números naturales hasta 9999.
 
-– Fracciones propias con denominador hasta 12 en contextos de la vida cotidiana.
+– Fracciones propias con denominador hasta 12 en contextos de la vida cotidiana.
 
 3. Sentido de las operaciones.
 
@@ -3397,7 +3392,7 @@ A. Sentido numérico.
 
 4. Relaciones.
 
-– Sistema de numeración de base diez (hasta el 9999): aplicación de las relaciones que genera en las operaciones.
+– Sistema de numeración de base diez (hasta el 9999): aplicación de las relaciones que genera en las operaciones.
 
 – Números naturales y fracciones en contextos de la vida cotidiana: comparación y ordenación.
 
@@ -3535,13 +3530,13 @@ F. Sentido socioafectivo.
 
 **Criterios de evaluación**
 
-Competencia específica 1.
+Competencia específica 1.
 
 1.1 Comprender problemas de la vida cotidiana a través de la reformulación de la pregunta, de forma verbal y gráfica.
 
 1.2 Elaborar representaciones matemáticas que ayuden en la búsqueda y elección de estrategias y herramientas, incluidas las tecnológicas, para la resolución de una situación problematizada.
 
-Competencia específica 2.
+Competencia específica 2.
 
 2.1 Seleccionar entre diferentes estrategias para resolver un problema, justificando la elección.
 
@@ -3549,37 +3544,37 @@ Competencia específica 2.
 
 2.3 Comprobar la corrección matemática de las soluciones de un problema y su coherencia en el contexto planteado.
 
-Competencia específica 3.
+Competencia específica 3.
 
 3.1 Formular conjeturas matemáticas sencillas investigando patrones, propiedades y relaciones de forma guiada.
 
 3.2 Plantear nuevos problemas sobre situaciones cotidianas que se resuelvan matemáticamente.
 
-Competencia específica 4.
+Competencia específica 4.
 
 4.1 Modelizar situaciones de la vida cotidiana utilizando, de forma pautada, principios básicos del pensamiento computacional.
 
 4.2 Emplear herramientas tecnológicas adecuadas en la investigación y resolución de problemas.
 
-Competencia específica 5.
+Competencia específica 5.
 
 5.1 Utilizar conexiones entre diferentes elementos matemáticos movilizando conocimientos y experiencias propios.
 
 5.2 Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos.
 
-Competencia específica 6.
+Competencia específica 6.
 
 6.1 Interpretar el lenguaje matemático sencillo presente en la vida cotidiana en diferentes formatos, adquiriendo vocabulario apropiado y mostrando la comprensión del mensaje.
 
 6.2 Comunicar en diferentes formatos las conjeturas y procesos matemáticos, utilizando lenguaje matemático adecuado.
 
-Competencia específica 7.
+Competencia específica 7.
 
 7.1 Autorregular las emociones propias y reconocer algunas fortalezas y debilidades, desarrollando así la autoconfianza al abordar retos matemáticos.
 
 7.2 Elegir actitudes positivas ante retos matemáticos, tales como la perseverancia y la responsabilidad, valorando el error como una oportunidad de aprendizaje.
 
-Competencia específica 8.
+Competencia específica 8.
 
 8.1 Trabajar en equipo activa, respetuosa y responsablemente, mostrando iniciativa, comunicándose de forma efectiva, valorando la diversidad, mostrando empatía y estableciendo relaciones saludables basadas en el respeto, la igualdad y la resolución pacífica de conflictos.
 
@@ -3753,7 +3748,7 @@ F. Sentido socioafectivo.
 
 – Valoración de la contribución de las matemáticas a los distintos ámbitos del conocimiento humano desde una perspectiva de género.
 
-ANEXO III
+## Anexo III
 
 Situaciones de aprendizaje
 
@@ -3763,17 +3758,16 @@ Para que la adquisición de las competencias sea efectiva, las situaciones de ap
 
 El diseño de las situaciones de aprendizaje debe suponer la transferencia de los aprendizajes adquiridos por parte del alumnado, posibilitando la articulación coherente y eficaz de distintos conocimientos, destrezas y actitudes propios de esta etapa. Las situaciones deben partir del planteamiento de unos objetivos claros y precisos que integren diversos saberes básicos. Además, deben proponer escenarios que favorezcan diferentes tipos de agrupamientos, desde el trabajo individual al trabajo en grupos, permitiendo que el alumnado vaya asumiendo responsabilidades personales progresivamente y actúe de forma cooperativa en la resolución creativa del reto planteado. Su puesta en práctica debe implicar la producción y la interacción oral e incluir el uso de recursos auténticos en distintos soportes y formatos, tanto analógicos como digitales. Las situaciones de aprendizaje deben fomentar aspectos relacionados con el interés común, la sostenibilidad o la convivencia democrática, esenciales para que el alumnado se prepare para responder con eficacia a los retos del siglo XXI.
 
-ANEXO IV
+## Anexo IV
 
 Horario escolar, expresado en horas, correspondiente a las enseñanzas mínimas para la Educación Primaria
 
-De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educación, las comunidades autónomas que tengan lengua cooficial dispondrán para la organización de las enseñanzas de dicha lengua del 10 % del horario escolar total que se deriva de este anexo, no pudiendo detraer de una materia una cifra superior al 30 % del horario correspondiente a las enseñanzas mínimas.
-
----
+De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educación, las comunidades autónomas que tengan lengua cooficial dispondrán para la organización de las enseñanzas de dicha lengua del 10 % del horario escolar total que se deriva de este anexo, no pudiendo detraer de una materia una cifra superior al 30 % del horario correspondiente a las enseñanzas mínimas.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
@@ -3786,6 +3780,7 @@ De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educac
 - **Desarrollado por**: [**D101_2023 Ordenacion y Curriculo de Educacion Primaria en Canarias**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D101_2023_establece_ordenacion_curriculo_educacion_primaria_comunidad.md)
 
 ### Fundamentos de Derecho
+
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)

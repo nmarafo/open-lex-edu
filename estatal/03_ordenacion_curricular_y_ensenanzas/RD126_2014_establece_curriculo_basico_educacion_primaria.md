@@ -1,12 +1,10 @@
 ---
 id: norm-es-2014-2222
 codigo_sintetizado: BOE-A-2014-2222
-titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo
-  básico de la Educación Primaria.
+titulo: Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 jurisdiccion: España
 ambito: Estatal
-organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo
-  de Ministros
+organo_emisor: Ministerio de Educación, Formación Profesional y Deportes / Consejo de Ministros
 tipo_disposicion: Real Decreto / Orden
 fecha_publicacion: '2014-03-01'
 boletin: BOE
@@ -17,55 +15,52 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Primaria
 tags:
-- bachillerato
-- curriculo
-- educaci-n-primaria
-- educacion-primaria
-- ensenanzas-artisticas
-- eso
-- evaluacion
-- organizacion-escolar
-- profesorado
+  - bachillerato
+  - curriculo
+  - educaci-n-primaria
+  - educacion-primaria
+  - ensenanzas-artisticas
+  - eso
+  - evaluacion
+  - organizacion-escolar
+  - profesorado
 relaciones:
   fundamentado_en:
-  - norma_id: norm-es-1999-23750
-  - norma_id: norm-es-2010-12201
-  - norma_id: norm-es-2016-3229
-  - norma_id: norm-es-2021-20113
-  - norma_id: norm-es-ce-1978
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-2010-12201
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-ce-1978
+    - norma_id: norm-es-lo-2-2006
+    - norma_id: norm-es-lo-8-1985
   fundamento_de:
-  - norma_id: norm-es-2021-18812
-  - norma_id: norm-es-rd-157-2022
-  - norma_id: norm-can-res-juriscan-72788-60
+    - norma_id: norm-es-2021-18812
+    - norma_id: norm-es-rd-157-2022
+    - norma_id: norm-can-res-juriscan-72788-60
   desarrollado_por: []
-fundamentos_derecho:
-- norma_id: norm-es-ce-1978
+  fundamentos_derecho:
+    - norma_id: norm-es-ce-1978
   articulos:
-  - '27'
-- norma_id: norm-es-lo-2-2006
+    - '27'
+    - norma_id: norm-es-lo-2-2006
   articulos:
-  - '1'
-  - '2'
-- norma_id: norm-es-1999-23750
-- norma_id: norm-es-lo-8-1985
-- norma_id: norm-es-2016-3229
-- norma_id: norm-es-2021-20113
-- norma_id: norm-es-2010-12201
+    - '1'
+    - '2'
+    - norma_id: norm-es-1999-23750
+    - norma_id: norm-es-lo-8-1985
+    - norma_id: norm-es-2016-3229
+    - norma_id: norm-es-2021-20113
+    - norma_id: norm-es-2010-12201
 ---
+# Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 ## Preámbulo
-
-# Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
-
-# Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la Educación Primaria.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa, ha modificado el artículo 6 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, para definir el currículo como la regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas. El currículo estará integrado por los objetivos de cada enseñanza y etapa educativa; las competencias, o capacidades para activar y aplicar de forma integrada los contenidos propios de cada enseñanza y etapa educativa, para lograr la realización adecuada de actividades y la resolución eficaz de problemas complejos, los contenidos, o conjuntos de conocimientos, habilidades, destrezas y actitudes que contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias; la metodología didáctica, que comprende tanto la descripción de las prácticas docentes como la organización del trabajo de los docentes; los estándares y resultados de aprendizaje evaluables; y los criterios de evaluación del grado de adquisición de las competencias y del logro de los objetivos de cada enseñanza y etapa educativa. Los contenidos se ordenan en asignaturas, que se clasifican en materias, ámbitos, áreas y módulos en función de las enseñanzas, las etapas educativas o los programas en que participe el alumnado.
 
 Según el nuevo artículo 6 bis de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, corresponde al Gobierno, entre otros, el diseño del currículo básico, en relación con los objetivos, competencias, contenidos, estándares y resultados de aprendizaje evaluables y criterios de evaluación, que garantice el carácter oficial y la validez en todo el territorio nacional de las titulaciones a que se refiere esta Ley Orgánica.
 
-Uno de los pilares centrales de la reforma educativa operada por la Ley Orgánica 8/2013, de 9 de diciembre, descansa sobre una nueva configuración del currículo de Educación Primaria, Educación Secundaria Obligatoria y Bachillerato. En el bloque de asignaturas troncales se garantizan los conocimientos y competencias que permitan adquirir una formación sólida y continuar con aprovechamiento las etapas posteriores en aquellas asignaturas que deben ser comunes a todo el alumnado, y que en todo caso deben ser evaluadas en las evaluaciones finales de etapa. El bloque de asignaturas específicas permite una mayor autonomía a la hora de fijar horarios y contenidos de las asignaturas, así como para conformar su oferta. El bloque de asignaturas de libre configuración autonómica supone el mayor nivel de autonomía, en el que las Administraciones educativas y en su caso los centros pueden ofrecer asignaturas de diseño propio, entre las que se encuentran las ampliaciones de las materias troncales o específicas. Esta distribución no obedece a la importancia o carácter instrumental o fundamental de las asignaturas sino a la distribución de competencias entre el Estado y las Comunidades Autónomas, acorde con la Constitución española.
+Uno de los pilares centrales de la reforma educativa operada por la Ley Orgánica 8/2013, de 9 de diciembre, descansa sobre una nueva configuración del currículo de Educación Primaria, Educación Secundaria Obligatoria y Bachillerato. En el bloque de asignaturas troncales se garantizan los conocimientos y competencias que permitan adquirir una formación sólida y continuar con aprovechamiento las etapas posteriores en aquellas asignaturas que deben ser comunes a todo el alumnado, y que en todo caso deben ser evaluadas en las evaluaciones finales de etapa. El bloque de asignaturas específicas permite una mayor autonomía a la hora de fijar horarios y contenidos de las asignaturas, así como para conformar su oferta. El bloque de asignaturas de libre configuración autonómica supone el mayor nivel de autonomía, en el que las Administraciones educativas y en su caso los centros pueden ofrecer asignaturas de diseño propio, entre las que se encuentran las ampliaciones de las materias troncales o específicas. Esta distribución no obedece a la importancia o carácter instrumental o fundamental de las asignaturas sino a la distribución de competencias entre el Estado y las Comunidades Autónomas, acorde con la Constitución española.
 
 Esta nueva configuración curricular supone un importante incremento en la autonomía de las Administraciones educativas y de los centros, que pueden decidir las opciones y vías en las que se especializan y fijar la oferta de asignaturas de los bloques de asignaturas específicas y de libre configuración autonómica, en el marco de la programación de las enseñanzas que establezca cada Administración educativa. El sistema es más flexible porque permite ajustar la oferta formativa y sus itinerarios a la demanda de las familias y a la proximidad de facultades o escuelas universitarias y otros centros docentes, y favorece la especialización de los centros en función de los itinerarios ofrecidos.
 
@@ -105,19 +100,19 @@ El presente real decreto tiene por objeto establecer el currículo básico de la
 
 1. A efectos de este real decreto, se entenderá por:
 
-a) Currículo: regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas y etapas educativas.
+a) **Currículo.** Regulación de los elementos que determinan los procesos de enseñanza y aprendizaje para cada una de las enseñanzas y etapas educativas.
 
-b) Objetivos: referentes relativos a los logros que el alumno debe alcanzar al finalizar el proceso educativo, como resultado de las experiencias de enseñanza-aprendizaje intencionalmente planificadas a tal fin.
+b) **Objetivos.** Referentes relativos a los logros que el alumno debe alcanzar al finalizar el proceso educativo, como resultado de las experiencias de enseñanza-aprendizaje intencionalmente planificadas a tal fin.
 
-c) Competencias: capacidades para aplicar de forma integrada los contenidos propios de cada enseñanza y etapa educativa, con el fin de lograr la realización adecuada de actividades y la resolución eficaz de problemas complejos.
+c) **Competencias.** Capacidades para aplicar de forma integrada los contenidos propios de cada enseñanza y etapa educativa, con el fin de lograr la realización adecuada de actividades y la resolución eficaz de problemas complejos.
 
-d) Contenidos: conjunto de conocimientos, habilidades, destrezas y actitudes que contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias. Los contenidos se ordenan en asignaturas, que se clasifican en materias, ámbitos, áreas y módulos en función de las enseñanzas, las etapas educativas o los programas en que participe el alumnado.
+d) **Contenidos.** Conjunto de conocimientos, habilidades, destrezas y actitudes que contribuyen al logro de los objetivos de cada enseñanza y etapa educativa y a la adquisición de competencias. Los contenidos se ordenan en asignaturas, que se clasifican en materias, ámbitos, áreas y módulos en función de las enseñanzas, las etapas educativas o los programas en que participe el alumnado.
 
-e) Estándares de aprendizaje evaluables: especificaciones de los criterios de evaluación que permiten definir los resultados de aprendizaje, y que concretan lo que el alumno debe saber, comprender y saber hacer en cada asignatura; deben ser observables, medibles y evaluables y permitir graduar el rendimiento o logro alcanzado. Su diseño debe contribuir y facilitar el diseño de pruebas estandarizadas y comparables.
+e) **Estándares de aprendizaje evaluables.** Especificaciones de los criterios de evaluación que permiten definir los resultados de aprendizaje, y que concretan lo que el alumno debe saber, comprender y saber hacer en cada asignatura; deben ser observables, medibles y evaluables y permitir graduar el rendimiento o logro alcanzado. Su diseño debe contribuir y facilitar el diseño de pruebas estandarizadas y comparables.
 
-f) Criterios de evaluación: son el referente específico para evaluar el aprendizaje del alumnado. Describen aquello que se quiere valorar y que el alumnado debe lograr, tanto en conocimientos como en competencias; responden a lo que se pretende conseguir en cada asignatura.
+f) **Criterios de evaluación.** Son el referente específico para evaluar el aprendizaje del alumnado. Describen aquello que se quiere valorar y que el alumnado debe lograr, tanto en conocimientos como en competencias; responden a lo que se pretende conseguir en cada asignatura.
 
-g) Metodología didáctica: conjunto de estrategias, procedimientos y acciones organizadas y planificadas por el profesorado, de manera consciente y reflexiva, con la finalidad de posibilitar el aprendizaje del alumnado y el logro de los objetivos planteados.
+g) **Metodología didáctica.** Conjunto de estrategias, procedimientos y acciones organizadas y planificadas por el profesorado, de manera consciente y reflexiva, con la finalidad de posibilitar el aprendizaje del alumnado y el logro de los objetivos planteados.
 
 2. A efectos del presente real decreto, las competencias del currículo serán las siguientes:
 
@@ -337,7 +332,7 @@ De resultar desfavorable esta evaluación, el equipo docente deberá adoptar las
 
 Para la evaluación se utilizarán como referentes los criterios de evaluación y estándares de aprendizaje evaluables que figuran en los anexos I y II a este real decreto.
 
-El resultado de la evaluación se expresará en los siguientes niveles: Insuficiente (IN) para las calificaciones negativas, Suficiente (SU), Bien (BI), Notable (NT), o Sobresaliente (SB) para las calificaciones positivas.
+El resultado de la evaluación se expresará en los siguientes niveles: Insuficiente (IN) para las calificaciones negativas, Suficiente (SU), Bien (BI), Notable (NT), o Sobresaliente (SB) para las calificaciones positivas.
 
 El nivel obtenido por cada alumno o alumna se hará constar en un informe, que será entregado a los padres, madres o tutores legales y que tendrá carácter informativo y orientador para los centros en los que los alumnos y alumnas hayan cursado sexto curso de Educación Primaria y para aquellos en los que cursen el siguiente curso escolar, así como para los equipos docentes, los padres, madres o tutores legales y los alumnos y alumnas. El nivel obtenido será indicativo de una progresión y aprendizaje adecuados, o de la conveniencia de la aplicación de programas dirigidos al alumnado con necesidades específicas de apoyo educativo o de otras medidas.
 
@@ -487,7 +482,9 @@ El Ministerio de Educación, Cultura y Deporte, previa consulta a las Comunidade
 
 1. Los Ministerios de Educación, Cultura y Deporte y del Interior, en colaboración con las Administraciones educativas y con la Fundación de Víctimas del Terrorismo, promoverán la divulgación entre el alumnado del testimonio de las víctimas y de su relato de los hechos.
 
-2. Los Ministerios de Educación, Cultura y Deporte y de Justicia, en colaboración con las Administraciones educativas y con organizaciones y entidades interesadas, promoverán la divulgación entre el alumnado de información sobre los riesgos de explotación y abuso sexual, así como sobre los medios para protegerse, en cumplimiento de los dispuesto en el artículo 6 del Convenio del Consejo de Europa para la protección de los niños contra la explotación y el abuso sexual.
+2. Los Ministerios de Educación, Cultura y Deporte y de Justicia, en colaboración con las Administraciones educativas y con organizaciones y entidades interesadas, promoverán la divulgación entre el alumnado de información sobre los riesgos de explotación y abuso sexual, así como sobre los medios para protegerse, en cumplimiento de los dispuesto en el artículo 6 l.
+
+Convenio del Consejo de Europa para la protección de los niños contra la explotación y el abuso sexual.
 
 3. Los Ministerios de Educación, Cultura y Deporte y de Sanidad, Servicios Sociales e Igualdad, en colaboración con las Administraciones educativas y con organizaciones y entidades interesadas, promoverán entre el alumnado actividades de información, campañas de sensibilización, acciones formativas y cuantas otras sean necesarias para la promoción de la igualdad de oportunidades y la no discriminación, en especial entre mujeres y hombres y personas con algún tipo de discapacidad, así como para la prevención de la violencia de género.
 
@@ -519,7 +516,7 @@ El Ministro de Educación, Cultura y Deporte,
 
 JOSÉ IGNACIO WERT ORTEGA
 
-ANEXO I
+## Anexo I
 
 Asignaturas troncales
 
@@ -583,7 +580,7 @@ Realización de proyectos.
 
 2. Establecer conjeturas tanto respecto de sucesos que ocurren de una forma natural como sobre los que ocurren cuando se provocan, a través de un experimento o una experiencia.
 
-3. Comunicar de forma oral y escrita los resultados obtenidos tras la realización de diversas experiencias, presentándolos con apoyos gráficos.
+3. Comunicar de forma oral y escrita los resultados obtenidos tras la realización de diversas experiencias, presentándolos con apoyos gráficos.
 
 4. Trabajar de forma cooperativa, apreciando el cuidado por la seguridad propia y de sus compañeros, cuidando las herramientas y haciendo uso adecuado de los materiales.
 
@@ -645,7 +642,7 @@ La relación con los demás. La toma de decisiones: criterios y consecuencias. L
 
 La igualdad entre hombres y mujeres.
 
-1. Identificar y localizar los principales órganos implicados en la realización de las funciones vitales del cuerpo humano, estableciendo algunas relaciones fundamentales entre ellas y determinados hábitos de salud.
+1. Identificar y localizar los principales órganos implicados en la realización de las funciones vitales del cuerpo humano, estableciendo algunas relaciones fundamentales entre ellas y determinados hábitos de salud.
 
 2. Conocer el funcionamiento del cuerpo humano: células, tejidos, órganos, aparatos, sistemas: su localización, forma, estructura, funciones, cuidados, etc.
 
@@ -2425,7 +2422,7 @@ El currículo básico para la etapa de Educación Primaria se estructura en torn
 
 En la etapa de Educación Primaria deberá tenerse muy en cuenta que se parte de un nivel competencial básico por lo que, tanto en la interacción comunicativa como en la comprensión y producción de textos, resultará esencial remitirse siempre a contextos familiares para el alumnado de esta edad, aprovechando así los conocimientos previamente adquiridos y las capacidades y experiencias que posee. Partiendo de este hecho, se fomentará un uso de la lengua contextualizado, en el marco de situaciones comunicativas propias de ámbitos diversos y que permitan un uso de la lengua real y motivador. El empleo del juego, sobre todo en los primeros años, y la realización de tareas conjuntas, no solo son elementos esenciales para sentar adecuadamente las bases para la adquisición de una lengua, sino que pueden además contribuir a que la materia, lejos de limitarse a ser un mero objeto de estudio, se convierta además en un instrumento de socialización al servicio del grupo. A medida que el alumnado avance en edad podrán introducirse gradualmente explicaciones de carácter más teórico, evolucionando desde un primer procesamiento de carácter esencialmente semántico a un procesamiento sintáctico más avanzado.
 
-Primera Lengua Extranjera
+#### Primera. Lengua Extranjera.
 
 Contenidos
 
@@ -2513,7 +2510,7 @@ Ejecución:
 
 - Reajustar la tarea (emprender una versión más modesta de la tarea) o el mensaje (hacer concesiones en lo que realmente le gustaría expresar), tras valorar las dificultades y los recursos disponibles.
 
-- Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje ‘prefabricado’, etc.).
+- Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje 'prefabricado', etc.).
 
 - Compensar las carencias lingüísticas mediante procedimientos lingüísticos, paralingüísticos o paratextuales:
 
@@ -2563,7 +2560,7 @@ Conocer aspectos socioculturales y sociolingüísticos básicos, concretos y sig
 
 Cumplir la función comunicativa principal del texto (p. e. una felicitación, un intercambio de información, o un ofrecimiento), utilizando un repertorio limitado de sus exponentes más frecuentes y de patrones discursivos básicos (p. e. saludos para inicio y despedida para cierre conversacional, o una narración esquemática desarrollada en puntos).
 
-Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como “y”, “entonces”, “pero”, “porque”), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
+Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como "y", "entonces", "pero", "porque"), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
 
 Conocer y utilizar un repertorio limitado de léxico oral de alta frecuencia relativo a situaciones cotidianas y temas habituales y concretos relacionados con los propios intereses, experiencias y necesidades.
 
@@ -2659,7 +2656,7 @@ Ejecución:
 
 - Reajustar la tarea (emprender una versión más modesta de la tarea) o el mensaje (hacer concesiones en lo que realmente le gustaría expresar), tras valorar las dificultades y los recursos disponibles.
 
-- Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje ‘prefabricado’, etc.).
+- Apoyarse en y sacar el máximo partido de los conocimientos previos (utilizar lenguaje 'prefabricado', etc.).
 
 Aspectos socioculturales y sociolingüísticos: convenciones sociales, normas de cortesía y registros; costumbres, valores, creencias y actitudes; lenguaje no verbal.
 
@@ -2691,7 +2688,7 @@ Conocer aspectos socioculturales y sociolingüísticos básicos concretos y sign
 
 Cumplir la función comunicativa principal del texto escrito (p. e. una felicitación, un intercambio de información, o un ofrecimiento), utilizando un repertorio limitado de sus exponentes más frecuentes y de patrones discursivos básicos (p. e. saludos para inicio y despedida para cierre de una carta, o una narración esquemática desarrollada en puntos).
 
-Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como “y”, “entonces”, “pero”, “porque”), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
+Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como "y", "entonces", "pero", "porque"), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
 
 Conocer y utilizar un repertorio limitado de léxico escrito de alta frecuencia relativo a situaciones cotidianas y temas habituales y concretos relacionados con los propios intereses, experiencias y necesidades.
 
@@ -2755,15 +2752,15 @@ Portugués
 
 - Expresión del aspecto: puntual (phrases simples); durativo (être en train de + Inf.).
 
-- Expresión de la modalidad: factualidad (phrases déclaratives); capacidad (pouvoir, ne pas pouvoir); posibilidad/propabilidad ((ne pas) pouvoir, peut-être); necesidad (avoir besoin de qqch., avoir besoin de + Inf.); obligación /prohibición (on doit/on ne peut pas + Inf.); permiso (est-ce qu’on peut… ?Je peux… ?); intención/deseo (futur proche, verbe vouloir).
+- Expresión de la modalidad: factualidad (phrases déclaratives); capacidad (pouvoir, ne pas pouvoir); posibilidad/propabilidad ((ne pas) pouvoir, peut-être); necesidad (avoir besoin de qqch., avoir besoin de + Inf.); obligación /prohibición (on doit/on ne peut pas + Inf.); permiso (est-ce qu'on peut… ?Je peux… ?); intención/deseo (futur proche, verbe vouloir).
 
-- Expresión de la existencia (presentativos (c’est, ce sont), il y a…); la entidad (articles (un, une, des; le, la, l’, les), noms, pronoms sujets, pronoms toniques, adjectifs démonstratifs; la cualidad ((très +) Adj.); la posesión (c’est à / ce sont à + pron. tóniques)).
+- Expresión de la existencia (presentativos (c'est, ce sont), il y a…); la entidad (articles (un, une, des; le, la, l', les), noms, pronoms sujets, pronoms toniques, adjectifs démonstratifs; la cualidad ((très +) Adj.); la posesión (c'est à / ce sont à + pron. tóniques)).
 
 - Expresión de la cantidad: (singulier/pluriel; numéros cardinaux jusqu´à 100; articles partitifs (du, de la, de l´, des); empleo de « de » en oraciones negativas (ex : je n´ai pas de pain); Adv. de cantidad y medidas: tout(-e), tous, beaucoup, (un) peu de, la moitié de, une bouteille/un verre/une pièce/une assiette de…; le degré: très, beaucoup, trop, assez.
 
 - Expresión del espacio (prépositions et adverbes de lieu, position, distance, mouvement, direction, provenance, destination).
 
-- Expresión del tiempo: puntual (jours de la semaine, en + mois de l’année, au mois de…, en / au + saisons, la date); indicaciones de tiempo (maintenant, après, aujourd´hui, demain, tôt, tard); duración (pendant + expression de temps); anterioridad (avant); posterioridad (après); secuenciación (d´abord, ensuite); simultaneidad (quand); frecuencia (le(s) + jour de la semaine).
+- Expresión del tiempo: puntual (jours de la semaine, en + mois de l'année, au mois de…, en / au + saisons, la date); indicaciones de tiempo (maintenant, après, aujourd´hui, demain, tôt, tard); duración (pendant + expression de temps); anterioridad (avant); posterioridad (après); secuenciación (d´abord, ensuite); simultaneidad (quand); frecuencia (le(s) + jour de la semaine).
 
 - Expresión del modo: adverbes de manière ((très) bien, mal; avec + nom).
 
@@ -2813,13 +2810,13 @@ Portugués
 
 - Expresión de la modalidad: factualidad (frasi dichiarative affermative e negative); capacidad ((non) potere; (non) sapere); posibilidad (presente potere; forse (+ presente e futuro)); necesidad (presente dovere; avere bisogno di + N / Inf.); obligación (presente dovere; imperativo); intención (presente e condizionale semplice di verbi volitivi + N / Inf.; futuro; pensare di +Inf.).
 
-- Expresión de la existencia (c’è; ecco); la entidad (nomi, pronomi, articoli e dimostrativi); la cualidad (molto + agg.; –issimo/a).
+- Expresión de la existencia (c'è; ecco); la entidad (nomi, pronomi, articoli e dimostrativi); la cualidad (molto + agg.; –issimo/a).
 
-- Expresión de la cantidad (numero: singolare/plurale; numerali cardinali fino a quattro cifre e ordinali fino a due cifre. Quantità: tutto, molto, poco, troppo, tanto, un po’(di), nessuno/a, alcuni/e, niente, qualcosa, qualche, più, meno, solo, una tazza/un bicchiere/ una bottiglia/un pezzo di... Grado: poco, molto, troppo).
+- Expresión de la cantidad (numero: singolare/plurale; numerali cardinali fino a quattro cifre e ordinali fino a due cifre. Quantità: tutto, molto, poco, troppo, tanto, un po'(di), nessuno/a, alcuni/e, niente, qualcosa, qualche, più, meno, solo, una tazza/un bicchiere/ una bottiglia/un pezzo di... Grado: poco, molto, troppo).
 
 - Expresión del espacio (preposizioni, avv. ed espressioni che indicano luogo, posizione, distanza, movimento, direzione, origine e disposizione.
 
-- Expresión del tiempo (l’ora (p. es. le tre e mezza); divisione (p. es il lunedi, a febbraio) e collocazione nel tempo (p. es. ora, ieri, domani); durata (p. es. per due giorni); anteriorità (prima); posteriorità (dopo); contemporaneità (quando, durante); sequenza (prima .. poi ... dopo); intermittenza (qualche volta); frequenza (p.es. di solito, mai).
+- Expresión del tiempo (l'ora (p. es. le tre e mezza); divisione (p. es il lunedi, a febbraio) e collocazione nel tempo (p. es. ora, ieri, domani); durata (p. es. per due giorni); anteriorità (prima); posteriorità (dopo); contemporaneità (quando, durante); sequenza (prima .. poi ... dopo); intermittenza (qualche volta); frequenza (p.es. di solito, mai).
 
 - Expresión del modo (avverbi di modo, p.es. lentamente, bene).
 
@@ -2851,7 +2848,7 @@ Portugués
 
 - Expresión del modo (expressões, preposições e locuções prepositivas de modo; bem; mal; assim).
 
-ANEXO II
+## Anexo II
 
 Asignaturas específicas
 
@@ -3063,15 +3060,15 @@ Las situaciones a las que responde una acción motriz, en un proceso de enseñan
 
 Los elementos curriculares de la programación de la asignatura de Educación Física pueden estructurarse en torno a cinco situaciones motrices diferentes:
 
-a) Acciones motrices individuales en entornos estables: suelen basarse en modelos técnicos de ejecución en los que resulta decisiva la capacidad de ajuste para lograr conductas motrices cada vez más eficaces, optimizar la realización, gestionar el riesgo y alcanzar soltura en las acciones. Este tipo de situaciones se suelen presentar en las actividades de desarrollo del esquema corporal, de adquisición de habilidades individuales, la preparación física de forma individual, el atletismo, la natación y la gimnasia en algunos de sus aspectos, entre otros.
+a) **Acciones motrices individuales en entornos estables.** Suelen basarse en modelos técnicos de ejecución en los que resulta decisiva la capacidad de ajuste para lograr conductas motrices cada vez más eficaces, optimizar la realización, gestionar el riesgo y alcanzar soltura en las acciones. Este tipo de situaciones se suelen presentar en las actividades de desarrollo del esquema corporal, de adquisición de habilidades individuales, la preparación física de forma individual, el atletismo, la natación y la gimnasia en algunos de sus aspectos, entre otros.
 
-b) Acciones motrices en situaciones de oposición. En estas situaciones resulta imprescindible la interpretación correcta de las acciones de un oponente, la selección acertada de la acción, la oportunidad del momento de llevarla a cabo, y la ejecución de dicha decisión. La atención, la anticipación y la previsión de las consecuencias de las propias acciones en el marco del objetivo de superar al contrario, son algunas de las facultades implicadas. A estas situaciones corresponden los juegos de uno contra uno, los juegos de lucha, el judo, el bádminton, el tenis, el mini-tenis y el tenis de mesa, entre otros.
+b) **Acciones motrices en situaciones de oposición.** En estas situaciones resulta imprescindible la interpretación correcta de las acciones de un oponente, la selección acertada de la acción, la oportunidad del momento de llevarla a cabo, y la ejecución de dicha decisión. La atención, la anticipación y la previsión de las consecuencias de las propias acciones en el marco del objetivo de superar al contrario, son algunas de las facultades implicadas. A estas situaciones corresponden los juegos de uno contra uno, los juegos de lucha, el judo, el bádminton, el tenis, el mini-tenis y el tenis de mesa, entre otros.
 
-c) Acciones motrices en situaciones de cooperación, con o sin oposición. En estas situaciones se producen relaciones de cooperación y colaboración con otros participantes en entornos estables para conseguir un objetivo, pudiéndose producir que las relaciones de colaboración tengan como objetivo el de superar la oposición de otro grupo. La atención selectiva, la interpretación de las acciones del resto de los participantes, la previsión y anticipación de las propias acciones atendiendo a las estrategias colectivas, el respeto a las normas, la capacidad de estructuración espacio-temporal, la resolución de problemas y el trabajo en grupo, son capacidades que adquieren una dimensión significativa en estas situaciones; además de la presión que pueda suponer el grado de oposición de adversarios en el caso de que la haya. Juegos tradicionales, actividades adaptadas del mundo del circo, como acrobacias o malabares en grupo; deportes como el patinaje por parejas, los relevos en línea, la gimnasia en grupo, y deportes adaptados, juegos en grupo; deportes colectivos como baloncesto, balonmano, béisbol, rugby, fútbol y voleibol, entre otros, son actividades que pertenecen a este grupo.
+c) **Acciones motrices en situaciones de cooperación, con o sin oposición.** En estas situaciones se producen relaciones de cooperación y colaboración con otros participantes en entornos estables para conseguir un objetivo, pudiéndose producir que las relaciones de colaboración tengan como objetivo el de superar la oposición de otro grupo. La atención selectiva, la interpretación de las acciones del resto de los participantes, la previsión y anticipación de las propias acciones atendiendo a las estrategias colectivas, el respeto a las normas, la capacidad de estructuración espacio-temporal, la resolución de problemas y el trabajo en grupo, son capacidades que adquieren una dimensión significativa en estas situaciones; además de la presión que pueda suponer el grado de oposición de adversarios en el caso de que la haya. Juegos tradicionales, actividades adaptadas del mundo del circo, como acrobacias o malabares en grupo; deportes como el patinaje por parejas, los relevos en línea, la gimnasia en grupo, y deportes adaptados, juegos en grupo; deportes colectivos como baloncesto, balonmano, béisbol, rugby, fútbol y voleibol, entre otros, son actividades que pertenecen a este grupo.
 
-d) Acciones motrices en situaciones de adaptación al entorno físico. Lo más significativo en estas acciones es que el medio en el que se realizan las actividades no tiene siempre las mismas características, por lo que genera incertidumbre. En general se trata de desplazamientos con o sin materiales, realizados en el entorno natural o urbano que puede estar más o menos acondicionado, pero que experimentan cambios, por lo que el alumnado necesita organizar y adaptar sus conductas a las variaciones del mismo. Resulta decisiva la interpretación de las condiciones del entorno para situarse, priorizar la seguridad sobre el riesgo y para regular la intensidad de los esfuerzos en función de las posibilidades personales. Estas actividades facilitan la conexión con otras áreas de conocimiento y la profundización en valores relacionados con la conservación del entorno, fundamentalmente del medio natural. Puede tratarse de actividades individuales, grupales, de colaboración o de oposición. Las marchas y excursiones a pie o en bicicleta, las acampadas, las actividades de orientación, los grandes juegos en la naturaleza (de pistas, de aproximación y otros), el esquí, en sus diversas modalidades, o la escalada, forman parte, entre otras, de las actividades de este tipo de situación.
+d) **Acciones motrices en situaciones de adaptación al entorno físico.** Lo más significativo en estas acciones es que el medio en el que se realizan las actividades no tiene siempre las mismas características, por lo que genera incertidumbre. En general se trata de desplazamientos con o sin materiales, realizados en el entorno natural o urbano que puede estar más o menos acondicionado, pero que experimentan cambios, por lo que el alumnado necesita organizar y adaptar sus conductas a las variaciones del mismo. Resulta decisiva la interpretación de las condiciones del entorno para situarse, priorizar la seguridad sobre el riesgo y para regular la intensidad de los esfuerzos en función de las posibilidades personales. Estas actividades facilitan la conexión con otras áreas de conocimiento y la profundización en valores relacionados con la conservación del entorno, fundamentalmente del medio natural. Puede tratarse de actividades individuales, grupales, de colaboración o de oposición. Las marchas y excursiones a pie o en bicicleta, las acampadas, las actividades de orientación, los grandes juegos en la naturaleza (de pistas, de aproximación y otros), el esquí, en sus diversas modalidades, o la escalada, forman parte, entre otras, de las actividades de este tipo de situación.
 
-e) Acciones motrices en situaciones de índole artística o de expresión. En estas situaciones las respuestas motrices requeridas son de carácter estético y comunicativo y pueden ser individuales o en grupo. El uso del espacio, las calidades del movimiento, así como los componentes rítmicos y la movilización de la imaginación y la creatividad en el uso de diferentes registros de expresión (corporal, oral, danzada, musical), son la base de estas acciones. Dentro de estas actividades tenemos los juegos cantados, la expresión corporal, las danzas, el juego dramático y el mimo, entre otros.
+e) **Acciones motrices en situaciones de índole artística o de expresión.** En estas situaciones las respuestas motrices requeridas son de carácter estético y comunicativo y pueden ser individuales o en grupo. El uso del espacio, las calidades del movimiento, así como los componentes rítmicos y la movilización de la imaginación y la creatividad en el uso de diferentes registros de expresión (corporal, oral, danzada, musical), son la base de estas acciones. Dentro de estas actividades tenemos los juegos cantados, la expresión corporal, las danzas, el juego dramático y el mimo, entre otros.
 
 La propuesta curricular de la Educación Física debe permitir organizar y secuenciar los aprendizajes que tiene que desarrollar el alumnado de Educación Física a lo largo de su paso por el sistema educativo, teniendo en cuenta su momento madurativo del alumnado, la lógica interna de las diversas situaciones motrices, y que hay elementos que afectan de manera transversal a todos los bloques como son las capacidades físicas y las coordinativas, los valores sociales e individuales y la educación para la salud.
 
@@ -3217,7 +3214,7 @@ Integrando todos estos aspectos, el currículo básico, al igual que en el caso 
 
 Con respecto a la metodología, se deben aplicar los mismos principios expresados con relación al estudio de la Primera Lengua Extranjera, si bien deberán tenerse en cuenta las diferencias que, a nivel de motivación, están presentes en el proceso de adquisición sucesiva de otras lenguas. Partiendo siempre de la base de que el nivel competencial básico del que se parte es muy elemental, por lo que, tanto en la interacción comunicativa como en la comprensión y producción de textos, resultará esencial remitirse siempre a contextos familiares para el alumnado de esta edad, aprovechando así los conocimientos previamente adquiridos y las capacidades y experiencias que posee. Partiendo de este hecho, se fomentará un uso de la lengua contextualizado, en el marco de situaciones comunicativas propias de ámbitos diversos y que permitan un uso de la lengua real y motivador. El empleo del juego, sobre todo en los primeros años, y la realización de tareas conjuntas, no solo son elementos esenciales para sentar adecuadamente las bases para la adquisición de una lengua, sino que pueden además contribuir a que la materia, lejos de limitarse a ser un mero objeto de estudio, se convierta además en un instrumento de socialización al servicio del grupo. A medida que el alumnado avance en edad podrán introducirse gradualmente explicaciones de carácter más teórico, evolucionando desde un primer procesamiento de carácter esencialmente semántico, a un procesamiento sintáctico más avanzado.
 
-Segunda Lengua Extranjera
+#### Segunda. Lengua Extranjera.
 
 Criterios de evaluación
 
@@ -3257,7 +3254,7 @@ Conocer aspectos socioculturales y sociolingüísticos básicos, concretos y sig
 
 Cumplir la función comunicativa principal del texto (p. e. una felicitación, un intercambio de información, o un ofrecimiento), utilizando un repertorio limitado de sus exponentes más frecuentes y de patrones discursivos básicos (p. e. saludos para inicio y despedida para cierre conversacional, o una narración esquemática desarrollada en puntos).
 
-Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como “y”, “entonces”, “pero”, “porque”), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
+Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como "y", "entonces", "pero", "porque"), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
 
 Conocer y utilizar un repertorio limitado de léxico oral de alta frecuencia relativo a situaciones cotidianas y temas habituales y concretos relacionados con los propios intereses, experiencias y necesidades.
 
@@ -3307,7 +3304,7 @@ Conocer aspectos socioculturales y sociolingüísticos básicos concretos y sign
 
 Cumplir la función comunicativa principal del texto escrito (p. e. una felicitación, un intercambio de información, o un ofrecimiento), utilizando un repertorio limitado de sus exponentes más frecuentes y de patrones discursivos básicos (p. e. saludos para inicio y despedida para cierre de un email, o una narración esquemática desarrollada en puntos).
 
-Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como “y”, “entonces”, “pero”, “porque”), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
+Manejar estructuras sintácticas básicas (p. e. enlazar palabras o grupos de palabras con conectores básicos como "y", "entonces", "pero", "porque"), aunque se sigan cometiendo errores básicos de manera sistemática en, p. e., tiempos verbales o en la concordancia.
 
 Conocer y utilizar un repertorio limitado de léxico escrito de alta frecuencia relativo a situaciones cotidianas y temas habituales y concretos relacionados con los propios intereses, experiencias y necesidades.
 
@@ -3747,11 +3744,10 @@ Bloque 3. La convivencia y los valores sociales
 
 27.4. Explica las principales medidas que se podrían tomar para prevenir accidentes de tráfico.
 
----
-
 ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
+
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
@@ -3764,6 +3760,7 @@ Bloque 3. La convivencia y los valores sociales
 - **Fundamento de**: [**Resolucion BOC 60**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
 
 ### Fundamentos de Derecho
+
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
