@@ -133,8 +133,6 @@ relaciones:
 
 #### Artículo 64. Superación de las fases de oposición y concurso, confección y publicación de las listas de.
 
-aspirantes seleccionados en las fases de oposición y concurso. . . . . . . . . . . . . . . . . . . . . . . . . . .
-
 ### Capítulo V. De la fase de prácticas, de los expedientes de los procedimientos selectivos y nombramiento
 
 #### Disposición adicional única. Titulaciones declaradas equivalentes a efectos de docencia para el ingreso en.

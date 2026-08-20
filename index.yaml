@@ -1,5 +1,5 @@
 version: '1.0'
-total_normas: 535
+total_normas: 542
 normas:
   norm-and-d154-2022:
     id: norm-and-d154-2022
@@ -2838,6 +2838,28 @@ normas:
     - presupuestos-centros
     - profesorado
     path: autonómica/canarias/02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md
+  norm-can-o-2016-05-12:
+    id: norm-can-o-2016-05-12
+    codigo_sintetizado: Orden Consejos Escolares 2016
+    titulo: Orden de 12 de mayo de 2016, por la que se regulan la composición y el
+      procedimiento para la constitución y la renovación de los Consejos Escolares
+      de los centros educativos sostenidos con fondos públicos del ámbito de la Comunidad
+      Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Órganos colegiados y Consejos Escolares
+    tags:
+    - consejos-escolares
+    - organos-colegiados
+    - participacion-comunidad-educativa
+    - gestion-centros
+    - elecciones-consejo
+    path: autonómica/canarias/02_gestion_y_administracion_centros/O12_5_2016_regulan_composicion_procedimiento_constitucion_renovacion_consejos_escolares.md
   norm-can-res-boc-2022-143-23:
     id: norm-can-res-boc-2022-143-23
     codigo_sintetizado: Resolucion BOC 23
@@ -3409,6 +3431,26 @@ normas:
     - roc
     - segundo-ciclo
     path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_establece_ordenacion_curriculo_educacion_infantil_comunidad.md
+  norm-can-o-2022-09-15:
+    id: norm-can-o-2022-09-15
+    codigo_sintetizado: Orden Evaluación EOI 2022
+    titulo: Orden de 15 de septiembre de 2022, por la que se regula la evaluación
+      del alumnado de enseñanzas de idiomas y de las pruebas de certificación de idiomas
+      de régimen especial en la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Enseñanzas de Idiomas y Certificación
+    tags:
+    - escuelas-oficiales-idiomas
+    - evaluacion
+    - certificacion-idiomas
+    - ensenanzas-regimen-especial
+    path: autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O15_9_2022_regula_evaluacion_alumnado_ensenanzas_idiomas_pruebas_certificacion.md
   norm-can-res-027:
     id: norm-can-res-027
     codigo_sintetizado: Resolucion BOC 27
@@ -5539,6 +5581,27 @@ normas:
     - profesorado
     - servicios-complementarios
     path: autonómica/canarias/05_alumnado_y_servicios_escolares/O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md
+  norm-can-o-2007-03-27:
+    id: norm-can-o-2007-03-27
+    codigo_sintetizado: Orden Admisión 2007
+    titulo: Orden de 27 de marzo de 2007, por la que se desarrolla el procedimiento
+      de admisión del alumnado en las enseñanzas no universitarias en los centros
+      docentes públicos y privados concertados de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización
+    tags:
+    - admision-alumnado
+    - escolarizacion
+    - centros-concertados
+    - centros-publicos
+    - criterios-baremacion
+    path: autonómica/canarias/05_alumnado_y_servicios_escolares/O27_3_2007_desarrolla_procedimiento_admision_alumnado_ensenanzas_no_universitarias.md
   norm-can-o-2-8-2006:
     id: norm-can-o-2-8-2006
     codigo_sintetizado: O2_8_2006 Regulacion del Transporte Escolar en Canarias
@@ -6230,6 +6293,28 @@ normas:
     - neae
     - titulacion
     path: autonómica/canarias/06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md
+  norm-can-o-2010-12-13:
+    id: norm-can-o-2010-12-13
+    codigo_sintetizado: Orden NEAE 2010
+    titulo: Orden de 13 de diciembre de 2010, por la que se regula la atención al
+      alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma
+      de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Atención a la diversidad y necesidades específicas (NEAE)
+    tags:
+    - atencion-diversidad
+    - neae
+    - inclusion
+    - adaptaciones-curriculares
+    - orientacion-educativa
+    - evaluacion-psicopedagogica
+    path: autonómica/canarias/06_atencion_diversidad_y_orientacion/O13_12_2010_regula_atencion_alumnado_necesidades_especificas_apoyo_educativo.md
   norm-can-o-1-9-2010:
     id: norm-can-o-1-9-2010
     codigo_sintetizado: O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias
@@ -6466,6 +6551,27 @@ normas:
     - protocolos-de-actuaci-n-y-protecci-n
     - violencia-genero
     path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md
+  norm-can-o-2014-06-27:
+    id: norm-can-o-2014-06-27
+    codigo_sintetizado: Orden Mediación Convivencia 2014
+    titulo: Orden de 27 de junio de 2014, por la que se regula la gestión del conflicto
+      de convivencia por el procedimiento de mediación para gestionar conflictos surgidos
+      en los centros educativos de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia y mediación escolar
+    tags:
+    - convivencia-escolar
+    - mediacion
+    - resolucion-conflictos
+    - clima-escolar
+    - protocolos-convivencia
+    path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/O27_6_2014_regula_gestion_conflicto_convivencia_procedimiento_mediacion_centros_educativos.md
   norm-can-res-125:
     id: norm-can-res-125
     codigo_sintetizado: Resolucion BOC 125
@@ -6519,6 +6625,27 @@ normas:
     - orientaciones-y-gu-as-de-actuaci-n
     - profesorado
     path: autonómica/canarias/07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md
+  norm-can-d-140-1996:
+    id: norm-can-d-140-1996
+    codigo_sintetizado: Decreto Educación Adultos 1996
+    titulo: Decreto 140/1996, de 20 de junio, por el que se regulan las condiciones
+      de impartición de la Educación de Adultos por parte del personal adscrito a
+      la Consejería de Educación, Cultura y Deportes.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 08_personal_docente
+    subcategoria: Jornada y retribuciones docentes
+    tags:
+    - personal-docente
+    - educacion-adultos
+    - jornada-laboral
+    - horas-lectivas
+    - cepa
+    path: autonómica/canarias/08_personal_docente/D140_1996_regula_condiciones_imparticion_educacion_adultos_personal_adscrito.md
   norm-can-d-74-2010:
     id: norm-can-d-74-2010
     codigo_sintetizado: D74_2010 Seleccion de Personal Interino Docente
@@ -6569,6 +6696,29 @@ normas:
     - interinos
     - profesorado
     path: autonómica/canarias/08_personal_docente/D82_1994_regulan_creacion_organizacion_funcionamiento_centros_profesorado.md
+  norm-can-o-2010-05-10:
+    id: norm-can-o-2010-05-10
+    codigo_sintetizado: Orden Provisión Provisional 2010
+    titulo: Orden de 10 de mayo de 2010, por la que se establecen las normas aplicables
+      para la provisión de puestos de trabajo vacantes con carácter provisional, por
+      parte del personal funcionario de carrera, funcionario en prácticas y laboral
+      fijo docente no universitario, en el ámbito de la Comunidad Autónoma de Canarias.
+    jurisdiccion: Canarias
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: pdf_oficial_boc
+    categoria_canonica: 08_personal_docente
+    subcategoria: Provisión de puestos y comisiones de servicios
+    tags:
+    - personal-docente
+    - provision-puestos
+    - comisiones-servicios
+    - cargos-directivos
+    - interinos
+    - funcionarios-carrera
+    path: autonómica/canarias/08_personal_docente/O10_5_2010_normas_aplicables_provision_puestos_trabajo_vacantes_caracter_provisional.md
   norm-can-res-boc-2018-019-130:
     id: norm-can-res-boc-2018-019-130
     codigo_sintetizado: Resolucion BOC 130

@@ -1524,6 +1524,7 @@ La Consejería competente en materia de educación publicará periódicamente la
 2. La organización y el funcionamiento de la Agencia se ajustarán a la presente Ley, a sus estatutos y a las demás disposiciones que le sean de aplicación.
 
 #### Artículo 162. Fines y objetivos de la Agencia Corresponden a la Agencia Andaluza de Evaluación Educativa los siguientes objetivos a) Fomentar la cultura de la evaluación en general y de la autoevaluación en los centros docentes, servicios, programas y actividades que conforman el sistema educativo andaluz.
+
 b) Homologar los criterios y métodos de evaluación del sistema educativo andaluz con los de los organismos similares nacionales y europeos, tendiendo a un funcionamiento coordinado que mejore la calidad y prestación del servicio educativo y favorezca el estudio comparativo del sistema educativo andaluz con los de otras comunidades autónomas o países.
 c) Colaborar en la promoción de la evaluación continua por los centros docentes de su propio funcionamiento, de los programas que desarrollan, de los procesos de enseñanza y aprendizaje que llevan a cabo y de los resultados de su alumnado.
 d) Favorecer la consecución de los objetivos educativos propios de cada centro docente para la mejora del rendimiento escolar y la continuidad del alumnado en el sistema educativo, mediante la evaluación de los mismos.
