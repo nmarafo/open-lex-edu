@@ -79,10 +79,10 @@ b) **Por canal presencial.** Una vez cumplimentado el formulario, indicado en el
 
 - **Fundamentado en**: [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**Resolucion BOC 18**](./O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamentado en**: [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamento de**: [**Resolucion BOC 18**](./O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 
@@ -90,5 +90,5 @@ b) **Por canal presencial.** Una vez cumplimentado el formulario, indicado en el
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- [**Resolucion BOC 18**](./O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- [**Resolucion BOC 18**](./R2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)

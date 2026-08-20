@@ -2245,7 +2245,7 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
 - **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
 - **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](./LO10_2022_garantia_integral_libertad_sexual.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 135**](../../autonómica/canarias/08_personal_docente/R15_2_2024_determina_procedimiento_acceso_listas_empleo_abiertas.md)
 - **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
 - **Fundamento de**: [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)

@@ -170,7 +170,7 @@ CUERPOS Y ESPECIALIDADES CUERPO DE MAESTROS:
 - **Fundamentado en**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 

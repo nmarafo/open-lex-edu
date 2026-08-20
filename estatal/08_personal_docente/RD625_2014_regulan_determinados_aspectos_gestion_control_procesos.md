@@ -479,13 +479,13 @@ FÁTIMA BÁÑEZ GARCÍA
 
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Fundamento de**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
 
 ### Fundamentos de Derecho
 
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)

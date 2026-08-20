@@ -587,7 +587,7 @@ SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN D
 - **Fundamento de**: [**Resolucion BOC 103**](../05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 - **Fundamento de**: [**Resolucion BOC 41**](./R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
 - **Fundamento de**: [**Resolucion BOC 113**](../05_alumnado_y_servicios_escolares/R8_4_2026_corrige_resolucion_dicta_instrucciones_proceso_admision.md)
-- **Fundamento de**: [**Resolucion BOC 26**](./O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](./R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 29**](./R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
 
 ### Fundamentos de Derecho

@@ -535,7 +535,7 @@ MARIANO RAJOY BREY
 - **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
 - **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
 - **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
-- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 1**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
 
 ### Fundamentos de Derecho

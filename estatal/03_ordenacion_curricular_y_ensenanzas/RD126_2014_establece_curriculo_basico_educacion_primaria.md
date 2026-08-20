@@ -3757,7 +3757,7 @@ Bloque 3. La convivencia y los valores sociales
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - **Fundamento de**: [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
 - **Fundamento de**: [**RD157_2022 Ensenanzas Minimas de Educacion Primaria**](./RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md)
-- **Fundamento de**: [**Resolucion BOC 60**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
+- **Fundamento de**: [**Resolucion BOC 60**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R13_5_2015_innovacion_promocion_educativa_universidades_sostenibilidad_establecen.md)
 
 ### Fundamentos de Derecho
 

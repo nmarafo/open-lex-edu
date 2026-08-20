@@ -429,7 +429,7 @@ A N E X O I
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
 - **Fundamento de**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
-- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - **Fundamento de**: [**Resolucion BOC 95**](./R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
 - **Fundamento de**: [**Resolucion BOC 1**](../01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
 - **Fundamento de**: [**Resolucion BOC 126**](../07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)

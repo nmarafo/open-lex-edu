@@ -323,7 +323,7 @@ RESOLUCION - Nº: 127 / 2020 - Tomo: 1 - Libro: 570 - Fecha: 11/06/2020 18:12:14
 - **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 

@@ -5429,8 +5429,8 @@ Santa Cruz de Tenerife, 25 de junio de 2012.–El Presidente del Gobierno, Pauli
 - **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamento de**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
-- **Fundamento de**: [**Resolucion BOC 6**](../../autonómica/canarias/02_gestion_y_administracion_centros/O24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
-- **Fundamento de**: [**Resolucion BOC 2**](../../autonómica/canarias/01_marco_normativo_general_y_organico/O20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 6**](../../autonómica/canarias/02_gestion_y_administracion_centros/R24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
+- **Fundamento de**: [**Resolucion BOC 2**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
 
 ### Fundamentos de Derecho
 

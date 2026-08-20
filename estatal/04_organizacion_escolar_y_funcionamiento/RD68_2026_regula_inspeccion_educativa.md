@@ -698,7 +698,7 @@ c) Competencias personales dirigidas a establecer relaciones constructivas con l
 
 ### Relaciones Directas
 
-- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -722,4 +722,4 @@ c) Competencias personales dirigidas a establecer relaciones constructivas con l
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)

@@ -453,7 +453,7 @@ c) Cualquier certificado que acredite el dominio de las competencias correspondi
 - **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamento de**: [**BOE-A-2011-13117**](./RD1146_2011_modifica_real_decreto_esteblecen_ensenanzas_minimas.md)
 - **Fundamento de**: [**BOE-A-2015-8043**](./RD665_2015_desarrollan_determinadas_disposiciones_relativas_ejercicio_docencia.md)
 
@@ -465,4 +465,4 @@ c) Cualquier certificado que acredite el dominio de las competencias correspondi
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)

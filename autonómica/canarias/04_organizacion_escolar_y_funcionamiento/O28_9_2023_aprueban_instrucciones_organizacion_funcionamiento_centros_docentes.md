@@ -428,7 +428,7 @@ Cuando el certificado no especifique el número de horas lectivas, se computará
 
 Ver anexo en la página 52553 del documento
 
-2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
+2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
 
 Ver anexo en la página 52554 del documento
 
@@ -764,7 +764,7 @@ Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. S
 
 - **Desarrolla**: [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamentado en**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
 - **Fundamentado en**: [**BOE-A-2007-6115**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - **Fundamentado en**: [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
 - **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
@@ -777,13 +777,13 @@ Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. S
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Fundamento de**: [**Resolucion BOC 55**](../03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
 - **Fundamento de**: [**Resolucion BOC 87**](./R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
-- **Modifica**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Modifica**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 
 ### Fundamentos de Derecho
 
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](./D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
 - [**L19_2013 Transparencia y Buen Gobierno**](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

@@ -7549,14 +7549,14 @@ Ingeniero: Químico; Industrial; de Materiales; en Automática y Electrónica In
 - **Fundamentado en**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
 - **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./LO1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
-- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./RD1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 
 ### Fundamentos de Derecho
 
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)

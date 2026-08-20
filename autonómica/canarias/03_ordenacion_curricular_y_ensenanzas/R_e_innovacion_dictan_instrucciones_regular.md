@@ -211,7 +211,7 @@ https://www3.gobiernodecanarias.org/medusa/procedimientos/convocatoria/diplomaib
 1. A la solicitud deberá adjuntarse, cuando proceda, la siguiente documentación:
 a) Certificación idiomática del alumnado, a efectos del criterio de desempate previsto en la instrucción sexta del presente anexo, conforme a la Orden de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la
 
-[Orden de 21 de septiembre de 2016](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
+[Orden de 21 de septiembre de 2016](R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias.
 b) Cualquier otra documentación que, en su caso, se requiera para la correcta tramitación del procedimiento.
 
 2. La DGOEII realizará la comprobación y el contraste de la información consignada en la solicitud, en particular la relativa a la nota media y a los criterios de desempate, con la documentación o datos obrantes en los centros y en los aplicativos de esta Consejería de Educación, Formación Profesional, Actividad Física y Deportes (en adelante, CEFPAFD).
@@ -317,7 +317,7 @@ SOLICITUD DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNAC
 - **Fundamentado en**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
 - **Fundamentado en**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**Resolucion BOC 48**](./O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamentado en**: [**Resolucion BOC 48**](./R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -329,7 +329,7 @@ SOLICITUD DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNAC
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
-- [**Resolucion BOC 48**](./O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- [**Resolucion BOC 48**](./R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
 - [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

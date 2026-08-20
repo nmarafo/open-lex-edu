@@ -899,8 +899,8 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - **Fundamento de**: [**Resolucion BOC 68**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
 - **Fundamento de**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
 - **Fundamento de**: [**Resolucion BOC 121**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
-- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
-- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
 - **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
 
 ### Fundamentos de Derecho

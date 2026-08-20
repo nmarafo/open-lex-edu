@@ -1676,7 +1676,7 @@ FELIPE GONZALEZ MARQUEZ
 - **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](./L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
 - **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Fundamento de**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 
 ### Fundamentos de Derecho
 

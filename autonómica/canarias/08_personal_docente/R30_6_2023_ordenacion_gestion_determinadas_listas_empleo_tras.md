@@ -115,14 +115,14 @@ Código de la Especialidad Nombre de la especialidad Código Ministerio 349 EQUI
 - **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
 - **Fundamento de**: [**Resolucion BOC 31**](../03_ordenacion_curricular_y_ensenanzas/R21_4_2022_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
 - **Fundamento de**: [**Resolucion BOC 44**](../03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
-- **Fundamento de**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - **Fundamento de**: [**Resolucion BOC 47**](../03_ordenacion_curricular_y_ensenanzas/R21_2_2025_dictan_instrucciones_implantacion_itinerarios_formativos_formacion.md)
 - **Fundamento de**: [**Resolucion BOC 107**](../05_alumnado_y_servicios_escolares/R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
 - **Fundamento de**: [**Resolucion BOC 108**](../05_alumnado_y_servicios_escolares/R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 - **Fundamento de**: [**Resolucion BOC 46**](../03_ordenacion_curricular_y_ensenanzas/R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
 - **Fundamento de**: [**Resolucion BOC 102**](../05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
 - **Fundamento de**: [**Resolucion BOC 103**](../05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 29**](../03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
 
 ### Fundamentos de Derecho

@@ -2204,13 +2204,13 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - **Fundamento de**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
 - **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - **Fundamento de**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
 - **Fundamento de**: [**Resolucion BOC 111**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R5_2_2026_dgacesc_convoca_procedimiento_admision_alumnado_centros.md)
 - **Fundamento de**: [**Resolucion BOC 99**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
-- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/R27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 97**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R11_4_2025_escolarizacion_servicios_complementarios_aprueba_instruccion_ayudas.md)
-- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 
 ### Fundamentos de Derecho
 

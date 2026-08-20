@@ -74,7 +74,7 @@ c) Haber superado una oferta formativa de Grado C, incluida en su totalidad en e
 d) Haber superado un curso de formación específico preparatorio (máximo 400 horas) para el acceso a Ciclos de Grado D, nivel 2 (grado medio) y tener diecisiete años, como mínimo.
 e) Haber superado una prueba de acceso a un Ciclo Formativo de Grado Medio (Grado D, nivel 2), la prueba de acceso a Ciclos Formativos de Formación Profesional de Grado Superior (Grado D, nivel 3) y, o la prueba de acceso a la universidad para mayores de 25 años.
 f) Estar en posesión del Título de Bachiller.
-g) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso.
+g) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso.
 h) Estar en posesión de una acreditación de competencias básicas de nivel 3 obtenidas mediante el procedimiento de acreditación del Sistema de Formación Profesional para el acceso a los Ciclos Formativos de Grado Medio". Debe decir:
 "1. El acceso a los Ciclos Formativos de Grado Medio (nivel 2) requiere el cumplimiento de, al menos, una de las siguientes condiciones:
 a) Estar en posesión del Título de Graduado en Educación Secundaria Obligatoria.
@@ -86,7 +86,7 @@ e) Haber superado una prueba de acceso a un Ciclo Formativo de Grado Medio (Grad
 f) Haber superado la prueba de acceso a ciclos formativos de Formación Profesional de Grado Superior (Grado D, nivel 3).
 g) Haber superado la prueba de acceso a la universidad para mayores de 25 años.
 h) Estar en posesión del Título de Bachiller.
-i) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso.
+i) Acreditar algunas de las condiciones establecidas en la disposición adicional sexta del [Real Decreto 659/2023](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por la que se desarrolla la ordenación del Sistema de Formación Profesional del sistema educativo, relativa a otras titulaciones equivalentes a efectos de acceso.
 h) Estar en posesión de una acreditación de competencias básicas de nivel 3 obtenidas mediante el procedimiento de acreditación del Sistema de Formación Profesional para el acceso a los Ciclos Formativos de Grado Medio. En los supuestos de acceso al amparo de las letras c), d) y e) del apartado anterior, se precisará, además, tener diecisiete años, como mínimo, cumplidos en el año de inicio de la formación o de realización de la prueba". Vigésima quinta.- Adjudicación definitiva y matrícula en los Ciclos Formativos de Formación Profesional. Donde dice:
 "3. Una vez finalizado el periodo de matrícula del alumnado admitido en la adjudicación definitiva para los Ciclos Formativos de Grado Medio y Superior, se publicarán en el tablón de anuncios del centro y página web del centro educativo, si la tuviera (Anexo XII), y en la página web de la Consejería competente en materia educativa, las plazas escolares vacantes". Debe decir:
 "Una vez finalizado el periodo de matrícula del alumnado admitido en la adjudicación definitiva para los Ciclos Formativos de Grado Medio y Superior, se publicarán en el tablón de anuncios del centro y página web del centro educativo, si la tuviera (Anexo VII), y en la página web de la Consejería competente en materia educativa, las plazas escolares vacantes".
@@ -100,7 +100,7 @@ Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Ofic
 - **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
 - **Fundamentado en**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - **Fundamentado en**: [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
 - **Fundamentado en**: [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -113,7 +113,7 @@ Segundo.- Ordenar la publicación de la presente Resolución en el Boletín Ofic
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
-- [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 25**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**Resolucion BOC 102**](./R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
 - [**Resolucion BOC 103**](./R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)

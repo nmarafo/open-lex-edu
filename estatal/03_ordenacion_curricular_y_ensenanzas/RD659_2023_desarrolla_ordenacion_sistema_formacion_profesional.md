@@ -832,7 +832,7 @@ Anexo XVI. Modelo convenio de colaboración entre el centro de Formación Prof
 
 Anexo XVIII. Modelo de documento de acreditación de estándares de competencias profesionales obtenidos a través del procedimiento de acreditación de competencias adquiridas a través de la experiencia laboral u otras vías no formales e informales (artículo 187 apartado 1).
 
-La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional ha concretado la necesidad de reinventar el modelo de Formación Profesional para dar respuesta a las necesidades de la ciudadanía, a lo largo de toda su vida laboral, así como a las de la realidad productiva. Se evita así poner en riesgo objetivos fundamentales para el siglo XXI, ya que el fuerte cambio tecnológico y económico al que estamos sometidos exige una adecuada cualificación y flexibilidad del capital humano para adaptarse a las circunstancias cambiantes de la economía y de la tecnología.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional ha concretado la necesidad de reinventar el modelo de Formación Profesional para dar respuesta a las necesidades de la ciudadanía, a lo largo de toda su vida laboral, así como a las de la realidad productiva. Se evita así poner en riesgo objetivos fundamentales para el siglo XXI, ya que el fuerte cambio tecnológico y económico al que estamos sometidos exige una adecuada cualificación y flexibilidad del capital humano para adaptarse a las circunstancias cambiantes de la economía y de la tecnología.
 
 Se ha diseñado un sistema ágil y eficaz, que permitirá a las administraciones facilitar, por una parte, la cualificación y recualificación permanente de las personas, a lo largo de todo su periodo vital y laboral, y, por otra, el ajuste entre la oferta formativa y la demanda de trabajo, uno de los desafíos como país.
 
@@ -6572,7 +6572,7 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 - **Desarrollado por**: [**Resolucion BOC 35**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
 - **Desarrollado por**: [**Resolucion BOC 37**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
 - **Desarrollado por**: [**Resolucion BOC 33**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
-- **Desarrollado por**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrollado por**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - **Fundamentado en**: [**BOE-A-1988-3987**](../02_gestion_y_administracion_centros/RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - **Fundamentado en**: [**BOE-A-1988-6938**](../02_gestion_y_administracion_centros/RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
 - **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
@@ -6599,7 +6599,7 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 - **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
 - **Fundamento de**: [**Resolucion BOC 40**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
 - **Fundamento de**: [**Resolucion BOC 43**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 41**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R26_3_2026_amplian_resolucion_dicta_instrucciones_orientaciones_implantacion.md)
 - **Fundamento de**: [**Resolucion BOC 103**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
 - **Fundamento de**: [**Resolucion BOC 32**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
@@ -6616,8 +6616,8 @@ Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación d
 ### Fundamentos de Derecho
 
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
-- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
-- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
 - [**BOE-A-2000-544**](../01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)

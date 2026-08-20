@@ -118,11 +118,11 @@ Anexo I. Currículo básico del módulo de Proyecto intermodular de aprendizaj
 
 ## Anexo III. Carga horaria del currículo básico.
 
-La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, concreta el compromiso asumido por España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. Pone en el centro de la acción política a la persona y su necesidad de cualificarse y mantenerse actualizada a lo largo de toda su vida.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, concreta el compromiso asumido por España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. Pone en el centro de la acción política a la persona y su necesidad de cualificarse y mantenerse actualizada a lo largo de toda su vida.
 
 Para canalizar todas las expectativas, la ley orgánica requiere ser desarrollada, dando cobertura reglamentaria a la concreción de la flexibilización y accesibilidad del sistema planteadas, para que las administraciones responsables del desarrollo de las políticas en materia de formación profesional y su gestión desde cada comunidad autónoma trabajen conjuntamente, garantizando una oferta suficiente y adecuada de formación profesional, tanto para estudiantes como para personas trabajadoras, en todos y cada uno de los grados previstos en el sistema, permitiendo el establecimiento de itinerarios formativos, que les acompañen, desde antes de acabar su escolaridad obligatoria y a lo largo de su vida laboral, y que concluya en la generalización de una nueva cultura del aprendizaje.
 
-Establecida la ordenación del sistema por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
+Establecida la ordenación del sistema por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, procede realizar los cambios normativos mínimos e imprescindibles para garantizar la transición y adaptación al nuevo sistema de las titulaciones y ofertas formativas reguladas con anterioridad, con plena seguridad jurídica para la ciudadanía y de las administraciones competentes de las comunidades autónomas.
 
 A este objetivo responde la presente norma en la que se establecen los cambios de ordenación necesarios de los títulos de Formación Profesional de grado básico para permitir su oferta en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, se procede a la actualización de la nómina de los módulos profesionales que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad requerida, se adaptan los cuerpos del profesorado tras la publicación del [Real Decreto 800/2022](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md), de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias, y se actualiza el contenido del apartado 2.3 de los anexos de algunos reales decretos.
 
@@ -2360,18 +2360,18 @@ Carga horaria del currículo básico
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - **Fundamento de**: [**Resolucion BOC 27**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
-- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - **Fundamento de**: [**Resolucion BOC 44**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
 
 ### Fundamentos de Derecho
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
-- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2014-5591**](./RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
 - [**BOE-A-2015-9462**](./RD774_2015_establecen_seis_titulos_formacion_profesional_basica.md)
@@ -2383,4 +2383,4 @@ Carga horaria del currículo básico
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
 - [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)

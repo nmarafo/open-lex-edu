@@ -63,7 +63,7 @@ relaciones:
 
 ## Preámbulo
 
-La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, pretende una transformación global del Sistema de Formación Profesional, a través de un sistema único e integrado de formación profesional, con la finalidad de regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
+La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, pretende una transformación global del Sistema de Formación Profesional, a través de un sistema único e integrado de formación profesional, con la finalidad de regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.
 
 La función del Sistema de Formación Profesional es el desarrollo personal y profesional de la persona, la mejora continuada de su cualificación a lo largo de toda la vida y la garantía de la satisfacción de las necesidades formativas del sistema productivo y del empleo.
 
@@ -71,7 +71,7 @@ El artículo 5 de la Ley Orgánica 3/2022, de 31 de marzo, establece que el Sist
 
 El marco jurídico establecido en la Ley Orgánica 3/2022, de 31 de marzo, requiere el correspondiente desarrollo reglamentario para facilitar, de manera predecible, la progresiva adaptación del Sistema de Formación Profesional a las exigencias y las necesidades del país, y a lo establecido en la propia norma, asegurando coherencia entre ellos y sinergias para alcanzar el objetivo de una cualificación profesional permanente de calidad.
 
-En este marco, parte de los objetivos de dicha ley orgánica han sido desarrollados por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, con la salvedad de los aspectos relacionados con los elementos integrantes y los instrumentos de Gestión del Sistema de Formación Profesional desarrollados en este real decreto.
+En este marco, parte de los objetivos de dicha ley orgánica han sido desarrollados por el [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, con la salvedad de los aspectos relacionados con los elementos integrantes y los instrumentos de Gestión del Sistema de Formación Profesional desarrollados en este real decreto.
 
 La Ley Orgánica 3/2022, de 31 de marzo, define en el capítulo II del título I los elementos integrantes del Sistema de Formación Profesional.
 
@@ -811,8 +811,8 @@ Relación entre ofertas formativas
 
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
-- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)

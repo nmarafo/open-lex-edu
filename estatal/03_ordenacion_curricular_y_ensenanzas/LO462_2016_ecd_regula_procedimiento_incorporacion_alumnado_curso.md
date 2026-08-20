@@ -267,12 +267,12 @@ Tecnologías de la Información y la Comunicación I.
 - **Fundamento de**: [**Resolucion BOC 52**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R18_11_2019_dictan_instrucciones_evaluacion_pruebas_certificacion_ensenanzas.md)
 - **Fundamento de**: [**Resolucion BOC 78**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R18_2_2015_dispone_publicacion_reglamento_acceso_universidad_laguna.md)
 - **Fundamento de**: [**Resolucion BOC 126**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
-- **Fundamento de**: [**Resolucion BOC 48**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
-- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 48**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
 - **Fundamento de**: [**Resolucion BOC 82**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
 - **Fundamento de**: [**Resolucion BOC 62**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R14_4_2026_dictan_instrucciones_planificacion_realizacion_gestion_ambito.md)
-- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
-- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/R27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
 - **Fundamento de**: [**Resolucion BOC 49**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
 
 ### Fundamentos de Derecho

@@ -9931,8 +9931,8 @@ Regalos y obsequios de empresa:
 - **Fundamentado en**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
-- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/R27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
 - **Fundamento de**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 
 ### Fundamentos de Derecho

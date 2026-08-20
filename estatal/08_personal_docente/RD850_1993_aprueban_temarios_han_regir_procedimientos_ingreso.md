@@ -147,7 +147,7 @@ Avda. de Manoteras, 54 - 28050 Madrid
 
 ### Relaciones Directas
 
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Fundamento de**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
 - **Fundamento de**: [**BOE-A-1996-3102**](./O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
@@ -156,5 +156,5 @@ Avda. de Manoteras, 54 - 28050 Madrid
 
 ### Fundamentos de Derecho
 
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)

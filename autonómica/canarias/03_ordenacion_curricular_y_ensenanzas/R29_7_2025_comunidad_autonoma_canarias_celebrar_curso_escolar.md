@@ -62,11 +62,11 @@ Segundo.- Entre otras funciones asignadas al Consejo Social de los centros integ
 Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española, se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que "los poderes públicos garantizarán el derecho de todos a la educación mediante una programación general de la enseñanza, con la participación efectiva de todos los sectores afectados"; y en el artículo 27, apartado 7, cuando prevé que "el profesorado, los padres y, en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos por la Administración con fondos públicos, en los términos que la Ley establezca".
 Segundo.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, está dedicado a la participación, la autonomía y el gobierno de los centros; reconociendo que la participación es un valor básico para la formación de ciudadanos autónomos, libres, responsables y comprometidos con los principios y valores de la Constitución y estableciendo que las Administraciones educativas garantizarán la participación activa de la comunidad educativa en las cuestiones relevantes de la organización, el gobierno, el funcionamiento y la evaluación de los centros.
 
-Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, establece para los centros integrados sostenidos con fondos públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano colegiado de un Consejo Social.
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, establece para los centros integrados sostenidos con fondos públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano colegiado de un Consejo Social.
 Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, establece que los miembros de la comunidad educativa tienen derecho a participar en los asuntos escolares y universitarios en los términos establecidos por las leyes.
 Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, reconoce la relevancia de la participación de la comunidad educativa en la vida escolar, por cuanto que entre los principios rectores que regirán el sistema educativo canario está el de facilitar la participación social como elemento de calidad del propio sistema, como se regula en su artículo 3, apartado a).
 Sexto.- El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, en su redacción actual, establece en su artículo 14.1 que "El Consejo Social es el órgano de participación de la sociedad en los centros integrados de formación profesional".
-Séptimo.- El [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, en su redacción actual, especifica en su
+Séptimo.- El [Real Decreto 659/2023](R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, en su redacción actual, especifica en su
 
 #### Artículo 203. que "El.
 
@@ -91,7 +91,7 @@ La presente Resolución tiene por objeto aprobar las instrucciones y el calendar
 
 #### Segunda. Funciones del Consejo Social.
 
-Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, se han visto ampliadas con el desarrollo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, estableciéndose las siguientes:
+Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, se han visto ampliadas con el desarrollo del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, estableciéndose las siguientes:
 
 a) Establecer las directrices para elaborar el proyecto funcional de centro que incluirá lo relativo a ofertas de formación, orientación profesional y acreditación de competencias profesionales, aprobar dicho proyecto, y realizar durante su vigencia las propuestas de mejora del mismo, el cual seguirá el plan de actuación plurianual recogido en el artículo 10, apartado 1, del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, y el artículo 10 l.
 
@@ -117,7 +117,7 @@ El proceso para la elección de las personas representantes de las distintas agr
 
 2. De acuerdo con el artículo 203 l [Real.
 
-Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), el Consejo Social contará con un mínimo de 6 y un máximo de 12 miembros, procurando el principio de presencia equilibrada de mujeres y hombres.
+Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), el Consejo Social contará con un mínimo de 6 y un máximo de 12 miembros, procurando el principio de presencia equilibrada de mujeres y hombres.
 
 3. De acuerdo con el artículo 11 l.
 
@@ -346,8 +346,8 @@ Hasta el 12 de diciembre
 - **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
-- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
-- **Fundamentado en**: [**Resolucion BOC 25**](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
 - **Fundamentado en**: [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - **Fundamentado en**: [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
@@ -363,8 +363,8 @@ Hasta el 12 de diciembre
 - [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
 - [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
-- [**Resolucion BOC 25**](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
-- [**Resolucion BOC 134**](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**Resolucion BOC 25**](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 134**](../08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2005-21534**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md)

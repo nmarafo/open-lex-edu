@@ -540,7 +540,7 @@ Nombre y Apellidos_______________________, DNI ______________ 1 La adaptación c
 - **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - **Fundamentado en**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](./O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
-- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - **Fundamentado en**: [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - **Fundamentado en**: [**BOE-A-2008-979**](../../../estatal/02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
 - **Fundamentado en**: [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
@@ -554,7 +554,7 @@ Nombre y Apellidos_______________________, DNI ______________ 1 La adaptación c
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
-- [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](./O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
